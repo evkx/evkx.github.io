@@ -1,5 +1,5 @@
 ---
-title: Rivian elektriske modeller
+title: Rivian elbilsmodeller
 linktitle: "Rivian"
 description: "Rivian is an electric vehicle maker that was founded in 2009 by RJ Scaringe. Rivian's EV strategy is to focus on producing premium electric trucks and SUVs that can handle off-road adventures and everyday driving. Rivian's first products are the R1T pickup truck and the R1S SUV, which have a range of up to 400 miles and can accelerate from 0 to 60 mph in about 3 seconds. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">

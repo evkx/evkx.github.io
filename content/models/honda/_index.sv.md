@@ -1,5 +1,5 @@
 ---
-title: Honda elektriske modeller
+title: Honda elbilsmodeller
 linktitle: "Honda"
 description: "Honda is a Japanese multinational conglomerate that manufactures automobiles, motorcycles, and power equipment. It is the world's largest motorcycle manufacturer and one of the largest automobile manufacturers. Honda also has a luxury brand called Acura, which it launched in 1986 as the first Japanese luxury brand."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">

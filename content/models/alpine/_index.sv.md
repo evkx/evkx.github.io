@@ -1,5 +1,5 @@
 ---
-title: Alpine elektriske modeller
+title: Alpine elbilsmodeller
 linktitle: "Alpine"
 description: "Alpine är ett franskt sportbilsmärke, grundat 1955 av Jean Rédélé, som ursprungligen specialiserade sig på lätta, smidiga sportbilar. Känd för sin koppling till Renault, blev Alpine berömt på 1960- och 70-talen med sin rallyvinnande A110 Berlinette, firad för sin smidiga hantering och framgång inom motorsport, särskilt i evenemang som Monte Carlo-rallyt."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">

@@ -1,7 +1,7 @@
 ---
 title: Lexus RZ
 linktitle: "RZ"
-description: "Se nedan för alla varianter av Lexus RZ"
+description: "Se nedan för detaljer om de olika varianterna av Lexus RZ"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -19,8 +19,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="rz_300e/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="rz_300e/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="rz_300e/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="rz_300e/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="rz_300e/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="rz_300e/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="rz_300e/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -38,8 +38,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="rz_450e/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="rz_450e/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="rz_450e/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="rz_450e/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="rz_450e/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="rz_450e/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="rz_450e/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>

@@ -1,7 +1,7 @@
 ---
-title: MHERO I laddningskurva och laddningsprestanda
+title: MHERO I laddningskurva och prestanda
 linktitle: "Laddningskurva"
-description: "Nedan visas laddningskurvan för MHERO I, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
+description: "Nedan är laddningskurvan för MHERO I, som visar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -14,7 +14,7 @@ navicon: bi-battery-charging
 
 
 <div class="alert alert-primary" role="alert">
-Laddningskurvan för denna modell är baserad på tillverkarens data och insikter om laddningsprestandan för liknande batteripaket.
+Laddningskurvan för denna modell är härledd från tillverkardata och insikter om laddningsprestanda för liknande batteripaket.
 </div>
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -29,7 +29,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 	<tbody>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 0 - 100 %
+				Genomsnittlig laddningshastighet 0-100%
 			</td>
 			<td>
 				68,5 kW
@@ -37,7 +37,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-100 %
+				Genomsnittlig laddningshastighet 10-100%
 			</td>
 			<td>
 				68,9 kW
@@ -45,7 +45,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-90 %
+				Genomsnittlig laddningshastighet 10-90%
 			</td>
 			<td>
 				88,8 kW
@@ -53,7 +53,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-80 %
+				Genomsnittlig laddningshastighet 10-80%
 			</td>
 			<td>
 				92,3 kW
@@ -61,7 +61,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Maximal C-Rate
+				Max C-värde
 			</td>
 			<td>
 				0,70
@@ -69,7 +69,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig C-Rate
+				Genomsnittlig C-värde
 			</td>
 			<td>
 				0,61
@@ -93,7 +93,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Optimal stopptid för laddning
+				Optimal laddningstid
 			</td>
 			<td>
 				69m11s
@@ -223,10 +223,10 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 </div>
 
 
-Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
+Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../../technology/battery/charging/#temperature)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva baseras också på att laddningen startas vid låg laddningsnivå. Därför kan inkoppling vid en högre nivå påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
 
 
-MHERO I har batteriuppvärmning, vilket underlättar laddning vid en optimal batteritemperatur.
+MHERO I har batteriuppvärmning, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -235,7 +235,7 @@ MHERO I har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Laddningsnivå
 			</th>
 			<th>
 				Hastighet
@@ -244,7 +244,7 @@ MHERO I har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				Tid
 			</th>
 			<th>
-				Energi laddad
+				Laddad energi
 			</th>
 		</tr>
 	</thead>

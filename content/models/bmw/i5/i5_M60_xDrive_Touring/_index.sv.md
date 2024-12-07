@@ -1,7 +1,7 @@
 ---
 title: BMW i5 M60 xDrive Touring
 linktitle: "i5 M60 xDrive Touring"
-description: "BMW i5 M60 xDrive Touring är en helelektrisk premiumkombi med en WLTP räckvidd på upp till 506 km. EVKX.net har alla detaljer."
+description: "BMW i5 M60 xDrive Touring är en helt elektrisk premium-kombi med en WLTP-räckvidd på upp till 506 km (315 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,46 +11,46 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/main_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2001"  >}}
 
-Vi har delat in vår beskrivning av BMW i5 M60 xDrive Touring i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Med överboost når BMW i5 M60 xDrive Touring en maximal effekt på 442 kW (601 hk). Utan överboost ger den en stark effekt på 380 kW (517 hk). Det maximala vridmomentet är 820 Nm. Denna kraftpaket kan accelerera från 0 till 100 km/h på bara 3,8 sekunder och har en topphastighet på 230 km/h, vilket visar dess imponerande prestanda.
+BMW i5 M60 xDrive Touring levererar imponerande prestanda med en maxeffekt på 442 kW (601 hk / 593 bhp) vid överboost. Utan överboost erbjuder den fortfarande en kraftfull 380 kW (517 hk / 510 bhp). Fordonet genererar ett maximalt vridmoment på 820 Nm (605 lb-ft), vilket möjliggör acceleration från 0 till 100 km/h på bara 3,8 sekunder och en toppfart på 230 km/h (143 mph).
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 84,4 kWh och en nettoanvändbar kapacitet på 81,2 kWh, vilket ger en buffert på 3,2 kWh (3,8%) för batteriskydd. Med en nominell spänning på 400 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet med hög kapacitet har en bruttokapacitet på 84,4 kWh och en nettoanvändbar kapacitet på 81,2 kWh, vilket ger en 3,2 kWh buffert (3,8%) för batteriskydd. Med en nominell spänning på 400 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 506 och 445 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 16,0 kWh/100 km för basmodellen och 18,2 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 506 till 445 km (315-277 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 16,0 kWh/100 km för basmodellen och 18,2 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 205 kW. En full laddning från 0 - 100 % tar 57 minuter, medan ett vanligare scenario på 10-80 % tar 33 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 112kW. Varje laddningssession tar 20 minuter och 39 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 205 kW. Laddning från 0% till 100% tar ungefär 57 minuter, medan ett mer typiskt scenario från 10% till 80% tar 33 minuter med en genomsnittlig laddningshastighet på 104 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 46%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 112 kW, där varje laddningssession tar cirka 20 minuter och 39 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 9 timmar och 35 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 45%, med en total laddningstid på 75 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 9 timmar och 35 minuter, med fyra laddningsstopp från 2% till 45%, totalt 75 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 22 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 7 timmar och 22 minuter vid hemmaladdning.
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/charging_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="1686"  >}}
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -58,23 +58,23 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-BMW i5 M60 xDrive Touring har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
+BMW i5 M60 xDrive Touring har ett fyrhjulsdrivet system som drivs av två motorer, en på varje axel. Motorerna som används är [lindade rotor synkronmotorer](../../../../technology/motors/wrsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Fjädringen Adaptive M Suspension har adaptiv dämpning på fram- och bakaxeln och luftfjädring på bakaxeln som automatiskt håller bilen i nivå beroende på lastvikten. Markfrigången med denna fjädring är 136 mm.
+Adaptive M Suspension har adaptiv dämpning på fram- och bakaxel samt luftfjädring på bakaxeln som automatiskt håller bilen nivellerad beroende på lastvikt. Markfrigången med denna fjädring är 136 mm.
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för BMW i5 M60 xDrive Touring. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en valfritt-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
+Dynamisk styrning är standard på BMW i5 M60 xDrive Touring, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort. Dessutom finns fyrhjulsstyrning som ett tillval funktion. Fyrhjulsstyrning minskar vändradien vid låga hastigheter.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 348mm och de bakre skivorna är 345mm.
+BMW i5 M60 xDrive Touring är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak. De främre skivorna mäter 348 mm, medan de bakre skivorna är 345 mm.
 
 ### Regenerativ bromsning
 
-Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektiviteten och körupplevelsen. Det mest effektiva alternativet är [**Automatiskt Regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet seglar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det är nödvändigt. <br /><br/> Ett annat alternativ är läget [**Regen på Gaspedal**](../../../../technology/regen/#one-pedal-driving), där regenerativ bromsning aktiveras när föraren släpper gaspedalen. Detta system tillåter fordonet att sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalskörning**. Du kan välja mellan två stoppmodi för enpedalskörning. **Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar, och **Roll-läge** låter fordonet rulla tills det stannar naturligt.
+Systemet för [regenerativ bromsning](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektivitet och körupplevelse. Det mest effektiva alternativet är [**Automatisk regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet rullar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det behövs. <br /><br/> Ett annat alternativ är [**Regen på gaspedal**](../../../../technology/regen/#one-pedal-driving) läget där regenerativ bromsning aktiveras när föraren lättar på gaspedalen. Detta system gör att fordonet kan sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalkörning**. Du kan välja mellan två stopplägen för enpedalkörning. **Hållläge** bromsar fordonet till fullständigt stopp med friktionsbromsar, och **Rullläge** låter fordonet rulla tills det stannar naturligt.
 
 Den maximala regenerativa effekten är 116 kW.
 
@@ -82,22 +82,22 @@ Den maximala regenerativa effekten är 116 kW.
 
 ## Exteriör
 
-BMW i5 M60 xDrive Touring, med dimensioner på 5060 mm i längd, 1900 mm i bredd och 1505 mm i höjd, tillhör F-segmentet av bilar, även kallat lyxbilar eller fullstora lyxbilar. De representerar toppen av bilens lyx, prestanda och teknologi. De är vanligtvis stora sedaner eller limousiner designade för att erbjuda det bästa inom komfort, prestige och avancerade funktioner. BMW i5 M60 xDrive Touring finns i totalt 12 lackfärger, inklusive både solida och metalliska alternativ.
+BMW i5 M60 xDrive Touring, med måtten 5060 mm i längd, 1900 mm i bredd och 1505 mm i höjd, tillhör F-segmentet, även känt som lyxbilar eller stora lyxbilar. De representerar toppen av bilvärldens lyx, prestanda och teknik. De är vanligtvis stora sedaner eller limousiner designade för maximal komfort, prestige och avancerade funktioner. BMW i5 M60 xDrive Touring finns tillgänglig i totalt 12 lackfärger, inklusive både solida och metallic-alternativ.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på BMW i5 M60 xDrive Touring, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+BMW i5 M60 xDrive Touring erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 245/45 däck på 19" fälgar fram och 275/40 däck på 19" fälgar bak
 - 245/50 däck på 19" fälgar
 - 255/45 däck på 20" fälgar fram och 285/40 däck på 20" fälgar bak
 - 255/40 däck på 21" fälgar fram och 285/35 däck på 21" fälgar bak
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet. 'Soft Close' är valfritt-funktionen för sidodörrarna.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [bagagelucka](../../../../technology/doors/#boot-lid) för bagageutrymmet. Mjukstängning är ett tillval funktion för sidodörrarna.
 
-Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+Det finns två olika takalternativ att välja mellan. Standard är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över större delen från fram till bak. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
+Du kan även beställa bilen med tonade rutor från B-stolpen och bakåt, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/exterior_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="1999"  >}}
 
@@ -107,50 +107,50 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-BMW i5 M60 xDrive Touring har en förarfokuserad interiör som förbättrar cockpitkänslan, med premiummaterial i alla viktiga områden. Dessutom inkluderar den en traditionell mittkonsol som skiljer föraren från passageraren och ger praktisk förvaring och funktionalitet.
+BMW i5 M60 xDrive Touring har en förarcentrerad interiör som förstärker cockpitkänslan, omgiven av premiummaterial i alla viktiga områden. Den har även en traditionell mittkonsol som separerar förare och passagerare och erbjuder praktisk förvaring och funktionalitet.
 
 ### Säten
 
-BMW i5 M60 xDrive Touring rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+BMW i5 M60 xDrive Touring rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
-För första raden erbjuder BMW i5 M60 xDrive Touring två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
+Första raden erbjuder två olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
-Följande funktioner är tillgängliga på **Sport** sätet.
+Följande funktioner finns tillgängliga på **Sport** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
-- höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (valfri)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar som ett alternativ)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
+- Höjdjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (tillval)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar som tillval)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
-Följande funktioner är tillgängliga på **Comfort seats** sätet.
+Följande funktioner finns tillgängliga på **Comfort seats** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
-- höjdjusterbart nackstöd (elektriskt justerbar för förare, manuellt justerbar för passagerare)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- Höjdjusterbart nackstöd (elektriskt justerbar för förare, manuellt justerbar för passagerare)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet) (elektriskt justerbar)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (elektriskt justerbar)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart sidostöd ryggstöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (elektriskt justerbar)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment) (elektriskt justerbar)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/frontseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med 40:20:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttersäten)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/secondrowseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
 
@@ -158,21 +158,21 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 ## Klimatsystem
 
-Två klimatsystemalternativ är tillgängliga:
+Två klimatsystemalternativ finns tillgängliga:
 
-- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-- **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
+- **2-zons klimatsystem:** Stöder olika temperaturer för förare och passagerare.
+- **4-zons klimatsystem:** Stöder olika temperaturer för förare, passagerare och två separata passagerare i baksätet.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-BMW i5 M60 xDrive Touring inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I BMW i5 M60 xDrive Touring ingår flera funktioner för att öka komfort och bekvämlighet:
 
 - **Elektriskt justerbar ratt**
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -180,69 +180,69 @@ BMW i5 M60 xDrive Touring inkluderar flera funktioner för att förbättra komfo
 
 ## Användargränssnitt och kontroll
 
-Kontrollgränssnittet för denna elbilsmodell inkluderar en intuitiv kombination av knappar, spakar och skärmar, vilket ger en smidig och användarvänlig upplevelse.
+Kontrollgränssnittet för BMW i5 M60 xDrive Touring kombinerar knappar, rattspakar och skärmar för en sömlös och användarvänlig upplevelse.
 
-BMW i5 M60 xDrive Touring har två skärmar med information för föraren och passagerarna. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+BMW i5 M60 xDrive Touring har två skärmar med information för förare och passagerare. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och på höger sida finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten på ramens vänstra sida är 12,3 tum
-- Skärmen touch på höger sida av den delade ramen är 14,9 tum
+- -skärmen bakom ratten på vänster sida av ramen är 12,3 tum stor
+- touch-skärmen på höger sida av den delade ramen är 14,9 tum stor
 
-En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+En head-up display är ett tillval system som projicerar hastighet och annan viktig förarinformation på vindrutan.
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/screens_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
 
 ### Ratt
 
-BMW i5 M60 xDrive Touring är utrustad med en enda typ av ratt:
+BMW i5 M60 xDrive Touring är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt har valfri integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt har valfri integrerad uppvärmning för extra komfort under kalla dagar. Den erbjuder också intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
-Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+Denna modell levereras med röststyrning som standard, vilket låter dig hantera olika funktioner genom röstkommandon.
 
-Ett gestkontrollsystem som låter dig styra specifika funktioner med dina händer.
+Ett gestkontrollsystem som låter dig styra specifika funktioner med händerna.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
-BMW i5 M60 xDrive Touring har ett avancerat infotainmentsystem baserat på Android Automotive OS, en plattform från Google specifikt designad för bilens instrumentbräda. För att förbättra detta robusta system har BMW integrerat sin egen svit av applikationer, vilket ger sömlös navigation, omfattande bilinställningar och mycket mer.
+BMW i5 M60 xDrive Touring har ett avancerat infotainmentsystem byggt på Android Automotive OS, en plattform från Google speciellt utformad för fordonsinstrumentpaneler. För att förbättra detta robusta system har BMW integrerat sitt eget utbud av applikationer, vilket ger sömlös navigation, omfattande bilinställningar och mycket mer.
 
 ### Navigationssystem
 
-Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering där du kan definiera önskad laddningsnivå vid din destination eller under laddstopp. Systemet ger realtids trafikinformation som säkerställer en effektiv och stressfri resa.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering, där du kan definiera önskad laddningsnivå vid destination eller under laddningsstopp. Systemet tillhandahåller trafikinformation i realtid för att säkerställa en effektiv och stressfri resa.
 
-### Förinstallerade Appar
+### Förinstallerade appar
 
-Även om infotainmentsystemet inte inkluderar en appbutik, levereras det med ett urval av förinstallerade tredjepartsappar som körs direkt på bilens skärm, oberoende av en ansluten telefon. Tillgängliga appar varierar beroende på marknad, men inkluderar populära alternativ som:
+Även om infotainmentsystemet inte har någon app-butik, levereras det med ett urval av förinstallerade tredjepartsappar som körs direkt på bilens skärm, oberoende av en ansluten telefon. De tillgängliga apparna varierar beroende på marknad men inkluderar populära alternativ som:
 
-- **Spotify:** Strömma miljontals låtar, spellistor och podcaster direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under din körning.
-- **YouTube** Titta på dina favoritvideor, kanaler och spellistor på bilens infotainmentskärm, vilket gör det enkelt att hålla dig underhållen medan du är parkerad.
+- **Spotify:** Strömma miljoner låtar, spellistor och poddar direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under körningen.
+- **YouTube:** Titta på dina favoritvideor, kanaler och spellistor på bilens infotainmentskärm, vilket gör det enkelt att underhållas när bilen står parkerad.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder BMW i5 M60 xDrive Touring Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+BMW i5 M60 xDrive Touring stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-Du kan välja mellan tre ljudsystem på BMW i5 M60 xDrive Touring.
+Du kan välja mellan tre ljudsystem för BMW i5 M60 xDrive Touring:
 
-- Med Hifi Sound system får du sex högtalare med en maximal systemeffekt på 100 watt.
-- Med Harman Kardon Surround Sound system får du 12 högtalare med en maximal systemeffekt på 205 watt.
-- Med Bower & Wilkins Surround System får du 18 högtalare med en maximal systemeffekt på 655 watt.
+- **Hifi Sound system:** Har sex högtalare och levererar en maximal uteffekt på 100 watt.
+- **Harman Kardon Surround Sound system:** Har 12 högtalare och levererar en maximal uteffekt på 205 watt.
+- **Bower & Wilkins Surround System:** Har 18 högtalare och levererar en maximal uteffekt på 655 watt.
 
-Modellen har 6 USB-C-anslutningar som standard.
+Dessutom har modellen 6 USB-C-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt för att släcka små områden framför. För ökad säkerhet inkluderar det hörnljus som lyser upp sidan när du svänger.
+Standardstrålkastarna använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar upp den traditionella strålkastarljusstrålen i dussintals mindre strålar som ljuskontrollern kan tända och släcka individuellt för att släcka små områden framför. För ökad säkerhet inkluderar det kurvljus som lyser upp sidan vid svängar.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/headlights_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="1999"  >}}
 
@@ -250,42 +250,42 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-BMW i5 M60 xDrive Touring inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+BMW i5 M60 xDrive Touring har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på BMW i5 M60 xDrive Touring, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på BMW i5 M60 xDrive Touring, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på BMW i5 M60 xDrive Touring, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på BMW i5 M60 xDrive Touring, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på BMW i5 M60 xDrive Touring, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på BMW i5 M60 xDrive Touring, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valfritt på BMW i5 M60 xDrive Touring, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Tillval på BMW i5 M60 xDrive Touring, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valfritt på BMW i5 M60 xDrive Touring, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+[**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Tillval på BMW i5 M60 xDrive Touring, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på BMW i5 M60 xDrive Touring, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på BMW i5 M60 xDrive Touring, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på BMW i5 M60 xDrive Touring, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på BMW i5 M60 xDrive Touring, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
-[**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valfritt på BMW i5 M60 xDrive Touring, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
+[**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Tillval på BMW i5 M60 xDrive Touring, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valfritt på BMW i5 M60 xDrive Touring, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tillval på BMW i5 M60 xDrive Touring, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på BMW i5 M60 xDrive Touring, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
+[**Utstigningsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på BMW i5 M60 xDrive Touring, detta system varnar passagerare mot att öppna dörrar om det finns risk för kollision.
 
-### Körautomatisering
+### Körautomation
 
-BMW i5 M60 xDrive Touring erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+BMW i5 M60 xDrive Touring erbjuder [körautomation på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med Driving Assistant nivå 1-systemet får du följande funktioner för körautomatisering.
+Med Driving Assistant nivå 1-systemet får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tillval)
 
-Med det valfria Driving Assistant Professional nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+Med det valfria Driving Assistant Professional nivå 2-systemet får du ytterligare körautomationsfunktioner utöver de som anges ovan:
 
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
 ### Sensorer & Kameror
 
@@ -296,29 +296,29 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), s
 
 BMW i5 M60 xDrive Touring är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Med standard nyckelfri start och valfritt nyckelfritt inträde kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 570 liter. Med baksätena nedfällda ökar detta till 1700 liter. På taket kan du lasta upp till 75 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke.
+Bagageutrymmet har en lastkapacitet på 570 liter (20,1 kubikfot). Med baksätet nedfällt ökar detta till 1700 liter (60,0 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs). Takräcken är standard för enkel montering av takbox eller lasthållare.
 
-Fordonets maximala vikt är 2960 kg, med en grundvikt på 2350 kg. Detta tillåter en maximal last på 610 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2960 kg (6526 lbs), med en tjänstevikt på 2350 kg (5181 lbs). Detta möjliggör en maximal last på 610 kg (1345 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2000 kg, medan för en obromsad släpvagn är den 750 kg.
+Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 2000 kg (4409 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/trunk_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2250"  >}}
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 07.02.2024 och leveranserna startade i August 2024.
+BMW i5 M60 xDrive Touring hade sin världspremiär den 07.02.2024, och leveranserna startade August 2024.
 
-## Alternativa Modeller
+## Alternativa modeller
 
-På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till BMW i5 M60 xDrive Touring som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
+På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternativ till BMW i5 M60 xDrive Touring som är värda att överväga baserat på funktioner, specifikationer och prissättning. Även om dessa modeller kanske inte är exakta matchningar, kan en jämförelse hjälpa dig att fatta ett mer välgrundat köpbeslut:
 
 - [Audi S6 Avant e-tron](/models/audi/a6_e-tron/s6_avant_e-tron/)
 - [Porsche Taycan 4S Sport Turismo](/models/porsche/taycan/taycan_4s_sport_turismo/)

@@ -1,7 +1,7 @@
 ---
 title: XPENG G3
 linktitle: "G3"
-description: "Se nedan för alla varianter av XPENG G3"
+description: "Se nedan för detaljer om de olika varianterna av XPENG G3"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -19,8 +19,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="g3i/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="g3i/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="g3i/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="g3i/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="g3i/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="g3i/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="g3i/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>

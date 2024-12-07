@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 Long Range AWD (GEN1)
 linktitle: "Ioniq 5 Long Range AWD GEN1"
-description: "Hyundai Ioniq 5 Long Range AWD (GEN1) är en helelektrisk SUV med en WLTP räckvidd på upp till 481 km. EVKX.net har alla detaljer."
+description: "Hyundai Ioniq 5 Long Range AWD (GEN1) är en helt elektrisk SUV med en WLTP-räckvidd på upp till 481 km (299 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,46 +11,46 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/main_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD (GEN1)" width="3000" height="2001"  >}}
 
-Vi har delat in vår beskrivning av Hyundai Ioniq 5 Long Range AWD (GEN1) i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Hyundai Ioniq 5 Long Range AWD (GEN1) levererar en solid prestanda med en maximal effekt på 239 kW (325 hk) och ett totalt vridmoment på 605 Nm. Den kan accelerera från 0 till 100 km/h på 5,1 sekunder och når en topphastighet på 185 km/h, vilket gör den konkurrenskraftig i sin klass.
+Hyundai Ioniq 5 Long Range AWD (GEN1) levererar en solid prestanda med en maxeffekt på 239 kW (325 hk / 321 bhp) och ett totalt vridmoment på 605 Nm (446 lb-ft). Den accelererar från 0 till 100 km/h på 5,1 sekunder och når en toppfart på 185 km/h (115 mph), vilket gör den konkurrenskraftig inom sin klass.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 77,4 kWh och en nettoanvändbar kapacitet på 74,0 kWh, vilket ger en buffert på 3,4 kWh (4,4%) för batteriskydd. Vid en nominell spänning på 697 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
+Batteriet med hög kapacitet har en bruttokapacitet på 77,4 kWh och en nettoanvändbar kapacitet på 74,0 kWh, vilket ger en 3,4 kWh buffert (4,4%) för batteriskydd. Med en driftspänning på 697 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter.
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 481 och 454 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 15,4 kWh/100 km för basmodellen och 16,3 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 481 till 454 km (299-282 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 15,4 kWh/100 km för basmodellen och 16,3 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 233 kW. En full laddning från 0 - 100 % tar 39 minuter, medan ett vanligare scenario på 10-80 % tar 17 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 76%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 149kW. Varje laddningssession tar 22 minuter och 20 sekunder. Denna effektiva laddningskapacitet gör Hyundai Ioniq 5 Long Range AWD (GEN1) till ett bekvämt alternativ för långdistansresor.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 233 kW. Laddning från 0% till 100% tar ungefär 39 minuter, medan ett mer typiskt scenario från 10% till 80% tar 17 minuter med en genomsnittlig laddningshastighet på 188 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 76%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 149 kW, där varje laddningssession tar cirka 22 minuter och 20 sekunder. Denna effektiva laddningsförmåga gör Hyundai Ioniq 5 Long Range AWD (GEN1) till ett bekvämt alternativ för långdistansresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 24 kWh/100 km, skulle resan ta ungefär 9 timmar och 27 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 76%, med en total laddningstid på 67 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 24 kWh/100 km, skulle resan ta ungefär 9 timmar och 27 minuter, med tre laddningsstopp från 1% till 76%, totalt 67 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 6 timmar och 43 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 6 timmar och 43 minuter vid hemmaladdning.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/charging_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD (GEN1)" width="3000" height="2000"  >}}
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -58,17 +58,17 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-Hyundai Ioniq 5 Long Range AWD (GEN1) har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
+Hyundai Ioniq 5 Long Range AWD (GEN1) har ett fyrhjulsdrivet system som drivs av två motorer, en på varje axel.
 
-### Hjulupphängning
+### Fjädring
 
-Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 178 mm.
+s fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 178 mm.
 
 ### Bromsar
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera.
+[Regenerativ bromsning](../../../../technology/regen/) finns tillgänglig i två lägen. Du kan använda [enpedalkörning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla fritt och använda [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal) för regenerering.
 
 Den maximala regenerativa effekten är 150 kW.
 
@@ -76,20 +76,20 @@ Den maximala regenerativa effekten är 150 kW.
 
 ## Exteriör
 
-Hyundai Ioniq 5 Long Range AWD (GEN1), med dimensioner på 4635 mm i längd, 1890 mm i bredd och 1605 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Hyundai Ioniq 5 Long Range AWD (GEN1) finns i totalt 6 lackfärger, inklusive flera iögonfallande metalliska alternativ.
+Hyundai Ioniq 5 Long Range AWD (GEN1), med måtten 4635 mm i längd, 1890 mm i bredd och 1605 mm i höjd, tillhör kategorin kompakta SUV:ar, även kända som C-SUV:ar. Dessa erbjuder en balans mellan mindre bilars praktiska egenskaper och manövrerbarhet och större SUV:ars utrymme och mångsidighet. Hyundai Ioniq 5 Long Range AWD (GEN1) finns tillgänglig i totalt 6 lackfärger, inklusive flera slående metallic-alternativ.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Hyundai Ioniq 5 Long Range AWD (GEN1), vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Hyundai Ioniq 5 Long Range AWD (GEN1) erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 235/55 däck på 19" fälgar
 - 255/45 däck på 20" fälgar
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [halvkombilucka](../../../../technology/doors/#hatcback-style-liftgate).
 
-Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+Det finns två olika takalternativ att välja mellan. Standard är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över större delen från fram till bak. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
+Du kan även beställa bilen med tonade rutor från B-stolpen och bakåt, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/exterior_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD (GEN1)" width="3000" height="2000"  >}}
 
@@ -99,43 +99,43 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Det finns en sätestyp du kan välja i olika material.
+Det finns en sätestyp som du kan välja i olika material.
 
 ### Säten
 
-Hyundai Ioniq 5 Long Range AWD (GEN1) rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+Hyundai Ioniq 5 Long Range AWD (GEN1) rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
 Hyundai Ioniq 5 Long Range AWD (GEN1) erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner finns tillgängliga på **** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
-- höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, inte tillgänglig för passagerare)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar som ett alternativ)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- Höjdjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, ej tillgänglig för passagerare)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar som tillval)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
 
-Du kan välja mellan 6 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-- Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-- Black [läderklädsel](../../../../technology/seats/materials/#leather)
-- Black/White [läderklädsel](../../../../technology/seats/materials/#leather)
-- Gray [läderklädsel](../../../../technology/seats/materials/#leather)
-- Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
-- Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Black [tyg/konstläderklädsel](../../../../technology/seats/materials/#fabric)
+- Black [skinnklädsel](../../../../technology/seats/materials/#leather)
+- Black/White [skinnklädsel](../../../../technology/seats/materials/#leather)
+- Gray [skinnklädsel](../../../../technology/seats/materials/#leather)
+- Gray [mikrofiber/konstläderklädsel](../../../../technology/seats/materials/#microfiber)
+- Gray [mikrofiber/konstläderklädsel](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/frontseats_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD (GEN1)" width="3000" height="2000"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med 60:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating) (standard för yttersäten)
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/secondrowseats_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD (GEN1)" width="3000" height="2000"  >}}
 
@@ -143,19 +143,19 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
-- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
+- **2-zons klimatsystem:** Stöder olika temperaturer för förare och passagerare.
 
-Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
+Denna modell har [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi som används för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Hyundai Ioniq 5 Long Range AWD (GEN1) inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Hyundai Ioniq 5 Long Range AWD (GEN1) ingår flera funktioner för att öka komfort och bekvämlighet:
 
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -163,26 +163,26 @@ Hyundai Ioniq 5 Long Range AWD (GEN1) inkluderar flera funktioner för att förb
 
 ## Användargränssnitt och kontroll
 
-Hyundai Ioniq 5 Long Range AWD (GEN1) har två skärmar med information för föraren och passagerarna. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+Hyundai Ioniq 5 Long Range AWD (GEN1) har två skärmar med information för förare och passagerare. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och på höger sida finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten på ramens vänstra sida är 12,3 tum
-- Skärmen touch på höger sida av den delade ramen är 12,3 tum
+- -skärmen bakom ratten på vänster sida av ramen är 12,3 tum stor
+- touch-skärmen på höger sida av den delade ramen är 12,3 tum stor
 
-En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+En head-up display är ett tillval system som projicerar hastighet och annan viktig förarinformation på vindrutan.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/screens_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD (GEN1)" width="3000" height="2000"  >}}
 
 ### Ratt
 
-Hyundai Ioniq 5 Long Range AWD (GEN1) är utrustad med en enda typ av ratt:
+Hyundai Ioniq 5 Long Range AWD (GEN1) är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt har valfri integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt har valfri integrerad uppvärmning för extra komfort under kalla dagar. Den erbjuder också intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -190,25 +190,25 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder Hyundai Ioniq 5 Long Range AWD (GEN1) Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Hyundai Ioniq 5 Long Range AWD (GEN1) stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Hyundai Ioniq 5 Long Range AWD (GEN1).
+Hyundai Ioniq 5 Long Range AWD (GEN1) levereras med ett ljudsystemalternativ:
 
 - **Bose Premium Sound System:** Har åtta högtalare.
 
-Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+Dessutom har modellen 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/headlights_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD (GEN1)" width="3000" height="2000"  >}}
 
@@ -216,49 +216,49 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-Hyundai Ioniq 5 Long Range AWD (GEN1) inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Hyundai Ioniq 5 Long Range AWD (GEN1) har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Hyundai Ioniq 5 Long Range AWD (GEN1), detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Hyundai Ioniq 5 Long Range AWD (GEN1), detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Hyundai Ioniq 5 Long Range AWD (GEN1), detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Hyundai Ioniq 5 Long Range AWD (GEN1), detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Hyundai Ioniq 5 Long Range AWD (GEN1), detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Hyundai Ioniq 5 Long Range AWD (GEN1), detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Hyundai Ioniq 5 Long Range AWD (GEN1), detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Hyundai Ioniq 5 Long Range AWD (GEN1), ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Hyundai Ioniq 5 Long Range AWD (GEN1), detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+[**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Hyundai Ioniq 5 Long Range AWD (GEN1), detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Hyundai Ioniq 5 Long Range AWD (GEN1), detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Hyundai Ioniq 5 Long Range AWD (GEN1), detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
 [**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Hyundai Ioniq 5 Long Range AWD (GEN1), detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Hyundai Ioniq 5 Long Range AWD (GEN1), detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Hyundai Ioniq 5 Long Range AWD (GEN1), hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-### Körautomatisering
+### Körautomation
 
-Med standard  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet  nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- [**Automatiskt körfältsbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ## Säkerhets- och åtkomstteknologier
 
-Hyundai Ioniq 5 Long Range AWD (GEN1) är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon och erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
+Hyundai Ioniq 5 Long Range AWD (GEN1) är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon, vilket erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 527 liter. Med baksätena nedfällda ökar detta till 1578 liter. På taket kan du lasta upp till 80 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 24 liter.
+Bagageutrymmet har en lastkapacitet på 527 liter (18,6 kubikfot). Med baksätet nedfällt ökar detta till 1578 liter (55,7 kubikfot). På taket kan du lasta upp till 80 kg (176,4 lbs). Takräcken är standard för enkel montering av takbox eller lasthållare. Dessutom finns det en frunk (främre bagageutrymme) med en lagringskapacitet på 24 liter (0,8 CU FT).
 
-Fordonets maximala vikt är 2560 kg, med en grundvikt på 2045 kg. Detta tillåter en maximal last på 515 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2560 kg (5644 lbs), med en tjänstevikt på 2045 kg (4508 lbs). Detta möjliggör en maximal last på 515 kg (1135 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1600 kg, medan för en obromsad släpvagn är den 750 kg.
+Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 1600 kg (3527 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/trunk_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD (GEN1)" width="3000" height="2000"  >}}
 

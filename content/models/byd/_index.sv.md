@@ -1,5 +1,5 @@
 ---
-title: BYD elektriske modeller
+title: BYD elbilsmodeller
 linktitle: "BYD"
 description: "BYD is a multinational high-tech company dedicated to technological innovations for a better life. BYD operates in four industries, including automotive, electronics, new energy and rail. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -56,7 +56,7 @@ BYD Dolphin är en crossover tillgänglig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Han är en sedan som finns i 1 varianter.
+BYD Han är en sedan tillgänglig i 1 varianter.
 </p>
 	<a href="han/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -86,7 +86,7 @@ BYD Seagull är en halvkombi tillgänglig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Seal är en sedan som finns i 2 varianter.
+BYD Seal är en sedan tillgänglig i 2 varianter.
 </p>
 	<a href="seal/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -116,7 +116,7 @@ BYD Seal U är en SUV tillgänglig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Sealion 7 är en Coupe SUV tillgänglig i 1 varianter.
+BYD Sealion 7 är en coupé-SUV tillgänglig i 1 varianter.
 </p>
 	<a href="sealion_7/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

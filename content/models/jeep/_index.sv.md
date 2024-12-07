@@ -1,5 +1,5 @@
 ---
-title: Jeep elektriske modeller
+title: Jeep elbilsmodeller
 linktitle: "Jeep"
 description: "Jeep is a brand of American automobiles that is known for its off-road and SUV vehicles. Jeep is planning to electrify its entire lineup by 2025 and is expecting 50% of its US sales to be fully electric by 2030."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">

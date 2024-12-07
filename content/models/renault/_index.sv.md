@@ -1,5 +1,5 @@
 ---
-title: Renault elektriske modeller
+title: Renault elbilsmodeller
 linktitle: "Renault"
 description: "Renault is a French car manufacturer that has a strong focus on electric vehicles (EVs). Renault has been a pioneer in the EV market since it launched the first mass-produced electric car, the ZOE, in 2012."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">

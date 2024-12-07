@@ -1,5 +1,5 @@
 ---
-title: Volvo elektriske modeller
+title: Volvo elbilsmodeller
 linktitle: "Volvo"
 description: "Volvo is a Swedish multinational automotive company that produces a range of cars, trucks, buses, and construction equipment. The company was founded in 1927 and has since become known for its commitment to safety, innovation, and sustainability."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -56,7 +56,7 @@ Volvo EC40 är en crossover tillgänglig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volvo EM90 är en premim MPV tillgänglig i 1 varianter.
+Volvo EM90 är en premium MPV tillgänglig i 1 varianter.
 </p>
 	<a href="em90/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

@@ -1,7 +1,7 @@
 ---
 title: Tesla Model X Plaid
 linktitle: "Model X Plaid"
-description: "Tesla Model X Plaid är en helelektrisk SUV med en WLTP räckvidd på upp till 543 km. EVKX.net har alla detaljer."
+description: "Tesla Model X Plaid är en helt elektrisk SUV med en WLTP-räckvidd på upp till 543 km (338 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/main_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2250"  >}}
 
-Vi har delat in vår beskrivning av Tesla Model X Plaid i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Tesla Model X Plaid levererar en häpnadsväckande maximal effekt på 760 KW (1033 hk) och ett massivt vridmoment på 1020 Nm. Denna kraftmaskin kan accelerera från 0 till 100 km/h på bara 2,6 sekunder, vilket visar på dess fantastiska acceleration. Dessutom uppnår den en topphastighet på 262 km/h, vilket gör den till ett verkligt ingenjörsmässigt och prestandamässigt underverk.
+Tesla Model X Plaid levererar en hisnande maxeffekt på 760 KW (1033 hk/1019 bhp) och ett massivt totalt vridmoment på 1020 Nm (753 lb-ft). Denna kraftfulla maskin kan accelerera från 0 till 100 km/h på endast 2,6 sekunder, vilket visar dess häpnadsväckande acceleration. Dessutom når den en toppfart på 262 km/h (163 mph), vilket gör den till ett sant underverk av teknik och prestanda.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 96,0 kWh, vilket ger en buffert på 4,0 kWh (4,0%) för batteriskydd. Med en nominell spänning på 407 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Batteriet med hög kapacitet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 96,0 kWh, vilket ger en 4,0 kWh buffert (4,0%) för batteriskydd. Med en nominell spänning på 407 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden.
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 543 och 528 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 17,7 kWh/100 km för basmodellen och 18,2 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 543 till 528 km (338-328 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 17,7 kWh/100 km för basmodellen och 18,2 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 81 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 47%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 141kW. Varje laddningssession tar 16 minuter och 23 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 250 kW. Laddning från 0% till 100% tar ungefär 81 minuter, medan ett mer typiskt scenario från 10% till 80% tar 31 minuter med en genomsnittlig laddningshastighet på 129 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 7% till 47%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 141 kW, där varje laddningssession tar cirka 16 minuter och 23 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 24,0 kWh/100 km, skulle resan ta ungefär 9 timmar och 22 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 46%, med en total laddningstid på 62 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 24,0 kWh/100 km, skulle resan ta ungefär 9 timmar och 22 minuter, med fyra laddningsstopp från 8% till 46%, totalt 62 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 43 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 8 timmar och 43 minuter vid hemmaladdning.
 
 ### Laddningsport
 
-Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technology/charging/connectors/#rear-corner). Denna plats gör det lätt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**NACS**](../../../../technology/charging/connectors/#nacs) för Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) för Europa. Se fullständiga specifikationer för alla marknader.
+Laddningsporten är bekvämt placerad på [vänster bakhörn](../../../../technology/charging/connectors/#rear-corner) av fordonet, vilket underlättar åtkomst när du backar in i laddstationer. Kontakttyperna varierar mellan olika marknader. Denna modell använder [**NACS**](../../../../technology/charging/connectors/#nacs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,44 +56,44 @@ Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technolo
 
 ## Drivlina
 
-Tesla Model X Plaid har ett fyrhjulsdriftssystem som stöds av tre motorer. En på framaxeln och två på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Tesla Model X Plaid har ett fyrhjulsdrivet system som drivs av tre motorer. En på framaxeln och två på bakaxeln. Motorerna som används är [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 117 mm, och maximal är 158 mm.
+Fjädringen är fullt adaptiv på både fram- och bakaxel, så både höjd och dämpning kan justeras manuellt och automatiskt. Den minsta markfrigången är 117 mm, och den maximala är 158 mm.
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för Tesla Model X Plaid. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+Dynamisk styrning är standard på Tesla Model X Plaid, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 355mm och de bakre skivorna är 355mm.
+Tesla Model X Plaid är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak. De främre skivorna mäter 355 mm, medan de bakre skivorna är 355 mm.
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) i denna modell underlättas främst genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling inte tillgänglig här. Denna modell erbjuder tre stoppmodi för enpedalskörning: <ul><li>**Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar</li><li>**Roll-läge** låter fordonet rulla tills det stannar naturligt</li><li>**Creep-läge** för bilen framåt i låg hastighet</li></ul>
+[Regenerativ bromsning](../../../../technology/regen/) i denna modell sker främst genom [**enpedalkörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive) eller frihjul inte tillgängligt här. Denna modell erbjuder tre stopplägen för enpedalkörning: <ul><li>**Hållläge** bromsar fordonet till fullständigt stopp med friktionsbromsar</li><li>**Rullläge** låter fordonet rulla tills det stannar naturligt</li><li>**Krypläge** får bilen att röra sig framåt i låg hastighet</li></ul>
 
-Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket låter dig anpassa körupplevelsen efter dina preferenser.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Tesla Model X Plaid, med dimensioner på 5057 mm i längd, 1999 mm i bredd och 1680 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Tesla Model X Plaid finns i totalt 5 lackfärger, inklusive både solida och metalliska alternativ.
+Tesla Model X Plaid, med måtten 5057 mm i längd, 1999 mm i bredd och 1680 mm i höjd, tillhör kategorin stora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorierna, vilket gör dem lämpliga för förare med särskilda behov. Tesla Model X Plaid finns tillgänglig i totalt 5 lackfärger, inklusive både solida och metallic-alternativ.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Tesla Model X Plaid, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Tesla Model X Plaid erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 255/45 däck på 19" fälgar fram och 285/40 däck på 19" fälgar bak
 - 265/35 däck på 21" fälgar fram och 295/30 däck på 21" fälgar bak
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Bakluckan är eldriven och har sparksensor som standard.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate). Bakluckan är elektriskt manövrerad och har rörelsesensor som standard.
 
-Det finns bara ett tak för denna modell. Vindrutan är panoramautsikt över första raden. Dessutom finns det takfönster över andra raden.
+Det finns bara ett takalternativ för denna modell. Vindrutan är panoramisk och sträcker sig över första raden. Dessutom finns det takfönster över andra raden.
 
-B-stolpen och vyerna bak är tonade.
+Rutorna från B-stolpen och bakåt är tonade, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/exterior_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2250"  >}}
 
@@ -105,50 +105,50 @@ B-stolpen och vyerna bak är tonade.
 
 ### Säten
 
-Sittlayouten är sju platser med två fram, tre platser på andra raden och två platser på tredje raden.
+Sätesupplägget består av sju säten med två fram, tre säten i andra raden och två säten på tredje raden.
 
-#### Framsäten
+#### Första radens säten
 
 Tesla Model X Plaid erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner finns tillgängliga på **standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- Höjdjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med 60:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/secondrowseats_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
 
-#### Seter på tredje rad
+#### Tredje radens säten
 
-Den tredje raden har en tvåsitsig bänk med en 50:50-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
+Tredje raden har en tvåsätesoffa med 50:50 delning. Du kan även här fälla ner sätena när de inte används för att skapa större lastutrymme.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Tesla Model X Plaid inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Tesla Model X Plaid ingår flera funktioner för att öka komfort och bekvämlighet:
 
 - **Elektriskt justerbar ratt**
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -156,27 +156,27 @@ Tesla Model X Plaid inkluderar flera funktioner för att förbättra komfort och
 
 ## Användargränssnitt och kontroll
 
-Tesla Model X Plaid har dubbla skärmar med förar- och passagerarinformation och en tredje bakre skärm för multimedia.
+Tesla Model X Plaid har två skärmar med information för förare och passagerare samt en tredje skärm bak för multimedia.
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum
-- Skärmen touch i mitten av instrumentbrädan är 17,0 tum
-- Skärmen touch i den bakre mittkonsolen är 8,0 tum
+- -skärmen bakom ratten integrerad i instrumentbrädan är 12,3 tum stor
+- touch-skärmen på instrumentbrädans mitt är 17,0 tum stor
+- touch-skärmen i den bakre mittkonsolen är 8,0 tum stor
 
-Modellen är inte tillgänglig med head-up display.
+Modellen har ingen head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/screens_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
 
 ### Ratt
 
-Tesla Model X Plaid är utrustad med en enda typ av ratt:
+Tesla Model X Plaid är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -184,81 +184,81 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Tesla Model X Plaid.
+Tesla Model X Plaid levereras med ett ljudsystemalternativ:
 
-- Med Tesla Premium Sound får du 22 högtalare med en maximal systemeffekt på 560 watt.
+- **Tesla Premium Sound:** Har 22 högtalare och levererar en maximal uteffekt på 560 watt.
 
-## Ljus
+## Belysning
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
-Tesla Model X Plaid inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Tesla Model X Plaid har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Tesla Model X Plaid, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Tesla Model X Plaid, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Tesla Model X Plaid, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Tesla Model X Plaid, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Tesla Model X Plaid, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Tesla Model X Plaid, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Tesla Model X Plaid, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Tesla Model X Plaid, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Tesla Model X Plaid, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Tesla Model X Plaid, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Tesla Model X Plaid, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Tesla Model X Plaid, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
 [**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Tesla Model X Plaid, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Tesla Model X Plaid, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Tesla Model X Plaid, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-### Körautomatisering
+### Körautomation
 
-Tesla Model X Plaid erbjuder [körautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Tesla Model X Plaid erbjuder [körautomation på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med standard Basic Autopilot nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet Basic Autopilot nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
-Med det valfria Enhanced Autopilot nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+Med det valfria Enhanced Autopilot nivå 2-systemet får du ytterligare körautomationsfunktioner utöver de som anges ovan:
 
-- Avancerad farthållare som följer navigeringen och slår av och på vid större vägar för att nå målet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- Avancerad farthållare som följer navigationen och aktiveras/avaktiveras på större vägar för att nå målet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatiskt körfältsbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Med det valfria Full Self-Driving Capability nivå 3-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+Med det valfria Full Self-Driving Capability nivå 3-systemet får du ytterligare körautomationsfunktioner utöver de som anges ovan:
 
 - Trafikljuskontroll - följer trafikljusen.
-- Stopp-skyltkontroll - följ stopp-skyltar.
+- Stoppskyltskontroll - följer stoppskyltarna.
 
 ## Säkerhets- och åtkomstteknologier
 
 Tesla Model X Plaid är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Med standard nyckelfri start och valfritt nyckelfritt inträde kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 709 liter. Med baksätena nedfällda ökar detta till 1828 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 183 liter.
+Bagageutrymmet har en lastkapacitet på 709 liter (25,0 kubikfot). Med baksätet nedfällt ökar detta till 1828 liter (64,6 kubikfot). Dessutom finns det en frunk (främre bagageutrymme) med en lagringskapacitet på 183 liter (6,5 CU FT).
 
-Fordonets maximala vikt är 2970 kg, med en grundvikt på 2464 kg. Detta tillåter en maximal last på 506 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2970 kg (6548 lbs), med en tjänstevikt på 2464 kg (5432 lbs). Detta möjliggör en maximal last på 506 kg (1116 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok är standardutrustning på denna modell. Den maximala totala vikten på en bromsad släpvagn är 2250, och för en obromsad släpvagn är den 750 kg.
+Dragkrok är standardutrustning på denna modell. Maximal totalvikt för bromsad släpvagn är 2250 kg, och för obromsad släpvagn 750 kg (4960/1653 lbs).
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/trunk_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
 

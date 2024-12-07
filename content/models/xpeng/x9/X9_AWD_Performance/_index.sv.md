@@ -1,7 +1,7 @@
 ---
 title: XPENG X9 AWD Performance
 linktitle: "X9 AWD Performance"
-description: "XPENG X9 AWD Performance är en helelektrisk MPV med en CLTC räckvidd på upp till 640 km. EVKX.net har alla detaljer."
+description: "XPENG X9 AWD Performance är en helt elektrisk MPV med en CLTC-räckvidd på upp till 640 km (398 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/main_1_st.jpg" title="XPENG X9 AWD Performance" width="1920" height="1080"  >}}
 
-Vi har delat in vår beskrivning av XPENG X9 AWD Performance i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-XPENG X9 AWD Performance levererar en solid prestanda med en maximal effekt på 370 kW (503 hk) och ett totalt vridmoment på 640 Nm. Den kan accelerera från 0 till 100 km/h på 5,7 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
+XPENG X9 AWD Performance levererar en solid prestanda med en maxeffekt på 370 kW (503 hk / 496 bhp) och ett totalt vridmoment på 640 Nm (472 lb-ft). Den accelererar från 0 till 100 km/h på 5,7 sekunder och når en toppfart på 200 km/h (124 mph), vilket gör den konkurrenskraftig inom sin klass.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 101,5 kWh och en nettoanvändbar kapacitet på 98,0 kWh, vilket ger en buffert på 3,5 kWh (3,4%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet med hög kapacitet har en bruttokapacitet på 101,5 kWh och en nettoanvändbar kapacitet på 98,0 kWh, vilket ger en 3,5 kWh buffert (3,4%) för batteriskydd. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 640 km (398 miles). Förbrukningen är 15,3kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Fordonets räckvidd enligt [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standarden är 640 km (398 miles). Energiförbrukningen är 15,3 kWh/100 km enligt CLTC standardtestet. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 53 minuter, medan ett vanligare scenario på 10-80 % tar 20 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 169kW. Varje laddningssession tar 18 minuter och 29 sekunder. Denna exceptionellt snabba laddningskapacitet gör XPENG X9 AWD Performance till en av de mest effektiva och bekväma elbilarna för långresor.
+Fordonet stöder snabbladdning med likström med en maximal effekt på  kW. Laddning från 0% till 100% tar ungefär 53 minuter, medan ett mer typiskt scenario från 10% till 80% tar 20 minuter med en genomsnittlig laddningshastighet på 202 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 7% till 60%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 169 kW, där varje laddningssession tar cirka 18 minuter och 29 sekunder. Denna exceptionellt snabba laddningsförmåga gör XPENG X9 AWD Performance till en av de mest effektiva och bekväma elbilarna för långdistansresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 9 timmar och 14 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 59%, med en total laddningstid på 54 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 9 timmar och 14 minuter, med tre laddningsstopp från 7% till 59%, totalt 54 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 54 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 8 timmar och 54 minuter vid hemmaladdning.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,11 +56,11 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-XPENG X9 AWD Performance har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+XPENG X9 AWD Performance har ett fyrhjulsdrivet system som drivs av två motorer, en på varje axel. Motorerna som används är [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 130 mm, och maximal är 220 mm. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
+Fjädringen är fullt adaptiv på både fram- och bakaxel, så både höjd och dämpning kan justeras manuellt och automatiskt. Den minsta markfrigången är 130 mm, och den maximala är 220 mm. Dessutom finns fyrhjulsstyrning som standard funktion. Fyrhjulsstyrning minskar vändradien vid låga hastigheter.
 
 ### Bromsar
 
@@ -70,13 +70,13 @@ Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan
 
 ## Exteriör
 
-Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
+Du kan välja mellan 1 olika lackfärger när du beställer denna modell.
 
-Bilen har två [vanliga dörrar](../../../../technology/doors/) i första raden, [skjutdörrar](../../../../technology/doors/) i andra raden och en baklucka. Elektriska dörrar är standard funktion för sidodörrarna. Bakluckan är elektriskt manövrerad.
+Bilen har två [vanliga dörrar](../../../../technology/doors/) i första raden, [skjutdörrar](../../../../technology/doors/) i andra raden och en baklucka. Elektriskt manövrerade dörrar är standard funktion för sidodörrarna. Bakluckan är elektriskt manövrerad.
 
-Det finns bara ett tak för denna modell.
+Det finns bara ett takalternativ för denna modell.
 
-B-stolpen och vyerna bak är tonade.
+Rutorna från B-stolpen och bakåt är tonade, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/exterior_2_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="2215"  >}}
 
@@ -88,60 +88,60 @@ B-stolpen och vyerna bak är tonade.
 
 ### Säten
 
-Sittlayouten är sju platser med två fram, två platser på andra raden och tre platser på tredje raden.
+Sätesupplägget består av sju säten med två fram, två säten i andra raden och tre säten på tredje raden.
 
-#### Framsäten
+#### Första radens säten
 
 XPENG X9 AWD Performance erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner finns tillgängliga på **** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
-- höjdjusterbart nackstöd
-- längdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- Höjdjusterbart nackstöd
+- Längsjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
-- [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd) (standard för passagerarsäte)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
+- [Fotstöd för passagerare](../../../../technology/seats/adjustment/#footrest) (standard för passagerarsäte)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/frontseats_1_st.png" title="XPENG X9 AWD Performance" width="3000" height="1514"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-För den andra raden har den här modellen två kaptensstolar. Dessutom är följande funktioner tillgängliga.
+För andra raden har denna modell två kaptenstolar. Ytterligare funktioner inkluderar:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 
-#### Seter på tredje rad
+#### Tredje radens säten
 
-Den tredje raden har en tresitsig bänk med en 40:60-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
+Tredje raden har en tresätesoffa med 40:60 delning. Du kan även här fälla ner sätena när de inte används för att skapa större lastutrymme.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-XPENG X9 AWD Performance inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I XPENG X9 AWD Performance ingår flera funktioner för att öka komfort och bekvämlighet:
 
 {{<evkxdisplayaddarticle />}}
 
@@ -149,26 +149,26 @@ XPENG X9 AWD Performance inkluderar flera funktioner för att förbättra komfor
 
 ## Användargränssnitt och kontroll
 
-XPENG X9 AWD Performance har två skärmar med information för föraren och passagerarna. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+XPENG X9 AWD Performance har två skärmar med information för förare och passagerare. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och på höger sida finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten monterad i instrumentbrädan är 10,3 tum
-- Skärmen touch i mitten av instrumentbrädan är 15,0 tum
+- -skärmen bakom ratten monterad i instrumentbrädan är 10,3 tum stor
+- touch-skärmen på instrumentbrädans mitt är 15,0 tum stor
 
-Modellen är inte tillgänglig med head-up display.
+Modellen har ingen head-up display.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/screens_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1586"  >}}
 
 ### Ratt
 
-XPENG X9 AWD Performance är utrustad med en enda typ av ratt:
+XPENG X9 AWD Performance är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt har integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt har integrerad uppvärmning för extra komfort under kalla dagar. Den erbjuder också intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -176,66 +176,66 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för XPENG X9 AWD Performance.
+XPENG X9 AWD Performance levereras med ett ljudsystemalternativ:
 
 - **standard:** Har NULL högtalare.
 
-## Ljus
+## Belysning
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
-XPENG X9 AWD Performance inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+XPENG X9 AWD Performance har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på XPENG X9 AWD Performance, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på XPENG X9 AWD Performance, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på XPENG X9 AWD Performance, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på XPENG X9 AWD Performance, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på XPENG X9 AWD Performance, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på XPENG X9 AWD Performance, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på XPENG X9 AWD Performance, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på XPENG X9 AWD Performance, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på XPENG X9 AWD Performance, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på XPENG X9 AWD Performance, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på XPENG X9 AWD Performance, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på XPENG X9 AWD Performance, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
 [**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på XPENG X9 AWD Performance, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på XPENG X9 AWD Performance, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på XPENG X9 AWD Performance, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på XPENG X9 AWD Performance, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
+[**Utstigningsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på XPENG X9 AWD Performance, detta system varnar passagerare mot att öppna dörrar om det finns risk för kollision.
 
-### Körautomatisering
+### Körautomation
 
-Med standard XPILOT nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet XPILOT nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- Avancerad farthållare som följer navigeringen och slår av och på vid större vägar för att nå målet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- Avancerad farthållare som följer navigationen och aktiveras/avaktiveras på större vägar för att nå målet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatiskt körfältsbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ## Säkerhets- och åtkomstteknologier
 
-XPENG X9 AWD Performance är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon och erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
+XPENG X9 AWD Performance är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon, vilket erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 755 liter. Med tredje raden säten nedfällda ökar detta till 2554 liter.
+Bagageutrymmet har en lastkapacitet på 755 liter (26,7 kubikfot). Med tredje radens säte nedfällt ökar detta till 2554 liter (90,2 kubikfot).
 
-Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
+Denna modell kan inte utrustas med dragkrok. För att dra släp måste du titta på andra modeller.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
-Denna modell är endast tillgänglig i Kina.
+Observera att denna modell endast är tillgänglig i Kina.
 {{< pagenavigation b_url="../" b_title="XPENG X9" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

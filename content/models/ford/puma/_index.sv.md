@@ -1,7 +1,7 @@
 ---
 title: Ford Puma
 linktitle: "Puma"
-description: "Se nedan för alla varianter av Ford Puma"
+description: "Se nedan för detaljer om de olika varianterna av Ford Puma"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -19,8 +19,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="puma_gen-e/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="puma_gen-e/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="puma_gen-e/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="puma_gen-e/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="puma_gen-e/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="puma_gen-e/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="puma_gen-e/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>

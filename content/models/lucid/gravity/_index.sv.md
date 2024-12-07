@@ -1,7 +1,7 @@
 ---
 title: Lucid Gravity
 linktitle: "Gravity"
-description: "Se nedan för alla varianter av Lucid Gravity"
+description: "Se nedan för detaljer om de olika varianterna av Lucid Gravity"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -19,8 +19,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="gravity_dream_edition/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="gravity_dream_edition/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="gravity_dream_edition/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="gravity_dream_edition/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="gravity_dream_edition/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="gravity_dream_edition/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="gravity_dream_edition/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -38,8 +38,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="gravity_grand_touring/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="gravity_grand_touring/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="gravity_grand_touring/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="gravity_grand_touring/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="gravity_grand_touring/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="gravity_grand_touring/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="gravity_grand_touring/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>

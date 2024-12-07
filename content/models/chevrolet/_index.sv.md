@@ -1,5 +1,5 @@
 ---
-title: Chevrolet elektriske modeller
+title: Chevrolet elbilsmodeller
 linktitle: "Chevrolet"
 description: "Chevrolet is one of the leading automakers in the electric vehicle (EV) market, with a vision to create a world with zero crashes, zero emissions, and zero congestion. The company is committed to providing EVs for everyone, from compact cars to full-size trucks, with a range of models that suit different needs and preferences."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">

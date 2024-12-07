@@ -1,5 +1,5 @@
 ---
-title: Porsche elektriske modeller
+title: Porsche elbilsmodeller
 linktitle: "Porsche"
 description: "Porsche, känt för sitt arv av prestanda och lyx, har sömlöst övergått till den elektriska eran. Genom att kombinera banbrytande teknik med ikonisk design levererar Porsches elmodeller, som Taycan, spännande hastighet, precis hantering och hållbar innovation, och sätter nya standarder för elektriska sportbilar."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Porsche Macan är en premium Coupe SUV tillgänglig i 4 varianter.
+Porsche Macan är en premium coupé-SUV tillgänglig i 4 varianter.
 </p>
 	<a href="macan/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -41,7 +41,7 @@ Porsche Macan är en premium Coupe SUV tillgänglig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Porsche Taycan är en lyxig sedan/kombi som finns i 28 varianter.
+Porsche Taycan är en lyxig sedan/kombi tillgänglig i 28 varianter.
 </p>
 	<a href="taycan/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -52,7 +52,7 @@ Porsche Taycan är en lyxig sedan/kombi som finns i 28 varianter.
 </div><div class="accordion-item">
     <h2 class="accordion-header">
         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
-            Om varumärket
+            Om märket
         </button>
     </h2>
     <div id="module-company" class="accordion-collapse collapse">

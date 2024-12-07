@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 e-tron
 linktitle: "Q4 e-tron"
-description: "Se nedan för alla varianter av Audi Q4 e-tron"
+description: "Se nedan för detaljer om de olika varianterna av Audi Q4 e-tron"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -19,8 +19,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="q4_35_e-tron/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_35_e-tron/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_35_e-tron/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_35_e-tron/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_35_e-tron/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_35_e-tron/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_35_e-tron/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -38,8 +38,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron_quattro/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron_quattro/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron_quattro/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron_quattro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron_quattro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron_quattro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron_quattro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -57,8 +57,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -76,8 +76,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="q4_55_e-tron_quattro/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_55_e-tron_quattro/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_55_e-tron_quattro/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_55_e-tron_quattro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_55_e-tron_quattro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_55_e-tron_quattro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_55_e-tron_quattro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -95,8 +95,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron_quattro/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron_quattro/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron_quattro/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron_quattro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron_quattro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron_quattro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron_quattro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -114,8 +114,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -133,8 +133,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_55_e-tron_quattro/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_55_e-tron_quattro/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_55_e-tron_quattro/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_sportback_55_e-tron_quattro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_sportback_55_e-tron_quattro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_sportback_55_e-tron_quattro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_sportback_55_e-tron_quattro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -154,8 +154,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="q4_35_e-tron_gen1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_35_e-tron_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_35_e-tron_gen1/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_35_e-tron_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_35_e-tron_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_35_e-tron_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_35_e-tron_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -173,8 +173,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="q4_40_e-tron/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_40_e-tron/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_40_e-tron/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_40_e-tron/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_40_e-tron/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_40_e-tron/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_40_e-tron/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -192,8 +192,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron_quattro_gen1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron_quattro_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron_quattro_gen1/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron_quattro_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron_quattro_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron_quattro_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_45_e-tron_quattro_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -211,8 +211,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="q4_50_e-tron_quattro/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_50_e-tron_quattro/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_50_e-tron_quattro/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_50_e-tron_quattro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_50_e-tron_quattro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_50_e-tron_quattro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_50_e-tron_quattro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -230,8 +230,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_35_e-tron/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_35_e-tron/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_35_e-tron/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_sportback_35_e-tron/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_sportback_35_e-tron/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_sportback_35_e-tron/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_sportback_35_e-tron/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -249,8 +249,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_40_e-tron/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_40_e-tron/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_40_e-tron/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_sportback_40_e-tron/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_sportback_40_e-tron/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_sportback_40_e-tron/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_sportback_40_e-tron/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -268,8 +268,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron_quattro_gen1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron_quattro_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron_quattro_gen1/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron_quattro_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron_quattro_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron_quattro_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_sportback_45_e-tron_quattro_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>
@@ -287,8 +287,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_50_e-tron_quattro/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Räckvidd</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_50_e-tron_quattro/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Laddningskurva</a></li>
 				<li class="list-group-item list-group-item-action"><a href="q4_sportback_50_e-tron_quattro/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_sportback_50_e-tron_quattro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="q4_sportback_50_e-tron_quattro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_sportback_50_e-tron_quattro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildgalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q4_sportback_50_e-tron_quattro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Recensioner</a></li>
 			</ul>
 		</div>
 	</div>

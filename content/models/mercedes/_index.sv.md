@@ -1,5 +1,5 @@
 ---
-title: Mercedes elektriske modeller
+title: Mercedes elbilsmodeller
 linktitle: "Mercedes"
 description: "Mercedes-Benz,commonly referred to as Mercedes and sometimes as Benz, is a German luxury and commercial vehicle automotive brand established in 1926. By 2022, Mercedes-Benz will have battery electric vehicles (BEV) in all segments the company serves. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -41,7 +41,7 @@ Mercedes EQA är en premium crossover tillgänglig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mercedes EQB är en premium-SUV tillgänglig i 3 varianter.
+Mercedes EQB är en premium SUV tillgänglig i 3 varianter.
 </p>
 	<a href="eqb/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -56,7 +56,7 @@ Mercedes EQB är en premium-SUV tillgänglig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mercedes EQC är en lyx-SUV tillgänglig i 1 varianter.
+Mercedes EQC är en lyxig SUV tillgänglig i 1 varianter.
 </p>
 	<a href="eqc/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -86,7 +86,7 @@ Mercedes EQE är en lyxsedan tillgänglig i 6 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mercedes EQE SUV är en lyx-SUV tillgänglig i 5 varianter.
+Mercedes EQE SUV är en lyxig SUV tillgänglig i 5 varianter.
 </p>
 	<a href="eqe_suv/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -116,7 +116,7 @@ Mercedes EQS är en lyxsedan tillgänglig i 6 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mercedes EQS SUV är en lyx-SUV tillgänglig i 6 varianter.
+Mercedes EQS SUV är en lyxig SUV tillgänglig i 6 varianter.
 </p>
 	<a href="eqs_suv/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -131,7 +131,7 @@ Mercedes EQS SUV är en lyx-SUV tillgänglig i 6 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mercedes G är en lyx-SUV tillgänglig i 1 varianter.
+Mercedes G är en lyxig SUV tillgänglig i 1 varianter.
 </p>
 	<a href="g/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

@@ -1,7 +1,7 @@
 ---
 title: MG MG5 Electric Long Range
 linktitle: "MG5 Electric Long Range"
-description: "MG MG5 Electric Long Range är en helelektrisk kombi med en WLTP räckvidd på upp till 400 km. EVKX.net har alla detaljer."
+description: "MG MG5 Electric Long Range är en helt elektrisk kombi med en WLTP-räckvidd på upp till 400 km (249 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,46 +11,46 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" title="MG MG5 Electric Long Range" width="2560" height="1639"  >}}
 
-Vi har delat in vår beskrivning av MG MG5 Electric Long Range i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-MG MG5 Electric Long Range erbjuder blygsamma prestanda med en maximal effekt på 115 kW (156 hk) och ett totalt vridmoment på 280 Nm. Den accelererar från 0 till 100 km/h på 8,3 sekunder och har en topphastighet på 185 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
+MG MG5 Electric Long Range erbjuder modest prestanda med en maxeffekt på 115 kW (156 hk / 154 bhp) och ett totalt vridmoment på 280 Nm (207 lb-ft). Den accelererar från 0 till 100 km/h på 8,3 sekunder och har en toppfart på 185 km/h (115 mph), vilket ligger mer i linje med traditionella fordon med förbränningsmotor.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 61,1 kWh och en nettoanvändbar kapacitet på 57,4 kWh, vilket ger en buffert på 3,7 kWh (6,1%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet med hög kapacitet har en bruttokapacitet på 61,1 kWh och en nettoanvändbar kapacitet på 57,4 kWh, vilket ger en 3,7 kWh buffert (6,1%) för batteriskydd. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 400 och 380 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,4 kWh/100 km för basmodellen och 15,1 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 400 till 380 km (249-236 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 14,4 kWh/100 km för basmodellen och 15,1 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 87 kW. En full laddning från 0 - 100 % tar 77 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 58%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 66kW. Varje laddningssession tar 26 minuter och 16 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 87 kW. Laddning från 0% till 100% tar ungefär 77 minuter, medan ett mer typiskt scenario från 10% till 80% tar 34 minuter med en genomsnittlig laddningshastighet på 72 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 8% till 58%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 66 kW, där varje laddningssession tar cirka 26 minuter och 16 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 11 timmar och 0 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 52%, med en total laddningstid på 160 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 11 timmar och 0 minuter, med sju laddningsstopp från 9% till 52%, totalt 160 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 5 timmar och 13 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 5 timmar och 13 minuter vid hemmaladdning.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/charging_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2001"  >}}
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [fronten](../../../../technology/charging/connectors/#front). Denna plats gör det lättanvända laddstationer där du måste parkera med fronten in. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [fronten](../../../../technology/charging/connectors/#front). Detta gör det enkelt att använda laddstationer där du behöver parkera med fronten först. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -58,29 +58,29 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 
 ## Drivlina
 
-MG MG5 Electric Long Range har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+MG MG5 Electric Long Range har ett framhjulsdrivet system med en motor på framaxeln. Motorn som används är en [permanent magnet synkronmotor](../../../../technology/motors/pmsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 115 mm.
+Framhjulsupphängningen är av typen [MacPherson](../../../../technology/suspension/#macpherson-strut), och bakhjulsupphängningen är [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. s fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 115 mm.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
+MG MG5 Electric Long Range är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak.
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera.
+[Regenerativ bromsning](../../../../technology/regen/) finns tillgänglig i två lägen. Du kan använda [enpedalkörning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla fritt och använda [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal) för regenerering.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-MG MG5 Electric Long Range, med dimensioner på 4600 mm i längd, 1818 mm i bredd och 1543 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. MG MG5 Electric Long Range finns i totalt 4 lackfärger, inklusive flera iögonfallande metalliska alternativ.
+MG MG5 Electric Long Range, med måtten 4600 mm i längd, 1818 mm i bredd och 1543 mm i höjd, tillhör D-segmentet, även känt som mellanklassen eller familjebilar. De erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för många olika förare. MG MG5 Electric Long Range finns tillgänglig i totalt 4 lackfärger, inklusive flera slående metallic-alternativ.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på MG MG5 Electric Long Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+MG MG5 Electric Long Range erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
-Det finns bara ett tak för denna modell.
+Det finns bara ett takalternativ för denna modell.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/exterior_1_st.jpg" title="MG MG5 Electric Long Range" width="2560" height="1707"  >}}
 
@@ -90,33 +90,33 @@ Det finns bara ett tak för denna modell.
 
 ## Interiör
 
-Det finns en sätestyp du kan välja i olika material.
+Det finns en sätestyp som du kan välja i olika material.
 
 ### Säten
 
-MG MG5 Electric Long Range rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+MG MG5 Electric Long Range rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
 MG MG5 Electric Long Range erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner finns tillgängliga på **standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
-- Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Gray [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/frontseats_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2005"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med  delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/secondrowseats_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2004"  >}}
 
@@ -124,19 +124,19 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
-- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
+- **1-zons klimatsystem:** Stöder endast en gemensam klimatzon för hela bilen.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-MG MG5 Electric Long Range inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I MG MG5 Electric Long Range ingår flera funktioner för att öka komfort och bekvämlighet:
 
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -144,28 +144,28 @@ MG MG5 Electric Long Range inkluderar flera funktioner för att förbättra komf
 
 ## Användargränssnitt och kontroll
 
-MG MG5 Electric Long Range har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+MG MG5 Electric Long Range har flera integrerade skärmar. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) högst upp.
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten integrerad i instrumentbrädan är 7,0 tum
-- Skärmen touch översta mittkonsolen är 10,3 tum
+- -skärmen bakom ratten integrerad i instrumentbrädan är 7,0 tum stor
+- touch-skärmen högst upp i mittkonsolen är 10,3 tum stor
 
-Modellen är inte tillgänglig med head-up display.
+Modellen har ingen head-up display.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/screens_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2002"  >}}
 
 ### Ratt
 
-MG MG5 Electric Long Range är utrustad med en enda typ av ratt:
+MG MG5 Electric Long Range är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
-Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+Denna modell levereras med röststyrning som standard, vilket låter dig hantera olika funktioner genom röstkommandon.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -173,58 +173,58 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder MG MG5 Electric Long Range Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+MG MG5 Electric Long Range stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för MG MG5 Electric Long Range.
+MG MG5 Electric Long Range levereras med ett ljudsystemalternativ:
 
 - **standard:** Har sex högtalare.
 
-Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
+Dessutom har modellen 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
-MG MG5 Electric Long Range inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+MG MG5 Electric Long Range har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på MG MG5 Electric Long Range, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på MG MG5 Electric Long Range, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-### Körautomatisering
+### Körautomation
 
-Med standard  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet  nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
 ## Säkerhets- och åtkomstteknologier
 
-MG MG5 Electric Long Range är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon och erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
+MG MG5 Electric Long Range är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon, vilket erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 479 liter. Med baksätena nedfällda ökar detta till 1367 liter. På taket kan du lasta upp till 75 kg.
+Bagageutrymmet har en lastkapacitet på 479 liter (16,9 kubikfot). Med baksätet nedfällt ökar detta till 1367 liter (48,3 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs).
 
-Fordonets maximala vikt är 2017 kg, med en grundvikt på 1562 kg. Detta tillåter en maximal last på 455 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2017 kg (4447 lbs), med en tjänstevikt på 1562 kg (3444 lbs). Detta möjliggör en maximal last på 455 kg (1003 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 500 kg, medan för en obromsad släpvagn är den 500 kg.
+Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 500 kg (1102 lbs), medan för obromsad släpvagn är det 500 kg (1102 lbs).
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/trunk_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="1996"  >}}
 

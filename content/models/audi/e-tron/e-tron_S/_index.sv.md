@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron S
 linktitle: "e-tron S"
-description: "Audi e-tron S är en helt elektrisk lyxsuv med en WLTP räckvidd på upp till 374 km. EVKX.net har alla detaljer."
+description: "Audi e-tron S är en helt elektrisk lyx-SUV med en WLTP-räckvidd på upp till 374 km (232 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,18 +11,18 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/main_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
-Vi har delat in vår beskrivning av Audi e-tron S i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <div class="alert alert-secondary" role="alert">
 
@@ -34,27 +34,27 @@ Denna modell har ersatts av [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron/
 
 ## Prestanda
 
-Med overboost når Audi e-tron S en maximal effekt på 370 kW (503 hk). Utan overboost levererar den 320 kW (435 hk). Det maximala vridmomentet är 973 Nm. Den kan accelerera från 0 till 100 km/h på 4,5 sekunder och når en topphastighet på 200 km/h, vilket demonstrerar dess solida prestanda.
+Med överboost når Audi e-tron S en maximal effekt på 370 kW (503 hk / 496 bhp). Utan överboost levererar den 320 kW (435 hk / 429 bhp). Det maximala vridmomentet är 973 Nm (718 lb-ft). Den accelererar från 0 till 100 km/h på 4,5 sekunder och når en toppfart på 200 km/h (124 mph), vilket visar dess solida prestanda.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 95,0 kWh och en nettoanvändbar kapacitet på 86,0 kWh, vilket ger en buffert på 9,0 kWh (9,5%) för batteriskydd. Med en nominell spänning på 396 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet med hög kapacitet har en bruttokapacitet på 95,0 kWh och en nettoanvändbar kapacitet på 86,0 kWh, vilket ger en 9,0 kWh buffert (9,5%) för batteriskydd. Med en nominell spänning på 396 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 374 och 344 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 23,0 kWh/100 km för basmodellen och 25,0 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 374 till 344 km (232-214 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 23,0 kWh/100 km för basmodellen och 25,0 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 150 kW. En full laddning från 0 - 100 % tar 45 minuter, medan ett vanligare scenario på 10-80 % tar 27 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 81%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 115kW. Varje laddningssession tar 35 minuter och 51 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 150 kW. Laddning från 0% till 100% tar ungefär 45 minuter, medan ett mer typiskt scenario från 10% till 80% tar 27 minuter med en genomsnittlig laddningshastighet på 136 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 3% till 81%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 115 kW, där varje laddningssession tar cirka 35 minuter och 51 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 29 kWh/100 km, skulle resan ta ungefär 10 timmar och 7 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 82%, med en total laddningstid på 108 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 29 kWh/100 km, skulle resan ta ungefär 10 timmar och 7 minuter, med tre laddningsstopp från 2% till 82%, totalt 108 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 49 minuter med en hemmaladdare. För snabbare laddning kan du välja en valfri ombordladdare som stöder upp till 22 kW. Med denna uppgradering kan du uppnå en full laddning från 0 till 100% på bara cirka 3 timmar och 54 minuter hemma.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 7 timmar och 49 minuter vid hemmaladdning. En tillvald 22 kW inbyggd laddare minskar den fullständiga laddningstiden till ungefär 3 timmar och 54 minuter.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [vänster front](../../../../technology/charging/connectors/#front-side). Detta placering gör det enkelt att ladda stationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader. En andra port finns på [höger framsida](../../../../technology/charging/connectors/#front-side). Denna extra port ger dig fler parkeringsmöjligheter för AC-laddning. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**J1772**](../../../../technology/charging/connectors/#j1772) för Nordamerika och för Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [vänster framsida](../../../../technology/charging/connectors/#front-side). Detta gör det enkelt att använda laddstationer där du parkerar vid sidan av laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna. En andra port finns på [höger framsida](../../../../technology/charging/connectors/#front-side). Denna extra port ger dig fler parkeringsmöjligheter för AC-laddning. Kontakttyperna varierar mellan olika marknader. Denna modell använder [**J1772**](../../../../technology/charging/connectors/#j1772) för Nordamerika och [**TYP2**](../../../../technology/charging/connectors/#type-2) för Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -62,58 +62,58 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 ## Drivlina
 
-Audi e-tron S har ett fyrhjulsdriftssystem som stöds av tre motorer. En på framaxeln och två på bakaxeln. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
+Audi e-tron S har ett fyrhjulsdrivet system som drivs av tre motorer. En på framaxeln och två på bakaxeln. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
 
-### Hjulupphängning
+### Fjädring
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 152 mm, och maximal är 248 mm.
+Framfjädringen är av typen [dubbel länkarm](../../../../technology/suspension/#double-wishbone) och bakfjädringen är [multilänk](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska stötdämpare. Fjädringen är fullt adaptiv på både fram- och bakaxel, så både höjd och dämpning kan justeras manuellt och automatiskt. Den minsta markfrigången är 152 mm, och den maximala är 248 mm.
 
-Du kan beställa Audi e-tron S med en alternativ Adaptive Air Suspension Sport-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 152 mm, och maximal är 248 mm.
+Du kan beställa Audi e-tron S med en alternativ Adaptive Air Suspension Sport fjädring. Framfjädringen är av typen [dubbel länkarm](../../../../technology/suspension/#double-wishbone) och bakfjädringen är [multilänk](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska stötdämpare. Fjädringen är fullt adaptiv på både fram- och bakaxel, så både höjd och dämpning kan justeras manuellt och automatiskt. Den minsta markfrigången är 152 mm, och den maximala är 248 mm.
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för Audi e-tron S. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+Dynamisk styrning är standard på Audi e-tron S, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort.
 
 ### Körlägen
 
-Audi e-tron S låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 7 lägen:
+Audi e-tron S låter användaren välja olika [körlägen](../../../../technology/drivemodes/) som påverkar bilens köregenskaper. Föraren kan välja mellan 7 lägen:
 
-- Dynamic: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
-- Efficiency: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
-- Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
-- Allroad: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning.
-- Offroad: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
-- Auto: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
-- Custom: Anpassad styrning, fjädring och gasrespons.
+- Dynamic: Dynamisk styrning, låg markfrigång med dynamisk gasrespons och fjädring.
+- Efficiency: Balanserad styrning, låg markfrigång med effektiv gasrespons och balanserad fjädring.
+- Comfort: Balanserad styrning, normal markfrigång med effektiv gasrespons och komfortabel fjädring.
+- Allroad: Balanserad styrning, hög markfrigång med balanserad gasrespons och dämpning.
+- Offroad: Balanserad styrning, maximal markfrigång med balanserad gasrespons och dämpning.
+- Auto: Balanserad styrning, adaptiv chassihöjd med balanserad gasrespons och adaptiv dämpning.
+- Custom: Användardefinierade inställningar för styrning, fjädring och gasrespons.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 375mm och de bakre skivorna är 350mm.
+Audi e-tron S är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak. De främre skivorna mäter 375 mm, medan de bakre skivorna är 350 mm.
 
 ### Regenerativ bromsning
 
-Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektiviteten och körupplevelsen. Det mest effektiva alternativet är [**Automatiskt Regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet seglar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det är nödvändigt. <br /><br/> Ett annat alternativ är läget [**Regen på Gaspedal**](../../../../technology/regen/#one-pedal-driving), där regenerativ bromsning aktiveras när föraren släpper gaspedalen. Detta system tillåter fordonet att sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalskörning**. Det anses dock inte vara full enpedalskörning eftersom fordonet vid låga hastigheter kommer att fortsätta rulla tills det stannar av sig självt.
+Systemet för [regenerativ bromsning](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektivitet och körupplevelse. Det mest effektiva alternativet är [**Automatisk regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet rullar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det behövs. <br /><br/> Ett annat alternativ är [**Regen på gaspedal**](../../../../technology/regen/#one-pedal-driving) läget där regenerativ bromsning aktiveras när föraren lättar på gaspedalen. Detta system gör att fordonet kan sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalkörning**. Det anses dock inte vara fullständig enpedalkörning eftersom fordonet vid låga hastigheter fortsätter att rulla tills det stannar av sig själv.
 
-Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns tre nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns tre nivåer av regenerativ bromsning att välja mellan, vilket låter dig anpassa körupplevelsen efter dina preferenser.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Audi e-tron S, med dimensioner på 4901 mm i längd, 1935 mm i bredd och 1629 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Audi e-tron S finns i totalt 61 lackfärger, inklusive solida, metalliska och pärlemorsalternativ. Utöver standardpaletten är några färger från den exklusiva paletten 'Audi exclusive'.
+Audi e-tron S, med måtten 4901 mm i längd, 1935 mm i bredd och 1629 mm i höjd, tillhör mellanklassens SUV:ar som erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för en bred målgrupp med olika behov. Audi e-tron S finns tillgänglig i totalt 61 lackfärger, inklusive solida, metallic och pärlemo-alternativ. Utöver standardpaletten kommer vissa färger från den exklusiva 'Audi exclusive'-paletten.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Audi e-tron S, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Audi e-tron S erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 285/45 däck på 20" fälgar
 - 285/40 däck på 21" fälgar
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate). 'Soft Close' är valfritt-funktionen för sidodörrarna.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [halvkombilucka](../../../../technology/doors/#hatcback-style-liftgate). Mjukstängning är ett tillval funktion för sidodörrarna.
 
-Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+Det finns två olika takalternativ att välja mellan. Standard är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett panoramatak. Glaset sträcker sig över större delen av taket och passagerarna kan öppna den främre delen. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna. Som ett alternativ finns dubbelglasade sidofönster tillgängliga för att minska kabinbuller och förbättra den totala körupplevelsen.
+Du kan även beställa bilen med tonade rutor från B-stolpen och bakåt, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna. Som tillval finns dubbla sidorutor tillgängligt för att minska ljudnivån i kupén och förbättra körupplevelsen.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/exterior_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
@@ -125,83 +125,83 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ### Säten
 
-Audi e-tron S rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+Audi e-tron S rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
-För första raden erbjuder Audi e-tron S tre olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
+Första raden erbjuder tre olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
-Följande funktioner är tillgängliga på **s-line sport** sätet.
+Följande funktioner finns tillgängliga på **s-line sport** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- höjdjusterbart nackstöd
-- längdjusterbart nackstöd (valfri)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfri)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- Höjdjusterbart nackstöd
+- Längsjusterbart nackstöd (tillval)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating) (tillval)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-Följande funktioner är tillgängliga på **s sport** sätet.
+Följande funktioner finns tillgängliga på **s sport** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfri)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating) (tillval)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-Följande funktioner är tillgängliga på **multicontour** sätet.
+Följande funktioner finns tillgängliga på **multicontour** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- höjdjusterbart nackstöd
-- längdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- Höjdjusterbart nackstöd
+- Längsjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
-- [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfri)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart sidostöd ryggstöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Justerbart sidostöd sittdyna](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
+- [Massage](../../../../technology/seats/adjustment/#massage) (tillval)
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/frontseats_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med 40:20:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
-- höjdjusterbart nackstöd
+- Höjdjusterbart nackstöd
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/secondrowseats_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
-### Interiör Förvaring
+### Förvaringsutrymmen
 
-- **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
-- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
+- **Mugghållare:** Två mugghållare finns i mittkonsolen fram, med ytterligare två i armstödet bak.
+- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passagerarsätet, perfekt för förvaring av viktiga föremål.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Två klimatsystemalternativ är tillgängliga:
+Två klimatsystemalternativ finns tillgängliga:
 
-- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-- **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
+- **2-zons klimatsystem:** Stöder olika temperaturer för förare och passagerare.
+- **4-zons klimatsystem:** Stöder olika temperaturer för förare, passagerare och två separata passagerare i baksätet.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Audi e-tron S inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Audi e-tron S ingår flera funktioner för att öka komfort och bekvämlighet:
 
 - **Elektriskt justerbar ratt**
-- **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
-- **Trådlös laddning av telefon**
+- **Easy Entry-funktion:** Flyttar förarsätet för att underlätta instigning i bilen.
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -209,25 +209,25 @@ Audi e-tron S inkluderar flera funktioner för att förbättra komfort och bekv�
 
 ## Användargränssnitt och kontroll
 
-Audi e-tron S har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm).
+Audi e-tron S har flera integrerade skärmar. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum
-- Skärmen touch översta mittkonsolen är 10,1 tum
-- Skärmen touch botten av mittkonsolen är 8,6 tum
+- -skärmen bakom ratten integrerad i instrumentbrädan är 12,3 tum stor
+- touch-skärmen högst upp i mittkonsolen är 10,1 tum stor
+- touch-skärmen längst ner i mittkonsolen är 8,6 tum stor
 
-En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+En head-up display är ett tillval system som projicerar hastighet och annan viktig förarinformation på vindrutan.
 
 ### Ratt
 
-Audi e-tron S är utrustad med en enda typ av ratt:
+Audi e-tron S är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-För de yttre speglarna kan du välja mellan kamerabaserade speglar med inre skärmar eller traditionella speglar. Den inre spegeln är en standardspegel.
+För ytterbackspeglarna kan du välja mellan kamerabaserade speglar med invändiga skärmar eller traditionella speglar. Innerbackspegeln är en standardspegel.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -235,30 +235,30 @@ För de yttre speglarna kan du välja mellan kamerabaserade speglar med inre sk�
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder Audi e-tron S Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Audi e-tron S stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Audi e-tron S.
+Du kan välja mellan två ljudsystem för Audi e-tron S:
 
-- Med Audi Sound system får du tio högtalare med en maximal systemeffekt på 180 watt.
-- Med Bang & Olufsen Sound System får du 16 högtalare med en maximal systemeffekt på 700 watt.
+- **Audi Sound system:** Har tio högtalare och levererar en maximal uteffekt på 180 watt.
+- **Bang & Olufsen Sound System:** Har 16 högtalare och levererar en maximal uteffekt på 700 watt.
 
-Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
+Dessutom har modellen 2 USB-C-anslutningar som standard. Som tillval kan du få ytterligare 2 USB-C-anslutningar.
 
-## Ljus
+## Belysning
 
-Du kan välja mellan tre typer av strålkastare för Audi e-tron S.
+Du kan välja mellan tre olika typer av strålkastare för Audi e-tron S.
 
-- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
-- **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
-- Strålkastare baserade på LED Digital Matrix-teknik finns som ett alternativ.
+- **Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
+- **LED Matrix-strålkastare:** Som tillval finns detta adaptiva system som delar upp den traditionella strålkastarljusstrålen i dussintals mindre strålar som ljuskontrollern kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
+- Strålkastare baserade på LED Digital Matrix-teknik finns som tillval.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/headlights_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
@@ -266,43 +266,43 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-Audi e-tron S inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Audi e-tron S har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
-[**Effektivitetsassistans**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion som hjälper föraren att förutse körförhållanden och spara energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion som hjälper förare att förutse körförhållanden och spara energi.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Audi e-tron S, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Audi e-tron S, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Audi e-tron S, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Audi e-tron S, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Audi e-tron S, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Audi e-tron S, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valfritt på Audi e-tron S, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Tillval på Audi e-tron S, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valfritt på Audi e-tron S, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+[**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Tillval på Audi e-tron S, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valfritt på Audi e-tron S, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Tillval på Audi e-tron S, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Audi e-tron S, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Audi e-tron S, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
-[**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valfritt på Audi e-tron S, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
+[**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Tillval på Audi e-tron S, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valfritt på Audi e-tron S, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tillval på Audi e-tron S, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-### Körautomatisering
+### Körautomation
 
-Audi e-tron S erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Audi e-tron S erbjuder [körautomation på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med  nivå 1-systemet får du följande körautomationsfunktioner.
 
 - Farthållare.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tillval)
 
-Med det valfria Assistantpackage Tour nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+Med det valfria Assistantpackage Tour nivå 2-systemet får du ytterligare körautomationsfunktioner utöver de som anges ovan:
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
 ### Sensorer & Kameror
 
@@ -313,23 +313,23 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 Audi e-tron S är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Med standard nyckelfri start och valfritt nyckelfritt inträde kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 555 liter. Med baksätena nedfällda ökar detta till 1594 liter. På taket kan du lasta upp till 75 kg.
+Bagageutrymmet har en lastkapacitet på 555 liter (19,6 kubikfot). Med baksätet nedfällt ökar detta till 1594 liter (56,3 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs).
 
-Fordonets maximala vikt är 3280 kg, med en grundvikt på 2655 kg. Detta tillåter en maximal last på 625 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 3280 kg (7231 lbs), med en tjänstevikt på 2655 kg (5853 lbs). Detta möjliggör en maximal last på 625 kg (1378 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1800 kg, medan för en obromsad släpvagn är den 750 kg.
+Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 1800 kg (3968 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/trunk_1_st.jpg" title="Audi e-tron S" width="3000" height="2250"  >}}
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 19.11.2019 och leveranser startade i May 2020. Denna modell har nu utgått. Denna modell har ersatts av [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron).
+Denna modell hade sin världspremiär den 19.11.2019, och leveranserna startade May 2020. Denna modell har nu utgått ur produktion. Denna modell har ersatts av [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron).
 {{< pagenavigation b_url="../" b_title="Audi e-tron" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

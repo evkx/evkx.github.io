@@ -1,7 +1,7 @@
 ---
 title: MG Marvel R Electric Performance
 linktitle: "Marvel R Electric Performance"
-description: "MG Marvel R Electric Performance är en helelektrisk SUV med en WLTP räckvidd på upp till 370 km. EVKX.net har alla detaljer."
+description: "MG Marvel R Electric Performance är en helt elektrisk SUV med en WLTP-räckvidd på upp till 370 km (230 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/main_1_st.jpg" title="MG Marvel R Electric Performance" width="2560" height="1708"  >}}
 
-Vi har delat in vår beskrivning av MG Marvel R Electric Performance i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-MG Marvel R Electric Performance levererar en solid prestanda med en maximal effekt på 212 kW (288 hk) och ett totalt vridmoment på 665 Nm. Den kan accelerera från 0 till 100 km/h på 4,9 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
+MG Marvel R Electric Performance levererar en solid prestanda med en maxeffekt på 212 kW (288 hk / 284 bhp) och ett totalt vridmoment på 665 Nm (491 lb-ft). Den accelererar från 0 till 100 km/h på 4,9 sekunder och når en toppfart på 200 km/h (124 mph), vilket gör den konkurrenskraftig inom sin klass.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 75,0 kWh och en nettoanvändbar kapacitet på 70,0 kWh, vilket ger en buffert på 5,0 kWh (6,7%) för batteriskydd.
+Batteriet med hög kapacitet har en bruttokapacitet på 75,0 kWh och en nettoanvändbar kapacitet på 70,0 kWh, vilket ger en 5,0 kWh buffert (6,7%) för batteriskydd.
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 370 km (199 miles), med en energiförbrukningshastighet på 18,9 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 370 km (230 miles), med en energiförbrukning på 18,9 kWh/100 km (3 mi/kWh). För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 94 kW. En full laddning från 0 - 100 % tar 117 minuter, medan ett vanligare scenario på 10-80 % tar 44 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 61%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 62kW. Varje laddningssession tar 36 minuter och 46 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 94 kW. Laddning från 0% till 100% tar ungefär 117 minuter, medan ett mer typiskt scenario från 10% till 80% tar 44 minuter med en genomsnittlig laddningshastighet på 67 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 8% till 61%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 62 kW, där varje laddningssession tar cirka 36 minuter och 46 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 24,5 kWh/100 km, skulle resan ta ungefär 11 timmar och 9 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 59%, med en total laddningstid på 169 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 24,5 kWh/100 km, skulle resan ta ungefär 11 timmar och 9 minuter, med fem laddningsstopp från 9% till 59%, totalt 169 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 6 timmar och 21 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 6 timmar och 21 minuter vid hemmaladdning.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [vänster baksida](../../../../technology/charging/connectors/#rear-side), vilket gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,33 +56,33 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 ## Drivlina
 
-MG Marvel R Electric Performance har ett fyrhjulsdriftssystem som stöds av tre motorer. En på framaxeln och två på bakaxeln.
+MG Marvel R Electric Performance har ett fyrhjulsdrivet system som drivs av tre motorer. En på framaxeln och två på bakaxeln.
 
-### Hjulupphängning
+### Fjädring
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 150 mm.
+Framhjulsupphängningen är av typen [MacPherson](../../../../technology/suspension/#macpherson-strut), och bakhjulsupphängningen är [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. s fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 150 mm.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
+MG Marvel R Electric Performance är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak.
 
 ### Regenerativ bromsning
 
-Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektiviteten och körupplevelsen. Det mest effektiva alternativet är [**Automatiskt Regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet seglar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det är nödvändigt. <br /><br/> Ett annat alternativ är läget [**Regen på Gaspedal**](../../../../technology/regen/#one-pedal-driving), där regenerativ bromsning aktiveras när föraren släpper gaspedalen. Detta system tillåter fordonet att sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalskörning**.
+Systemet för [regenerativ bromsning](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektivitet och körupplevelse. Det mest effektiva alternativet är [**Automatisk regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet rullar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det behövs. <br /><br/> Ett annat alternativ är [**Regen på gaspedal**](../../../../technology/regen/#one-pedal-driving) läget där regenerativ bromsning aktiveras när föraren lättar på gaspedalen. Detta system gör att fordonet kan sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalkörning**.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-MG Marvel R Electric Performance, med dimensioner på 4674 mm i längd, 1919 mm i bredd och 1618 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. MG Marvel R Electric Performance finns i totalt 5 lackfärger, inklusive flera iögonfallande metalliska alternativ.
+MG Marvel R Electric Performance, med måtten 4674 mm i längd, 1919 mm i bredd och 1618 mm i höjd, tillhör kategorin kompakta SUV:ar, även kända som C-SUV:ar. Dessa erbjuder en balans mellan mindre bilars praktiska egenskaper och manövrerbarhet och större SUV:ars utrymme och mångsidighet. MG Marvel R Electric Performance finns tillgänglig i totalt 5 lackfärger, inklusive flera slående metallic-alternativ.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på MG Marvel R Electric Performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+MG Marvel R Electric Performance erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Du kan välja ett alternativ för att ha bakluckan eldriven. Du kan även ha bakluckan med en sparksensor, som gör det möjligt att öppna den genom att helt enkelt sparka foten under bakluckan.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate). Du kan välja att få bakluckan elektriskt manövrerad. Du kan även få bakluckan med rörelsesensor, vilket gör det möjligt att öppna den genom att bara sparka med foten under bakluckan.
 
-Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Glaset sträcker ut större delen av taket, och passagerare kan öppna den främre delen. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra atmosfären och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+Det finns bara ett takalternativ för denna modell. Standardtaket har ett panoramatak. Glaset sträcker sig över större delen av taket och passagerarna kan öppna den främre delen. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-B-stolpen och vyerna bak är tonade.
+Rutorna från B-stolpen och bakåt är tonade, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/exterior_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="2000"  >}}
 
@@ -92,33 +92,33 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
+Du kan välja mellan olika typer av sätesmaterial och interiörstilar. Du kan välja mellan flera interiördesigner.
 
 ### Säten
 
-MG Marvel R Electric Performance rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+MG Marvel R Electric Performance rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
 MG Marvel R Electric Performance erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner finns tillgängliga på **standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
-- Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-- Beige [Alcantara/kunst läderklädsel](../../../../technology/seats/materials/#alcantara)
+- Gray [tyg/konstläderklädsel](../../../../technology/seats/materials/#fabric)
+- Beige [Alcantara/konstläderklädsel](../../../../technology/seats/materials/#alcantara)
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/frontseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1999"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med  delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/secondrowseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="2256"  >}}
 
@@ -126,19 +126,19 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
-- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
+- **1-zons klimatsystem:** Stöder endast en gemensam klimatzon för hela bilen.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-MG Marvel R Electric Performance inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I MG Marvel R Electric Performance ingår flera funktioner för att öka komfort och bekvämlighet:
 
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -148,24 +148,24 @@ MG Marvel R Electric Performance inkluderar flera funktioner för att förbättr
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten monterad i instrumentbrädan är 7,0 tum
-- Skärmen touch översta mittkonsolen är 10,2 tum
+- -skärmen bakom ratten monterad i instrumentbrädan är 7,0 tum stor
+- touch-skärmen högst upp i mittkonsolen är 10,2 tum stor
 
-Modellen är inte tillgänglig med head-up display.
+Modellen har ingen head-up display.
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/screens_1_st.jpg" title="MG Marvel R Electric Performance" width="2560" height="1707"  >}}
 
 ### Ratt
 
-MG Marvel R Electric Performance är utrustad med en enda typ av ratt:
+MG Marvel R Electric Performance är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
-Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+Denna modell levereras med röststyrning som standard, vilket låter dig hantera olika funktioner genom röstkommandon.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -173,25 +173,25 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder MG Marvel R Electric Performance Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+MG Marvel R Electric Performance stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för MG Marvel R Electric Performance.
+MG Marvel R Electric Performance levereras med ett ljudsystemalternativ:
 
 - **standard:** Har NULL högtalare.
 
 Modellen har 4 USB-A-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/headlights_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1701"  >}}
 
@@ -199,38 +199,38 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-MG Marvel R Electric Performance inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+MG Marvel R Electric Performance har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på MG Marvel R Electric Performance, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på MG Marvel R Electric Performance, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-### Körautomatisering
+### Körautomation
 
-Med standard  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet  nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
 ## Säkerhets- och åtkomstteknologier
 
-MG Marvel R Electric Performance är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon och erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
+MG Marvel R Electric Performance är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon, vilket erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 359 liter. Med baksätena nedfällda ökar detta till 1396 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 150 liter.
+Bagageutrymmet har en lastkapacitet på 359 liter (12,7 kubikfot). Med baksätet nedfällt ökar detta till 1396 liter (49,3 kubikfot). Dessutom finns det en frunk (främre bagageutrymme) med en lagringskapacitet på 150 liter (5,3 CU FT).
 
-Fordonets maximala vikt är 2373 kg, med en grundvikt på 1920 kg. Detta tillåter en maximal last på 453 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 453 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
+Fordonets maximala vikt är 2373 kg (5232 lbs), med en tjänstevikt på 1920 kg (4233 lbs). Detta möjliggör en maximal last på 453 kg (999 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten. 453kg anses lågt för denna typ av bil och kan begränsa hur mycket last du kan ta med utöver passagerare.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 750 kg, medan för en obromsad släpvagn är den 750 kg.
+Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 750 kg (1653 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/trunk_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1915"  >}}
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 07.10.2021 och leveranserna startade i January 2022.
+MG Marvel R Electric Performance hade sin världspremiär den 07.10.2021, och leveranserna startade January 2022.
 {{< pagenavigation b_url="../" b_title="MG Marvel R" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

@@ -1,7 +1,7 @@
 ---
 title: Neta GT 580 AWD
 linktitle: "GT 580 AWD"
-description: "Neta GT 580 AWD är en helelektrisk coupé med en CLTC räckvidd på upp till 580 km. EVKX.net har alla detaljer."
+description: "Neta GT 580 AWD är en elektrisk coupé med en CLTC-räckvidd på upp till 580 km (361 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/main_1_st.jpg" title="Neta GT 580 AWD" width="3000" height="1484"  >}}
 
-Vi har delat in vår beskrivning av Neta GT 580 AWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Neta GT 580 AWD levererar en solid prestanda med en maximal effekt på 340 kW (462 hk) och ett totalt vridmoment på 620 Nm. Den kan accelerera från 0 till 100 km/h på 3,7 sekunder och når en topphastighet på 190 km/h, vilket gör den konkurrenskraftig i sin klass.
+Neta GT 580 AWD levererar en solid prestanda med en maxeffekt på 340 kW (462 hk / 456 bhp) och ett totalt vridmoment på 620 Nm (458 lb-ft). Den accelererar från 0 till 100 km/h på 3,7 sekunder och når en toppfart på 190 km/h (118 mph), vilket gör den konkurrenskraftig inom sin klass.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 78,0 kWh och en nettoanvändbar kapacitet på 75,0 kWh, vilket ger en buffert på 3,0 kWh (3,8%) för batteriskydd.
+Batteriet med hög kapacitet har en bruttokapacitet på 78,0 kWh och en nettoanvändbar kapacitet på 75,0 kWh, vilket ger en 3,0 kWh buffert (3,8%) för batteriskydd.
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 580 km (361 miles). Förbrukningen är 12,9kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Fordonets räckvidd enligt [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standarden är 580 km (361 miles). Energiförbrukningen är 12,9 kWh/100 km enligt CLTC standardtestet. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 120 kW. En full laddning från 0 - 100 % tar 63 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 76%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 88kW. Varje laddningssession tar 37 minuter och 46 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 120 kW. Laddning från 0% till 100% tar ungefär 63 minuter, medan ett mer typiskt scenario från 10% till 80% tar 32 minuter med en genomsnittlig laddningshastighet på 100 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 4% till 76%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 88 kW, där varje laddningssession tar cirka 37 minuter och 46 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 10 timmar och 5 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 74%, med en total laddningstid på 106 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 10 timmar och 5 minuter, med tre laddningsstopp från 5% till 74%, totalt 106 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 6 timmar och 49 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 6 timmar och 49 minuter vid hemmaladdning.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,29 +56,29 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-Neta GT 580 AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Neta GT 580 AWD har ett fyrhjulsdrivet system som drivs av två motorer, en på varje axel. Motorerna som används är [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 150 mm.
+Framfjädringen använder [dubbel länkarm](../../../../technology/suspension/#double-wishbone), medan bak använder [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. s fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 150 mm.
 
 ### Bromsar
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) i denna modell underlättas främst genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling inte tillgänglig här. Du kan välja mellan två stoppmodi för enpedalskörning. **Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar och **Creep-läge** för bilen framåt i låg hastighet.
+[Regenerativ bromsning](../../../../technology/regen/) i denna modell sker främst genom [**enpedalkörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive) eller frihjul inte tillgängligt här. Du kan välja mellan två stopplägen för enpedalkörning. **Hållläge** bromsar fordonet till fullständigt stopp med friktionsbromsar och **Krypläge** får bilen att röra sig framåt i låg hastighet.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Neta GT 580 AWD, med dimensioner på 4715 mm i längd, 1979 mm i bredd och 1415 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Neta GT 580 AWD finns i totalt 6 lackfärger, inklusive flera iögonfallande metalliska alternativ.
+Neta GT 580 AWD, med måtten 4715 mm i längd, 1979 mm i bredd och 1415 mm i höjd, tillhör D-segmentet, även känt som mellanklassen eller familjebilar. De erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för många olika förare. Neta GT 580 AWD finns tillgänglig i totalt 6 lackfärger, inklusive flera slående metallic-alternativ.
 
-Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Neta GT 580 AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Neta GT 580 AWD, vilket låter dig personifiera ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 245/45 däck på 19" fälgar
 
-Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
+Det finns bara ett takalternativ för denna modell. Standardtaket har ett stort panoramaglas som sträcker sig från fram till bak. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Glaset är tonat för att skydda mot värme från solen.
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/exterior_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="950"  >}}
 
@@ -90,43 +90,43 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 
 ### Säten
 
-Sittlayouten är två säten fram och två säten bak.
+Sätesupplägget består av två säten fram och två säten bak.
 
-#### Framsäten
+#### Första radens säten
 
 Neta GT 580 AWD erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner finns tillgängliga på **** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner finns tillgängliga på **** sätet:
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Neta GT 580 AWD inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Neta GT 580 AWD ingår flera funktioner för att öka komfort och bekvämlighet:
 
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -134,28 +134,28 @@ Neta GT 580 AWD inkluderar flera funktioner för att förbättra komfort och bek
 
 ## Användargränssnitt och kontroll
 
-Neta GT 580 AWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+Neta GT 580 AWD har flera integrerade skärmar. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) högst upp.
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten integrerad i instrumentbrädan är 10,3 tum
-- Skärmen touch översta mittkonsolen är 17,6 tum
+- -skärmen bakom ratten integrerad i instrumentbrädan är 10,3 tum stor
+- touch-skärmen högst upp i mittkonsolen är 17,6 tum stor
 
-En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+En head-up display är standard system som projicerar hastighet och annan viktig förarinformation på vindrutan.
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/screens_1_st.jpg" title="Neta GT 580 AWD" width="3000" height="2000"  >}}
 
 ### Ratt
 
-Neta GT 580 AWD är utrustad med en enda typ av ratt:
+Neta GT 580 AWD är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
-Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+Denna modell levereras med röststyrning som standard, vilket låter dig hantera olika funktioner genom röstkommandon.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -163,68 +163,68 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Neta GT 580 AWD.
+Neta GT 580 AWD levereras med ett ljudsystemalternativ:
 
 - **Neta Sky sound:** Har 12 högtalare.
 
-Modellen har 1 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+Dessutom har modellen 1 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
-Neta GT 580 AWD inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Neta GT 580 AWD har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Neta GT 580 AWD, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Neta GT 580 AWD, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Neta GT 580 AWD, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Neta GT 580 AWD, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Neta GT 580 AWD, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Neta GT 580 AWD, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Neta GT 580 AWD, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Neta GT 580 AWD, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Neta GT 580 AWD, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+[**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Neta GT 580 AWD, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Neta GT 580 AWD, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Neta GT 580 AWD, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Neta GT 580 AWD, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Neta GT 580 AWD, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Neta GT 580 AWD, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Neta GT 580 AWD, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på Neta GT 580 AWD, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
+[**Utstigningsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på Neta GT 580 AWD, detta system varnar passagerare mot att öppna dörrar om det finns risk för kollision.
 
-### Körautomatisering
+### Körautomation
 
-Med standard  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet  nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ## Säkerhets- och åtkomstteknologier
 
 Neta GT 580 AWD är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Fordonets nyckelfria inträdes- och startsystem möjliggör sömlös åtkomst, vilket låter dig låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 297 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 50 liter.
+Bagageutrymmet har en lastkapacitet på 297 liter (10,5 kubikfot). Dessutom finns det en frunk (främre bagageutrymme) med en lagringskapacitet på 50 liter (1,8 CU FT).
 
-Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
+Denna modell kan inte utrustas med dragkrok. För att dra släp måste du titta på andra modeller.
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 13.07.2023 och leveranserna startade i December 2023. Denna modell är endast tillgänglig i Kina.
+Neta GT 580 AWD hade sin världspremiär den 13.07.2023, och leveranserna startade December 2023. Observera att denna modell endast är tillgänglig i Kina.
 {{< pagenavigation b_url="../" b_title="Neta GT" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

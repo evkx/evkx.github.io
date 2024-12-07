@@ -1,7 +1,7 @@
 ---
 title: Nio EL6 räckvidd och förbrukning
 linktitle: "Räckvidd"
-description: "Här hittar du all information om räckvidd och förbrukning för Nio EL6."
+description: "Här hittar du alla detaljer om räckvidd och förbrukning för Nio EL6."
 weight: 2
 hidden: true
 navicon: bi-file-earmark-bar-graph
@@ -9,16 +9,16 @@ navicon: bi-file-earmark-bar-graph
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 
-Räckvidden kommer att variera beroende på flera faktorer. Såsom hur snabbt du kör, temperaturen, våt eller torr väg och utrustad utrustning. På denna sida hittar du ett diagram och tabeller över standardtest cykelresultat som WLTP och EPA och uppskattad verklig räckvidd i olika miljöer.
+Räckvidden varierar beroende på flera faktorer. Som hur snabbt du kör, temperaturen, vått eller torrt väglag och utrustningen. På denna sida hittar du diagram och tabeller med standardtestcykelresultat som WLTP och EPA samt uppskattad räckvidd i verkliga förhållanden i olika miljöer.
 
-Räckvidden kommer att variera beroende på flera faktorer. Såsom hur snabbt du kör, temperaturen, våt eller torr väg och utrustad utrustning. På denna sida hittar du ett diagram och tabeller över standardtest cykelresultat som WLTP och EPA och uppskattad verklig räckvidd i olika miljöer.
+Räckvidden varierar beroende på flera faktorer. Som hur snabbt du kör, temperaturen, vått eller torrt väglag och utrustningen. På denna sida hittar du diagram och tabeller med standardtestcykelresultat som WLTP och EPA samt uppskattad räckvidd i verkliga förhållanden i olika miljöer.
 
 <img class="img-fluid" alt="Charge curve" src="/images//models/nio/el6/el6/range_1.svg"/>
 <a href="/images/models/nio/el6/el6/range_1.svg">Full screen</a>
 
 ### Officiella testcykelresultat
 
-Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC avstängd. Klicka på länkarna i tabellen för mer information om testprocedurer.
+Nedan visas de officiellt klassade räckvidderna. Testerna utförs med värme/AC avstängd. Klicka på länkarna i tabellen för mer information om testprocedurer.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -38,7 +38,7 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP-seriens grundläggande utrustningsnivå
+					WLTP räckvidd basutrustning
 				</a>
 			</td>
 			<td>
@@ -51,7 +51,7 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP-räckvidd max utrustningsnivå
+					WLTP räckvidd toppversion
 				</a>
 			</td>
 			<td>
@@ -65,9 +65,9 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 </table>
 </div>
 
-### Officiella testcykelresultat med extra uppvärmning
+### Officiella testcykelresultat med tillsatt värme
 
-Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på värmen/kylan en kall/varm dag.
+Tabellen nedan visar hur påslagen värme/kylning en kall/varm dag påverkar den officiella räckvidden.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -86,7 +86,7 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 	<tbody>
 		<tr>
 			<td>
-				WLTP-seriens grundutrustningsnivå med 2KW AC
+				WLTP räckvidd basutrustning med 2KW AC
 			</td>
 			<td>
 				 412km / 256 mi 
@@ -97,7 +97,7 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 		</tr>
 		<tr>
 			<td>
-				WLTP-räckvidd max trimnivå med 2KW AC
+				WLTP räckvidd toppversion med 2KW AC
 			</td>
 			<td>
 				394 km / 245 mi
@@ -110,9 +110,9 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 </table>
 </div>
 
-### Räckviddsuppskattningar i verkligheten
+### Uppskattad räckvidd i verklig körning
 
-Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhållanden och under förhållanden som kräver luftkonditionering för att värma eller kyla fordon. Se vår [räckviddeguide](../../../../../guides/understandingrange/) för att se hur räckvidden påverkas i den verkliga världen.
+Tabellen nedan visar några uppskattade räckvidder i verklig körning under perfekta förhållanden och i förhållanden som kräver AC för att värma eller kyla fordonet. Se vår [räckviddsguide](../../../../../guides/understandingrange/) för att se hur räckvidden påverkas i verkligheten.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -131,7 +131,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 	<tbody>
 		<tr>
 			<td>
-				90 km/h/56 mph under perfekta förhållanden
+				90km/h/56mph perfekta förhållanden
 			</td>
 			<td>
 				450km / 280 mi
@@ -142,7 +142,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 		</tr>
 		<tr>
 			<td>
-				90 kmh/56 mph med 2KW uppvärmning
+				90km/h/56mph med 2KW uppvärmning
 			</td>
 			<td>
 				415km /252mi
@@ -153,7 +153,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 		</tr>
 		<tr>
 			<td>
-				120 kmh/75 mph under perfekta förhållanden
+				120km/h/75mph perfekta förhållanden
 			</td>
 			<td>
 				321 km / 199 mi
@@ -164,7 +164,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 		</tr>
 		<tr>
 			<td>
-				120 kmh /75mph med 2KW uppvärmning
+				120km/h/75mph med 2KW uppvärmning
 			</td>
 			<td>
 				303 km /188mi
@@ -182,7 +182,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 
 ### Officiella testcykelresultat
 
-Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC avstängd. Klicka på länkarna i tabellen för mer information om testprocedurer.
+Nedan visas de officiellt klassade räckvidderna. Testerna utförs med värme/AC avstängd. Klicka på länkarna i tabellen för mer information om testprocedurer.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -202,7 +202,7 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP-seriens grundläggande utrustningsnivå
+					WLTP räckvidd basutrustning
 				</a>
 			</td>
 			<td>
@@ -215,7 +215,7 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP-räckvidd max utrustningsnivå
+					WLTP räckvidd toppversion
 				</a>
 			</td>
 			<td>
@@ -229,9 +229,9 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 </table>
 </div>
 
-### Officiella testcykelresultat med extra uppvärmning
+### Officiella testcykelresultat med tillsatt värme
 
-Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på värmen/kylan en kall/varm dag.
+Tabellen nedan visar hur påslagen värme/kylning en kall/varm dag påverkar den officiella räckvidden.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -252,9 +252,9 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 </table>
 </div>
 
-### Räckviddsuppskattningar i verkligheten
+### Uppskattad räckvidd i verklig körning
 
-Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhållanden och under förhållanden som kräver luftkonditionering för att värma eller kyla fordon. Se vår [räckviddeguide](../../../../../guides/understandingrange/) för att se hur räckvidden påverkas i den verkliga världen.
+Tabellen nedan visar några uppskattade räckvidder i verklig körning under perfekta förhållanden och i förhållanden som kräver AC för att värma eller kyla fordonet. Se vår [räckviddsguide](../../../../../guides/understandingrange/) för att se hur räckvidden påverkas i verkligheten.
 
 <div class="table-responsive">
 <table class="table table-striped border">

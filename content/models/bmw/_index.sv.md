@@ -1,5 +1,5 @@
 ---
-title: BMW elektriske modeller
+title: BMW elbilsmodeller
 linktitle: "BMW"
 description: "Electric drivetrains are a prerequisite for climate-neutral mobility of the future. This is why the BMW Group is consistently expanding its range of electric vehicles. As early as 2023, the Group will offer at least one fully electric model in virtually all key segments. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -41,7 +41,7 @@ BMW i4 är en premium sedan tillgänglig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW i5 är en premium sedan/kombi som finns i 6 varianter.
+BMW i5 är en premium sedan/kombi tillgänglig i 6 varianter.
 </p>
 	<a href="i5/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -71,7 +71,7 @@ BMW i7 är en lyxsedan tillgänglig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW iX är en lyx-SUV tillgänglig i 3 varianter.
+BMW iX är en lyxig SUV tillgänglig i 3 varianter.
 </p>
 	<a href="ix/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -86,7 +86,7 @@ BMW iX är en lyx-SUV tillgänglig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW iX1 är en premium-SUV tillgänglig i 2 varianter.
+BMW iX1 är en premium SUV tillgänglig i 2 varianter.
 </p>
 	<a href="ix1/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -101,7 +101,7 @@ BMW iX1 är en premium-SUV tillgänglig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW iX2 är en premium Coupe SUV tillgänglig i 2 varianter.
+BMW iX2 är en premium coupé-SUV tillgänglig i 2 varianter.
 </p>
 	<a href="ix2/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -116,7 +116,7 @@ BMW iX2 är en premium Coupe SUV tillgänglig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW iX3 är en premium-SUV tillgänglig i 1 varianter.
+BMW iX3 är en premium SUV tillgänglig i 1 varianter.
 </p>
 	<a href="ix3/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

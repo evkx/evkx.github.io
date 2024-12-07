@@ -1,5 +1,5 @@
 ---
-title: Cadillac elektriske modeller
+title: Cadillac elbilsmodeller
 linktitle: "Cadillac"
 description: "Cadillac, en pionjär inom amerikanska lyxbilar sedan 1902, blandar arv med innovation. Som General Motors premiumvarumärke driver Cadillac nu ett djärvt skifte mot elektrifiering. Med ett åtagande om en helt elektrisk lineup till 2030 fokuserar varumärket på avancerad teknik, hållbarhet och att behålla sin karakteristiska lyxiga attraktionskraft."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -82,7 +82,7 @@ Cadillac VISTIQ är en SUV tillgänglig i 1 varianter.
 </div><div class="accordion-item">
     <h2 class="accordion-header">
         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
-            Om varumärket
+            Om märket
         </button>
     </h2>
     <div id="module-company" class="accordion-collapse collapse">

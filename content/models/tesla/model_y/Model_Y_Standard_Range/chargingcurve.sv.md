@@ -1,14 +1,14 @@
 ---
-title: Tesla Model Y Standard Range laddningskurva och laddningsprestanda
+title: Tesla Model Y Standard Range laddningskurva och prestanda
 linktitle: "Laddningskurva"
-description: "Nedan visas laddningskurvan för Tesla Model Y Standard Range, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
+description: "Nedan är laddningskurvan för Tesla Model Y Standard Range, som visar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda för de olika batteripaketen.
+Denna modell finns tillgänglig med flera batterier. Nedan hittar du prestandan för de olika batteripaketen.
 
 ### 60 kWh CATL LFP Europa/China market
 
@@ -30,7 +30,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 	<tbody>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 0 - 100 %
+				Genomsnittlig laddningshastighet 0-100%
 			</td>
 			<td>
 				62,5 kW
@@ -38,7 +38,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-100 %
+				Genomsnittlig laddningshastighet 10-100%
 			</td>
 			<td>
 				58,7 kW
@@ -46,7 +46,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-90 %
+				Genomsnittlig laddningshastighet 10-90%
 			</td>
 			<td>
 				71,7 kW
@@ -54,7 +54,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-80 %
+				Genomsnittlig laddningshastighet 10-80%
 			</td>
 			<td>
 				82,3 kW
@@ -62,7 +62,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Maximal C-Rate
+				Max C-värde
 			</td>
 			<td>
 				2,88
@@ -70,7 +70,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig C-Rate
+				Genomsnittlig C-värde
 			</td>
 			<td>
 				1,55
@@ -94,7 +94,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Optimal stopptid för laddning
+				Optimal laddningstid
 			</td>
 			<td>
 				18m46s
@@ -224,10 +224,10 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 </div>
 
 
-Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
+Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../../technology/battery/charging/#temperature)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva baseras också på att laddningen startas vid låg laddningsnivå. Därför kan inkoppling vid en högre nivå påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
 
 
-Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddning vid en optimal batteritemperatur.
+Tesla Model Y Standard Range har batteriuppvärmning, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -236,7 +236,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Laddningsnivå
 			</th>
 			<th>
 				Hastighet
@@ -245,7 +245,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 				Tid
 			</th>
 			<th>
-				Energi laddad
+				Laddad energi
 			</th>
 		</tr>
 	</thead>
@@ -1688,7 +1688,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 	<tbody>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 0 - 100 %
+				Genomsnittlig laddningshastighet 0-100%
 			</td>
 			<td>
 				87,7 kW
@@ -1696,7 +1696,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-100 %
+				Genomsnittlig laddningshastighet 10-100%
 			</td>
 			<td>
 				83,9 kW
@@ -1704,7 +1704,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-90 %
+				Genomsnittlig laddningshastighet 10-90%
 			</td>
 			<td>
 				106,1 kW
@@ -1712,7 +1712,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-80 %
+				Genomsnittlig laddningshastighet 10-80%
 			</td>
 			<td>
 				126,3 kW
@@ -1720,7 +1720,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Maximal C-Rate
+				Max C-värde
 			</td>
 			<td>
 				2,95
@@ -1728,7 +1728,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig C-Rate
+				Genomsnittlig C-värde
 			</td>
 			<td>
 				2,12
@@ -1752,7 +1752,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Optimal stopptid för laddning
+				Optimal laddningstid
 			</td>
 			<td>
 				19m46s
@@ -1882,10 +1882,10 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 </div>
 
 
-Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
+Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../../technology/battery/charging/#temperature)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva baseras också på att laddningen startas vid låg laddningsnivå. Därför kan inkoppling vid en högre nivå påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
 
 
-Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddning vid en optimal batteritemperatur.
+Tesla Model Y Standard Range har batteriuppvärmning, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -1894,7 +1894,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Laddningsnivå
 			</th>
 			<th>
 				Hastighet
@@ -1903,7 +1903,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 				Tid
 			</th>
 			<th>
-				Energi laddad
+				Laddad energi
 			</th>
 		</tr>
 	</thead>
@@ -3346,7 +3346,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 	<tbody>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 0 - 100 %
+				Genomsnittlig laddningshastighet 0-100%
 			</td>
 			<td>
 				47,8 kW
@@ -3354,7 +3354,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-100 %
+				Genomsnittlig laddningshastighet 10-100%
 			</td>
 			<td>
 				44,3 kW
@@ -3362,7 +3362,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-90 %
+				Genomsnittlig laddningshastighet 10-90%
 			</td>
 			<td>
 				64,0 kW
@@ -3370,7 +3370,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-80 %
+				Genomsnittlig laddningshastighet 10-80%
 			</td>
 			<td>
 				69,0 kW
@@ -3378,7 +3378,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Maximal C-Rate
+				Max C-värde
 			</td>
 			<td>
 				3,16
@@ -3386,7 +3386,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig C-Rate
+				Genomsnittlig C-värde
 			</td>
 			<td>
 				1,17
@@ -3410,7 +3410,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Optimal stopptid för laddning
+				Optimal laddningstid
 			</td>
 			<td>
 				18m46s
@@ -3540,10 +3540,10 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 </div>
 
 
-Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
+Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../../technology/battery/charging/#temperature)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva baseras också på att laddningen startas vid låg laddningsnivå. Därför kan inkoppling vid en högre nivå påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
 
 
-Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddning vid en optimal batteritemperatur.
+Tesla Model Y Standard Range har batteriuppvärmning, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -3552,7 +3552,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Laddningsnivå
 			</th>
 			<th>
 				Hastighet
@@ -3561,7 +3561,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 				Tid
 			</th>
 			<th>
-				Energi laddad
+				Laddad energi
 			</th>
 		</tr>
 	</thead>
@@ -5004,7 +5004,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 	<tbody>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 0 - 100 %
+				Genomsnittlig laddningshastighet 0-100%
 			</td>
 			<td>
 				100,2 kW
@@ -5012,7 +5012,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-100 %
+				Genomsnittlig laddningshastighet 10-100%
 			</td>
 			<td>
 				96,6 kW
@@ -5020,7 +5020,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-90 %
+				Genomsnittlig laddningshastighet 10-90%
 			</td>
 			<td>
 				108,8 kW
@@ -5028,7 +5028,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-80 %
+				Genomsnittlig laddningshastighet 10-80%
 			</td>
 			<td>
 				120,0 kW
@@ -5036,7 +5036,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Maximal C-Rate
+				Max C-värde
 			</td>
 			<td>
 				2,3
@@ -5044,7 +5044,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig C-Rate
+				Genomsnittlig C-värde
 			</td>
 			<td>
 				1,76
@@ -5068,7 +5068,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 		</tr>
 		<tr>
 			<td>
-				Optimal stopptid för laddning
+				Optimal laddningstid
 			</td>
 			<td>
 				22m11s
@@ -5198,10 +5198,10 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 </div>
 
 
-Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
+Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../../technology/battery/charging/#temperature)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva baseras också på att laddningen startas vid låg laddningsnivå. Därför kan inkoppling vid en högre nivå påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
 
 
-Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddning vid en optimal batteritemperatur.
+Tesla Model Y Standard Range har batteriuppvärmning, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -5210,7 +5210,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Laddningsnivå
 			</th>
 			<th>
 				Hastighet
@@ -5219,7 +5219,7 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 				Tid
 			</th>
 			<th>
-				Energi laddad
+				Laddad energi
 			</th>
 		</tr>
 	</thead>

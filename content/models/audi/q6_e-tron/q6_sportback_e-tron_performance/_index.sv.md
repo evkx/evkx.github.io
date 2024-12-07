@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 Sportback e-tron performance
 linktitle: "Q6 Sportback e-tron performance"
-description: "Audi Q6 Sportback e-tron performance är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 655 km. EVKX.net har alla detaljer."
+description: "Audi Q6 Sportback e-tron performance är en elektrisk premium-coupéSUV med en WLTP-räckvidd på upp till 655 km (407 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,46 +11,46 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_sportback_e-tron_performance/main_1_st.jpg" title="Audi Q6 Sportback e-tron performance" width="3000" height="2250"  >}}
 
-Vi har delat in vår beskrivning av Audi Q6 Sportback e-tron performance i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Audi Q6 Sportback e-tron performance levererar en solid prestanda med en maximal effekt på 240 kW (326 hk) och ett totalt vridmoment på 485 Nm. Den kan accelerera från 0 till 100 km/h på 6,6 sekunder och når en topphastighet på 210 km/h, vilket gör den konkurrenskraftig i sin klass.
+Audi Q6 Sportback e-tron performance levererar en solid prestanda med en maxeffekt på 240 kW (326 hk / 322 bhp) och ett totalt vridmoment på 485 Nm (358 lb-ft). Den accelererar från 0 till 100 km/h på 6,6 sekunder och når en toppfart på 210 km/h (131 mph), vilket gör den konkurrenskraftig inom sin klass.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 94,9 kWh, vilket ger en buffert på 5,1 kWh (5,1%) för batteriskydd. Vid en nominell spänning på 662 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet med hög kapacitet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 94,9 kWh, vilket ger en 5,1 kWh buffert (5,1%) för batteriskydd. Med en driftspänning på 662 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 655 och 556 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,5 kWh/100 km för basmodellen och 17,1 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 655 till 556 km (407-346 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 14,5 kWh/100 km för basmodellen och 17,1 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 60 minuter, medan ett vanligare scenario på 10-80 % tar 21 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 62%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 169kW. Varje laddningssession tar 21 minuter och 36 sekunder. Denna effektiva laddningskapacitet gör Audi Q6 Sportback e-tron performance till ett bekvämt alternativ för långdistansresor.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 270 kW. Laddning från 0% till 100% tar ungefär 60 minuter, medan ett mer typiskt scenario från 10% till 80% tar 21 minuter med en genomsnittlig laddningshastighet på 192 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 62%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 169 kW, där varje laddningssession tar cirka 21 minuter och 36 sekunder. Denna effektiva laddningsförmåga gör Audi Q6 Sportback e-tron performance till ett bekvämt alternativ för långdistansresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 22,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 6 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 69%, med en total laddningstid på 47 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 22,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 6 minuter, med två laddningsstopp från 0% till 69%, totalt 47 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 37 minuter med en hemmaladdare. För snabbare laddning kan du välja en valfri ombordladdare som stöder upp till 22 kW. Med denna uppgradering kan du uppnå en full laddning från 0 till 100% på bara cirka 4 timmar och 18 minuter hemma.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 8 timmar och 37 minuter vid hemmaladdning. En tillvald 22 kW inbyggd laddare minskar den fullständiga laddningstiden till ungefär 4 timmar och 18 minuter.
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_sportback_e-tron_performance/charging_1_st.jpg" title="Audi Q6 Sportback e-tron performance" width="3000" height="2250"  >}}
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader. En andra port finns på [höger baksida](../../../../technology/charging/connectors/#front-side). Denna extra port ger dig fler parkeringsmöjligheter för AC-laddning. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**J1772**](../../../../technology/charging/connectors/#j1772) för Nordamerika och för Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [vänster baksida](../../../../technology/charging/connectors/#rear-side), vilket gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna. Dessutom finns en andra port på [höger baksida](../../../../technology/charging/connectors/#front-side) som ger större flexibilitet för AC-laddning. Kontakttyperna varierar mellan olika marknader. Denna modell använder [**J1772**](../../../../technology/charging/connectors/#j1772) för Nordamerika och [**TYP2**](../../../../technology/charging/connectors/#type-2) för Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -58,41 +58,41 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 ## Drivlina
 
-Audi Q6 Sportback e-tron performance har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+Audi Q6 Sportback e-tron performance har ett bakhjulsdrivet system med en motor på bakaxeln. Motorn som används är en [permanent magnet synkronmotor](../../../../technology/motors/pmsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Standard-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 184 mm.
+Standard har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 184 mm.
 
-Du kan beställa Audi Q6 Sportback e-tron performance med en alternativ Sport-upphängning. Sport-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 164 mm.
+Du kan beställa Audi Q6 Sportback e-tron performance med en alternativ Sport fjädring. Sport har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 164 mm.
 
-Du kan beställa Audi Q6 Sportback e-tron performance med en alternativ Adaptive Air Suspension-upphängning. Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 185 mm, och maximal är 224 mm.
+Du kan beställa Audi Q6 Sportback e-tron performance med en alternativ Adaptive Air Suspension fjädring. Både fram- och bakhjulsupphängningen är av typen [multilänk](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska stötdämpare. Fjädringen är fullt adaptiv på både fram- och bakaxel, så både höjd och dämpning kan justeras manuellt och automatiskt. Den minsta markfrigången är 185 mm, och den maximala är 224 mm.
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för Audi Q6 Sportback e-tron performance. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+Dynamisk styrning är standard på Audi Q6 Sportback e-tron performance, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort.
 
 ### Körlägen
 
-Audi Q6 Sportback e-tron performance låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 7 lägen:
+Audi Q6 Sportback e-tron performance låter användaren välja olika [körlägen](../../../../technology/drivemodes/) som påverkar bilens köregenskaper. Föraren kan välja mellan 7 lägen:
 
-- Dynamic: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
-- Efficiency: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
-- Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
-- Allroad: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning.
-- Offroad: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
-- Balanced: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
-- Custom: Anpassad styrning, fjädring och gasrespons.
+- Dynamic: Dynamisk styrning, låg markfrigång med dynamisk gasrespons och fjädring.
+- Efficiency: Balanserad styrning, låg markfrigång med effektiv gasrespons och balanserad fjädring.
+- Comfort: Balanserad styrning, normal markfrigång med effektiv gasrespons och komfortabel fjädring.
+- Allroad: Balanserad styrning, hög markfrigång med balanserad gasrespons och dämpning.
+- Offroad: Balanserad styrning, maximal markfrigång med balanserad gasrespons och dämpning.
+- Balanced: Balanserad styrning, adaptiv chassihöjd med balanserad gasrespons och adaptiv dämpning.
+- Custom: Användardefinierade inställningar för styrning, fjädring och gasrespons.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 375mm och de bakre skivorna är 350mm.
+Audi Q6 Sportback e-tron performance är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak. De främre skivorna mäter 375 mm, medan de bakre skivorna är 350 mm.
 
 ### Regenerativ bromsning
 
-Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektiviteten och körupplevelsen. Det mest effektiva alternativet är [**Automatiskt Regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet seglar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det är nödvändigt. <br /><br/> Ett annat alternativ är läget [**Regen på Gaspedal**](../../../../technology/regen/#one-pedal-driving), där regenerativ bromsning aktiveras när föraren släpper gaspedalen. Detta system tillåter fordonet att sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalskörning**. Denna modell erbjuder tre stoppmodi för enpedalskörning: <ul><li>**Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar</li><li>**Roll-läge** låter fordonet rulla tills det stannar naturligt</li><li>**Creep-läge** för bilen framåt i låg hastighet</li></ul>
+Systemet för [regenerativ bromsning](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektivitet och körupplevelse. Det mest effektiva alternativet är [**Automatisk regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet rullar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det behövs. <br /><br/> Ett annat alternativ är [**Regen på gaspedal**](../../../../technology/regen/#one-pedal-driving) läget där regenerativ bromsning aktiveras när föraren lättar på gaspedalen. Detta system gör att fordonet kan sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalkörning**. Denna modell erbjuder tre stopplägen för enpedalkörning: <ul><li>**Hållläge** bromsar fordonet till fullständigt stopp med friktionsbromsar</li><li>**Rullläge** låter fordonet rulla tills det stannar naturligt</li><li>**Krypläge** får bilen att röra sig framåt i låg hastighet</li></ul>
 
-Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket låter dig anpassa körupplevelsen efter dina preferenser.
 
 Den maximala regenerativa effekten är 220 kW.
 
@@ -100,23 +100,23 @@ Den maximala regenerativa effekten är 220 kW.
 
 ## Exteriör
 
-Audi Q6 Sportback e-tron performance, med dimensioner på 4771 mm i längd, 1939 mm i bredd och 1665 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Audi Q6 Sportback e-tron performance finns i totalt 56 lackfärger, inklusive solida, metalliska och pärlemorsalternativ. Utöver standardpaletten är några färger från den exklusiva paletten 'Audi exclusive'.
+Audi Q6 Sportback e-tron performance, med måtten 4771 mm i längd, 1939 mm i bredd och 1665 mm i höjd, tillhör kategorin kompakta SUV:ar, även kända som C-SUV:ar. Dessa erbjuder en balans mellan mindre bilars praktiska egenskaper och manövrerbarhet och större SUV:ars utrymme och mångsidighet. Audi Q6 Sportback e-tron performance finns tillgänglig i totalt 56 lackfärger, inklusive solida, metallic och pärlemo-alternativ. Utöver standardpaletten kommer vissa färger från den exklusiva 'Audi exclusive'-paletten.
 
-Du kan också välja flera stilalternativ för att göra din bil mer unik.
+Du kan även välja mellan flera olika stilalternativ för att göra din bil mer unik.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Audi Q6 Sportback e-tron performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Audi Q6 Sportback e-tron performance erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 235/60 däck på 19" fälgar fram och 255/55 däck på 19" fälgar bak
 - 255/50 däck på 20" fälgar fram och 285/45 däck på 20" fälgar bak
 - 255/45 däck på 21" fälgar fram och 285/40 däck på 21" fälgar bak
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Den elektriskt drivna bakluckan har en valfri kicksensor, som gör att den kan öppnas genom att helt enkelt sparka foten under bakluckan.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate). Den elektriskt manövrerade bakluckan kan som tillval fås med rörelsesensor, vilket gör det möjligt att öppna den genom att bara sparka med foten under bakluckan.
 
-Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+Det finns två olika takalternativ att välja mellan. Standard är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett panoramatak. Glaset sträcker sig över större delen av taket och passagerarna kan öppna den främre delen. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
+Du kan även beställa bilen med tonade rutor från B-stolpen och bakåt, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_sportback_e-tron_performance/exterior_1_st.jpg" title="Audi Q6 Sportback e-tron performance" width="3000" height="2250"  >}}
 
@@ -126,100 +126,100 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Audi Q6 Sportback e-tron performance har en förarfokuserad interiör som förbättrar cockpitkänslan, med premiummaterial i alla viktiga områden. Dessutom inkluderar den en traditionell mittkonsol som skiljer föraren från passageraren och ger praktisk förvaring och funktionalitet. Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Du kan välja mellan flera inredningsdesigner.
+Audi Q6 Sportback e-tron performance har en förarcentrerad interiör som förstärker cockpitkänslan, omgiven av premiummaterial i alla viktiga områden. Den har även en traditionell mittkonsol som separerar förare och passagerare och erbjuder praktisk förvaring och funktionalitet. Du kan välja mellan olika typer av säten, sätesmaterial och interiörstilar. Du kan välja mellan flera interiördesigner.
 
 ### Säten
 
-Audi Q6 Sportback e-tron performance rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+Audi Q6 Sportback e-tron performance rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
-För första raden erbjuder Audi Q6 Sportback e-tron performance tre olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
+Första raden erbjuder tre olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
-Följande funktioner är tillgängliga på **Normal** sätet.
+Följande funktioner finns tillgängliga på **Normal** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuellt justerbar)
-- höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfri)
+- Höjdjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating) (tillval)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 
-Följande funktioner är tillgängliga på **Sport** sätet.
+Följande funktioner finns tillgängliga på **Sport** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfri)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating) (tillval)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
-- Black [läderklädsel](../../../../technology/seats/materials/#leather)
-- Beige [läderklädsel](../../../../technology/seats/materials/#leather)
-- Red [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [skinnklädsel](../../../../technology/seats/materials/#leather)
+- Beige [skinnklädsel](../../../../technology/seats/materials/#leather)
+- Red [skinnklädsel](../../../../technology/seats/materials/#leather)
 
-Följande funktioner är tillgängliga på **Sport Plus** sätet.
+Följande funktioner finns tillgängliga på **Sport Plus** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfri)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating) (tillval)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-- Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [skinnklädsel](../../../../technology/seats/materials/#leather)
 - Black [Dinamica/läderklädsel](../../../../technology/seats/materials/#microfiber)
 - Black/Red [Dinamica/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_sportback_e-tron_performance/frontseats_1_st.jpg" title="Audi Q6 Sportback e-tron performance" width="3000" height="2249"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med 40:20:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttersäten)
 
-### Interiör Förvaring
+### Förvaringsutrymmen
 
-- **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
-- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
+- **Mugghållare:** Två mugghållare finns i mittkonsolen fram, med ytterligare två i armstödet bak.
+- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passagerarsätet, perfekt för förvaring av viktiga föremål.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Audi Q6 Sportback e-tron performance inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Audi Q6 Sportback e-tron performance ingår flera funktioner för att öka komfort och bekvämlighet:
 
 - **Elektriskt justerbar ratt**
-- **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
-- **Trådlös laddning av telefon**
+- **Easy Entry-funktion:** Flyttar förarsätet för att underlätta instigning i bilen.
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -227,129 +227,129 @@ Audi Q6 Sportback e-tron performance inkluderar flera funktioner för att förb�
 
 ## Användargränssnitt och kontroll
 
-Kontrollgränssnittet för denna elbilsmodell inkluderar en intuitiv kombination av knappar, spakar och skärmar, vilket ger en smidig och användarvänlig upplevelse.
+Kontrollgränssnittet för Audi Q6 Sportback e-tron performance kombinerar knappar, rattspakar och skärmar för en sömlös och användarvänlig upplevelse.
 
-Audi Q6 Sportback e-tron performance har två skärmar på en delad böjd ram delvis integrerad i instrumentbrädan. För passageraren finns en valfri [infotainmentskärm](../../../../technology/userinterface/screens/#front-passenger-screen).
+Audi Q6 Sportback e-tron performance har två skärmar på en delad böjd ram som är delvis integrerad i instrumentbrädan. Dessutom finns en valfri [infotainmentskärm](../../../../technology/userinterface/screens/#front-passenger-screen) tillgänglig för passageraren.
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten till vänster om ramen är 11,9 tum
-- Skärmen touch på högra sidan av den delade ramen är 14,9 tum
-- Skärmen touch framför passageraren i instrumentbrädan är 10,9 tum
+- -skärmen bakom ratten på vänster sida av ramen är 11,9 tum stor
+- touch-skärmen på höger sida av den delade ramen är 14,9 tum stor
+- touch-skärmen framför passageraren i instrumentbrädan är 10,9 tum stor
 
-En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+En head-up display är ett tillval system som projicerar hastighet och annan viktig förarinformation på vindrutan.
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_sportback_e-tron_performance/screens_1_st.jpg" title="Audi Q6 Sportback e-tron performance" width="3000" height="2250"  >}}
 
 ### Ratt
 
-Audi Q6 Sportback e-tron performance är utrustad med en enda typ av ratt:
+Audi Q6 Sportback e-tron performance är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
-Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+Denna modell levereras med röststyrning som standard, vilket låter dig hantera olika funktioner genom röstkommandon.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
-Audi Q6 Sportback e-tron performance har ett avancerat infotainmentsystem baserat på Android Automotive OS, en plattform från Google specifikt designad för bilens instrumentbräda. För att förbättra detta robusta system har Audi integrerat sin egen svit av applikationer, vilket ger sömlös navigation, omfattande bilinställningar och mycket mer.
+Audi Q6 Sportback e-tron performance har ett avancerat infotainmentsystem byggt på Android Automotive OS, en plattform från Google speciellt utformad för fordonsinstrumentpaneler. För att förbättra detta robusta system har Audi integrerat sitt eget utbud av applikationer, vilket ger sömlös navigation, omfattande bilinställningar och mycket mer.
 
 ### Navigationssystem
 
-Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering där du kan definiera den önskade laddningsnivån vid din destination eller under laddningsstopp. Systemet ger realtids trafikinformation och satellitkartor, vilket säkerställer en effektiv och stressfri resa.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering, där du kan definiera önskad laddningsnivå vid destination eller under laddningsstopp. Systemet tillhandahåller trafikinformation i realtid och satellitkartor för att säkerställa en effektiv och stressfri resa.
 
-### App store
+### App-butik
 
-Infotainmentsystemet inkluderar en App Store där du kan ladda ner tredjepartsappar för att köra dem direkt på bilens skärm utan att behöva en ansluten telefon. Tillgängliga appar varierar beroende på marknad men inkluderar populära alternativ som:
+Infotainmentsystemet har en App Store där du kan ladda ner tredjepartsappar som körs direkt på bilens skärm utan att behöva en ansluten telefon. Tillgängliga appar varierar beroende på marknad men inkluderar populära alternativ som:
 
-- **Spotify:** Strömma miljontals låtar, spellistor och podcaster direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under din körning.
-- **TIDAL** Njut av högkvalitativ musikstreaming och exklusivt innehåll från dina favoritartister, vilket ger en premium ljudupplevelse direkt i ditt fordon.
-- **YouTube** Titta på dina favoritvideor, kanaler och spellistor på bilens infotainmentskärm, vilket gör det enkelt att hålla dig underhållen medan du är parkerad.
+- **Spotify:** Strömma miljoner låtar, spellistor och poddar direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under körningen.
+- **TIDAL:** Njut av musik i hifi-kvalitet och exklusivt innehåll från dina favoritartister, vilket ger en förstklassig ljudupplevelse direkt i ditt fordon.
+- **YouTube:** Titta på dina favoritvideor, kanaler och spellistor på bilens infotainmentskärm, vilket gör det enkelt att underhållas när bilen står parkerad.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder Audi Q6 Sportback e-tron performance Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Audi Q6 Sportback e-tron performance stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Audi Q6 Sportback e-tron performance.
+Du kan välja mellan två ljudsystem för Audi Q6 Sportback e-tron performance:
 
-- Med Audi Sound System får du fem högtalare med en maximal systemeffekt på 200 watt.
-- Med Bang & Olufsen Sound System får du 20 högtalare med en maximal systemeffekt på 830 watt.
+- **Audi Sound System:** Har fem högtalare och levererar en maximal uteffekt på 200 watt.
+- **Bang & Olufsen Sound System:** Har 20 högtalare och levererar en maximal uteffekt på 830 watt.
 
-Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
+Dessutom har modellen 2 USB-C-anslutningar som standard. Som tillval kan du få ytterligare 2 USB-C-anslutningar.
 
 ## Mobilapp
 
-Audi Q6 Sportback e-tron performance kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
+Audi Q6 Sportback e-tron performance levereras med en dedikerad mobilapp, tillgänglig för både Android och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner utformade för att förbättra din körupplevelse:
 
-- **Hitta ditt fordon**: Kontrollera enkelt var din bil befinner sig just nu.
-- **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
-- **Lås & Lås upp**: Lås eller lås upp bilens dörrar säkert med ett knapptryck.
-- **Schemalagd laddning**: Planera och schemalägg laddningssessioner inför dina resor.
-- **Justera laddmål**: Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
-- **Ruttplanering**: Planera din rutt och skicka den direkt till bilens navigationssystem.
-- **Körhistorik**: Granska detaljerna för dina tidigare resor.
+- **Hitta din bil:** Kontrollera enkelt bilens aktuella position.
+- **Förkonditionering:** Förvärm eller kyl din bil innan du börjar din resa för optimal komfort.
+- **Lås & lås upp:** Lås eller lås upp bildörrarna säkert med ett tryck.
+- **Schemalagd laddning:** Planera och schemalägg laddningssessioner inför dina resor.
+- **Justera laddningsmål:** Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
+- **Ruttplanering:** Planera din rutt och skicka den direkt till bilens navigationssystem.
+- **Körhistorik:** Granska detaljerna från dina tidigare resor.
 
-## Ljus
+## Belysning
 
-Du kan välja mellan två typer av strålkastare för Audi Q6 Sportback e-tron performance.
+Du kan välja mellan två olika typer av strålkastare för Audi Q6 Sportback e-tron performance.
 
-- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
-- **LED Matrix-strålkastare:** Tillgängliga som en uppgradering, detta adaptiva system delar upp den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan aktivera eller avaktivera individuellt. Detta optimerar belysningen genom att selektivt dämpa specifika områden för att undvika att blända mötande trafik. Dagsljuslamporna (DRL) för detta alternativ har också flera LED-segment, vilket gör att du kan anpassa din föredragna DRL-signatur. För ökad säkerhet inkluderar det hörnljus som lyser upp sidan när du svänger.
+- **Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
+- **LED Matrix-strålkastare:** Som uppgradering finns detta adaptiva system som delar upp strålkastarljuset i dussintals mindre strålar som ljuskontrollern kan aktivera eller inaktivera individuellt. Detta optimerar belysningen genom att selektivt dimma specifika områden för att undvika att blända mötande trafik. Varselljusen (DRL) för detta alternativ har också flera LED-segment som låter dig anpassa din föredragna DRL-signatur. För ökad säkerhet inkluderar det kurvljus som lyser upp sidan vid svängar.
 
 Dessutom har du två alternativ för bakljus:
 
-- Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
-- Valfria bakljus: Dessa har OLED-teknik, vilket ger förbättrad belysningsprestanda och ett distinkt utseende.
+- Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
+- Tillvalsbaklykta: Dessa använder OLED-teknik som erbjuder förbättrad belysningsprestanda och ett distinkt utseende.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
-Audi Q6 Sportback e-tron performance inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Audi Q6 Sportback e-tron performance har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
-[**Effektivitetsassistans**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion som hjälper föraren att förutse körförhållanden och spara energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion som hjälper förare att förutse körförhållanden och spara energi.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Audi Q6 Sportback e-tron performance, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Audi Q6 Sportback e-tron performance, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Audi Q6 Sportback e-tron performance, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Audi Q6 Sportback e-tron performance, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Audi Q6 Sportback e-tron performance, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Audi Q6 Sportback e-tron performance, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Audi Q6 Sportback e-tron performance, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Audi Q6 Sportback e-tron performance, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valfritt på Audi Q6 Sportback e-tron performance, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+[**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Tillval på Audi Q6 Sportback e-tron performance, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Audi Q6 Sportback e-tron performance, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Audi Q6 Sportback e-tron performance, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Audi Q6 Sportback e-tron performance, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Audi Q6 Sportback e-tron performance, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
 [**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Audi Q6 Sportback e-tron performance, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Audi Q6 Sportback e-tron performance, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Audi Q6 Sportback e-tron performance, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Valfritt på Audi Q6 Sportback e-tron performance, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
+[**Utstigningsvarning**](../../../../technology/driverassistance/exitwarning/): Tillval på Audi Q6 Sportback e-tron performance, detta system varnar passagerare mot att öppna dörrar om det finns risk för kollision.
 
-### Körautomatisering
+### Körautomation
 
-Audi Q6 Sportback e-tron performance erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Audi Q6 Sportback e-tron performance erbjuder [körautomation på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med  nivå 1-systemet får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tillval)
 
-Med det valfria Adaptive Cruise Assist nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+Med det valfria Adaptive Cruise Assist nivå 2-systemet får du ytterligare körautomationsfunktioner utöver de som anges ovan:
 
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
 ### Sensorer & Kameror
 
@@ -358,60 +358,60 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 ## Säkerhet
 
-Audi Q6 Sportback e-tron performance är utrustad med flera krockkuddar för att säkerställa skydd för passagerarna vid en kollision. Krockkuddesystemet inkluderar:
+Audi Q6 Sportback e-tron performance är utrustad med flera krockkuddar för att säkerställa passagerarskydd vid en kollision. Krockkuddesystemet inkluderar:
 
-- Främre krockkuddar för föraren och främre passageraren
+- Frontkrockkuddar för förare och passagerare
 - Sidokrockgardiner för både första och andra raden
-- Sidokrockkuddar för föraren och främre passageraren
-- Sidokrockkuddar för passagerarna i andra raden
-- En främre mittkrockkudde för att förhindra att föraren och främre passageraren kolliderar med varandra vid en sidokollision
+- Sidokrockkuddar för förare och passagerare
+- Sidokrockkuddar för passagerare i andra raden
+- En mittkrockkudde fram för att förhindra att förare och passagerare kolliderar med varandra vid en sidokrock
 
-Dessutom är säkerhetsbältena i första raden utrustade med bältessträckare som automatiskt stramar åt vid en kollision för att minimera skaderisken.
+Dessutom är framsätets säkerhetsbälten utrustade med bältesförsträckare som automatiskt spänns vid en kollision för att minimera skaderisken.
 
-Audi Q6 Sportback e-tron performance har noggrant testats av Euro NCAP, en oberoende organisation som utvärderar fordonssäkerhet. Den fick 5-stjärnigt betyg med följande poäng:
+Audi Q6 Sportback e-tron performance har genomgått omfattande tester av Euro NCAP, en oberoende organisation som utvärderar fordons säkerhet. Den fick ett 5-stjärnigt betyg med följande resultat:
 
-- Vuxna passagerare: 91%
-- Barnpassagerare: 92%
-- Osäkra trafikanter: 81%
+- Vuxna åkande: 91%
+- Barn åkande: 92%
+- Oskyddade trafikanter: 81%
 - Säkerhetsassistans: 80%
 
-Du kan se hela krocktestvideon [här](https://www.youtube.com/watch?v=H0mlUigYdfk).
+Du kan se hela krocktestet [här](https://www.youtube.com/watch?v=H0mlUigYdfk).
 
 ## Säkerhets- och åtkomstteknologier
 
 Audi Q6 Sportback e-tron performance är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
-- **Telefon som nyckelfunktionalitet:** Den valfria telefon som nyckelteknologin låter dig använda din smartphone som en digital nyckel, vilket ger bekvämlighet och flexibilitet för att låsa upp och starta fordonet.
-- **Larmsystem:** Ett valfritt integrerat larmsystem övervakar obehörig åtkomst eller manipulation och ger varningar för att hjälpa till att avskräcka intrång och förbättra fordonets säkerhet.
+- **Nyckelfritt inträde och start:** Med standard nyckelfri start och valfritt nyckelfritt inträde kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
+- **Telefon som nyckel-funktion:** Den valfria telefon som nyckel-teknologin låter dig använda din smartphone som digital nyckel, vilket ger extra bekvämlighet och flexibilitet för upplåsning och start av fordonet.
+- **Larmsystem:** Ett valfritt integrerat larmsystem övervakar mot obehörigt intrång eller manipulering och ger varningar för att avskräcka intrång och förbättra fordonssäkerheten.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 511 liter. Med baksätena nedfällda ökar detta till 1514 liter. På taket kan du lasta upp till 75 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 64 liter.
+Bagageutrymmet har en lastkapacitet på 511 liter (18,0 kubikfot). Med baksätet nedfällt ökar detta till 1514 liter (53,5 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs). Takräcken finns som tillval för enkel montering av takbox eller lasthållare. Dessutom finns det en frunk (främre bagageutrymme) med en lagringskapacitet på 64 liter (2,3 CU FT).
 
-Fordonets maximala vikt är 2815 kg, med en grundvikt på 2200 kg. Detta tillåter en maximal last på 615 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2815 kg (6206 lbs), med en tjänstevikt på 2200 kg (4850 lbs). Detta möjliggör en maximal last på 615 kg (1356 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2000 kg, medan för en obromsad släpvagn är den 750 kg.
+Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 2000 kg (4409 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_sportback_e-tron_performance/trunk_1_st.jpg" title="Audi Q6 Sportback e-tron performance" width="3000" height="2250"  >}}
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 14.10.2024 och leveranserna startade i March 2025.
+Audi Q6 Sportback e-tron performance hade sin världspremiär den 14.10.2024, och leveranserna startade March 2025.
 
-### Prissättning
+### Priser
 
-Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan visas startpriserna för utvalda länder:
 
 - 749 000,00 NOK (Norge)
 
-## Alternativa Modeller
+## Alternativa modeller
 
-På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till Audi Q6 Sportback e-tron performance som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
+På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternativ till Audi Q6 Sportback e-tron performance som är värda att överväga baserat på funktioner, specifikationer och prissättning. Även om dessa modeller kanske inte är exakta matchningar, kan en jämförelse hjälpa dig att fatta ett mer välgrundat köpbeslut:
 
 - [Mercedes EQE 350+ SUV](/models/mercedes/eqe_suv/eqe_350plus_suv/)
 - [Porsche Macan](/models/porsche/macan/macan/)

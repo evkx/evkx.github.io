@@ -1,5 +1,5 @@
 ---
-title: OMODA elektriske modeller
+title: OMODA elbilsmodeller
 linktitle: "OMODA"
 description: "Omoda är ett relativt nytt bilmärke som har uppstått från Chery, en av de största kinesiska biltillverkarna. Officiellt lanserat 2022 representerar Omoda Cherys försök att tillgodose yngre, teknikkunniga konsumenter med fokus på banbrytande design, avancerad teknik och hållbarhet. Märket betonar elektriska och hybrida fordonsalternativ, i linje med globala trender mot grönare och mer miljövänliga transportlösningar."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">

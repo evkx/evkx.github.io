@@ -1,5 +1,5 @@
 ---
-title: Dongfeng elektriske modeller
+title: Dongfeng elbilsmodeller
 linktitle: "Dongfeng"
 description: "Dongfeng Motor Corporation, etablerad 1969, är en av Kinas största och mest inflytelserika biltillverkare. Känd för sitt breda utbud av fordon, inklusive personbilar, kommersiella lastbilar och elfordon, har Dongfeng en betydande närvaro både nationellt och internationellt. Med starkt fokus på innovation har företaget utökat sitt utbud av elfordon och strävar efter att leda inom hållbar mobilitet."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -37,7 +37,7 @@ Dongfeng Nammi Box är en budget halvkombi tillgänglig i 2 varianter.
 </div><div class="accordion-item">
     <h2 class="accordion-header">
         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
-            Om varumärket
+            Om märket
         </button>
     </h2>
     <div id="module-company" class="accordion-collapse collapse">

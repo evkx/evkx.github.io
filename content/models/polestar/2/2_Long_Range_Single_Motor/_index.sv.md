@@ -1,7 +1,7 @@
 ---
 title: Polestar 2 Long Range Single Motor
 linktitle: "2 Long Range Single Motor"
-description: "Polestar 2 Long Range Single Motor är en helelektrisk sedan med en WLTP räckvidd på upp till 635 km. EVKX.net har alla detaljer."
+description: "Polestar 2 Long Range Single Motor är en helt elektrisk sedan med en WLTP-räckvidd på upp till 635 km (395 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/main_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250"  >}}
 
-Vi har delat in vår beskrivning av Polestar 2 Long Range Single Motor i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Polestar 2 Long Range Single Motor levererar en solid prestanda med en maximal effekt på 220 kW (299 hk) och ett totalt vridmoment på 490 Nm. Den kan accelerera från 0 till 100 km/h på 6,2 sekunder och når en topphastighet på 205 km/h, vilket gör den konkurrenskraftig i sin klass.
+Polestar 2 Long Range Single Motor levererar en solid prestanda med en maxeffekt på 220 kW (299 hk / 295 bhp) och ett totalt vridmoment på 490 Nm (362 lb-ft). Den accelererar från 0 till 100 km/h på 6,2 sekunder och når en toppfart på 205 km/h (127 mph), vilket gör den konkurrenskraftig inom sin klass.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 82,0 kWh och en nettoanvändbar kapacitet på 79,0 kWh, vilket ger en buffert på 3,0 kWh (3,7%) för batteriskydd. Med en nominell spänning på 400 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet med hög kapacitet har en bruttokapacitet på 82,0 kWh och en nettoanvändbar kapacitet på 79,0 kWh, vilket ger en 3,0 kWh buffert (3,7%) för batteriskydd. Med en nominell spänning på 400 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 635 och 591 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 12,4 kWh/100 km för basmodellen och 13,4 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 635 till 591 km (395-367 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 12,4 kWh/100 km för basmodellen och 13,4 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 205 kW. En full laddning från 0 - 100 % tar 66 minuter, medan ett vanligare scenario på 10-80 % tar 29 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 50%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 118kW. Varje laddningssession tar 20 minuter och 42 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 205 kW. Laddning från 0% till 100% tar ungefär 66 minuter, medan ett mer typiskt scenario från 10% till 80% tar 29 minuter med en genomsnittlig laddningshastighet på 116 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 50%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 118 kW, där varje laddningssession tar cirka 20 minuter och 42 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 21,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 30 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 59%, med en total laddningstid på 71 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 21,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 30 minuter, med tre laddningsstopp från 1% till 59%, totalt 71 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 10 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 7 timmar och 10 minuter vid hemmaladdning.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [vänster baksida](../../../../technology/charging/connectors/#rear-side), vilket gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,38 +56,38 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 ## Drivlina
 
-Polestar 2 Long Range Single Motor har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
+Polestar 2 Long Range Single Motor har ett bakhjulsdrivet system med en motor på bakaxeln.
 
-### Hjulupphängning
+### Fjädring
 
-Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 151 mm.
+s fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 151 mm.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
+Polestar 2 Long Range Single Motor är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak.
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Du kan välja mellan två stoppmodi för enpedalskörning. **Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar och **Creep-läge** för bilen framåt i låg hastighet.
+[Regenerativ bromsning](../../../../technology/regen/) finns tillgänglig i två lägen. Du kan använda [enpedalkörning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla fritt och använda [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal) för regenerering. Du kan välja mellan två stopplägen för enpedalkörning. **Hållläge** bromsar fordonet till fullständigt stopp med friktionsbromsar och **Krypläge** får bilen att röra sig framåt i låg hastighet.
 
-Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket låter dig anpassa körupplevelsen efter dina preferenser.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Polestar 2 Long Range Single Motor, med dimensioner på 4606 mm i längd, 1859 mm i bredd och 1652 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Polestar 2 Long Range Single Motor finns i totalt 6 lackfärger, inklusive flera iögonfallande metalliska alternativ.
+Polestar 2 Long Range Single Motor, med måtten 4606 mm i längd, 1859 mm i bredd och 1652 mm i höjd, tillhör D-segmentet, även känt som mellanklassen eller familjebilar. De erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för många olika förare. Polestar 2 Long Range Single Motor finns tillgänglig i totalt 6 lackfärger, inklusive flera slående metallic-alternativ.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Polestar 2 Long Range Single Motor, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Polestar 2 Long Range Single Motor erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 245/45 däck på 19" fälgar
 - 245/40 däck på 20" fälgar
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [halvkombilucka](../../../../technology/doors/#hatcback-style-liftgate).
 
-Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
+Det finns två olika takalternativ att välja mellan. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig från fram till bak. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Glaset är tonat för att skydda mot värme från solen.
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/exteriore_3_st.jpg" title="Polestar 2 Long Range Single Motor" width="2953" height="2215"  >}}
 
@@ -97,38 +97,38 @@ Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du be
 
 ## Interiör
 
-Det finns en sätestyp du kan välja i olika material.
+Det finns en sätestyp som du kan välja i olika material.
 
 ### Säten
 
-Polestar 2 Long Range Single Motor rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+Polestar 2 Long Range Single Motor rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
 Polestar 2 Long Range Single Motor erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner finns tillgängliga på **standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan välja mellan 5 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Gray [tygklädsel](../../../../technology/seats/materials/#fabric)
-- Gray [läderklädsel](../../../../technology/seats/materials/#leather)
+- Gray [skinnklädsel](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/frontseats_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="1687"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med  delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating) (standard för yttersäten)
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250"  >}}
 
@@ -136,19 +136,19 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
-- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
+- **2-zons klimatsystem:** Stöder olika temperaturer för förare och passagerare.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Polestar 2 Long Range Single Motor inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Polestar 2 Long Range Single Motor ingår flera funktioner för att öka komfort och bekvämlighet:
 
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -156,26 +156,26 @@ Polestar 2 Long Range Single Motor inkluderar flera funktioner för att förbät
 
 ## Användargränssnitt och kontroll
 
-Polestar 2 Long Range Single Motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+Polestar 2 Long Range Single Motor har flera integrerade skärmar. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) högst upp.
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum
-- Skärmen touch översta mittkonsolen är 11,2 tum
+- -skärmen bakom ratten integrerad i instrumentbrädan är 12,3 tum stor
+- touch-skärmen högst upp i mittkonsolen är 11,2 tum stor
 
-Modellen är inte tillgänglig med head-up display.
+Modellen har ingen head-up display.
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/screens_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250"  >}}
 
 ### Ratt
 
-Polestar 2 Long Range Single Motor är utrustad med en enda typ av ratt:
+Polestar 2 Long Range Single Motor är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt har integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt har integrerad uppvärmning för extra komfort under kalla dagar. Den erbjuder också intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -183,21 +183,21 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Polestar 2 Long Range Single Motor.
+Du kan välja mellan två ljudsystem för Polestar 2 Long Range Single Motor:
 
-- Med High Performance får du åtta högtalare med en maximal systemeffekt på 200 watt.
-- Med Harman Kardon Premium Sound får du 13 högtalare med en maximal systemeffekt på 600 watt.
+- **High Performance:** Har åtta högtalare och levererar en maximal uteffekt på 200 watt.
+- **Harman Kardon Premium Sound:** Har 13 högtalare och levererar en maximal uteffekt på 600 watt.
 
-Modellen har 4 USB-C-anslutningar som standard.
+Dessutom har modellen 4 USB-C-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-Du kan välja mellan två typer av strålkastare för Polestar 2 Long Range Single Motor.
+Du kan välja mellan två olika typer av strålkastare för Polestar 2 Long Range Single Motor.
 
-- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
-- **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
+- **Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
+- **LED Matrix-strålkastare:** Som tillval finns detta adaptiva system som delar upp den traditionella strålkastarljusstrålen i dussintals mindre strålar som ljuskontrollern kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/headlights_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="1766"  >}}
 
@@ -205,44 +205,44 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-Polestar 2 Long Range Single Motor inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Polestar 2 Long Range Single Motor har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
-[**Effektivitetsassistans**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion som hjälper föraren att förutse körförhållanden och spara energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion som hjälper förare att förutse körförhållanden och spara energi.
 
 ### Säkerhetssystem
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Polestar 2 Long Range Single Motor, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Polestar 2 Long Range Single Motor, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Polestar 2 Long Range Single Motor, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Polestar 2 Long Range Single Motor, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Polestar 2 Long Range Single Motor, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+[**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Polestar 2 Long Range Single Motor, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Polestar 2 Long Range Single Motor, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Polestar 2 Long Range Single Motor, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Polestar 2 Long Range Single Motor, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Polestar 2 Long Range Single Motor, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
-### Körautomatisering
+### Körautomation
 
-Med standard Pilot Assist nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet Pilot Assist nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
 ## Säkerhets- och åtkomstteknologier
 
 Polestar 2 Long Range Single Motor är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Fordonets nyckelfria inträdes- och startsystem möjliggör sömlös åtkomst, vilket låter dig låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 405 liter. Med baksätena nedfällda ökar detta till 1095 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 31 liter.
+Bagageutrymmet har en lastkapacitet på 405 liter (14,3 kubikfot). Med baksätet nedfällt ökar detta till 1095 liter (38,7 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs). Dessutom finns det en frunk (främre bagageutrymme) med en lagringskapacitet på 31 liter (1,1 CU FT).
 
-Fordonets maximala vikt är 2520 kg, med en grundvikt på 2025 kg. Detta tillåter en maximal last på 495 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2520 kg (5556 lbs), med en tjänstevikt på 2025 kg (4464 lbs). Detta möjliggör en maximal last på 495 kg (1091 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1500 kg, medan för en obromsad släpvagn är den 750 kg.
+Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 1500 kg (3307 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 {{< pagenavigation b_url="../" b_title="Polestar 2" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

@@ -1,7 +1,7 @@
 ---
-title: Genesis GV60 2WD galleri
-linktitle: "Galleri"
-description: "Se nedan för vårt stora Genesis GV60 2WD-bildgalleri. Klicka på bilderna för högupplösta versioner."
+title: Genesis GV60 2WD bildgalleri
+linktitle: "Bildgalleri"
+description: "Se nedan för vårt stora Genesis GV60 2WD bildgalleri. Klicka på bilderna för högupplösta versioner."
 weight: 5
 hidden: true
 navicon: bi-images
@@ -185,6 +185,6 @@ lightbox.init();
 <strong><i class="bi-arrow-left"></i> Specifikationer </strong>
 </a>
 <a href="../reviews/" class="text-decoration-none text-black float-end">
-<strong>Tester <i class="bi-arrow-right"></i></strong>
+<strong>Recensioner <i class="bi-arrow-right"></i></strong>
 </a>
 </div>

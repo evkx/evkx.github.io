@@ -1,5 +1,5 @@
 ---
-title: Nio elektriske modeller
+title: Nio elbilsmodeller
 linktitle: "Nio"
 description: "Nio Inc  is a Chinese multinational automobile manufacturer headquartered in Shanghai, specializing in designing and developing electric vehicles. The company develops battery-swapping stations for its vehicles, as an alternative to conventional charging stations. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -86,7 +86,7 @@ Nio ES8 är en SUV tillgänglig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Nio ET5 är en sedan/kombi som finns i 2 varianter.
+Nio ET5 är en sedan/kombi tillgänglig i 2 varianter.
 </p>
 	<a href="et5/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -101,7 +101,7 @@ Nio ET5 är en sedan/kombi som finns i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Nio ET7 är en sedan som finns i 1 varianter.
+Nio ET7 är en sedan tillgänglig i 1 varianter.
 </p>
 	<a href="et7/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

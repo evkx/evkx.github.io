@@ -1,7 +1,7 @@
 ---
 title: Tesla Model Y Long Range RWD
 linktitle: "Model Y Long Range RWD"
-description: "Tesla Model Y Long Range RWD är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 600 km. EVKX.net har alla detaljer."
+description: "Tesla Model Y Long Range RWD är en elektrisk coupéSUV med en WLTP-räckvidd på upp till 600 km (373 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/main_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2250"  >}}
 
-Vi har delat in vår beskrivning av Tesla Model Y Long Range RWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Tesla Model Y Long Range RWD levererar en solid prestanda med en maximal effekt på 250 kW (340 hk) och ett totalt vridmoment på 450 Nm. Den kan accelerera från 0 till 100 km/h på 5,9 sekunder och når en topphastighet på 217 km/h, vilket gör den konkurrenskraftig i sin klass.
+Tesla Model Y Long Range RWD levererar en solid prestanda med en maxeffekt på 250 kW (340 hk / 335 bhp) och ett totalt vridmoment på 450 Nm (332 lb-ft). Den accelererar från 0 till 100 km/h på 5,9 sekunder och når en toppfart på 217 km/h (135 mph), vilket gör den konkurrenskraftig inom sin klass.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 82,0 kWh och en nettoanvändbar kapacitet på 79,0 kWh, vilket ger en buffert på 3,0 kWh (3,7%) för batteriskydd. Med en nominell spänning på 357 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Batteriet med hög kapacitet har en bruttokapacitet på 82,0 kWh och en nettoanvändbar kapacitet på 79,0 kWh, vilket ger en 3,0 kWh buffert (3,7%) för batteriskydd. Med en nominell spänning på 357 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden.
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 600 km (199 miles), med en energiförbrukningshastighet på 13,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 600 km (373 miles), med en energiförbrukning på 13,2 kWh/100 km (3 mi/kWh). För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 67 minuter, medan ett vanligare scenario på 10-80 % tar 33 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 109kW. Varje laddningssession tar 17 minuter och 23 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 250 kW. Laddning från 0% till 100% tar ungefär 67 minuter, medan ett mer typiskt scenario från 10% till 80% tar 33 minuter med en genomsnittlig laddningshastighet på 99 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 5% till 45%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 109 kW, där varje laddningssession tar cirka 17 minuter och 23 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 19,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 24 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 42%, med en total laddningstid på 64 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 19,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 24 minuter, med fyra laddningsstopp från 5% till 42%, totalt 64 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 10 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 7 timmar och 10 minuter vid hemmaladdning.
 
 ### Laddningsport
 
-Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technology/charging/connectors/#rear-corner). Denna plats gör det lätt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**NACS**](../../../../technology/charging/connectors/#nacs) för Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) för Europa. Se fullständiga specifikationer för alla marknader.
+Laddningsporten är bekvämt placerad på [vänster bakhörn](../../../../technology/charging/connectors/#rear-corner) av fordonet, vilket underlättar åtkomst när du backar in i laddstationer. Kontakttyperna varierar mellan olika marknader. Denna modell använder [**NACS**](../../../../technology/charging/connectors/#nacs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,45 +56,45 @@ Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technolo
 
 ## Drivlina
 
-Tesla Model Y Long Range RWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
+Tesla Model Y Long Range RWD har ett fyrhjulsdrivet system som drivs av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/) på bakaxeln.
 
-### Hjulupphängning
+### Fjädring
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 167 mm.
+Framfjädringen använder [dubbel länkarm](../../../../technology/suspension/#double-wishbone), medan bak använder [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. standards fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 167 mm.
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för Tesla Model Y Long Range RWD. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+Dynamisk styrning är standard på Tesla Model Y Long Range RWD, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 355mm och de bakre skivorna är 335mm.
+Tesla Model Y Long Range RWD är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak. De främre skivorna mäter 355 mm, medan de bakre skivorna är 335 mm.
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) i denna modell underlättas främst genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling inte tillgänglig här. Denna modell erbjuder tre stoppmodi för enpedalskörning: <ul><li>**Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar</li><li>**Roll-läge** låter fordonet rulla tills det stannar naturligt</li><li>**Creep-läge** för bilen framåt i låg hastighet</li></ul>
+[Regenerativ bromsning](../../../../technology/regen/) i denna modell sker främst genom [**enpedalkörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive) eller frihjul inte tillgängligt här. Denna modell erbjuder tre stopplägen för enpedalkörning: <ul><li>**Hållläge** bromsar fordonet till fullständigt stopp med friktionsbromsar</li><li>**Rullläge** låter fordonet rulla tills det stannar naturligt</li><li>**Krypläge** får bilen att röra sig framåt i låg hastighet</li></ul>
 
-Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket låter dig anpassa körupplevelsen efter dina preferenser.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Tesla Model Y Long Range RWD, med dimensioner på 4751 mm i längd, 1921 mm i bredd och 1624 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Tesla Model Y Long Range RWD finns i totalt 6 lackfärger, inklusive både solida och metalliska alternativ.
+Tesla Model Y Long Range RWD, med måtten 4751 mm i längd, 1921 mm i bredd och 1624 mm i höjd, tillhör kategorin kompakta SUV:ar, även kända som C-SUV:ar. Dessa erbjuder en balans mellan mindre bilars praktiska egenskaper och manövrerbarhet och större SUV:ars utrymme och mångsidighet. Tesla Model Y Long Range RWD finns tillgänglig i totalt 6 lackfärger, inklusive både solida och metallic-alternativ.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Tesla Model Y Long Range RWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Tesla Model Y Long Range RWD erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 255/45 däck på 19" fälgar
 - 255/40 däck på 20" fälgar
 - 255/35 däck på 21" fälgar fram och 275/35 däck på 21" fälgar bak
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Bakluckan är eldriven och har sparksensor som standard.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate). Bakluckan är elektriskt manövrerad och har rörelsesensor som standard.
 
-Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
+Det finns bara ett takalternativ för denna modell. Standardtaket har ett stort panoramaglas som sträcker sig från fram till bak. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Glaset är tonat för att skydda mot värme från solen.
 
-B-stolpen och vyerna bak är tonade.
+Rutorna från B-stolpen och bakåt är tonade, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/exterior_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2455"  >}}
 
@@ -104,44 +104,44 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Interiören i Tesla Model Y Long Range RWD är designad med en minimalistisk estetik och har material av medelkvalitet genomgående. En traditionell mittkonsol separerar föraren och passageraren och erbjuder praktiska förvaringslösningar och förbättrad funktionalitet. Du kan välja mellan flera inredningsdesigner.
+Interiören i Tesla Model Y Long Range RWD är designad med en minimalistisk estetik, med material av medelhög kvalitet genomgående. En traditionell mittkonsol separerar förare och passagerare och erbjuder praktiska förvaringslösningar och förbättrad funktionalitet. Du kan välja mellan flera interiördesigner.
 
 ### Säten
 
-Dessutom erbjuder modellen en traditionell femsitslayout eller en valfri sjusitslayout.
+Tesla Model Y Long Range RWD finns tillgänglig i en standardkonfiguration med fem säten, med möjlighet till sju säten som tillval för ökad mångsidighet.
 
-#### Framsäten
+#### Första radens säten
 
 Tesla Model Y Long Range RWD erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner finns tillgängliga på **standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
 
-Du kan välja mellan 2 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Black/White [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black/White [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/frontseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med 60:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttersäten)
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/secondrowseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
 
-#### Seter på tredje rad
+#### Tredje radens säten
 
-Den tredje raden har en valfri tvåsitsbänk med en 50:50-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
+Tredje raden har en tillvalsoffa med två säten som är delbar 50:50. Du kan även här fälla ner sätena när de inte används för att skapa större lastutrymme.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/thirdrowseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
 
@@ -149,21 +149,21 @@ Den tredje raden har en valfri tvåsitsbänk med en 50:50-delning. Återigen kan
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
-- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
+- **1-zons klimatsystem:** Stöder endast en gemensam klimatzon för hela bilen.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Tesla Model Y Long Range RWD inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Tesla Model Y Long Range RWD ingår flera funktioner för att öka komfort och bekvämlighet:
 
 - **Elektriskt justerbar ratt**
-- **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
-- **Trådlös laddning av telefon**
+- **Easy Entry-funktion:** Flyttar förarsätet för att underlätta instigning i bilen.
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -171,165 +171,165 @@ Tesla Model Y Long Range RWD inkluderar flera funktioner för att förbättra ko
 
 ## Användargränssnitt och kontroll
 
-Kontrollgränssnittet för denna elbilsmodell är fokuserat på skärminteraktion och har endast begränsad funktionalitet tillgänglig på knappar och spakar. För vissa kan detta resultera i en mindre än idealisk användarupplevelse och användbarhet.
+Kontrollgränssnittet för Tesla Model Y Long Range RWD är primärt fokuserat på skärminteraktion, med begränsad funktionalitet tillgänglig via fysiska knappar och rattspakar. Denna design kan resultera i en mindre optimal användarupplevelse för vissa användare.
 
-Tesla Model Y Long Range RWD har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment.
+Tesla Model Y Long Range RWD har en enda skärm för föraren. I mitten av instrumentbrädan finns en enda [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) som fungerar som huvuddisplay för både fordonsinformation och infotainment.
 
 Viktiga skärmdetaljer:
 
-- Skärmen touch i mitten av instrumentbrädan är 15,0 tum
+- touch-skärmen på instrumentbrädans mitt är 15,0 tum stor
 
-Modellen är inte tillgänglig med head-up display.
+Modellen har ingen head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/screens_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="1800"  >}}
 
 ### Ratt
 
-Tesla Model Y Long Range RWD är utrustad med en enda typ av ratt:
+Tesla Model Y Long Range RWD är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt har integrerad uppvärmning för ökad komfort i kallt väder. Det inkluderar även två multifunktionella rullhjul som gör det möjligt att styra infotainmentsystemet, justera volymen, byta musikspår och hantera andra viktiga funktioner med lätthet.
+- **Rund ratt:** Denna ratt har integrerad uppvärmning för extra komfort under kalla dagar. Den har också två multifunktionella scrollhjul som låter dig styra infotainmentsystemet, justera volymen, byta musik och hantera andra viktiga funktioner med enkelhet.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
-Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+Denna modell levereras med röststyrning som standard, vilket låter dig hantera olika funktioner genom röstkommandon.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
-Tesla Model Y Long Range RWD har ett Tesla Infotainment-system som körs på ett specialbyggt, Linux-baserat operativsystem, designat för en smidig och responsiv användarupplevelse. Det intuitiva gränssnittet är optimerat för enkel användning, vilket gör att förare kan navigera genom menyer och inställningar med minimala distraktioner. Systemet stöder över-the-air-uppdateringar, vilket säkerställer kontinuerliga förbättringar och tillgång till de senaste funktionerna utan behov av att besöka en återförsäljare. Strömlinjeformad röststyrningsfunktionalitet och pekskärmskontroller ger snabb åtkomst till viktiga funktioner och förbättrar den övergripande användbarheten. Operativsystemet erbjuder också en hög grad av anpassning, vilket gör att användarna kan skräddarsy sin upplevelse efter sina preferenser.
+Tesla Model Y Long Range RWD har ett Tesla Infotainmentsystem som körs på ett skräddarsytt, Linux-baserat operativsystem, utformat för en smidig och responsiv användarupplevelse. Det intuitiva gränssnittet är optimerat för enkel användning och låter förare navigera menyer och inställningar med minimala distraktioner. Systemet stödjer trådlösa uppdateringar, vilket säkerställer kontinuerliga förbättringar och tillgång till de senaste funktionerna utan behov av verkstadsbesök. Strömlinjeformad röststyrning och pekskärmskontroller ger snabb åtkomst till väsentliga funktioner och förbättrar den övergripande användbarheten. Operativsystemet erbjuder också hög grad av anpassning, vilket gör att användare kan skräddarsy sin upplevelse efter sina preferenser.
 
 ### Navigationssystem
 
-Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering där du kan definiera önskad laddningsnivå vid din destination eller under laddstopp. Systemet ger realtids trafikinformation som säkerställer en effektiv och stressfri resa.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering, där du kan definiera önskad laddningsnivå vid destination eller under laddningsstopp. Systemet tillhandahåller trafikinformation i realtid för att säkerställa en effektiv och stressfri resa.
 
-### Förinstallerade Appar
+### Förinstallerade appar
 
-Även om infotainmentsystemet inte inkluderar en appbutik, levereras det med ett urval av förinstallerade tredjepartsappar som körs direkt på bilens skärm, oberoende av en ansluten telefon. Tillgängliga appar varierar beroende på marknad, men inkluderar populära alternativ som:
+Även om infotainmentsystemet inte har någon app-butik, levereras det med ett urval av förinstallerade tredjepartsappar som körs direkt på bilens skärm, oberoende av en ansluten telefon. De tillgängliga apparna varierar beroende på marknad men inkluderar populära alternativ som:
 
-- **Spotify:** Strömma miljontals låtar, spellistor och podcaster direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under din körning.
-- **Netflix** Njut av filmer och serier direkt på skärmen i ditt fordon, perfekt för underhållning när du är parkerad.
-- **YouTube** Titta på dina favoritvideor, kanaler och spellistor på bilens infotainmentskärm, vilket gör det enkelt att hålla dig underhållen medan du är parkerad.
-- **Twitch** Strömma liveinnehåll från spel eller titta på dina favoritstreamare när du är på språng.
-- **TIDAL** Njut av högkvalitativ musikstreaming och exklusivt innehåll från dina favoritartister, vilket ger en premium ljudupplevelse direkt i ditt fordon.
-- **TuneIn** Få tillgång till livesända radiostationer, podcaster och nyheter från hela världen.
+- **Spotify:** Strömma miljoner låtar, spellistor och poddar direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under körningen.
+- **Netflix:** Njut av filmer och serier direkt från fordonets skärm, perfekt för underhållning när bilen står parkerad.
+- **YouTube:** Titta på dina favoritvideor, kanaler och spellistor på bilens infotainmentskärm, vilket gör det enkelt att underhållas när bilen står parkerad.
+- **Twitch:** Strömma direktsänt spelinnehåll eller titta på dina favoritströmmare på språng.
+- **TIDAL:** Njut av musik i hifi-kvalitet och exklusivt innehåll från dina favoritartister, vilket ger en förstklassig ljudupplevelse direkt i ditt fordon.
+- **TuneIn:** Få tillgång till direktsända radiostationer, poddar och nyheter från hela världen.
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Tesla Model Y Long Range RWD.
+Tesla Model Y Long Range RWD levereras med ett ljudsystemalternativ:
 
-- Med Tesla Premium Sound får du 13 högtalare med en maximal systemeffekt på 560 watt.
+- **Tesla Premium Sound:** Har 13 högtalare och levererar en maximal uteffekt på 560 watt.
 
-Modellen har 4 USB-C-anslutningar som standard.
+Dessutom har modellen 4 USB-C-anslutningar som standard.
 
 ## Mobilapp
 
-Tesla Model Y Long Range RWD kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
+Tesla Model Y Long Range RWD levereras med en dedikerad mobilapp, tillgänglig för både Android och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner utformade för att förbättra din körupplevelse:
 
-- **Hitta ditt fordon**: Kontrollera enkelt var din bil befinner sig just nu.
-- **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
-- **Fjärrparkering**: Styr din bil på distans för att parkera eller lämna en parkeringsplats.
-- **Lås & Lås upp**: Lås eller lås upp bilens dörrar säkert med ett knapptryck.
-- **Fönsterkontroll**: Öppna och stäng fönstren varifrån som helst.
-- **Schemalagd laddning**: Planera och schemalägg laddningssessioner inför dina resor.
-- **Justera laddmål**: Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
-- **Hitta din bil**: Aktivera tutan eller lamporna för att hitta din bil i trånga områden.
-- **Ruttplanering**: Planera din rutt och skicka den direkt till bilens navigationssystem.
-- **Körhistorik**: Granska detaljerna för dina tidigare resor.
+- **Hitta din bil:** Kontrollera enkelt bilens aktuella position.
+- **Förkonditionering:** Förvärm eller kyl din bil innan du börjar din resa för optimal komfort.
+- **Fjärrparkering:** Styr enkelt din bil för att parkera eller köra ut från en parkeringsplats på distans.
+- **Lås & lås upp:** Lås eller lås upp bildörrarna säkert med ett tryck.
+- **Fönsterkontroll:** Öppna och stäng fönstren från var som helst.
+- **Schemalagd laddning:** Planera och schemalägg laddningssessioner inför dina resor.
+- **Justera laddningsmål:** Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
+- **Hitta din bil:** Aktivera tutan eller lamporna för att hjälpa dig hitta din bil i stora parkeringar.
+- **Ruttplanering:** Planera din rutt och skicka den direkt till bilens navigationssystem.
+- **Körhistorik:** Granska detaljerna från dina tidigare resor.
 
-## Ljus
+## Belysning
 
-Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt för att släcka små områden framför.
+Tesla Model Y Long Range RWD levereras med avancerade LED Matrix-strålkastare. Detta adaptiva system delar upp den traditionella strålkastarljusstrålen i flera mindre strålar, vilket låter ljuskontrollern selektivt tända och släcka dem för att undvika att blända andra förare. För ökad säkerhet har strålkastarna också kurvljus som lyser upp sidan vid svängar.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
-Tesla Model Y Long Range RWD inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Tesla Model Y Long Range RWD har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Tesla Model Y Long Range RWD, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Tesla Model Y Long Range RWD, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Tesla Model Y Long Range RWD, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Tesla Model Y Long Range RWD, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Tesla Model Y Long Range RWD, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Tesla Model Y Long Range RWD, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Tesla Model Y Long Range RWD, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Tesla Model Y Long Range RWD, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Tesla Model Y Long Range RWD, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Tesla Model Y Long Range RWD, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Tesla Model Y Long Range RWD, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Tesla Model Y Long Range RWD, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
 [**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Tesla Model Y Long Range RWD, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Tesla Model Y Long Range RWD, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Tesla Model Y Long Range RWD, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-### Körautomatisering
+### Körautomation
 
-Tesla Model Y Long Range RWD erbjuder [körautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Tesla Model Y Long Range RWD erbjuder [körautomation på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med standard Basic Autopilot nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet Basic Autopilot nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
-Med det valfria Enhanced Autopilot nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+Med det valfria Enhanced Autopilot nivå 2-systemet får du ytterligare körautomationsfunktioner utöver de som anges ovan:
 
-- Avancerad farthållare som följer navigeringen och slår av och på vid större vägar för att nå målet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- Avancerad farthållare som följer navigationen och aktiveras/avaktiveras på större vägar för att nå målet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatiskt körfältsbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Med det valfria Full Self-Driving Capability nivå 3-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+Med det valfria Full Self-Driving Capability nivå 3-systemet får du ytterligare körautomationsfunktioner utöver de som anges ovan:
 
 - Trafikljuskontroll - följer trafikljusen.
-- Stopp-skyltkontroll - följ stopp-skyltar.
+- Stoppskyltskontroll - följer stoppskyltarna.
 
 ### Sensorer & Kameror
 
-Denna modell använder endast kameror för sina förarassistanssystem. Denna design begränsar noggrannheten för förarassistanssystemen och gör dem mer känsliga för väder än bilar som även använder radar och andra sensorer.
+Denna modell använder enbart kameror för sina förarassistanssystem. Denna design begränsar assistanssystemens noggrannhet och gör dem mer känsliga för väder jämfört med bilar som även använder radar och andra sensorer.
 Den använder åtta [kameror](../../../../technology/sensorsandcameras/cameras/) för att registrera allt i fordonets omgivning.
 
 ## Säkerhets- och åtkomstteknologier
 
 Tesla Model Y Long Range RWD är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
-- **Telefon som nyckelfunktionalitet:** Med telefon som nyckelteknologi kan du använda din smartphone som en digital nyckel för att låsa upp och starta fordonet, vilket ger ett extra lager av bekvämlighet och flexibilitet.
-- **Larmsystem:** Ett integrerat larmsystem övervakar obehörig åtkomst eller manipulation och ger varningar för att hjälpa till att avskräcka intrång och hålla ditt fordon säkert.
-- **Integrerad dashcam:** Den inbyggda dashcamen spelar in videofilmer av dina resor och fångar viktiga detaljer för att ge ökad säkerhet, ansvarsskyldighet och sinnesro.
-- **Parkeringsövervakning:** Med hjälp av sitt kamerasystem övervakar fordonet aktivt omgivningen medan det är parkerat och ger ökat skydd genom kontinuerlig övervakning.
+- **Nyckelfritt inträde och start:** Fordonets nyckelfria inträdes- och startsystem möjliggör sömlös åtkomst, vilket låter dig låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
+- **Telefon som nyckel-funktion:** Med telefon som nyckel-teknologi kan du använda din smartphone som digital nyckel för att låsa upp och starta fordonet, vilket ger ett extra lager av bekvämlighet och flexibilitet.
+- **Larmsystem:** Ett integrerat larmsystem övervakar mot obehörigt intrång eller manipulering och ger varningar för att avskräcka intrång och hålla ditt fordon säkert.
+- **Integrerad dashkamera:** Den inbyggda dashkameran spelar in videomaterial från dina resor och fångar viktiga detaljer för extra säkerhet, ansvarsskyldighet och sinnesfrid.
+- **Parkeringsövervakning:** Med hjälp av sina kameror övervakar fordonet aktivt omgivningen medan det är parkerat och erbjuder förbättrat skydd genom kontinuerlig övervakning.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 854 liter. Med baksätena nedfällda ökar detta till 2158 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 117 liter.
+Bagageutrymmet har en lastkapacitet på 854 liter (30,2 kubikfot). Med baksätet nedfällt ökar detta till 2158 liter (76,2 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs). Dessutom finns det en frunk (främre bagageutrymme) med en lagringskapacitet på 117 liter (4,1 CU FT).
 
-Fordonets maximala vikt är 2600 kg, med en grundvikt på 1959 kg. Detta tillåter en maximal last på 641 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2600 kg (5732 lbs), med en tjänstevikt på 1959 kg (4319 lbs). Detta möjliggör en maximal last på 641 kg (1413 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok är standardutrustning på denna modell. Den maximala totala vikten på en bromsad släpvagn är 1600, och för en obromsad släpvagn är den 750 kg.
+Dragkrok är standardutrustning på denna modell. Maximal totalvikt för bromsad släpvagn är 1600 kg, och för obromsad släpvagn 750 kg (3527/1653 lbs).
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 19.03.2019 och leveranserna startade i March 2020.
+Tesla Model Y Long Range RWD hade sin världspremiär den 19.03.2019, och leveranserna startade March 2020.
 
-### Prissättning
+### Priser
 
-Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan visas startpriserna för utvalda länder:
 
 - $47 990,00 (USA)
 - 449 990,00 NOK (Norge)
 
-## Alternativa Modeller
+## Alternativa modeller
 
-På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till Tesla Model Y Long Range RWD som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
+På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternativ till Tesla Model Y Long Range RWD som är värda att överväga baserat på funktioner, specifikationer och prissättning. Även om dessa modeller kanske inte är exakta matchningar, kan en jämförelse hjälpa dig att fatta ett mer välgrundat köpbeslut:
 
 - [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
 - [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)

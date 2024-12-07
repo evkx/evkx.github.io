@@ -1,7 +1,7 @@
 ---
 title: Dacia Spring 65HP
 linktitle: "Spring 65HP"
-description: "Dacia Spring 65HP är en helelektrisk halvkombi med en WLTP räckvidd på upp till 220 km. EVKX.net har alla detaljer."
+description: "Dacia Spring 65HP är en elektrisk halvkombi med en WLTP-räckvidd på upp till 220 km (137 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/main_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1695"  >}}
 
-Vi har delat in vår beskrivning av Dacia Spring 65HP i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Dacia Spring 65HP erbjuder grundläggande prestanda med en maximal effekt på 48 kW (65 hk) och ett totalt vridmoment på 113 Nm. Den accelererar från 0 till 100 km/h på 13,7 sekunder och når en topphastighet på 125 km/h, vilket är mer jämförbart med instegsmodeller av traditionella förbränningsmotorfordon.
+Dacia Spring 65HP kWh erbjuder grundläggande prestanda med en maxeffekt på 48 kW (65 hk / 64 bhp) och ett totalt vridmoment på 113 Nm (83 lb-ft). Den accelererar från 0 till 100 km/h på 13,7 sekunder och når en toppfart på 125 km/h (78 mph), vilket är mer jämförbart med instegsmodeller med traditionell förbränningsmotor.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 26,8 kWh och en nettoanvändbar kapacitet på 25,0 kWh, vilket ger en buffert på 1,8 kWh (6,7%) för batteriskydd. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Batteriet med hög kapacitet har en bruttokapacitet på 26,8 kWh och en nettoanvändbar kapacitet på 25,0 kWh, vilket ger en 1,8 kWh buffert (6,7%) för batteriskydd. Litiumjonbatteriet använder [LFP-teknik](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), vilket erbjuder både fördelar och nackdelar jämfört med typiska NCA/NMC-batterier.
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 220 km (199 miles), med en energiförbrukningshastighet på 11,4 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 220 km (137 miles), med en energiförbrukning på 11,4 kWh/100 km (3 mi/kWh). För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 30 kW. En full laddning från 0 - 100 % tar 81 minuter, medan ett vanligare scenario på 10-80 % tar 41 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 67%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 24kW. Varje laddningssession tar 39 minuter och 13 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 30 kW. Laddning från 0% till 100% tar ungefär 81 minuter, medan ett mer typiskt scenario från 10% till 80% tar 41 minuter med en genomsnittlig laddningshastighet på 26 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 4% till 67%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 24 kW, där varje laddningssession tar cirka 39 minuter och 13 sekunder.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 7 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 3 timmar och 34 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 7 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 3 timmar och 34 minuter vid hemmaladdning.
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/charging_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1702"  >}}
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [fronten](../../../../technology/charging/connectors/#front). Denna plats gör det lättanvända laddstationer där du måste parkera med fronten in. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [fronten](../../../../technology/charging/connectors/#front). Detta gör det enkelt att använda laddstationer där du behöver parkera med fronten först. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,34 +56,34 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 
 ## Drivlina
 
-Dacia Spring 65HP har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
+Dacia Spring 65HP har ett framhjulsdrivet system med en motor på framaxeln.
 
-### Hjulupphängning
+### Fjädring
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 150 mm.
+Framhjulsupphängningen är av typen [MacPherson](../../../../technology/suspension/#macpherson-strut), och bakhjulsupphängningen är [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. s fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 150 mm.
 
 ### Bromsar
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) i denna modell underlättas främst genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling inte tillgänglig här.
+[Regenerativ bromsning](../../../../technology/regen/) i denna modell sker främst genom [**enpedalkörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive) eller frihjul inte tillgängligt här.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Dacia Spring 65HP, med dimensioner på 3701 mm i längd, 1622 mm i bredd och 1519 mm i höjd, tillhör mini-segmentet av bilar, även kallat stadsvagnar eller A-segmentbilar. Detta är den minsta klassen av bilar, designade främst för stadsmiljöer, och de erbjuder en kompakt storlek, utmärkt manövrerbarhet och ekonomisk drift. Dacia Spring 65HP finns i totalt 6 enfärgade lackfärger.
+Dacia Spring 65HP, med måtten 3701 mm i längd, 1622 mm i bredd och 1519 mm i höjd, tillhör minibilsegmentet, även kallat A-segment. Detta är den minsta bilklassen som är designad främst för stadsmiljö och erbjuder kompakt storlek, utmärkt manövrerbarhet och ekonomisk drift. Dacia Spring 65HP finns tillgänglig i totalt 6 solida lackfärger.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Dacia Spring 65HP, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Dacia Spring 65HP erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 165/70 däck på 14" fälgar
 - 175/60 däck på 15" fälgar
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate).
 
-Det finns bara ett tak för denna modell.
+Det finns bara ett takalternativ för denna modell.
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/exterior_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
 
@@ -95,48 +95,48 @@ Det finns bara ett tak för denna modell.
 
 ### Säten
 
-Sittlayouten är två säten fram och två säten bak.
+Sätesupplägget består av två säten fram och två säten bak.
 
-#### Framsäten
+#### Första radens säten
 
 Dacia Spring 65HP erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner finns tillgängliga på **** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-- Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
+- Black [tyg/konstläderklädsel](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner finns tillgängliga på **** sätet:
 
-- höjdjusterbart nackstöd
+- Höjdjusterbart nackstöd
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-- Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
+- Black [tyg/konstläderklädsel](../../../../technology/seats/materials/#fabric)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
-- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
+- **1-zons klimatsystem:** Stöder endast en gemensam klimatzon för hela bilen.
 
-Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
+Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med modeller med värmepump.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Dacia Spring 65HP inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Dacia Spring 65HP ingår flera funktioner för att öka komfort och bekvämlighet:
 
 {{<evkxdisplayaddarticle />}}
 
@@ -146,22 +146,22 @@ Dacia Spring 65HP inkluderar flera funktioner för att förbättra komfort och b
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten integrerad i instrumentbrädan är 7,0 tum
-- Skärmen touch i mitten av instrumentbrädan är 10,0 tum
+- -skärmen bakom ratten integrerad i instrumentbrädan är 7,0 tum stor
+- touch-skärmen på instrumentbrädans mitt är 10,0 tum stor
 
-Modellen är inte tillgänglig med head-up display.
+Modellen har ingen head-up display.
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/screens_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
 ### Ratt
 
-Dacia Spring 65HP är utrustad med en enda typ av ratt:
+Dacia Spring 65HP är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -169,25 +169,25 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder Dacia Spring 65HP Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Dacia Spring 65HP stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Dacia Spring 65HP.
+Dacia Spring 65HP levereras med ett ljudsystemalternativ:
 
 - **standard:** Har NULL högtalare.
 
-Modellen har 2 USB-C-anslutningar som standard.
+Dessutom har modellen 2 USB-C-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/headlights_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
 
@@ -195,35 +195,35 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-Dacia Spring 65HP inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Dacia Spring 65HP har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Dacia Spring 65HP, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Dacia Spring 65HP, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Dacia Spring 65HP, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Dacia Spring 65HP, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Dacia Spring 65HP, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Dacia Spring 65HP, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
-### Körautomatisering
+### Körautomation
 
-Med standardutrustningen erbjuder modellen ingen körautomatisering.
+Med standardsystemet erbjuder modellen ingen körautomation.
 
 ## Säkerhets- och åtkomstteknologier
 
-Dacia Spring 65HP är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon och erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
+Dacia Spring 65HP är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon, vilket erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
 
-- **Manuell nyckelåtkomst:** Fordonet använder ett traditionellt nyckelsystem, vilket gör att du enkelt kan låsa upp och starta bilen manuellt.
+- **Manuell nyckelåtkomst:** Fordonet använder ett traditionellt nyckelsystem som låter dig manuellt låsa upp och starta bilen enkelt.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 308 liter. Med baksätena nedfällda ökar detta till 1004 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 35 liter.
+Bagageutrymmet har en lastkapacitet på 308 liter (10,9 kubikfot). Med baksätet nedfällt ökar detta till 1004 liter (35,5 kubikfot). Dessutom finns det en frunk (främre bagageutrymme) med en lagringskapacitet på 35 liter (1,2 CU FT).
 
-Fordonets maximala vikt är 1250 kg, med en grundvikt på 984 kg. Detta tillåter en maximal last på 266 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 1250 kg (2756 lbs), med en tjänstevikt på 984 kg (2169 lbs). Detta möjliggör en maximal last på 266 kg (586 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
+Denna modell kan inte utrustas med dragkrok. För att dra släp måste du titta på andra modeller.
 {{< pagenavigation b_url="../" b_title="Dacia Spring" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

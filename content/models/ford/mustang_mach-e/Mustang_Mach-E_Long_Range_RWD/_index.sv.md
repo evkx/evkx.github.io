@@ -1,7 +1,7 @@
 ---
 title: Ford Mustang Mach-E Long Range RWD
 linktitle: "Mustang Mach-E Long Range RWD"
-description: "Ford Mustang Mach-E Long Range RWD är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 600 km. EVKX.net har alla detaljer."
+description: "Ford Mustang Mach-E Long Range RWD är en elektrisk coupéSUV med en WLTP-räckvidd på upp till 600 km (373 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,46 +11,46 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/main_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1674"  >}}
 
-Vi har delat in vår beskrivning av Ford Mustang Mach-E Long Range RWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Ford Mustang Mach-E Long Range RWD levererar en solid prestanda med en maximal effekt på 216 kW (294 hk) och ett totalt vridmoment på 430 Nm. Den kan accelerera från 0 till 100 km/h på 7 sekunder och når en topphastighet på 180 km/h, vilket gör den konkurrenskraftig i sin klass.
+Ford Mustang Mach-E Long Range RWD levererar en solid prestanda med en maxeffekt på 216 kW (294 hk / 290 bhp) och ett totalt vridmoment på 430 Nm (317 lb-ft). Den accelererar från 0 till 100 km/h på 7 sekunder och når en toppfart på 180 km/h (112 mph), vilket gör den konkurrenskraftig inom sin klass.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 98,8 kWh och en nettoanvändbar kapacitet på 92,0 kWh, vilket ger en buffert på 6,8 kWh (6,9%) för batteriskydd. Med en nominell spänning på 376 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet med hög kapacitet har en bruttokapacitet på 98,8 kWh och en nettoanvändbar kapacitet på 92,0 kWh, vilket ger en 6,8 kWh buffert (6,9%) för batteriskydd. Med en nominell spänning på 376 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 600 km (199 miles), med en energiförbrukningshastighet på 15,3 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 600 km (373 miles), med en energiförbrukning på 15,3 kWh/100 km (3 mi/kWh). För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 150 kW. En full laddning från 0 - 100 % tar 157 minuter, medan ett vanligare scenario på 10-80 % tar 46 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 83kW. Varje laddningssession tar 27 minuter och 31 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 150 kW. Laddning från 0% till 100% tar ungefär 157 minuter, medan ett mer typiskt scenario från 10% till 80% tar 46 minuter med en genomsnittlig laddningshastighet på 84 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 5% till 45%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 83 kW, där varje laddningssession tar cirka 27 minuter och 31 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 10 timmar och 0 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 44%, med en total laddningstid på 101 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 10 timmar och 0 minuter, med fyra laddningsstopp från 6% till 44%, totalt 101 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 21 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 8 timmar och 21 minuter vid hemmaladdning.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/charging_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1736"  >}}
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [vänster front](../../../../technology/charging/connectors/#front-side). Detta placering gör det enkelt att ladda stationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [vänster framsida](../../../../technology/charging/connectors/#front-side). Detta gör det enkelt att använda laddstationer där du parkerar vid sidan av laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -58,36 +58,36 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 ## Drivlina
 
-Ford Mustang Mach-E Long Range RWD har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
+Ford Mustang Mach-E Long Range RWD har ett bakhjulsdrivet system med en motor på bakaxeln.
 
-### Hjulupphängning
+### Fjädring
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 147 mm.
+Framhjulsupphängningen är av typen [MacPherson](../../../../technology/suspension/#macpherson-strut), och bakhjulsupphängningen är [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. s fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 147 mm.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 457mm och de bakre skivorna är 432mm.
+Ford Mustang Mach-E Long Range RWD är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak. De främre skivorna mäter 457 mm, medan de bakre skivorna är 432 mm.
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Du kan välja mellan två stoppmodi för enpedalskörning. **Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar, och **Roll-läge** låter fordonet rulla tills det stannar naturligt.
+[Regenerativ bromsning](../../../../technology/regen/) finns tillgänglig i två lägen. Du kan använda [enpedalkörning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla fritt och använda [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal) för regenerering. Du kan välja mellan två stopplägen för enpedalkörning. **Hållläge** bromsar fordonet till fullständigt stopp med friktionsbromsar, och **Rullläge** låter fordonet rulla tills det stannar naturligt.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Ford Mustang Mach-E Long Range RWD, med dimensioner på 4713 mm i längd, 1881 mm i bredd och 1624 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Ford Mustang Mach-E Long Range RWD finns i totalt 8 lackfärger, inklusive både solida och metalliska alternativ.
+Ford Mustang Mach-E Long Range RWD, med måtten 4713 mm i längd, 1881 mm i bredd och 1624 mm i höjd, tillhör kategorin kompakta SUV:ar, även kända som C-SUV:ar. Dessa erbjuder en balans mellan mindre bilars praktiska egenskaper och manövrerbarhet och större SUV:ars utrymme och mångsidighet. Ford Mustang Mach-E Long Range RWD finns tillgänglig i totalt 8 lackfärger, inklusive både solida och metallic-alternativ.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Ford Mustang Mach-E Long Range RWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Ford Mustang Mach-E Long Range RWD erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 225/60 däck på 18" fälgar
 - 225/60 däck på 19" fälgar
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [halvkombilucka](../../../../technology/doors/#hatcback-style-liftgate).
 
-Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra ditt humör och den åkandes komfort. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+Det finns två olika takalternativ att välja mellan. Standard är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig från fram till bak. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/exterior_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1642"  >}}
 
@@ -99,33 +99,33 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 ### Säten
 
-Ford Mustang Mach-E Long Range RWD rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+Ford Mustang Mach-E Long Range RWD rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
 Ford Mustang Mach-E Long Range RWD erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner finns tillgängliga på **standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
-- höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, inte tillgänglig för passagerare)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
+- Höjdjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, ej tillgänglig för passagerare)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1999"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med  delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
-- höjdjusterbart nackstöd
+- Höjdjusterbart nackstöd
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="2250"  >}}
 
@@ -133,20 +133,20 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
-Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
+Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med modeller med värmepump.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Ford Mustang Mach-E Long Range RWD inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Ford Mustang Mach-E Long Range RWD ingår flera funktioner för att öka komfort och bekvämlighet:
 
-- **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
-- **Trådlös laddning av telefon**
+- **Easy Entry-funktion:** Flyttar förarsätet för att underlätta instigning i bilen.
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -156,22 +156,22 @@ Ford Mustang Mach-E Long Range RWD inkluderar flera funktioner för att förbät
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten monterad i instrumentbrädan är 10,2 tum
-- Skärmen touch översta mittkonsolen är 15,5 tum
+- -skärmen bakom ratten monterad i instrumentbrädan är 10,2 tum stor
+- touch-skärmen högst upp i mittkonsolen är 15,5 tum stor
 
-Modellen är inte tillgänglig med head-up display.
+Modellen har ingen head-up display.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/screens_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="2000"  >}}
 
 ### Ratt
 
-Ford Mustang Mach-E Long Range RWD är utrustad med en enda typ av ratt:
+Ford Mustang Mach-E Long Range RWD är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt har integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt har integrerad uppvärmning för extra komfort under kalla dagar. Den erbjuder också intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -179,25 +179,25 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder Ford Mustang Mach-E Long Range RWD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Ford Mustang Mach-E Long Range RWD stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Ford Mustang Mach-E Long Range RWD.
+Ford Mustang Mach-E Long Range RWD levereras med ett ljudsystemalternativ:
 
-- Med B&O Sound System får du tio högtalare med en maximal systemeffekt på 560 watt.
+- **B&O Sound System:** Har tio högtalare och levererar en maximal uteffekt på 560 watt.
 
-Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
+Dessutom har modellen 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/headlights_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1999"  >}}
 
@@ -205,53 +205,53 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-Ford Mustang Mach-E Long Range RWD inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Ford Mustang Mach-E Long Range RWD har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Ford Mustang Mach-E Long Range RWD, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Ford Mustang Mach-E Long Range RWD, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Ford Mustang Mach-E Long Range RWD, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Ford Mustang Mach-E Long Range RWD, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Ford Mustang Mach-E Long Range RWD, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Ford Mustang Mach-E Long Range RWD, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Ford Mustang Mach-E Long Range RWD, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Ford Mustang Mach-E Long Range RWD, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Ford Mustang Mach-E Long Range RWD, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+[**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Ford Mustang Mach-E Long Range RWD, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Ford Mustang Mach-E Long Range RWD, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Ford Mustang Mach-E Long Range RWD, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Ford Mustang Mach-E Long Range RWD, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Ford Mustang Mach-E Long Range RWD, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
 [**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Ford Mustang Mach-E Long Range RWD, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Ford Mustang Mach-E Long Range RWD, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Ford Mustang Mach-E Long Range RWD, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-### Körautomatisering
+### Körautomation
 
-Med standard Ford BlueCruise nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet Ford BlueCruise nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- [**Automatiskt körfältsbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ## Säkerhets- och åtkomstteknologier
 
 Ford Mustang Mach-E Long Range RWD är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Fordonets nyckelfria inträdes- och startsystem möjliggör sömlös åtkomst, vilket låter dig låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 402 liter. Med baksätena nedfällda ökar detta till 1420 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 100 liter.
+Bagageutrymmet har en lastkapacitet på 402 liter (14,2 kubikfot). Med baksätet nedfällt ökar detta till 1420 liter (50,1 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs). Dessutom finns det en frunk (främre bagageutrymme) med en lagringskapacitet på 100 liter (3,5 CU FT).
 
-Fordonets maximala vikt är 2605 kg, med en grundvikt på 2085 kg. Detta tillåter en maximal last på 520 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2605 kg (5743 lbs), med en tjänstevikt på 2085 kg (4597 lbs). Detta möjliggör en maximal last på 520 kg (1146 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 750 kg, medan för en obromsad släpvagn är den 750 kg.
+Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 750 kg (1653 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/trunk_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1721"  >}}
 

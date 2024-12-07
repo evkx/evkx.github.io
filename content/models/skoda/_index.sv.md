@@ -1,5 +1,5 @@
 ---
-title: Skoda elektriske modeller
+title: Skoda elbilsmodeller
 linktitle: "Skoda"
 description: "Škoda Auto, en tjeckisk biltillverkare grundad 1895, är känd för sina pålitliga och prisvärda fordon. Nu ett dotterbolag till Volkswagen Group, kombinerar Škoda praktisk ingenjörskonst med innovativ design."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-SKODA Elroq är en Coupe SUV tillgänglig i 4 varianter.
+SKODA Elroq är en coupé-SUV tillgänglig i 4 varianter.
 </p>
 	<a href="elroq/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -41,7 +41,7 @@ SKODA Elroq är en Coupe SUV tillgänglig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-SKODA Enyaq iV är en SUV/Coupe SUV tillgänglig i 12 varianter.
+SKODA Enyaq iV är en SUV/coupé-SUV tillgänglig i 12 varianter.
 </p>
 	<a href="enyaq_iv/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -52,7 +52,7 @@ SKODA Enyaq iV är en SUV/Coupe SUV tillgänglig i 12 varianter.
 </div><div class="accordion-item">
     <h2 class="accordion-header">
         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
-            Om varumärket
+            Om märket
         </button>
     </h2>
     <div id="module-company" class="accordion-collapse collapse">

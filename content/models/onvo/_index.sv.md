@@ -1,5 +1,5 @@
 ---
-title: Onvo elektriske modeller
+title: Onvo elbilsmodeller
 linktitle: "Onvo"
 description: "Onvo är Nios andra elbilsmärke (EV), officiellt lanserat i maj 2024. Märket är utformat för att rikta sig till den vanliga familjemarknaden, med fokus på att erbjuda högkvalitativa, smarta elbilar till mer tillgängliga priser jämfört med Nios lyxlinje. Namnet 'Onvo' står för 'On Voyage' och symboliserar en resa mot lycka, särskilt med familjen."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Onvo L60 är en Coupe SUV tillgänglig i 2 varianter.
+Onvo L60 är en coupé-SUV tillgänglig i 2 varianter.
 </p>
 	<a href="l60/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

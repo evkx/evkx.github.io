@@ -1,5 +1,5 @@
 ---
-title: MG elektriske modeller
+title: MG elbilsmodeller
 linktitle: "MG"
 description: "MG is a British car brand that was founded in 1924 and is now owned by SAIC Motor, a Chinese automobile group. MG has a long history of producing sports cars and roadsters, but in recent years it has shifted to electric and hybrid vehicles. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -71,7 +71,7 @@ MG MG4 är en crossover tillgänglig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-MG MG5 är en kombi som finns i 2 varianter.
+MG MG5 är en kombi tillgänglig i 2 varianter.
 </p>
 	<a href="mg5/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

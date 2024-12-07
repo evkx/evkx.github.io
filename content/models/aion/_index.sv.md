@@ -1,5 +1,5 @@
 ---
-title: Aion elektriske modeller
+title: Aion elbilsmodeller
 linktitle: "Aion"
 description: "Aion is a Chinese electric vehicle (EV) brand owned by GAC Group, one of the largest automakers in China. Aion was launched in 2018 as a sub-brand of GAC New Energy, and became an independent marque in 2020. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Aion Hyper GT är en sedan som finns i 1 varianter.
+Aion Hyper GT är en sedan tillgänglig i 1 varianter.
 </p>
 	<a href="hyper_gt/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

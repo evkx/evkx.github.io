@@ -1,7 +1,7 @@
 ---
 title: HiPhi X 6 Seater
 linktitle: "X 6 Seater"
-description: "HiPhi X 6 Seater är en helt elektrisk lyxsuv med en WLTP räckvidd på upp till 460 km. EVKX.net har alla detaljer."
+description: "HiPhi X 6 Seater är en helt elektrisk lyx-SUV med en WLTP-räckvidd på upp till 460 km (286 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,46 +11,46 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/main_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}
 
-Vi har delat in vår beskrivning av HiPhi X 6 Seater i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-HiPhi X 6 Seater imponerar med en imponerande kraft på 433 kW (589 hk) och ett imponerande totalt vridmoment på 820 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,9 sekunder och når en topphastighet på 200 km/h, vilket gör den till en stjärna i sin klass.
+HiPhi X 6 Seater levererar imponerande kraft med en maxeffekt på 433 kW (589 hk / 581 bhp) och ett kraftfullt totalt vridmoment på 820 Nm (605 lb-ft). Denna högpresterande maskin kan spurta från 0 till 100 km/h på endast 3,9 sekunder, och den når en toppfart på 200 km/h (124 mph), vilket gör den till en utmärkande bil i sin klass.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 101,0 kWh och en nettoanvändbar kapacitet på 97,0 kWh, vilket ger en buffert på 4,0 kWh (4,0%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet med hög kapacitet har en bruttokapacitet på 101,0 kWh och en nettoanvändbar kapacitet på 97,0 kWh, vilket ger en 4,0 kWh buffert (4,0%) för batteriskydd. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 460 km (199 miles), med en energiförbrukningshastighet på 21,1 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 460 km (286 miles), med en energiförbrukning på 21,1 kWh/100 km (3 mi/kWh). För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 81 minuter, medan ett vanligare scenario på 10-80 % tar 41 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 50%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 98kW. Varje laddningssession tar 27 minuter och 12 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på  kW. Laddning från 0% till 100% tar ungefär 81 minuter, medan ett mer typiskt scenario från 10% till 80% tar 41 minuter med en genomsnittlig laddningshastighet på 98 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 4% till 50%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 98 kW, där varje laddningssession tar cirka 27 minuter och 12 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 28 kWh/100 km, skulle resan ta ungefär 10 timmar och 13 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 43%, med en total laddningstid på 113 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 28 kWh/100 km, skulle resan ta ungefär 10 timmar och 13 minuter, med fem laddningsstopp från 5% till 43%, totalt 113 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 49 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 8 timmar och 49 minuter vid hemmaladdning.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/charging_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Denna modell använder [**GBT**](../../../../technology/charging/connectors/#gbt) för Kina och Europa, vilket betyder att du måste använda en CCS2>GBT-adapter i Europa. Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Denna modell använder [**GBT**](../../../../technology/charging/connectors/#gbt) för Kina och Europa, vilket innebär att du måste använda en CCS2>GBT-adapter i Europa. Se fullständiga specifikationer för alla marknader.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -58,39 +58,39 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-HiPhi X 6 Seater har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+HiPhi X 6 Seater har ett fyrhjulsdrivet system som drivs av två motorer, en på varje axel. Motorerna som används är [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 150 mm, och maximal är 200 mm.
+Framfjädringen är av typen [dubbel länkarm](../../../../technology/suspension/#double-wishbone) och bakfjädringen är [multilänk](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska stötdämpare. Fjädringen är fullt adaptiv på både fram- och bakaxel, så både höjd och dämpning kan justeras manuellt och automatiskt. Den minsta markfrigången är 150 mm, och den maximala är 200 mm.
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för HiPhi X 6 Seater. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
+Dynamisk styrning är standard på HiPhi X 6 Seater, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort. Dessutom finns fyrhjulsstyrning som standard funktion. Fyrhjulsstyrning minskar vändradien vid låga hastigheter.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
+HiPhi X 6 Seater är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak.
 
 ### Regenerativ bromsning
 
-Det anses dock inte vara full enpedalskörning eftersom fordonet vid låga hastigheter kommer att fortsätta rulla tills det stannar av sig självt.
+Det anses dock inte vara fullständig enpedalkörning eftersom fordonet vid låga hastigheter fortsätter att rulla tills det stannar av sig själv.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-HiPhi X 6 Seater, med dimensioner på 5200 mm i längd,  mm i bredd och 1618 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
+HiPhi X 6 Seater, med måtten 5200 mm i längd,  mm i bredd och 1618 mm i höjd, tillhör kategorin stora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorierna, vilket gör dem lämpliga för förare med särskilda behov. Du kan välja mellan 5 olika lackfärger när du beställer denna modell.
 
-Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på HiPhi X 6 Seater, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på HiPhi X 6 Seater, vilket låter dig personifiera ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 255/45 däck på 22" fälgar
 
-Bilen har två [vanliga dörrar](../../../../technology/doors/) i fronten, en unik kombination av självmordsdörrar med måsvingetak i den andra raden, och en [ baklucka](../../../../technology/doors/#liftgate) bak. Elektriska dörrar är standard funktion för sidodörrarna. Bakluckan är eldriven och har sparksensor som standard.
+Bilen har två [vanliga dörrar](../../../../technology/doors/) fram, en unik kombination av självmordsdörrar med måsvingetak i andra raden, och en [baklucka](../../../../technology/doors/#liftgate) bak. Elektriskt manövrerade dörrar är standard funktion för sidodörrarna. Bakluckan är elektriskt manövrerad och har rörelsesensor som standard.
 
-Det finns bara ett tak för denna modell. Standardtaket har panoramaglass over første rad i tillegg til at takdelen av gullvingdørene har glass. Dette glasset gjør at bilens interiør føles mer romslig og lyst, som kan forbedre humøret og komforten til beboeren.
+Det finns bara ett takalternativ för denna modell. Standardtaket har ett panoramaglas över första raden och dessutom har måsvingedörrarna glas i takdelen. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna.
 
-B-stolpen och vyerna bak är tonade.
+Rutorna från B-stolpen och bakåt är tonade, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/exterior_1_st.jpg" title="HiPhi X 6 Seater" width="1959" height="1102"  >}}
 
@@ -102,58 +102,58 @@ B-stolpen och vyerna bak är tonade.
 
 ### Säten
 
-Sittlayouten är sex platser med två framför, två kaptensstolar på andra raden och en tvåsitssbänk på tredje raden.
+Sätesupplägget består av sex säten med två fram, två kaptensäten i andra raden och en tvåsätessoffa i tredje raden.
 
-#### Framsäten
+#### Första radens säten
 
 HiPhi X 6 Seater erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner finns tillgängliga på **standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
-Du kan välja mellan 2 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-- Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Gray [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
 
-#### Säten på andra raden
+#### Andra radens säten
 
-För den andra raden har den här modellen två kaptensstolar. Dessutom är följande funktioner tillgängliga.
+För andra raden har denna modell två kaptenstolar. Ytterligare funktioner inkluderar:
 
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
-#### Seter på tredje rad
+#### Tredje radens säten
 
-Den tredje raden har en tvåsitsig bänk med en 50:50-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
+Tredje raden har en tvåsätesoffa med 50:50 delning. Du kan även här fälla ner sätena när de inte används för att skapa större lastutrymme.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-HiPhi X 6 Seater inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I HiPhi X 6 Seater ingår flera funktioner för att öka komfort och bekvämlighet:
 
 - **Elektriskt justerbar ratt**
-- **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
-- **Trådlös laddning av telefon**
+- **Easy Entry-funktion:** Flyttar förarsätet för att underlätta instigning i bilen.
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -161,29 +161,29 @@ HiPhi X 6 Seater inkluderar flera funktioner för att förbättra komfort och be
 
 ## Användargränssnitt och kontroll
 
-HiPhi X 6 Seater har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
+HiPhi X 6 Seater har flera integrerade skärmar. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/#front-passenger-screen) framför passagerarsätet.
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten integrerad i instrumentbrädan är 14,0 tum
-- Skärmen touch översta mittkonsolen är 16,9 tum
-- Skärmen touch framför passageraren i instrumentbrädan är 19,9 tum
+- -skärmen bakom ratten integrerad i instrumentbrädan är 14,0 tum stor
+- touch-skärmen högst upp i mittkonsolen är 16,9 tum stor
+- touch-skärmen framför passageraren i instrumentbrädan är 19,9 tum stor
 
-En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+En head-up display är standard system som projicerar hastighet och annan viktig förarinformation på vindrutan.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/screens_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}
 
 ### Ratt
 
-HiPhi X 6 Seater är utrustad med en enda typ av ratt:
+HiPhi X 6 Seater är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt har integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt har integrerad uppvärmning för extra komfort under kalla dagar. Den erbjuder också intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
-Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+Denna modell levereras med röststyrning som standard, vilket låter dig hantera olika funktioner genom röstkommandon.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -191,22 +191,22 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på HiPhi X 6 Seater.
+Du kan välja mellan två ljudsystem för HiPhi X 6 Seater:
 
-- Med SONIC LINE SYSTEM får du nio högtalare med en maximal systemeffekt på 600 watt.
-- Med SONIC PRO SYSTEM får du 17 högtalare med en maximal systemeffekt på 600 watt.
+- **SONIC LINE SYSTEM:** Har nio högtalare och levererar en maximal uteffekt på 600 watt.
+- **SONIC PRO SYSTEM:** Har 17 högtalare och levererar en maximal uteffekt på 600 watt.
 
-Modellen har 3 USB-C-anslutningar som standard. Modellen har 3 USB-A-anslutningar som standard.
+Dessutom har modellen 3 USB-C-anslutningar som standard. Modellen har 3 USB-A-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/headlights_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}
 
@@ -214,53 +214,53 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-HiPhi X 6 Seater inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+HiPhi X 6 Seater har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på HiPhi X 6 Seater, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på HiPhi X 6 Seater, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på HiPhi X 6 Seater, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på HiPhi X 6 Seater, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på HiPhi X 6 Seater, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på HiPhi X 6 Seater, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på HiPhi X 6 Seater, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på HiPhi X 6 Seater, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på HiPhi X 6 Seater, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på HiPhi X 6 Seater, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på HiPhi X 6 Seater, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på HiPhi X 6 Seater, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på HiPhi X 6 Seater, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på HiPhi X 6 Seater, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på HiPhi X 6 Seater, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
+[**Utstigningsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på HiPhi X 6 Seater, detta system varnar passagerare mot att öppna dörrar om det finns risk för kollision.
 
-### Körautomatisering
+### Körautomation
 
-Med standard  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet  nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ## Säkerhets- och åtkomstteknologier
 
 HiPhi X 6 Seater är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Fordonets nyckelfria inträdes- och startsystem möjliggör sömlös åtkomst, vilket låter dig låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 204 liter. Med tredje raden säten nedfällda ökar detta till 587 liter.
+Bagageutrymmet har en lastkapacitet på 204 liter (7,2 kubikfot). Med tredje radens säte nedfällt ökar detta till 587 liter (20,7 kubikfot).
 
-Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
+Denna modell kan inte utrustas med dragkrok. För att dra släp måste du titta på andra modeller.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/trunk_1_st.jpg" title="HiPhi X 6 Seater" width="1200" height="700"  >}}
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
 
 {{< pagenavigation b_url="../" b_title="HiPhi X" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

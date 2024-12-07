@@ -1,5 +1,5 @@
 ---
-title: Kia elektriske modeller
+title: Kia elbilsmodeller
 linktitle: "Kia"
 description: "Kia, en sydkoreansk biltillverkare grundad 1944, har utvecklats till en global ledare känd för innovation och kvalitet. Med starkt fokus på elektrisk mobilitet utökar Kia sitt utbud av elbilar, med målet att uppnå hållbarhet och banbrytande teknik. Märkets engagemang för tillgängliga, miljövänliga fordon positionerar det som en nyckelaktör på elbilsmarknaden."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -41,7 +41,7 @@ Kia EV3 är en crossover tillgänglig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Kia EV6 är en Coupe SUV tillgänglig i 6 varianter.
+Kia EV6 är en coupé-SUV tillgänglig i 6 varianter.
 </p>
 	<a href="ev6/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -82,7 +82,7 @@ Kia Niro är en crossover tillgänglig i 1 varianter.
 </div><div class="accordion-item">
     <h2 class="accordion-header">
         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
-            Om varumärket
+            Om märket
         </button>
     </h2>
     <div id="module-company" class="accordion-collapse collapse">

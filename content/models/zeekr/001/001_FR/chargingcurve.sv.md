@@ -1,7 +1,7 @@
 ---
-title: Zeekr 001 FR laddningskurva och laddningsprestanda
+title: Zeekr 001 FR laddningskurva och prestanda
 linktitle: "Laddningskurva"
-description: "Nedan visas laddningskurvan för Zeekr 001 FR, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
+description: "Nedan är laddningskurvan för Zeekr 001 FR, som visar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -26,7 +26,7 @@ navicon: bi-battery-charging
 	<tbody>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 0 - 100 %
+				Genomsnittlig laddningshastighet 0-100%
 			</td>
 			<td>
 				97,3 kW
@@ -34,7 +34,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-100 %
+				Genomsnittlig laddningshastighet 10-100%
 			</td>
 			<td>
 				94,7 kW
@@ -42,7 +42,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-90 %
+				Genomsnittlig laddningshastighet 10-90%
 			</td>
 			<td>
 				125,6 kW
@@ -50,7 +50,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-80 %
+				Genomsnittlig laddningshastighet 10-80%
 			</td>
 			<td>
 				144,3 kW
@@ -58,7 +58,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Maximal C-Rate
+				Max C-värde
 			</td>
 			<td>
 				2,5
@@ -66,7 +66,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig C-Rate
+				Genomsnittlig C-värde
 			</td>
 			<td>
 				1,41
@@ -90,7 +90,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Optimal stopptid för laddning
+				Optimal laddningstid
 			</td>
 			<td>
 				23m51s
@@ -220,7 +220,7 @@ navicon: bi-battery-charging
 </div>
 
 
-Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
+Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../../technology/battery/charging/#temperature)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva baseras också på att laddningen startas vid låg laddningsnivå. Därför kan inkoppling vid en högre nivå påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -229,7 +229,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Laddningsnivå
 			</th>
 			<th>
 				Hastighet
@@ -238,7 +238,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				Tid
 			</th>
 			<th>
-				Energi laddad
+				Laddad energi
 			</th>
 		</tr>
 	</thead>

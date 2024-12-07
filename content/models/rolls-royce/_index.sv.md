@@ -1,5 +1,5 @@
 ---
-title: Rolls-Royce elektriske modeller
+title: Rolls-Royce elbilsmodeller
 linktitle: "Rolls-Royce"
 description: "Rolls Royce is a British luxury car maker that is known for its high-end vehicles and bespoke craftsmanship. The company has recently announced that it will go all-electric by 2030, following the trend of other automakers that are committed to the decarbonisation of the transport sector. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">

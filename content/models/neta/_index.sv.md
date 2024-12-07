@@ -1,5 +1,5 @@
 ---
-title: Neta elektriske modeller
+title: Neta elbilsmodeller
 linktitle: "Neta"
 description: "Neta is a Chinese electric vehicle (EV) brand that was founded in 2014 by Hozon Auto, a company based in Zhejiang province. Neta produces affordable and smart EVs that target the lower end of the market, such as the Neta N01, Neta U, Neta V, and Neta S models. Neta also has a sports car model, the Neta GT, that aims to create a higher-end image for the brand.        "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Neta GT är en Coupe tillgänglig i 1 varianter.
+Neta GT är en coupé tillgänglig i 1 varianter.
 </p>
 	<a href="gt/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

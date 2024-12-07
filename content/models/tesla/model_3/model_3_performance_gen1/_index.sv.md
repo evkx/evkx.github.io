@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Performance (GEN1)
 linktitle: "Model 3 Performance GEN1"
-description: "Tesla Model 3 Performance (GEN1) är en helelektrisk sedan med en WLTP räckvidd på upp till 547 km. EVKX.net har alla detaljer."
+description: "Tesla Model 3 Performance (GEN1) är en helt elektrisk sedan med en WLTP-räckvidd på upp till 547 km (340 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,46 +11,46 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/main_1_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}
 
-Vi har delat in vår beskrivning av Tesla Model 3 Performance (GEN1) i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Tesla Model 3 Performance (GEN1) levererar en solid prestanda med en maximal effekt på 377 kW (513 hk) och ett totalt vridmoment på 660 Nm. Den kan accelerera från 0 till 100 km/h på 3,4 sekunder och når en topphastighet på 261 km/h, vilket gör den konkurrenskraftig i sin klass.
+Tesla Model 3 Performance (GEN1) levererar en solid prestanda med en maxeffekt på 377 kW (513 hk / 506 bhp) och ett totalt vridmoment på 660 Nm (487 lb-ft). Den accelererar från 0 till 100 km/h på 3,4 sekunder och når en toppfart på 261 km/h (162 mph), vilket gör den konkurrenskraftig inom sin klass.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 82,0 kWh och en nettoanvändbar kapacitet på 75,0 kWh, vilket ger en buffert på 7,0 kWh (8,5%) för batteriskydd. Med en nominell spänning på 357 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Batteriet med hög kapacitet har en bruttokapacitet på 82,0 kWh och en nettoanvändbar kapacitet på 75,0 kWh, vilket ger en 7,0 kWh buffert (8,5%) för batteriskydd. Med en nominell spänning på 357 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden.
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 547 km (199 miles), med en energiförbrukningshastighet på 13,7 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 547 km (340 miles), med en energiförbrukning på 13,7 kWh/100 km (3 mi/kWh). För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 69 minuter, medan ett vanligare scenario på 10-80 % tar 33 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 116kW. Varje laddningssession tar 15 minuter och 45 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 250 kW. Laddning från 0% till 100% tar ungefär 69 minuter, medan ett mer typiskt scenario från 10% till 80% tar 33 minuter med en genomsnittlig laddningshastighet på 95 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 5% till 43%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 116 kW, där varje laddningssession tar cirka 15 minuter och 45 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 17,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 13 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 39%, med en total laddningstid på 53 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 17,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 13 minuter, med fyra laddningsstopp från 5% till 39%, totalt 53 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 6 timmar och 49 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 6 timmar och 49 minuter vid hemmaladdning.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/charging_1_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}
 
 ### Laddningsport
 
-Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technology/charging/connectors/#rear-corner). Denna plats gör det lätt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**NACS**](../../../../technology/charging/connectors/#nacs) för Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) för Europa. Se fullständiga specifikationer för alla marknader.
+Laddningsporten är bekvämt placerad på [vänster bakhörn](../../../../technology/charging/connectors/#rear-corner) av fordonet, vilket underlättar åtkomst när du backar in i laddstationer. Kontakttyperna varierar mellan olika marknader. Denna modell använder [**NACS**](../../../../technology/charging/connectors/#nacs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -58,44 +58,44 @@ Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technolo
 
 ## Drivlina
 
-Tesla Model 3 Performance (GEN1) har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
+Tesla Model 3 Performance (GEN1) har ett fyrhjulsdrivet system som drivs av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/) på bakaxeln.
 
-### Hjulupphängning
+### Fjädring
 
-Fjädringen standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 133 mm.
+standards fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 133 mm.
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för Tesla Model 3 Performance (GEN1). Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+Dynamisk styrning är standard på Tesla Model 3 Performance (GEN1), vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 355mm och de bakre skivorna är 355mm.
+Tesla Model 3 Performance (GEN1) är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak. De främre skivorna mäter 355 mm, medan de bakre skivorna är 355 mm.
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) i denna modell underlättas främst genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling inte tillgänglig här. Denna modell erbjuder tre stoppmodi för enpedalskörning: <ul><li>**Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar</li><li>**Roll-läge** låter fordonet rulla tills det stannar naturligt</li><li>**Creep-läge** för bilen framåt i låg hastighet</li></ul>
+[Regenerativ bromsning](../../../../technology/regen/) i denna modell sker främst genom [**enpedalkörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive) eller frihjul inte tillgängligt här. Denna modell erbjuder tre stopplägen för enpedalkörning: <ul><li>**Hållläge** bromsar fordonet till fullständigt stopp med friktionsbromsar</li><li>**Rullläge** låter fordonet rulla tills det stannar naturligt</li><li>**Krypläge** får bilen att röra sig framåt i låg hastighet</li></ul>
 
-Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket låter dig anpassa körupplevelsen efter dina preferenser.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Tesla Model 3 Performance (GEN1), med dimensioner på 4694 mm i längd, 1849 mm i bredd och 1443 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Tesla Model 3 Performance (GEN1) finns i totalt 5 lackfärger, inklusive både solida och metalliska alternativ.
+Tesla Model 3 Performance (GEN1), med måtten 4694 mm i längd, 1849 mm i bredd och 1443 mm i höjd, tillhör D-segmentet, även känt som mellanklassen eller familjebilar. De erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för många olika förare. Tesla Model 3 Performance (GEN1) finns tillgänglig i totalt 5 lackfärger, inklusive både solida och metallic-alternativ.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Tesla Model 3 Performance (GEN1), vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Tesla Model 3 Performance (GEN1) erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 255/45 däck på 18" fälgar
 - 255/45 däck på 19" fälgar
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [bagagelucka](../../../../technology/doors/#boot-lid) för bagageutrymmet.
 
-Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
+Det finns bara ett takalternativ för denna modell. Standardtaket har ett stort panoramaglas som sträcker sig från fram till bak. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Glaset är tonat för att skydda mot värme från solen.
 
-B-stolpen och vyerna bak är tonade.
+Rutorna från B-stolpen och bakåt är tonade, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/exterior_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="1687"  >}}
 
@@ -107,26 +107,26 @@ B-stolpen och vyerna bak är tonade.
 
 ### Säten
 
-Tesla Model 3 Performance (GEN1) rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+Tesla Model 3 Performance (GEN1) rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
 Tesla Model 3 Performance (GEN1) erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner finns tillgängliga på **standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- Höjdjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
 
-Du kan välja mellan 2 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/frontseats_1_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med 60:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/secondrowseats_1_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}
 
@@ -134,20 +134,20 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
-- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
+- **1-zons klimatsystem:** Stöder endast en gemensam klimatzon för hela bilen.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Tesla Model 3 Performance (GEN1) inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Tesla Model 3 Performance (GEN1) ingår flera funktioner för att öka komfort och bekvämlighet:
 
 - **Elektriskt justerbar ratt**
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -155,25 +155,25 @@ Tesla Model 3 Performance (GEN1) inkluderar flera funktioner för att förbättr
 
 ## Användargränssnitt och kontroll
 
-Tesla Model 3 Performance (GEN1) har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment.
+Tesla Model 3 Performance (GEN1) har en enda skärm för föraren. I mitten av instrumentbrädan finns en enda [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) som fungerar som huvuddisplay för både fordonsinformation och infotainment.
 
 Viktiga skärmdetaljer:
 
-- Skärmen  i mitten av instrumentbrädan är 15,0 tum
+- -skärmen på instrumentbrädans mitt är 15,0 tum stor
 
-Modellen är inte tillgänglig med head-up display.
+Modellen har ingen head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/screens_2_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}
 
 ### Ratt
 
-Tesla Model 3 Performance (GEN1) är utrustad med en enda typ av ratt:
+Tesla Model 3 Performance (GEN1) är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -181,94 +181,94 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Tesla Model 3 Performance (GEN1).
+Tesla Model 3 Performance (GEN1) levereras med ett ljudsystemalternativ:
 
-- Med Tesla Premium Sound får du 13 högtalare med en maximal systemeffekt på 560 watt.
+- **Tesla Premium Sound:** Har 13 högtalare och levererar en maximal uteffekt på 560 watt.
 
-Modellen har 4 USB-C-anslutningar som standard.
+Dessutom har modellen 4 USB-C-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
-Tesla Model 3 Performance (GEN1) inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Tesla Model 3 Performance (GEN1) har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Tesla Model 3 Performance (GEN1), detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Tesla Model 3 Performance (GEN1), detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Tesla Model 3 Performance (GEN1), detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Tesla Model 3 Performance (GEN1), detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Tesla Model 3 Performance (GEN1), detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Tesla Model 3 Performance (GEN1), detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Tesla Model 3 Performance (GEN1), detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Tesla Model 3 Performance (GEN1), ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Tesla Model 3 Performance (GEN1), detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Tesla Model 3 Performance (GEN1), detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Tesla Model 3 Performance (GEN1), detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Tesla Model 3 Performance (GEN1), detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
 [**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Tesla Model 3 Performance (GEN1), detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Tesla Model 3 Performance (GEN1), detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Tesla Model 3 Performance (GEN1), hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-### Körautomatisering
+### Körautomation
 
-Tesla Model 3 Performance (GEN1) erbjuder [körautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Tesla Model 3 Performance (GEN1) erbjuder [körautomation på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med standard Basic Autopilot nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet Basic Autopilot nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
-Med det valfria Enhanced Autopilot nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+Med det valfria Enhanced Autopilot nivå 2-systemet får du ytterligare körautomationsfunktioner utöver de som anges ovan:
 
-- Avancerad farthållare som följer navigeringen och slår av och på vid större vägar för att nå målet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- Avancerad farthållare som följer navigationen och aktiveras/avaktiveras på större vägar för att nå målet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatiskt körfältsbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Med det valfria Full Self-Driving Capability nivå 3-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+Med det valfria Full Self-Driving Capability nivå 3-systemet får du ytterligare körautomationsfunktioner utöver de som anges ovan:
 
 - Trafikljuskontroll - följer trafikljusen.
-- Stopp-skyltkontroll - följ stopp-skyltar.
+- Stoppskyltskontroll - följer stoppskyltarna.
 
 ### Sensorer & Kameror
 
-Denna modell använder endast kameror för sina förarassistanssystem. Denna design begränsar noggrannheten för förarassistanssystemen och gör dem mer känsliga för väder än bilar som även använder radar och andra sensorer.
+Denna modell använder enbart kameror för sina förarassistanssystem. Denna design begränsar assistanssystemens noggrannhet och gör dem mer känsliga för väder jämfört med bilar som även använder radar och andra sensorer.
 Den använder åtta [kameror](../../../../technology/sensorsandcameras/cameras/) för att registrera allt i fordonets omgivning.
 
 ## Säkerhets- och åtkomstteknologier
 
 Tesla Model 3 Performance (GEN1) är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
-- **Telefon som nyckelfunktionalitet:** Med telefon som nyckelteknologi kan du använda din smartphone som en digital nyckel för att låsa upp och starta fordonet, vilket ger ett extra lager av bekvämlighet och flexibilitet.
-- **Larmsystem:** Ett integrerat larmsystem övervakar obehörig åtkomst eller manipulation och ger varningar för att hjälpa till att avskräcka intrång och hålla ditt fordon säkert.
-- **Integrerad dashcam:** Den inbyggda dashcamen spelar in videofilmer av dina resor och fångar viktiga detaljer för att ge ökad säkerhet, ansvarsskyldighet och sinnesro.
-- **Parkeringsövervakning:** Med hjälp av sitt kamerasystem övervakar fordonet aktivt omgivningen medan det är parkerat och ger ökat skydd genom kontinuerlig övervakning.
+- **Nyckelfritt inträde och start:** Fordonets nyckelfria inträdes- och startsystem möjliggör sömlös åtkomst, vilket låter dig låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
+- **Telefon som nyckel-funktion:** Med telefon som nyckel-teknologi kan du använda din smartphone som digital nyckel för att låsa upp och starta fordonet, vilket ger ett extra lager av bekvämlighet och flexibilitet.
+- **Larmsystem:** Ett integrerat larmsystem övervakar mot obehörigt intrång eller manipulering och ger varningar för att avskräcka intrång och hålla ditt fordon säkert.
+- **Integrerad dashkamera:** Den inbyggda dashkameran spelar in videomaterial från dina resor och fångar viktiga detaljer för extra säkerhet, ansvarsskyldighet och sinnesfrid.
+- **Parkeringsövervakning:** Med hjälp av sina kameror övervakar fordonet aktivt omgivningen medan det är parkerat och erbjuder förbättrat skydd genom kontinuerlig övervakning.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 561 liter. Med baksätena nedfällda ökar detta till 1234 liter. På taket kan du lasta upp till 70 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 88 liter.
+Bagageutrymmet har en lastkapacitet på 561 liter (19,8 kubikfot). Med baksätet nedfällt ökar detta till 1234 liter (43,6 kubikfot). På taket kan du lasta upp till 70 kg (154,3 lbs). Dessutom finns det en frunk (främre bagageutrymme) med en lagringskapacitet på 88 liter (3,1 CU FT).
 
-Fordonets maximala vikt är 2232 kg, med en grundvikt på 1844 kg. Detta tillåter en maximal last på 388 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2232 kg (4921 lbs), med en tjänstevikt på 1844 kg (4065 lbs). Detta möjliggör en maximal last på 388 kg (855 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok är standardutrustning på denna modell. Den maximala totala vikten på en bromsad släpvagn är 1000, och för en obromsad släpvagn är den 750 kg.
+Dragkrok är standardutrustning på denna modell. Maximal totalvikt för bromsad släpvagn är 1000 kg, och för obromsad släpvagn 750 kg (2205/1653 lbs).
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 01.04.2016 och leveranser startade i July 2017. Denna modell har nu utgått.
+Denna modell hade sin världspremiär den 01.04.2016, och leveranserna startade July 2017. Denna modell har nu utgått ur produktion.
 {{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

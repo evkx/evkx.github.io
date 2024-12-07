@@ -1,7 +1,7 @@
 ---
 title: Hyundai INSTER Standard Range
 linktitle: "INSTER Standard Range"
-description: "Hyundai INSTER Standard Range är en helelektrisk halvkombi med en WLTP räckvidd på upp till 300 km. EVKX.net har alla detaljer."
+description: "Hyundai INSTER Standard Range är en elektrisk halvkombi med en WLTP-räckvidd på upp till 300 km (187 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/main_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
-Vi har delat in vår beskrivning av Hyundai INSTER Standard Range i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Hyundai INSTER Standard Range erbjuder grundläggande prestanda med en maximal effekt på 71 kW (97 hk) och ett totalt vridmoment på 147 Nm. Den accelererar från 0 till 100 km/h på 11,7 sekunder och når en topphastighet på 140 km/h, vilket är mer jämförbart med instegsmodeller av traditionella förbränningsmotorfordon.
+Hyundai INSTER Standard Range kWh erbjuder grundläggande prestanda med en maxeffekt på 71 kW (97 hk / 95 bhp) och ett totalt vridmoment på 147 Nm (108 lb-ft). Den accelererar från 0 till 100 km/h på 11,7 sekunder och når en toppfart på 140 km/h (87 mph), vilket är mer jämförbart med instegsmodeller med traditionell förbränningsmotor.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 41,0 kWh och en nettoanvändbar kapacitet på 39,0 kWh, vilket ger en buffert på 2,0 kWh (4,9%) för batteriskydd. Med en nominell spänning på 280 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet med hög kapacitet har en bruttokapacitet på 41,0 kWh och en nettoanvändbar kapacitet på 39,0 kWh, vilket ger en 2,0 kWh buffert (4,9%) för batteriskydd. Med en nominell spänning på 280 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 300 km (199 miles), med en energiförbrukningshastighet på 13,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 300 km (187 miles), med en energiförbrukning på 13,0 kWh/100 km (3 mi/kWh). För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 80 kW. En full laddning från 0 - 100 % tar 55 minuter, medan ett vanligare scenario på 10-80 % tar 26 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 67%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 60kW. Varje laddningssession tar 24 minuter och 22 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 80 kW. Laddning från 0% till 100% tar ungefär 55 minuter, medan ett mer typiskt scenario från 10% till 80% tar 26 minuter med en genomsnittlig laddningshastighet på 63 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 4% till 67%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 60 kW, där varje laddningssession tar cirka 24 minuter och 22 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 11 timmar och 32 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 67%, med en total laddningstid på 192 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 11 timmar och 32 minuter, med åtta laddningsstopp från 5% till 67%, totalt 192 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 3 timmar och 32 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 3 timmar och 32 minuter vid hemmaladdning.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [fronten](../../../../technology/charging/connectors/#front). Denna plats gör det lättanvända laddstationer där du måste parkera med fronten in. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [fronten](../../../../technology/charging/connectors/#front). Detta gör det enkelt att använda laddstationer där du behöver parkera med fronten först. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,38 +56,38 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 
 ## Drivlina
 
-Hyundai INSTER Standard Range har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+Hyundai INSTER Standard Range har ett framhjulsdrivet system med en motor på framaxeln. Motorn som används är en [permanent magnet synkronmotor](../../../../technology/motors/pmsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 178 mm.
+s fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 178 mm.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 254mm och de bakre skivorna är 240mm.
+Hyundai INSTER Standard Range är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak. De främre skivorna mäter 254 mm, medan de bakre skivorna är 240 mm.
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Systemet stoppar bilen helt med hjälp av friktionsbromsar.
+[Regenerativ bromsning](../../../../technology/regen/) finns tillgänglig i två lägen. Du kan använda [enpedalkörning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla fritt och använda [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal) för regenerering. Systemet stannar bilen helt med hjälp av friktionsbromsar.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Hyundai INSTER Standard Range, med dimensioner på 3825 mm i längd, 1610 mm i bredd och 1610 mm i höjd, tillhör mini-segmentet av bilar, även kallat stadsvagnar eller A-segmentbilar. Detta är den minsta klassen av bilar, designade främst för stadsmiljöer, och de erbjuder en kompakt storlek, utmärkt manövrerbarhet och ekonomisk drift. Hyundai INSTER Standard Range erbjuder ett urval av 9 lackfärger, inklusive enfärgade, metalliska, pärlemors- och matta alternativ
+Hyundai INSTER Standard Range, med måtten 3825 mm i längd, 1610 mm i bredd och 1610 mm i höjd, tillhör minibilsegmentet, även kallat A-segment. Detta är den minsta bilklassen som är designad främst för stadsmiljö och erbjuder kompakt storlek, utmärkt manövrerbarhet och ekonomisk drift. Hyundai INSTER Standard Range erbjuder ett urval av 9 lackfärger, med solida, metallic, pärlemo och mattlackerade alternativ.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Hyundai INSTER Standard Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Hyundai INSTER Standard Range erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 205/55 däck på 15" fälgar
 - 205/45 däck på 17" fälgar
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [halvkombilucka](../../../../technology/doors/#hatcback-style-liftgate).
 
-Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med taklucka. Glaset sträcker sig bara över första raden och passagerarna kan öppna det. Detta glas gör att bilens interiör känns mer rymlig och ljus, vilket kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+Det finns två olika takalternativ att välja mellan. Standard är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett soltak. Glaset sträcker sig endast över främre raden och passagerarna kan öppna det. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
+Du kan även beställa bilen med tonade rutor från B-stolpen och bakåt, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/exterior_2_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
@@ -97,27 +97,27 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Du kan välja mellan flera inredningsdesigner.
+Du kan välja mellan flera interiördesigner.
 
 ### Säten
 
-Sittlayouten är två säten fram och två säten bak.
+Sätesupplägget består av två säten fram och två säten bak.
 
-#### Framsäten
+#### Första radens säten
 
 Hyundai INSTER Standard Range erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner finns tillgängliga på **standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, inte tillgänglig för passagerare)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- Höjdjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, ej tillgänglig för passagerare)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Brown [tygklädsel](../../../../technology/seats/materials/#fabric)
@@ -125,14 +125,14 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/frontseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner finns tillgängliga på **** sätet:
 
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Brown [tygklädsel](../../../../technology/seats/materials/#fabric)
@@ -144,19 +144,19 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
-- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
+- **1-zons klimatsystem:** Stöder endast en gemensam klimatzon för hela bilen.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Hyundai INSTER Standard Range inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Hyundai INSTER Standard Range ingår flera funktioner för att öka komfort och bekvämlighet:
 
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -166,22 +166,22 @@ Hyundai INSTER Standard Range inkluderar flera funktioner för att förbättra k
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten integrerad i instrumentbrädan är 10,3 tum
-- Skärmen touch i mitten av instrumentbrädan är 10,3 tum
+- -skärmen bakom ratten integrerad i instrumentbrädan är 10,3 tum stor
+- touch-skärmen på instrumentbrädans mitt är 10,3 tum stor
 
-Modellen är inte tillgänglig med head-up display.
+Modellen har ingen head-up display.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/screens_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
 ### Ratt
 
-Hyundai INSTER Standard Range är utrustad med en enda typ av ratt:
+Hyundai INSTER Standard Range är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt har valfri integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt har valfri integrerad uppvärmning för extra komfort under kalla dagar. Den erbjuder också intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -189,25 +189,25 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder Hyundai INSTER Standard Range Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Hyundai INSTER Standard Range stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Hyundai INSTER Standard Range.
+Hyundai INSTER Standard Range levereras med ett ljudsystemalternativ:
 
 - **Bose Premium Sound System:** Har sju högtalare.
 
-Modellen har 4 USB-C-anslutningar som standard.
+Dessutom har modellen 4 USB-C-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/headlights_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
@@ -215,60 +215,60 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-Hyundai INSTER Standard Range inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Hyundai INSTER Standard Range har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Hyundai INSTER Standard Range, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Hyundai INSTER Standard Range, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Hyundai INSTER Standard Range, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Hyundai INSTER Standard Range, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Hyundai INSTER Standard Range, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Hyundai INSTER Standard Range, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Hyundai INSTER Standard Range, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Hyundai INSTER Standard Range, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Hyundai INSTER Standard Range, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+[**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Hyundai INSTER Standard Range, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Hyundai INSTER Standard Range, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Hyundai INSTER Standard Range, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Hyundai INSTER Standard Range, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Hyundai INSTER Standard Range, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
 [**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Hyundai INSTER Standard Range, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Hyundai INSTER Standard Range, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Hyundai INSTER Standard Range, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på Hyundai INSTER Standard Range, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
+[**Utstigningsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på Hyundai INSTER Standard Range, detta system varnar passagerare mot att öppna dörrar om det finns risk för kollision.
 
-### Körautomatisering
+### Körautomation
 
-Med standard  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet  nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatiskt körfältsbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ## Säkerhets- och åtkomstteknologier
 
 Hyundai INSTER Standard Range är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Fordonets nyckelfria inträdes- och startsystem möjliggör sömlös åtkomst, vilket låter dig låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 280 liter. Med baksätena nedfällda ökar detta till 1050 liter. På taket kan du lasta upp till 75 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke.
+Bagageutrymmet har en lastkapacitet på 280 liter (9,9 kubikfot). Med baksätet nedfällt ökar detta till 1050 liter (37,1 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs). Takräcken finns som tillval för enkel montering av takbox eller lasthållare.
 
-Fordonets maximala vikt är 1650 kg, med en grundvikt på 1325 kg. Detta tillåter en maximal last på 325 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 1650 kg (3638 lbs), med en tjänstevikt på 1325 kg (2921 lbs). Detta möjliggör en maximal last på 325 kg (717 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
+Denna modell kan inte utrustas med dragkrok. För att dra släp måste du titta på andra modeller.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/trunk_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 27.06.2024 och leveranser förväntas starta om January 2025.
+Denna modell hade sin världspremiär den 27.06.2024, och leveranserna förväntas börja January 2025.
 {{< pagenavigation b_url="../" b_title="Hyundai INSTER" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

@@ -1,14 +1,14 @@
 ---
-title: Onvo L60 RWD laddningskurva och laddningsprestanda
+title: Onvo L60 RWD laddningskurva och prestanda
 linktitle: "Laddningskurva"
-description: "Nedan visas laddningskurvan för Onvo L60 RWD, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
+description: "Nedan är laddningskurvan för Onvo L60 RWD, som visar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda för de olika batteripaketen.
+Denna modell finns tillgänglig med flera batterier. Nedan hittar du prestandan för de olika batteripaketen.
 
 ### 85 kWh 85kWh
 
@@ -18,7 +18,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 
 
 <div class="alert alert-primary" role="alert">
-Laddningskurvan för denna modell är baserad på tillverkarens data och insikter om laddningsprestandan för liknande batteripaket.
+Laddningskurvan för denna modell är härledd från tillverkardata och insikter om laddningsprestanda för liknande batteripaket.
 </div>
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -33,7 +33,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 	<tbody>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 0 - 100 %
+				Genomsnittlig laddningshastighet 0-100%
 			</td>
 			<td>
 				143,9 kW
@@ -41,7 +41,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-100 %
+				Genomsnittlig laddningshastighet 10-100%
 			</td>
 			<td>
 				139,0 kW
@@ -49,7 +49,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-90 %
+				Genomsnittlig laddningshastighet 10-90%
 			</td>
 			<td>
 				175,0 kW
@@ -57,7 +57,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-80 %
+				Genomsnittlig laddningshastighet 10-80%
 			</td>
 			<td>
 				183,2 kW
@@ -65,7 +65,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Maximal C-Rate
+				Max C-värde
 			</td>
 			<td>
 				3,08
@@ -73,7 +73,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig C-Rate
+				Genomsnittlig C-värde
 			</td>
 			<td>
 				2,17
@@ -97,7 +97,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Optimal stopptid för laddning
+				Optimal laddningstid
 			</td>
 			<td>
 				27m44s
@@ -227,7 +227,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 </div>
 
 
-Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
+Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../../technology/battery/charging/#temperature)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva baseras också på att laddningen startas vid låg laddningsnivå. Därför kan inkoppling vid en högre nivå påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -236,7 +236,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Laddningsnivå
 			</th>
 			<th>
 				Hastighet
@@ -245,7 +245,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				Tid
 			</th>
 			<th>
-				Energi laddad
+				Laddad energi
 			</th>
 		</tr>
 	</thead>
@@ -1676,7 +1676,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 
 
 <div class="alert alert-primary" role="alert">
-Laddningskurvan för denna modell är baserad på tillverkarens data och insikter om laddningsprestandan för liknande batteripaket.
+Laddningskurvan för denna modell är härledd från tillverkardata och insikter om laddningsprestanda för liknande batteripaket.
 </div>
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -1691,7 +1691,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 	<tbody>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 0 - 100 %
+				Genomsnittlig laddningshastighet 0-100%
 			</td>
 			<td>
 				74,3 kW
@@ -1699,7 +1699,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-100 %
+				Genomsnittlig laddningshastighet 10-100%
 			</td>
 			<td>
 				75,6 kW
@@ -1707,7 +1707,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-90 %
+				Genomsnittlig laddningshastighet 10-90%
 			</td>
 			<td>
 				93,9 kW
@@ -1715,7 +1715,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-80 %
+				Genomsnittlig laddningshastighet 10-80%
 			</td>
 			<td>
 				98,6 kW
@@ -1723,7 +1723,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Maximal C-Rate
+				Max C-värde
 			</td>
 			<td>
 				2,08
@@ -1731,7 +1731,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig C-Rate
+				Genomsnittlig C-värde
 			</td>
 			<td>
 				1,54
@@ -1755,7 +1755,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 		</tr>
 		<tr>
 			<td>
-				Optimal stopptid för laddning
+				Optimal laddningstid
 			</td>
 			<td>
 				30m53s
@@ -1885,7 +1885,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 </div>
 
 
-Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
+Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../../technology/battery/charging/#temperature)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva baseras också på att laddningen startas vid låg laddningsnivå. Därför kan inkoppling vid en högre nivå påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -1894,7 +1894,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Laddningsnivå
 			</th>
 			<th>
 				Hastighet
@@ -1903,7 +1903,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 				Tid
 			</th>
 			<th>
-				Energi laddad
+				Laddad energi
 			</th>
 		</tr>
 	</thead>

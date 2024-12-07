@@ -1,5 +1,5 @@
 ---
-title: Tesla elektriske modeller
+title: Tesla elbilsmodeller
 linktitle: "Tesla"
 description: "Tesla, Inc., founded by Elon Musk in 2003, is a leading American electric vehicle (EV) and clean energy company headquartered in Palo Alto, California. Tesla's mission is to accelerate the world's transition to sustainable energy through the production of electric vehicles, renewable energy solutions, and energy storage systems. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -41,7 +41,7 @@ Tesla Cybertruck är en pickup tillgänglig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Model 3 är en sedan som finns i 7 varianter.
+Tesla Model 3 är en sedan tillgänglig i 7 varianter.
 </p>
 	<a href="model_3/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -56,7 +56,7 @@ Tesla Model 3 är en sedan som finns i 7 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Model S är en sedan som finns i 3 varianter.
+Tesla Model S är en sedan tillgänglig i 3 varianter.
 </p>
 	<a href="model_s/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -86,7 +86,7 @@ Tesla Model X är en SUV tillgänglig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Model Y är en Coupe SUV tillgänglig i 4 varianter.
+Tesla Model Y är en coupé-SUV tillgänglig i 4 varianter.
 </p>
 	<a href="model_y/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

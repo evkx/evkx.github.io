@@ -1,7 +1,7 @@
 ---
 title: Cadillac VISTIQ AWD
 linktitle: "VISTIQ AWD"
-description: "Cadillac VISTIQ AWD är en helelektrisk SUV med en EPA räckvidd på upp till 525 km. EVKX.net har alla detaljer."
+description: "Cadillac VISTIQ AWD är en helt elektrisk SUV med en EPA-räckvidd på upp till 525 km (326 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,49 +11,49 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/cadillac/vistiq/vistiq_awd/main_1_st.jpg" title="Cadillac VISTIQ AWD" width="3000" height="2001"  >}}
 
-Vi har delat in vår beskrivning av Cadillac VISTIQ AWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Cadillac VISTIQ AWD imponerar med en imponerande kraft på 458,6 kW (624 hk) och ett imponerande totalt vridmoment på 880 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,7 sekunder och når en topphastighet på 210 km/h, vilket gör den till en stjärna i sin klass.
+Cadillac VISTIQ AWD levererar imponerande kraft med en maxeffekt på 458,6 kW (624 hk / 615 bhp) och ett kraftfullt totalt vridmoment på 880 Nm (649 lb-ft). Denna högpresterande maskin kan spurta från 0 till 100 km/h på endast 3,7 sekunder, och den når en toppfart på 210 km/h (131 mph), vilket gör den till en utmärkande bil i sin klass.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 112,5 kWh och en nettoanvändbar kapacitet på 107,5 kWh, vilket ger en buffert på 5,0 kWh (4,4%) för batteriskydd. Med en nominell spänning på 355,2 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Batteriet med hög kapacitet har en bruttokapacitet på 112,5 kWh och en nettoanvändbar kapacitet på 107,5 kWh, vilket ger en 5,0 kWh buffert (4,4%) för batteriskydd. Med en nominell spänning på 355,2 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden.
 
-[EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) uppskattade räckvidd varierar mellan 326 och 307 miles (525-494 km), beroende på fordonets konfiguration och alternativ. Till exempel kan större hjul öka energiförbrukningen och minska den totala räckvidden.
-Energikonsumtionsnivåerna är 3,0 mi/kWh för basmodellen och 2,9 mi/kWh för toppmodellen, enligt EPA-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Den [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) beräknade räckvidden varierar mellan 326 till 307 miles (525-494 km), beroende på fordonets konfiguration och tillval. Till exempel kan större hjul öka energiförbrukningen och minska den totala räckvidden.
+Energiförbrukningsnivåerna är 3,0 mi/kWh för basmodellen och 2,9 mi/kWh för toppversionen, enligt EPA standardtestet. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 190 kW. En full laddning från 0 - 100 % tar 190 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 119kW. Varje laddningssession tar 31 minuter och 50 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 190 kW. Laddning från 0% till 100% tar ungefär 190 minuter, medan ett mer typiskt scenario från 10% till 80% tar 34 minuter med en genomsnittlig laddningshastighet på 133 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 8% till 65%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 119 kW, där varje laddningssession tar cirka 31 minuter och 50 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 9 timmar och 33 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 73%, med en total laddningstid på 73 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 9 timmar och 33 minuter, med två laddningsstopp från 6% till 73%, totalt 73 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 9 timmar och 20 minuter med en hemmaladdare. För snabbare laddning kan du välja en valfri ombordladdare som stöder upp till 19,2 kW. Med denna uppgradering kan du uppnå en full laddning från 0 till 100% på bara cirka 5 timmar och 35 minuter hemma.
+Den standard inbyggda laddaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 9 timmar och 20 minuter vid hemmaladdning. En tillvald 19,2 kW inbyggd laddare minskar den fullständiga laddningstiden till ungefär 5 timmar och 35 minuter.
 
 {{< sitefiguresized thumb="models/cadillac/vistiq/vistiq_awd/charging_1_st.jpg" title="Cadillac VISTIQ AWD" width="3000" height="1928"  >}}
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [vänster front](../../../../technology/charging/connectors/#front-side). Detta placering gör det enkelt att ladda stationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [vänster framsida](../../../../technology/charging/connectors/#front-side). Detta gör det enkelt att använda laddstationer där du parkerar vid sidan av laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
-### Bidirektionell laddning
+### Dubbelriktad laddning
 
 {{<evkxdisplayaddarticle />}}
 
@@ -61,51 +61,51 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 ## Drivlina
 
-Cadillac VISTIQ AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Cadillac VISTIQ AWD har ett fyrhjulsdrivet system som drivs av två motorer, en på varje axel. Motorerna som används är [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
-### Hjulupphängning
+### Fjädring
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för Cadillac VISTIQ AWD. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
+Dynamisk styrning är standard på Cadillac VISTIQ AWD, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort. Dessutom finns fyrhjulsstyrning som standard funktion. Fyrhjulsstyrning minskar vändradien vid låga hastigheter.
 
 ### Körlägen
 
-Cadillac VISTIQ AWD låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
+Cadillac VISTIQ AWD låter användaren välja olika [körlägen](../../../../technology/drivemodes/) som påverkar bilens köregenskaper. Föraren kan välja mellan 3 lägen:
 
-- Tour: Balanserad styrning och effektiv gaspedal.
-- Sport: Balanserad styrning och gaspedal.
-- My Mode: Användardefinierade inställningar för styrning och gaspådrag.
+- Tour: Balanserad styrning och effektiv gasrespons.
+- Sport: Balanserad styrning och gasrespons.
+- My Mode: Användardefinierade inställningar för styrning och gasrespons.
 
 ### Bromsar
 
-Du kan välja mellan olika bromssystem. Bromsarna standard använder vanliga [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 343mm och de bakre skivorna är 345mm. Bromsarna second använder vanliga [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 410mm och de bakre skivorna är 345mm.
+Du kan välja mellan olika bromssystem. Det standard bromsalternativet använder vanliga [gjutjärnskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna mäter 343 mm, medan de bakre skivorna är 345 mm. Det second bromsalternativet använder vanliga [gjutjärnskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna mäter 410 mm, medan de bakre skivorna är 345 mm.
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Systemet stoppar bilen helt med hjälp av friktionsbromsar.
+[Regenerativ bromsning](../../../../technology/regen/) finns tillgänglig i två lägen. Du kan använda [enpedalkörning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla fritt och använda [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal) för regenerering. Systemet stannar bilen helt med hjälp av friktionsbromsar.
 
-Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket låter dig anpassa körupplevelsen efter dina preferenser.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Cadillac VISTIQ AWD, med dimensioner på 5222 mm i längd, 1977 mm i bredd och 1804 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Cadillac VISTIQ AWD finns i totalt 8 lackfärger, inklusive flera iögonfallande metalliska alternativ.
+Cadillac VISTIQ AWD, med måtten 5222 mm i längd, 1977 mm i bredd och 1804 mm i höjd, tillhör kategorin stora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorierna, vilket gör dem lämpliga för förare med särskilda behov. Cadillac VISTIQ AWD finns tillgänglig i totalt 8 lackfärger, inklusive flera slående metallic-alternativ.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Cadillac VISTIQ AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Cadillac VISTIQ AWD erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 285/45 däck på 21" fälgar
 - 295/40 däck på 22" fälgar
 - 305/35 däck på 23" fälgar
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Bakluckan är elektriskt manövrerad.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate). Bakluckan är elektriskt manövrerad.
 
-Det finns två olika takalternativ att välja mellan. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten på passageraren. Den har en elektrisk gardin som passagerarna kan använda för att skydda sig mot solen. Som tillval kan du beställa denna modell med panoramatak som går att öppna. Glaset har två paneler. En ovanför första och andra raden, och passagerarna kan öppna den främre delen. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+Det finns två olika takalternativ att välja mellan. Standardtaket har ett stort panoramatak som sträcker sig från fram till bak. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen. Som tillval kan du beställa denna modell med ett öppningsbart panoramatak. Glastaket har två paneler, en över första raden och en över andra raden, där den främre delen kan öppnas. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-B-stolpen och vyerna bak är tonade.
+Rutorna från B-stolpen och bakåt är tonade, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/cadillac/vistiq/vistiq_awd/exterior_1_st.jpg" title="Cadillac VISTIQ AWD" width="3000" height="2001"  >}}
 
@@ -115,70 +115,70 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Interiören i Cadillac VISTIQ AWD är funktionell och har premium material överallt. Den flytande mittkonsolen skapar ett öppet utrymme mellan passageraren och föraren, vilket ger praktiska förvaringsalternativ. Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
+Interiören i Cadillac VISTIQ AWD är funktionell, med premiummaterial genomgående. Den svävande mittkonsolen skapar ett öppet utrymme mellan passagerare och förare och erbjuder praktiska förvaringsmöjligheter. Du kan välja mellan olika typer av sätesmaterial och interiörstilar. Du kan välja mellan flera interiördesigner.
 
 ### Säten
 
-Sittlayouten är sex platser med två framför, två kaptensstolar på andra raden och en tvåsitssbänk på tredje raden.
+Sätesupplägget består av sex säten med två fram, två kaptensäten i andra raden och en tvåsätessoffa i tredje raden.
 
-#### Framsäten
+#### Första radens säten
 
 Cadillac VISTIQ AWD erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner finns tillgängliga på **** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- LightGray [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Beige [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-- DarkGray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
+- LightGray [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
+- Beige [Nappaskinnsklädsel](../../../../technology/seats/materials/#leather)
+- DarkGray [Nappaskinnsklädsel](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/cadillac/vistiq/vistiq_awd/frontseats_1_st.jpg" title="Cadillac VISTIQ AWD" width="3000" height="1687"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-För den andra raden har den här modellen två kaptensstolar. Dessutom är följande funktioner tillgängliga.
+För andra raden har denna modell två kaptenstolar. Ytterligare funktioner inkluderar:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
-- höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- Höjdjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 
-#### Seter på tredje rad
+#### Tredje radens säten
 
-Den tredje raden har en tvåsitsig bänk med en 50:50-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
+Tredje raden har en tvåsätesoffa med 50:50 delning. Du kan även här fälla ner sätena när de inte används för att skapa större lastutrymme.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
-- **5-zons klimatsystem:** Stöder olika temperaturer i fem zoner. Förare, passagerare och två zoner på 2:a raden och en på 3:e raden.
+- **5-zons klimatsystem:** Stöder olika temperaturer i fem zoner. Förare, passagerare, två zoner i andra raden och en i tredje raden.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Cadillac VISTIQ AWD inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Cadillac VISTIQ AWD ingår flera funktioner för att öka komfort och bekvämlighet:
 
 - **Elektriskt justerbar ratt**
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -186,68 +186,68 @@ Cadillac VISTIQ AWD inkluderar flera funktioner för att förbättra komfort och
 
 ## Användargränssnitt och kontroll
 
-Kontrollgränssnittet för denna elbilsmodell inkluderar en intuitiv kombination av knappar, spakar och skärmar, vilket ger en smidig och användarvänlig upplevelse.
+Kontrollgränssnittet för Cadillac VISTIQ AWD kombinerar knappar, rattspakar och skärmar för en sömlös och användarvänlig upplevelse.
 
-Cadillac VISTIQ AWD har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment.
+Cadillac VISTIQ AWD har en enda skärm för föraren. I mitten av instrumentbrädan finns en enda [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) som fungerar som huvuddisplay för både fordonsinformation och infotainment.
 
 Viktiga skärmdetaljer:
 
-- Skärmen touch bakom ratten över mitten av instrumentbrädan är 33,0 tum
+- touch-skärmen bakom ratten över instrumentbrädans mitt är 33,0 tum stor
 
-Modellen är inte tillgänglig med head-up display.
+Modellen har ingen head-up display.
 
 {{< sitefiguresized thumb="models/cadillac/vistiq/vistiq_awd/screens_1_st.jpg" title="Cadillac VISTIQ AWD" width="3000" height="1687"  >}}
 
 ### Ratt
 
-Cadillac VISTIQ AWD är utrustad med en enda typ av ratt:
+Cadillac VISTIQ AWD är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
-Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+Denna modell levereras med röststyrning som standard, vilket låter dig hantera olika funktioner genom röstkommandon.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
-Cadillac VISTIQ AWD är utrustad med ett avancerat infotainmentsystem som bygger på Android Automotive OS med Google Automotive Services, vilket möjliggör en sömlös integration av Googles appar och tjänster direkt i fordonet. Detta robusta system inkluderar inbyggt Google Maps för navigering, Google Assistant för röstkommandon och tillgång till ett brett utbud av appar via Google Play Store. Cadillac har ytterligare förbättrat denna plattform genom att integrera sin egen uppsättning applikationer, som erbjuder omfattande bilinställningar och ytterligare funktioner anpassade för Cadillac-körupplevelsen.
+Cadillac VISTIQ AWD har ett avancerat infotainmentsystem byggt på Android Automotive OS med Google Automotive Services, vilket erbjuder en sömlös integration av Googles appar och tjänster direkt i fordonet. Detta robusta system inkluderar inbyggd Google Maps för navigation, Google Assistant för röstkommandon och tillgång till ett brett utbud av appar via Google Play Store. Cadillac har ytterligare förbättrat denna plattform genom att integrera sitt eget utbud av applikationer, vilket ger omfattande bilinställningar och ytterligare funktioner anpassade för Cadillacs körupplevelse.
 
 ### Navigationssystem
 
-Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering. Systemet ger realtids trafikinformation, vilket säkerställer en effektiv och stressfri resa.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering. Systemet tillhandahåller trafikinformation i realtid för att säkerställa en effektiv och stressfri resa.
 
-### App store
+### App-butik
 
-Infotainmentsystemet inkluderar en App Store där du kan ladda ner tredjepartsappar för att köra dem direkt på bilens skärm utan att behöva en ansluten telefon. Tillgängliga appar varierar beroende på marknad men inkluderar populära alternativ som:
+Infotainmentsystemet har en App Store där du kan ladda ner tredjepartsappar som körs direkt på bilens skärm utan att behöva en ansluten telefon. Tillgängliga appar varierar beroende på marknad men inkluderar populära alternativ som:
 
-- **Spotify:** Strömma miljontals låtar, spellistor och podcaster direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under din körning.
-- **Waze:** Få realtids trafikuppdateringar, navigation och väginformation för att hjälpa dig att nå din destination snabbt och säkert.
+- **Spotify:** Strömma miljoner låtar, spellistor och poddar direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under körningen.
+- **Waze:** Få trafikuppdateringar i realtid, navigation och väginformation för att hjälpa dig nå din destination snabbt och säkert.
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Cadillac VISTIQ AWD.
+Cadillac VISTIQ AWD levereras med ett ljudsystemalternativ:
 
 - **AKG sound system:** Har 23 högtalare.
 
-Modellen har 5 USB-C-anslutningar som standard.
+Dessutom har modellen 5 USB-C-anslutningar som standard.
 
 ## Mobilapp
 
-Cadillac VISTIQ AWD kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
+Cadillac VISTIQ AWD levereras med en dedikerad mobilapp, tillgänglig för både Android och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner utformade för att förbättra din körupplevelse:
 
-- **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
-- **Justera laddmål**: Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
-- **Ruttplanering**: Planera din rutt och skicka den direkt till bilens navigationssystem.
+- **Förkonditionering:** Förvärm eller kyl din bil innan du börjar din resa för optimal komfort.
+- **Justera laddningsmål:** Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
+- **Ruttplanering:** Planera din rutt och skicka den direkt till bilens navigationssystem.
 
-## Ljus
+## Belysning
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 {{< sitefiguresized thumb="models/cadillac/vistiq/vistiq_awd/headlights_1_st.jpg" title="Cadillac VISTIQ AWD" width="3000" height="2001"  >}}
 
@@ -255,37 +255,37 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-Cadillac VISTIQ AWD inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Cadillac VISTIQ AWD har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Cadillac VISTIQ AWD, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Cadillac VISTIQ AWD, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Cadillac VISTIQ AWD, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Cadillac VISTIQ AWD, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Cadillac VISTIQ AWD, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Cadillac VISTIQ AWD, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valfritt på Cadillac VISTIQ AWD, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Tillval på Cadillac VISTIQ AWD, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Cadillac VISTIQ AWD, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+[**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Cadillac VISTIQ AWD, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Cadillac VISTIQ AWD, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Cadillac VISTIQ AWD, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Cadillac VISTIQ AWD, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Cadillac VISTIQ AWD, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Cadillac VISTIQ AWD, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Cadillac VISTIQ AWD, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-### Körautomatisering
+### Körautomation
 
-Cadillac VISTIQ AWD erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Cadillac VISTIQ AWD erbjuder [körautomation på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med  nivå 1-systemet får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-Med det valfria Super Cruise nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+Med det valfria Super Cruise nivå 2-systemet får du ytterligare körautomationsfunktioner utöver de som anges ovan:
 
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
 ### Sensorer & Kameror
 
@@ -294,45 +294,45 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 ## Säkerhet
 
-Cadillac VISTIQ AWD är utrustad med flera krockkuddar för att säkerställa skydd för passagerarna vid en kollision. Krockkuddesystemet inkluderar:
+Cadillac VISTIQ AWD är utrustad med flera krockkuddar för att säkerställa passagerarskydd vid en kollision. Krockkuddesystemet inkluderar:
 
-- Främre krockkuddar för föraren och främre passageraren
+- Frontkrockkuddar för förare och passagerare
 - Sidokrockgardiner för både första och andra raden
-- Sidokrockkuddar för föraren och främre passageraren
-- Knäkrockkuddar för föraren och främre passageraren
+- Sidokrockkuddar för förare och passagerare
+- Knäkrockkuddar för förare och passagerare
 
 ## Säkerhets- och åtkomstteknologier
 
 Cadillac VISTIQ AWD är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
-- **Larmsystem:** Ett integrerat larmsystem övervakar obehörig åtkomst eller manipulation och ger varningar för att hjälpa till att avskräcka intrång och hålla ditt fordon säkert.
+- **Nyckelfritt inträde och start:** Fordonets nyckelfria inträdes- och startsystem möjliggör sömlös åtkomst, vilket låter dig låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
+- **Larmsystem:** Ett integrerat larmsystem övervakar mot obehörigt intrång eller manipulering och ger varningar för att avskräcka intrång och hålla ditt fordon säkert.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 431 liter. Med baksätena nedfällda ökar detta till 2272 liter. På taket kan du lasta upp till 75 kg.
+Bagageutrymmet har en lastkapacitet på 431 liter (15,2 kubikfot). Med baksätet nedfällt ökar detta till 2272 liter (80,2 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs).
 
-Fordonets maximala vikt är 3450 kg, med en grundvikt på 2869 kg. Detta tillåter en maximal last på 581 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 3450 kg (7606 lbs), med en tjänstevikt på 2869 kg (6325 lbs). Detta möjliggör en maximal last på 581 kg (1281 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2268 kg, medan för en obromsad släpvagn är den 750 kg.
+Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 2268 kg (5000 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 02.11.2024 och leveranser förväntas starta om July 2025.
+Denna modell hade sin världspremiär den 02.11.2024, och leveranserna förväntas börja July 2025.
 
-### Prissättning
+### Priser
 
-Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan visas startpriserna för utvalda länder:
 
 - $78 790,00 (USA)
 
-## Alternativa Modeller
+## Alternativa modeller
 
-På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till Cadillac VISTIQ AWD som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
+På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternativ till Cadillac VISTIQ AWD som är värda att överväga baserat på funktioner, specifikationer och prissättning. Även om dessa modeller kanske inte är exakta matchningar, kan en jämförelse hjälpa dig att fatta ett mer välgrundat köpbeslut:
 
 - [Volvo EX90 Twin Motor](/models/volvo/ex90/ex90_twin_motor/)
 - [Hyundai IONIQ 9 AWD Performance](/models/hyundai/ioniq_9/ioniq_9_awd_performance/)

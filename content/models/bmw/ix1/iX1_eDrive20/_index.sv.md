@@ -1,7 +1,7 @@
 ---
 title: BMW iX1 eDrive20
 linktitle: "iX1 eDrive20"
-description: "BMW iX1 eDrive20 är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 475 km. EVKX.net har alla detaljer."
+description: "BMW iX1 eDrive20 är en helt elektrisk premium-SUV med en WLTP-räckvidd på upp till 475 km (295 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/main_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 
-Vi har delat in vår beskrivning av BMW iX1 eDrive20 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-BMW iX1 eDrive20 erbjuder blygsamma prestanda med en maximal effekt på 150 kW (204 hk) och ett totalt vridmoment på 250 Nm. Den accelererar från 0 till 100 km/h på 8,6 sekunder och har en topphastighet på 170 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
+BMW iX1 eDrive20 erbjuder modest prestanda med en maxeffekt på 150 kW (204 hk / 201 bhp) och ett totalt vridmoment på 250 Nm (184 lb-ft). Den accelererar från 0 till 100 km/h på 8,6 sekunder och har en toppfart på 170 km/h (106 mph), vilket ligger mer i linje med traditionella fordon med förbränningsmotor.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 68,0 kWh och en nettoanvändbar kapacitet på 64,7 kWh, vilket ger en buffert på 3,3 kWh (4,9%) för batteriskydd. Med en nominell spänning på 286 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Batteriet med hög kapacitet har en bruttokapacitet på 68,0 kWh och en nettoanvändbar kapacitet på 64,7 kWh, vilket ger en 3,3 kWh buffert (4,9%) för batteriskydd. Med en nominell spänning på 286 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden.
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 475 och 430 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 13,6 kWh/100 km för basmodellen och 15,0 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 475 till 430 km (295-267 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 13,6 kWh/100 km för basmodellen och 15,0 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 130 kW. En full laddning från 0 - 100 % tar 63 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 50%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 83kW. Varje laddningssession tar 23 minuter och 50 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 130 kW. Laddning från 0% till 100% tar ungefär 63 minuter, medan ett mer typiskt scenario från 10% till 80% tar 34 minuter med en genomsnittlig laddningshastighet på 81 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 50%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 83 kW, där varje laddningssession tar cirka 23 minuter och 50 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 10 timmar och 14 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 50%, med en total laddningstid på 114 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 10 timmar och 14 minuter, med fem laddningsstopp från 1% till 50%, totalt 114 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 5 timmar och 52 minuter med en hemmaladdare. För snabbare laddning kan du välja en valfri ombordladdare som stöder upp till 22 kW. Med denna uppgradering kan du uppnå en full laddning från 0 till 100% på bara cirka 2 timmar och 56 minuter hemma.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 5 timmar och 52 minuter vid hemmaladdning. En tillvald 22 kW inbyggd laddare minskar den fullständiga laddningstiden till ungefär 2 timmar och 56 minuter.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,21 +56,21 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-BMW iX1 eDrive20 har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+BMW iX1 eDrive20 har ett framhjulsdrivet system med en motor på framaxeln. Motorn som används är en [permanent magnet synkronmotor](../../../../technology/motors/pmsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Adaptive M Suspension-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 170 mm.
+Adaptive M Suspension har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 170 mm.
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för BMW iX1 eDrive20. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+Dynamisk styrning är standard på BMW iX1 eDrive20, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort.
 
 ### Bromsar
 
 ### Regenerativ bromsning
 
-Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektiviteten och körupplevelsen. Det mest effektiva alternativet är [**Automatiskt Regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet seglar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det är nödvändigt. <br /><br/> Ett annat alternativ är läget [**Regen på Gaspedal**](../../../../technology/regen/#one-pedal-driving), där regenerativ bromsning aktiveras när föraren släpper gaspedalen. Detta system tillåter fordonet att sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalskörning**. Du kan välja mellan två stoppmodi för enpedalskörning. **Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar, och **Roll-läge** låter fordonet rulla tills det stannar naturligt.
+Systemet för [regenerativ bromsning](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektivitet och körupplevelse. Det mest effektiva alternativet är [**Automatisk regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet rullar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det behövs. <br /><br/> Ett annat alternativ är [**Regen på gaspedal**](../../../../technology/regen/#one-pedal-driving) läget där regenerativ bromsning aktiveras när föraren lättar på gaspedalen. Detta system gör att fordonet kan sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalkörning**. Du kan välja mellan två stopplägen för enpedalkörning. **Hållläge** bromsar fordonet till fullständigt stopp med friktionsbromsar, och **Rullläge** låter fordonet rulla tills det stannar naturligt.
 
 Den maximala regenerativa effekten är 134 kW.
 
@@ -78,21 +78,21 @@ Den maximala regenerativa effekten är 134 kW.
 
 ## Exteriör
 
-BMW iX1 eDrive20, med dimensioner på 4500 mm i längd, 1845 mm i bredd och 1616 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Du kan välja mellan 12 olika färgfärger när du beställer den här modellen.
+BMW iX1 eDrive20, med måtten 4500 mm i längd, 1845 mm i bredd och 1616 mm i höjd, tillhör B-SUV-segmentet, även känt som kompakta SUV:ar eller crossovers. De kombinerar den kompakta storleken och manövrerbarheten från B-segmentets bilar med högre körposition, ökat lastutrymme och robust SUV-styling. Du kan välja mellan 12 olika lackfärger när du beställer denna modell.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på BMW iX1 eDrive20, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+BMW iX1 eDrive20 erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 205/65 däck på 17" fälgar
 - 255/60 däck på 18" fälgar
 - 205/55 däck på 19" fälgar
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Bakluckan är eldriven och har sparksensor som standard.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate). Bakluckan är elektriskt manövrerad och har rörelsesensor som standard.
 
-Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Glaset sträcker ut större delen av taket, och passagerare kan öppna den främre delen. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra atmosfären och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+Det finns bara ett takalternativ för denna modell. Standardtaket har ett panoramatak. Glaset sträcker sig över större delen av taket och passagerarna kan öppna den främre delen. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
+Du kan även beställa bilen med tonade rutor från B-stolpen och bakåt, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/exterior_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 
@@ -104,61 +104,61 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ### Säten
 
-BMW iX1 eDrive20 rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+BMW iX1 eDrive20 rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
-För första raden erbjuder BMW iX1 eDrive20 två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
+Första raden erbjuder två olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
-Följande funktioner är tillgängliga på **Standard** sätet.
+Följande funktioner finns tillgängliga på **Standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (valfri)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar som ett alternativ)
-- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet) (valfri)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfri)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (tillval)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar som tillval)
+- [Justerbart sidostöd ryggstöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (tillval)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
+- [Massage](../../../../technology/seats/adjustment/#massage) (tillval)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-Följande funktioner är tillgängliga på **Sport** sätet.
+Följande funktioner finns tillgängliga på **Sport** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (valfri)
-- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet) (valfri)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfri)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (tillval)
+- [Justerbart sidostöd ryggstöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (tillval)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
+- [Massage](../../../../technology/seats/adjustment/#massage) (tillval)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med 40:20:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
-- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
+- **2-zons klimatsystem:** Stöder olika temperaturer för förare och passagerare.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-BMW iX1 eDrive20 inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I BMW iX1 eDrive20 ingår flera funktioner för att öka komfort och bekvämlighet:
 
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -166,26 +166,26 @@ BMW iX1 eDrive20 inkluderar flera funktioner för att förbättra komfort och be
 
 ## Användargränssnitt och kontroll
 
-BMW iX1 eDrive20 har två skärmar med information för föraren och passagerarna. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+BMW iX1 eDrive20 har två skärmar med information för förare och passagerare. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och på höger sida finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten på ramens vänstra sida är 10,3 tum
-- Skärmen touch på höger sida av den delade ramen är 10,7 tum
+- -skärmen bakom ratten på vänster sida av ramen är 10,3 tum stor
+- touch-skärmen på höger sida av den delade ramen är 10,7 tum stor
 
-En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+En head-up display är ett tillval system som projicerar hastighet och annan viktig förarinformation på vindrutan.
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/screens_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 
 ### Ratt
 
-BMW iX1 eDrive20 är utrustad med en enda typ av ratt:
+BMW iX1 eDrive20 är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt har valfri integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt har valfri integrerad uppvärmning för extra komfort under kalla dagar. Den erbjuder också intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -193,29 +193,29 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder BMW iX1 eDrive20 Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+BMW iX1 eDrive20 stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på BMW iX1 eDrive20.
+Du kan välja mellan två ljudsystem för BMW iX1 eDrive20:
 
-- Med Harman Kardon Surround Sound system får du 16 högtalare med en maximal systemeffekt på 464 watt.
-- Med Harman Kardon Surround Sound system får du 16 högtalare med en maximal systemeffekt på 464 watt.
+- **Harman Kardon Surround Sound system:** Har 16 högtalare och levererar en maximal uteffekt på 464 watt.
+- **Harman Kardon Surround Sound system:** Har 16 högtalare och levererar en maximal uteffekt på 464 watt.
 
-Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+Dessutom har modellen 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-Du kan välja mellan två typer av strålkastare för BMW iX1 eDrive20.
+Du kan välja mellan två olika typer av strålkastare för BMW iX1 eDrive20.
 
-- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
-- **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
+- **Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
+- **LED Matrix-strålkastare:** Som tillval finns detta adaptiva system som delar upp den traditionella strålkastarljusstrålen i dussintals mindre strålar som ljuskontrollern kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/headlights_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 
@@ -223,47 +223,47 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-BMW iX1 eDrive20 inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+BMW iX1 eDrive20 har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på BMW iX1 eDrive20, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på BMW iX1 eDrive20, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på BMW iX1 eDrive20, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på BMW iX1 eDrive20, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på BMW iX1 eDrive20, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på BMW iX1 eDrive20, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valfritt på BMW iX1 eDrive20, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+[**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Tillval på BMW iX1 eDrive20, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valfritt på BMW iX1 eDrive20, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Tillval på BMW iX1 eDrive20, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på BMW iX1 eDrive20, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på BMW iX1 eDrive20, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
-[**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valfritt på BMW iX1 eDrive20, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
+[**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Tillval på BMW iX1 eDrive20, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-### Körautomatisering
+### Körautomation
 
-Med standard Driving Assistant Professional nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet Driving Assistant Professional nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tillval)
 
 ## Säkerhets- och åtkomstteknologier
 
 BMW iX1 eDrive20 är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Med standard nyckelfri start och valfritt nyckelfritt inträde kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 490 liter. Med baksätena nedfällda ökar detta till 1495 liter. På taket kan du lasta upp till 75 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke.
+Bagageutrymmet har en lastkapacitet på 490 liter (17,3 kubikfot). Med baksätet nedfällt ökar detta till 1495 liter (52,8 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs). Takräcken finns som tillval för enkel montering av takbox eller lasthållare.
 
-Fordonets maximala vikt är 2580 kg, med en grundvikt på 2010 kg. Detta tillåter en maximal last på 570 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2580 kg (5688 lbs), med en tjänstevikt på 2010 kg (4431 lbs). Detta möjliggör en maximal last på 570 kg (1257 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1200 kg, medan för en obromsad släpvagn är den 750 kg.
+Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 1200 kg (2646 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 {{< pagenavigation b_url="../" b_title="BMW iX1" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

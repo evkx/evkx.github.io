@@ -1,5 +1,5 @@
 ---
-title: Mini elektriske modeller
+title: Mini elbilsmodeller
 linktitle: "Mini"
 description: "Mini is a British car brand that is owned by BMW Group. It is known for its iconic small cars that combine style, performance, and fun. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mini Cooper er en premium hatcback tilgjengelig i 1 varianter.
+Mini Cooper är en premium halvkombi tillgänglig i 1 varianter.
 </p>
 	<a href="cooper/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -41,7 +41,7 @@ Mini Cooper er en premium hatcback tilgjengelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mini Countryman är en premium-SUV tillgänglig i 1 varianter.
+Mini Countryman är en premium SUV tillgänglig i 1 varianter.
 </p>
 	<a href="countryman/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

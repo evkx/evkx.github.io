@@ -1,7 +1,7 @@
 ---
 title: Rolls-Royce Spectre
 linktitle: "Spectre"
-description: "Rolls-Royce Spectre är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 530 km. EVKX.net har alla detaljer."
+description: "Rolls-Royce Spectre är en helt elektrisk lyxsedan med en WLTP-räckvidd på upp till 530 km (329 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/main_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1999"  >}}
 
-Vi har delat in vår beskrivning av Rolls-Royce Spectre i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Rolls-Royce Spectre imponerar med en imponerande kraft på 430 kW (585 hk) och ett imponerande totalt vridmoment på 900 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 4,5 sekunder och når en topphastighet på 250 km/h, vilket gör den till en stjärna i sin klass.
+Rolls-Royce Spectre levererar imponerande kraft med en maxeffekt på 430 kW (585 hk / 577 bhp) och ett kraftfullt totalt vridmoment på 900 Nm (664 lb-ft). Denna högpresterande maskin kan spurta från 0 till 100 km/h på endast 4,5 sekunder, och den når en toppfart på 250 km/h (155 mph), vilket gör den till en utmärkande bil i sin klass.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 105,7 kWh och en nettoanvändbar kapacitet på 102,0 kWh, vilket ger en buffert på 3,7 kWh (3,5%) för batteriskydd. Med en nominell spänning på 376,4 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Batteriet med hög kapacitet har en bruttokapacitet på 105,7 kWh och en nettoanvändbar kapacitet på 102,0 kWh, vilket ger en 3,7 kWh buffert (3,5%) för batteriskydd. Med en nominell spänning på 376,4 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden.
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 530 km (199 miles), med en energiförbrukningshastighet på 19,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 530 km (329 miles), med en energiförbrukning på 19,2 kWh/100 km (3 mi/kWh). För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 205 kW. En full laddning från 0 - 100 % tar 73 minuter, medan ett vanligare scenario på 10-80 % tar 37 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 130kW. Varje laddningssession tar 21 minuter och 15 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 205 kW. Laddning från 0% till 100% tar ungefär 73 minuter, medan ett mer typiskt scenario från 10% till 80% tar 37 minuter med en genomsnittlig laddningshastighet på 116 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 0% till 45%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 130 kW, där varje laddningssession tar cirka 21 minuter och 15 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 26 kWh/100 km, skulle resan ta ungefär 9 timmar och 34 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 40%, med en total laddningstid på 74 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 26 kWh/100 km, skulle resan ta ungefär 9 timmar och 34 minuter, med fyra laddningsstopp från 1% till 40%, totalt 74 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 9 timmar och 16 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 9 timmar och 16 minuter vid hemmaladdning.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,37 +56,37 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-Rolls-Royce Spectre har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
+Rolls-Royce Spectre har ett fyrhjulsdrivet system som drivs av två motorer, en på varje axel. Motorerna som används är [lindade rotor synkronmotorer](../../../../technology/motors/wrsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 193 mm, och maximal är 223 mm.
+Fjädringen är fullt adaptiv på både fram- och bakaxel, så både höjd och dämpning kan justeras manuellt och automatiskt. Den minsta markfrigången är 193 mm, och den maximala är 223 mm.
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för Rolls-Royce Spectre. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
+Dynamisk styrning är standard på Rolls-Royce Spectre, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort. Dessutom finns fyrhjulsstyrning som standard funktion. Fyrhjulsstyrning minskar vändradien vid låga hastigheter.
 
 ### Bromsar
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Systemet stoppar bilen helt med hjälp av friktionsbromsar.
+[Regenerativ bromsning](../../../../technology/regen/) finns tillgänglig i två lägen. Du kan använda [enpedalkörning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla fritt och använda [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal) för regenerering. Systemet stannar bilen helt med hjälp av friktionsbromsar.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Rolls-Royce Spectre, med dimensioner på 5475 mm i längd, 2017 mm i bredd och 1573 mm i höjd, tillhör F-segmentet av bilar, även kallat lyxbilar eller fullstora lyxbilar. De representerar toppen av bilens lyx, prestanda och teknologi. De är vanligtvis stora sedaner eller limousiner designade för att erbjuda det bästa inom komfort, prestige och avancerade funktioner. Du kan välja mellan 8 olika färgfärger när du beställer den här modellen.
+Rolls-Royce Spectre, med måtten 5475 mm i längd, 2017 mm i bredd och 1573 mm i höjd, tillhör F-segmentet, även känt som lyxbilar eller stora lyxbilar. De representerar toppen av bilvärldens lyx, prestanda och teknik. De är vanligtvis stora sedaner eller limousiner designade för maximal komfort, prestige och avancerade funktioner. Du kan välja mellan 8 olika lackfärger när du beställer denna modell.
 
-Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Rolls-Royce Spectre, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Rolls-Royce Spectre, vilket låter dig personifiera ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 255/50 däck på 23" fälgar fram och 275/40 däck på 23" fälgar bak
 
-Bilen har två [självmordsdörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#bootlid) bakom. 'Soft Close' är standard-funktionen för sidodörrarna. Elektriska dörrar är standard funktion för sidodörrarna.
+Bilen har två [självmordsdörrar](../../../../technology/doors/) och en [bagagelucka](../../../../technology/doors/#bootlid) bak. Mjukstängning är standard funktion för sidodörrarna. Elektriskt manövrerade dörrar är standard funktion för sidodörrarna.
 
-Det finns bara ett tak för denna modell. Standardinställningen är bara ett vanligt tak.
+Det finns bara ett takalternativ för denna modell. Standard är bara ett vanligt tak.
 
-Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
+Du kan även beställa bilen med tonade rutor från B-stolpen och bakåt, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/exterior_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
 
@@ -98,45 +98,45 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ### Säten
 
-Sittlayouten är två säten fram och två säten bak.
+Sätesupplägget består av två säten fram och två säten bak.
 
-#### Framsäten
+#### Första radens säten
 
 Rolls-Royce Spectre erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner finns tillgängliga på **standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet) (valfri)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfri)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart sidostöd ryggstöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (tillval)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
+- [Massage](../../../../technology/seats/adjustment/#massage) (tillval)
 
-Du kan välja mellan 7 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
--  [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
--  [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-- Brown [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-- Beige [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-- Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-- Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-- Red [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+-  [Nappaskinnsklädsel](../../../../technology/seats/materials/#leather)
+-  [Nappaskinnsklädsel](../../../../technology/seats/materials/#leather)
+- Brown [Nappaskinnsklädsel](../../../../technology/seats/materials/#leather)
+- Beige [Nappaskinnsklädsel](../../../../technology/seats/materials/#leather)
+- Black [Nappaskinnsklädsel](../../../../technology/seats/materials/#leather)
+- Black [Nappaskinnsklädsel](../../../../technology/seats/materials/#leather)
+- Red [Nappaskinnsklädsel](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-För den andra raden har den här modellen dubbla [executive-säten](../../../../technology/seats/types/#twin-executive-säten). Dessutom är följande funktioner tillgängliga.
+För andra raden har denna modell dubbla [exekutivsäten](../../../../technology/seats/types/#twin-executive-seats). Ytterligare funktioner inkluderar:
 
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfri)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating) (tillval)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/secondrowseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
 
@@ -144,18 +144,18 @@ För den andra raden har den här modellen dubbla [executive-säten](../../../..
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
-- **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
+- **4-zons klimatsystem:** Stöder olika temperaturer för förare, passagerare och två separata passagerare i baksätet.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Rolls-Royce Spectre inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Rolls-Royce Spectre ingår flera funktioner för att öka komfort och bekvämlighet:
 
 - **Elektriskt justerbar ratt**
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -163,26 +163,26 @@ Rolls-Royce Spectre inkluderar flera funktioner för att förbättra komfort och
 
 ## Användargränssnitt och kontroll
 
-Rolls-Royce Spectre har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+Rolls-Royce Spectre har flera integrerade skärmar. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) högst upp.
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum
-- Skärmen touch översta mittkonsolen är 10,1 tum
+- -skärmen bakom ratten integrerad i instrumentbrädan är 12,3 tum stor
+- touch-skärmen högst upp i mittkonsolen är 10,1 tum stor
 
-En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+En head-up display är ett tillval system som projicerar hastighet och annan viktig förarinformation på vindrutan.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/screens_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1862"  >}}
 
 ### Ratt
 
-Rolls-Royce Spectre är utrustad med en enda typ av ratt:
+Rolls-Royce Spectre är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt har valfri integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt har valfri integrerad uppvärmning för extra komfort under kalla dagar. Den erbjuder också intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -190,29 +190,29 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder Rolls-Royce Spectre Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Rolls-Royce Spectre stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Rolls-Royce Spectre.
+Du kan välja mellan två ljudsystem för Rolls-Royce Spectre:
 
-- Med Harman Kardon Surround Sound system får du 18 högtalare med en maximal systemeffekt på 655 watt.
-- Med Bowers & Wilkins Diamond surround sound system får du 30 högtalare med en maximal systemeffekt på 1615 watt.
+- **Harman Kardon Surround Sound system:** Har 18 högtalare och levererar en maximal uteffekt på 655 watt.
+- **Bowers & Wilkins Diamond surround sound system:** Har 30 högtalare och levererar en maximal uteffekt på 1615 watt.
 
-Modellen har 6 USB-C-anslutningar som standard.
+Dessutom har modellen 6 USB-C-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-Du kan välja mellan två typer av strålkastare för Rolls-Royce Spectre.
+Du kan välja mellan två olika typer av strålkastare för Rolls-Royce Spectre.
 
-- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
-- **LED Matrix strålkastare med laserteknik:** Finns också som ett alternativ, dessa strålkastare kombinerar de adaptiva egenskaperna hos LED Matrix-systemet med laserteknik för förbättrad ljusstyrka och räckvidd, vilket ger överlägsen belysning och säkerhet.
+- **Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
+- **LED Matrix-strålkastare med laserteknik:** Som tillval finns dessa strålkastare som kombinerar de adaptiva funktionerna hos LED Matrix-systemet med laserteknik för förbättrad ljusstyrka och räckvidd, vilket ger överlägsen belysning och säkerhet.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/headlights_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1700"  >}}
 
@@ -220,51 +220,51 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-Rolls-Royce Spectre inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Rolls-Royce Spectre har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Rolls-Royce Spectre, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Rolls-Royce Spectre, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Rolls-Royce Spectre, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Rolls-Royce Spectre, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Rolls-Royce Spectre, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Rolls-Royce Spectre, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valfritt på Rolls-Royce Spectre, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+[**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Tillval på Rolls-Royce Spectre, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valfritt på Rolls-Royce Spectre, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Tillval på Rolls-Royce Spectre, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Rolls-Royce Spectre, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Rolls-Royce Spectre, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
-[**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valfritt på Rolls-Royce Spectre, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
+[**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Tillval på Rolls-Royce Spectre, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-### Körautomatisering
+### Körautomation
 
-Med standard Driving Assistant Professional nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet Driving Assistant Professional nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tillval)
 
 ## Säkerhets- och åtkomstteknologier
 
 Rolls-Royce Spectre är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Med standard nyckelfri start och valfritt nyckelfritt inträde kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 500 liter.
+Bagageutrymmet har en lastkapacitet på 500 liter (17,7 kubikfot).
 
-Fordonets maximala vikt är 3400 kg, med en grundvikt på 2890 kg. Detta tillåter en maximal last på 510 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 3400 kg (7496 lbs), med en tjänstevikt på 2890 kg (6371 lbs). Detta möjliggör en maximal last på 510 kg (1124 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
+Denna modell kan inte utrustas med dragkrok. För att dra släp måste du titta på andra modeller.
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 18.10.2022 och leveranserna startade i December 2023.
+Rolls-Royce Spectre hade sin världspremiär den 18.10.2022, och leveranserna startade December 2023.
 {{< pagenavigation b_url="../" b_title="Rolls-Royce Spectre" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

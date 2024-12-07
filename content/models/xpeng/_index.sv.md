@@ -1,5 +1,5 @@
 ---
-title: XPENG elektriske modeller
+title: XPENG elbilsmodeller
 linktitle: "XPENG"
 description: "XPeng is a Chinese electric vehicle manufacturer that was founded in 2014 by He Xiaopeng, a former Alibaba executive and internet entrepreneur. The company is headquartered in Guangzhou, Guangdong, with offices in Mountain View, California, United States and is publicly traded on the New York Stock Exchange. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -71,7 +71,7 @@ XPENG G9 är en SUV tillgänglig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-XPENG Mona M03 är en sedan som finns i 1 varianter.
+XPENG Mona M03 är en sedan tillgänglig i 1 varianter.
 </p>
 	<a href="mona_m03/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -86,7 +86,7 @@ XPENG Mona M03 är en sedan som finns i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-XPENG P7 är en sedan som finns i 1 varianter.
+XPENG P7 är en sedan tillgänglig i 1 varianter.
 </p>
 	<a href="p7/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

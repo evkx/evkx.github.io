@@ -1,5 +1,5 @@
 ---
-title: Hongqi elektriske modeller
+title: Hongqi elbilsmodeller
 linktitle: "Hongqi"
 description: "Hongqi is a Chinese car brand that belongs to the state-owned FAW Group. The name means Red Flag and it is a symbol of the Communist Party of China. Hongqi was founded in 1958 and is known for making luxury cars for the Chinese government and elites. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">

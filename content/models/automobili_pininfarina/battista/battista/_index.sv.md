@@ -1,7 +1,7 @@
 ---
 title: Automobili Pininfarina Battista
 linktitle: "Battista"
-description: "Automobili Pininfarina Battista är en helelektrisk hyperbil med en WLTP räckvidd på upp till 490 km. EVKX.net har alla detaljer."
+description: "Automobili Pininfarina Battista är en elektrisk lyxhyperbil med en WLTP-räckvidd på upp till 490 km (305 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/main_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="2002"  >}}
 
-Vi har delat in vår beskrivning av Automobili Pininfarina Battista i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Automobili Pininfarina Battista levererar en häpnadsväckande maximal effekt på 1400 KW (1904 hk) och ett massivt vridmoment på 2340 Nm. Denna kraftmaskin kan accelerera från 0 till 100 km/h på bara 1,86 sekunder, vilket visar på dess fantastiska acceleration. Dessutom uppnår den en topphastighet på 350 km/h, vilket gör den till ett verkligt ingenjörsmässigt och prestandamässigt underverk.
+Automobili Pininfarina Battista levererar en hisnande maxeffekt på 1400 KW (1904 hk/1877 bhp) och ett massivt totalt vridmoment på 2340 Nm (1727 lb-ft). Denna kraftfulla maskin kan accelerera från 0 till 100 km/h på endast 1,86 sekunder, vilket visar dess häpnadsväckande acceleration. Dessutom når den en toppfart på 350 km/h (218 mph), vilket gör den till ett sant underverk av teknik och prestanda.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 120,0 kWh och en nettoanvändbar kapacitet på 106,8 kWh, vilket ger en buffert på 13,2 kWh (11,0%) för batteriskydd. Vid en nominell spänning på 630 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
+Batteriet med hög kapacitet har en bruttokapacitet på 120,0 kWh och en nettoanvändbar kapacitet på 106,8 kWh, vilket ger en 13,2 kWh buffert (11,0%) för batteriskydd. Med en driftspänning på 630 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter.
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 490 km (199 miles), med en energiförbrukningshastighet på 21,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 490 km (305 miles), med en energiförbrukning på 21,8 kWh/100 km (3 mi/kWh). För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 500 kW. En full laddning från 0 - 100 % tar 35 minuter, medan ett vanligare scenario på 10-80 % tar 17 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 71%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 219kW. Varje laddningssession tar 20 minuter och 13 sekunder. Denna exceptionellt snabba laddningskapacitet gör Automobili Pininfarina Battista till en av de mest effektiva och bekväma elbilarna för långresor.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 500 kW. Laddning från 0% till 100% tar ungefär 35 minuter, medan ett mer typiskt scenario från 10% till 80% tar 17 minuter med en genomsnittlig laddningshastighet på 268 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 2% till 71%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 219 kW, där varje laddningssession tar cirka 20 minuter och 13 sekunder. Denna exceptionellt snabba laddningsförmåga gör Automobili Pininfarina Battista till en av de mest effektiva och bekväma elbilarna för långdistansresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 24 kWh/100 km, skulle resan ta ungefär 8 timmar och 57 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 66%, med en total laddningstid på 37 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 24 kWh/100 km, skulle resan ta ungefär 8 timmar och 57 minuter, med två laddningsstopp från 3% till 66%, totalt 37 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 22 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 4 timmar och 51 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 22 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 4 timmar och 51 minuter vid hemmaladdning.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [vänster baksida](../../../../technology/charging/connectors/#rear-side), vilket gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,35 +56,35 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 ## Drivlina
 
-Automobili Pininfarina Battista har ett fyrhjulsdriftsystem som stöds av fyra motorer. En för varje hjul. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Automobili Pininfarina Battista har ett fyrhjulsdrivet system som drivs av fyra motorer. En för varje hjul. Motorerna som används är [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 120 mm, och maximal är 135 mm.
+Framfjädringen använder [dubbel länkarm](../../../../technology/suspension/#double-wishbone), medan bak använder [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. Fjädringen är fullt adaptiv på både fram- och bakaxel, så både höjd och dämpning kan justeras manuellt och automatiskt. Den minsta markfrigången är 120 mm, och den maximala är 135 mm.
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för Automobili Pininfarina Battista. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+Dynamisk styrning är standard på Automobili Pininfarina Battista, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort.
 
 ### Körlägen
 
-Automobili Pininfarina Battista låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
+Automobili Pininfarina Battista låter användaren välja olika [körlägen](../../../../technology/drivemodes/) som påverkar bilens köregenskaper. Föraren kan välja mellan 5 lägen:
 
-- Range: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
-- Cruise: Balanserad styrning, lågest fjädringshöjd med balanserad gas och dämpning.
-- Sport: Balanserad styrning, lågest fjädringshöjd med balanserad gas och dämpning.
-- Track: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
-- Drift: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
+- Range: Balanserad styrning, låg markfrigång med effektiv gasrespons och balanserad fjädring.
+- Cruise: Balanserad styrning, lägsta markfrigång med balanserad gasrespons och dämpning.
+- Sport: Balanserad styrning, lägsta markfrigång med balanserad gasrespons och dämpning.
+- Track: Dynamisk styrning, låg markfrigång med dynamisk gasrespons och fjädring.
+- Drift: Dynamisk styrning, låg markfrigång med dynamisk gasrespons och fjädring.
 
 ### Bromsar
 
-Bromsar bak och fram är [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 390mm och de bakre skivorna är 390mm.
+Fram- och bakbromsarna är [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna mäter 390 mm, medan de bakre skivorna är 390 mm.
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Systemet stoppar bilen helt med hjälp av friktionsbromsar.
+[Regenerativ bromsning](../../../../technology/regen/) finns tillgänglig i två lägen. Du kan använda [enpedalkörning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla fritt och använda [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal) för regenerering. Systemet stannar bilen helt med hjälp av friktionsbromsar.
 
-Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket låter dig anpassa körupplevelsen efter dina preferenser.
 
 Den maximala regenerativa effekten är 400 kW.
 
@@ -92,13 +92,13 @@ Den maximala regenerativa effekten är 400 kW.
 
 ## Exteriör
 
-Automobili Pininfarina Battista finns i totalt 5 lackfärger, inklusive flera iögonfallande metalliska alternativ.
+Automobili Pininfarina Battista finns tillgänglig i totalt 5 lackfärger, inklusive flera slående metallic-alternativ.
 
-Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Automobili Pininfarina Battista, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Automobili Pininfarina Battista, vilket låter dig personifiera ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 275/35 däck på 20" fälgar fram och 315/35 däck på 20" fälgar bak
 
-Det finns bara ett tak för denna modell.
+Det finns bara ett takalternativ för denna modell.
 
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/exterior_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="2004"  >}}
 
@@ -110,35 +110,35 @@ Det finns bara ett tak för denna modell.
 
 ### Säten
 
-#### Framsäten
+#### Första radens säten
 
 Automobili Pininfarina Battista erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner finns tillgängliga på **** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-- Black [Alcantara klädsel](../../../../technology/seats/materials/#alcantara)
+- Black [Alcantara-klädsel](../../../../technology/seats/materials/#alcantara)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
-- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
+- **1-zons klimatsystem:** Stöder endast en gemensam klimatzon för hela bilen.
 
-Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
+Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med modeller med värmepump.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Automobili Pininfarina Battista inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Automobili Pininfarina Battista ingår flera funktioner för att öka komfort och bekvämlighet:
 
 {{<evkxdisplayaddarticle />}}
 
@@ -146,27 +146,27 @@ Automobili Pininfarina Battista inkluderar flera funktioner för att förbättra
 
 ## Användargränssnitt och kontroll
 
-Automobili Pininfarina Battista har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
+Automobili Pininfarina Battista har flera integrerade skärmar. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/#front-passenger-screen) framför passagerarsätet.
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum
-- Skärmen touch översta mittkonsolen är 13,8 tum
-- Skärmen touch framför passageraren i instrumentbrädan är 8,8 tum
+- -skärmen bakom ratten integrerad i instrumentbrädan är 12,3 tum stor
+- touch-skärmen högst upp i mittkonsolen är 13,8 tum stor
+- touch-skärmen framför passageraren i instrumentbrädan är 8,8 tum stor
 
-Modellen är inte tillgänglig med head-up display.
+Modellen har ingen head-up display.
 
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/screens_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1977"  >}}
 
 ### Ratt
 
-Automobili Pininfarina Battista är utrustad med en enda typ av ratt:
+Automobili Pininfarina Battista är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -174,23 +174,23 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder Automobili Pininfarina Battista Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Automobili Pininfarina Battista stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Automobili Pininfarina Battista.
+Automobili Pininfarina Battista levereras med ett ljudsystemalternativ:
 
-- Med Rimac Nevera Sound System får du åtta högtalare med en maximal systemeffekt på 1200 watt.
+- **Rimac Nevera Sound System:** Har åtta högtalare och levererar en maximal uteffekt på 1200 watt.
 
-## Ljus
+## Belysning
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/headlights_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1999"  >}}
 
@@ -198,40 +198,40 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-Automobili Pininfarina Battista inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Automobili Pininfarina Battista har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Automobili Pininfarina Battista, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Automobili Pininfarina Battista, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Automobili Pininfarina Battista, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Automobili Pininfarina Battista, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-### Körautomatisering
+### Körautomation
 
-Med standard  nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet  nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
 ## Säkerhets- och åtkomstteknologier
 
 Automobili Pininfarina Battista är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Fordonets nyckelfria inträdes- och startsystem möjliggör sömlös åtkomst, vilket låter dig låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 100 liter.
+Bagageutrymmet har en lastkapacitet på 100 liter (3,5 kubikfot).
 
-Fordonets maximala vikt är 2550 kg, med en grundvikt på 2300 kg. Detta tillåter en maximal last på 250 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2550 kg (5622 lbs), med en tjänstevikt på 2300 kg (5071 lbs). Detta möjliggör en maximal last på 250 kg (551 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
+Denna modell kan inte utrustas med dragkrok. För att dra släp måste du titta på andra modeller.
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 01.07.2023 och leveranserna startade i October 2023.
+Automobili Pininfarina Battista hade sin världspremiär den 01.07.2023, och leveranserna startade October 2023.
 {{< pagenavigation b_url="../" b_title="Automobili Pininfarina Battista" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

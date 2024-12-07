@@ -1,5 +1,5 @@
 ---
-title: Ford elektriske modeller
+title: Ford elbilsmodeller
 linktitle: "Ford"
 description: "Ford is one of the world's leading automakers, with a history of innovation and excellence that spans more than a century. Ford is also committed to leading the transition to a more sustainable and electrified future, with a range of hybrid and electric vehicles (EVs) that offer performance, efficiency, technology and convenience."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Ford Capri är en Coupe SUV tillgänglig i 2 varianter.
+Ford Capri är en coupé-SUV tillgänglig i 2 varianter.
 </p>
 	<a href="capri/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -71,7 +71,7 @@ Ford F150 Lightning är en pickup tillgänglig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Ford Mustang Mach-E är en Coupe SUV tillgänglig i 5 varianter.
+Ford Mustang Mach-E är en coupé-SUV tillgänglig i 5 varianter.
 </p>
 	<a href="mustang_mach-e/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

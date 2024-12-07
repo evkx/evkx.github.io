@@ -1,7 +1,7 @@
 ---
 title: Nio ET5
 linktitle: "ET5"
-description: "Nio ET5 är en helelektrisk sedan med en WLTP räckvidd på upp till 590 km. EVKX.net har alla detaljer."
+description: "Nio ET5 är en helt elektrisk sedan med en WLTP-räckvidd på upp till 590 km (367 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,62 +11,62 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/nio/et5/et5/main_1_st.jpg" title="Nio ET5" width="2880" height="1792"  >}}
 
-Vi har delat in vår beskrivning av Nio ET5 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Nio ET5 imponerar med en imponerande kraft på 480 kW (653 hk) och ett imponerande totalt vridmoment på 850 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,9 sekunder och når en topphastighet på 200 km/h, vilket gör den till en stjärna i sin klass.
+Nio ET5 levererar imponerande kraft med en maxeffekt på 480 kW (653 hk / 644 bhp) och ett kraftfullt totalt vridmoment på 850 Nm (627 lb-ft). Denna högpresterande maskin kan spurta från 0 till 100 km/h på endast 3,9 sekunder, och den når en toppfart på 200 km/h (124 mph), vilket gör den till en utmärkande bil i sin klass.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Nio ET5 har två batterialternativ med olika specifikationer. Nedan kan du se hur detta påverkar räckvidd och laddning.
+Nio ET5 finns tillgänglig med två batterialternativ, där varje alternativ erbjuder olika specifikationer och prestandaegenskaper.
 
 ### 100kWh
 
-Högkapacitetsbatteriet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 90,0 kWh, vilket ger en buffert på 10,0 kWh (10,0%) för batteriskydd. Med en nominell spänning på 358 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Batteriet med hög kapacitet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 90,0 kWh, vilket ger en 10,0 kWh buffert (10,0%) för batteriskydd. Med en nominell spänning på 358 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden.
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 590 och 540 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 15,3 kWh/100 km för basmodellen och 16,7 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 590 till 540 km (367-336 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 15,3 kWh/100 km för basmodellen och 16,7 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 126 kW. En full laddning från 0 - 100 % tar 77 minuter, medan ett vanligare scenario på 10-80 % tar 42 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 84kW. Varje laddningssession tar 27 minuter och 52 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 126 kW. Laddning från 0% till 100% tar ungefär 77 minuter, medan ett mer typiskt scenario från 10% till 80% tar 42 minuter med en genomsnittlig laddningshastighet på 89 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 43%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 84 kW, där varje laddningssession tar cirka 27 minuter och 52 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 9 timmar och 59 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 40%, med en total laddningstid på 100 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 9 timmar och 59 minuter, med fyra laddningsstopp från 1% till 40%, totalt 100 minuters laddtid.
 
 ### 75kWh
 
-Högkapacitetsbatteriet har en bruttokapacitet på 75,0 kWh och en nettoanvändbar kapacitet på 70,5 kWh, vilket ger en buffert på 4,5 kWh (6,0%) för batteriskydd. Med en nominell spänning på 386 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Batteriet med hög kapacitet har en bruttokapacitet på 75,0 kWh och en nettoanvändbar kapacitet på 70,5 kWh, vilket ger en 4,5 kWh buffert (6,0%) för batteriskydd. Med en nominell spänning på 386 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden.
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 456 och 419 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 15,3 kWh/100 km för basmodellen och 16,7 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 456 till 419 km (283-260 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 15,3 kWh/100 km för basmodellen och 16,7 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 140 kW. En full laddning från 0 - 100 % tar 66 minuter, medan ett vanligare scenario på 10-80 % tar 35 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 74%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 75kW. Varje laddningssession tar 38 minuter och 39 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 140 kW. Laddning från 0% till 100% tar ungefär 66 minuter, medan ett mer typiskt scenario från 10% till 80% tar 35 minuter med en genomsnittlig laddningshastighet på 85 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 7% till 74%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 75 kW, där varje laddningssession tar cirka 38 minuter och 39 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 10 timmar och 29 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 65%, med en total laddningstid på 129 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 10 timmar och 29 minuter, med fyra laddningsstopp från 8% till 65%, totalt 129 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 10 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 8 timmar och 10 minuter vid hemmaladdning.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [vänster baksida](../../../../technology/charging/connectors/#rear-side), vilket gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 ### Batteribyte
 
-Denna modell stöder batteribyte. Batteribyte innebär att du kan köra till en unik batteribytesstation och få batteriet utbytt mot ett nytt batteri med 90 % SOC. Batteribytet tar 7 minuter.
+Denna modell stödjer batteribyte. Batteribyte innebär att du kan köra till en särskild batteribytestation och få batteriet utbytt mot ett nytt batteri med 90% laddning. Batteribytet tar 7 minuter.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -74,40 +74,40 @@ Denna modell stöder batteribyte. Batteribyte innebär att du kan köra till en 
 
 ## Drivlina
 
-Nio ET5 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
+Nio ET5 har ett fyrhjulsdrivet system som drivs av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/) på bakaxeln.
 
-### Hjulupphängning
+### Fjädring
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för Nio ET5. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+Dynamisk styrning är standard på Nio ET5, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
+Nio ET5 är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak.
 
 ### Regenerativ bromsning
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Dock möjliggörs [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving) kombinerat med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal). Vid låga hastigheter kommer enpedalskörningsläget att hålla bilen långsamt framåt.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Däremot erbjuds [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalkörning**](../../../../technology/regen/#one-pedal-driving) i kombination med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal). Vid låga hastigheter kommer enpedalskörningsläget att hålla bilen i krypfart framåt.
 
-Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns tre nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns tre nivåer av regenerativ bromsning att välja mellan, vilket låter dig anpassa körupplevelsen efter dina preferenser.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Nio ET5, med dimensioner på 4790 mm i längd, 1960 mm i bredd och 1499 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Nio ET5 finns i totalt 10 enfärgade lackfärger.
+Nio ET5, med måtten 4790 mm i längd, 1960 mm i bredd och 1499 mm i höjd, tillhör D-segmentet, även känt som mellanklassen eller familjebilar. De erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för många olika förare. Nio ET5 finns tillgänglig i totalt 10 solida lackfärger.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Nio ET5, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Nio ET5 erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 255/50 däck på 20" fälgar
 - 255/45 däck på 21" fälgar
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate), vilket gör bagageutrymmet mycket mer användbart jämfört med ett traditionellt bagagelucka, särskilt för en sedan. 'Soft Close' är standard-funktionen för sidodörrarna. Bakluckan är eldriven och har sparksensor som standard.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate), vilket gör bagageutrymmet mycket mer användbart jämfört med en traditionell sedanbaklucka. Mjukstängning är standard funktion för sidodörrarna. Bakluckan är elektriskt manövrerad och har rörelsesensor som standard.
 
-Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
+Det finns bara ett takalternativ för denna modell. Standardtaket har ett stort panoramaglas som sträcker sig från fram till bak. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Glaset är tonat för att skydda mot värme från solen.
 
 {{< sitefiguresized thumb="models/nio/et5/et5/exterior_1_st.jpg" title="Nio ET5" width="1920" height="1104"  >}}
 
@@ -119,42 +119,42 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 
 ### Säten
 
-Nio ET5 rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+Nio ET5 rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
 Nio ET5 erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner finns tillgängliga på **standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
-- höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- Höjdjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
-- [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd) (standard för passagerarsäte)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
+- [Fotstöd för passagerare](../../../../technology/seats/adjustment/#footrest) (standard för passagerarsäte)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Brown [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
+- Brown [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
+- Gray [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med 60:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating) (standard för yttersäten)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
@@ -162,10 +162,10 @@ Det finns ett tillgängligt klimatsystem.
 
 ## Komfortfunktioner
 
-Nio ET5 inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Nio ET5 ingår flera funktioner för att öka komfort och bekvämlighet:
 
 - **Elektriskt justerbar ratt**
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -175,24 +175,24 @@ Nio ET5 inkluderar flera funktioner för att förbättra komfort och bekvämligh
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten monterad i instrumentbrädan är 10,2 tum
-- Skärmen touch i mitten av mittkonsolen är 12,3 tum
+- -skärmen bakom ratten monterad i instrumentbrädan är 10,2 tum stor
+- touch-skärmen i mitten av mittkonsolen är 12,3 tum stor
 
-Modellen är inte tillgänglig med head-up display.
+Modellen har ingen head-up display.
 
 {{< sitefiguresized thumb="models/nio/et5/et5/screens_1_st.jpg" title="Nio ET5" width="3000" height="1690"  >}}
 
 ### Ratt
 
-Nio ET5 är utrustad med en enda typ av ratt:
+Nio ET5 är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
-Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig styra vissa funktioner genom röstkommandon.
+Denna modell har ett röststyrningssystem som tillval. Röststyrningen låter dig kontrollera vissa funktioner genom röstkommandon.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -200,77 +200,77 @@ Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig s
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Nio ET5.
+Nio ET5 levereras med ett ljudsystemalternativ:
 
 - **Premium sound system:** Har 23 högtalare.
 
-Modellen har 2 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+Dessutom har modellen 2 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
-Nio ET5 inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Nio ET5 har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Nio ET5, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Nio ET5, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Nio ET5, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Nio ET5, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Nio ET5, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Nio ET5, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valfritt på Nio ET5, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Tillval på Nio ET5, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Nio ET5, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+[**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Nio ET5, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valfritt på Nio ET5, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Tillval på Nio ET5, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Nio ET5, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Nio ET5, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
-[**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valfritt på Nio ET5, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
+[**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Tillval på Nio ET5, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Nio ET5, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Nio ET5, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-### Körautomatisering
+### Körautomation
 
-Nio ET5 erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Nio ET5 erbjuder [körautomation på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med NIO Pilot Selected Pack nivå 1-systemet får du följande funktioner för körautomatisering.
+Med NIO Pilot Selected Pack nivå 1-systemet får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tillval)
 
-Med det valfria NIO Pilot Complete Pack nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+Med det valfria NIO Pilot Complete Pack nivå 2-systemet får du ytterligare körautomationsfunktioner utöver de som anges ovan:
 
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- Avancerad farthållare som följer navigeringen och slår av och på vid större vägar för att nå målet.
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- Avancerad farthållare som följer navigationen och aktiveras/avaktiveras på större vägar för att nå målet.
 
 ## Säkerhets- och åtkomstteknologier
 
 Nio ET5 är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Fordonets nyckelfria inträdes- och startsystem möjliggör sömlös åtkomst, vilket låter dig låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 363 liter. På taket kan du lasta upp till 100 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke.
+Bagageutrymmet har en lastkapacitet på 363 liter (12,8 kubikfot). På taket kan du lasta upp till 100 kg (220,5 lbs). Takräcken finns som tillval för enkel montering av takbox eller lasthållare.
 
-Fordonets maximala vikt är 2900 kg, med en grundvikt på 2379 kg. Detta tillåter en maximal last på 521 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2900 kg (6393 lbs), med en tjänstevikt på 2379 kg (5245 lbs). Detta möjliggör en maximal last på 521 kg (1149 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2000 kg, medan för en obromsad släpvagn är den 750 kg.
+Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 2000 kg (4409 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 {{< pagenavigation b_url="../" b_title="Nio ET5" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

@@ -1,14 +1,14 @@
 ---
-title: Porsche Taycan (GEN1) laddningskurva och laddningsprestanda
+title: Porsche Taycan (GEN1) laddningskurva och prestanda
 linktitle: "Laddningskurva"
-description: "Nedan visas laddningskurvan för Porsche Taycan (GEN1), som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
+description: "Nedan är laddningskurvan för Porsche Taycan (GEN1), som visar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda för de olika batteripaketen.
+Denna modell finns tillgänglig med flera batterier. Nedan hittar du prestandan för de olika batteripaketen.
 
 ### 79,2 kWh Performance Battery
 
@@ -30,7 +30,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 	<tbody>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 0 - 100 %
+				Genomsnittlig laddningshastighet 0-100%
 			</td>
 			<td>
 				92,1 kW
@@ -38,7 +38,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-100 %
+				Genomsnittlig laddningshastighet 10-100%
 			</td>
 			<td>
 				86,9 kW
@@ -46,7 +46,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-90 %
+				Genomsnittlig laddningshastighet 10-90%
 			</td>
 			<td>
 				108,0 kW
@@ -54,7 +54,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-80 %
+				Genomsnittlig laddningshastighet 10-80%
 			</td>
 			<td>
 				153,2 kW
@@ -62,7 +62,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Maximal C-Rate
+				Max C-värde
 			</td>
 			<td>
 				2,80
@@ -70,7 +70,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig C-Rate
+				Genomsnittlig C-värde
 			</td>
 			<td>
 				1,90
@@ -94,7 +94,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Optimal stopptid för laddning
+				Optimal laddningstid
 			</td>
 			<td>
 				21m23s
@@ -224,10 +224,10 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 </div>
 
 
-Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
+Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../../technology/battery/charging/#temperature)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva baseras också på att laddningen startas vid låg laddningsnivå. Därför kan inkoppling vid en högre nivå påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
 
 
-Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid en optimal batteritemperatur.
+Porsche Taycan (GEN1) har batteriuppvärmning, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -236,7 +236,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Laddningsnivå
 			</th>
 			<th>
 				Hastighet
@@ -245,7 +245,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				Tid
 			</th>
 			<th>
-				Energi laddad
+				Laddad energi
 			</th>
 		</tr>
 	</thead>
@@ -1688,7 +1688,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 	<tbody>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 0 - 100 %
+				Genomsnittlig laddningshastighet 0-100%
 			</td>
 			<td>
 				97,5 kW
@@ -1696,7 +1696,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-100 %
+				Genomsnittlig laddningshastighet 10-100%
 			</td>
 			<td>
 				93,2 kW
@@ -1704,7 +1704,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-90 %
+				Genomsnittlig laddningshastighet 10-90%
 			</td>
 			<td>
 				136,6 kW
@@ -1712,7 +1712,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-80 %
+				Genomsnittlig laddningshastighet 10-80%
 			</td>
 			<td>
 				191,4 kW
@@ -1720,7 +1720,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 		</tr>
 		<tr>
 			<td>
-				Maximal C-Rate
+				Max C-värde
 			</td>
 			<td>
 				2,84
@@ -1728,7 +1728,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig C-Rate
+				Genomsnittlig C-värde
 			</td>
 			<td>
 				1,94
@@ -1752,7 +1752,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 		</tr>
 		<tr>
 			<td>
-				Optimal stopptid för laddning
+				Optimal laddningstid
 			</td>
 			<td>
 				19m52s
@@ -1882,10 +1882,10 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 </div>
 
 
-Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
+Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../../technology/battery/charging/#temperature)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva baseras också på att laddningen startas vid låg laddningsnivå. Därför kan inkoppling vid en högre nivå påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
 
 
-Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid en optimal batteritemperatur.
+Porsche Taycan (GEN1) har batteriuppvärmning, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -1894,7 +1894,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Laddningsnivå
 			</th>
 			<th>
 				Hastighet
@@ -1903,7 +1903,7 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 				Tid
 			</th>
 			<th>
-				Energi laddad
+				Laddad energi
 			</th>
 		</tr>
 	</thead>

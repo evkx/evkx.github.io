@@ -1,7 +1,7 @@
 ---
 title: Porsche Macan
 linktitle: "Macan"
-description: "Porsche Macan är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 641 km. EVKX.net har alla detaljer."
+description: "Porsche Macan är en elektrisk premium-coupéSUV med en WLTP-räckvidd på upp till 641 km (398 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/porsche/macan/macan/main_1_st.jpeg" title="Porsche Macan" width="3000" height="1687"  >}}
 
-Vi har delat in vår beskrivning av Porsche Macan i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Med overboost når Porsche Macan en maximal effekt på 265 kW (360 hk). Utan overboost levererar den 250 kW (340 hk). Det maximala vridmomentet är 563 Nm. Den kan accelerera från 0 till 100 km/h på 5,7 sekunder och når en topphastighet på 220 km/h, vilket demonstrerar dess solida prestanda.
+Med överboost når Porsche Macan en maximal effekt på 265 kW (360 hk / 355 bhp). Utan överboost levererar den 250 kW (340 hk / 335 bhp). Det maximala vridmomentet är 563 Nm (415 lb-ft). Den accelererar från 0 till 100 km/h på 5,7 sekunder och når en toppfart på 220 km/h (137 mph), vilket visar dess solida prestanda.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 94,9 kWh, vilket ger en buffert på 5,1 kWh (5,1%) för batteriskydd. Vid en nominell spänning på 662 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet med hög kapacitet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 94,9 kWh, vilket ger en 5,1 kWh buffert (5,1%) för batteriskydd. Med en driftspänning på 662 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 641 och 516 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,8 kWh/100 km för basmodellen och 18,4 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 641 till 516 km (398-321 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 14,8 kWh/100 km för basmodellen och 18,4 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 60 minuter, medan ett vanligare scenario på 10-80 % tar 21 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 62%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 169kW. Varje laddningssession tar 21 minuter och 36 sekunder. Denna effektiva laddningskapacitet gör Porsche Macan till ett bekvämt alternativ för långdistansresor.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 270 kW. Laddning från 0% till 100% tar ungefär 60 minuter, medan ett mer typiskt scenario från 10% till 80% tar 21 minuter med en genomsnittlig laddningshastighet på 192 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 62%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 169 kW, där varje laddningssession tar cirka 21 minuter och 36 sekunder. Denna effektiva laddningsförmåga gör Porsche Macan till ett bekvämt alternativ för långdistansresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 21,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 3 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 65%, med en total laddningstid på 43 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 21,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 3 minuter, med två laddningsstopp från 1% till 65%, totalt 43 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 37 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 8 timmar och 37 minuter vid hemmaladdning.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader. En andra port finns på [höger baksida](../../../../technology/charging/connectors/#front-side). Denna extra port ger dig fler parkeringsmöjligheter för AC-laddning. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**J1772**](../../../../technology/charging/connectors/#j1772) för Nordamerika och för Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [vänster baksida](../../../../technology/charging/connectors/#rear-side), vilket gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna. Dessutom finns en andra port på [höger baksida](../../../../technology/charging/connectors/#front-side) som ger större flexibilitet för AC-laddning. Kontakttyperna varierar mellan olika marknader. Denna modell använder [**J1772**](../../../../technology/charging/connectors/#j1772) för Nordamerika och [**TYP2**](../../../../technology/charging/connectors/#type-2) för Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,23 +56,23 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 ## Drivlina
 
-Porsche Macan har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Porsche Macan har ett bakhjulsdrivet system med en motor på bakaxeln. Motorerna som används är [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 184 mm. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 185 mm, och maximal är 224 mm.
+Framfjädringen använder [dubbel länkarm](../../../../technology/suspension/#double-wishbone), medan bak använder [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. Standard har stålfjädrar med fast höjd men med möjlighet till justerbar dämpning som tillval. Markfrigången med denna fjädring är 184 mm. Framfjädringen är av typen [dubbel länkarm](../../../../technology/suspension/#double-wishbone) och bakfjädringen är [multilänk](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska stötdämpare. Fjädringen är fullt adaptiv på både fram- och bakaxel, så både höjd och dämpning kan justeras manuellt och automatiskt. Den minsta markfrigången är 185 mm, och den maximala är 224 mm.
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för Porsche Macan. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en valfritt-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
+Dynamisk styrning är standard på Porsche Macan, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort. Dessutom finns fyrhjulsstyrning som ett tillval funktion. Fyrhjulsstyrning minskar vändradien vid låga hastigheter.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 410mm och de bakre skivorna är 365mm.
+Porsche Macan är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak. De främre skivorna mäter 410 mm, medan de bakre skivorna är 365 mm.
 
 ### Regenerativ bromsning
 
-Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektiviteten och körupplevelsen. Det mest effektiva alternativet är [**Automatiskt Regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet seglar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det är nödvändigt. <br /><br/> Ett annat alternativ är läget [**Regen på Gaspedal**](../../../../technology/regen/#one-pedal-driving), där regenerativ bromsning aktiveras när föraren släpper gaspedalen. Detta system tillåter fordonet att sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalskörning**.
+Systemet för [regenerativ bromsning](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektivitet och körupplevelse. Det mest effektiva alternativet är [**Automatisk regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet rullar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det behövs. <br /><br/> Ett annat alternativ är [**Regen på gaspedal**](../../../../technology/regen/#one-pedal-driving) läget där regenerativ bromsning aktiveras när föraren lättar på gaspedalen. Detta system gör att fordonet kan sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalkörning**.
 
 Den maximala regenerativa effekten är 275 kW.
 
@@ -80,24 +80,24 @@ Den maximala regenerativa effekten är 275 kW.
 
 ## Exteriör
 
-Porsche Macan, med dimensioner på 4784 mm i längd, 1938 mm i bredd och 1622 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Porsche Macan finns i totalt 13 lackfärger, inklusive både solida och metalliska alternativ.
+Porsche Macan, med måtten 4784 mm i längd, 1938 mm i bredd och 1622 mm i höjd, tillhör kategorin kompakta SUV:ar, även kända som C-SUV:ar. Dessa erbjuder en balans mellan mindre bilars praktiska egenskaper och manövrerbarhet och större SUV:ars utrymme och mångsidighet. Porsche Macan finns tillgänglig i totalt 13 lackfärger, inklusive både solida och metallic-alternativ.
 
-Du kan också välja flera stilalternativ för att göra din bil mer unik.
+Du kan även välja mellan flera olika stilalternativ för att göra din bil mer unik.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Porsche Macan, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Porsche Macan erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 235/55 däck på 20" fälgar fram och 285/45 däck på 20" fälgar bak
 - 245/45 däck på 21" fälgar fram och 295/40 däck på 21" fälgar bak
 - 255/40 däck på 22" fälgar fram och 295/35 däck på 22" fälgar bak
 - 265/35 däck på 22" fälgar fram och 305/30 däck på 22" fälgar bak
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Den elektriskt drivna bakluckan har en valfri kicksensor, som gör att den kan öppnas genom att helt enkelt sparka foten under bakluckan.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate). Den elektriskt manövrerade bakluckan kan som tillval fås med rörelsesensor, vilket gör det möjligt att öppna den genom att bara sparka med foten under bakluckan.
 
-Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+Det finns två olika takalternativ att välja mellan. Standard är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett panoramatak. Glaset sträcker sig över större delen av taket och passagerarna kan öppna den främre delen. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
+Du kan även beställa bilen med tonade rutor från B-stolpen och bakåt, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/porsche/macan/macan/exterior_1_st.jpeg" title="Porsche Macan" width="3000" height="1687"  >}}
 
@@ -109,72 +109,72 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ### Säten
 
-Porsche Macan rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+Porsche Macan rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
-För första raden erbjuder Porsche Macan tre olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
+Första raden erbjuder tre olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
-Följande funktioner är tillgängliga på **Comfortseats** sätet.
+Följande funktioner finns tillgängliga på **Comfortseats** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
-- höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfri)
+- Höjdjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment) (tillval)
 
-Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
+Följande funktioner finns tillgängliga på **Comfortseats with memory** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfri)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
+- [Massage](../../../../technology/seats/adjustment/#massage) (tillval)
 
-Du kan välja mellan 2 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
+Följande funktioner finns tillgängliga på **Sportsseats Plus** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
-- höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- Höjdjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
-- [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart sidostöd ryggstöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Justerbart sidostöd sittdyna](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med 40:20:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Två klimatsystemalternativ är tillgängliga:
+Två klimatsystemalternativ finns tillgängliga:
 
-- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-- **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
+- **2-zons klimatsystem:** Stöder olika temperaturer för förare och passagerare.
+- **4-zons klimatsystem:** Stöder olika temperaturer för förare, passagerare och två separata passagerare i baksätet.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Porsche Macan inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Porsche Macan ingår flera funktioner för att öka komfort och bekvämlighet:
 
 {{<evkxdisplayaddarticle />}}
 
@@ -182,27 +182,27 @@ Porsche Macan inkluderar flera funktioner för att förbättra komfort och bekv�
 
 ## Användargränssnitt och kontroll
 
-Porsche Macan har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
+Porsche Macan har flera integrerade skärmar. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/#front-passenger-screen) framför passagerarsätet.
 
 Viktiga skärmdetaljer:
 
-- Skärmen touch bakom ratten integrerad i instrumentbrädan är 12,6 tum
-- Skärmen touch översta mittkonsolen är 10,9 tum
-- Skärmen touch framför passageraren i instrumentbrädan är 10,9 tum
+- touch-skärmen bakom ratten integrerad i instrumentbrädan är 12,6 tum stor
+- touch-skärmen högst upp i mittkonsolen är 10,9 tum stor
+- touch-skärmen framför passageraren i instrumentbrädan är 10,9 tum stor
 
-En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+En head-up display är ett tillval system som projicerar hastighet och annan viktig förarinformation på vindrutan.
 
 {{< sitefiguresized thumb="models/porsche/macan/macan/screens_1_st.jpeg" title="Porsche Macan" width="3000" height="1687"  >}}
 
 ### Ratt
 
-Porsche Macan är utrustad med en enda typ av ratt:
+Porsche Macan är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -210,92 +210,92 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder Porsche Macan Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Porsche Macan stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Porsche Macan.
+Du kan välja mellan två ljudsystem för Porsche Macan:
 
-- Med BOSE® Surround Sound System får du 14 högtalare med en maximal systemeffekt på 710 watt.
-- Med Burmester® 3D High-End Surround Sound System får du 21 högtalare med en maximal systemeffekt på 1470 watt.
+- **BOSE® Surround Sound System:** Har 14 högtalare och levererar en maximal uteffekt på 710 watt.
+- **Burmester® 3D High-End Surround Sound System:** Har 21 högtalare och levererar en maximal uteffekt på 1470 watt.
 
-Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
+Dessutom har modellen 2 USB-C-anslutningar som standard. Som tillval kan du få ytterligare 2 USB-C-anslutningar.
 
-## Ljus
+## Belysning
 
-Du kan välja mellan två typer av strålkastare för Porsche Macan.
+Du kan välja mellan två olika typer av strålkastare för Porsche Macan.
 
-- Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt för att släcka små områden framför.
-- **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
+- Porsche Macan levereras med avancerade LED Matrix-strålkastare. Detta adaptiva system delar upp den traditionella strålkastarljusstrålen i flera mindre strålar, vilket låter ljuskontrollern selektivt tända och släcka dem för att undvika att blända andra förare. För ökad säkerhet har strålkastarna också kurvljus som lyser upp sidan vid svängar.
+- **LED Matrix-strålkastare:** Som tillval finns detta adaptiva system som delar upp den traditionella strålkastarljusstrålen i dussintals mindre strålar som ljuskontrollern kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
-Porsche Macan inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Porsche Macan har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
-[**Effektivitetsassistans**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion som hjälper föraren att förutse körförhållanden och spara energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion som hjälper förare att förutse körförhållanden och spara energi.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Porsche Macan, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Porsche Macan, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Porsche Macan, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Porsche Macan, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Porsche Macan, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Porsche Macan, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valfritt på Porsche Macan, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Tillval på Porsche Macan, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valfritt på Porsche Macan, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+[**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Tillval på Porsche Macan, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valfritt på Porsche Macan, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Tillval på Porsche Macan, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Porsche Macan, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Porsche Macan, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
 [**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Porsche Macan, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valfritt på Porsche Macan, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tillval på Porsche Macan, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-### Körautomatisering
+### Körautomation
 
-Porsche Macan erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Porsche Macan erbjuder [körautomation på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med  nivå 1-systemet får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tillval)
 
-Med det valfria Porsche InnoDrive nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+Med det valfria Porsche InnoDrive nivå 2-systemet får du ytterligare körautomationsfunktioner utöver de som anges ovan:
 
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
 ## Säkerhets- och åtkomstteknologier
 
 Porsche Macan är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Med standard nyckelfri start och valfritt nyckelfritt inträde kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 540 liter. Med baksätena nedfällda ökar detta till 1348 liter. På taket kan du lasta upp till 75 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke.
+Bagageutrymmet har en lastkapacitet på 540 liter (19,1 kubikfot). Med baksätet nedfällt ökar detta till 1348 liter (47,6 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs). Takräcken finns som tillval för enkel montering av takbox eller lasthållare.
 
-Fordonets maximala vikt är 2920 kg, med en grundvikt på 2255 kg. Detta tillåter en maximal last på 665 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2920 kg (6437 lbs), med en tjänstevikt på 2255 kg (4971 lbs). Detta möjliggör en maximal last på 665 kg (1466 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2000 kg, medan för en obromsad släpvagn är den 750 kg.
+Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 2000 kg (4409 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/porsche/macan/macan/trunk_1_st.jpg" title="Porsche Macan" width="3000" height="2250"  >}}
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 25.01.2024 och leveranser förväntas starta om August 2024.
+Denna modell hade sin världspremiär den 25.01.2024, och leveranserna förväntas börja August 2024.
 {{< pagenavigation b_url="../" b_title="Porsche Macan" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

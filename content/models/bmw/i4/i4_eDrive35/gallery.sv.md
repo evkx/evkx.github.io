@@ -1,7 +1,7 @@
 ---
-title: BMW i4 eDrive35 galleri
-linktitle: "Galleri"
-description: "Se nedan för vårt stora BMW i4 eDrive35-bildgalleri. Klicka på bilderna för högupplösta versioner."
+title: BMW i4 eDrive35 bildgalleri
+linktitle: "Bildgalleri"
+description: "Se nedan för vårt stora BMW i4 eDrive35 bildgalleri. Klicka på bilderna för högupplösta versioner."
 weight: 5
 hidden: true
 navicon: bi-images
@@ -86,6 +86,6 @@ lightbox.init();
 <strong><i class="bi-arrow-left"></i> Specifikationer </strong>
 </a>
 <a href="../reviews/" class="text-decoration-none text-black float-end">
-<strong>Tester <i class="bi-arrow-right"></i></strong>
+<strong>Recensioner <i class="bi-arrow-right"></i></strong>
 </a>
 </div>

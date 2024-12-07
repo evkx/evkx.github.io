@@ -1,5 +1,5 @@
 ---
-title: Lynk & Co elektriske modeller
+title: Lynk & Co elbilsmodeller
 linktitle: "Lynk & Co"
 description: "Lynk & Co is more than a car company; it’s a mobility provider committed to flexibility as its core principle. With a diverse range of car ownership options – from subscription to lease to purchase – Lynk & Co is at the forefront of the car-sharing movement. The brand combines vibrant, innovative design with pioneering connectivity solutions, offering consumers a forward-thinking driving experience."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">

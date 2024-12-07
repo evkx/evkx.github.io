@@ -1,7 +1,7 @@
 ---
 title: Renault Scenic E-Tech electric
 linktitle: "Scenic E-Tech electric"
-description: "Renault Scenic E-Tech electric är en helelektrisk crossover med en WLTP räckvidd på upp till 450 km. EVKX.net har alla detaljer."
+description: "Renault Scenic E-Tech electric är en elektrisk crossover med en WLTP-räckvidd på upp till 450 km (280 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/main_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="1689"  >}}
 
-Vi har delat in vår beskrivning av Renault Scenic E-Tech electric i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Renault Scenic E-Tech electric erbjuder blygsamma prestanda med en maximal effekt på 160 kW (218 hk) och ett totalt vridmoment på 300 Nm. Den accelererar från 0 till 100 km/h på 8,4 sekunder och har en topphastighet på 170 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
+Renault Scenic E-Tech electric erbjuder modest prestanda med en maxeffekt på 160 kW (218 hk / 215 bhp) och ett totalt vridmoment på 300 Nm (221 lb-ft). Den accelererar från 0 till 100 km/h på 8,4 sekunder och har en toppfart på 170 km/h (106 mph), vilket ligger mer i linje med traditionella fordon med förbränningsmotor.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 65,0 kWh och en nettoanvändbar kapacitet på 60,0 kWh, vilket ger en buffert på 5,0 kWh (7,7%) för batteriskydd.
+Batteriet med hög kapacitet har en bruttokapacitet på 65,0 kWh och en nettoanvändbar kapacitet på 60,0 kWh, vilket ger en 5,0 kWh buffert (7,7%) för batteriskydd.
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 450 och 429 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 13,3 kWh/100 km för basmodellen och 14,0 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 450 till 429 km (280-267 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 13,3 kWh/100 km för basmodellen och 14,0 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 130 kW. En full laddning från 0 - 100 % tar 45 minuter, medan ett vanligare scenario på 10-80 % tar 24 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 89kW. Varje laddningssession tar 24 minuter och 45 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 130 kW. Laddning från 0% till 100% tar ungefär 45 minuter, medan ett mer typiskt scenario från 10% till 80% tar 24 minuter med en genomsnittlig laddningshastighet på 105 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 6% till 65%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 89 kW, där varje laddningssession tar cirka 24 minuter och 45 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 10 timmar och 14 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 63%, med en total laddningstid på 115 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 10 timmar och 14 minuter, med fem laddningsstopp från 6% till 63%, totalt 115 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 7,2 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 20 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 7,2 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 8 timmar och 20 minuter vid hemmaladdning.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [höger framsida](../../../../technology/charging/connectors/#front-side). Denna placering gör det enkelt att använda laddstationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är bekvämt placerad på [höger framsida](../../../../technology/charging/connectors/#front-side), vilket underlättar åtkomst vid laddstationer där du parkerar parallellt med laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,42 +56,42 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 
 ## Drivlina
 
-Renault Scenic E-Tech electric har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Synkronmotor med lindad rotor](../../../../technology/motors/wrsm/).
+Renault Scenic E-Tech electric har ett framhjulsdrivet system med en motor på framaxeln. Motorn som används är en [lindad rotor synkronmotor](../../../../technology/motors/wrsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Fjädringen standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 180 mm.
+standards fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 180 mm.
 
 ### Styrning
 
-Dynamisk styrning är valfritt-funktionen för Renault Scenic E-Tech electric. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+Dynamisk styrning är ett tillval på Renault Scenic E-Tech electric, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
+Renault Scenic E-Tech electric är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak.
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera.
+[Regenerativ bromsning](../../../../technology/regen/) finns tillgänglig i två lägen. Du kan använda [enpedalkörning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla fritt och använda [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal) för regenerering.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Renault Scenic E-Tech electric, med dimensioner på 4470 mm i längd, 1864 mm i bredd och 1571 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Renault Scenic E-Tech electric finns i totalt 6 enfärgade lackfärger.
+Renault Scenic E-Tech electric, med måtten 4470 mm i längd, 1864 mm i bredd och 1571 mm i höjd, tillhör B-SUV-segmentet, även känt som kompakta SUV:ar eller crossovers. De kombinerar den kompakta storleken och manövrerbarheten från B-segmentets bilar med högre körposition, ökat lastutrymme och robust SUV-styling. Renault Scenic E-Tech electric finns tillgänglig i totalt 6 solida lackfärger.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Renault Scenic E-Tech electric, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Renault Scenic E-Tech electric erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 235/55 däck på 19" fälgar
 - 255/45 däck på 20" fälgar
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Bakluckan är eldriven och har sparksensor som standard.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate). Bakluckan är elektriskt manövrerad och har rörelsesensor som standard.
 
-Det finns bara ett tak för denna modell. Standardtaket har en stor panoramavy som spänner över de flesta områden framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och den boendes komfort. Glaset har en elektrokrom funktion som gör att du kan blanda glaset i flera mönster för att skydda mot solen.
+Det finns bara ett takalternativ för denna modell. Standardtaket har ett stort panoramaglas som sträcker sig över större delen från fram till bak. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Glaset har en elektrokrom funktion som låter dig tona glaset i flera mönster för att skydda mot solen.
 
-B-stolpen och vyerna bak är tonade.
+Rutorna från B-stolpen och bakåt är tonade, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/exterior_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="1687"  >}}
 
@@ -103,29 +103,29 @@ B-stolpen och vyerna bak är tonade.
 
 ### Säten
 
-Renault Scenic E-Tech electric rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+Renault Scenic E-Tech electric rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
 Renault Scenic E-Tech electric erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner finns tillgängliga på **standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (valfri)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- Höjdjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (tillval)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-- Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
+- Gray [tyg/konstläderklädsel](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/frontseats_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med 60:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/secondrowseats_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 
@@ -133,20 +133,20 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
-- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
+- **2-zons klimatsystem:** Stöder olika temperaturer för förare och passagerare.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Renault Scenic E-Tech electric inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Renault Scenic E-Tech electric ingår flera funktioner för att öka komfort och bekvämlighet:
 
 - **Elektriskt justerbar ratt**
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -154,28 +154,28 @@ Renault Scenic E-Tech electric inkluderar flera funktioner för att förbättra 
 
 ## Användargränssnitt och kontroll
 
-Renault Scenic E-Tech electric har två skärmar med information för föraren och passagerarna. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+Renault Scenic E-Tech electric har två skärmar med information för förare och passagerare. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och på höger sida finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten på ramens vänstra sida är 12,3 tum
-- Skärmen touch på höger sida av den delade ramen är 12,3 tum
+- -skärmen bakom ratten på vänster sida av ramen är 12,3 tum stor
+- touch-skärmen på höger sida av den delade ramen är 12,3 tum stor
 
-En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+En head-up display är ett tillval system som projicerar hastighet och annan viktig förarinformation på vindrutan.
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/screens_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 
 ### Ratt
 
-Renault Scenic E-Tech electric är utrustad med en enda typ av ratt:
+Renault Scenic E-Tech electric är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
-Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+Denna modell levereras med röststyrning som standard, vilket låter dig hantera olika funktioner genom röstkommandon.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -183,29 +183,29 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder Renault Scenic E-Tech electric Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Renault Scenic E-Tech electric stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Renault Scenic E-Tech electric.
+Du kan välja mellan två ljudsystem för Renault Scenic E-Tech electric:
 
 - **DAB Audiosystem:** Har sex högtalare.
 - **BOSE Premium Sound System:** Har tio högtalare.
 
-Modellen har 6 USB-C-anslutningar som standard.
+Dessutom har modellen 6 USB-C-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-Du kan välja mellan två typer av strålkastare för Renault Scenic E-Tech electric.
+Du kan välja mellan två olika typer av strålkastare för Renault Scenic E-Tech electric.
 
-- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
-- **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
+- **Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
+- **LED Matrix-strålkastare:** Som tillval finns detta adaptiva system som delar upp den traditionella strålkastarljusstrålen i dussintals mindre strålar som ljuskontrollern kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/headlights_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="1687"  >}}
 
@@ -213,49 +213,49 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-Renault Scenic E-Tech electric inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Renault Scenic E-Tech electric har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Renault Scenic E-Tech electric, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Renault Scenic E-Tech electric, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Renault Scenic E-Tech electric, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Renault Scenic E-Tech electric, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Renault Scenic E-Tech electric, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Renault Scenic E-Tech electric, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valfritt på Renault Scenic E-Tech electric, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Tillval på Renault Scenic E-Tech electric, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valfritt på Renault Scenic E-Tech electric, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Tillval på Renault Scenic E-Tech electric, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Renault Scenic E-Tech electric, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Renault Scenic E-Tech electric, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Renault Scenic E-Tech electric, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Renault Scenic E-Tech electric, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-### Körautomatisering
+### Körautomation
 
-Med standard ProPILOT nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet ProPILOT nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tillval)
 
 ## Säkerhets- och åtkomstteknologier
 
 Renault Scenic E-Tech electric är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Med standard nyckelfri start och valfritt nyckelfritt inträde kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 545 liter. Med baksätena nedfällda ökar detta till 1490 liter. På taket kan du lasta upp till 75 kg.
+Bagageutrymmet har en lastkapacitet på 545 liter (19,2 kubikfot). Med baksätet nedfällt ökar detta till 1490 liter (52,6 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs).
 
-Fordonets maximala vikt är 2340 kg, med en grundvikt på 1772 kg. Detta tillåter en maximal last på 568 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2340 kg (5159 lbs), med en tjänstevikt på 1772 kg (3907 lbs). Detta möjliggör en maximal last på 568 kg (1252 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1100 kg, medan för en obromsad släpvagn är den 750 kg.
+Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 1100 kg (2425 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/trunk_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 

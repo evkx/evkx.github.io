@@ -1,7 +1,7 @@
 ---
 title: Zeekr 007 AWD Performance
 linktitle: "007 AWD Performance"
-description: "Zeekr 007 AWD Performance är en helelektrisk sedan med en CLTC räckvidd på upp till 660 km. EVKX.net har alla detaljer."
+description: "Zeekr 007 AWD Performance är en helt elektrisk sedan med en CLTC-räckvidd på upp till 660 km (410 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/main_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1326"  >}}
 
-Vi har delat in vår beskrivning av Zeekr 007 AWD Performance i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Zeekr 007 AWD Performance imponerar med en imponerande kraft på 475 kW (646 hk) och ett imponerande totalt vridmoment på 710 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 2,84 sekunder och når en topphastighet på 200 km/h, vilket gör den till en stjärna i sin klass.
+Zeekr 007 AWD Performance levererar imponerande kraft med en maxeffekt på 475 kW (646 hk / 637 bhp) och ett kraftfullt totalt vridmoment på 710 Nm (524 lb-ft). Denna högpresterande maskin kan spurta från 0 till 100 km/h på endast 2,84 sekunder, och den når en toppfart på 200 km/h (124 mph), vilket gör den till en utmärkande bil i sin klass.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 95,0 kWh, vilket ger en buffert på 5,0 kWh (5,0%) för batteriskydd. Med en nominell spänning på 370 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet med hög kapacitet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 95,0 kWh, vilket ger en 5,0 kWh buffert (5,0%) för batteriskydd. Med en nominell spänning på 370 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 660 km (410 miles). Förbrukningen är 14,4kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Fordonets räckvidd enligt [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standarden är 660 km (410 miles). Energiförbrukningen är 14,4 kWh/100 km enligt CLTC standardtestet. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 59 minuter, medan ett vanligare scenario på 10-80 % tar 28 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 57%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 132kW. Varje laddningssession tar 23 minuter och 51 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 200 kW. Laddning från 0% till 100% tar ungefär 59 minuter, medan ett mer typiskt scenario från 10% till 80% tar 28 minuter med en genomsnittlig laddningshastighet på 144 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 4% till 57%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 132 kW, där varje laddningssession tar cirka 23 minuter och 51 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 28 kWh/100 km, skulle resan ta ungefär 9 timmar och 44 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 54%, med en total laddningstid på 85 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 28 kWh/100 km, skulle resan ta ungefär 9 timmar och 44 minuter, med fyra laddningsstopp från 5% till 54%, totalt 85 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 38 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 8 timmar och 38 minuter vid hemmaladdning.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [vänster baksida](../../../../technology/charging/connectors/#rear-side), vilket gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,35 +56,35 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 ## Drivlina
 
-Zeekr 007 AWD Performance har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Zeekr 007 AWD Performance har ett fyrhjulsdrivet system som drivs av två motorer, en på varje axel. Motorerna som används är [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 162 mm, och maximal är 192 mm.
+Framfjädringen är av typen [dubbel länkarm](../../../../technology/suspension/#double-wishbone) och bakfjädringen är [multilänk](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska stötdämpare. Fjädringen är fullt adaptiv på både fram- och bakaxel, så både höjd och dämpning kan justeras manuellt och automatiskt. Den minsta markfrigången är 162 mm, och den maximala är 192 mm.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 533mm och de bakre skivorna är 457mm.
+Zeekr 007 AWD Performance är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak. De främre skivorna mäter 533 mm, medan de bakre skivorna är 457 mm.
 
 ### Regenerativ bromsning
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Dock möjliggörs [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving) kombinerat med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Däremot erbjuds [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalkörning**](../../../../technology/regen/#one-pedal-driving) i kombination med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Zeekr 007 AWD Performance, med dimensioner på 4865 mm i längd, 1900 mm i bredd och 1450 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Zeekr 007 AWD Performance finns i totalt 4 lackfärger, inklusive flera iögonfallande metalliska alternativ.
+Zeekr 007 AWD Performance, med måtten 4865 mm i längd, 1900 mm i bredd och 1450 mm i höjd, tillhör E-segmentet, även känt som stora premiumbilar. De är större och mer lyxiga än D-segmentets bilar och är designade för överlägsen komfort, avancerad teknik och hög prestanda. Zeekr 007 AWD Performance finns tillgänglig i totalt 4 lackfärger, inklusive flera slående metallic-alternativ.
 
-Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Zeekr 007 AWD Performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Zeekr 007 AWD Performance, vilket låter dig personifiera ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 265/40 däck på 22" fälgar
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate). Elektriska dörrar är standard funktion för sidodörrarna.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [halvkombilucka](../../../../technology/doors/#hatcback-style-liftgate). Elektriskt manövrerade dörrar är standard funktion för sidodörrarna.
 
-Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som spänner över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humör och komfort för den boende. Glaset är tonat för att skydda mot värme från solen.
+Det finns bara ett takalternativ för denna modell. Standardtaket har ett stort panoramatak som sträcker sig över större delen från fram till bak. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Glaset är tonat för att skydda mot värme från solen.
 
-B-stolpen och vyerna bak är tonade.
+Rutorna från B-stolpen och bakåt är tonade, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/exterior_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
@@ -94,43 +94,43 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Det finns en sätestyp du kan välja i olika material.
+Det finns en sätestyp som du kan välja i olika material.
 
 ### Säten
 
-Zeekr 007 AWD Performance rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+Zeekr 007 AWD Performance rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
 Zeekr 007 AWD Performance erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner finns tillgängliga på **standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart sidostöd ryggstöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
-Du kan välja mellan 5 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Gray [tygklädsel](../../../../technology/seats/materials/#fabric)
-- Gray [läderklädsel](../../../../technology/seats/materials/#leather)
+- Gray [skinnklädsel](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/frontseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med 40:60 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
-- höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- Höjdjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating) (standard för yttersäten)
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/secondrowseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
@@ -138,20 +138,20 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion d�
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
-En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Zeekr 007 AWD Performance inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Zeekr 007 AWD Performance ingår flera funktioner för att öka komfort och bekvämlighet:
 
 - **Elektriskt justerbar ratt**
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -159,28 +159,28 @@ Zeekr 007 AWD Performance inkluderar flera funktioner för att förbättra komfo
 
 ## Användargränssnitt och kontroll
 
-Zeekr 007 AWD Performance har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+Zeekr 007 AWD Performance har flera integrerade skärmar. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) högst upp.
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten integrerad i instrumentbrädan är 13,0 tum
-- Skärmen touch översta mittkonsolen är 15,0 tum
+- -skärmen bakom ratten integrerad i instrumentbrädan är 13,0 tum stor
+- touch-skärmen högst upp i mittkonsolen är 15,0 tum stor
 
-En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+En head-up display är standard system som projicerar hastighet och annan viktig förarinformation på vindrutan.
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/screens_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
 ### Ratt
 
-Zeekr 007 AWD Performance är utrustad med en enda typ av ratt:
+Zeekr 007 AWD Performance är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt har integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt har integrerad uppvärmning för extra komfort under kalla dagar. Den erbjuder också intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
-Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+Denna modell levereras med röststyrning som standard, vilket låter dig hantera olika funktioner genom röstkommandon.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -188,72 +188,72 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder Zeekr 007 AWD Performance Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Zeekr 007 AWD Performance stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Zeekr 007 AWD Performance.
+Zeekr 007 AWD Performance levereras med ett ljudsystemalternativ:
 
-- Med Yamaha Sound System får du 21 högtalare med en maximal systemeffekt på 300 watt.
+- **Yamaha Sound System:** Har 21 högtalare och levererar en maximal uteffekt på 300 watt.
 
-Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+Dessutom har modellen 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt för att släcka små områden framför.
+Zeekr 007 AWD Performance levereras med avancerade LED Matrix-strålkastare. Detta adaptiva system delar upp den traditionella strålkastarljusstrålen i flera mindre strålar, vilket låter ljuskontrollern selektivt tända och släcka dem för att undvika att blända andra förare. För ökad säkerhet har strålkastarna också kurvljus som lyser upp sidan vid svängar.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
-Zeekr 007 AWD Performance inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Zeekr 007 AWD Performance har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
-[**Effektivitetsassistans**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion som hjälper föraren att förutse körförhållanden och spara energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion som hjälper förare att förutse körförhållanden och spara energi.
 
 ### Säkerhetssystem
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Zeekr 007 AWD Performance, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Zeekr 007 AWD Performance, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Zeekr 007 AWD Performance, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Zeekr 007 AWD Performance, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Zeekr 007 AWD Performance, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+[**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Zeekr 007 AWD Performance, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Zeekr 007 AWD Performance, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Zeekr 007 AWD Performance, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Zeekr 007 AWD Performance, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Zeekr 007 AWD Performance, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
-### Körautomatisering
+### Körautomation
 
-Med standard Pilot Assist nivå 2-systemet får du följande funktioner för körautomatisering.
+Med standardsystemet Pilot Assist nivå 2 får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
 ## Säkerhets- och åtkomstteknologier
 
 Zeekr 007 AWD Performance är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Fordonets nyckelfria inträdes- och startsystem möjliggör sömlös åtkomst, vilket låter dig låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 462 liter. Med baksätena nedfällda ökar detta till 1300 liter. På taket kan du lasta upp till 100 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 32 liter.
+Bagageutrymmet har en lastkapacitet på 462 liter (16,3 kubikfot). Med baksätet nedfällt ökar detta till 1300 liter (45,9 kubikfot). På taket kan du lasta upp till 100 kg (220,5 lbs). Dessutom finns det en frunk (främre bagageutrymme) med en lagringskapacitet på 32 liter (1,1 CU FT).
 
-Fordonets maximala vikt är 2800 kg, med en grundvikt på 2200 kg. Detta tillåter en maximal last på 600 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2800 kg (6173 lbs), med en tjänstevikt på 2200 kg (4850 lbs). Detta möjliggör en maximal last på 600 kg (1323 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
+Denna modell kan inte utrustas med dragkrok. För att dra släp måste du titta på andra modeller.
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 27.12.2023 och leveranserna startade i January 2024.
+Zeekr 007 AWD Performance hade sin världspremiär den 27.12.2023, och leveranserna startade January 2024.
 {{< pagenavigation b_url="../" b_title="Zeekr 007" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

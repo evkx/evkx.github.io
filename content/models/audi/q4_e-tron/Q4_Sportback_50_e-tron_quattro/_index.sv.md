@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 Sportback 50 e-tron quattro
 linktitle: "Q4 Sportback 50 e-tron quattro"
-description: "Audi Q4 Sportback 50 e-tron quattro är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 522 km. EVKX.net har alla detaljer."
+description: "Audi Q4 Sportback 50 e-tron quattro är en elektrisk premium-coupéSUV med en WLTP-räckvidd på upp till 522 km (324 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,18 +11,18 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/main_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="1999"  >}}
 
-Vi har delat in vår beskrivning av Audi Q4 Sportback 50 e-tron quattro i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <div class="alert alert-secondary" role="alert">
 
@@ -34,27 +34,27 @@ Denna modell har ersatts av [Audi Q4 Sportback 45 e-tron](/models/audi/q4_e-tron
 
 ## Prestanda
 
-Med overboost når Audi Q4 Sportback 50 e-tron quattro en maximal effekt på 220 kW (299 hk). Utan overboost levererar den 195 kW (265 hk). Det maximala vridmomentet är 460 Nm. Den kan accelerera från 0 till 100 km/h på 6,2 sekunder och når en topphastighet på 180 km/h, vilket demonstrerar dess solida prestanda.
+Med överboost når Audi Q4 Sportback 50 e-tron quattro en maximal effekt på 220 kW (299 hk / 295 bhp). Utan överboost levererar den 195 kW (265 hk / 262 bhp). Det maximala vridmomentet är 460 Nm (339 lb-ft). Den accelererar från 0 till 100 km/h på 6,2 sekunder och når en toppfart på 180 km/h (112 mph), vilket visar dess solida prestanda.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 82,0 kWh och en nettoanvändbar kapacitet på 76,6 kWh, vilket ger en buffert på 5,4 kWh (6,6%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet med hög kapacitet har en bruttokapacitet på 82,0 kWh och en nettoanvändbar kapacitet på 76,6 kWh, vilket ger en 5,4 kWh buffert (6,6%) för batteriskydd. Med en nominell spänning på 350 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 522 och 446 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,7 kWh/100 km för basmodellen och 17,2 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 522 till 446 km (324-277 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 14,7 kWh/100 km för basmodellen och 17,2 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 125 kW. En full laddning från 0 - 100 % tar 67 minuter, medan ett vanligare scenario på 10-80 % tar 36 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 88kW. Varje laddningssession tar 25 minuter och 36 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 125 kW. Laddning från 0% till 100% tar ungefär 67 minuter, medan ett mer typiskt scenario från 10% till 80% tar 36 minuter med en genomsnittlig laddningshastighet på 88 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 6% till 53%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 88 kW, där varje laddningssession tar cirka 25 minuter och 36 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 10 timmar och 7 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 57%, med en total laddningstid på 107 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 10 timmar och 7 minuter, med fyra laddningsstopp från 6% till 57%, totalt 107 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 6 timmar och 57 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 6 timmar och 57 minuter vid hemmaladdning.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -62,58 +62,58 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-Audi Q4 Sportback 50 e-tron quattro har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
+Audi Q4 Sportback 50 e-tron quattro har ett fyrhjulsdrivet system som drivs av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/) på bakaxeln.
 
-### Hjulupphängning
+### Fjädring
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 180 mm.
+Framhjulsupphängningen är av typen [MacPherson](../../../../technology/suspension/#macpherson-strut), och bakhjulsupphängningen är [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. standard har stålfjädrar med fast höjd men med möjlighet till justerbar dämpning som tillval. Markfrigången med denna fjädring är 180 mm.
 
-Du kan beställa Audi Q4 Sportback 50 e-tron quattro med en alternativ sport-upphängning. Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen sport har en fast höjd och dämpning. Markfrigången med denna fjädring är 165 mm.
+Du kan beställa Audi Q4 Sportback 50 e-tron quattro med en alternativ sport fjädring. Framhjulsupphängningen är av typen [MacPherson](../../../../technology/suspension/#macpherson-strut), och bakhjulsupphängningen är [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. sports fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 165 mm.
 
 ### Styrning
 
-Dynamisk styrning är valfritt-funktionen för Audi Q4 Sportback 50 e-tron quattro. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+Dynamisk styrning är ett tillval på Audi Q4 Sportback 50 e-tron quattro, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort.
 
 ### Körlägen
 
-Audi Q4 Sportback 50 e-tron quattro låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
+Audi Q4 Sportback 50 e-tron quattro låter användaren välja olika [körlägen](../../../../technology/drivemodes/) som påverkar bilens köregenskaper. Föraren kan välja mellan 4 lägen:
 
-- Dynamic: Dynamisk styrning, fjädring och gaspådrag.
-- Efficiency: Balanserad styrning, med effektiv gaspådrag och balanserad fjädring.
-- Comfort: Balanserat gaspådrag och styrning, komfort fjädringsdämpning.
-- Custom: Användardefinierade inställningar för styrning, gaspådrag och fjädring.
+- Dynamic: Dynamisk styrning, fjädring och gasrespons.
+- Efficiency: Balanserad styrning med effektiv gasrespons och balanserad fjädring.
+- Comfort: Balanserad gasrespons och styrning, komfortabel fjädring.
+- Custom: Användardefinierade inställningar för styrning, gasrespons och fjädring.
 
 ### Bromsar
 
-SKODA Elroq 85x använder [skivbromsar](../../../../technology/brakes/#disc-brakes) fram för överlägsen bromskraft och värmeavledning, medan [trumbromsar](../../../../technology/brakes/#trumbromsar) används bak för kostnadseffektivitet och hållbarhet. Trumbromsar ger tillräcklig prestanda för bakhjulen, kräver mindre underhåll och integreras sömlöst med fordonets regenerativa bromssystem. Denna kombination säkerställer optimal bromsprestanda och kostnadseffektivitet, i linje med elbilens övergripande effektivitetsmål. De främre skivorna är 358mm.
+Audi Q4 Sportback 50 e-tron quattro använder [skivbromsar](../../../../technology/brakes/#disc-brakes) fram för överlägsen bromskraft och värmeavledning, medan [trumbromsar](../../../../technology/brakes/#drum-brakes) används bak för kostnadseffektivitet och hållbarhet. Trumbromsar ger tillräcklig prestanda för bakhjulen, kräver mindre underhåll och integreras sömlöst med fordonets regenerativa bromssystem. Denna kombination säkerställer optimal bromsprestanda och kostnadseffektivitet, i linje med den övergripande effektiviteten för elbilen. De främre skivorna är 358 mm.
 
 ### Regenerativ bromsning
 
-Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektiviteten och körupplevelsen. Det mest effektiva alternativet är [**Automatiskt Regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet seglar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det är nödvändigt. <br /><br/> Ett annat alternativ är läget [**Regen på Gaspedal**](../../../../technology/regen/#one-pedal-driving), där regenerativ bromsning aktiveras när föraren släpper gaspedalen. Detta system tillåter fordonet att sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalskörning**. Det anses dock inte vara full enpedalskörning eftersom fordonet vid låga hastigheter kommer att fortsätta rulla tills det stannar av sig självt.
+Systemet för [regenerativ bromsning](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektivitet och körupplevelse. Det mest effektiva alternativet är [**Automatisk regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet rullar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det behövs. <br /><br/> Ett annat alternativ är [**Regen på gaspedal**](../../../../technology/regen/#one-pedal-driving) läget där regenerativ bromsning aktiveras när föraren lättar på gaspedalen. Detta system gör att fordonet kan sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalkörning**. Det anses dock inte vara fullständig enpedalkörning eftersom fordonet vid låga hastigheter fortsätter att rulla tills det stannar av sig själv.
 
-Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns tre nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns tre nivåer av regenerativ bromsning att välja mellan, vilket låter dig anpassa körupplevelsen efter dina preferenser.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Audi Q4 Sportback 50 e-tron quattro, med dimensioner på 4588 mm i längd, 1865 mm i bredd och 1614 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Audi Q4 Sportback 50 e-tron quattro finns i totalt 8 lackfärger, inklusive både solida och metalliska alternativ.
+Audi Q4 Sportback 50 e-tron quattro, med måtten 4588 mm i längd, 1865 mm i bredd och 1614 mm i höjd, tillhör kategorin kompakta SUV:ar, även kända som C-SUV:ar. Dessa erbjuder en balans mellan mindre bilars praktiska egenskaper och manövrerbarhet och större SUV:ars utrymme och mångsidighet. Audi Q4 Sportback 50 e-tron quattro finns tillgänglig i totalt 8 lackfärger, inklusive både solida och metallic-alternativ.
 
-Du kan också välja flera stilalternativ för att göra din bil mer unik.
+Du kan även välja mellan flera olika stilalternativ för att göra din bil mer unik.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Audi Q4 Sportback 50 e-tron quattro, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Audi Q4 Sportback 50 e-tron quattro erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 235/55 däck på 19" fälgar fram och 255/50 däck på 19" fälgar bak
 - 235/50 däck på 20" fälgar fram och 255/45 däck på 20" fälgar bak
 - 235/45 däck på 21" fälgar fram och 255/40 däck på 21" fälgar bak
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Du kan välja ett alternativ för att ha bakluckan eldriven. Du kan även ha bakluckan med en sparksensor, som gör det möjligt att öppna den genom att helt enkelt sparka foten under bakluckan.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate). Du kan välja att få bakluckan elektriskt manövrerad. Du kan även få bakluckan med rörelsesensor, vilket gör det möjligt att öppna den genom att bara sparka med foten under bakluckan.
 
-Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+Det finns två olika takalternativ att välja mellan. Standard är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett panoramatak. Glaset sträcker sig över större delen av taket och passagerarna kan öppna den främre delen. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
+Du kan även beställa bilen med tonade rutor från B-stolpen och bakåt, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/exterior_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}
 
@@ -123,98 +123,98 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Interiören i Audi Q4 Sportback 50 e-tron quattro är funktionell och har högkvalitativa material i flera områden istället för hård plast. Dessutom inkluderar den en traditionell mittkonsol som separerar föraren och passageraren, vilket ger praktisk förvaring och funktionalitet. Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Du kan välja mellan flera inredningsdesigner.
+Interiören i Audi Q4 Sportback 50 e-tron quattro är funktionell, med högkvalitativa material i flera områden istället för hård plast. Den har även en traditionell mittkonsol som separerar förare och passagerare och erbjuder praktisk förvaring och funktionalitet. Du kan välja mellan olika typer av säten, sätesmaterial och interiörstilar. Du kan välja mellan flera interiördesigner.
 
 ### Säten
 
-Audi Q4 Sportback 50 e-tron quattro rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+Audi Q4 Sportback 50 e-tron quattro rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
-För första raden erbjuder Audi Q4 Sportback 50 e-tron quattro två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
+Första raden erbjuder två olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner finns tillgängliga på **standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar som ett alternativ)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- Höjdjusterbart nackstöd
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar som tillval)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
-- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Brown [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Beige [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
+- Brown [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
+- Beige [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
 
-Följande funktioner är tillgängliga på **sport** sätet.
+Följande funktioner finns tillgängliga på **sport** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar som ett alternativ)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar som tillval)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
-Du kan välja mellan 6 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
-- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-- Black [läderklädsel](../../../../technology/seats/materials/#leather)
-- Black [Dinamica/läderimitation klädsel](../../../../technology/seats/materials/#dinamica)
-- Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black [tyg/konstläderklädsel](../../../../technology/seats/materials/#fabric)
+- Black [skinnklädsel](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/konstläderklädsel](../../../../technology/seats/materials/#dinamica)
+- Black [Nappaskinnsklädsel](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2001"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Du kan välja två sätestyper för den andra raden i Audi Q4 Sportback 50 e-tron quattro.
+Du kan välja mellan två olika sätesvarianter för andra raden i Audi Q4 Sportback 50 e-tron quattro.
 
-Alternativet standard är en tresitssbänk med en 60:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+standard-alternativet är en tresätesoffa med 60:40 delning där du kan fälla varje sektion separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
-- höjdjusterbart nackstöd
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
+- Höjdjusterbart nackstöd
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttersäten)
 
-Alternativet second är en tresitssbänk med en 40:20:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+second-alternativet är en tresätesoffa med 40:20:40 delning där du kan fälla varje sektion separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
-- höjdjusterbart nackstöd
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
+- Höjdjusterbart nackstöd
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttersäten)
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2001"  >}}
 
-### Interiör Förvaring
+### Förvaringsutrymmen
 
-Audi Q4 Sportback 50 e-tron quattro erbjuder gott om interiörförvaringslösningar för att förbättra bekvämligheten och organisationen:
+Audi Q4 Sportback 50 e-tron quattro erbjuder gott om förvaringslösningar i kupén för att öka bekvämlighet och organisation:
 
-- **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
-- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
+- **Mugghållare:** Två mugghållare finns i mittkonsolen fram, med ytterligare två i armstödet bak.
+- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passagerarsätet, perfekt för förvaring av viktiga föremål.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Två klimatsystemalternativ är tillgängliga:
+Två klimatsystemalternativ finns tillgängliga:
 
-- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
+- **1-zons klimatsystem:** Stöder endast en gemensam klimatzon för hela bilen.
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
-Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
+Denna modell har [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi som används för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Audi Q4 Sportback 50 e-tron quattro inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Audi Q4 Sportback 50 e-tron quattro ingår flera funktioner för att öka komfort och bekvämlighet:
 
 - **Elektriskt justerbar ratt**
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -222,73 +222,73 @@ Audi Q4 Sportback 50 e-tron quattro inkluderar flera funktioner för att förbä
 
 ## Användargränssnitt och kontroll
 
-Kontrollgränssnittet för denna elbilsmodell är fokuserat på skärminteraktion och har endast begränsad funktionalitet tillgänglig på knappar och spakar. För vissa kan detta resultera i en mindre än idealisk användarupplevelse och användbarhet.
+Kontrollgränssnittet för Audi Q4 Sportback 50 e-tron quattro är primärt fokuserat på skärminteraktion, med begränsad funktionalitet tillgänglig via fysiska knappar och rattspakar. Denna design kan resultera i en mindre optimal användarupplevelse för vissa användare.
 
-Audi Q4 Sportback 50 e-tron quattro har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+Audi Q4 Sportback 50 e-tron quattro har flera integrerade skärmar. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) högst upp.
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten integrerad i instrumentbrädan är 10,2 tum
-- Skärmen touch översta mittkonsolen är 10,1 tum
+- -skärmen bakom ratten integrerad i instrumentbrädan är 10,2 tum stor
+- touch-skärmen högst upp i mittkonsolen är 10,1 tum stor
 
-En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+En head-up display är ett tillval system som projicerar hastighet och annan viktig förarinformation på vindrutan.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2001"  >}}
 
 ### Ratt
 
-Audi Q4 Sportback 50 e-tron quattro är utrustad med en enda typ av ratt:
+Audi Q4 Sportback 50 e-tron quattro är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt har valfri integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt har valfri integrerad uppvärmning för extra komfort under kalla dagar. Den erbjuder också intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
-Audi MIB3 infotainments operativsystem är utformat för att hantera den digitala ryggraden i bilens infotainmentfunktioner, vilket säkerställer smidig prestanda och snabbare svarstider. Det stöder fordonets användargränssnitt (UI), molnbaserade tjänster och realtidsdatabehandling, vilket möjliggör avancerad navigation, multimedia och röststyrningsfunktioner.
+Audis MIB3 infotainment operativsystem är utformat för att hantera bilens digitala ryggrad för infotainment, vilket säkerställer smidig prestanda och snabbare svarstider. Det stödjer fordonets användargränssnitt, molnbaserade tjänster och realtidsbearbetning av data, vilket möjliggör avancerad navigation, multimedia och röststyrning.
 
 ### Navigationssystem
 
-Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering där du kan definiera den önskade laddningsnivån vid din destination eller under laddningsstopp. Systemet ger realtids trafikinformation och satellitkartor, vilket säkerställer en effektiv och stressfri resa.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering, där du kan definiera önskad laddningsnivå vid destination eller under laddningsstopp. Systemet tillhandahåller trafikinformation i realtid och satellitkartor för att säkerställa en effektiv och stressfri resa.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder Audi Q4 Sportback 50 e-tron quattro Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Audi Q4 Sportback 50 e-tron quattro stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Audi Q4 Sportback 50 e-tron quattro.
+Du kan välja mellan två ljudsystem för Audi Q4 Sportback 50 e-tron quattro:
 
-- Med Audi Sound system får du åtta högtalare med en maximal systemeffekt på 180 watt.
-- Med Sonos Sound System får du tio högtalare med en maximal systemeffekt på 580 watt.
+- **Audi Sound system:** Har åtta högtalare och levererar en maximal uteffekt på 180 watt.
+- **Sonos Sound System:** Har tio högtalare och levererar en maximal uteffekt på 580 watt.
 
-Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
+Dessutom har modellen 2 USB-C-anslutningar som standard. Som tillval kan du få ytterligare 2 USB-C-anslutningar.
 
 ## Mobilapp
 
-Audi Q4 Sportback 50 e-tron quattro kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
+Audi Q4 Sportback 50 e-tron quattro levereras med en dedikerad mobilapp, tillgänglig för både Android och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner utformade för att förbättra din körupplevelse:
 
-- **Hitta ditt fordon**: Kontrollera enkelt var din bil befinner sig just nu.
-- **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
-- **Schemalagd laddning**: Planera och schemalägg laddningssessioner inför dina resor.
-- **Justera laddmål**: Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
-- **Ruttplanering**: Planera din rutt och skicka den direkt till bilens navigationssystem.
-- **Körhistorik**: Granska detaljerna för dina tidigare resor.
+- **Hitta din bil:** Kontrollera enkelt bilens aktuella position.
+- **Förkonditionering:** Förvärm eller kyl din bil innan du börjar din resa för optimal komfort.
+- **Schemalagd laddning:** Planera och schemalägg laddningssessioner inför dina resor.
+- **Justera laddningsmål:** Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
+- **Ruttplanering:** Planera din rutt och skicka den direkt till bilens navigationssystem.
+- **Körhistorik:** Granska detaljerna från dina tidigare resor.
 
-## Ljus
+## Belysning
 
-Du kan välja mellan två typer av strålkastare för Audi Q4 Sportback 50 e-tron quattro.
+Du kan välja mellan två olika typer av strålkastare för Audi Q4 Sportback 50 e-tron quattro.
 
-- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
-- **LED Matrix-strålkastare:** Tillgängliga som en uppgradering, detta adaptiva system delar upp den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan aktivera eller avaktivera individuellt. Detta optimerar belysningen genom att selektivt dämpa specifika områden för att undvika att blända mötande trafik. Dagsljuslamporna (DRL) för detta alternativ har också flera LED-segment, vilket gör att du kan anpassa din föredragna DRL-signatur. För ökad säkerhet inkluderar det hörnljus som lyser upp sidan när du svänger.
+- **Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
+- **LED Matrix-strålkastare:** Som uppgradering finns detta adaptiva system som delar upp strålkastarljuset i dussintals mindre strålar som ljuskontrollern kan aktivera eller inaktivera individuellt. Detta optimerar belysningen genom att selektivt dimma specifika områden för att undvika att blända mötande trafik. Varselljusen (DRL) för detta alternativ har också flera LED-segment som låter dig anpassa din föredragna DRL-signatur. För ökad säkerhet inkluderar det kurvljus som lyser upp sidan vid svängar.
 
 Dessutom har du två alternativ för bakljus:
 
-- Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+- Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 - De valfria bakljusen använder LED-teknik.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}
@@ -297,44 +297,44 @@ Dessutom har du två alternativ för bakljus:
 
 ## Avancerade förarassistanssystem
 
-Audi Q4 Sportback 50 e-tron quattro inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Audi Q4 Sportback 50 e-tron quattro har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
-[**Effektivitetsassistans**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion som hjälper föraren att förutse körförhållanden och spara energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion som hjälper förare att förutse körförhållanden och spara energi.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Audi Q4 Sportback 50 e-tron quattro, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Audi Q4 Sportback 50 e-tron quattro, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Audi Q4 Sportback 50 e-tron quattro, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Audi Q4 Sportback 50 e-tron quattro, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Audi Q4 Sportback 50 e-tron quattro, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Audi Q4 Sportback 50 e-tron quattro, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valfritt på Audi Q4 Sportback 50 e-tron quattro, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Tillval på Audi Q4 Sportback 50 e-tron quattro, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valfritt på Audi Q4 Sportback 50 e-tron quattro, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Tillval på Audi Q4 Sportback 50 e-tron quattro, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Audi Q4 Sportback 50 e-tron quattro, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Audi Q4 Sportback 50 e-tron quattro, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
-[**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valfritt på Audi Q4 Sportback 50 e-tron quattro, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
+[**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Tillval på Audi Q4 Sportback 50 e-tron quattro, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valfritt på Audi Q4 Sportback 50 e-tron quattro, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tillval på Audi Q4 Sportback 50 e-tron quattro, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Valfritt på Audi Q4 Sportback 50 e-tron quattro, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
+[**Utstigningsvarning**](../../../../technology/driverassistance/exitwarning/): Tillval på Audi Q4 Sportback 50 e-tron quattro, detta system varnar passagerare mot att öppna dörrar om det finns risk för kollision.
 
-### Körautomatisering
+### Körautomation
 
-Audi Q4 Sportback 50 e-tron quattro erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Audi Q4 Sportback 50 e-tron quattro erbjuder [körautomation på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med Adaptive Cruise Control nivå 1-systemet får du följande funktioner för körautomatisering.
+Med Adaptive Cruise Control nivå 1-systemet får du följande körautomationsfunktioner.
 
 - Farthållare.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tillval)
 
-Med det valfria Assistantpackage Tour nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+Med det valfria Assistantpackage Tour nivå 2-systemet får du ytterligare körautomationsfunktioner utöver de som anges ovan:
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- [**Automatiskt körfältsbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameror
 
@@ -343,38 +343,38 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 ## Säkerhet
 
-Audi Q4 Sportback 50 e-tron quattro är utrustad med flera krockkuddar för att säkerställa skydd för passagerarna vid en kollision. Krockkuddesystemet inkluderar:
+Audi Q4 Sportback 50 e-tron quattro är utrustad med flera krockkuddar för att säkerställa passagerarskydd vid en kollision. Krockkuddesystemet inkluderar:
 
-- Främre krockkuddar för föraren och främre passageraren
+- Frontkrockkuddar för förare och passagerare
 - Sidokrockgardiner för både första och andra raden
-- Sidokrockkuddar för föraren och främre passageraren
-- Sidokrockkuddar för passagerarna i andra raden
-- En främre mittkrockkudde för att förhindra att föraren och främre passageraren kolliderar med varandra vid en sidokollision
+- Sidokrockkuddar för förare och passagerare
+- Sidokrockkuddar för passagerare i andra raden
+- En mittkrockkudde fram för att förhindra att förare och passagerare kolliderar med varandra vid en sidokrock
 
-Dessutom är säkerhetsbältena i första raden utrustade med bältessträckare som automatiskt stramar åt vid en kollision för att minimera skaderisken.
+Dessutom är framsätets säkerhetsbälten utrustade med bältesförsträckare som automatiskt spänns vid en kollision för att minimera skaderisken.
 
 ## Säkerhets- och åtkomstteknologier
 
 Audi Q4 Sportback 50 e-tron quattro är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
-- **Larmsystem:** Ett valfritt integrerat larmsystem övervakar obehörig åtkomst eller manipulation och ger varningar för att hjälpa till att avskräcka intrång och förbättra fordonets säkerhet.
+- **Nyckelfritt inträde och start:** Med standard nyckelfri start och valfritt nyckelfritt inträde kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
+- **Larmsystem:** Ett valfritt integrerat larmsystem övervakar mot obehörigt intrång eller manipulering och ger varningar för att avskräcka intrång och förbättra fordonssäkerheten.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 535 liter. Med baksätena nedfällda ökar detta till 1460 liter. På taket kan du lasta upp till 75 kg.
+Bagageutrymmet har en lastkapacitet på 535 liter (18,9 kubikfot). Med baksätet nedfällt ökar detta till 1460 liter (51,6 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs).
 
-Fordonets maximala vikt är 2715 kg, med en grundvikt på 2140 kg. Detta tillåter en maximal last på 575 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2715 kg (5986 lbs), med en tjänstevikt på 2140 kg (4718 lbs). Detta möjliggör en maximal last på 575 kg (1268 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1200 kg, medan för en obromsad släpvagn är den 750 kg.
+Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 1200 kg (2646 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/trunk_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 14.04.2021 och leveranser startade i January 2022. Denna modell har nu utgått. Denna modell har ersatts av [Audi Q4 Sportback 45 e-tron](/models/audi/q4_e-tron/q4_sportback_45_e-tron).
+Denna modell hade sin världspremiär den 14.04.2021, och leveranserna startade January 2022. Denna modell har nu utgått ur produktion. Denna modell har ersatts av [Audi Q4 Sportback 45 e-tron](/models/audi/q4_e-tron/q4_sportback_45_e-tron).
 {{< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

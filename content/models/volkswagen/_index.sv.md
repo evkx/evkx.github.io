@@ -1,5 +1,5 @@
 ---
-title: Volkswagen elektriske modeller
+title: Volkswagen elbilsmodeller
 linktitle: "Volkswagen"
 description: "Volkswagen’s product portfolio is focused on electric mobility. The last purely combustion-driven platform will be developed in 2026. After that, only electric vehicles will be developed. Even with today’s current power mix in the EU, battery-powered drive systems offer the best balance for the climate out of all drive concepts and this will continue to improve over the years to come. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -41,7 +41,7 @@ Volkswagen ID. Buzz är en MPV tillgänglig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen Id. UNYX är en Coupe SUV tillgänglig i 1 varianter.
+Volkswagen Id. UNYX är en coupé-SUV tillgänglig i 1 varianter.
 </p>
 	<a href="id._unyx/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -86,7 +86,7 @@ Volkswagen ID.4 är en SUV tillgänglig i 8 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.5 är en Coupe SUV tillgänglig i 4 varianter.
+Volkswagen ID.5 är en coupé-SUV tillgänglig i 4 varianter.
 </p>
 	<a href="id.5/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -101,7 +101,7 @@ Volkswagen ID.5 är en Coupe SUV tillgänglig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.7 är en sedan/kombi som finns i 6 varianter.
+Volkswagen ID.7 är en sedan/kombi tillgänglig i 6 varianter.
 </p>
 	<a href="id.7/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

@@ -1,7 +1,7 @@
 ---
 title: Ford Puma Gen-E
 linktitle: "Puma Gen-E"
-description: "Ford Puma Gen-E är en helelektrisk crossover med en WLTP räckvidd på upp till 376 km. EVKX.net har alla detaljer."
+description: "Ford Puma Gen-E är en elektrisk crossover med en WLTP-räckvidd på upp till 376 km (234 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/ford/puma/puma_gen-e/main_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2250"  >}}
 
-Vi har delat in vår beskrivning av Ford Puma Gen-E i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Ford Puma Gen-E erbjuder blygsamma prestanda med en maximal effekt på 123,5 kW (168 hk) och ett totalt vridmoment på 290 Nm. Den accelererar från 0 till 100 km/h på 8 sekunder och har en topphastighet på 160 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
+Ford Puma Gen-E erbjuder modest prestanda med en maxeffekt på 123,5 kW (168 hk / 166 bhp) och ett totalt vridmoment på 290 Nm (214 lb-ft). Den accelererar från 0 till 100 km/h på 8 sekunder och har en toppfart på 160 km/h (99 mph), vilket ligger mer i linje med traditionella fordon med förbränningsmotor.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 46,0 kWh och en nettoanvändbar kapacitet på 43,6 kWh, vilket ger en buffert på 2,4 kWh (5,2%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet med hög kapacitet har en bruttokapacitet på 46,0 kWh och en nettoanvändbar kapacitet på 43,6 kWh, vilket ger en 2,4 kWh buffert (5,2%) för batteriskydd. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 376 och 347 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 11,6 kWh/100 km för basmodellen och 12,6 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 376 till 347 km (234-216 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 11,6 kWh/100 km för basmodellen och 12,6 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 62 minuter, medan ett vanligare scenario på 10-80 % tar 24 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 67%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 65kW. Varje laddningssession tar 24 minuter och 10 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 100 kW. Laddning från 0% till 100% tar ungefär 62 minuter, medan ett mer typiskt scenario från 10% till 80% tar 24 minuter med en genomsnittlig laddningshastighet på 75 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 7% till 67%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 65 kW, där varje laddningssession tar cirka 24 minuter och 10 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 11 timmar och 14 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 68%, med en total laddningstid på 175 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 11 timmar och 14 minuter, med sju laddningsstopp från 6% till 68%, totalt 175 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 3 timmar och 57 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 3 timmar och 57 minuter vid hemmaladdning.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Denna modell använder [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) kontakten för laddporten.
+Laddningsporten är placerad på [vänster baksida](../../../../technology/charging/connectors/#rear-side), vilket gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Denna modell använder [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) kontakt för laddning.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,32 +56,32 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 ## Drivlina
 
-Ford Puma Gen-E har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+Ford Puma Gen-E har ett framhjulsdrivet system med en motor på framaxeln. Motorn som används är en [permanent magnet synkronmotor](../../../../technology/motors/pmsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 129 mm.
+Framhjulsupphängningen är av typen [MacPherson](../../../../technology/suspension/#macpherson-strut), och bakhjulsupphängningen är [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. standards fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 129 mm.
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för Ford Puma Gen-E. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+Dynamisk styrning är standard på Ford Puma Gen-E, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort.
 
 ### Körlägen
 
-Ford Puma Gen-E låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
+Ford Puma Gen-E låter användaren välja olika [körlägen](../../../../technology/drivemodes/) som påverkar bilens köregenskaper. Föraren kan välja mellan 4 lägen:
 
-- Normal: Balanserad styrning och gaspedal.
-- Eco: Balanserad styrning och effektiv gaspedal.
-- Sport: Dynamisk styrning och gaspedal.
-- Slippery: Balanserad styrning och gaspedal.
+- Normal: Balanserad styrning och gasrespons.
+- Eco: Balanserad styrning och effektiv gasrespons.
+- Sport: Dynamisk styrning och gasrespons.
+- Slippery: Balanserad styrning och gasrespons.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
+Ford Puma Gen-E är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak.
 
 ### Regenerativ bromsning
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Dock möjliggörs [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving) kombinerat med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal). Systemet stoppar bilen helt med hjälp av friktionsbromsar.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Däremot erbjuds [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalkörning**](../../../../technology/regen/#one-pedal-driving) i kombination med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal). Systemet stannar bilen helt med hjälp av friktionsbromsar.
 
 Om du lyfter foten helt är regenereringen på en fast nivå. Detta kan inte justeras.
 
@@ -89,21 +89,21 @@ Om du lyfter foten helt är regenereringen på en fast nivå. Detta kan inte jus
 
 ## Exteriör
 
-Ford Puma Gen-E, med dimensioner på 4214 mm i längd, 1805 mm i bredd och  mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Ford Puma Gen-E finns i totalt 6 enfärgade lackfärger.
+Ford Puma Gen-E, med måtten 4214 mm i längd, 1805 mm i bredd och  mm i höjd, tillhör B-SUV-segmentet, även känt som kompakta SUV:ar eller crossovers. De kombinerar den kompakta storleken och manövrerbarheten från B-segmentets bilar med högre körposition, ökat lastutrymme och robust SUV-styling. Ford Puma Gen-E finns tillgänglig i totalt 6 solida lackfärger.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Ford Puma Gen-E, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Ford Puma Gen-E erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 215/55 däck på 17" fälgar
 - 215/50 däck på 18" fälgar
 - 225/40 däck på 19" fälgar
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [bagagelucka](../../../../technology/doors/#boot-lid) för bagageutrymmet.
 
-Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som ett alternativ kan du beställa denna modell med ett panoramatak. Glaset har två paneler. En över första och andra raden, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiör mer rymligt och ljust, vilket kan förbättra passagerarens humör och komfort. Båda glasskivorna har en manuell gardin som passagerarna kan använda för att skydda mot solen.
+Det finns två olika takalternativ att välja mellan. Standard är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett panoramatak. Glastaket har två paneler, en över första raden och en över andra raden, där den främre delen kan öppnas. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Båda glaspanelerna har manuella gardiner som passagerarna kan använda för att skydda mot solen.
 
-B-stolpen och vyerna bak är tonade.
+Rutorna från B-stolpen och bakåt är tonade, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/ford/puma/puma_gen-e/exterior_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2250"  >}}
 
@@ -113,57 +113,57 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Interiören i Ford Puma Gen-E är funktionell och har material av medelkvalitet i flera områden istället för hård plast. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet. Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
+Interiören i Ford Puma Gen-E är funktionell, med material av medelhög kvalitet i flera områden istället för hård plast. En utmärkande funktion är den delade mittkonsolen, som separerar förare och passagerare samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet. Du kan välja mellan olika typer av sätesmaterial och interiörstilar. Du kan välja mellan flera interiördesigner.
 
 ### Säten
 
-Ford Puma Gen-E rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+Ford Puma Gen-E rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
 Ford Puma Gen-E erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner finns tillgängliga på **** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
-- höjdjusterbart nackstöd (manuellt justerbar)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (manuellt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- Höjdjusterbart nackstöd (manuellt justerbar)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (manuellt justerbar)
 
-Du kan välja mellan 2 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 - Black/Gray [tygklädsel](../../../../technology/seats/materials/#fabric)
-- Black [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Black [mikrofiber/konstläderklädsel](../../../../technology/seats/materials/#microfiber)
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Andra raden har en standard tresätesoffa med  delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttersäten)
 
-### Interiör Förvaring
+### Förvaringsutrymmen
 
-Ford Puma Gen-E erbjuder gott om interiörförvaringslösningar för att förbättra bekvämligheten och organisationen:
+Ford Puma Gen-E erbjuder gott om förvaringslösningar i kupén för att öka bekvämlighet och organisation:
 
-- **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
-- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
-- **Underfloor Förvaring:** Bagageutrymmet har ett stort förvaringsutrymme under golvet, perfekt för att förvara större föremål eller hålla bagageutrymmet organiserat.
+- **Mugghållare:** Två mugghållare finns i mittkonsolen fram, med ytterligare två i armstödet bak.
+- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passagerarsätet, perfekt för förvaring av viktiga föremål.
+- **Förvaring under golvet:** Bagageutrymmet har ett stort förvaringsutrymme under golvet, perfekt för förvaring av större föremål eller för att hålla bagageutrymmet organiserat.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
-- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
+- **1-zons klimatsystem:** Stöder endast en gemensam klimatzon för hela bilen.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Ford Puma Gen-E inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Ford Puma Gen-E ingår flera funktioner för att öka komfort och bekvämlighet:
 
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -171,26 +171,26 @@ Ford Puma Gen-E inkluderar flera funktioner för att förbättra komfort och bek
 
 ## Användargränssnitt och kontroll
 
-Ford Puma Gen-E har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+Ford Puma Gen-E har flera integrerade skärmar. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) högst upp.
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,0 tum
-- Skärmen touch översta mittkonsolen är 12,8 tum
+- -skärmen bakom ratten integrerad i instrumentbrädan är 12,0 tum stor
+- touch-skärmen högst upp i mittkonsolen är 12,8 tum stor
 
-Modellen är inte tillgänglig med head-up display.
+Modellen har ingen head-up display.
 
 {{< sitefiguresized thumb="models/ford/puma/puma_gen-e/screens_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2200"  >}}
 
 ### Ratt
 
-Ford Puma Gen-E är utrustad med en enda typ av ratt:
+Ford Puma Gen-E är utrustad med endast en typ av ratt:
 
-- **Cirkulär Ratt:** Denna ratt har en platt botten och topp, vilket ger ett sportigt utseende och känsla. Den inkluderar också fysiska knappar och vippströmbrytare, vilket ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt har en platt under- och ovansida som ger ett sportigt utseende och känsla. Den har också fysiska knappar och vippkontakter som ger intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -198,29 +198,29 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Navigationssystem
 
-Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering. Systemet ger realtids trafikinformation, vilket säkerställer en effektiv och stressfri resa.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering. Systemet tillhandahåller trafikinformation i realtid för att säkerställa en effektiv och stressfri resa.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder Ford Puma Gen-E Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Ford Puma Gen-E stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Ford Puma Gen-E.
+Du kan välja mellan två ljudsystem för Ford Puma Gen-E:
 
 - **Ford Sound System:** Har sex högtalare.
 - **B&O Premium Audio System:** Har tio högtalare.
 
-Modellen har 4 USB-C-anslutningar som standard.
+Dessutom har modellen 4 USB-C-anslutningar som standard.
 
-## Ljus
+## Belysning
 
-Du kan välja mellan två typer av strålkastare för Ford Puma Gen-E.
+Du kan välja mellan två olika typer av strålkastare för Ford Puma Gen-E.
 
-- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
-- **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
+- **Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
+- **LED Matrix-strålkastare:** Som tillval finns detta adaptiva system som delar upp den traditionella strålkastarljusstrålen i dussintals mindre strålar som ljuskontrollern kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 {{< sitefiguresized thumb="models/ford/puma/puma_gen-e/headlights_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2250"  >}}
 
@@ -228,36 +228,36 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-Ford Puma Gen-E inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Ford Puma Gen-E har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Ford Puma Gen-E, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Ford Puma Gen-E, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Ford Puma Gen-E, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Ford Puma Gen-E, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Ford Puma Gen-E, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Ford Puma Gen-E, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Ford Puma Gen-E, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Ford Puma Gen-E, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Ford Puma Gen-E, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Ford Puma Gen-E, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Ford Puma Gen-E, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Ford Puma Gen-E, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valfritt på Ford Puma Gen-E, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tillval på Ford Puma Gen-E, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-### Körautomatisering
+### Körautomation
 
-Ford Puma Gen-E erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Ford Puma Gen-E erbjuder [körautomation på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med  nivå 1-systemet får du följande körautomationsfunktioner.
 
 - Farthållare.
 
-Med det valfria  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+Med det valfria  nivå 2-systemet får du ytterligare körautomationsfunktioner utöver de som anges ovan:
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
 ### Sensorer & Kameror
 
@@ -268,35 +268,35 @@ Upp till tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 Ford Puma Gen-E är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Med standard nyckelfri start och valfritt nyckelfritt inträde kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 574 liter. Med baksätena nedfällda ökar detta till 1283 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 43 liter.
+Bagageutrymmet har en lastkapacitet på 574 liter (20,3 kubikfot). Med baksätet nedfällt ökar detta till 1283 liter (45,3 kubikfot). Dessutom finns det en frunk (främre bagageutrymme) med en lagringskapacitet på 43 liter (1,5 CU FT).
 
-Fordonets maximala vikt är 2015 kg, med en grundvikt på 1563 kg. Detta tillåter en maximal last på 452 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2015 kg (4442 lbs), med en tjänstevikt på 1563 kg (3446 lbs). Detta möjliggör en maximal last på 452 kg (996 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 750 kg, medan för en obromsad släpvagn är den 750 kg.
+Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 750 kg (1653 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/ford/puma/puma_gen-e/trunk_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2086"  >}}
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 03.12.2024 och leveranser förväntas starta om April 2025. Denna modell är endast tillgänglig i Europa.
+Denna modell hade sin världspremiär den 03.12.2024, och leveranserna förväntas börja April 2025. Observera att denna modell endast är tillgänglig i Europa.
 
-### Prissättning
+### Priser
 
-Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan visas startpriserna för utvalda länder:
 
 - 329 000,00 NOK (Norge)
 
-## Alternativa Modeller
+## Alternativa modeller
 
-På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till Ford Puma Gen-E som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
+På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternativ till Ford Puma Gen-E som är värda att överväga baserat på funktioner, specifikationer och prissättning. Även om dessa modeller kanske inte är exakta matchningar, kan en jämförelse hjälpa dig att fatta ett mer välgrundat köpbeslut:
 
 - [SKODA Elroq 50](/models/skoda/elroq/elroq_50/)
 - [Alfa Romeo Junior](/models/alfa_romeo/junior/junior/)

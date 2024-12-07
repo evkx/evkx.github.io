@@ -1,5 +1,5 @@
 ---
-title: Hyundai elektriske modeller
+title: Hyundai elbilsmodeller
 linktitle: "Hyundai"
 description: "Hyundai Motor Company, grundat 1967 i Sydkorea, är en global biltillverkare känd för prisvärda, pålitliga fordon och ett starkt engagemang för elfordon, med målet att uppnå koldioxidneutralitet till 2045."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -56,7 +56,7 @@ Hyundai Ioniq 5 är en SUV tillgänglig i 5 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Hyundai Ioniq 6 är en sedan som finns i 2 varianter.
+Hyundai Ioniq 6 är en sedan tillgänglig i 2 varianter.
 </p>
 	<a href="ioniq_6/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -97,7 +97,7 @@ Hyundai Kona är en crossover tillgänglig i 2 varianter.
 </div><div class="accordion-item">
     <h2 class="accordion-header">
         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
-            Om varumärket
+            Om märket
         </button>
     </h2>
     <div id="module-company" class="accordion-collapse collapse">

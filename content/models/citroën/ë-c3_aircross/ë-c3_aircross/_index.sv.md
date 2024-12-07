@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C3 Aircross
 linktitle: "ë-C3 Aircross"
-description: "Citroën ë-C3 Aircross är en helelektrisk crossover med en WLTP räckvidd på upp till 306 km. EVKX.net har alla detaljer."
+description: "Citroën ë-C3 Aircross är en elektrisk crossover med en WLTP-räckvidd på upp till 306 km (190 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,46 +11,46 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/main_1_st.jpg" title="Citroën ë-C3 Aircross" width="2893" height="2170"  >}}
 
-Vi har delat in vår beskrivning av Citroën ë-C3 Aircross i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Citroën ë-C3 Aircross erbjuder grundläggande prestanda med en maximal effekt på 83 kW (113 hk) och ett totalt vridmoment på 120 Nm. Den accelererar från 0 till 100 km/h på 11 sekunder och når en topphastighet på 135 km/h, vilket är mer jämförbart med instegsmodeller av traditionella förbränningsmotorfordon.
+Citroën ë-C3 Aircross kWh erbjuder grundläggande prestanda med en maxeffekt på 83 kW (113 hk / 111 bhp) och ett totalt vridmoment på 120 Nm (89 lb-ft). Den accelererar från 0 till 100 km/h på 11 sekunder och når en toppfart på 135 km/h (84 mph), vilket är mer jämförbart med instegsmodeller med traditionell förbränningsmotor.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 45,0 kWh och en nettoanvändbar kapacitet på 44,0 kWh, vilket ger en buffert på 1,0 kWh (2,2%) för batteriskydd. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Batteriet med hög kapacitet har en bruttokapacitet på 45,0 kWh och en nettoanvändbar kapacitet på 44,0 kWh, vilket ger en 1,0 kWh buffert (2,2%) för batteriskydd. Litiumjonbatteriet använder [LFP-teknik](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), vilket erbjuder både fördelar och nackdelar jämfört med typiska NCA/NMC-batterier.
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 306 km (199 miles), med en energiförbrukningshastighet på 14,4 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 306 km (190 miles), med en energiförbrukning på 14,4 kWh/100 km (3 mi/kWh). För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 67 minuter, medan ett vanligare scenario på 10-80 % tar 26 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 13% till 68%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 63kW. Varje laddningssession tar 23 minuter och 57 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 100 kW. Laddning från 0% till 100% tar ungefär 67 minuter, medan ett mer typiskt scenario från 10% till 80% tar 26 minuter med en genomsnittlig laddningshastighet på 72 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 13% till 68%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 63 kW, där varje laddningssession tar cirka 23 minuter och 57 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 24 kWh/100 km, skulle resan ta ungefär 11 timmar och 26 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 69%, med en total laddningstid på 187 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 24 kWh/100 km, skulle resan ta ungefär 11 timmar och 26 minuter, med åtta laddningsstopp från 13% till 69%, totalt 187 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 7,4 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 5 timmar och 56 minuter med en hemmaladdare.
+Den standard inbyggda laddaren stöder upp till 7,4 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 5 timmar och 56 minuter vid hemmaladdning.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/charging_1_st.jpg" title="Citroën ë-C3 Aircross" width="2893" height="2170"  >}}
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [vänster baksida](../../../../technology/charging/connectors/#rear-side), vilket gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -58,44 +58,44 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 ## Drivlina
 
-Citroën ë-C3 Aircross har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
+Citroën ë-C3 Aircross har ett framhjulsdrivet system med en motor på framaxeln.
 
-### Hjulupphängning
+### Fjädring
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 163 mm.
+Framhjulsupphängningen är av typen [MacPherson](../../../../technology/suspension/#macpherson-strut), och bakhjulsupphängningen är [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. s fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 163 mm.
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för Citroën ë-C3 Aircross. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+Dynamisk styrning är standard på Citroën ë-C3 Aircross, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort.
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
+Citroën ë-C3 Aircross är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak.
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) i denna modell underlättas främst genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling inte tillgänglig här. Vid låga hastigheter kommer enpedalskörningsläget att hålla bilen långsamt framåt.
+[Regenerativ bromsning](../../../../technology/regen/) i denna modell sker främst genom [**enpedalkörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive) eller frihjul inte tillgängligt här. Vid låga hastigheter kommer enpedalskörningsläget att hålla bilen i krypfart framåt.
 
-Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket låter dig anpassa körupplevelsen efter dina preferenser.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
-Citroën ë-C3 Aircross, med dimensioner på 4395 mm i längd, 1795 mm i bredd och 1660 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Citroën ë-C3 Aircross finns i totalt 5 lackfärger, inklusive både solida och metalliska alternativ.
+Citroën ë-C3 Aircross, med måtten 4395 mm i längd, 1795 mm i bredd och 1660 mm i höjd, tillhör B-SUV-segmentet, även känt som kompakta SUV:ar eller crossovers. De kombinerar den kompakta storleken och manövrerbarheten från B-segmentets bilar med högre körposition, ökat lastutrymme och robust SUV-styling. Citroën ë-C3 Aircross finns tillgänglig i totalt 5 lackfärger, inklusive både solida och metallic-alternativ.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Citroën ë-C3 Aircross, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Citroën ë-C3 Aircross erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 205/55 däck på 16" fälgar
 - 205/50 däck på 17" fälgar
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate).
 
-Det finns bara ett tak för denna modell.
+Det finns bara ett takalternativ för denna modell.
 
-Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
+Du kan även beställa bilen med tonade rutor från B-stolpen och bakåt, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/exterior_1_st.jpg" title="Citroën ë-C3 Aircross" width="2894" height="2170"  >}}
 
@@ -107,71 +107,71 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ### Säten
 
-Citroën ë-C3 Aircross rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+Citroën ë-C3 Aircross rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 
-#### Framsäten
+#### Första radens säten
 
-För första raden erbjuder Citroën ë-C3 Aircross två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
+Första raden erbjuder två olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
-Följande funktioner är tillgängliga på **Standard** sätet.
+Följande funktioner finns tillgängliga på **Standard** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 
-Följande funktioner är tillgängliga på **Advanced Comfort** sätet.
+Följande funktioner finns tillgängliga på **Advanced Comfort** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar)
-- höjdjusterbart nackstöd
+- Höjdjusterbart nackstöd
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-- Black/Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [mikrofiber/konstläderklädsel](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/frontseats_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Du kan välja två sätestyper för den andra raden i Citroën ë-C3 Aircross.
+Du kan välja mellan två olika sätesvarianter för andra raden i Citroën ë-C3 Aircross.
 
-Följande funktioner är tillgängliga på **Standard** sätet.
+Följande funktioner finns tillgängliga på **Standard** sätet:
 
-- höjdjusterbart nackstöd
+- Höjdjusterbart nackstöd
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 
-Följande funktioner är tillgängliga på **Advanced Comfort** sätet.
+Följande funktioner finns tillgängliga på **Advanced Comfort** sätet:
 
-- höjdjusterbart nackstöd
+- Höjdjusterbart nackstöd
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
-- Black/Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [mikrofiber/konstläderklädsel](../../../../technology/seats/materials/#microfiber)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
-- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
+- **1-zons klimatsystem:** Stöder endast en gemensam klimatzon för hela bilen.
 
-Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
+Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med modeller med värmepump.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Citroën ë-C3 Aircross inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Citroën ë-C3 Aircross ingår flera funktioner för att öka komfort och bekvämlighet:
 
-- **Trådlös laddning av telefon**
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -179,28 +179,28 @@ Citroën ë-C3 Aircross inkluderar flera funktioner för att förbättra komfort
 
 ## Användargränssnitt och kontroll
 
-Citroën ë-C3 Aircross har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+Citroën ë-C3 Aircross har flera integrerade skärmar. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) högst upp.
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten integrerad i instrumentbrädan är 5,0 tum
-- Skärmen touch översta mittkonsolen är 10,3 tum
+- -skärmen bakom ratten integrerad i instrumentbrädan är 5,0 tum stor
+- touch-skärmen högst upp i mittkonsolen är 10,3 tum stor
 
-Modellen är inte tillgänglig med head-up display.
+Modellen har ingen head-up display.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/screens_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
 
 ### Ratt
 
-Citroën ë-C3 Aircross är utrustad med en enda typ av ratt:
+Citroën ë-C3 Aircross är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
-Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+Denna modell levereras med röststyrning som standard, vilket låter dig hantera olika funktioner genom röstkommandon.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -208,44 +208,44 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ### Navigationssystem
 
-Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med ett tillvals inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder Citroën ë-C3 Aircross Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Citroën ë-C3 Aircross stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Citroën ë-C3 Aircross.
+Du kan välja mellan två ljudsystem för Citroën ë-C3 Aircross:
 
 - **standard:** Har två högtalare.
 - **Max Sound system:** Har två högtalare.
 
-Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
+Dessutom har modellen 2 USB-C-anslutningar som standard. Som tillval kan du få ytterligare 2 USB-C-anslutningar.
 
-## Ljus
+## Belysning
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
-Citroën ë-C3 Aircross inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Citroën ë-C3 Aircross har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Citroën ë-C3 Aircross, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Citroën ë-C3 Aircross, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Citroën ë-C3 Aircross, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Citroën ë-C3 Aircross, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Citroën ë-C3 Aircross, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Citroën ë-C3 Aircross, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
-### Körautomatisering
+### Körautomation
 
-Med standardutrustningen erbjuder modellen ingen körautomatisering.
+Med standardsystemet erbjuder modellen ingen körautomation.
 
 - Farthållare.
 
@@ -256,23 +256,23 @@ Upp till en [radarsensorer](../../../../technology/sensorsandcameras/radar/), en
 
 ## Säkerhets- och åtkomstteknologier
 
-Citroën ë-C3 Aircross är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon och erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
+Citroën ë-C3 Aircross är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon, vilket erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
 
-- **Manuell nyckelåtkomst:** Fordonet använder ett traditionellt nyckelsystem, vilket gör att du enkelt kan låsa upp och starta bilen manuellt.
+- **Manuell nyckelåtkomst:** Fordonet använder ett traditionellt nyckelsystem som låter dig manuellt låsa upp och starta bilen enkelt.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 460 liter. Med baksätena nedfällda ökar detta till 1600 liter. På taket kan du lasta upp till 75 kg.
+Bagageutrymmet har en lastkapacitet på 460 liter (16,2 kubikfot). Med baksätet nedfällt ökar detta till 1600 liter (56,5 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs).
 
-Fordonets maximala vikt är 2030 kg, med en grundvikt på 1429 kg. Detta tillåter en maximal last på 601 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2030 kg (4475 lbs), med en tjänstevikt på 1429 kg (3150 lbs). Detta möjliggör en maximal last på 601 kg (1325 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/trunk_1_st.jpg" title="Citroën ë-C3 Aircross" width="2894" height="2170"  >}}
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
-Denna modell hade världspremiär 21.06.2024 och leveranser förväntas starta om September 2024.
+Denna modell hade sin världspremiär den 21.06.2024, och leveranserna förväntas börja September 2024.
 {{< pagenavigation b_url="../" b_title="Citroën ë-C3 Aircross" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

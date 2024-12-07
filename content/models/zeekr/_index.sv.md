@@ -1,5 +1,5 @@
 ---
-title: Zeekr elektriske modeller
+title: Zeekr elbilsmodeller
 linktitle: "Zeekr"
 description: "Zeekr is a new luxury electric vehicle (EV) brand launched by Geely Automobile in 2021. The brand aims to compete with Tesla and other high-end EV makers in China and beyond. Zeekr's EV strategy is based on four pillars design, technology, performance and customer experience."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Zeekr 001 är en kombi som finns i 4 varianter.
+Zeekr 001 är en kombi tillgänglig i 4 varianter.
 </p>
 	<a href="001/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -41,7 +41,7 @@ Zeekr 001 är en kombi som finns i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Zeekr 007 är en sedan som finns i 1 varianter.
+Zeekr 007 är en sedan tillgänglig i 1 varianter.
 </p>
 	<a href="007/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -56,7 +56,7 @@ Zeekr 007 är en sedan som finns i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Zeekr 009 är en premim MPV tillgänglig i 1 varianter.
+Zeekr 009 är en premium MPV tillgänglig i 1 varianter.
 </p>
 	<a href="009/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

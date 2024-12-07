@@ -1,5 +1,5 @@
 ---
-title: Peugot elektriske modeller
+title: Peugot elbilsmodeller
 linktitle: "Peugot"
 description: "Peugeot is a French brand of automobiles that was founded in 1810 as a steel foundry that later produced hand tools, kitchen equipment, bicycles and cars. Peugeot is known for its lion logo, which was registered in 1858 by Émile Peugeot. Peugeot is part of the Stellantis group, which was formed in 2021 by the merger of PSA Peugeot Citroën and Fiat Chrysler Automobiles."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -56,7 +56,7 @@ Peugot 208 är en crossover tillgänglig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Peugot 3008 är en Coupe SUV tillgänglig i 2 varianter.
+Peugot 3008 är en coupé-SUV tillgänglig i 2 varianter.
 </p>
 	<a href="3008/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -71,7 +71,7 @@ Peugot 3008 är en Coupe SUV tillgänglig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Peugot 308 är en halvkombi/kombi som finns i 2 varianter.
+Peugot 308 är en halvkombi/kombi tillgänglig i 2 varianter.
 </p>
 	<a href="308/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

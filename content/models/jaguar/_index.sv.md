@@ -1,5 +1,5 @@
 ---
-title: Jaguar elektriske modeller
+title: Jaguar elbilsmodeller
 linktitle: "Jaguar"
 description: "Jaguar is a luxury vehicle brand of Jaguar Land Rover, a British multinational car manufacturer with its headquarters in Coventry, England. Jaguar Cars was founded in 1922 as the Swallow Sidecar Company, originally making motorcycle sidecars before developing bodies for passenger cars. The company's name was changed from SS Cars to Jaguar Cars in 1945."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Jaguar I-Pace är en premium-SUV tillgänglig i 1 varianter.
+Jaguar I-Pace är en premium SUV tillgänglig i 1 varianter.
 </p>
 	<a href="i-pace/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

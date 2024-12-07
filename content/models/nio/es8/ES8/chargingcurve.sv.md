@@ -1,14 +1,14 @@
 ---
-title: Nio ES8 laddningskurva och laddningsprestanda
+title: Nio ES8 laddningskurva och prestanda
 linktitle: "Laddningskurva"
-description: "Nedan visas laddningskurvan för Nio ES8, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
+description: "Nedan är laddningskurvan för Nio ES8, som visar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda för de olika batteripaketen.
+Denna modell finns tillgänglig med flera batterier. Nedan hittar du prestandan för de olika batteripaketen.
 
 ### 100 kWh 100kWh
 
@@ -30,7 +30,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 	<tbody>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 0 - 100 %
+				Genomsnittlig laddningshastighet 0-100%
 			</td>
 			<td>
 				64,0 kW
@@ -38,7 +38,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-100 %
+				Genomsnittlig laddningshastighet 10-100%
 			</td>
 			<td>
 				65,1 kW
@@ -46,7 +46,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-90 %
+				Genomsnittlig laddningshastighet 10-90%
 			</td>
 			<td>
 				81,2 kW
@@ -54,7 +54,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-80 %
+				Genomsnittlig laddningshastighet 10-80%
 			</td>
 			<td>
 				85,3 kW
@@ -62,7 +62,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Maximal C-Rate
+				Max C-värde
 			</td>
 			<td>
 				1,09
@@ -70,7 +70,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig C-Rate
+				Genomsnittlig C-värde
 			</td>
 			<td>
 				0,81
@@ -94,7 +94,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 		</tr>
 		<tr>
 			<td>
-				Optimal stopptid för laddning
+				Optimal laddningstid
 			</td>
 			<td>
 				45m15s
@@ -224,10 +224,10 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 </div>
 
 
-Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
+Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../../technology/battery/charging/#temperature)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva baseras också på att laddningen startas vid låg laddningsnivå. Därför kan inkoppling vid en högre nivå påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
 
 
-Nio ES8 har batteriuppvärmning, vilket underlättar laddning vid en optimal batteritemperatur.
+Nio ES8 har batteriuppvärmning, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -236,7 +236,7 @@ Nio ES8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Laddningsnivå
 			</th>
 			<th>
 				Hastighet
@@ -245,7 +245,7 @@ Nio ES8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				Tid
 			</th>
 			<th>
-				Energi laddad
+				Laddad energi
 			</th>
 		</tr>
 	</thead>
@@ -1688,7 +1688,7 @@ Nio ES8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 	<tbody>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 0 - 100 %
+				Genomsnittlig laddningshastighet 0-100%
 			</td>
 			<td>
 				64,0 kW
@@ -1696,7 +1696,7 @@ Nio ES8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-100 %
+				Genomsnittlig laddningshastighet 10-100%
 			</td>
 			<td>
 				65,1 kW
@@ -1704,7 +1704,7 @@ Nio ES8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-90 %
+				Genomsnittlig laddningshastighet 10-90%
 			</td>
 			<td>
 				81,2 kW
@@ -1712,7 +1712,7 @@ Nio ES8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig laddningshastighet 10-80 %
+				Genomsnittlig laddningshastighet 10-80%
 			</td>
 			<td>
 				85,3 kW
@@ -1720,7 +1720,7 @@ Nio ES8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 		</tr>
 		<tr>
 			<td>
-				Maximal C-Rate
+				Max C-värde
 			</td>
 			<td>
 				1,45
@@ -1728,7 +1728,7 @@ Nio ES8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 		</tr>
 		<tr>
 			<td>
-				Genomsnittlig C-Rate
+				Genomsnittlig C-värde
 			</td>
 			<td>
 				1,08
@@ -1752,7 +1752,7 @@ Nio ES8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 		</tr>
 		<tr>
 			<td>
-				Optimal stopptid för laddning
+				Optimal laddningstid
 			</td>
 			<td>
 				38m39s
@@ -1882,10 +1882,10 @@ Nio ES8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 </div>
 
 
-Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
+Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../../technology/battery/charging/#temperature)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva baseras också på att laddningen startas vid låg laddningsnivå. Därför kan inkoppling vid en högre nivå påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
 
 
-Nio ES8 har batteriuppvärmning, vilket underlättar laddning vid en optimal batteritemperatur.
+Nio ES8 har batteriuppvärmning, vilket gör det lättare att ladda vid optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -1894,7 +1894,7 @@ Nio ES8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Laddningsnivå
 			</th>
 			<th>
 				Hastighet
@@ -1903,7 +1903,7 @@ Nio ES8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 				Tid
 			</th>
 			<th>
-				Energi laddad
+				Laddad energi
 			</th>
 		</tr>
 	</thead>

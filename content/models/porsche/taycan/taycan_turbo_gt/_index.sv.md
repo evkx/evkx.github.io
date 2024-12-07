@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo GT
 linktitle: "Taycan Turbo GT"
-description: "Porsche Taycan Turbo GT är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 555 km. EVKX.net har alla detaljer."
+description: "Porsche Taycan Turbo GT är en helt elektrisk lyxsedan med en WLTP-räckvidd på upp till 555 km (345 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt/main_1_st.jpg" title="Porsche Taycan Turbo GT" width="3000" height="1687"  >}}
 
-Vi har delat in vår beskrivning av Porsche Taycan Turbo GT i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
-- [Ytelse](#prestanda)
-- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
-- [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interiör)
-- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
-- [Infotainment](#infotainment)
-- [Lights](#ljus)
-- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
-- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+- [Prestanda](#section-performance)
+- [Batteri, räckvidd och laddning](#section-battery)
+- [Drivlina (fjädring, bromsar, styrning)](#section-drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#section-exterior)
+- [Interiör (säten++)](#section-interior)
+- [Användargränssnitt och kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Belysning](#section-lights)
+- [Avancerade förarassistanssystem](#section-adas)
+- [Lastkapacitet och dragförmåga](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
 
-Med overboost levererar Porsche Taycan Turbo GT en häpnadsväckande maximal effekt på 815 kW (1108 hk). Även utan overboost har den en formidabel effekt på 1108 kW (1093 hk). Det maximala vridmomentet når otroliga 1340 Nm. Denna kraftfulla maskin kan accelerera från 0 till 100 km/h på endast 2,3 sekunder och når en topphastighet på 300 km/h, vilket understryker dess imponerande prestanda.
+Med överboost levererar Porsche Taycan Turbo GT en häpnadsväckande maxeffekt på 815 kW (1108 hk / 1093 bhp). Även utan överboost har den en imponerande effekt på 815 kW (1108 hk / 1093 bhp). Det maximala vridmomentet når otroliga 1340 Nm (989 lb-ft). Denna kraftmaskin kan accelerera från 0 till 100 km/h på endast 2,3 sekunder och uppnår en toppfart på 300 km/h (186 mph), vilket understryker dess hisnande prestanda.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 105,0 kWh och en nettoanvändbar kapacitet på 97,0 kWh, vilket ger en buffert på 8,0 kWh (7,6%) för batteriskydd. Vid en nominell spänning på 725 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet med hög kapacitet har en bruttokapacitet på 105,0 kWh och en nettoanvändbar kapacitet på 97,0 kWh, vilket ger en 8,0 kWh buffert (7,6%) för batteriskydd. Med en driftspänning på 725 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 555 och 558 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 17,5 kWh/100 km för basmodellen och 17,4 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 555 till 558 km (345-347 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 17,5 kWh/100 km för basmodellen och 17,4 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 320 kW. En full laddning från 0 - 100 % tar 47 minuter, medan ett vanligare scenario på 10-80 % tar 16 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 209kW. Varje laddningssession tar 18 minuter och 48 sekunder. Denna exceptionellt snabba laddningskapacitet gör Porsche Taycan Turbo GT till en av de mest effektiva och bekväma elbilarna för långresor.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 320 kW. Laddning från 0% till 100% tar ungefär 47 minuter, medan ett mer typiskt scenario från 10% till 80% tar 16 minuter med en genomsnittlig laddningshastighet på 260 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 65%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 209 kW, där varje laddningssession tar cirka 18 minuter och 48 sekunder. Denna exceptionellt snabba laddningsförmåga gör Porsche Taycan Turbo GT till en av de mest effektiva och bekväma elbilarna för långdistansresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 8 timmar och 55 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 65%, med en total laddningstid på 36 minuter.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 8 timmar och 55 minuter, med två laddningsstopp från 1% till 65%, totalt 36 minuters laddtid.
 
-### Ombordladdare
+### Inbyggd laddare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 49 minuter med en hemmaladdare. För snabbare laddning kan du välja en valfri ombordladdare som stöder upp till 22 kW. Med denna uppgradering kan du uppnå en full laddning från 0 till 100% på bara cirka 4 timmar och 24 minuter hemma.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 8 timmar och 49 minuter vid hemmaladdning. En tillvald 22 kW inbyggd laddare minskar den fullständiga laddningstiden till ungefär 4 timmar och 24 minuter.
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [vänster front](../../../../technology/charging/connectors/#front-side). Detta placering gör det enkelt att ladda stationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**J1772**](../../../../technology/charging/connectors/#j1772) för Nordamerika och för Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullständiga specifikationer för alla marknader.
+Laddningsporten är placerad på [vänster framsida](../../../../technology/charging/connectors/#front-side). Detta gör det enkelt att använda laddstationer där du parkerar vid sidan av laddaren. Kontakttyperna varierar mellan olika marknader. Denna modell använder [**J1772**](../../../../technology/charging/connectors/#j1772) för Nordamerika och [**TYP2**](../../../../technology/charging/connectors/#type-2) för Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,23 +56,23 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 ## Drivlina
 
-Porsche Taycan Turbo GT har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Porsche Taycan Turbo GT har ett fyrhjulsdrivet system som drivs av två motorer, en på varje axel. Motorerna som används är [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
-### Hjulupphängning
+### Fjädring
 
-Du kan beställa Porsche Taycan Turbo GT med en alternativ Adaptive Air Suspension-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 103 mm, och maximal är 126 mm.
+Du kan beställa Porsche Taycan Turbo GT med en alternativ Adaptive Air Suspension fjädring. Framfjädringen är av typen [dubbel länkarm](../../../../technology/suspension/#double-wishbone) och bakfjädringen är [multilänk](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska stötdämpare. Fjädringen är fullt adaptiv på både fram- och bakaxel, så både höjd och dämpning kan justeras manuellt och automatiskt. Den minsta markfrigången är 103 mm, och den maximala är 126 mm.
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för Porsche Taycan Turbo GT. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
+Dynamisk styrning är standard på Porsche Taycan Turbo GT, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort. Dessutom finns fyrhjulsstyrning som standard funktion. Fyrhjulsstyrning minskar vändradien vid låga hastigheter.
 
 ### Bromsar
 
-Bromsar bak och fram är [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 420mm och de bakre skivorna är 410mm.
+Fram- och bakbromsarna är [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna mäter 420 mm, medan de bakre skivorna är 410 mm.
 
 ### Regenerativ bromsning
 
-Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektiviteten och körupplevelsen. Det mest effektiva alternativet är [**Automatiskt Regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet seglar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det är nödvändigt. <br /><br/> Ett annat alternativ är läget [**Regen på Gaspedal**](../../../../technology/regen/#one-pedal-driving), där regenerativ bromsning aktiveras när föraren släpper gaspedalen. Detta system tillåter fordonet att sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalskörning**.
+Systemet för [regenerativ bromsning](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektivitet och körupplevelse. Det mest effektiva alternativet är [**Automatisk regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet rullar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det behövs. <br /><br/> Ett annat alternativ är [**Regen på gaspedal**](../../../../technology/regen/#one-pedal-driving) läget där regenerativ bromsning aktiveras när föraren lättar på gaspedalen. Detta system gör att fordonet kan sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalkörning**.
 
 Den maximala regenerativa effekten är 275 kW.
 
@@ -80,21 +80,21 @@ Den maximala regenerativa effekten är 275 kW.
 
 ## Exteriör
 
-Porsche Taycan Turbo GT, med dimensioner på 4963 mm i längd, 1966 mm i bredd och 1381 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Porsche Taycan Turbo GT finns i totalt 17 lackfärger, inklusive både solida och metalliska alternativ.
+Porsche Taycan Turbo GT, med måtten 4963 mm i längd, 1966 mm i bredd och 1381 mm i höjd, tillhör E-segmentet, även känt som stora premiumbilar. De är större och mer lyxiga än D-segmentets bilar och är designade för överlägsen komfort, avancerad teknik och hög prestanda. Porsche Taycan Turbo GT finns tillgänglig i totalt 17 lackfärger, inklusive både solida och metallic-alternativ.
 
-Du kan också välja flera stilalternativ för att göra din bil mer unik.
+Du kan även välja mellan flera olika stilalternativ för att göra din bil mer unik.
 
-Du kan välja mellan flera hjulalternativ i olika storlekar på Porsche Taycan Turbo GT, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Porsche Taycan Turbo GT erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
 - 225/55 däck på 19" fälgar fram och 275/45 däck på 19" fälgar bak
 - 245/45 däck på 20" fälgar fram och 285/40 däck på 20" fälgar bak
 - 265/35 däck på 21" fälgar fram och 305/30 däck på 21" fälgar bak
 
-Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+Smalare hjul förbättrar förbrukningen och ger längre räckvidd, medan bredare hjul ger bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate), vilket gör bagageutrymmet mycket mer användbart jämfört med ett traditionellt bagagelucka, särskilt för en sedan. Den elektriskt drivna bakluckan har en valfri kicksensor, som gör att den kan öppnas genom att helt enkelt sparka foten under bakluckan.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate), vilket gör bagageutrymmet mycket mer användbart jämfört med en traditionell sedanbaklucka. Den elektriskt manövrerade bakluckan kan som tillval fås med rörelsesensor, vilket gör det möjligt att öppna den genom att bara sparka med foten under bakluckan.
 
-Det finns tre olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra humöret och komforten för den åkande. Glaset har en elektrokrom funktion som gör att du kan blanda glaset för att skydda mot solen.
+Det finns tre olika takalternativ att välja mellan. Standard är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig från fram till bak. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Glaset är tonat för att skydda mot värme från solen. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över större delen från fram till bak. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Glaset har en elektrokrom funktion som låter dig tona glaset för att skydda mot solen.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt/exterior_1_st.jpg" title="Porsche Taycan Turbo GT" width="3000" height="1687"  >}}
 
@@ -106,60 +106,60 @@ Det finns tre olika takalternativ att välja mellan. Standardinställningen är 
 
 ### Säten
 
-Denna modell erbjuder en fyra-sits layout eller en valfri 4+1 layout.
+Denna modell erbjuder en fyrsätesversion eller ett alternativt 4+1-sätes upplägg.
 
-#### Framsäten
+#### Första radens säten
 
-För första raden erbjuder Porsche Taycan Turbo GT två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
+Första raden erbjuder två olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
-Följande funktioner är tillgängliga på **Lightweight bucket seat** sätet.
+Följande funktioner finns tillgängliga på **Lightweight bucket seat** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
+Följande funktioner finns tillgängliga på **Sportsseats Plus** sätet:
 
-- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
-- [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfri)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart sidostöd ryggstöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Justerbart sidostöd sittdyna](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
+- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage) (tillval)
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.
+Finns tillgänglig i:
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt/frontseats_1_st.jpg" title="Porsche Taycan Turbo GT" width="3000" height="1687"  >}}
 
-#### Säten på andra raden
+#### Andra radens säten
 
-Du kan välja två sätestyper för den andra raden i Porsche Taycan Turbo GT.
+Du kan välja mellan två olika sätesvarianter för andra raden i Porsche Taycan Turbo GT.
 
-Alternativet standard är två integrerade säten i andra raden. Dessutom är följande funktioner tillgängliga.
+standard-alternativet är två integrerade säten i andra raden. Ytterligare funktioner inkluderar:
 
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfri)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating) (tillval)
 
-Alternativet second är två integrerade säten i andra raden med en tredje mindre säte emellan. Dessutom är följande funktioner tillgängliga.
+second-alternativet är två integrerade säten i andra raden med ett tredje mindre säte i mitten. Ytterligare funktioner inkluderar:
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Det finns ett klimatsystem tillgängligt:
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
-Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
+Denna modell har [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi som används för uppvärmning i kallt väder.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Porsche Taycan Turbo GT inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+I Porsche Taycan Turbo GT ingår flera funktioner för att öka komfort och bekvämlighet:
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,28 +167,28 @@ Porsche Taycan Turbo GT inkluderar flera funktioner för att förbättra komfort
 
 ## Användargränssnitt och kontroll
 
-Porsche Taycan Turbo GT har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen).
+Porsche Taycan Turbo GT har flera integrerade skärmar. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) högst upp och en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen) längst ner. För passageraren finns en valfri [infotainmentskärm](../../../../technology/userinterface/screens/#front-passenger-screen).
 
 Viktiga skärmdetaljer:
 
-- Skärmen touch bakom ratten integrerad i instrumentbrädan är 16,8 tum
-- Skärmen touch översta mittkonsolen är 10,9 tum
-- Skärmen touch botten av mittkonsolen är 8,4 tum
-- Skärmen touch framför passageraren i instrumentbrädan är 10,9 tum
+- touch-skärmen bakom ratten integrerad i instrumentbrädan är 16,8 tum stor
+- touch-skärmen högst upp i mittkonsolen är 10,9 tum stor
+- touch-skärmen längst ner i mittkonsolen är 8,4 tum stor
+- touch-skärmen framför passageraren i instrumentbrädan är 10,9 tum stor
 
-En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+En head-up display är ett tillval system som projicerar hastighet och annan viktig förarinformation på vindrutan.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt/screens_1_st.jpg" title="Porsche Taycan Turbo GT" width="3000" height="1687"  >}}
 
 ### Ratt
 
-Porsche Taycan Turbo GT är utrustad med en enda typ av ratt:
+Porsche Taycan Turbo GT är utrustad med endast en typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -196,86 +196,86 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
-### Telefon spegling
+### Telefonspegling
 
-Dessutom stöder Porsche Taycan Turbo GT Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Porsche Taycan Turbo GT stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
 
 ### Ljudsystem
 
-Du kan välja mellan tre ljudsystem på Porsche Taycan Turbo GT.
+Du kan välja mellan tre ljudsystem för Porsche Taycan Turbo GT:
 
-- Med Porsche Sound system får du tio högtalare med en maximal systemeffekt på 150 watt.
-- Med BOSE® Surround Sound System får du 14 högtalare med en maximal systemeffekt på 710 watt.
-- Med Burmester® 3D High-End Surround Sound System får du 21 högtalare med en maximal systemeffekt på 1455 watt.
+- **Porsche Sound system:** Har tio högtalare och levererar en maximal uteffekt på 150 watt.
+- **BOSE® Surround Sound System:** Har 14 högtalare och levererar en maximal uteffekt på 710 watt.
+- **Burmester® 3D High-End Surround Sound System:** Har 21 högtalare och levererar en maximal uteffekt på 1455 watt.
 
-## Ljus
+## Belysning
 
-Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt för att släcka små områden framför.
+Porsche Taycan Turbo GT levereras med avancerade LED Matrix-strålkastare. Detta adaptiva system delar upp den traditionella strålkastarljusstrålen i flera mindre strålar, vilket låter ljuskontrollern selektivt tända och släcka dem för att undvika att blända andra förare. För ökad säkerhet har strålkastarna också kurvljus som lyser upp sidan vid svängar.
 
-Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
-Porsche Taycan Turbo GT inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
+Porsche Taycan Turbo GT har ett utbud av standard och tillvalda [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) utformade för att förbättra säkerhet och komfort.
 
-[**Effektivitetsassistans**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion som hjälper föraren att förutse körförhållanden och spara energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion som hjälper förare att förutse körförhållanden och spara energi.
 
 ### Säkerhetssystem
 
-[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Porsche Taycan Turbo GT, detta system förhindrar att hjulen låser sig under bromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Porsche Taycan Turbo GT, detta system förhindrar att hjulen låser sig vid inbromsning.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Porsche Taycan Turbo GT, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Porsche Taycan Turbo GT, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på halt väglag.
 
-[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Porsche Taycan Turbo GT, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+[**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Porsche Taycan Turbo GT, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valfritt på Porsche Taycan Turbo GT, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Tillval på Porsche Taycan Turbo GT, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
-[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valfritt på Porsche Taycan Turbo GT, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+[**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Tillval på Porsche Taycan Turbo GT, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
-[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valfritt på Porsche Taycan Turbo GT, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Tillval på Porsche Taycan Turbo GT, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
 
-[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Porsche Taycan Turbo GT, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Porsche Taycan Turbo GT, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
 [**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Porsche Taycan Turbo GT, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valfritt på Porsche Taycan Turbo GT, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tillval på Porsche Taycan Turbo GT, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
-### Körautomatisering
+### Körautomation
 
-Porsche Taycan Turbo GT erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Porsche Taycan Turbo GT erbjuder [körautomation på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med  nivå 1-systemet får du följande körautomationsfunktioner.
 
-- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tillval)
 
-Med det valfria Porsche InnoDrive nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan:
+Med det valfria Porsche InnoDrive nivå 2-systemet får du ytterligare körautomationsfunktioner utöver de som anges ovan:
 
-- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
 ## Säkerhets- och åtkomstteknologier
 
 Porsche Taycan Turbo GT är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
-- **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
+- **Nyckelfritt inträde och start:** Med standard nyckelfri start och valfritt nyckelfritt inträde kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet och dragkapacitet
+## Lastkapacitet och dragförmåga
 
-Bagageutrymmet erbjuder en lastkapacitet på 366 liter. På taket kan du lasta upp till 75 kg.
+Bagageutrymmet har en lastkapacitet på 366 liter (12,9 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs).
 
-Fordonets maximala vikt är 2880 kg, med en grundvikt på 2230 kg. Detta tillåter en maximal last på 650 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2880 kg (6349 lbs), med en tjänstevikt på 2230 kg (4916 lbs). Detta möjliggör en maximal last på 650 kg (1433 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
-Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
+Denna modell kan inte utrustas med dragkrok. För att dra släp måste du titta på andra modeller.
 
-## Tillgänglighet och pris
+## Tillgänglighet och priser
 
 
 {{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

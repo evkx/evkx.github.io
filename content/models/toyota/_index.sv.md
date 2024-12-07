@@ -1,5 +1,5 @@
 ---
-title: Toyota elektriske modeller
+title: Toyota elbilsmodeller
 linktitle: "Toyota"
 description: "Toyota is one of the largest automobile manufacturers in the world, producing about 10 million vehicles per year. Historycally Toyota has been negative to EV, but launched it first all-electric model in 2022. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">

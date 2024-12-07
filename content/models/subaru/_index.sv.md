@@ -1,5 +1,5 @@
 ---
-title: Subaru elektriske modeller
+title: Subaru elbilsmodeller
 linktitle: "Subaru"
 description: "Subaru is a Japanese automaker that produces vehicles with advanced technology, impressive performance, and intelligent features. Subaru is known for its permanent all-wheel drive system, boxer engine, and EyeSight driver assistance system. Subaru also has a strong reputation for safety, reliability, and durability."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">

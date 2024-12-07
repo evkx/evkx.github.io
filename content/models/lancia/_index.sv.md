@@ -1,5 +1,5 @@
 ---
-title: Lancia elektriske modeller
+title: Lancia elbilsmodeller
 linktitle: "Lancia"
 description: "Lancia is a historic Italian car brand that is owned by Stellantis, the world's fourth-largest automaker. Lancia is known for its stylish and innovative cars, such as the Stratos, the Delta, and the Ypsilon."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuvarande modeller
+                        Aktuella modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
