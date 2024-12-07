@@ -1,7 +1,7 @@
 ---
 title: CUPRA BORN 77 e-BOOST
 linktitle: "BORN 77 e-BOOST"
-description: "CUPRA BORN 77 e-BOOST er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 548 km (341 miles). EVKX.net har alle detaljerne."
+description: "CUPRA BORN 77 e-BOOST er en elektrisk hatchback med en WLTP rækkevidde på op til 548 km (341 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,88 +11,88 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/main_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="2000"  >}}
 
-Vi har opdelt vores CUPRA BORN 77 e-BOOST artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-Med overboost når CUPRA BORN 77 e-BOOST en maksimal effekt på 170 kW (231 hk). Uden overboost leverer den 150 kW (204 hk). Det maksimale drejningsmoment er 310 Nm. Den accelererer fra 0 til 100 km/t på 7 sekunder og når en topfart på 160 km/t, hvilket giver en ydelse, der minder mere om traditionelle forbrændingsmotorbiler.
+Med overboost opnår CUPRA BORN 77 e-BOOST en maksimal effekt på 170 kW (231 hk / 228 bhp). Uden overboost leverer den 150 kW (204 hk / 201 bhp). Det maksimale drejningsmoment er 310 Nm (229 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 7 sekunder og når en tophastighed på 160 km/t (99 mph), hvilket giver en ydeevne mere på linje med traditionelle forbrændingsmotorer.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 82,0 kWh og en nettoanvendelig kapacitet på 77,0 kWh, hvilket giver en buffer på 5,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 350 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitets batteri har en brutto kapacitet på 82,0 kWh og en netto kapacitet på 77,0 kWh, hvilket giver en 5,0 kWh buffer (6,1%) til batteribeskyttelse. Med en nominel spænding på 350 volt klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 548 og 492 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 14,1 kWh/100 km for basismodellen og 15,7 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierer køretøjets rækkevidde mellem 548 og 492 km (341-306 miles), afhængigt af den specifikke konfiguration og tilvalg som f.eks. hjulstørrelse. Større hjul kan øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 14,1 kWh/100 km for basismodellen og 15,7 kWh/100 km for topmodellen under WLTP testcyklussen. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 120kW. En fuld opladning fra 0 - 100 % ville tage 67 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 37 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 53%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 88kW. Hver opladningssession ville tage 25 minutter og 42 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 120 kW. Opladning fra 0% til 100% tager cirka 67 minutter, mens et mere typisk scenario fra 10% til 80% tager 37 minutter med en gennemsnitlig ladehastighed på 88 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 6% til 53%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 88 kW, hvor hver opladningssession tager cirka 25 minutter og 42 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 9 timer og 58 minutter. Denne rejse ville kræve to opladningsstop fra 6% til 53%, med en samlet opladningstid på 99 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 9 timer og 58 minutter, med fire opladningsstop fra 6% til 53%, i alt 99 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 7 timer og 0 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 7 timer og 0 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 
-Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Ladeporten er placeret på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke ind til laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-CUPRA BORN 77 e-BOOST har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [induktionsmotorer](../../../../technology/motors/asm/).
+CUPRA BORN 77 e-BOOST har et baghjulstræksystem understøttet af én motor på bagakslen. Den anvendte motor er en [induktionsmotor](../../../../technology/motors/asm/).
 
-### Hjulophæng
+### Affjedring
 
-standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 131 mm.
+standard affjedringen har stålsfjedre med fast højde men med valgfri dæmpningsjustering. Frihøjden med denne affjedring er 131 mm.
 
 ### Styring
 
-Dynamisk styring er en valgfri-funktion på CUPRA BORN 77 e-BOOST. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+Dynamisk styring er valgfrit på CUPRA BORN 77 e-BOOST, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort.
 
 ### Bremser
 
-CUPRA BORN 77 e-BOOST bruger [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremseevne og varmeafledning, mens [tromlebremser](../../../../technology/brakes/#tromle-brakes) anvendes bagtil for omkostningseffektivitet og holdbarhed. Tromlebremser yder tilstrækkelig ydeevne for baghjulene, kræver mindre vedligeholdelse og integreres problemfrit med køretøjets regenererende bremsesystem. Denne kombination sikrer optimal bremseydelse og omkostningseffektivitet, i tråd med EV'ens overordnede effektivitetsmål. De forreste skiver er 330mm.
+CUPRA BORN 77 e-BOOST bruger [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremseevne og varmeafledning, mens der bruges [tromlebremser](../../../../technology/brakes/#drum-brakes) bagpå for omkostningseffektivitet og holdbarhed. Tromlebremser giver tilstrækkelig ydelse for baghjulene, kræver mindre vedligeholdelse og integreres problemfrit med køretøjets regenerative bremsesystem. Denne kombination sikrer optimal bremseydelse og omkostningseffektivitet, i tråd med de overordnede effektivitetsmål for elbilen. De forreste skiver er 330 mm.
 
 ### Regenerativ bremsning
 
-Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**.
+[Regenerativ bremsning](../../../../technology/regen/) i denne model tilbyder flere tilstande for at forbedre effektivitet og køreoplevelse. Den mest effektive mulighed er [**Automatisk regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet ruller når det er muligt og bruger regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind når det er nødvendigt. <br /><br/>  En anden mulighed er [**Regenerering på speederpedalen**](../../../../technology/regen/#one-pedal-driving) tilstanden hvor regenerativ bremsning aktiveres når føreren letter foden fra speederen. Dette system gør det muligt for køretøjet at sænke farten og genvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **én-pedal kørsel**.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den CUPRA BORN 77 e-BOOST, med dimensioner på 4322 mm i længde, 1809 mm i bredde og 1540 mm i højde, tilhører C-segmentet af biler, også kendt som kompakte biler. Disse biler opnår en balance mellem størrelse, ydelse og overkommelighed, hvilket gør dem alsidige for en række førere. CUPRA BORN 77 e-BOOST fås i alt 5 lakfarver, herunder både solide og metalliske muligheder.
+CUPRA BORN 77 e-BOOST, med dimensioner på 4322 mm i længde, 1809 mm i bredde og 1540 mm i højde, tilhører C-segment biler, også kendt som kompaktbiler, der balancerer størrelse, ydeevne og pris, hvilket gør dem alsidige for mange forskellige bilister. CUPRA BORN 77 e-BOOST fås i alt i 5 lakfarver, inklusive både almindelige og metalliske muligheder.
 
-Du kan vælge mellem flere hjul i forskellige størrelser på CUPRA BORN 77 e-BOOST, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+CUPRA BORN 77 e-BOOST tilbyder flere hjulmuligheder i forskellige størrelser, så du kan tilpasse din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 215/55 dæk on 18" fælge
-- 215/50 dæk on 19" fælge
-- 215/45 dæk on 20" fælge
+- 215/55 dæk på 18" fælge
+- 215/50 dæk på 19" fælge
+- 215/45 dæk på 20" fælge
 
-Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+Smallere hjul forbedrer forbruget og giver længere rækkevidde, mens bredere hjul giver bedre vejgreb og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Du kan vælge en mulighed for at få bagklappen elektrisk drevet. Du kan også have bagklappen med en sparkesensor, der gør det muligt at åbne den ved blot at sparke foden under bagklappen.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate). Du kan vælge at få bagklappen elektrisk betjent som ekstraudstyr. Du kan også få bagklappen med fodsensor, der gør det muligt at åbne den ved blot at sparke foden under bagklappen.
 
-Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
+Der er to forskellige tagmuligheder at vælge imellem. Standardtaget er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med stort panoramatag, der strækker sig over det meste af området fra for til bag. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Det har et elektrisk gardin, som passagererne kan bruge til beskyttelse mod solen.
 
-Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
+Derudover kan du bestille bilen med tonede ruder fra B-søjlen og bagud, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
 
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/exterior_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="1711"  >}}
 
@@ -104,72 +104,72 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ### Sæder
 
-CUPRA BORN 77 e-BOOST har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+CUPRA BORN 77 e-BOOST har plads til fem passagerer med to forsæder og en trebænk bagtil.
 
-#### Første række sæder
+#### Forsæder
 
-CUPRA BORN 77 e-BOOST tilbyder kun én type forreste sæde.
+CUPRA BORN 77 e-BOOST tilbyder én type forsæde.
 
-Følgende funktioner er tilgængelige på **standard** sædet.
+Følgende funktioner er tilgængelige på **standard** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som en mulighed)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valgfri)
-- [massage](../../../../technology/seats/adjustment/#massage) (valgfri)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
+- [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
+- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som ekstraudstyr)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (ekstraudstyr)
+- [Massage](../../../../technology/seats/adjustment/#massage) (ekstraudstyr)
 
-Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+Fås med:
 
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/frontseats_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="2110"  >}}
 
-#### Sæde på anden række
+#### Anden række sæder
 
-Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Anden række har en standard tresæders bænk med 60:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
+Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydelig energi brugt til opvarmning i koldt vejr.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-CUPRA BORN 77 e-BOOST inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+CUPRA BORN 77 e-BOOST inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
-- **Trådløs opladning af telefon**
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-CUPRA BORN 77 e-BOOST har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+CUPRA BORN 77 e-BOOST har to skærme med information til fører og passagerer. Bag rattet er der et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen, og øverst på instrumentbrættet er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Vigtige skærmdetaljer:
 
-- Skærmen  på ratstammen er 5,0 tommer stor
-- Skærmen touch i dashboardets midte er 12,0 tommer stor
+- Den  skærm på ratstammen er 5,0 tommer stor
+- Den touch skærm på midten af instrumentbrættet er 12,0 tommer stor
 
-Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+Et head-up display er et valgfrit system, der projicerer hastighed og anden vigtig førerinformation på forruden.
 
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/screens_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="1714"  >}}
 
 ### Rat
 
-CUPRA BORN 77 e-BOOST er udstyret med en enkelt type rat:
+CUPRA BORN 77 e-BOOST er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -177,26 +177,26 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 ### Navigationssystem
 
-Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Med valgfrit indbygget navigationssystem har du al den hjælp, du behøver for at nå din destination uden besvær.
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter CUPRA BORN 77 e-BOOST Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+CUPRA BORN 77 e-BOOST understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på CUPRA BORN 77 e-BOOST.
+Du kan vælge mellem to lydsystemer til CUPRA BORN 77 e-BOOST:
 
-- Med Sound system får du fem højttalere med en maksimal systemeffekt på 140 watt.
-- Med Beats Audio får du ni højttalere med en maksimal systemeffekt på 395 watt.
+- **Sound system:** Har fem højttalere og leverer en maksimal effekt på 140 watt.
+- **Beats Audio:** Har ni højttalere og leverer en maksimal effekt på 395 watt.
 
-Modellen har 4 USB-C-forbindelser som standard.
+Derudover inkluderer modellen 4 USB-C tilslutninger som standard.
 
-## Lys
+## Lygter
 
-**Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+**Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/headlights_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="1976"  >}}
 
@@ -204,60 +204,60 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den CUPRA BORN 77 e-BOOST inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+CUPRA BORN 77 e-BOOST har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper føreren med at forudse kørselsforhold og spare energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper førere med at forudse køreforhold og spare energi.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på CUPRA BORN 77 e-BOOST, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på CUPRA BORN 77 e-BOOST, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på CUPRA BORN 77 e-BOOST, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på CUPRA BORN 77 e-BOOST, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på CUPRA BORN 77 e-BOOST, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på CUPRA BORN 77 e-BOOST, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på CUPRA BORN 77 e-BOOST, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+[**Front Tværgående Trafik Assistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på CUPRA BORN 77 e-BOOST, dette førerassistentsystem hjælper førere med at registrere modkørende trafik ved krydsning af et vejkryds eller når der drejes til venstre eller højre fra stillestående position.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på CUPRA BORN 77 e-BOOST, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på CUPRA BORN 77 e-BOOST, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på CUPRA BORN 77 e-BOOST, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på CUPRA BORN 77 e-BOOST, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på CUPRA BORN 77 e-BOOST, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
+[**Automatisk Nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på CUPRA BORN 77 e-BOOST, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfrit på CUPRA BORN 77 e-BOOST, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Ekstraudstyr på CUPRA BORN 77 e-BOOST, dette system hjælper med at opdage trafik i blinde vinkler.
 
 ### Køreautomatisering
 
 CUPRA BORN 77 e-BOOST tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med standardudstyret tilbyder modellen ingen køreautomatisering.
+Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 - Fartpilot.
 
-Med  niveau 1-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+Med  niveau 1-systemet får du yderligere køreautomatiseringsfunktioner ud over dem, der er nævnt ovenfor:
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-Med det valgfrie Assistantpackage plus niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
+Med det valgfrie Assistantpackage plus niveau 2-system får du yderligere køreautomatiseringsfunktioner ud over dem, der er nævnt ovenfor:
 
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
-- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (ekstraudstyr)
 
 ## Sikkerheds- og adgangsteknologier
 
-CUPRA BORN 77 e-BOOST er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+CUPRA BORN 77 e-BOOST er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Med den standard nøglefri start og valgfri nøglefri adgang kan du låse og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
+- **Nøglefri adgang og start:** Med standard nøglefri start og valgfri nøglefri adgang kan du låse op og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 385 liter. Med det bageste sæde foldet ned, udvides dette til 1267 liter. På taget kan du laste op til 0 kg.
+Bagagerummet har en lastkapacitet på 385 liter (13,6 CU FT). Med bagsædet lagt ned udvides dette til 1267 liter (44,7 CU FT). På taget kan du laste op til 0 kg (0,0 lbs).
 
-Køretøjets maksimale vægt er 2300 kg, med en basisvægt på 1895 kg. Dette giver en maksimal last på 405 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 2300 kg (5071 lbs), med en egenvægt på 1895 kg (4178 lbs). Dette giver en maksimal last på 405 kg (893 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
-Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
-{{< pagenavigation b_url="../" b_title="CUPRA BORN" f_url="rangeandconsumption/" f_title="Range" >}}
+Denne model fås ikke med anhængertræk. Så hvis du skal trække en trailer, må du kigge på andre modeller.
+{{< pagenavigation b_url="../" b_title="CUPRA BORN" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

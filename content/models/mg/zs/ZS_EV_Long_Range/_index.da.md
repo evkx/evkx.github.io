@@ -1,7 +1,7 @@
 ---
 title: MG ZS EV Long Range
 linktitle: "ZS EV Long Range"
-description: "MG ZS EV Long Range er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 440 km (274 miles). EVKX.net har alle detaljerne."
+description: "MG ZS EV Long Range er en elektrisk SUV med en WLTP rækkevidde på op til 440 km (274 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,82 +11,82 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/main_1_st.jpg" title="MG ZS EV Long Range" width="3000" height="1999"  >}}
 
-Vi har opdelt vores MG ZS EV Long Range artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-MG ZS EV Long Range tilbyder beskedne præstationer med en maksimal effekt på 115 kW (156 hk) og et samlet drejningsmoment på 280 Nm. Den accelererer fra 0 til 100 km/t på 8,6 sekunder og har en topfart på 175 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+MG ZS EV Long Range tilbyder beskeden ydeevne med en maksimal effekt på 115 kW (156 hk / 154 bhp) og et samlet drejningsmoment på 280 Nm (207 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 8,6 sekunder og har en tophastighed på 175 km/t (109 mph), hvilket ligger tættere på traditionelle forbrændingsmotorer.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 72,6 kWh og en nettoanvendelig kapacitet på 68,3 kWh, hvilket giver en buffer på 4,3 kWh (3%) til batteribeskyttelse.
+Det højkapacitets batteri har en brutto kapacitet på 72,6 kWh og en netto kapacitet på 68,3 kWh, hvilket giver en 4,3 kWh buffer (5,9%) til batteribeskyttelse.
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 440 km, med et energiforbrugsrate på 15,5 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er køretøjets rækkevidde 440 km (274 miles), med et energiforbrug på 15,5 kWh/100 km (3 mi/kWh). For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 94kW. En fuld opladning fra 0 - 100 % ville tage 114 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 43 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 8% til 61%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 62kW. Hver opladningssession ville tage 35 minutter og 1 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 94 kW. Opladning fra 0% til 100% tager cirka 114 minutter, mens et mere typisk scenario fra 10% til 80% tager 43 minutter med en gennemsnitlig ladehastighed på 67 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 8% til 61%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 62 kW, hvor hver opladningssession tager cirka 35 minutter og 1 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24 kWh/100 km, ville turen tage cirka 11 timer og 8 minutter. Denne rejse ville kræve to opladningsstop fra 7% til 70%, med en samlet opladningstid på 168 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 24 kWh/100 km, ville turen tage cirka 11 timer og 8 minutter, med fire opladningsstop fra 7% til 70%, i alt 168 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 12 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 6 timer og 12 minutter ved brug af en hjemmeinstallation.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/charging_1_st.jpg" title="MG ZS EV Long Range" width="3000" height="2000"  >}}
 
 ### Ladeport
 
-Placeringen af ladeporten er på [forsiden](../../../../technology/charging/connectors/#front). Denne placering gør det letanvendelige ladestationer, hvor du skal parkere med fronten ind. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Ladeporten er placeret på [fronten](../../../../technology/charging/connectors/#front). Denne placering gør det nemt at bruge ladestationer, hvor du skal parkere med fronten ind. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-MG ZS EV Long Range har et baghjulstræksystem, der understøttes af en motor på bagakslen.
+MG ZS EV Long Range har et baghjulstræksystem understøttet af én motor på bagakslen.
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 161 mm.
+Forhjulsophænget er [MacPherson fjederben](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere. affjedringen har fast højde og dæmpning. Frihøjden med denne affjedring er 161 mm.
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
+MG ZS EV Long Range er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag.
 
 ### Regenerativ bremsning
 
-Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**.
+[Regenerativ bremsning](../../../../technology/regen/) i denne model tilbyder flere tilstande for at forbedre effektivitet og køreoplevelse. Den mest effektive mulighed er [**Automatisk regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet ruller når det er muligt og bruger regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind når det er nødvendigt. <br /><br/>  En anden mulighed er [**Regenerering på speederpedalen**](../../../../technology/regen/#one-pedal-driving) tilstanden hvor regenerativ bremsning aktiveres når føreren letter foden fra speederen. Dette system gør det muligt for køretøjet at sænke farten og genvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **én-pedal kørsel**.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den MG ZS EV Long Range, med dimensioner på 4323 mm i længde, 1809 mm i bredde og 1649 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. MG ZS EV Long Range fås i alt 5 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
+MG ZS EV Long Range, med dimensioner på 4323 mm i længde, 1809 mm i bredde og 1649 mm i højde, tilhører B-SUV segmentet, også kendt som kompakte SUV'er eller crossovers, der kombinerer B-segment bilers kompakte størrelse og manøvredygtighed med en højere køreposition, øget bagagerumsplads og robust styling fra en SUV. MG ZS EV Long Range fås i alt i 5 lakfarver, inklusive flere iøjnefaldende metalliske muligheder.
 
-Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på MG ZS EV Long Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Du kan vælge mellem flere hjuldesign, alle tilgængelige i samme størrelse, på MG ZS EV Long Range, så du kan personliggøre din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 215/55 dæk on 17" fælge
+- 215/55 dæk på 17" fælge
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate).
 
-Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset strækker sig over det meste af taget, og passagererne kan åbne den forreste del. Dette glas får bilens interiør til at føles mere rummeligt og lyst. , som kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
+Der er kun én tagmulighed for denne model. Standardtaget har et panoramatag. Glasset strækker sig over det meste af taget, og passagererne kan åbne den forreste del. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Det har et elektrisk gardin, som passagererne kan bruge til beskyttelse mod solen.
 
-Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
+Derudover kan du bestille bilen med tonede ruder fra B-søjlen og bagud, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/exterior_1_st.jpg" title="MG ZS EV Long Range" width="3000" height="2000"  >}}
 
@@ -96,34 +96,34 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
+Du kan vælge mellem forskellige typer sædematerialer og interiørstyling. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
-MG ZS EV Long Range har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+MG ZS EV Long Range har plads til fem passagerer med to forsæder og en trebænk bagtil.
 
-#### Første række sæder
+#### Forsæder
 
-MG ZS EV Long Range tilbyder kun én type forreste sæde.
+MG ZS EV Long Range tilbyder én type forsæde.
 
-Følgende funktioner er tilgængelige på **standard** sædet.
+Følgende funktioner er tilgængelige på **standard** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
+- Højdejusterbar nakkestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
 
-Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Gray [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
+- Black [stofbetræk](../../../../technology/seats/materials/#fabric)
+- Gray [stof/kunstlæder-betræk](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/frontseats_1_st.jpg" title="MG ZS EV Long Range" width="3000" height="1999"  >}}
 
-#### Sæde på anden række
+#### Anden række sæder
 
-Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Anden række har en standard tresæders bænk med 60:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/secondrowseats_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1706"  >}}
 
@@ -131,46 +131,46 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
-- **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
+- **1-zone klimaanlæg:** Understøtter kun styring af én fælles zone for hele bilen.
 
-En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, hvilket kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-MG ZS EV Long Range inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+MG ZS EV Long Range inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
-- **Trådløs opladning af telefon**
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
 Vigtige skærmdetaljer:
 
-- Skærmen  bag rattet monteret i instrumentbrættet er 7,0 tommer stor
-- Skærmen touch øverst på midterkonsollen er 10,2 tommer stor
+- Den  skærm bag rattet monteret i instrumentbrættet er 7,0 tommer stor
+- Den touch skærm øverst i midterkonsollen er 10,2 tommer stor
 
-Modellen har ikke et head-up display.
+Modellen inkluderer ikke et head-up display.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/screens_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1015"  >}}
 
 ### Rat
 
-MG ZS EV Long Range er udstyret med en enkelt type rat:
+MG ZS EV Long Range er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
-Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+Denne model kommer med stemmestyring som standard, der giver dig mulighed for at styre forskellige funktioner gennem stemmekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -178,26 +178,26 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Med standard indbygget navigationssystem har du al den hjælp, du behøver for at nå din destination uden besvær.
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter MG ZS EV Long Range Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+MG ZS EV Long Range understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på MG ZS EV Long Range.
+Du kan vælge mellem to lydsystemer til MG ZS EV Long Range:
 
 - **MG standard system:** Har fire højttalere.
 - **MG luxury sound system:** Har seks højttalere.
 
-Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelser som standard.
+Derudover inkluderer modellen 2 USB-C tilslutninger som standard. Modellen har 2 USB-A tilslutninger som standard.
 
-## Lys
+## Lygter
 
-**Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+**Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/headlights_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1673"  >}}
 
@@ -205,44 +205,44 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den MG ZS EV Long Range inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+MG ZS EV Long Range har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
 ### Sikkerhedssystemer
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på MG ZS EV Long Range, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på MG ZS EV Long Range, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på MG ZS EV Long Range, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på MG ZS EV Long Range, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på MG ZS EV Long Range, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på MG ZS EV Long Range, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfrit på MG ZS EV Long Range, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Ekstraudstyr på MG ZS EV Long Range, dette system hjælper med at opdage trafik i blinde vinkler.
 
 ### Køreautomatisering
 
-Med standard  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med det standard  niveau 2-system får du følgende køreautomatiseringsfunktioner.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
 
 ## Sikkerheds- og adgangsteknologier
 
-MG ZS EV Long Range er udstyret med essentielle sikkerhedsfunktioner for at beskytte dig og dit køretøj og tilbyder enkelhed og pålidelighed. Disse inkluderer:
+MG ZS EV Long Range er udstyret med grundlæggende sikkerhedsfunktioner for at beskytte dig og dit køretøj, og tilbyder enkelhed og pålidelighed. Disse omfatter:
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 448 liter. Med det bageste sæde foldet ned, udvides dette til 1166 liter. På taget kan du laste op til 75 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 150 liter.
+Bagagerummet har en lastkapacitet på 448 liter (15,8 CU FT). Med bagsædet lagt ned udvides dette til 1166 liter (41,2 CU FT). På taget kan du laste op til 75 kg (165,3 lbs). Derudover er der et frunk (front-bagagerum) med en opbevaringskapacitet på 150 liter (5,3 CU FT).
 
-Køretøjets maksimale vægt er 2070 kg, med en basisvægt på 1620 kg. Dette giver en maksimal last på 450 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 450 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
+Køretøjets maksimale vægt er 2070 kg (4564 lbs), med en egenvægt på 1620 kg (3571 lbs). Dette giver en maksimal last på 450 kg (992 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne. 450kg anses for at være lavt for denne type bil og kan begrænse hvor meget du kan medbringe ud over passagerer.
 
-En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 500 kg, mens den for en ubremset trailer er 500 kg.
+Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for en bremset trailer er 500 kg (1102 lbs), mens det for en ubremset trailer er 500 kg (1102 lbs).
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/trunk_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1707"  >}}
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
-Denne model havde verdenspremiere den 07.10.2021, og leveringerne startede i January 2022.
-{{< pagenavigation b_url="../" b_title="MG ZS" f_url="rangeandconsumption/" f_title="Range" >}}
+MG ZS EV Long Range havde sin verdenspremiere den 07.10.2021, og leveringerne startede i January 2022.
+{{< pagenavigation b_url="../" b_title="MG ZS" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

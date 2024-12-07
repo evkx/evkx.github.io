@@ -1,5 +1,5 @@
 ---
-title: VinFast EV-modeller
+title: VinFast EV modeller
 linktitle: "VinFast"
 description: "VinFast is a Vietnamese car company that is part of Vingroup, one of the largest private corporations in Vietnam. VinFast was founded in 2017 and is the first Vietnamese car brand to expand into global markets."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-VinFast VF8 er en SUV tilgængelig i 2 varianter.
+VinFast VF8 er en SUV, der fås i 2 varianter.
 </p>
 	<a href="vf8/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

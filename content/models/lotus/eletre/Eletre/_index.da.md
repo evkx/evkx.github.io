@@ -1,7 +1,7 @@
 ---
 title: Lotus Eletre
 linktitle: "Eletre"
-description: "Lotus Eletre er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 600 km (373 miles). EVKX.net har alle detaljerne."
+description: "Lotus Eletre er en elektrisk luksus SUV med en WLTP rækkevidde på op til 600 km (373 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,89 +11,89 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/main_1_st.jpg" title="Lotus Eletre" width="3000" height="1687"  >}}
 
-Vi har opdelt vores Lotus Eletre artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-Lotus Eletre imponerer med en maksimal effekt på 450 kW (612 hk) og et imponerende samlet drejningsmoment på 710 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,5 sekunder og har en topfart på 258 km/h, hvilket gør den til en standout i sin klasse.
+Lotus Eletre har en imponerende styrke med en maksimal effekt på 450 kW (612 hk / 604 bhp) og et kommanderende samlet drejningsmoment på 710 Nm (524 lb-ft). Denne højtydende maskine kan sprinte fra 0 til 100 km/t (0 til 62 mph) på kun 4,5 sekunder, og den når en tophastighed på 258 km/t (160 mph), hvilket gør den til en frontløber i sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 112,0 kWh og en nettoanvendelig kapacitet på 109,0 kWh, hvilket giver en buffer på 3,0 kWh (3%) til batteribeskyttelse.
+Det højkapacitets batteri har en brutto kapacitet på 112,0 kWh og en netto kapacitet på 109,0 kWh, hvilket giver en 3,0 kWh buffer (2,7%) til batteribeskyttelse.
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 600 og 535 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 18,2 kWh/100 km for basismodellen og 20,4 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierer køretøjets rækkevidde mellem 600 og 535 km (373-333 miles), afhængigt af den specifikke konfiguration og tilvalg som f.eks. hjulstørrelse. Større hjul kan øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 18,2 kWh/100 km for basismodellen og 20,4 kWh/100 km for topmodellen under WLTP testcyklussen. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 51 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 20 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 68%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 189kW. Hver opladningssession ville tage 23 minutter og 8 sekunder. Denne usædvanligt hurtige opladningskapacitet gør Lotus Eletre til en af de mest effektive og bekvemme elbiler til langdistancerejser.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 350 kW. Opladning fra 0% til 100% tager cirka 51 minutter, mens et mere typisk scenario fra 10% til 80% tager 20 minutter med en gennemsnitlig ladehastighed på 225 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 1% til 68%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 189 kW, hvor hver opladningssession tager cirka 23 minutter og 8 sekunder. Denne exceptionelt hurtige opladningskapacitet gør Lotus Eletre til en af de mest effektive og bekvemme elbiler til langdistancekørsel.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 29 kWh/100 km, ville turen tage cirka 9 timer og 19 minutter. Denne rejse ville kræve to opladningsstop fra 3% til 59%, med en samlet opladningstid på 59 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 29 kWh/100 km, ville turen tage cirka 9 timer og 19 minutter, med tre opladningsstop fra 3% til 59%, i alt 59 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 22 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 4 timer og 57 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 22 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 4 timer og 57 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 
-Placeringen af ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at lade stationer, hvor du parkerer siden ind i ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Ladeporten er placeret på [venstre frontside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at bruge ladestationer, hvor du parkerer siden ind mod laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-Lotus Eletre har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Lotus Eletre har et firehjulstræksystem drevet af to motorer, én på hver aksel. Motorerne er [Permanent Magnet Synkron Motorer](../../../../technology/motors/pmsm/).
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 162 mm, og maksimum er 212 mm.
+For- og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske støddæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Den minimale frihøjde er 162 mm, og den maksimale er 212 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funktion på Lotus Eletre. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en standard-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
+Dynamisk styring er standard på Lotus Eletre, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort. Derudover er baghjulsstyring tilgængelig som standard funktion. Baghjulsstyring reducerer vendediameteren ved langsom kørsel.
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 412mm, og de bagerste skiver er 397mm.
+Lotus Eletre er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag. De forreste skiver måler 412 mm, mens de bageste skiver er 397 mm.
 
 ### Regenerativ bremsning
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Det betragtes dog ikke som fuld en-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle, indtil det stopper af sig selv.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog er [regenerativ bremsning](../../../../technology/regen/) muliggjort gennem [**én-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Det betragtes dog ikke som fuld én-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle indtil det stopper af sig selv.
 
-Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
+Derudover kan du justere styrken af den regenerative bremsning når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, så du kan tilpasse køreoplevelsen efter dine præferencer.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den Lotus Eletre, med dimensioner på 5105 mm i længde,  mm i bredde og 1630 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Lotus Eletre fås i alt 2 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
+Lotus Eletre, med dimensioner på 5105 mm i længde,  mm i bredde og 1630 mm i højde, tilhører store SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til specifikke bilister med særlige behov. Lotus Eletre fås i alt i 2 lakfarver, inklusive flere iøjnefaldende metalliske muligheder.
 
-Du kan vælge mellem flere hjul i forskellige størrelser på Lotus Eletre, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Lotus Eletre tilbyder flere hjulmuligheder i forskellige størrelser, så du kan tilpasse din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 255/50 dæk på 20" fælge foran og 285/45 dæk på 20" fælge bagpå
-- 275/40 dæk på 22" fælge foran og 315/35 dæk på 22" fælge bagpå
+- 255/50 dæk på 20" fælge foran og 285/45 dæk på 20" fælge bag
+- 275/40 dæk på 22" fælge foran og 315/35 dæk på 22" fælge bag
 
-Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+Smallere hjul forbedrer forbruget og giver længere rækkevidde, mens bredere hjul giver bedre vejgreb og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-agtig bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 
-Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas gør, at bilens interiør føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset i flere niveauer for at beskytte mod solen.
+Der er to forskellige tagmuligheder at vælge imellem. Standardtaget er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med stort panoramatag, der strækker sig over det meste af området fra for til bag. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Glasset har en elektrokromisk funktion, der lader dig blænde glasset i flere niveauer for at beskytte mod solen.
 
-Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
+Derudover kan du bestille bilen med tonede ruder fra B-søjlen og bagud, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/exterior_1_st.jpg" title="Lotus Eletre" width="3000" height="1687"  >}}
 
@@ -107,38 +107,38 @@ Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
 
-Lotus Eletre har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+Lotus Eletre har plads til fem passagerer med to forsæder og en trebænk bagtil.
 
-#### Første række sæder
+#### Forsæder
 
-Lotus Eletre tilbyder kun én type forreste sæde.
+Lotus Eletre tilbyder én type forsæde.
 
-Følgende funktioner er tilgængelige på **standard** sædet.
+Følgende funktioner er tilgængelige på **standard** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
+- [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valgfri)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (ekstraudstyr)
 
-Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Red/Black [polstring af mikrofiber/nappalæder](../../../../technology/seats/materials/#nappalæder)
-- Antracite/Gray [polstring af mikrofiber/nappalæder](../../../../technology/seats/materials/#nappalæder)
-- Gray/Yellow [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Antracite/Gray [polstring af mikrofiber/nappalæder](../../../../technology/seats/materials/#nappalæder)
-- Red/Black [polstring af mikrofiber/nappalæder](../../../../technology/seats/materials/#nappalæder)
+- Red/Black [mikrofiber/nappa-læderbetræk](../../../../technology/seats/materials/#nappaleather)
+- Antracite/Gray [mikrofiber/nappa-læderbetræk](../../../../technology/seats/materials/#nappaleather)
+- Gray/Yellow [kunstlæderbetræk](../../../../technology/seats/materials/#leatherette)
+- Antracite/Gray [mikrofiber/nappa-læderbetræk](../../../../technology/seats/materials/#nappaleather)
+- Red/Black [mikrofiber/nappa-læderbetræk](../../../../technology/seats/materials/#nappaleather)
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/frontseats_1_st.jpg" title="Lotus Eletre" width="3000" height="1783"  >}}
 
-#### Sæde på anden række
+#### Anden række sæder
 
-Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Anden række har en standard tresæders bænk med 40:20:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/secondrowseats_1_st.jpg" title="Lotus Eletre" width="3000" height="1856"  >}}
 
@@ -146,46 +146,46 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
-En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, hvilket kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Lotus Eletre inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+Lotus Eletre inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
-- **Trådløs opladning af telefon**
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
 Vigtige skærmdetaljer:
 
-- Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor
-- Skærmen touch i dashboardets midte er 15,1 tommer stor
+- Den  skærm bag rattet integreret i instrumentbrættet er 12,3 tommer stor
+- Den touch skærm på midten af instrumentbrættet er 15,1 tommer stor
 
-Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+Et head-up display er et standard system, der projicerer hastighed og anden vigtig førerinformation på forruden.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/screens_1_st.jpg" title="Lotus Eletre" width="3000" height="1919"  >}}
 
 ### Rat
 
-Lotus Eletre er udstyret med en enkelt type rat:
+Lotus Eletre er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-For de udvendige spejle kan du vælge mellem kamera-baserede spejle med indvendige skærme eller traditionelle spejle. Det indvendige spejl er et standard spejl.
+For sidespejlene kan du vælge mellem kamerabaserede spejle med indvendige skærme eller traditionelle spejle. Bakspejlet er et standardspejl.
 
-Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+Denne model kommer med stemmestyring som standard, der giver dig mulighed for at styre forskellige funktioner gennem stemmekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -193,26 +193,26 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Med standard indbygget navigationssystem har du al den hjælp, du behøver for at nå din destination uden besvær.
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter Lotus Eletre Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+Lotus Eletre understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Lotus Eletre.
+Du kan vælge mellem to lydsystemer til Lotus Eletre:
 
-- Med KEF Premium Audio system får du 15 højttalere med en maksimal systemeffekt på 1380 watt.
-- Med KEF Reference Audio system får du 23 højttalere med en maksimal systemeffekt på 2160 watt.
+- **KEF Premium Audio system:** Har 15 højttalere og leverer en maksimal effekt på 1380 watt.
+- **KEF Reference Audio system:** Har 23 højttalere og leverer en maksimal effekt på 2160 watt.
 
-Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+Derudover inkluderer modellen 3 USB-C tilslutninger som standard. Modellen har 1 USB-A tilslutninger som standard.
 
-## Lys
+## Lygter
 
-De standard forlygter bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt for at dæmpe små områder foran.
+Lotus Eletre er udstyret med avancerede LED Matrix-forlygter. Dette adaptive system opdeler den traditionelle enkeltstråle i flere mindre stråler, så lyskontrolenheden selektivt kan tænde og slukke dem for at undgå at blænde andre bilister. For øget sikkerhed inkluderer forlygterne også kurvelys, der oplyser siden ved drejning.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/headlights_1_st.jpg" title="Lotus Eletre" width="3000" height="2000"  >}}
 
@@ -220,65 +220,65 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den Lotus Eletre inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+Lotus Eletre har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Lotus Eletre, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Lotus Eletre, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Lotus Eletre, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Lotus Eletre, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Lotus Eletre, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Lotus Eletre, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Lotus Eletre, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+[**Front Tværgående Trafik Assistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Lotus Eletre, dette førerassistentsystem hjælper førere med at registrere modkørende trafik ved krydsning af et vejkryds eller når der drejes til venstre eller højre fra stillestående position.
 
-[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Lotus Eletre, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
+[**Advarsel om Krydsende Trafik Bag (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Lotus Eletre, dette system bruger sensorer til at opdage køretøjer, der nærmer sig fra siden, når man bakker ud af en parkeringsplads eller indkørsel.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Lotus Eletre, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Lotus Eletre, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Lotus Eletre, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Lotus Eletre, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Lotus Eletre, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
+[**Automatisk Nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Lotus Eletre, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Lotus Eletre, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Lotus Eletre, dette system hjælper med at opdage trafik i blinde vinkler.
 
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard på Lotus Eletre, dette system advarer passagererne mod at åbne dørene, hvis der er risiko for at ramme noget.
+[**Udstigningsadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Lotus Eletre, dette system advarer passagererne mod at åbne døre, hvis der er risiko for at ramme noget.
 
 ### Køreautomatisering
 
-Med standard  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med det standard  niveau 2-system får du følgende køreautomatiseringsfunktioner.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
-- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer
 
-Denne model bruger kameraer, LiDAR og ultralydssensorer til sine førerassistentsystemer.
-Op til fire [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+Denne model bruger kameraer, LiDAR og ultrasoniske sensorer til sine førerassistentsystemer.
+Op til fire [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 ## Sikkerheds- og adgangsteknologier
 
-Lotus Eletre er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+Lotus Eletre er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
+- **Nøglefri adgang og start:** Bilens nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse op og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 688 liter. Med det bageste sæde foldet ned, udvides dette til 1532 liter. På taget kan du laste op til 75 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 46 liter.
+Bagagerummet har en lastkapacitet på 688 liter (24,3 CU FT). Med bagsædet lagt ned udvides dette til 1532 liter (54,1 CU FT). På taget kan du laste op til 75 kg (165,3 lbs). Derudover er der et frunk (front-bagagerum) med en opbevaringskapacitet på 46 liter (1,6 CU FT).
 
-Køretøjets maksimale vægt er 3100 kg, med en basisvægt på 2640 kg. Dette giver en maksimal last på 460 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 460 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
+Køretøjets maksimale vægt er 3100 kg (6834 lbs), med en egenvægt på 2640 kg (5820 lbs). Dette giver en maksimal last på 460 kg (1014 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne. 460kg anses for at være lavt for denne type bil og kan begrænse hvor meget du kan medbringe ud over passagerer.
 
-En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 2250 kg, mens den for en ubremset trailer er 750 kg.
+Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for en bremset trailer er 2250 kg (4960 lbs), mens det for en ubremset trailer er 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/trunk_1_st.jpg" title="Lotus Eletre" width="3000" height="1687"  >}}
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
-Denne model havde verdenspremiere den 29.01.2021, og leveringerne startede i March 2023.
-{{< pagenavigation b_url="../" b_title="Lotus Eletre" f_url="rangeandconsumption/" f_title="Range" >}}
+Lotus Eletre havde sin verdenspremiere den 29.01.2021, og leveringerne startede i March 2023.
+{{< pagenavigation b_url="../" b_title="Lotus Eletre" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

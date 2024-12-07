@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID. Buzz GTX LWB
 linktitle: "ID. Buzz GTX LWB"
-description: "Volkswagen ID. Buzz GTX LWB er en fuldelektrisk MPV med en WLTP rækkevidde på op til 450 km (280 miles). EVKX.net har alle detaljerne."
+description: "Volkswagen ID. Buzz GTX LWB er en elektrisk MPV med en WLTP rækkevidde på op til 450 km (280 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,86 +11,86 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/main_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="1999"  >}}
 
-Vi har opdelt vores Volkswagen ID. Buzz GTX LWB artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-Volkswagen ID. Buzz GTX LWB leverer en solid præstation med en maksimal effekt på 250 kW (340 hk) og et totalt drejningsmoment på 560 Nm. Den kan accelerere fra 0 til 100 km/t på 6,5 sekunder og når en topfart på 160 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+Volkswagen ID. Buzz GTX LWB leverer en solid præstation med en maksimal effekt på 250 kW (340 hk / 335 bhp) og et samlet drejningsmoment på 560 Nm (413 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 6,5 sekunder og når en tophastighed på 160 km/t (99 mph), hvilket gør den konkurrencedygtig inden for sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 91,0 kWh og en nettoanvendelig kapacitet på 86,0 kWh, hvilket giver en buffer på 5,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 350 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitets batteri har en brutto kapacitet på 91,0 kWh og en netto kapacitet på 86,0 kWh, hvilket giver en 5,0 kWh buffer (5,5%) til batteribeskyttelse. Med en nominel spænding på 350 volt klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 450 km, med et energiforbrugsrate på 19,1 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er køretøjets rækkevidde 450 km (280 miles), med et energiforbrug på 19,1 kWh/100 km (3 mi/kWh). For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 200kW. En fuld opladning fra 0 - 100 % ville tage 57 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 33 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 42%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 112kW. Hver opladningssession ville tage 19 minutter og 24 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 200 kW. Opladning fra 0% til 100% tager cirka 57 minutter, mens et mere typisk scenario fra 10% til 80% tager 33 minutter med en gennemsnitlig ladehastighed på 109 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 0% til 42%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 112 kW, hvor hver opladningssession tager cirka 19 minutter og 24 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 28 kWh/100 km, ville turen tage cirka 10 timer og 5 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 38%, med en samlet opladningstid på 106 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 28 kWh/100 km, ville turen tage cirka 10 timer og 5 minutter, med seks opladningsstop fra 0% til 38%, i alt 106 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 7 timer og 49 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 7 timer og 49 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 
-Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Ladeporten er placeret på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke ind til laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-Volkswagen ID. Buzz GTX LWB har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
+Volkswagen ID. Buzz GTX LWB har et firehjulstræksystem drevet af to motorer, én på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/) på bagakslen.
 
-### Hjulophæng
+### Affjedring
 
 ### Styring
 
-Dynamisk styring er en valgfri-funktion på Volkswagen ID. Buzz GTX LWB. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+Dynamisk styring er valgfrit på Volkswagen ID. Buzz GTX LWB, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort.
 
 ### Bremser
 
-Volkswagen ID. Buzz GTX LWB bruger [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremseevne og varmeafledning, mens [tromlebremser](../../../../technology/brakes/#tromle-brakes) anvendes bagtil for omkostningseffektivitet og holdbarhed. Tromlebremser yder tilstrækkelig ydeevne for baghjulene, kræver mindre vedligeholdelse og integreres problemfrit med køretøjets regenererende bremsesystem. Denne kombination sikrer optimal bremseydelse og omkostningseffektivitet, i tråd med EV'ens overordnede effektivitetsmål. De forreste skiver er 358mm.
+Volkswagen ID. Buzz GTX LWB bruger [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremseevne og varmeafledning, mens der bruges [tromlebremser](../../../../technology/brakes/#drum-brakes) bagpå for omkostningseffektivitet og holdbarhed. Tromlebremser giver tilstrækkelig ydelse for baghjulene, kræver mindre vedligeholdelse og integreres problemfrit med køretøjets regenerative bremsesystem. Denne kombination sikrer optimal bremseydelse og omkostningseffektivitet, i tråd med de overordnede effektivitetsmål for elbilen. De forreste skiver er 358 mm.
 
 ### Regenerativ bremsning
 
-Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**.
+[Regenerativ bremsning](../../../../technology/regen/) i denne model tilbyder flere tilstande for at forbedre effektivitet og køreoplevelse. Den mest effektive mulighed er [**Automatisk regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet ruller når det er muligt og bruger regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind når det er nødvendigt. <br /><br/>  En anden mulighed er [**Regenerering på speederpedalen**](../../../../technology/regen/#one-pedal-driving) tilstanden hvor regenerativ bremsning aktiveres når føreren letter foden fra speederen. Dette system gør det muligt for køretøjet at sænke farten og genvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **én-pedal kørsel**.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Volkswagen ID. Buzz GTX LWB fås i alt 12 lakfarver, herunder solide, metalliske og perlemorsmuligheder.
+Volkswagen ID. Buzz GTX LWB fås i alt i 12 lakfarver, inklusive almindelige, metalliske og perlemor muligheder.
 
-Du kan vælge mellem flere hjul i forskellige størrelser på Volkswagen ID. Buzz GTX LWB, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Volkswagen ID. Buzz GTX LWB tilbyder flere hjulmuligheder i forskellige størrelser, så du kan tilpasse din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 235/55 dæk på 19" fælge foran og 255/50 dæk på 19" fælge bagpå
-- 235/50 dæk på 20" fælge foran og 265/45 dæk på 20" fælge bagpå
-- 235/45 dæk på 21" fælge foran og 255/40 dæk på 21" fælge bagpå
+- 235/55 dæk på 19" fælge foran og 255/50 dæk på 19" fælge bag
+- 235/50 dæk på 20" fælge foran og 265/45 dæk på 20" fælge bag
+- 235/45 dæk på 21" fælge foran og 255/40 dæk på 21" fælge bag
 
-Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+Smallere hjul forbedrer forbruget og giver længere rækkevidde, mens bredere hjul giver bedre vejgreb og håndtering.
 
-Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene. Du kan vælge en mulighed for at få bagklappen elektrisk drevet. Du kan også have bagklappen med en sparkesensor, der gør det muligt at åbne den ved blot at sparke foden under bagklappen.
+Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) i anden række og en bagklap. Eldrevne døre er en standard funktion for sidedørene. Du kan vælge at få bagklappen elektrisk betjent som ekstraudstyr. Du kan også få bagklappen med fodsensor, der gør det muligt at åbne den ved blot at sparke foden under bagklappen.
 
-Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
+Der er kun én tagmulighed for denne model. Standardtaget er bare et almindeligt tag.
 
-Ruderne fra B-stolpen og bagsiden er tonede.
+Ruderne fra B-søjlen og bagud er tonede, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/exterior_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="1999"  >}}
 
@@ -102,108 +102,108 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ### Sæder
 
-Volkswagen ID. Buzz GTX LWB fås i en seks- eller syvsæders layout for øget alsidighed.
+Volkswagen ID. Buzz GTX LWB fås i en seks- eller syvsæders opsætning for øget alsidighed.
 
-#### Første række sæder
+#### Forsæder
 
-For første række tilbyder Volkswagen ID. Buzz GTX LWB to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
+Forreste række tilbyder to sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
-Følgende funktioner er tilgængelige på **standard** sædet.
+Følgende funktioner er tilgængelige på **standard** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
-- højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
+- Højdejusterbar nakkestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
 
-Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
-- White [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
-- Green [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Yellow [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Orange [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Blue [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofbetræk](../../../../technology/seats/materials/#fabric)
+- White [mikrofiber/kunstlæderbetræk](../../../../technology/seats/materials/#microfiber)
+- Green [stofbetræk](../../../../technology/seats/materials/#fabric)
+- Yellow [stofbetræk](../../../../technology/seats/materials/#fabric)
+- Orange [stofbetræk](../../../../technology/seats/materials/#fabric)
+- Blue [stofbetræk](../../../../technology/seats/materials/#fabric)
 
-Følgende funktioner er tilgængelige på **comfort** sædet.
+Følgende funktioner er tilgængelige på **comfort** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
-Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- White [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
-- Green [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Yellow [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Orange [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Blue [stofpolstring](../../../../technology/seats/materials/#fabric)
+- White [mikrofiber/kunstlæderbetræk](../../../../technology/seats/materials/#microfiber)
+- Green [stofbetræk](../../../../technology/seats/materials/#fabric)
+- Yellow [stofbetræk](../../../../technology/seats/materials/#fabric)
+- Orange [stofbetræk](../../../../technology/seats/materials/#fabric)
+- Blue [stofbetræk](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2010"  >}}
 
-#### Sæder på anden række
+#### Anden række sæder
 
-Du kan vælge to sædetyper til anden række i Volkswagen ID. Buzz GTX LWB.
+Du kan vælge mellem to sædetyper til anden række i Volkswagen ID. Buzz GTX LWB.
 
-Muligheden standard er en tre-sædet bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+standard muligheden er en tresæders bænk med 60:40 opdeling, hvor du kan folde hver sektion separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
-Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
+second muligheden er to kaptajnstole. Yderligere funktioner inkluderer:
 
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- [Varme](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}
 
-#### Sæder på tredje række
+#### Tredje række sæder
 
-Den tredje række har en to-sæders bænk med en 50:50-deling. Igen kan du folde sæderne ned, når de ikke bruges, for at skabe en større lastkapacitet.
+Tredje række har en tosæders bænk med en 50:50 opdeling. Du kan også folde sæderne ned, når de ikke bruges, for at skabe mere bagagerumsplads.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, hvilket kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Volkswagen ID. Buzz GTX LWB inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+Volkswagen ID. Buzz GTX LWB inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
-- **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
-- **Trådløs opladning af telefon**
+- **Easy Entry Funktion:** Flytter førersædet for at lette indstigning i bilen.
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-Volkswagen ID. Buzz GTX LWB har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+Volkswagen ID. Buzz GTX LWB har to skærme med information til fører og passagerer. Bag rattet er der et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen, og øverst på instrumentbrættet er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Vigtige skærmdetaljer:
 
-- Skærmen  på ratstammen er 5,3 tommer stor
-- Skærmen touch i dashboardets midte er 12,9 tommer stor
+- Den  skærm på ratstammen er 5,3 tommer stor
+- Den touch skærm på midten af instrumentbrættet er 12,9 tommer stor
 
-Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+Et head-up display er et valgfrit system, der projicerer hastighed og anden vigtig førerinformation på forruden.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/screens_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}
 
 ### Rat
 
-Volkswagen ID. Buzz GTX LWB er udstyret med en enkelt type rat:
+Volkswagen ID. Buzz GTX LWB er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -211,28 +211,28 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Med standard indbygget navigationssystem har du al den hjælp, du behøver for at nå din destination uden besvær.
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter Volkswagen ID. Buzz GTX LWB Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+Volkswagen ID. Buzz GTX LWB understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Volkswagen ID. Buzz GTX LWB.
+Volkswagen ID. Buzz GTX LWB kommer med ét lydsystem:
 
-- Med Volkswagen Soundsystem får du seks højttalere med en maksimal systemeffekt på 450 watt.
+- **Volkswagen Soundsystem:** Har seks højttalere og leverer en maksimal effekt på 450 watt.
 
-Modellen har 5 USB-C-forbindelser som standard.
+Derudover inkluderer modellen 5 USB-C tilslutninger som standard.
 
-## Lys
+## Lygter
 
 Du kan vælge mellem to typer forlygter til Volkswagen ID. Buzz GTX LWB.
 
-- **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
-- **LED Matrix forlygter:** Tilgængelige som en mulighed, dette adaptive system opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt, hvilket optimerer belysningen ved at dæmpe specifikke små områder foran.
+- **Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
+- **LED Matrix-forlygter:** Som ekstraudstyr fås dette adaptive system, der opdeler den traditionelle enkeltstråle i snesevis af mindre stråler, som lyskontrolenheden kan tænde og slukke individuelt og dermed optimere belysningen ved at slukke for specifikke små områder foran.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/headlights_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}
 
@@ -240,59 +240,59 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den Volkswagen ID. Buzz GTX LWB inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+Volkswagen ID. Buzz GTX LWB har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper føreren med at forudse kørselsforhold og spare energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper førere med at forudse køreforhold og spare energi.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Volkswagen ID. Buzz GTX LWB, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Volkswagen ID. Buzz GTX LWB, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Volkswagen ID. Buzz GTX LWB, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Volkswagen ID. Buzz GTX LWB, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Volkswagen ID. Buzz GTX LWB, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Volkswagen ID. Buzz GTX LWB, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Volkswagen ID. Buzz GTX LWB, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+[**Front Tværgående Trafik Assistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Volkswagen ID. Buzz GTX LWB, dette førerassistentsystem hjælper førere med at registrere modkørende trafik ved krydsning af et vejkryds eller når der drejes til venstre eller højre fra stillestående position.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Volkswagen ID. Buzz GTX LWB, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Volkswagen ID. Buzz GTX LWB, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Volkswagen ID. Buzz GTX LWB, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Volkswagen ID. Buzz GTX LWB, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Volkswagen ID. Buzz GTX LWB, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
+[**Automatisk Nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Volkswagen ID. Buzz GTX LWB, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfrit på Volkswagen ID. Buzz GTX LWB, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Ekstraudstyr på Volkswagen ID. Buzz GTX LWB, dette system hjælper med at opdage trafik i blinde vinkler.
 
 ### Køreautomatisering
 
 Volkswagen ID. Buzz GTX LWB tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med  niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (ekstraudstyr)
 
-Med det valgfrie Assistantpackage plus niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
+Med det valgfrie Assistantpackage plus niveau 2-system får du yderligere køreautomatiseringsfunktioner ud over dem, der er nævnt ovenfor:
 
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
 
 ## Sikkerheds- og adgangsteknologier
 
-Volkswagen ID. Buzz GTX LWB er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+Volkswagen ID. Buzz GTX LWB er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
+- **Nøglefri adgang og start:** Bilens nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse op og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 306 liter. Med det bageste sæde foldet ned, udvides dette til 2469 liter. På taget kan du laste op til 100 kg.
+Bagagerummet har en lastkapacitet på 306 liter (10,8 CU FT). Med bagsædet lagt ned udvides dette til 2469 liter (87,2 CU FT). På taget kan du laste op til 100 kg (220,5 lbs).
 
-Køretøjets maksimale vægt er 3000 kg, med en basisvægt på 2625 kg. Dette giver en maksimal last på 375 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 3000 kg (6614 lbs), med en egenvægt på 2625 kg (5787 lbs). Dette giver en maksimal last på 375 kg (827 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
-En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1000 kg, mens den for en ubremset trailer er 750 kg.
+Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for en bremset trailer er 1000 kg (2205 lbs), mens det for en ubremset trailer er 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/trunk_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="1999"  >}}
 
-{{< pagenavigation b_url="../" b_title="Volkswagen ID. Buzz" f_url="rangeandconsumption/" f_title="Range" >}}
+{{< pagenavigation b_url="../" b_title="Volkswagen ID. Buzz" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

@@ -1,5 +1,5 @@
 ---
-title: Skoda EV-modeller
+title: Skoda EV modeller
 linktitle: "Skoda"
 description: "Škoda Auto, en tjekkisk bilproducent grundlagt i 1895, er kendt for sine pålidelige og overkommelige køretøjer. Nu et datterselskab af Volkswagen Group, kombinerer Škoda praktisk ingeniørarbejde med innovativt design."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-SKODA Elroq er en Coupe SUV tilgængelig i 4 varianter.
+SKODA Elroq er en coupé SUV, der fås i 4 varianter.
 </p>
 	<a href="elroq/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ SKODA Elroq er en Coupe SUV tilgængelig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-SKODA Enyaq iV er en SUV/Coupe SUV tilgængelig i 12 varianter.
+SKODA Enyaq iV er en SUV/coupé SUV, der fås i 12 varianter.
 </p>
 	<a href="enyaq_iv/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

@@ -16,8 +16,8 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_awd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
-				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_awd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_awd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Opladningskurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_awd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rækkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_awd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_awd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
 				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_awd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
 				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_awd/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
@@ -35,8 +35,8 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_rwd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
-				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_rwd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_rwd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Opladningskurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_rwd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rækkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_rwd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_rwd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
 				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_rwd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
 				<li class="list-group-item list-group-item-action"><a href="zdx_a-spec_rwd/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
@@ -54,8 +54,8 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="zdx_type_s/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
-				<li class="list-group-item list-group-item-action"><a href="zdx_type_s/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="zdx_type_s/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Opladningskurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="zdx_type_s/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rækkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="zdx_type_s/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="zdx_type_s/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
 				<li class="list-group-item list-group-item-action"><a href="zdx_type_s/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
 				<li class="list-group-item list-group-item-action"><a href="zdx_type_s/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>

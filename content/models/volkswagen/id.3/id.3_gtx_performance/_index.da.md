@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.3 GTX Performance
 linktitle: "ID.3 GTX Performance"
-description: "Volkswagen ID.3 GTX Performance er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 601 km (374 miles). EVKX.net har alle detaljerne."
+description: "Volkswagen ID.3 GTX Performance er en elektrisk hatchback med en WLTP rækkevidde på op til 601 km (374 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,87 +11,87 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/main_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
-Vi har opdelt vores Volkswagen ID.3 GTX Performance artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-Volkswagen ID.3 GTX Performance leverer en solid præstation med en maksimal effekt på 240 kW (326 hk) og et totalt drejningsmoment på 545 Nm. Den kan accelerere fra 0 til 100 km/t på 5,7 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+Volkswagen ID.3 GTX Performance leverer en solid præstation med en maksimal effekt på 240 kW (326 hk / 322 bhp) og et samlet drejningsmoment på 545 Nm (402 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 5,7 sekunder og når en tophastighed på 200 km/t (124 mph), hvilket gør den konkurrencedygtig inden for sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 82,0 kWh og en nettoanvendelig kapacitet på 79,0 kWh, hvilket giver en buffer på 3,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 352 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitets batteri har en brutto kapacitet på 82,0 kWh og en netto kapacitet på 79,0 kWh, hvilket giver en 3,0 kWh buffer (3,7%) til batteribeskyttelse. Med en nominel spænding på 352 volt klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 601 km, med et energiforbrugsrate på 13,1 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er køretøjets rækkevidde 601 km (374 miles), med et energiforbrug på 13,1 kWh/100 km (3 mi/kWh). For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 185kW. En fuld opladning fra 0 - 100 % ville tage 52 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 27 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 54%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 122kW. Hver opladningssession ville tage 20 minutter og 10 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 185 kW. Opladning fra 0% til 100% tager cirka 52 minutter, mens et mere typisk scenario fra 10% til 80% tager 27 minutter med en gennemsnitlig ladehastighed på 122 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 2% til 54%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 122 kW, hvor hver opladningssession tager cirka 20 minutter og 10 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 21 kWh/100 km, ville turen tage cirka 9 timer og 26 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 57%, med en samlet opladningstid på 66 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 21 kWh/100 km, ville turen tage cirka 9 timer og 26 minutter, med tre opladningsstop fra 1% til 57%, i alt 66 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 7 timer og 10 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 7 timer og 10 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 
-Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Ladeporten er placeret på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke ind til laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-Volkswagen ID.3 GTX Performance har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [induktionsmotorer](../../../../technology/motors/asm/).
+Volkswagen ID.3 GTX Performance har et baghjulstræksystem understøttet af én motor på bagakslen. Den anvendte motor er en [induktionsmotor](../../../../technology/motors/asm/).
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. Sport Suspension with DCC affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 149 mm.
+Forhjulsophænget er [MacPherson fjederben](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere. Sport Suspension with DCC affjedringen har stålsfjedre med fast højde, men du kan justere dæmpningen til at passe til din kørestil eller vejforhold. Frihøjden med denne affjedring er 149 mm.
 
 ### Styring
 
-Dynamisk styring er en valgfri-funktion på Volkswagen ID.3 GTX Performance. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+Dynamisk styring er valgfrit på Volkswagen ID.3 GTX Performance, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort.
 
 ### Bremser
 
-Volkswagen ID.3 GTX Performance bruger [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremseevne og varmeafledning, mens [tromlebremser](../../../../technology/brakes/#tromle-brakes) anvendes bagtil for omkostningseffektivitet og holdbarhed. Tromlebremser yder tilstrækkelig ydeevne for baghjulene, kræver mindre vedligeholdelse og integreres problemfrit med køretøjets regenererende bremsesystem. Denne kombination sikrer optimal bremseydelse og omkostningseffektivitet, i tråd med EV'ens overordnede effektivitetsmål. De forreste skiver er 358mm.
+Volkswagen ID.3 GTX Performance bruger [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremseevne og varmeafledning, mens der bruges [tromlebremser](../../../../technology/brakes/#drum-brakes) bagpå for omkostningseffektivitet og holdbarhed. Tromlebremser giver tilstrækkelig ydelse for baghjulene, kræver mindre vedligeholdelse og integreres problemfrit med køretøjets regenerative bremsesystem. Denne kombination sikrer optimal bremseydelse og omkostningseffektivitet, i tråd med de overordnede effektivitetsmål for elbilen. De forreste skiver er 358 mm.
 
 ### Regenerativ bremsning
 
-Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**.
+[Regenerativ bremsning](../../../../technology/regen/) i denne model tilbyder flere tilstande for at forbedre effektivitet og køreoplevelse. Den mest effektive mulighed er [**Automatisk regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet ruller når det er muligt og bruger regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind når det er nødvendigt. <br /><br/>  En anden mulighed er [**Regenerering på speederpedalen**](../../../../technology/regen/#one-pedal-driving) tilstanden hvor regenerativ bremsning aktiveres når føreren letter foden fra speederen. Dette system gør det muligt for køretøjet at sænke farten og genvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **én-pedal kørsel**.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den Volkswagen ID.3 GTX Performance, med dimensioner på 4264 mm i længde, 1809 mm i bredde og 1564 mm i højde, tilhører C-segmentet af biler, også kendt som kompakte biler. Disse biler opnår en balance mellem størrelse, ydelse og overkommelighed, hvilket gør dem alsidige for en række førere. Volkswagen ID.3 GTX Performance fås i alt 5 lakfarver, herunder både solide og metalliske muligheder. Nogle af disse lakmuligheder inkluderer to-tone lak, hvor taget og den øverste del af karosseriet er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt look.
+Volkswagen ID.3 GTX Performance, med dimensioner på 4264 mm i længde, 1809 mm i bredde og 1564 mm i højde, tilhører C-segment biler, også kendt som kompaktbiler, der balancerer størrelse, ydeevne og pris, hvilket gør dem alsidige for mange forskellige bilister. Volkswagen ID.3 GTX Performance fås i alt i 5 lakfarver, inklusive både almindelige og metalliske muligheder. Nogle af disse lakvalg inkluderer totonede farver, hvor taget og den øverste del af karosseriet er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt udseende.
 
-Du kan vælge mellem flere hjul i forskellige størrelser på Volkswagen ID.3 GTX Performance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Volkswagen ID.3 GTX Performance tilbyder flere hjulmuligheder i forskellige størrelser, så du kan tilpasse din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 215/45 dæk on 20" fælge
-- 235/40 dæk on 20" fælge
+- 215/45 dæk på 20" fælge
+- 235/40 dæk på 20" fælge
 
-Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+Smallere hjul forbedrer forbruget og giver længere rækkevidde, mens bredere hjul giver bedre vejgreb og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Du kan vælge en mulighed for at få bagklappen elektrisk drevet. Du kan også have bagklappen med en sparkesensor, der gør det muligt at åbne den ved blot at sparke foden under bagklappen.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate). Du kan vælge at få bagklappen elektrisk betjent som ekstraudstyr. Du kan også få bagklappen med fodsensor, der gør det muligt at åbne den ved blot at sparke foden under bagklappen.
 
-Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
+Der er to forskellige tagmuligheder at vælge imellem. Standardtaget er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med stort panoramatag, der strækker sig over det meste af området fra for til bag. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Det har et elektrisk gardin, som passagererne kan bruge til beskyttelse mod solen.
 
-Ruderne fra B-stolpen og bagsiden er tonede.
+Ruderne fra B-søjlen og bagud er tonede, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/exterior_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
@@ -101,55 +101,55 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Interiøret i Volkswagen ID.3 GTX Performance er funktionelt, med materialer af middel kvalitet brugt overalt. Det inkluderer en svævende midterkonsol, der skaber et åbent rum mellem passageren og føreren, hvilket giver praktiske opbevaringsmuligheder. Det overordnede design prioriterer praktisk anvendelse og brugervenlighed.
+Interiøret i Volkswagen ID.3 GTX Performance er funktionelt med materialer af mellem kvalitet overalt. Den har en svævende midterkonsol, der skaber et åbent rum mellem passager og fører, og giver praktiske opbevaringsmuligheder. Det overordnede design prioriterer praktisk anvendelighed og brugervenlighed.
 
 ### Sæder
 
-Volkswagen ID.3 GTX Performance har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+Volkswagen ID.3 GTX Performance har plads til fem passagerer med to forsæder og en trebænk bagtil.
 
-#### Første række sæder
+#### Forsæder
 
-For første række tilbyder Volkswagen ID.3 GTX Performance to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
+Forreste række tilbyder to sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
-Følgende funktioner er tilgængelige på **standard** sædet.
+Følgende funktioner er tilgængelige på **standard** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
-- højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
+- Højdejusterbar nakkestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passagersæde)
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofbetræk](../../../../technology/seats/materials/#fabric)
 
-Følgende funktioner er tilgængelige på **ergoActive** sædet.
+Følgende funktioner er tilgængelige på **ergoActive** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
+- [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- Højdejusterbar nakkestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passagersæde)
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Black [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
+- Black [mikrofiber/kunstlæderbetræk](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
-#### Sæde på anden række
+#### Anden række sæder
 
-Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Anden række har en standard tresæders bænk med 40:60 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
-- højdejusterbar nakkestøtte
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
+- Højdejusterbar nakkestøtte
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/secondrowseats_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
@@ -157,78 +157,78 @@ Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan
 
 ## Klimasystem
 
-To klimaanlægsmuligheder er tilgængelige:
+To klimasystem muligheder er tilgængelige:
 
-- **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
+- **1-zone klimaanlæg:** Understøtter kun styring af én fælles zone for hele bilen.
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
+Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydelig energi brugt til opvarmning i koldt vejr.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Volkswagen ID.3 GTX Performance inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+Volkswagen ID.3 GTX Performance inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
-- **Trådløs opladning af telefon**
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-Volkswagen ID.3 GTX Performance har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+Volkswagen ID.3 GTX Performance har to skærme med information til fører og passagerer. Bag rattet er der et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen, og øverst på instrumentbrættet er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Vigtige skærmdetaljer:
 
-- Skærmen  på ratstammen er 5,0 tommer stor
-- Skærmen touch i dashboardets midte er 12,9 tommer stor
+- Den  skærm på ratstammen er 5,0 tommer stor
+- Den touch skærm på midten af instrumentbrættet er 12,9 tommer stor
 
-Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+Et head-up display er et valgfrit system, der projicerer hastighed og anden vigtig førerinformation på forruden.
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/screens_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
 ### Rat
 
-Volkswagen ID.3 GTX Performance er udstyret med en enkelt type rat:
+Volkswagen ID.3 GTX Performance er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
-Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+Denne model kommer med stemmestyring som standard, der giver dig mulighed for at styre forskellige funktioner gennem stemmekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
-Volkswagen ID.3 GTX Performance har et avanceret infotainmentsystem bygget på Android Automotive OS, en platform fra Google specielt designet til bilens dashboards. For at forbedre dette robuste system har Volkswagen integreret deres egen suite af applikationer, der giver problemfri navigation, omfattende bilindstillinger og meget mere.
+Volkswagen ID.3 GTX Performance har et avanceret infotainmentsystem bygget på Android Automotive OS, en platform fra Google specifikt designet til bildisplays. For at forbedre dette robuste system har Volkswagen integreret deres egen suite af applikationer, der giver problemfri navigation, omfattende bilindstillinger og meget mere.
 
 ### Navigationssystem
 
-Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Med valgfrit indbygget navigationssystem har du al den hjælp, du behøver for at nå din destination uden besvær.
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter Volkswagen ID.3 GTX Performance Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+Volkswagen ID.3 GTX Performance understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Volkswagen ID.3 GTX Performance.
+Du kan vælge mellem to lydsystemer til Volkswagen ID.3 GTX Performance:
 
-- Med Sound system får du fem højttalere med en maksimal systemeffekt på 140 watt.
-- Med Harman Kardon sound system får du otte højttalere med en maksimal systemeffekt på 480 watt.
+- **Sound system:** Har fem højttalere og leverer en maksimal effekt på 140 watt.
+- **Harman Kardon sound system:** Har otte højttalere og leverer en maksimal effekt på 480 watt.
 
-Modellen har 4 USB-C-forbindelser som standard.
+Derudover inkluderer modellen 4 USB-C tilslutninger som standard.
 
-## Lys
+## Lygter
 
-De standard forlygter bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt for at dæmpe små områder foran.
+Volkswagen ID.3 GTX Performance er udstyret med avancerede LED Matrix-forlygter. Dette adaptive system opdeler den traditionelle enkeltstråle i flere mindre stråler, så lyskontrolenheden selektivt kan tænde og slukke dem for at undgå at blænde andre bilister. For øget sikkerhed inkluderer forlygterne også kurvelys, der oplyser siden ved drejning.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/headlights_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
@@ -236,71 +236,71 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den Volkswagen ID.3 GTX Performance inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+Volkswagen ID.3 GTX Performance har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper føreren med at forudse kørselsforhold og spare energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper førere med at forudse køreforhold og spare energi.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Volkswagen ID.3 GTX Performance, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Volkswagen ID.3 GTX Performance, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Volkswagen ID.3 GTX Performance, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Volkswagen ID.3 GTX Performance, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Volkswagen ID.3 GTX Performance, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Volkswagen ID.3 GTX Performance, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Volkswagen ID.3 GTX Performance, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+[**Front Tværgående Trafik Assistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Volkswagen ID.3 GTX Performance, dette førerassistentsystem hjælper førere med at registrere modkørende trafik ved krydsning af et vejkryds eller når der drejes til venstre eller højre fra stillestående position.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Volkswagen ID.3 GTX Performance, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Volkswagen ID.3 GTX Performance, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Volkswagen ID.3 GTX Performance, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Volkswagen ID.3 GTX Performance, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Volkswagen ID.3 GTX Performance, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
+[**Automatisk Nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Volkswagen ID.3 GTX Performance, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfrit på Volkswagen ID.3 GTX Performance, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Ekstraudstyr på Volkswagen ID.3 GTX Performance, dette system hjælper med at opdage trafik i blinde vinkler.
 
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Valgfrit på Volkswagen ID.3 GTX Performance, dette system advarer passagererne mod at åbne dørene, hvis der er risiko for at ramme noget.
+[**Udstigningsadvarsel**](../../../../technology/driverassistance/exitwarning/): Ekstraudstyr på Volkswagen ID.3 GTX Performance, dette system advarer passagererne mod at åbne døre, hvis der er risiko for at ramme noget.
 
 ### Køreautomatisering
 
 Volkswagen ID.3 GTX Performance tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med standardudstyret tilbyder modellen ingen køreautomatisering.
+Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 - Fartpilot.
-- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
-Med  niveau 1-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+Med  niveau 1-systemet får du yderligere køreautomatiseringsfunktioner ud over dem, der er nævnt ovenfor:
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-Med det valgfrie Assistantpackage plus niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
+Med det valgfrie Assistantpackage plus niveau 2-system får du yderligere køreautomatiseringsfunktioner ud over dem, der er nævnt ovenfor:
 
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
 
 ### Sensorer & Kameraer
 
-Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
-Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+Denne model bruger kameraer, radar og ultrasoniske sensorer til sine førerassistentsystemer.
+Op til fem [radar-sensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 ## Sikkerheds- og adgangsteknologier
 
-Volkswagen ID.3 GTX Performance er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+Volkswagen ID.3 GTX Performance er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Med den standard nøglefri start og valgfri nøglefri adgang kan du låse og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
+- **Nøglefri adgang og start:** Med standard nøglefri start og valgfri nøglefri adgang kan du låse op og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 385 liter. Med det bageste sæde foldet ned, udvides dette til 1267 liter.
+Bagagerummet har en lastkapacitet på 385 liter (13,6 CU FT). Med bagsædet lagt ned udvides dette til 1267 liter (44,7 CU FT).
 
-Køretøjets maksimale vægt er 2430 kg, med en basisvægt på 2000 kg. Dette giver en maksimal last på 430 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 2430 kg (5357 lbs), med en egenvægt på 2000 kg (4409 lbs). Dette giver en maksimal last på 430 kg (948 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
-Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
+Denne model fås ikke med anhængertræk. Så hvis du skal trække en trailer, må du kigge på andre modeller.
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
-Denne model havde verdenspremiere den 06.08.2024, og leveringer forventes at starte om November 2024.
-{{< pagenavigation b_url="../" b_title="Volkswagen ID.3" f_url="rangeandconsumption/" f_title="Range" >}}
+Denne model havde sin verdenspremiere den 06.08.2024, og leveringerne forventes at begynde i November 2024.
+{{< pagenavigation b_url="../" b_title="Volkswagen ID.3" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

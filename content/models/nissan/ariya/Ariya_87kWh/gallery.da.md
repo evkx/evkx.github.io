@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Nissan Ariya 87kWh-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Nissan Ariya 87kWh billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

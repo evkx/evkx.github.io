@@ -1,5 +1,5 @@
 ---
-title: Dacia EV-modeller
+title: Dacia EV modeller
 linktitle: "Dacia"
 description: "Dacia is a Romanian car manufacturer that is owned by Stellantis, the world's fourth-largest automaker. Dacia is known for its affordable and reliable cars, such as the Sandero, the Logan, and the Duster. Dacia launched its first electric car, the Spring, in 2021, which is based on the Renault City K-ZE"
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Dacia Spring er en hatcback tilgængelig i 1 varianter.
+Dacia Spring er en hatchback, der fås i 1 varianter.
 </p>
 	<a href="spring/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

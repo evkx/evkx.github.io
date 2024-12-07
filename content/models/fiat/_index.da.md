@@ -1,5 +1,5 @@
 ---
-title: Fiat EV-modeller
+title: Fiat EV modeller
 linktitle: "Fiat"
 description: "Fiat is an Italian car company that is part of the Stellantis group, which also includes brands like Peugeot, Citroën, Jeep, Chrysler and Dodge. Fiat is known for its small and compact cars, such as the Fiat 500, Panda and Tipo."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Fiat 600e er en crossover tilgængelig i 1 varianter.
+Fiat 600e er en crossover, der fås i 1 varianter.
 </p>
 	<a href="600e/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Fiat 600e er en crossover tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Fiat Grande Panda er en crossover tilgængelig i 1 varianter.
+Fiat Grande Panda er en crossover, der fås i 1 varianter.
 </p>
 	<a href="grande_panda/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

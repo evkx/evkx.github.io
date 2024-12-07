@@ -16,8 +16,8 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
-				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Opladningskurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rækkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
 				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
 				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
@@ -35,8 +35,8 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric_performance/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
-				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric_performance/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric_performance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Opladningskurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric_performance/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rækkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric_performance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric_performance/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
 				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric_performance/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
 				<li class="list-group-item list-group-item-action"><a href="marvel_r_electric_performance/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>

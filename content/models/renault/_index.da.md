@@ -1,5 +1,5 @@
 ---
-title: Renault EV-modeller
+title: Renault EV modeller
 linktitle: "Renault"
 description: "Renault is a French car manufacturer that has a strong focus on electric vehicles (EVs). Renault has been a pioneer in the EV market since it launched the first mass-produced electric car, the ZOE, in 2012."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Renault 5 er en hatcback tilgængelig i 1 varianter.
+Renault 5 er en hatchback, der fås i 1 varianter.
 </p>
 	<a href="5/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Renault 5 er en hatcback tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Renault Megane er en crossover tilgængelig i 1 varianter.
+Renault Megane er en crossover, der fås i 1 varianter.
 </p>
 	<a href="megane/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -56,7 +56,7 @@ Renault Megane er en crossover tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Renault Scenic er en crossover tilgængelig i 2 varianter.
+Renault Scenic er en crossover, der fås i 2 varianter.
 </p>
 	<a href="scenic/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

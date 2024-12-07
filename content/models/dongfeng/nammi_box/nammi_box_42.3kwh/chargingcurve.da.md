@@ -1,7 +1,7 @@
 ---
-title: Dongfeng Nammi Box 42.3kWh opladningskurve og ydeevne
-linktitle: "Opladningskurve"
-description: "Nedan är laddningskurvan för Dongfeng Nammi Box 42.3kWh, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
+title: Dongfeng Nammi Box 42.3kWh ladekurve og ydelse
+linktitle: "Ladekurve"
+description: "Herunder er opladningskurven for Dongfeng Nammi Box 42.3kWh, der viser ladehastigheden ved forskellige batteriniveauer. Derudover giver grafer for rækkevidde og tid omfattende detaljer om opladningsydelsen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -14,7 +14,7 @@ navicon: bi-battery-charging
 
 
 <div class="alert alert-primary" role="alert">
-Opladningskurven for denne model er baseret på producentdata og indsigt i opladningsydelsen af lignende batteripakker.
+Ladekurven for denne model er udledt af producentdata og indsigt i ladeydelsen af lignende batteripakker.
 </div>
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -29,7 +29,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 	<tbody>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 0 - 100 %
+				Gennemsnitlig ladehastighed 0-100%
 			</td>
 			<td>
 				30,4 kW
@@ -37,7 +37,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-100 %
+				Gennemsnitlig ladehastighed 10-100%
 			</td>
 			<td>
 				30,1 kW
@@ -45,7 +45,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-90 %
+				Gennemsnitlig ladehastighed 10-90%
 			</td>
 			<td>
 				39,2 kW
@@ -53,7 +53,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-80 %
+				Gennemsnitlig ladehastighed 10-80%
 			</td>
 			<td>
 				44,2 kW
@@ -61,7 +61,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Maks C-Rate
+				Maksimal C-Rate
 			</td>
 			<td>
 				1,42
@@ -69,7 +69,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig C-rate
+				Gennemsnitlig C-Rate
 			</td>
 			<td>
 				1,00
@@ -85,7 +85,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningshastighed inkluderet 5 minutters tab
+				Optimal ladehastighed inklusiv 5 minutters tab
 			</td>
 			<td>
 				42,8kW
@@ -93,7 +93,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningsstoptid
+				Optimal ladetid
 			</td>
 			<td>
 				27m27s
@@ -118,7 +118,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 	<tbody>
 		<tr>
 			<td>
-				Opladningstid 0 - 100%
+				Ladetid 0-100%
 			</td>
 			<td>
 				1 h 18 m 55 s
@@ -126,7 +126,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-100%
+				Ladetid 10-100%
 			</td>
 			<td>
 				1 h 11 m 46 s
@@ -134,7 +134,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-80%
+				Ladetid 10-80%
 			</td>
 			<td>
 				 38 m 0 s
@@ -169,7 +169,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 	<tbody>
 		<tr>
 			<td>
-				Rækkevidde per minut 0-100%
+				Rækkevidde pr. minut 0-100%
 			</td>
 			<td>
 				?
@@ -186,7 +186,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-100%
+				Rækkevidde pr. minut 10-100%
 			</td>
 			<td>
 				?
@@ -203,7 +203,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-80%
+				Rækkevidde pr. minut 10-80%
 			</td>
 			<td>
 				?
@@ -223,7 +223,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 </div>
 
 
-Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
+Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kolde eller varme temperaturer kan dog påvirke kurven betydeligt. Denne kurve er også baseret på start af opladning ved lav batteristatus. Derfor kan tilslutning ved højere niveau påvirke kurven positivt eller negativt. Læs mere om hvad der påvirker ladehastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -241,7 +241,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				Tid
 			</th>
 			<th>
-				Energi opladet
+				Opladet energi
 			</th>
 		</tr>
 	</thead>
@@ -1665,4 +1665,4 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 </div>
 
 
-{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rækkevidde" f_url="../specifications/" f_title="Specifikationer" >}}

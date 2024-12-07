@@ -1,14 +1,14 @@
 ---
-title: Nio ET7 opladningskurve og ydeevne
-linktitle: "Opladningskurve"
-description: "Nedan är laddningskurvan för Nio ET7, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
+title: Nio ET7 ladekurve og ydelse
+linktitle: "Ladekurve"
+description: "Herunder er opladningskurven for Nio ET7, der viser ladehastigheden ved forskellige batteriniveauer. Derudover giver grafer for rækkevidde og tid omfattende detaljer om opladningsydelsen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskellige batteripakker.
+Denne model fås med flere batterier. Herunder finder du ydelsen for de forskellige batteripakker.
 
 ### 100 kWh 100kWh
 
@@ -30,7 +30,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 	<tbody>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 0 - 100 %
+				Gennemsnitlig ladehastighed 0-100%
 			</td>
 			<td>
 				70,2 kW
@@ -38,7 +38,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-100 %
+				Gennemsnitlig ladehastighed 10-100%
 			</td>
 			<td>
 				67,8 kW
@@ -46,7 +46,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-90 %
+				Gennemsnitlig ladehastighed 10-90%
 			</td>
 			<td>
 				85,2 kW
@@ -54,7 +54,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-80 %
+				Gennemsnitlig ladehastighed 10-80%
 			</td>
 			<td>
 				89,3 kW
@@ -62,7 +62,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Maks C-Rate
+				Maksimal C-Rate
 			</td>
 			<td>
 				1,27
@@ -70,7 +70,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig C-rate
+				Gennemsnitlig C-Rate
 			</td>
 			<td>
 				0,90
@@ -86,7 +86,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningshastighed inkluderet 5 minutters tab
+				Optimal ladehastighed inklusiv 5 minutters tab
 			</td>
 			<td>
 				84,4kW
@@ -94,7 +94,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningsstoptid
+				Optimal ladetid
 			</td>
 			<td>
 				27m52s
@@ -119,7 +119,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 	<tbody>
 		<tr>
 			<td>
-				Opladningstid 0 - 100%
+				Ladetid 0-100%
 			</td>
 			<td>
 				1 h 16 m 57 s
@@ -127,7 +127,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-100%
+				Ladetid 10-100%
 			</td>
 			<td>
 				1 h 11 m 41 s
@@ -135,7 +135,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-80%
+				Ladetid 10-80%
 			</td>
 			<td>
 				 42 m 20 s
@@ -170,7 +170,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 	<tbody>
 		<tr>
 			<td>
-				Rækkevidde per minut 0-100%
+				Rækkevidde pr. minut 0-100%
 			</td>
 			<td>
 				?
@@ -187,7 +187,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-100%
+				Rækkevidde pr. minut 10-100%
 			</td>
 			<td>
 				?
@@ -204,7 +204,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-80%
+				Rækkevidde pr. minut 10-80%
 			</td>
 			<td>
 				?
@@ -224,10 +224,10 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 </div>
 
 
-Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
+Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kolde eller varme temperaturer kan dog påvirke kurven betydeligt. Denne kurve er også baseret på start af opladning ved lav batteristatus. Derfor kan tilslutning ved højere niveau påvirke kurven positivt eller negativt. Læs mere om hvad der påvirker ladehastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
+Nio ET7 har batterivarmer, hvilket gør det lettere at oplade ved optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -245,7 +245,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 				Tid
 			</th>
 			<th>
-				Energi opladet
+				Opladet energi
 			</th>
 		</tr>
 	</thead>
@@ -1688,7 +1688,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 	<tbody>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 0 - 100 %
+				Gennemsnitlig ladehastighed 0-100%
 			</td>
 			<td>
 				64,0 kW
@@ -1696,7 +1696,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-100 %
+				Gennemsnitlig ladehastighed 10-100%
 			</td>
 			<td>
 				65,1 kW
@@ -1704,7 +1704,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-90 %
+				Gennemsnitlig ladehastighed 10-90%
 			</td>
 			<td>
 				81,2 kW
@@ -1712,7 +1712,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-80 %
+				Gennemsnitlig ladehastighed 10-80%
 			</td>
 			<td>
 				85,3 kW
@@ -1720,7 +1720,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 		</tr>
 		<tr>
 			<td>
-				Maks C-Rate
+				Maksimal C-Rate
 			</td>
 			<td>
 				1,45
@@ -1728,7 +1728,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig C-rate
+				Gennemsnitlig C-Rate
 			</td>
 			<td>
 				1,08
@@ -1744,7 +1744,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningshastighed inkluderet 5 minutters tab
+				Optimal ladehastighed inklusiv 5 minutters tab
 			</td>
 			<td>
 				75,3kW
@@ -1752,7 +1752,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningsstoptid
+				Optimal ladetid
 			</td>
 			<td>
 				38m39s
@@ -1777,7 +1777,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 	<tbody>
 		<tr>
 			<td>
-				Opladningstid 0 - 100%
+				Ladetid 0-100%
 			</td>
 			<td>
 				1 h 6 m 7 s
@@ -1785,7 +1785,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-100%
+				Ladetid 10-100%
 			</td>
 			<td>
 				 58 m 27 s
@@ -1793,7 +1793,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-80%
+				Ladetid 10-80%
 			</td>
 			<td>
 				 34 m 43 s
@@ -1828,7 +1828,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 	<tbody>
 		<tr>
 			<td>
-				Rækkevidde per minut 0-100%
+				Rækkevidde pr. minut 0-100%
 			</td>
 			<td>
 				?
@@ -1845,7 +1845,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-100%
+				Rækkevidde pr. minut 10-100%
 			</td>
 			<td>
 				?
@@ -1862,7 +1862,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-80%
+				Rækkevidde pr. minut 10-80%
 			</td>
 			<td>
 				?
@@ -1882,10 +1882,10 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 </div>
 
 
-Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
+Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kolde eller varme temperaturer kan dog påvirke kurven betydeligt. Denne kurve er også baseret på start af opladning ved lav batteristatus. Derfor kan tilslutning ved højere niveau påvirke kurven positivt eller negativt. Læs mere om hvad der påvirker ladehastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
+Nio ET7 har batterivarmer, hvilket gør det lettere at oplade ved optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -1903,7 +1903,7 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 				Tid
 			</th>
 			<th>
-				Energi opladet
+				Opladet energi
 			</th>
 		</tr>
 	</thead>
@@ -3327,4 +3327,4 @@ Nio ET7 har batterivärme, vilket gör det lättare att ladda vid optimal batter
 </div>
 
 
-{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rækkevidde" f_url="../specifications/" f_title="Specifikationer" >}}

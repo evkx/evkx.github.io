@@ -1,7 +1,7 @@
 ---
 title: Hyundai INSTER Standard Range galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Hyundai INSTER Standard Range-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Hyundai INSTER Standard Range billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

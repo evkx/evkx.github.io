@@ -1,5 +1,5 @@
 ---
-title: Jeep EV-modeller
+title: Jeep EV modeller
 linktitle: "Jeep"
 description: "Jeep is a brand of American automobiles that is known for its off-road and SUV vehicles. Jeep is planning to electrify its entire lineup by 2025 and is expecting 50% of its US sales to be fully electric by 2030."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Jeep Avenger er en crossover tilgængelig i 1 varianter.
+Jeep Avenger er en crossover, der fås i 1 varianter.
 </p>
 	<a href="avenger/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

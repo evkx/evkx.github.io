@@ -1,5 +1,5 @@
 ---
-title: Alfa Romeo EV-modeller
+title: Alfa Romeo EV modeller
 linktitle: "Alfa Romeo"
 description: " Alfa Romeo, the Italian luxury car manufacturer, is embracing electrification with a clear strategy. By 2027, Alfa Romeo plans to transform its lineup to be fully electric."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Alfa Romeo Junior er en crossover tilgængelig i 2 varianter.
+Alfa Romeo Junior er en crossover, der fås i 2 varianter.
 </p>
 	<a href="junior/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

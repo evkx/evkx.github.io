@@ -1,5 +1,5 @@
 ---
-title: Chevrolet EV-modeller
+title: Chevrolet EV modeller
 linktitle: "Chevrolet"
 description: "Chevrolet is one of the leading automakers in the electric vehicle (EV) market, with a vision to create a world with zero crashes, zero emissions, and zero congestion. The company is committed to providing EVs for everyone, from compact cars to full-size trucks, with a range of models that suit different needs and preferences."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Chevrolet Blazer EV er en SUV tilgængelig i 3 varianter.
+Chevrolet Blazer EV er en SUV, der fås i 3 varianter.
 </p>
 	<a href="blazer_ev/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Chevrolet Blazer EV er en SUV tilgængelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Chevrolet Equinox EV er en SUV tilgængelig i 2 varianter.
+Chevrolet Equinox EV er en SUV, der fås i 2 varianter.
 </p>
 	<a href="equinox_ev/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -56,7 +56,7 @@ Chevrolet Equinox EV er en SUV tilgængelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Chevrolet Silverado EV er en pickup truck tilgængelig i 3 varianter.
+Chevrolet Silverado EV er en pickup truck, der fås i 3 varianter.
 </p>
 	<a href="silverado_ev/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

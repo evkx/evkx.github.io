@@ -1,7 +1,7 @@
 ---
 title: XPENG Mona M03 Long Range
 linktitle: "Mona M03 Long Range"
-description: "XPENG Mona M03 Long Range er en fuldelektrisk sedan med en CLTC rækkevidde på op til 618 km (384 miles). EVKX.net har alle detaljerne."
+description: "XPENG Mona M03 Long Range er en elektrisk sedan med en CLTC rækkevidde på op til 618 km (384 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,99 +11,99 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/main_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2250"  >}}
 
-Vi har opdelt vores XPENG Mona M03 Long Range artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-XPENG Mona M03 Long Range leverer en solid præstation med en maksimal effekt på 210 kW (286 hk) og et totalt drejningsmoment på 440 Nm. Den kan accelerere fra 0 til 100 km/t på 7,4 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+XPENG Mona M03 Long Range leverer en solid præstation med en maksimal effekt på 210 kW (286 hk / 282 bhp) og et samlet drejningsmoment på 440 Nm (325 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 7,4 sekunder og når en tophastighed på 200 km/t (124 mph), hvilket gør den konkurrencedygtig inden for sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 62,2 kWh og en nettoanvendelig kapacitet på 61,0 kWh, hvilket giver en buffer på 1,2 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 473 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitets batteri har en brutto kapacitet på 62,2 kWh og en netto kapacitet på 61,0 kWh, hvilket giver en 1,2 kWh buffer (1,9%) til batteribeskyttelse. Med en nominel spænding på 473 volt klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Lithium-ion batteriet bruger [LFP-teknologi](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), hvilket giver både fordele og ulemper sammenlignet med typiske NCA/NMC-batterier.
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 618 km (384 miles). Forbruget er 9,9kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Køretøjets rækkevidde, ifølge [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standarden, er 618 km (384 miles). Energiforbruget er 9,9 kWh/100 km baseret på CLTC standardtesten. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 92kW. En fuld opladning fra 0 - 100 % ville tage 99 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 42 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 55%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 61kW. Hver opladningssession ville tage 30 minutter og 31 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 92 kW. Opladning fra 0% til 100% tager cirka 99 minutter, mens et mere typisk scenario fra 10% til 80% tager 42 minutter med en gennemsnitlig ladehastighed på 61 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 6% til 55%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 61 kW, hvor hver opladningssession tager cirka 30 minutter og 31 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 10 timer og 59 minutter. Denne rejse ville kræve to opladningsstop fra 7% til 51%, med en samlet opladningstid på 159 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 10 timer og 59 minutter, med seks opladningsstop fra 7% til 51%, i alt 159 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 5 timer og 32 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 5 timer og 32 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 
-Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Ladeporten er placeret på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke ind til laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
-### Bidirektionel opladning
+### Tovejs opladning
 
-Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsyne elektrisk udstyr, der kræver op til 3,3 kW effekt, inklusive opladning af andre køretøjer.
+Denne model understøtter V2L (Vehicle to Load), som gør det muligt at forsyne elektrisk udstyr med op til 3,3 kW strøm, inklusive muligheden for at oplade andre køretøjer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-XPENG Mona M03 Long Range har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+XPENG Mona M03 Long Range har et baghjulstræksystem understøttet af én motor på bagakslen. Den anvendte motor er en [permanent magnet synkronmotor](../../../../technology/motors/pmsm/).
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 160 mm.
+Forhjulsophænget er [MacPherson fjederben](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere. affjedringen har fast højde og dæmpning. Frihøjden med denne affjedring er 160 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funktion på XPENG Mona M03 Long Range. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+Dynamisk styring er standard på XPENG Mona M03 Long Range, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort.
 
 ### Køretilstande
 
-XPENG Mona M03 Long Range lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
+XPENG Mona M03 Long Range lader brugeren vælge forskellige [køretilstande](../../../../technology/drivemodes/) som påvirker bilens håndtering. Føreren kan vælge mellem 4 tilstande:
 
-- Comfort: Komfortstyring og effektiv speeder.
-- Standard: Afbalanceret styring og speeder.
-- Sport: Dynamisk styring og speeder.
-- Individual: Brugerdefinerede indstillinger for styring og speeder.
+- Comfort: Komfortabel styring og effektiv gaspedal.
+- Standard: Afbalanceret styring og gaspedal.
+- Sport: Dynamisk styring og gaspedal.
+- Individual: Brugerdefinerede indstillinger for styring og gaspedal.
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
+XPENG Mona M03 Long Range er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag.
 
 ### Regenerativ bremsning
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Du kan vælge mellem to stopmodi til en-pedal kørsel. **Hold mode** stopper køretøjet helt ved brug af friktionsbremser, og **Roll mode** tillader køretøjet at rulle, indtil det stopper naturligt.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog er [regenerativ bremsning](../../../../technology/regen/) muliggjort gennem [**én-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Du kan vælge mellem to stoptilstande for én-pedal kørsel. **Hold tilstand** bringer køretøjet til et komplet stop ved hjælp af friktionsbremser, og **Rul tilstand** lader køretøjet rulle indtil det stopper naturligt.
 
-Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
+Derudover kan du justere styrken af den regenerative bremsning når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, så du kan tilpasse køreoplevelsen efter dine præferencer.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den XPENG Mona M03 Long Range, med dimensioner på 4780 mm i længde, 1896 mm i bredde og 1445 mm i højde, tilhører D-segmentet af biler, også kendt som mellemstore eller familiebiler. Disse biler tilbyder mere plads, komfort og funktioner end mindre segmenter og er velegnede til forskellige førere. XPENG Mona M03 Long Range fås i alt 5 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
+XPENG Mona M03 Long Range, med dimensioner på 4780 mm i længde, 1896 mm i bredde og 1445 mm i højde, tilhører D-segment biler, også kendt som mellemklasse- eller familiebiler, der tilbyder mere plads, komfort og udstyr end mindre segmenter, hvilket gør dem velegnede til mange forskellige bilister. XPENG Mona M03 Long Range fås i alt i 5 lakfarver, inklusive flere iøjnefaldende metalliske muligheder.
 
-Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på XPENG Mona M03 Long Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Du kan vælge mellem flere hjuldesign, alle tilgængelige i samme størrelse, på XPENG Mona M03 Long Range, så du kan personliggøre din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 235/40 dæk on 19" fælge
+- 235/40 dæk på 19" fælge
 
-Bilen har fire [rammeløse døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fire [rammeløse døre](../../../../technology/doors/) og en [hatchback-agtig bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 
-Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humør og komfort for beboeren. Glasset er tonet for at beskytte mod varme fra solen.
+Der er kun én tagmulighed for denne model. Standardtaget har et stort panoramatag, der strækker sig over de fleste områder fra for til bag. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Glasset er tonet for at beskytte mod varme fra solen.
 
-Ruderne fra B-stolpen og bagsiden er tonede.
+Ruderne fra B-søjlen og bagud er tonede, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/exterior_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2000"  >}}
 
@@ -113,39 +113,39 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Interiøret i XPENG Mona M03 Long Range er designet med en minimalistisk æstetik og har materialer af medium kvalitet overalt. Den todelte midterkonsol adskiller fører og passager og tilbyder praktiske opbevaringsmuligheder og forbedret funktionalitet. Du kan vælge mellem flere interiørdesigns.
+Interiøret i XPENG Mona M03 Long Range er designet med en minimalistisk æstetik og har materialer af mellem kvalitet overalt. Den todelte midterkonsol adskiller fører og passager, og giver praktiske opbevaringsmuligheder og forbedret funktionalitet. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
-XPENG Mona M03 Long Range har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+XPENG Mona M03 Long Range har plads til fem passagerer med to forsæder og en trebænk bagtil.
 
-#### Første række sæder
+#### Forsæder
 
-XPENG Mona M03 Long Range tilbyder kun én type forreste sæde.
+XPENG Mona M03 Long Range tilbyder én type forsæde.
 
-Følgende funktioner er tilgængelige på **** sædet.
+Følgende funktioner er tilgængelige på **** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support) (standard for passagersæde)
+- Højdejusterbar nakkestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Benstøtte til passager](../../../../technology/seats/adjustment/#leg-support) (standard for passagersæde)
 
-Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-- Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Black [Nappa-læderbetræk](../../../../technology/seats/materials/#leather)
+- Gray [Nappa-læderbetræk](../../../../technology/seats/materials/#leather)
 
-#### Sæde på anden række
+#### Anden række sæder
 
-Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Anden række har en standard tresæders bænk med 40:60 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- højdejusterbar nakkestøtte
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- Højdejusterbar nakkestøtte
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/secondrowseats_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2014"  >}}
 
@@ -153,96 +153,96 @@ Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
+Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr sammenlignet med modeller med varmepumpe.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-XPENG Mona M03 Long Range inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+XPENG Mona M03 Long Range inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
-- **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
-- **Trådløs opladning af telefon**
+- **Easy Entry Funktion:** Flytter førersædet for at lette indstigning i bilen.
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-Kontrolgrænsefladen for denne EV-model er fokuseret omkring skærminteraktion og har kun begrænset funktionalitet tilgængelig på knapper og stænger. For nogle kan dette medføre mindre end ideel brugeroplevelse og anvendelighed.
+Kontrolgrænsefladen for XPENG Mona M03 Long Range er primært fokuseret på skærminteraktion, med begrænset funktionalitet tilgængelig via fysiske knapper og kontaktarme. Dette design kan resultere i en mindre end ideel brugeroplevelse for nogle brugere.
 
-XPENG Mona M03 Long Range har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
+XPENG Mona M03 Long Range har en enkelt skærm til føreren. Instrumentbrættets midte har en enkelt [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen), der fungerer som den primære skærm for både køretøjsinformation og infotainment-funktioner.
 
 Vigtige skærmdetaljer:
 
-- Skærmen touch i dashboardets midte er 15,6 tommer stor
+- Den touch skærm på midten af instrumentbrættet er 15,6 tommer stor
 
-Modellen har ikke et head-up display.
+Modellen inkluderer ikke et head-up display.
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/screens_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2000"  >}}
 
 ### Rat
 
-XPENG Mona M03 Long Range er udstyret med en enkelt type rat:
+XPENG Mona M03 Long Range er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det inkluderer også fysiske knapper og rullehjul, der giver dig mulighed for at kontrollere infotainmentsystemet, justere lydstyrken, skifte musiknumre og nemt styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat har integreret varme for ekstra komfort i koldt vejr. Det har også fysiske knapper og scrollhjul, der giver dig mulighed for at styre infotainmentsystemet, justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner med lethed.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
-Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+Denne model kommer med stemmestyring som standard, der giver dig mulighed for at styre forskellige funktioner gennem stemmekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
-XPENG Mona M03 Long Range har et avanceret infotainmentsystem bygget på Android Automotive OS, en platform fra Google specielt designet til bilens dashboards. For at forbedre dette robuste system har XPENG integreret deres egen suite af applikationer, der giver problemfri navigation, omfattende bilindstillinger og meget mere.
+XPENG Mona M03 Long Range har et avanceret infotainmentsystem bygget på Android Automotive OS, en platform fra Google specifikt designet til bildisplays. For at forbedre dette robuste system har XPENG integreret deres egen suite af applikationer, der giver problemfri navigation, omfattende bilindstillinger og meget mere.
 
 ### Navigationssystem
 
-Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning. Systemet giver realtids trafikoplysninger, hvilket sikrer en effektiv og stressfri rejse.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning. Systemet giver realtids trafikinformation, der sikrer en effektiv og stressfri rejse.
 
-### App store
+### App Butik
 
-Infotainmentsystemet inkluderer en App Store, hvor du kan downloade tredjepartsapps til at køre direkte på bilens skærm uden behov for en tilsluttet telefon. Tilgængelige apps varierer afhængigt af markedet, men inkluderer populære muligheder som:
+Infotainmentsystemet inkluderer en App Store, hvor du kan downloade tredjepartsapps, der kører direkte på bilens skærm uden behov for en tilsluttet telefon. Tilgængelige apps varierer efter marked, men inkluderer populære muligheder som:
 
-- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver uendelige underholdningsmuligheder under kørslen.
+- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver endeløse underholdningsmuligheder under kørslen.
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter XPENG Mona M03 Long Range Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+XPENG Mona M03 Long Range understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for XPENG Mona M03 Long Range.
+XPENG Mona M03 Long Range kommer med ét lydsystem:
 
-- Med standard får du 18 højttalere med en maksimal systemeffekt på 1200 watt.
+- **standard:** Har 18 højttalere og leverer en maksimal effekt på 1200 watt.
 
-Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+Derudover inkluderer modellen 3 USB-C tilslutninger som standard. Modellen har 1 USB-A tilslutninger som standard.
 
-## Mobilapp
+## Mobil App
 
-Den XPENG Mona M03 Long Range kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
+XPENG Mona M03 Long Range kommer med en dedikeret mobilapp, tilgængelig til både Android og iOS-enheder, så du kan styre og overvåge din bil på afstand. Appen tilbyder en bred vifte af funktioner designet til at forbedre din køreoplevelse:
 
-- **Find din bil**: Tjek nemt bilens aktuelle placering.
-- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
-- **Fjernparkering**: Styr din bil nemt for at parkere eller forlade en parkeringsplads eksternt.
-- **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
-- **Vindueskontrol**: Åbn og luk vinduerne hvor som helst fra.
-- **Find din bil**: Aktiver hornet eller lysene for at finde din bil i tæt befolkede områder.
-- **Ruteplanlægning**: Planlæg din rute og send den direkte til bilens navigationssystem.
+- **Find din bil:** Se nemt bilens aktuelle placering.
+- **Forkonditionering:** Forvarm eller afkøl din bil, før du starter din rejse, for optimal komfort.
+- **Fjernparkering:** Styr din bil til at parkere eller forlade en parkeringsplads på afstand.
+- **Lås og lås op:** Lås eller lås dine bildøre op sikkert med et tryk.
+- **Vindueskontrol:** Åbn og luk vinduer fra hvor som helst.
+- **Find din bil:** Aktiver hornet eller lygterne for at hjælpe med at finde din bil i tætpakkede områder.
+- **Ruteplanlægning:** Planlæg din rute og send den direkte til bilens navigationssystem.
 
-## Lys
+## Lygter
 
-**Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+**Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/headlights_1_st.jpeg" title="XPENG Mona M03 Long Range" width="3000" height="1997"  >}}
 
@@ -250,63 +250,63 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den XPENG Mona M03 Long Range inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+XPENG Mona M03 Long Range har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på XPENG Mona M03 Long Range, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på XPENG Mona M03 Long Range, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på XPENG Mona M03 Long Range, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på XPENG Mona M03 Long Range, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på XPENG Mona M03 Long Range, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på XPENG Mona M03 Long Range, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på XPENG Mona M03 Long Range, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+[**Front Tværgående Trafik Assistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på XPENG Mona M03 Long Range, dette førerassistentsystem hjælper førere med at registrere modkørende trafik ved krydsning af et vejkryds eller når der drejes til venstre eller højre fra stillestående position.
 
-[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på XPENG Mona M03 Long Range, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
+[**Advarsel om Krydsende Trafik Bag (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på XPENG Mona M03 Long Range, dette system bruger sensorer til at opdage køretøjer, der nærmer sig fra siden, når man bakker ud af en parkeringsplads eller indkørsel.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på XPENG Mona M03 Long Range, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på XPENG Mona M03 Long Range, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på XPENG Mona M03 Long Range, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på XPENG Mona M03 Long Range, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på XPENG Mona M03 Long Range, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på XPENG Mona M03 Long Range, dette system hjælper med at opdage trafik i blinde vinkler.
 
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard på XPENG Mona M03 Long Range, dette system advarer passagererne mod at åbne dørene, hvis der er risiko for at ramme noget.
+[**Udstigningsadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på XPENG Mona M03 Long Range, dette system advarer passagererne mod at åbne døre, hvis der er risiko for at ramme noget.
 
 ### Køreautomatisering
 
-Med standard XPENG Pilot niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med det standard XPENG Pilot niveau 2-system får du følgende køreautomatiseringsfunktioner.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
-- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer
 
-Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
-Op til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), ni [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+Denne model bruger kameraer, radar og ultrasoniske sensorer til sine førerassistentsystemer.
+Op til tre [radar-sensorer](../../../../technology/sensorsandcameras/radar/), ni [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 ## Sikkerheds- og adgangsteknologier
 
-XPENG Mona M03 Long Range er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+XPENG Mona M03 Long Range er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
-- **Telefon-som-nøgle funktionalitet:** Med telefon-som-nøgle teknologi kan du bruge din smartphone som en digital nøgle til at låse og starte køretøjet, hvilket giver et ekstra lag af bekvemmelighed og fleksibilitet.
-- **Alarmsystem:** Et integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at hjælpe med at afskrække indtrængen og holde dit køretøj sikkert.
+- **Nøglefri adgang og start:** Bilens nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse op og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
+- **Telefon-som-nøgle funktion:** Med telefon-som-nøgle teknologi kan du bruge din smartphone som en digital nøgle til at låse op og starte køretøjet, hvilket giver et ekstra lag af bekvemmelighed og fleksibilitet.
+- **Alarmsystem:** Et integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at forhindre indbrud og holde dit køretøj sikkert.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 571 liter. Med det bageste sæde foldet ned, udvides dette til 1374 liter. På taget kan du laste op til 75 kg.
+Bagagerummet har en lastkapacitet på 571 liter (20,2 CU FT). Med bagsædet lagt ned udvides dette til 1374 liter (48,5 CU FT). På taget kan du laste op til 75 kg (165,3 lbs).
 
-Køretøjets maksimale vægt er 2114 kg, med en basisvægt på 1739 kg. Dette giver en maksimal last på 375 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 2114 kg (4661 lbs), med en egenvægt på 1739 kg (3834 lbs). Dette giver en maksimal last på 375 kg (827 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/trunk_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2014"  >}}
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
-Denne model havde verdenspremiere den 29.06.2023, og leveringerne startede i January 2024.
-{{< pagenavigation b_url="../" b_title="XPENG Mona M03" f_url="rangeandconsumption/" f_title="Range" >}}
+XPENG Mona M03 Long Range havde sin verdenspremiere den 29.06.2023, og leveringerne startede i January 2024.
+{{< pagenavigation b_url="../" b_title="XPENG Mona M03" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

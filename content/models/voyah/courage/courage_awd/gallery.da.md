@@ -1,7 +1,7 @@
 ---
 title: VOYAH Courage AWD galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store VOYAH Courage AWD-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store VOYAH Courage AWD billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

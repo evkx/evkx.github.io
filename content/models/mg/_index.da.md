@@ -1,5 +1,5 @@
 ---
-title: MG EV-modeller
+title: MG EV modeller
 linktitle: "MG"
 description: "MG is a British car brand that was founded in 1924 and is now owned by SAIC Motor, a Chinese automobile group. MG has a long history of producing sports cars and roadsters, but in recent years it has shifted to electric and hybrid vehicles. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-MG Cyberster er en konvertibel tilgængelig i 1 varianter.
+MG Cyberster er en cabriolet, der fås i 1 varianter.
 </p>
 	<a href="cyberster/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ MG Cyberster er en konvertibel tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-MG Marvel R er en SUV tilgængelig i 2 varianter.
+MG Marvel R er en SUV, der fås i 2 varianter.
 </p>
 	<a href="marvel_r/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -56,7 +56,7 @@ MG Marvel R er en SUV tilgængelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-MG MG4 er en crossover tilgængelig i 4 varianter.
+MG MG4 er en crossover, der fås i 4 varianter.
 </p>
 	<a href="mg4/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -71,7 +71,7 @@ MG MG4 er en crossover tilgængelig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-MG MG5 er en stationcar tilgængelig i 2 varianter.
+MG MG5 er en stationcar, der fås i 2 varianter.
 </p>
 	<a href="mg5/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -86,7 +86,7 @@ MG MG5 er en stationcar tilgængelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-MG ZS er en SUV tilgængelig i 2 varianter.
+MG ZS er en SUV, der fås i 2 varianter.
 </p>
 	<a href="zs/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

@@ -1,7 +1,7 @@
 ---
 title: Cadillac OPTIQ AWD galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Cadillac OPTIQ AWD-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Cadillac OPTIQ AWD billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

@@ -1,5 +1,5 @@
 ---
-title: BYD EV-modeller
+title: BYD EV modeller
 linktitle: "BYD"
 description: "BYD is a multinational high-tech company dedicated to technological innovations for a better life. BYD operates in four industries, including automotive, electronics, new energy and rail. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Atto 3 er en crossover tilgængelig i 1 varianter.
+BYD Atto 3 er en crossover, der fås i 1 varianter.
 </p>
 	<a href="atto_3/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ BYD Atto 3 er en crossover tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Dolphin er en crossover tilgængelig i 1 varianter.
+BYD Dolphin er en crossover, der fås i 1 varianter.
 </p>
 	<a href="dolphin/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -56,7 +56,7 @@ BYD Dolphin er en crossover tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Han er en sedan tilgængelig i 1 varianter.
+BYD Han er en sedan, der fås i 1 varianter.
 </p>
 	<a href="han/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -71,7 +71,7 @@ BYD Han er en sedan tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Seagull er en hatcback tilgængelig i 1 varianter.
+BYD Seagull er en hatchback, der fås i 1 varianter.
 </p>
 	<a href="seagull/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -86,7 +86,7 @@ BYD Seagull er en hatcback tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Seal er en sedan tilgængelig i 2 varianter.
+BYD Seal er en sedan, der fås i 2 varianter.
 </p>
 	<a href="seal/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -101,7 +101,7 @@ BYD Seal er en sedan tilgængelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Seal U er en SUV tilgængelig i 1 varianter.
+BYD Seal U er en SUV, der fås i 1 varianter.
 </p>
 	<a href="seal_u/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -116,7 +116,7 @@ BYD Seal U er en SUV tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Sealion 7 er en Coupe SUV tilgængelig i 1 varianter.
+BYD Sealion 7 er en coupé SUV, der fås i 1 varianter.
 </p>
 	<a href="sealion_7/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -131,7 +131,7 @@ BYD Sealion 7 er en Coupe SUV tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Tang er en SUV tilgængelig i 2 varianter.
+BYD Tang er en SUV, der fås i 2 varianter.
 </p>
 	<a href="tang/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

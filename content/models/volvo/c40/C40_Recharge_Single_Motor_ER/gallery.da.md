@@ -1,7 +1,7 @@
 ---
 title: Volvo C40 Recharge Single Motor ER galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Volvo C40 Recharge Single Motor ER-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Volvo C40 Recharge Single Motor ER billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

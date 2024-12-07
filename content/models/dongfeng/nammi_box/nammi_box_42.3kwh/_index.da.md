@@ -1,7 +1,7 @@
 ---
 title: Dongfeng Nammi Box 42.3kWh
 linktitle: "Nammi Box 42.3kWh"
-description: "Dongfeng Nammi Box 42.3kWh er en fuldelektrisk budget hatchback med en WLTP rækkevidde på op til 310 km (193 miles). EVKX.net har alle detaljerne."
+description: "Dongfeng Nammi Box 42.3kWh er en elektrisk budget hatchback med en WLTP rækkevidde på op til 310 km (193 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,94 +11,94 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/main_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="3000" height="2000"  >}}
 
-Vi har opdelt vores Dongfeng Nammi Box 42.3kWh artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-Dongfeng Nammi Box 42.3kWh kWh leverer grundlæggende ydeevne med en maksimal effekt på 70 kW (95 hk) og et samlet drejningsmoment på 175 Nm. Den accelererer fra 0 til 100 km/t på 14 sekunder og når en topfart på 140 km/t, hvilket er mere sammenligneligt med indgangsmodeller af traditionelle forbrændingsmotorbiler.
+Dongfeng Nammi Box 42.3kWh kWh giver grundlæggende ydeevne med en maksimal effekt på 70 kW (95 hk / 94 bhp) og et samlet drejningsmoment på 175 Nm (129 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 14 sekunder og når en tophastighed på 140 km/t (87 mph), hvilket er mere sammenligneligt med indgangsniveau traditionelle forbrændingsmotorer.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 42,3 kWh og en nettoanvendelig kapacitet på 40,0 kWh, hvilket giver en buffer på 2,3 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitets batteri har en brutto kapacitet på 42,3 kWh og en netto kapacitet på 40,0 kWh, hvilket giver en 2,3 kWh buffer (5,4%) til batteribeskyttelse. Lithium-ion batteriet bruger [LFP-teknologi](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), hvilket giver både fordele og ulemper sammenlignet med typiske NCA/NMC-batterier.
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 310 km, med et energiforbrugsrate på 12,9 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er køretøjets rækkevidde 310 km (193 miles), med et energiforbrug på 12,9 kWh/100 km (3 mi/kWh). For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 70kW. En fuld opladning fra 0 - 100 % ville tage 79 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 38 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 56%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 43kW. Hver opladningssession ville tage 27 minutter og 27 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 70 kW. Opladning fra 0% til 100% tager cirka 79 minutter, mens et mere typisk scenario fra 10% til 80% tager 38 minutter med en gennemsnitlig ladehastighed på 44 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 7% til 56%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 43 kW, hvor hver opladningssession tager cirka 27 minutter og 27 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 23 kWh/100 km, ville turen tage cirka 12 timer og 48 minutter. Denne rejse ville kræve to opladningsstop fra 5% til 58%, med en samlet opladningstid på 268 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 23 kWh/100 km, ville turen tage cirka 12 timer og 48 minutter, med ni opladningsstop fra 5% til 58%, i alt 268 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 6,6 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 3 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 6,6 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 6 timer og 3 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 
-Placeringen af ladeporten er på [højre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at bruge ladestationer, hvor du parkerer siden ind i opladeren.
+Ladeporten er bekvemt placeret på [højre frontside](../../../../technology/charging/connectors/#front-side), hvilket letter adgangen ved ladestationer hvor du parkerer parallelt med laderen.
 
-### Bidirektionel opladning
+### Tovejs opladning
 
-Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsyne elektrisk udstyr, der kræver op til 3,6 kW effekt, inklusive opladning af andre køretøjer.
+Denne model understøtter V2L (Vehicle to Load), som gør det muligt at forsyne elektrisk udstyr med op til 3,6 kW strøm, inklusive muligheden for at oplade andre køretøjer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-Dongfeng Nammi Box 42.3kWh har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Dongfeng Nammi Box 42.3kWh har et forhjulstræksystem understøttet af én motor på forakslen. Den anvendte motor er en [permanent magnet synkronmotor](../../../../technology/motors/pmsm/).
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 160 mm.
+Forhjulsophænget er [MacPherson fjederben](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [torsionsstang](../../../../technology/suspension/#torsion-beam). Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere. standard affjedringen har fast højde og dæmpning. Frihøjden med denne affjedring er 160 mm.
 
 ### Køretilstande
 
-Dongfeng Nammi Box 42.3kWh lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 3 tilstande:
+Dongfeng Nammi Box 42.3kWh lader brugeren vælge forskellige [køretilstande](../../../../technology/drivemodes/) som påvirker bilens håndtering. Føreren kan vælge mellem 3 tilstande:
 
-- Sport: Dynamisk styring og speeder.
-- Comfort: Afbalanceret styring og speeder.
-- Eco: Afbalanceret styring og effektiv speeder.
+- Sport: Dynamisk styring og gaspedal.
+- Comfort: Afbalanceret styring og gaspedal.
+- Eco: Afbalanceret styring og effektiv gaspedal.
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 300mm, og de bagerste skiver er 300mm.
+Dongfeng Nammi Box 42.3kWh er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag. De forreste skiver måler 300 mm, mens de bageste skiver er 300 mm.
 
 ### Regenerativ bremsning
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Det betragtes dog ikke som fuld en-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle, indtil det stopper af sig selv.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog er [regenerativ bremsning](../../../../technology/regen/) muliggjort gennem [**én-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Det betragtes dog ikke som fuld én-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle indtil det stopper af sig selv.
 
-Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
+Derudover kan du justere styrken af den regenerative bremsning når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, så du kan tilpasse køreoplevelsen efter dine præferencer.
 
 Den maksimale regenerative effekt er 50 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den Dongfeng Nammi Box 42.3kWh, med dimensioner på 4020 mm i længde, 1810 mm i bredde og 1570 mm i højde, tilhører B-segmentet af biler, også kendt som supermini. Det er en lille bil, der typisk er velegnet til bykørsel og tilbyder en god balance mellem effektivitet, størrelse og omkostninger. Dongfeng Nammi Box 42.3kWh fås i alt i 4 ensfarvede lakfarver.
+Dongfeng Nammi Box 42.3kWh, med dimensioner på 4020 mm i længde, 1810 mm i bredde og 1570 mm i højde, tilhører B-segment, også kendt som supermini, som er en lille bil typisk egnet til bykørsel og tilbyder en god balance mellem effektivitet, størrelse og pris. Dongfeng Nammi Box 42.3kWh fås i alt i 4 almindelige lakfarver.
 
-Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Dongfeng Nammi Box 42.3kWh, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Du kan vælge mellem flere hjuldesign, alle tilgængelige i samme størrelse, på Dongfeng Nammi Box 42.3kWh, så du kan personliggøre din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 215/55 dæk on 17" fælge
+- 215/55 dæk på 17" fælge
 
 Bilen har fire [rammeløse døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate).
 
-Der er kun ét tag til denne model.
+Der er kun én tagmulighed for denne model.
 
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/exterior_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="3000" height="2000"  >}}
 
@@ -108,108 +108,108 @@ Der er kun ét tag til denne model.
 
 ## Interiør
 
-Interiøret i Dongfeng Nammi Box 42.3kWh er designet med en minimalistisk æstetik og har materialer af middel kvalitet overalt. Den flydende midterkonsol skaber et åbent rum mellem passageren og føreren og tilbyder praktiske opbevaringsmuligheder. Du kan vælge mellem flere interiørdesigns.
+Interiøret i Dongfeng Nammi Box 42.3kWh er designet med en minimalistisk æstetik og har materialer af mellem kvalitet overalt. Den svævende midterkonsol skaber et åbent rum mellem passager og fører, og giver praktiske opbevaringsmuligheder. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
-Dongfeng Nammi Box 42.3kWh har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+Dongfeng Nammi Box 42.3kWh har plads til fem passagerer med to forsæder og en trebænk bagtil.
 
-#### Første række sæder
+#### Forsæder
 
-Dongfeng Nammi Box 42.3kWh tilbyder kun én type forreste sæde.
+Dongfeng Nammi Box 42.3kWh tilbyder én type forsæde.
 
-Følgende funktioner er tilgængelige på **** sædet.
+Følgende funktioner er tilgængelige på **** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar for fører, manuelt justerbar for passager)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar for fører, manuelt justerbar for passager)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar for fører, manuelt justerbar for passager)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar for fører, manuelt justerbar for passager)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar for fører, manuelt justerbar for passager)
-- højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (standard for fører, ikke tilgængelig for passager)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for fører, ikke tilgængelig for passager)
+- Højdejusterbar nakkestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating) (standard for fører, ikke tilgængelig for passager)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for fører, ikke tilgængelig for passager)
 
-Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Black/White [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Black/LightGray [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Black/Lilac [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black/White [kunstlæderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black/LightGray [kunstlæderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black/Lilac [kunstlæderbetræk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/frontseats_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="2600" height="1459"  >}}
 
-#### Sæde på anden række
+#### Anden række sæder
 
-Den anden række har en standard tre-sæders bænk med en 100 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Anden række har en standard tresæders bænk med 100 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
-- **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
+- **1-zone klimaanlæg:** Understøtter kun styring af én fælles zone for hele bilen.
 
-Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
+Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr sammenlignet med modeller med varmepumpe.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Dongfeng Nammi Box 42.3kWh inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+Dongfeng Nammi Box 42.3kWh inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
-- **Trådløs opladning af telefon**
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-Kontrolgrænsefladen for denne EV-model er fokuseret omkring skærminteraktion og har kun begrænset funktionalitet tilgængelig på knapper og stænger. For nogle kan dette medføre mindre end ideel brugeroplevelse og anvendelighed.
+Kontrolgrænsefladen for Dongfeng Nammi Box 42.3kWh er primært fokuseret på skærminteraktion, med begrænset funktionalitet tilgængelig via fysiske knapper og kontaktarme. Dette design kan resultere i en mindre end ideel brugeroplevelse for nogle brugere.
 
-Dongfeng Nammi Box 42.3kWh har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+Dongfeng Nammi Box 42.3kWh har to skærme med information til fører og passagerer. Bag rattet er der et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og på højre side er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Vigtige skærmdetaljer:
 
-- Skærmen  bag rattet monteret i instrumentbrættet er 5,0 tommer stor
-- Skærmen  i dashboardets midte er 12,8 tommer stor
+- Den  skærm bag rattet monteret i instrumentbrættet er 5,0 tommer stor
+- Den  skærm på midten af instrumentbrættet er 12,8 tommer stor
 
-Modellen har ikke et head-up display.
+Modellen inkluderer ikke et head-up display.
 
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/screens_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="3000" height="2250"  >}}
 
 ### Rat
 
-Dongfeng Nammi Box 42.3kWh er udstyret med en enkelt type rat:
+Dongfeng Nammi Box 42.3kWh er udstyret med én type rat:
 
-- **Cirkulært Rat:** Dette rat har en flad bund og top, hvilket giver et sporty udseende og følelse. Det inkluderer også fysiske knapper og rullehjul, der giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og administrere andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat har flad bund og top, hvilket giver et sportsligt look og følelse. Det har også fysiske knapper og scrollhjul, der giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
-Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+Denne model kommer med stemmestyring som standard, der giver dig mulighed for at styre forskellige funktioner gennem stemmekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
-Dongfeng Nammi Box 42.3kWh har et specialbygget infotainmentsystem designet til at give en grænseflade med en række funktioner og funktioner for at forbedre køreoplevelsen.
+Dongfeng Nammi Box 42.3kWh har et specialbygget infotainmentsystem designet til at give en grænseflade med en række funktioner for at forbedre køreoplevelsen.
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Dongfeng Nammi Box 42.3kWh.
+Dongfeng Nammi Box 42.3kWh kommer med ét lydsystem:
 
 - **DongFeng Sound System:** Har fire højttalere.
 
-Modellen har 1 USB-A-forbindelser som standard.
+Modellen har 1 USB-A tilslutninger som standard.
 
-## Lys
+## Lygter
 
-**Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+**Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/headlights_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="1920" height="1080"  >}}
 
@@ -217,72 +217,72 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den Dongfeng Nammi Box 42.3kWh inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+Dongfeng Nammi Box 42.3kWh har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Dongfeng Nammi Box 42.3kWh, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Dongfeng Nammi Box 42.3kWh, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Dongfeng Nammi Box 42.3kWh, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Dongfeng Nammi Box 42.3kWh, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Dongfeng Nammi Box 42.3kWh, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Dongfeng Nammi Box 42.3kWh, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Dongfeng Nammi Box 42.3kWh, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Dongfeng Nammi Box 42.3kWh, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Dongfeng Nammi Box 42.3kWh, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Dongfeng Nammi Box 42.3kWh, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
 ### Køreautomatisering
 
 Dongfeng Nammi Box 42.3kWh tilbyder [køreautomatisering på niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med standard niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med standard niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 ### Sensorer & Kameraer
 
-Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
-Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og tre [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+Denne model bruger kameraer, radar og ultrasoniske sensorer til sine førerassistentsystemer.
+Op til en [radar-sensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og tre [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 ## Sikkerhed
 
-Dongfeng Nammi Box 42.3kWh er udstyret med flere airbags for at sikre beskyttelse af passagererne i tilfælde af en kollision. Airbagsystemet inkluderer:
+Dongfeng Nammi Box 42.3kWh er udstyret med flere airbags for at sikre beskyttelse af passagererne i tilfælde af en kollision. Airbagsystemet omfatter:
 
-- Frontairbags til føreren og forsædepassageren
-- Sidegardinairbags til både første og anden række
-- Sideairbags til føreren og forsædepassageren
+- Frontairbags til fører og forsædepassager
+- Gardinairbags til både første og anden række
+- Sideairbags til fører og forsædepassager
 
 ## Sikkerheds- og adgangsteknologier
 
-Dongfeng Nammi Box 42.3kWh er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+Dongfeng Nammi Box 42.3kWh er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
+- **Nøglefri adgang og start:** Bilens nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse op og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 326 liter. Med det bageste sæde foldet ned, udvides dette til 900 liter.
+Bagagerummet har en lastkapacitet på 326 liter (11,5 CU FT). Med bagsædet lagt ned udvides dette til 900 liter (31,8 CU FT).
 
-Køretøjets maksimale vægt er 1730 kg, med en basisvægt på 1355 kg. Dette giver en maksimal last på 375 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 1730 kg (3814 lbs), med en egenvægt på 1355 kg (2987 lbs). Dette giver en maksimal last på 375 kg (827 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
-En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 750 kg, mens den for en ubremset trailer er 650 kg.
+Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for en bremset trailer er 750 kg (1653 lbs), mens det for en ubremset trailer er 650 kg (1433 lbs).
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
-Denne model havde verdenspremiere den 07.01.2024, og leveringerne startede i November 2024.
+Dongfeng Nammi Box 42.3kWh havde sin verdenspremiere den 07.01.2024, og leveringerne startede i November 2024.
 
 ### Priser
 
-Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Herunder er startpriserne for udvalgte lande:
 
 - 217 900,00 NOK (Norge)
 
-## Alternative Modeller
+## Alternative modeller
 
-I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Dongfeng Nammi Box 42.3kWh, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til Dongfeng Nammi Box 42.3kWh, som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
 
 - [Dacia Spring 65HP](/models/dacia/spring/spring_65hp/)
 - [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
@@ -290,4 +290,4 @@ I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alter
 
 <a href="https://db.evkx.net/evcompare?evs=0d91e7%2c36e7a8%2c90b31f%2cc21f41" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 
-{{< pagenavigation b_url="../" b_title="Dongfeng Nammi Box" f_url="rangeandconsumption/" f_title="Range" >}}
+{{< pagenavigation b_url="../" b_title="Dongfeng Nammi Box" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

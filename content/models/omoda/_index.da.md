@@ -1,5 +1,5 @@
 ---
-title: OMODA EV-modeller
+title: OMODA EV modeller
 linktitle: "OMODA"
 description: "Omoda er et relativt nyt bilmærke, der er opstået fra Chery, en af de største kinesiske bilproducenter. Officielt lanceret i 2022 repræsenterer Omoda Cherys forsøg på at imødekomme yngre, teknologikyndige forbrugere med fokus på banebrydende design, avanceret teknologi og bæredygtighed. Mærket lægger vægt på elektriske og hybride køretøjsmuligheder, der er i tråd med globale tendenser mod grønnere og mere miljøvenlige transportløsninger."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-OMODA E5 er en crossover tilgængelig i 1 varianter.
+OMODA E5 er en crossover, der fås i 1 varianter.
 </p>
 	<a href="e5/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

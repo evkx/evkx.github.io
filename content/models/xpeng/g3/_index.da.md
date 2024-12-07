@@ -16,8 +16,8 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="g3i/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
-				<li class="list-group-item list-group-item-action"><a href="g3i/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="g3i/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Opladningskurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="g3i/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rækkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="g3i/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="g3i/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
 				<li class="list-group-item list-group-item-action"><a href="g3i/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
 				<li class="list-group-item list-group-item-action"><a href="g3i/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>

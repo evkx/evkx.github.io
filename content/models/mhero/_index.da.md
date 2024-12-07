@@ -1,5 +1,5 @@
 ---
-title: MHERO EV-modeller
+title: MHERO EV modeller
 linktitle: "MHERO"
 description: "MHERO-mærket er en luksuriøs elektrisk off-road køretøjslinje lanceret af Kinas Dongfeng Motor Corporation gennem dets Mengshi-datterselskab. MHERO, der sigter mod high-end EV-markeder, blev introduceret i Europa i 2023 og viser avanceret ingeniørarbejde skræddersyet til barsk terræn og bæredygtig mobilitet."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-MHERO I er en luksus-SUV tilgængelig i 1 varianter.
+MHERO I er en luksus SUV, der fås i 1 varianter.
 </p>
 	<a href="i/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

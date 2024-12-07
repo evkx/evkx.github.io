@@ -16,8 +16,8 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_2wd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
-				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_2wd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_2wd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Opladningskurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_2wd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rækkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_2wd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_2wd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_2wd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_2wd/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
@@ -35,8 +35,8 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd_gen1/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
-				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd_gen1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Opladningskurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd_gen1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rækkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd_gen1/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
@@ -54,8 +54,8 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
-				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Opladningskurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rækkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_long_range_awd/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
@@ -73,8 +73,8 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_n/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
-				<li class="list-group-item list-group-item-action"><a href="ioniq_5_n/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="ioniq_5_n/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Opladningskurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_5_n/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rækkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_5_n/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_n/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_n/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_n/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
@@ -92,8 +92,8 @@ weight: 30
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_xrt/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
-				<li class="list-group-item list-group-item-action"><a href="ioniq_5_xrt/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="ioniq_5_xrt/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Opladningskurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_5_xrt/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rækkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_5_xrt/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_xrt/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifikationer</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_xrt/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
 				<li class="list-group-item list-group-item-action"><a href="ioniq_5_xrt/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>

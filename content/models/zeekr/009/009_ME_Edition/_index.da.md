@@ -1,7 +1,7 @@
 ---
 title: Zeekr 009 ME Edition
 linktitle: "009 ME Edition"
-description: "Zeekr 009 ME Edition er en fuldelektrisk premium MPV med en CLTC rækkevidde på op til 822 km (511 miles). EVKX.net har alle detaljerne."
+description: "Zeekr 009 ME Edition er en elektrisk premium MPV med en CLTC rækkevidde på op til 822 km (511 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,80 +11,80 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/main_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 
-Vi har opdelt vores Zeekr 009 ME Edition artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-Zeekr 009 ME Edition imponerer med en maksimal effekt på 400 kW (544 hk) og et imponerende samlet drejningsmoment på 686 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,5 sekunder og har en topfart på 190 km/h, hvilket gør den til en standout i sin klasse.
+Zeekr 009 ME Edition har en imponerende styrke med en maksimal effekt på 400 kW (544 hk / 536 bhp) og et kommanderende samlet drejningsmoment på 686 Nm (506 lb-ft). Denne højtydende maskine kan sprinte fra 0 til 100 km/t (0 til 62 mph) på kun 4,5 sekunder, og den når en tophastighed på 190 km/t (118 mph), hvilket gør den til en frontløber i sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 140,0 kWh og en nettoanvendelig kapacitet på 134,0 kWh, hvilket giver en buffer på 6,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 370 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitets batteri har en brutto kapacitet på 140,0 kWh og en netto kapacitet på 134,0 kWh, hvilket giver en 6,0 kWh buffer (4,3%) til batteribeskyttelse. Med en nominel spænding på 370 volt klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette lithium-ion batteri bruger [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 822 km (511 miles). Forbruget er 16,3kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Køretøjets rækkevidde, ifølge [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standarden, er 822 km (511 miles). Energiforbruget er 16,3 kWh/100 km baseret på CLTC standardtesten. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 200kW. En fuld opladning fra 0 - 100 % ville tage 83 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 39 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 52%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 142kW. Hver opladningssession ville tage 26 minutter og 5 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 200 kW. Opladning fra 0% til 100% tager cirka 83 minutter, mens et mere typisk scenario fra 10% til 80% tager 39 minutter med en gennemsnitlig ladehastighed på 144 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 6% til 52%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 142 kW, hvor hver opladningssession tager cirka 26 minutter og 5 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 28 kWh/100 km, ville turen tage cirka 9 timer og 22 minutter. Denne rejse ville kræve to opladningsstop fra 4% til 59%, med en samlet opladningstid på 63 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 28 kWh/100 km, ville turen tage cirka 9 timer og 22 minutter, med to opladningsstop fra 4% til 59%, i alt 63 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 12 timer og 10 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 12 timer og 10 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 
-Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Ladeporten er placeret på [venstre bagside](../../../../technology/charging/connectors/#rear-side), hvilket gør det nemt at bruge ladestationer, hvor du skal bakke ind til laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-Zeekr 009 ME Edition har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Zeekr 009 ME Edition har et firehjulstræksystem drevet af to motorer, én på hver aksel. Motorerne er [Permanent Magnet Synkron Motorer](../../../../technology/motors/pmsm/).
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 162 mm, og maksimum er 192 mm.
+Forhjulsophænget er [dobbelt wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske støddæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Den minimale frihøjde er 162 mm, og den maksimale er 192 mm.
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 533mm, og de bagerste skiver er 457mm.
+Zeekr 009 ME Edition er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag. De forreste skiver måler 533 mm, mens de bageste skiver er 457 mm.
 
 ### Regenerativ bremsning
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog er [regenerativ bremsning](../../../../technology/regen/) muliggjort gennem [**én-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Zeekr 009 ME Edition fås i alt 3 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
+Zeekr 009 ME Edition fås i alt i 3 lakfarver, inklusive flere iøjnefaldende metalliske muligheder.
 
-Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Zeekr 009 ME Edition, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Du kan vælge mellem flere hjuldesign, alle tilgængelige i samme størrelse, på Zeekr 009 ME Edition, så du kan personliggøre din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 255/50 dæk on 19" fælge
+- 255/50 dæk på 19" fælge
 
-Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene. Bagklappen er elektrisk drevet.
+Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) i anden række og en bagklap. Eldrevne døre er en standard funktion for sidedørene. Bagklappen er elektrisk betjent.
 
-Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humør og komfort for beboeren. Glasset er tonet for at beskytte mod varme fra solen.
+Der er kun én tagmulighed for denne model. Standardtaget har et stort panoramatag, der strækker sig over de fleste områder fra for til bag. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Glasset er tonet for at beskytte mod varme fra solen.
 
-Ruderne fra B-stolpen og bagsiden er tonede.
+Ruderne fra B-søjlen og bagud er tonede, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/exterior_1_st.jpg" title="Zeekr 009 ME Edition" width="2000" height="1333"  >}}
 
@@ -98,94 +98,94 @@ Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
 
-Sædelayoutet er seks sæder med to foran, to kaptajnstole på anden række og en to-sædet bænk på tredje række.
+Sædeopsætningen er seks sæder med to foran, to kaptajnstole på anden række og en tosæders bænk på tredje række.
 
-#### Første række sæder
+#### Forsæder
 
-Zeekr 009 ME Edition tilbyder kun én type forreste sæde.
+Zeekr 009 ME Edition tilbyder én type forsæde.
 
-Følgende funktioner er tilgængelige på **standard** sædet.
+Følgende funktioner er tilgængelige på **standard** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Justerbar sidestøtte i ryglæn](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
-Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Gray [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black [stofbetræk](../../../../technology/seats/materials/#fabric)
+- Black [stofbetræk](../../../../technology/seats/materials/#fabric)
+- Black [stofbetræk](../../../../technology/seats/materials/#fabric)
+- Gray [stofbetræk](../../../../technology/seats/materials/#fabric)
+- Gray [læderbetræk](../../../../technology/seats/materials/#leather)
 
-#### Sæde på anden række
+#### Anden række sæder
 
-For anden række har denne model to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
+Til anden række har denne model to kaptajnstole. Yderligere funktioner inkluderer:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 
-#### Sæder på tredje række
+#### Tredje række sæder
 
-Den tredje række har en to-sæders bænk med en 40:60-deling. Igen kan du folde sæderne ned, når de ikke bruges, for at skabe en større lastkapacitet.
+Tredje række har en tosæders bænk med en 40:60 opdeling. Du kan også folde sæderne ned, når de ikke bruges, for at skabe mere bagagerumsplads.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
-En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, hvilket kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Zeekr 009 ME Edition inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+Zeekr 009 ME Edition inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
 - **Elektrisk justerbart rat**
-- **Trådløs opladning af telefon**
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-Zeekr 009 ME Edition har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
+Zeekr 009 ME Edition har flere integrerede skærme. Bag rattet er der et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen er der én [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen) øverst i midterkonsollen.
 
 Vigtige skærmdetaljer:
 
-- Skærmen  bag rattet integreret i instrumentbrættet er 10,2 tommer stor
-- Skærmen touch øverst på midterkonsollen er 15,4 tommer stor
+- Den  skærm bag rattet integreret i instrumentbrættet er 10,2 tommer stor
+- Den touch skærm øverst i midterkonsollen er 15,4 tommer stor
 
-Modellen har ikke et head-up display.
+Modellen inkluderer ikke et head-up display.
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/screens_1_st.jpg" title="Zeekr 009 ME Edition" width="1256" height="836"  >}}
 
 ### Rat
 
-Zeekr 009 ME Edition er udstyret med en enkelt type rat:
+Zeekr 009 ME Edition er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat har integreret varme for ekstra komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
-Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+Denne model kommer med stemmestyring som standard, der giver dig mulighed for at styre forskellige funktioner gennem stemmekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -193,72 +193,72 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Med standard indbygget navigationssystem har du al den hjælp, du behøver for at nå din destination uden besvær.
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter Zeekr 009 ME Edition Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+Zeekr 009 ME Edition understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Zeekr 009 ME Edition.
+Zeekr 009 ME Edition kommer med ét lydsystem:
 
-- Med Yamaha Sound System får du 20 højttalere med en maksimal systemeffekt på 300 watt.
+- **Yamaha Sound System:** Har 20 højttalere og leverer en maksimal effekt på 300 watt.
 
-Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+Derudover inkluderer modellen 3 USB-C tilslutninger som standard. Modellen har 1 USB-A tilslutninger som standard.
 
-## Lys
+## Lygter
 
-De standard forlygter bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt for at dæmpe små områder foran.
+Zeekr 009 ME Edition er udstyret med avancerede LED Matrix-forlygter. Dette adaptive system opdeler den traditionelle enkeltstråle i flere mindre stråler, så lyskontrolenheden selektivt kan tænde og slukke dem for at undgå at blænde andre bilister. For øget sikkerhed inkluderer forlygterne også kurvelys, der oplyser siden ved drejning.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerede førerassistentsystemer
 
-Den Zeekr 009 ME Edition inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+Zeekr 009 ME Edition har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper føreren med at forudse kørselsforhold og spare energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper førere med at forudse køreforhold og spare energi.
 
 ### Sikkerhedssystemer
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Zeekr 009 ME Edition, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Zeekr 009 ME Edition, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Zeekr 009 ME Edition, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Zeekr 009 ME Edition, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Zeekr 009 ME Edition, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
+[**Advarsel om Krydsende Trafik Bag (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Zeekr 009 ME Edition, dette system bruger sensorer til at opdage køretøjer, der nærmer sig fra siden, når man bakker ud af en parkeringsplads eller indkørsel.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Zeekr 009 ME Edition, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Zeekr 009 ME Edition, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Zeekr 009 ME Edition, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Zeekr 009 ME Edition, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
 ### Køreautomatisering
 
-Med standard Pilot Assist niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med det standard Pilot Assist niveau 2-system får du følgende køreautomatiseringsfunktioner.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
 
 ## Sikkerheds- og adgangsteknologier
 
-Zeekr 009 ME Edition er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+Zeekr 009 ME Edition er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
+- **Nøglefri adgang og start:** Bilens nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse op og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 376 liter. Med det tredje sæderække foldet ned, udvides dette til 2979 liter. På taget kan du laste op til 100 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 32 liter.
+Bagagerummet har en lastkapacitet på 376 liter (13,3 CU FT). Med tredje række lagt ned udvides dette til 2979 liter (105,2 CU FT). På taget kan du laste op til 100 kg (220,5 lbs). Derudover er der et frunk (front-bagagerum) med en opbevaringskapacitet på 32 liter (1,1 CU FT).
 
-Køretøjets maksimale vægt er 3400 kg, med en basisvægt på 2830 kg. Dette giver en maksimal last på 570 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 3400 kg (7496 lbs), med en egenvægt på 2830 kg (6239 lbs). Dette giver en maksimal last på 570 kg (1257 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
-Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
+Denne model fås ikke med anhængertræk. Så hvis du skal trække en trailer, må du kigge på andre modeller.
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
-Denne model havde verdenspremiere den 14.04.2021, og leveringerne startede i October 2021. Denne model er kun tilgængelig i Kina.
-{{< pagenavigation b_url="../" b_title="Zeekr 009" f_url="rangeandconsumption/" f_title="Range" >}}
+Zeekr 009 ME Edition havde sin verdenspremiere den 14.04.2021, og leveringerne startede i October 2021. Bemærk venligst at denne model kun er tilgængelig i Kina.
+{{< pagenavigation b_url="../" b_title="Zeekr 009" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

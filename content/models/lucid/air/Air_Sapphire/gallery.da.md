@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Sapphire galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Lucid Air Sapphire-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Lucid Air Sapphire billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

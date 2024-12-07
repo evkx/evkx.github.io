@@ -1,7 +1,7 @@
 ---
 title: Zeekr MIX Standard Range RWD galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Zeekr MIX Standard Range RWD-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Zeekr MIX Standard Range RWD billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

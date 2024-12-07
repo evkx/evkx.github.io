@@ -1,7 +1,7 @@
 ---
 title: BMW i5 M60 xDrive galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store BMW i5 M60 xDrive-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store BMW i5 M60 xDrive billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

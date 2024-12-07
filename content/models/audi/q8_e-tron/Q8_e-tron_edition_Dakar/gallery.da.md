@@ -1,7 +1,7 @@
 ---
 title: Audi Q8 e-tron edition Dakar galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Audi Q8 e-tron edition Dakar-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Audi Q8 e-tron edition Dakar billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

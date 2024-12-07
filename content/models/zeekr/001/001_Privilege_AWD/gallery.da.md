@@ -1,7 +1,7 @@
 ---
 title: Zeekr 001 Privilege AWD galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Zeekr 001 Privilege AWD-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Zeekr 001 Privilege AWD billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

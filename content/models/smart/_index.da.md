@@ -1,5 +1,5 @@
 ---
-title: Smart EV-modeller
+title: Smart EV modeller
 linktitle: "Smart"
 description: "The Smart car manufacturer is a German automotive marque that produces small electric vehicles. It is a joint venture between Mercedes-Benz AG and Zhejiang Geely Holding Group, established in 2019. The venture is headquartered in Ningbo, China, and aims to produce Smart-badged cars in China to be marketed globally."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Smart #1 er en crossover tilgængelig i 3 varianter.
+Smart #1 er en crossover, der fås i 3 varianter.
 </p>
 	<a href="hash1/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Smart #1 er en crossover tilgængelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Smart #3 er en crossover tilgængelig i 1 varianter.
+Smart #3 er en crossover, der fås i 1 varianter.
 </p>
 	<a href="hash3/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

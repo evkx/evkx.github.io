@@ -1,7 +1,7 @@
 ---
 title: GMC Hummer EV SUV 3x
 linktitle: "Hummer EV SUV 3x"
-description: "GMC Hummer EV SUV 3x er en fuldelektrisk SUV med en rækkevidde på EPA på op til 505 km (314 miles). EVKX.net har alle detaljerne."
+description: "GMC Hummer EV SUV 3x er en elektrisk SUV med en EPA rækkevidde på op til 505 km (314 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,107 +11,107 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/main_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="2000"  >}}
 
-Vi har opdelt vores GMC Hummer EV SUV 3x artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-GMC Hummer EV SUV 3x leverer en imponerende maksimal effekt på 619 KW (842 hk) og et massivt drejningsmoment på 1150 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på blot 3,6 sekunder, hvilket viser dens fantastiske acceleration. Derudover opnår den en topfart på 171 km/t, hvilket gør den til et sandt ingeniør- og præstationsmæssigt vidunder
+GMC Hummer EV SUV 3x leverer en imponerende maksimal effekt på 619 kW (842 hk/830 bhp) og et massivt samlet drejningsmoment på 1150 Nm (849 lb-ft). Denne kraftmaskine kan accelerere fra 0 til 100 km/t (0 til 62 mph) på kun 3,6 sekunder, hvilket viser dens forbløffende acceleration. Derudover opnår den en tophastighed på 171 km/t (106 mph), hvilket gør den til et sandt teknologisk vidunder.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 225,0 kWh og en nettoanvendelig kapacitet på 215,0 kWh, hvilket giver en buffer på 10,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 355 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitets batteri har en brutto kapacitet på 225,0 kWh og en netto kapacitet på 215,0 kWh, hvilket giver en 10,0 kWh buffer (4,4%) til batteribeskyttelse. Med en nominel spænding på 355 volt klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
-Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 505 km med en energiforbrugsrate på 42,6 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en rækkevidde på 314 miles (505 km) med et energiforbrug på 1,5 miles per kWh. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 143 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 50 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 48%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 241kW. Hver opladningssession ville tage 25 minutter og 10 sekunder. Denne effektive opladningskapacitet gør GMC Hummer EV SUV 3x til et praktisk valg til langdistancerejser.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 350 kW. Opladning fra 0% til 100% tager cirka 143 minutter, mens et mere typisk scenario fra 10% til 80% tager 50 minutter med en gennemsnitlig ladehastighed på 182 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 1% til 48%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 241 kW, hvor hver opladningssession tager cirka 25 minutter og 10 sekunder. Denne effektive opladningskapacitet gør GMC Hummer EV SUV 3x til et bekvemt valg til langdistancekørsel.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 43 kWh/100 km, ville turen tage cirka 9 timer og 13 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 51%, med en samlet opladningstid på 54 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 43 kWh/100 km, ville turen tage cirka 9 timer og 13 minutter, med to opladningsstop fra 1% til 51%, i alt 54 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 19,2 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 11 timer og 11 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 19,2 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 11 timer og 11 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 
-Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Ladeporten er placeret på [venstre bagside](../../../../technology/charging/connectors/#rear-side), hvilket gør det nemt at bruge ladestationer, hvor du skal bakke ind til laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
-### Bidirektionel opladning
+### Tovejs opladning
 
-Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsyne elektrisk udstyr, der kræver op til 6 kW effekt, inklusive opladning af andre køretøjer.
+Denne model understøtter V2L (Vehicle to Load), som gør det muligt at forsyne elektrisk udstyr med op til 6 kW strøm, inklusive muligheden for at oplade andre køretøjer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-GMC Hummer EV SUV 3x har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+GMC Hummer EV SUV 3x har et firehjulstræksystem understøttet af tre motorer. Én på forakslen og to på bagakslen. Motorerne er [Permanent Magnet Synkron Motorer](../../../../technology/motors/pmsm/).
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 257 mm, og maksimum er 406 mm.
+Forhjulsophænget er [dobbelt wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske støddæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Den minimale frihøjde er 257 mm, og den maksimale er 406 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funktion på GMC Hummer EV SUV 3x. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en standard-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
+Dynamisk styring er standard på GMC Hummer EV SUV 3x, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort. Derudover er baghjulsstyring tilgængelig som standard funktion. Baghjulsstyring reducerer vendediameteren ved langsom kørsel.
 
 ### Køretilstande
 
-GMC Hummer EV SUV 3x lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 7 tilstande:
+GMC Hummer EV SUV 3x lader brugeren vælge forskellige [køretilstande](../../../../technology/drivemodes/) som påvirker bilens håndtering. Føreren kan vælge mellem 7 tilstande:
 
-- Watts to Freedom: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
-- Normal: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
-- Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
-- Terrain: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning.
-- Off-Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
-- Tow/Haul: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
-- My Mode: Brugerdefineret styring, affjedring og gasrespons.
+- Watts to Freedom: Dynamisk styring, lav affjedring med dynamisk gaspedal og affjedring.
+- Normal: Afbalanceret styring, lav affjedring med effektiv gaspedal og afbalanceret affjedring.
+- Comfort: Afbalanceret styring, normal affjedringshøjde med effektiv gaspedal og komfortabel affjedringsdæmpning.
+- Terrain: Afbalanceret styring, høj affjedringshøjde med afbalanceret gaspedal og dæmpning.
+- Off-Road: Afbalanceret styring, maksimal affjedringshøjde med afbalanceret gaspedal og dæmpning.
+- Tow/Haul: Afbalanceret styring, adaptiv affjedringshøjde med afbalanceret gaspedal og adaptiv affjedringsdæmpning.
+- My Mode: Brugerdefinerede indstillinger for styring, affjedring og gaspedalrespons.
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 343mm, og de bagerste skiver er 343mm.
+GMC Hummer EV SUV 3x er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag. De forreste skiver måler 343 mm, mens de bageste skiver er 343 mm.
 
 ### Regenerativ bremsning
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Systemet stopper bilen helt ved brug af friktionsbremser.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog er [regenerativ bremsning](../../../../technology/regen/) muliggjort gennem [**én-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Systemet stopper bilen helt ved hjælp af friktionsbremser.
 
-Hvis du løfter foden helt væk, er regen på et fast niveau. Dette kan ikke justeres.
+Hvis du fjerner foden helt, er regenereringen på ét fast niveau. Dette kan ikke justeres.
 
 Den maksimale regenerative effekt er 400 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den GMC Hummer EV SUV 3x, med dimensioner på 4999 mm i længde, 2197 mm i bredde og 1976 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. GMC Hummer EV SUV 3x fås i alt 7 lakfarver, herunder flere iøjnefaldende metalliske muligheder. Nogle af disse lakmuligheder inkluderer to-tone lak, hvor taget og den øverste del af karosseriet er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt look.
+GMC Hummer EV SUV 3x, med dimensioner på 4999 mm i længde, 2197 mm i bredde og 1976 mm i højde, tilhører mellemklasse SUV'er, der tilbyder en kombination af plads, komfort, ydeevne og alsidighed, hvilket gør dem velegnede til en bred vifte af bilister med forskellige behov. GMC Hummer EV SUV 3x fås i alt i 7 lakfarver, inklusive flere iøjnefaldende metalliske muligheder. Nogle af disse lakvalg inkluderer totonede farver, hvor taget og den øverste del af karosseriet er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt udseende.
 
-Du kan vælge mellem flere hjul i forskellige størrelser på GMC Hummer EV SUV 3x, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+GMC Hummer EV SUV 3x tilbyder flere hjulmuligheder i forskellige størrelser, så du kan tilpasse din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 305/70 dæk on 18" fælge
-- 305/55 dæk on 22" fælge
+- 305/70 dæk på 18" fælge
+- 305/55 dæk på 22" fælge
 
-Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+Smallere hjul forbedrer forbruget og giver længere rækkevidde, mens bredere hjul giver bedre vejgreb og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-tailgate) der falder ned.
 
-Der er kun ét tag til denne model. Standardtaget har 4 separate glaspaneler, der kan fjernes, hvilket gør dette til en cabriolet.
+Der er kun én tagmulighed for denne model. Standardtaget har 4 separate glaspaneler, der kan fjernes, hvilket gør denne til en cabriolet.
 
-Ruderne fra B-stolpen og bagsiden er tonede.
+Ruderne fra B-søjlen og bagud er tonede, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/exterior_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="2000"  >}}
 
@@ -121,124 +121,124 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-GMC Hummer EV SUV 3x har et førerfokuseret interiør, der forbedrer cockpitfølelsen med materialer af høj kvalitet i flere områder i stedet for hård plast. Det inkluderer også en traditionel midterkonsol, der adskiller fører og passager, og som giver praktisk opbevaring og funktionalitet. Du kan vælge mellem flere interiørdesigns.
+GMC Hummer EV SUV 3x har et førercentreret interiør, der fremhæver cockpit-følelsen med materialer af høj kvalitet i flere områder i stedet for hård plastik. Den har også en traditionel midterkonsol, der adskiller fører og passager, og giver praktisk opbevaring og funktionalitet. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
-GMC Hummer EV SUV 3x har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+GMC Hummer EV SUV 3x har plads til fem passagerer med to forsæder og en trebænk bagtil.
 
-#### Første række sæder
+#### Forsæder
 
-GMC Hummer EV SUV 3x tilbyder kun én type forreste sæde.
+GMC Hummer EV SUV 3x tilbyder én type forsæde.
 
-Følgende funktioner er tilgængelige på **standard** sædet.
+Følgende funktioner er tilgængelige på **standard** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
+- Højdejusterbar nakkestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Black/White [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Black/Brown [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black/White [kunstlæderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black/Brown [kunstlæderbetræk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/frontseats_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="2000"  >}}
 
-#### Sæde på anden række
+#### Anden række sæder
 
-Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Anden række har en standard tresæders bænk med 60:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
-- højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
+- Højdejusterbar nakkestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
-En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, hvilket kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-GMC Hummer EV SUV 3x inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+GMC Hummer EV SUV 3x inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
 - **Elektrisk justerbart rat**
-- **Trådløs opladning af telefon**
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-GMC Hummer EV SUV 3x har en brugervenlig kontrolgrænseflade, der kombinerer fysiske knapper til ofte brugte funktioner, såsom klimakontrol, med stænger og skærme for en problemfri oplevelse.
+GMC Hummer EV SUV 3x har en brugervenlig kontrolgrænseflade, der kombinerer fysiske knapper til hyppigt anvendte funktioner, såsom klimakontrol, med kontaktarme og skærme for en problemfri oplevelse.
 
-GMC Hummer EV SUV 3x har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+GMC Hummer EV SUV 3x har to skærme med information til fører og passagerer. Bag rattet er der et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og på højre side er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Vigtige skærmdetaljer:
 
-- Skærmen  bag rattet monteret i instrumentbrættet er 12,3 tommer stor
-- Skærmen touch i dashboardets midte er 13,4 tommer stor
+- Den  skærm bag rattet monteret i instrumentbrættet er 12,3 tommer stor
+- Den touch skærm på midten af instrumentbrættet er 13,4 tommer stor
 
-Modellen har ikke et head-up display.
+Modellen inkluderer ikke et head-up display.
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/screens_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="1644"  >}}
 
 ### Rat
 
-GMC Hummer EV SUV 3x er udstyret med en enkelt type rat:
+GMC Hummer EV SUV 3x er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat har integreret varme for ekstra komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
-GMC Hummer EV SUV 3x er udstyret med et avanceret infotainmentsystem, der kører på Android Automotive OS med Google Automotive Services, hvilket giver en problemfri integration af Google-apps og -tjenester direkte i bilen. Dette robuste system inkluderer indbygget Google Maps til navigation, Google Assistant til stemmekommandoer og adgang til et bredt udvalg af apps via Google Play Store. GMC har yderligere forbedret denne platform ved at integrere deres egen suite af applikationer, der giver omfattende bilindstillinger og yderligere funktioner skræddersyet til GMC-køreoplevelsen.
+GMC Hummer EV SUV 3x har et avanceret infotainmentsystem bygget på Android Automotive OS med Google Automotive Services, der tilbyder en problemfri integration af Google-apps og -tjenester direkte i bilen. Dette robuste system inkluderer indbygget Google Maps til navigation, Google Assistent til stemmestyring og adgang til en bred vifte af apps via Google Play Store. GMC har yderligere forbedret denne platform ved at integrere deres egen suite af applikationer, der giver omfattende bilindstillinger og yderligere funktioner skræddersyet til GMC køreoplevelsen.
 
 ### Navigationssystem
 
-Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning. Systemet giver realtids trafikoplysninger, hvilket sikrer en effektiv og stressfri rejse.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning. Systemet giver realtids trafikinformation, der sikrer en effektiv og stressfri rejse.
 
-### App store
+### App Butik
 
-Infotainmentsystemet inkluderer en App Store, hvor du kan downloade tredjepartsapps til at køre direkte på bilens skærm uden behov for en tilsluttet telefon. Tilgængelige apps varierer afhængigt af markedet, men inkluderer populære muligheder som:
+Infotainmentsystemet inkluderer en App Store, hvor du kan downloade tredjepartsapps, der kører direkte på bilens skærm uden behov for en tilsluttet telefon. Tilgængelige apps varierer efter marked, men inkluderer populære muligheder som:
 
-- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver uendelige underholdningsmuligheder under kørslen.
+- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver endeløse underholdningsmuligheder under kørslen.
 - The Weather Channel
 - Audiobooks.com
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter GMC Hummer EV SUV 3x Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+GMC Hummer EV SUV 3x understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for GMC Hummer EV SUV 3x.
+GMC Hummer EV SUV 3x kommer med ét lydsystem:
 
-- Med Bose Premium Sound System får du 14 højttalere med en maksimal systemeffekt på 625 watt.
+- **Bose Premium Sound System:** Har 14 højttalere og leverer en maksimal effekt på 625 watt.
 
-Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelser som standard.
+Derudover inkluderer modellen 2 USB-C tilslutninger som standard. Modellen har 2 USB-A tilslutninger som standard.
 
-## Lys
+## Lygter
 
-**Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+**Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/headlights_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="2000"  >}}
 
@@ -246,74 +246,74 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den GMC Hummer EV SUV 3x inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+GMC Hummer EV SUV 3x har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på GMC Hummer EV SUV 3x, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på GMC Hummer EV SUV 3x, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på GMC Hummer EV SUV 3x, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på GMC Hummer EV SUV 3x, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på GMC Hummer EV SUV 3x, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på GMC Hummer EV SUV 3x, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på GMC Hummer EV SUV 3x, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
+[**Advarsel om Krydsende Trafik Bag (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på GMC Hummer EV SUV 3x, dette system bruger sensorer til at opdage køretøjer, der nærmer sig fra siden, når man bakker ud af en parkeringsplads eller indkørsel.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på GMC Hummer EV SUV 3x, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på GMC Hummer EV SUV 3x, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på GMC Hummer EV SUV 3x, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på GMC Hummer EV SUV 3x, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på GMC Hummer EV SUV 3x, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på GMC Hummer EV SUV 3x, dette system hjælper med at opdage trafik i blinde vinkler.
 
 ### Køreautomatisering
 
-Med standard Super Cruise niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med det standard Super Cruise niveau 2-system får du følgende køreautomatiseringsfunktioner.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
-- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer
 
-Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
-Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+Denne model bruger kameraer, radar og ultrasoniske sensorer til sine førerassistentsystemer.
+Op til fem [radar-sensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 ## Sikkerheds- og adgangsteknologier
 
-GMC Hummer EV SUV 3x er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+GMC Hummer EV SUV 3x er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
+- **Nøglefri adgang og start:** Bilens nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse op og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 1016 liter. Med det bageste sæde foldet ned, udvides dette til 2316 liter. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 320 liter.
+Bagagerummet har en lastkapacitet på 1016 liter (35,9 CU FT). Med bagsædet lagt ned udvides dette til 2316 liter (81,8 CU FT). Derudover er der et frunk (front-bagagerum) med en opbevaringskapacitet på 320 liter (11,3 CU FT).
 
-Køretøjets maksimale vægt er 4717 kg, med en basisvægt på 4282 kg. Dette giver en maksimal last på 435 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 435 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
+Køretøjets maksimale vægt er 4717 kg (10399 lbs), med en egenvægt på 4282 kg (9440 lbs). Dette giver en maksimal last på 435 kg (959 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne. 435kg anses for at være lavt for denne type bil og kan begrænse hvor meget du kan medbringe ud over passagerer.
 
-En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 3402 kg, mens den for en ubremset trailer er 750 kg.
+Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for en bremset trailer er 3402 kg (7500 lbs), mens det for en ubremset trailer er 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/trunk_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="1999"  >}}
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
-Denne model havde verdenspremiere den 20.10.2020, og leveringerne startede i December 2021. Denne model er kun tilgængelig i Nordamerika.
+GMC Hummer EV SUV 3x havde sin verdenspremiere den 20.10.2020, og leveringerne startede i December 2021. Bemærk venligst at denne model kun er tilgængelig i Nordamerika.
 
 ### Priser
 
-Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Herunder er startpriserne for udvalgte lande:
 
 - $104 650,00 (USA)
 
-## Alternative Modeller
+## Alternative modeller
 
-I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til GMC Hummer EV SUV 3x, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til GMC Hummer EV SUV 3x, som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
 
 - [Rivian R1S Quad-Motor AWD MP](/models/rivian/r1/r1s_quad-motor_awd_mp/)
 
 <a href="https://db.evkx.net/evcompare?evs=e48527%2ceaa509" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 
-{{< pagenavigation b_url="../" b_title="GMC Hummer EV" f_url="rangeandconsumption/" f_title="Range" >}}
+{{< pagenavigation b_url="../" b_title="GMC Hummer EV" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

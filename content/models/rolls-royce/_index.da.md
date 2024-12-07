@@ -1,5 +1,5 @@
 ---
-title: Rolls-Royce EV-modeller
+title: Rolls-Royce EV modeller
 linktitle: "Rolls-Royce"
 description: "Rolls Royce is a British luxury car maker that is known for its high-end vehicles and bespoke craftsmanship. The company has recently announced that it will go all-electric by 2030, following the trend of other automakers that are committed to the decarbonisation of the transport sector. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Rolls-Royce Spectre er en luksussedan tilgængelig i 1 varianter.
+Rolls-Royce Spectre er en luksusbil, der fås i 1 varianter.
 </p>
 	<a href="spectre/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

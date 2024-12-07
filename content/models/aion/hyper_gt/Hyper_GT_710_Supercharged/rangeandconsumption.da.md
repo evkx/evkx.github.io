@@ -1,6 +1,6 @@
 ---
 title: Aion Hyper GT 710 Supercharged rækkevidde og forbrug
-linktitle: "Range"
+linktitle: "Rækkevidde"
 description: "Her finder du alle detaljer om rækkevidde og forbrug for Aion Hyper GT 710 Supercharged."
 weight: 2
 hidden: true
@@ -9,14 +9,14 @@ navicon: bi-file-earmark-bar-graph
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 
-Rækkevidden vil variere afhængigt af flere faktorer. Som hvor hurtigt du kører, temperaturen, våd eller tør vej og det udstyrede udstyr. På denne side finder du et diagram og tabeller med standard testcyklusresultater som WLTP og EPA og estimeret rækkevidde i den virkelige verden i forskellige miljøer.
+Rækkevidden varierer afhængigt af flere faktorer. Som hvor hurtigt du kører, temperaturen, våd eller tør vej, og det monterede udstyr. På denne side finder du et diagram og tabeller med standardtestcyklusresultater som WLTP og EPA samt estimeret rækkevidde i den virkelige verden under forskellige forhold.
 
 <img class="img-fluid" alt="Charge curve" src="/images//models/aion/hyper_gt/hyper_gt_710_supercharged/range.svg"/>
 <a href="/images/models/aion/hyper_gt/hyper_gt_710_supercharged/range.svg">Full screen</a>
 
-### Officielle testcyklusresultater
+### Officielle testcyklus resultater
 
-Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/vekselstrøm slukket. Klik på linkene i tabellen for flere detaljer om testprocedurer.
+Herunder er de officielt vurderede rækkevidder. Testene udføres med varme/AC slukket. Klik på linkene i tabellen for flere detaljer om testprocedurer.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -25,7 +25,7 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 			<th>
 			</th>
 			<th>
-				Range
+				Rækkevidde
 			</th>
 			<th>
 				Forbrug
@@ -36,7 +36,7 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/cltc/ ">
-					CLTC-rækkevidde
+					CLTC rækkevidde
 				</a>
 			</td>
 			<td>
@@ -50,9 +50,9 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 </table>
 </div>
 
-### Officielle testcyklusresultater med tilføjet opvarmning
+### Officielle testcyklus resultater med tilføjet opvarmning
 
-Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/varm dag påvirker den officielle rækkevidde.
+Tabellen nedenfor viser, hvordan det påvirker den officielle rækkevidde at tænde for varme/køling på en kold/varm dag.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -61,10 +61,10 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 			<th>
 			</th>
 			<th>
-				Range
+				Rækkevidde
 			</th>
 			<th>
-				Reduktion af rækkevidde
+				Reduktion i rækkevidde
 			</th>
 		</tr>
 	</thead>
@@ -73,9 +73,9 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 </table>
 </div>
 
-### Estimat for rækkevidde fra den virkelige verden
+### Estimater for rækkevidde i den virkelige verden
 
-Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i perfekt stand og under forhold, der kræver aircondition til at opvarme eller afkøle køretøjer. Se vores [range guide](../../../../../guides/understandingrange/) for at se, hvordan rækkevidden påvirkes i den virkelige verden.
+Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden under perfekte forhold og under forhold, der kræver A/C til opvarmning eller afkøling af køretøjer. Se vores [rækkeviddeguide](../../../../../guides/understandingrange/) for at se, hvordan rækkevidden påvirkes i den virkelige verden.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -84,7 +84,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 			<th>
 			</th>
 			<th>
-				Range
+				Rækkevidde
 			</th>
 			<th>
 				Forbrug
@@ -94,7 +94,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 	<tbody>
 		<tr>
 			<td>
-				120kmt/75mph perfekt stand
+				120 km/t/75 mph perfekte forhold
 			</td>
 			<td>
 				385 km / 239 mi
@@ -105,7 +105,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 		</tr>
 		<tr>
 			<td>
-				120kmt/75mph med 2KW opvarmning
+				120 km/t/75 mph med 2 kW opvarmning
 			</td>
 			<td>
 				355 km /221mi
@@ -122,6 +122,6 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 <strong><i class="bi-arrow-left"></i> Aion Hyper GT 710 Supercharged </strong>
 </a>
 <a href="../chargingcurve/" class="text-decoration-none text-black float-end">
-<strong>Opladningskurve <i class="bi-arrow-right"></i></strong>
+<strong>Ladekurve <i class="bi-arrow-right"></i></strong>
 </a>
 </div>

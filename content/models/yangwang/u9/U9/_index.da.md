@@ -1,7 +1,7 @@
 ---
 title: YangWang U9
 linktitle: "U9"
-description: "YangWang U9 er en fuldelektrisk premium superbil med en CLTC rækkevidde på op til 465 km (289 miles). EVKX.net har alle detaljerne."
+description: "YangWang U9 er en elektrisk premium superbil med en CLTC rækkevidde på op til 465 km (289 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,94 +11,94 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/yangwang/u9/u9/main_1_st.jpg" title="YangWang U9" width="3000" height="1562"  >}}
 
-Vi har opdelt vores YangWang U9 artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-YangWang U9 leverer en imponerende maksimal effekt på 960 KW (1305 hk) og et massivt drejningsmoment på 1680 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på blot 2,36 sekunder, hvilket viser dens fantastiske acceleration. Derudover opnår den en topfart på 309 km/t, hvilket gør den til et sandt ingeniør- og præstationsmæssigt vidunder
+YangWang U9 leverer en imponerende maksimal effekt på 960 kW (1305 hk/1287 bhp) og et massivt samlet drejningsmoment på 1680 Nm (1240 lb-ft). Denne kraftmaskine kan accelerere fra 0 til 100 km/t (0 til 62 mph) på kun 2,36 sekunder, hvilket viser dens forbløffende acceleration. Derudover opnår den en tophastighed på 309 km/t (192 mph), hvilket gør den til et sandt teknologisk vidunder.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 83,0 kWh og en nettoanvendelig kapacitet på 80,0 kWh, hvilket giver en buffer på 3,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 630 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitets batteri har en brutto kapacitet på 83,0 kWh og en netto kapacitet på 80,0 kWh, hvilket giver en 3,0 kWh buffer (3,6%) til batteribeskyttelse. Med en driftsspænding på 630 volt kvalificerer det som et 800-volt batterisystem. Denne høje spænding er afgørende for systemets opladningskapaciteter. Lithium-ion batteriet bruger [LFP-teknologi](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), hvilket giver både fordele og ulemper sammenlignet med typiske NCA/NMC-batterier.
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 465 km (289 miles). Forbruget er 17,2kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Køretøjets rækkevidde, ifølge [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standarden, er 465 km (289 miles). Energiforbruget er 17,2 kWh/100 km baseret på CLTC standardtesten. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 500kW. En fuld opladning fra 0 - 100 % ville tage 45 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 23 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 69%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 128kW. Hver opladningssession ville tage 26 minutter og 31 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 500 kW. Opladning fra 0% til 100% tager cirka 45 minutter, mens et mere typisk scenario fra 10% til 80% tager 23 minutter med en gennemsnitlig ladehastighed på 145 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 1% til 69%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 128 kW, hvor hver opladningssession tager cirka 26 minutter og 31 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 26 kWh/100 km, ville turen tage cirka 9 timer og 45 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 76%, med en samlet opladningstid på 86 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 26 kWh/100 km, ville turen tage cirka 9 timer og 45 minutter, med tre opladningsstop fra 1% til 76%, i alt 86 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 22 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 3 timer og 38 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 22 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 3 timer og 38 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 
-Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Ladeporten er placeret på [venstre bagside](../../../../technology/charging/connectors/#rear-side), hvilket gør det nemt at bruge ladestationer, hvor du skal bakke ind til laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-YangWang U9 har et firehjulstræksystem understøttet af fire motorer. En til hvert hjul. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+YangWang U9 har et firehjulstræksystem understøttet af fire motorer. Én til hvert hjul. Motorerne er [Permanent Magnet Synkron Motorer](../../../../technology/motors/pmsm/).
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 120 mm, og maksimum er 120 mm.
+Forhjulsophænget bruger et [dobbelt wishbone](../../../../technology/suspension/#double-wishbone) design, mens baghjulsophænget bruger et [Multilink](../../../../technology/suspension/#multilink) setup. Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Den minimale frihøjde er 120 mm, og den maksimale er 120 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funktion på YangWang U9. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+Dynamisk styring er standard på YangWang U9, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort.
 
 ### Køretilstande
 
-YangWang U9 lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 5 tilstande:
+YangWang U9 lader brugeren vælge forskellige [køretilstande](../../../../technology/drivemodes/) som påvirker bilens håndtering. Føreren kan vælge mellem 5 tilstande:
 
-- Range: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
-- Cruise: Balanceret styring, laveste affjedringshøjde med afbalanceret gas og dæmpning.
-- Sport: Balanceret styring, laveste affjedringshøjde med afbalanceret gas og dæmpning.
-- Track: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
-- Drift: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
+- Range: Afbalanceret styring, lav affjedring med effektiv gaspedal og afbalanceret affjedring.
+- Cruise: Afbalanceret styring, laveste affjedringshøjde med afbalanceret gaspedal og dæmpning.
+- Sport: Afbalanceret styring, laveste affjedringshøjde med afbalanceret gaspedal og dæmpning.
+- Track: Dynamisk styring, lav affjedring med dynamisk gaspedal og affjedring.
+- Drift: Dynamisk styring, lav affjedring med dynamisk gaspedal og affjedring.
 
 ### Bremser
 
-Bremserne bag og foran er [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De forreste skiver er 390mm, og de bagerste skiver er 390mm.
+For- og bagbremserne er [keramiske skivebremser](../../../../technology/brakes/#ceramic-brakes). De forreste skiver måler 390 mm, mens de bageste skiver er 390 mm.
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedal kørsel](../../../../technology/regen/#one-pedal-driving) eller du kan køre på frihjul og bruge de [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) til at regenerere. Systemet stopper bilen helt ved brug af friktionsbremser.
+[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [én-pedal kørsel](../../../../technology/regen/#one-pedal-driving) eller du kan rulle og bruge de [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) til at regenerere. Systemet stopper bilen helt ved hjælp af friktionsbremser.
 
-Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er to niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
+Derudover kan du justere styrken af den regenerative bremsning når du løfter foden fra speederen. Der er to niveauer af regenerativ bremsning at vælge imellem, så du kan tilpasse køreoplevelsen efter dine præferencer.
 
 Den maksimale regenerative effekt er 400 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-YangWang U9 fås i alt 5 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
+YangWang U9 fås i alt i 5 lakfarver, inklusive flere iøjnefaldende metalliske muligheder.
 
-Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på YangWang U9, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Du kan vælge mellem flere hjuldesign, alle tilgængelige i samme størrelse, på YangWang U9, så du kan personliggøre din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 275/35 dæk på 21" fælge foran og 325/30 dæk på 21" fælge bagpå
+- 275/35 dæk på 21" fælge foran og 325/30 dæk på 21" fælge bag
 
-Der er kun ét tag til denne model.
+Der er kun én tagmulighed for denne model.
 
 {{< sitefiguresized thumb="models/yangwang/u9/u9/exterior_1_st.jpg" title="YangWang U9" width="3000" height="1562"  >}}
 
@@ -110,63 +110,63 @@ Der er kun ét tag til denne model.
 
 ### Sæder
 
-#### Første række sæder
+#### Forsæder
 
-YangWang U9 tilbyder kun én type forreste sæde.
+YangWang U9 tilbyder én type forsæde.
 
-Følgende funktioner er tilgængelige på **** sædet.
+Følgende funktioner er tilgængelige på **** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Black [Alcantara polstring](../../../../technology/seats/materials/#alcantara)
+- Black [Alcantara-betræk](../../../../technology/seats/materials/#alcantara)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
-- **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
+- **1-zone klimaanlæg:** Understøtter kun styring af én fælles zone for hele bilen.
 
-Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
+Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr sammenlignet med modeller med varmepumpe.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-YangWang U9 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+YangWang U9 inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-YangWang U9 har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet.
+YangWang U9 har flere integrerede skærme. Bag rattet er der et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der én [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen) i midterkonsollen og én [infotainmentskærm](../../../../technology/userinterface/screens/#front-passenger-screen) foran passagersædet.
 
 Vigtige skærmdetaljer:
 
-- Skærmen  bag rattet integreret i instrumentbrættet er 10,0 tommer stor
-- Skærmen touch øverst på midterkonsollen er 11,0 tommer stor
-- Skærmen touch foran passageren i instrumentbrættet er 10,0 tommer stor
+- Den  skærm bag rattet integreret i instrumentbrættet er 10,0 tommer stor
+- Den touch skærm øverst i midterkonsollen er 11,0 tommer stor
+- Den touch skærm foran passageren i instrumentbrættet er 10,0 tommer stor
 
-Modellen har ikke et head-up display.
+Modellen inkluderer ikke et head-up display.
 
 {{< sitefiguresized thumb="models/yangwang/u9/u9/screens_1_st.jpg" title="YangWang U9" width="1200" height="717"  >}}
 
 ### Rat
 
-YangWang U9 er udstyret med en enkelt type rat:
+YangWang U9 er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -174,23 +174,23 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Med standard indbygget navigationssystem har du al den hjælp, du behøver for at nå din destination uden besvær.
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter YangWang U9 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+YangWang U9 understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for YangWang U9.
+YangWang U9 kommer med ét lydsystem:
 
-- Med Rimac Nevera Sound System får du otte højttalere med en maksimal systemeffekt på 1200 watt.
+- **Rimac Nevera Sound System:** Har otte højttalere og leverer en maksimal effekt på 1200 watt.
 
-## Lys
+## Lygter
 
-**Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+**Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/yangwang/u9/u9/headlights_1_st.jpg" title="YangWang U9" width="3000" height="2250"  >}}
 
@@ -198,40 +198,40 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den YangWang U9 inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+YangWang U9 har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på YangWang U9, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på YangWang U9, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på YangWang U9, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på YangWang U9, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
 ### Køreautomatisering
 
-Med standard  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med det standard  niveau 2-system får du følgende køreautomatiseringsfunktioner.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
 
 ## Sikkerheds- og adgangsteknologier
 
-YangWang U9 er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+YangWang U9 er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
+- **Nøglefri adgang og start:** Bilens nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse op og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 200 liter.
+Bagagerummet har en lastkapacitet på 200 liter (7,1 CU FT).
 
-Køretøjets maksimale vægt er 2625 kg, med en basisvægt på 2475 kg. Dette giver en maksimal last på 150 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 2625 kg (5787 lbs), med en egenvægt på 2475 kg (5456 lbs). Dette giver en maksimal last på 150 kg (331 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
-Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
+Denne model fås ikke med anhængertræk. Så hvis du skal trække en trailer, må du kigge på andre modeller.
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
-Denne model havde verdenspremiere den 01.04.2023, og leveringer forventes at starte om January 2025.
-{{< pagenavigation b_url="../" b_title="YangWang U9" f_url="rangeandconsumption/" f_title="Range" >}}
+Denne model havde sin verdenspremiere den 01.04.2023, og leveringerne forventes at begynde i January 2025.
+{{< pagenavigation b_url="../" b_title="YangWang U9" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

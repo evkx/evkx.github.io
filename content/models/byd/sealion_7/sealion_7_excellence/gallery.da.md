@@ -1,7 +1,7 @@
 ---
 title: BYD Sealion 7 Excellence galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store BYD Sealion 7 Excellence-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store BYD Sealion 7 Excellence billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

@@ -1,7 +1,7 @@
 ---
 title: Tesla Model Y Performance galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Tesla Model Y Performance-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Tesla Model Y Performance billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

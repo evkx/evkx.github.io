@@ -1,5 +1,5 @@
 ---
-title: DS EV-modeller
+title: DS EV modeller
 linktitle: "DS"
 description: "DS is a premium automobile marque that was founded and developed from French manufacturer Citroën. DS was first announced in 2009 as a sub-brand of Citroën, applied to certain models that had distinctive design and features."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-DS 3 er en crossover tilgængelig i 1 varianter.
+DS 3 er en crossover, der fås i 1 varianter.
 </p>
 	<a href="3/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

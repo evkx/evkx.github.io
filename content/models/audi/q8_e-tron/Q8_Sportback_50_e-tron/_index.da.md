@@ -1,7 +1,7 @@
 ---
 title: Audi Q8 Sportback 50 e-tron
 linktitle: "Q8 Sportback 50 e-tron"
-description: "Audi Q8 Sportback 50 e-tron er en fuldelektrisk luksus coupe SUV med en WLTP rækkevidde på op til 505 km (314 miles). EVKX.net har alle detaljerne."
+description: "Audi Q8 Sportback 50 e-tron er en elektrisk luksus-coupé SUV med en WLTP rækkevidde på op til 505 km (314 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,106 +11,106 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_sportback_50_e-tron/main_1_st.jpeg" title="Audi Q8 Sportback 50 e-tron" width="3000" height="2002"  >}}
 
-Vi har opdelt vores Audi Q8 Sportback 50 e-tron artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-Audi Q8 Sportback 50 e-tron leverer en solid præstation med en maksimal effekt på 230 kW (313 hk) og et totalt drejningsmoment på 540 Nm. Den kan accelerere fra 0 til 100 km/t på 6,8 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+Audi Q8 Sportback 50 e-tron leverer en solid præstation med en maksimal effekt på 230 kW (313 hk / 308 bhp) og et samlet drejningsmoment på 540 Nm (399 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 6,8 sekunder og når en tophastighed på 200 km/t (124 mph), hvilket gør den konkurrencedygtig inden for sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 95,0 kWh og en nettoanvendelig kapacitet på 89,0 kWh, hvilket giver en buffer på 6,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 396 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitets batteri har en brutto kapacitet på 95,0 kWh og en netto kapacitet på 89,0 kWh, hvilket giver en 6,0 kWh buffer (6,3%) til batteribeskyttelse. Med en nominel spænding på 396 volt klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette lithium-ion batteri bruger [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 505 og 412 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 17,6 kWh/100 km for basismodellen og 21,6 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierer køretøjets rækkevidde mellem 505 og 412 km (314-256 miles), afhængigt af den specifikke konfiguration og tilvalg som f.eks. hjulstørrelse. Større hjul kan øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 17,6 kWh/100 km for basismodellen og 21,6 kWh/100 km for topmodellen under WLTP testcyklussen. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 120kW. En fuld opladning fra 0 - 100 % ville tage 47 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 27 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 81%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 116kW. Hver opladningssession ville tage 36 minutter og 54 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 120 kW. Opladning fra 0% til 100% tager cirka 47 minutter, mens et mere typisk scenario fra 10% til 80% tager 27 minutter med en gennemsnitlig ladehastighed på 136 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 3% til 81%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 116 kW, hvor hver opladningssession tager cirka 36 minutter og 54 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24,5 kWh/100 km, ville turen tage cirka 9 timer og 43 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 89%, med en samlet opladningstid på 84 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 24,5 kWh/100 km, ville turen tage cirka 9 timer og 43 minutter, med to opladningsstop fra 1% til 89%, i alt 84 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 5 minutter ved brug af en hjemmeoplader. For hurtigere opladning kan du vælge en valgfri ombordlader, der understøtter op til 22 kW. Med denne opgradering kan du opnå en fuld opladning fra 0 til 100% på kun cirka 4 timer og 2 minutter derhjemme.
+Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 8 timer og 5 minutter ved brug af en hjemmeinstallation. En valgfri 22 kW indbygget oplader reducerer den fulde opladningstid til cirka 4 timer og 2 minutter.
 
 ### Ladeport
 
-Placeringen af ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at lade stationer, hvor du parkerer siden ind i ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder. En anden port er på [højre forside](../../../../technology/charging/connectors/#front-side). Denne ekstra port giver dig flere parkeringsmuligheder til AC-opladning. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**J1772**](../../../../technology/charging/connectors/#j1772) for Nordamerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se de fulde specifikationer for alle markeder.
+Ladeporten er placeret på [venstre frontside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at bruge ladestationer, hvor du parkerer siden ind mod laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer. En anden port er placeret på [højre frontside](../../../../technology/charging/connectors/#front-side). Denne ekstra port giver dig flere parkeringsmuligheder ved AC-opladning. Stiktyperne varierer mellem forskellige markeder. Denne model bruger [**J1772**](../../../../technology/charging/connectors/#j1772) i Nordamerika og [**TYPE2**](../../../../technology/charging/connectors/#type-2) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-Audi Q8 Sportback 50 e-tron har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/).
+Audi Q8 Sportback 50 e-tron har et firehjulstræksystem drevet af to motorer, én på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/).
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 152 mm, og maksimum er 248 mm.
+Forhjulsophænget er [dobbelt wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske støddæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Den minimale frihøjde er 152 mm, og den maksimale er 248 mm.
 
-Du kan bestille Audi Q8 Sportback 50 e-tron med en alternativ Adaptive Air Suspension Sport hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 152 mm, og maksimum er 248 mm.
+Du kan bestille Audi Q8 Sportback 50 e-tron med en alternativ Adaptive Air Suspension Sport affjedring. Forhjulsophænget er [dobbelt wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske støddæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Den minimale frihøjde er 152 mm, og den maksimale er 248 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funktion på Audi Q8 Sportback 50 e-tron. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+Dynamisk styring er standard på Audi Q8 Sportback 50 e-tron, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort.
 
 ### Køretilstande
 
-Audi Q8 Sportback 50 e-tron lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 7 tilstande:
+Audi Q8 Sportback 50 e-tron lader brugeren vælge forskellige [køretilstande](../../../../technology/drivemodes/) som påvirker bilens håndtering. Føreren kan vælge mellem 7 tilstande:
 
-- Dynamic: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
-- Efficiency: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
-- Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
-- Allroad: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning.
-- Offroad: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
-- Auto: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
-- Custom: Brugerdefineret styring, affjedring og gasrespons.
+- Dynamic: Dynamisk styring, lav affjedring med dynamisk gaspedal og affjedring.
+- Efficiency: Afbalanceret styring, lav affjedring med effektiv gaspedal og afbalanceret affjedring.
+- Comfort: Afbalanceret styring, normal affjedringshøjde med effektiv gaspedal og komfortabel affjedringsdæmpning.
+- Allroad: Afbalanceret styring, høj affjedringshøjde med afbalanceret gaspedal og dæmpning.
+- Offroad: Afbalanceret styring, maksimal affjedringshøjde med afbalanceret gaspedal og dæmpning.
+- Auto: Afbalanceret styring, adaptiv affjedringshøjde med afbalanceret gaspedal og adaptiv affjedringsdæmpning.
+- Custom: Brugerdefinerede indstillinger for styring, affjedring og gaspedalrespons.
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 375mm, og de bagerste skiver er 350mm.
+Audi Q8 Sportback 50 e-tron er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag. De forreste skiver måler 375 mm, mens de bageste skiver er 350 mm.
 
 ### Regenerativ bremsning
 
-Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**. Det betragtes dog ikke som fuld en-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle, indtil det stopper af sig selv.
+[Regenerativ bremsning](../../../../technology/regen/) i denne model tilbyder flere tilstande for at forbedre effektivitet og køreoplevelse. Den mest effektive mulighed er [**Automatisk regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet ruller når det er muligt og bruger regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind når det er nødvendigt. <br /><br/>  En anden mulighed er [**Regenerering på speederpedalen**](../../../../technology/regen/#one-pedal-driving) tilstanden hvor regenerativ bremsning aktiveres når føreren letter foden fra speederen. Dette system gør det muligt for køretøjet at sænke farten og genvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **én-pedal kørsel**. Det betragtes dog ikke som fuld én-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle indtil det stopper af sig selv.
 
-Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
+Derudover kan du justere styrken af den regenerative bremsning når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, så du kan tilpasse køreoplevelsen efter dine præferencer.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den Audi Q8 Sportback 50 e-tron, med dimensioner på 4901 mm i længde, 1935 mm i bredde og 1616 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Audi Q8 Sportback 50 e-tron fås i alt 61 lakfarver, herunder solide, metalliske og perlemorsmuligheder. Ud over standardpaletten er nogle farver fra den eksklusive 'Audi Q8 Sportback 50 e-tron' palette.
+Audi Q8 Sportback 50 e-tron, med dimensioner på 4901 mm i længde, 1935 mm i bredde og 1616 mm i højde, tilhører mellemklasse SUV'er, der tilbyder en kombination af plads, komfort, ydeevne og alsidighed, hvilket gør dem velegnede til en bred vifte af bilister med forskellige behov. Audi Q8 Sportback 50 e-tron fås i alt i 61 lakfarver, inklusive almindelige, metalliske og perlemor muligheder. Udover standardpaletten kommer nogle farver fra den eksklusive 'Audi exclusive' palette.
 
-Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
+Du kan også vælge mellem flere stilmæssige muligheder for at gøre din bil mere unik.
 
-Du kan vælge mellem flere hjul i forskellige størrelser på Audi Q8 Sportback 50 e-tron, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Audi Q8 Sportback 50 e-tron tilbyder flere hjulmuligheder i forskellige størrelser, så du kan tilpasse din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 255/55 dæk on 19" fælge
-- 255/50 dæk on 20" fælge
-- 265/45 dæk on 21" fælge
+- 255/55 dæk på 19" fælge
+- 255/50 dæk på 20" fælge
+- 265/45 dæk på 21" fælge
 
-Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+Smallere hjul forbedrer forbruget og giver længere rækkevidde, mens bredere hjul giver bedre vejgreb og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate). Soft close er en valgfri-funktion for sidedørene.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-agtig bagklap](../../../../technology/doors/#hatcback-style-liftgate). Blød lukning er en valgfrit funktion for sidedørene.
 
-Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset strækker det meste af taget, og beboerne kan åbne den forreste del. Dette glas gør bilens interiøret føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
+Der er to forskellige tagmuligheder at vælge imellem. Standardtaget er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset strækker sig over det meste af taget, og passagererne kan åbne den forreste del. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Det har et elektrisk gardin, som passagererne kan bruge til beskyttelse mod solen.
 
-Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne. Som en mulighed er dobbeltglas sidevinduer tilgængelige for at reducere kabinestøj, hvilket forbedrer den samlede køreoplevelse.
+Derudover kan du bestille bilen med tonede ruder fra B-søjlen og bagud, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne. Som ekstraudstyr fås dobbeltruder i sideruderne for at reducere kabinestøj og forbedre den samlede køreoplevelse.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_sportback_50_e-tron/exterior_1_st.jpeg" title="Audi Q8 Sportback 50 e-tron" width="3000" height="2002"  >}}
 
@@ -122,125 +122,125 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ### Sæder
 
-Audi Q8 Sportback 50 e-tron har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+Audi Q8 Sportback 50 e-tron har plads til fem passagerer med to forsæder og en trebænk bagtil.
 
-#### Første række sæder
+#### Forsæder
 
-For første række tilbyder Audi Q8 Sportback 50 e-tron fem forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
+Forreste række tilbyder fem sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
-Følgende funktioner er tilgængelige på **standard** sædet.
+Følgende funktioner er tilgængelige på **standard** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- højdejusterbar nakkestøtte
-- længdejusterbar nakkestøtte (valgfri)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
+- Højdejusterbar nakkestøtte
+- Længdejusterbar nakkestøtte (ekstraudstyr)
+- [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
 
-Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-Følgende funktioner er tilgængelige på **sport** sædet.
+Følgende funktioner er tilgængelige på **sport** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- højdejusterbar nakkestøtte
-- længdejusterbar nakkestøtte (valgfri)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
+- Højdejusterbar nakkestøtte
+- Længdejusterbar nakkestøtte (ekstraudstyr)
+- [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-Følgende funktioner er tilgængelige på **s-line sport** sædet.
+Følgende funktioner er tilgængelige på **s-line sport** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- højdejusterbar nakkestøtte
-- længdejusterbar nakkestøtte (valgfri)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
+- Højdejusterbar nakkestøtte
+- Længdejusterbar nakkestøtte (ekstraudstyr)
+- [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-Følgende funktioner er tilgængelige på **s sport** sædet.
+Følgende funktioner er tilgængelige på **s sport** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
+- [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-Følgende funktioner er tilgængelige på **multicontour** sædet.
+Følgende funktioner er tilgængelige på **multicontour** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- højdejusterbar nakkestøtte
-- længdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- Højdejusterbar nakkestøtte
+- Længdejusterbar nakkestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justering af sædepude sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
-- [massage](../../../../technology/seats/adjustment/#massage) (valgfri)
+- [Justerbar sidestøtte i ryglæn](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Justerbar sidestøtte i sædehynde](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (ekstraudstyr)
+- [Massage](../../../../technology/seats/adjustment/#massage) (ekstraudstyr)
 
-Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-#### Sæde på anden række
+#### Anden række sæder
 
-Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Anden række har en standard tresæders bænk med 40:20:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
-- højdejusterbar nakkestøtte
+- Højdejusterbar nakkestøtte
 
-### Interiøropbevaring
+### Indvendig opbevaring
 
-- **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i den bagerste armlæn.
-- **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af essentielle genstande.
+- **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i det bageste armlæn.
+- **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af vigtige genstande.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-To klimaanlægsmuligheder er tilgængelige:
+To klimasystem muligheder er tilgængelige:
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
-En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, hvilket kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Audi Q8 Sportback 50 e-tron inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+Audi Q8 Sportback 50 e-tron inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
 - **Elektrisk justerbart rat**
-- **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
-- **Trådløs opladning af telefon**
+- **Easy Entry Funktion:** Flytter førersædet for at lette indstigning i bilen.
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-Audi Q8 Sportback 50 e-tron har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er to forskellige [infotainment-skærme](../../../../technology/userinterface/screens/#infotainment-skærm).
+Audi Q8 Sportback 50 e-tron har flere integrerede skærme. Bag rattet er der et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen er der to forskellige [infotainmentskærme](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Vigtige skærmdetaljer:
 
-- Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor
-- Skærmen touch øverst på midterkonsollen er 10,1 tommer stor
-- Skærmen touch i bunden af midterkonsollen er 8,6 tommer stor
+- Den  skærm bag rattet integreret i instrumentbrættet er 12,3 tommer stor
+- Den touch skærm øverst i midterkonsollen er 10,1 tommer stor
+- Den touch skærm nederst i midterkonsollen er 8,6 tommer stor
 
-Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+Et head-up display er et valgfrit system, der projicerer hastighed og anden vigtig førerinformation på forruden.
 
 ### Rat
 
-Audi Q8 Sportback 50 e-tron er udstyret med en enkelt type rat:
+Audi Q8 Sportback 50 e-tron er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-For de udvendige spejle kan du vælge mellem kamera-baserede spejle med indvendige skærme eller traditionelle spejle. Det indvendige spejl er et standard spejl.
+For sidespejlene kan du vælge mellem kamerabaserede spejle med indvendige skærme eller traditionelle spejle. Bakspejlet er et standardspejl.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -248,111 +248,111 @@ For de udvendige spejle kan du vælge mellem kamera-baserede spejle med indvendi
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Med standard indbygget navigationssystem har du al den hjælp, du behøver for at nå din destination uden besvær.
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter Audi Q8 Sportback 50 e-tron Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+Audi Q8 Sportback 50 e-tron understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Audi Q8 Sportback 50 e-tron.
+Du kan vælge mellem to lydsystemer til Audi Q8 Sportback 50 e-tron:
 
-- Med Audi Sound system får du ti højttalere med en maksimal systemeffekt på 180 watt.
-- Med Bang & Olufsen Sound System får du 16 højttalere med en maksimal systemeffekt på 700 watt.
+- **Audi Sound system:** Har ti højttalere og leverer en maksimal effekt på 180 watt.
+- **Bang & Olufsen Sound System:** Har 16 højttalere og leverer en maksimal effekt på 700 watt.
 
-Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+Derudover inkluderer modellen 2 USB-C tilslutninger som standard. Som ekstraudstyr kan du få yderligere 2 USB-C tilslutninger.
 
-## Mobilapp
+## Mobil App
 
-Den Audi Q8 Sportback 50 e-tron kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
+Audi Q8 Sportback 50 e-tron kommer med en dedikeret mobilapp, tilgængelig til både Android og iOS-enheder, så du kan styre og overvåge din bil på afstand. Appen tilbyder en bred vifte af funktioner designet til at forbedre din køreoplevelse:
 
-- **Find din bil**: Tjek nemt bilens aktuelle placering.
-- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
-- **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
-- **Planlagt opladning**: Planlæg og tidsindstil opladningssessioner før dine ture.
-- **Juster ladningsmål**: Indstil din ønskede opladningstilstand for at starte eller stoppe opladning efter behov.
-- **Ruteplanlægning**: Planlæg din rute og send den direkte til bilens navigationssystem.
-- **Kørehistorik**: Gennemgå detaljer om dine tidligere ture.
+- **Find din bil:** Se nemt bilens aktuelle placering.
+- **Forkonditionering:** Forvarm eller afkøl din bil, før du starter din rejse, for optimal komfort.
+- **Lås og lås op:** Lås eller lås dine bildøre op sikkert med et tryk.
+- **Planlagt opladning:** Planlæg og programsæt opladningssessioner før dine ture.
+- **Juster ladeniveau:** Indstil dit ønskede ladeniveau for at starte eller stoppe opladningen efter behov.
+- **Ruteplanlægning:** Planlæg din rute og send den direkte til bilens navigationssystem.
+- **Kørselshistorik:** Gennemgå detaljerne for dine tidligere ture.
 
-## Lys
+## Lygter
 
 Du kan vælge mellem tre typer forlygter til Audi Q8 Sportback 50 e-tron.
 
-- **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
-- **LED Matrix forlygter:** Tilgængelige som en mulighed, dette adaptive system opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt, hvilket optimerer belysningen ved at dæmpe specifikke små områder foran.
-- Forlygter baseret på LED Digital Matrix-teknologi er tilgængelige som en mulighed.
+- **Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
+- **LED Matrix-forlygter:** Som ekstraudstyr fås dette adaptive system, der opdeler den traditionelle enkeltstråle i snesevis af mindre stråler, som lyskontrolenheden kan tænde og slukke individuelt og dermed optimere belysningen ved at slukke for specifikke små områder foran.
+- Forlygter baseret på LED Digital Matrix-teknologi er tilgængelige som ekstraudstyr.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerede førerassistentsystemer
 
-Den Audi Q8 Sportback 50 e-tron inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+Audi Q8 Sportback 50 e-tron har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper føreren med at forudse kørselsforhold og spare energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper førere med at forudse køreforhold og spare energi.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Audi Q8 Sportback 50 e-tron, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Audi Q8 Sportback 50 e-tron, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Audi Q8 Sportback 50 e-tron, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Audi Q8 Sportback 50 e-tron, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Audi Q8 Sportback 50 e-tron, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Audi Q8 Sportback 50 e-tron, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfrit på Audi Q8 Sportback 50 e-tron, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+[**Front Tværgående Trafik Assistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Ekstraudstyr på Audi Q8 Sportback 50 e-tron, dette førerassistentsystem hjælper førere med at registrere modkørende trafik ved krydsning af et vejkryds eller når der drejes til venstre eller højre fra stillestående position.
 
-[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valgfrit på Audi Q8 Sportback 50 e-tron, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
+[**Advarsel om Krydsende Trafik Bag (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Ekstraudstyr på Audi Q8 Sportback 50 e-tron, dette system bruger sensorer til at opdage køretøjer, der nærmer sig fra siden, når man bakker ud af en parkeringsplads eller indkørsel.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfrit på Audi Q8 Sportback 50 e-tron, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Ekstraudstyr på Audi Q8 Sportback 50 e-tron, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Audi Q8 Sportback 50 e-tron, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Audi Q8 Sportback 50 e-tron, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfrit på Audi Q8 Sportback 50 e-tron, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
+[**Automatisk Nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Ekstraudstyr på Audi Q8 Sportback 50 e-tron, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfrit på Audi Q8 Sportback 50 e-tron, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Ekstraudstyr på Audi Q8 Sportback 50 e-tron, dette system hjælper med at opdage trafik i blinde vinkler.
 
 ### Køreautomatisering
 
 Audi Q8 Sportback 50 e-tron tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med  niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 - Fartpilot.
-- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (ekstraudstyr)
 
-Med det valgfrie Assistantpackage Tour niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
+Med det valgfrie Assistantpackage Tour niveau 2-system får du yderligere køreautomatiseringsfunktioner ud over dem, der er nævnt ovenfor:
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
 
 ### Sensorer & Kameraer
 
-Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
-Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+Denne model bruger kameraer, radar og ultrasoniske sensorer til sine førerassistentsystemer.
+Op til fem [radar-sensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 ## Sikkerheds- og adgangsteknologier
 
-Audi Q8 Sportback 50 e-tron er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+Audi Q8 Sportback 50 e-tron er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Med den standard nøglefri start og valgfri nøglefri adgang kan du låse og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
-- **Telefon-som-nøgle funktionalitet:** Den valgfrie telefon-som-nøgle teknologi giver dig mulighed for at bruge din smartphone som en digital nøgle, hvilket tilføjer bekvemmelighed og fleksibilitet til at låse og starte køretøjet.
-- **Alarmsystem:** Et valgfrit integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at hjælpe med at afskrække indtrængen og forbedre køretøjets sikkerhed.
+- **Nøglefri adgang og start:** Med standard nøglefri start og valgfri nøglefri adgang kan du låse op og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
+- **Telefon-som-nøgle funktion:** Den valgfri telefon-som-nøgle teknologi gør det muligt at bruge din smartphone som en digital nøgle og tilføjer bekvemmelighed og fleksibilitet til at låse op og starte køretøjet.
+- **Alarmsystem:** Et valgfrit integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at forhindre indbrud og forbedre køretøjets sikkerhed.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 660 liter. Med det bageste sæde foldet ned, udvides dette til 1725 liter. På taget kan du laste op til 75 kg.
+Bagagerummet har en lastkapacitet på 660 liter (23,3 CU FT). Med bagsædet lagt ned udvides dette til 1725 liter (60,9 CU FT). På taget kan du laste op til 75 kg (165,3 lbs).
 
-Køretøjets maksimale vægt er 3040 kg, med en basisvægt på 2370 kg. Dette giver en maksimal last på 670 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 3040 kg (6702 lbs), med en egenvægt på 2370 kg (5225 lbs). Dette giver en maksimal last på 670 kg (1477 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
-En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1800 kg, mens den for en ubremset trailer er 750 kg.
+Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for en bremset trailer er 1800 kg (3968 lbs), mens det for en ubremset trailer er 750 kg (1653 lbs).
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
-Denne model havde verdenspremiere den 09.11.2022, og leveringerne startede i March 2023. Denne model er kun tilgængelig i Europa.
-{{< pagenavigation b_url="../" b_title="Audi Q8 e-tron" f_url="rangeandconsumption/" f_title="Range" >}}
+Audi Q8 Sportback 50 e-tron havde sin verdenspremiere den 09.11.2022, og leveringerne startede i March 2023. Bemærk venligst at denne model kun er tilgængelig i Europa.
+{{< pagenavigation b_url="../" b_title="Audi Q8 e-tron" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

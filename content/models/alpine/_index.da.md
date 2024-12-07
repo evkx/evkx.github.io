@@ -1,5 +1,5 @@
 ---
-title: Alpine EV-modeller
+title: Alpine EV modeller
 linktitle: "Alpine"
 description: "Alpine er et fransk sportsvognsmærke, grundlagt i 1955 af Jean Rédélé, der oprindeligt specialiserede sig i lette, smidige sportsvogne. Kendt for sin tilknytning til Renault, blev Alpine berømt i 1960'erne og 70'erne med sin rallyvindende A110 Berlinette, fejret for sin smidige håndtering og succes i motorsport, især i begivenheder som Monte Carlo Rally."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Alpine A290 er en hatcback tilgængelig i 1 varianter.
+Alpine A290 er en hatchback, der fås i 1 varianter.
 </p>
 	<a href="a290/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

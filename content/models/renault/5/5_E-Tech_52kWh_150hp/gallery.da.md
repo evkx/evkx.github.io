@@ -1,7 +1,7 @@
 ---
 title: Renault 5 E-Tech 52kWh 150hp galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Renault 5 E-Tech 52kWh 150hp-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Renault 5 E-Tech 52kWh 150hp billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

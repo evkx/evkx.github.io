@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo Sport Turismo galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Porsche Taycan Turbo Sport Turismo-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Porsche Taycan Turbo Sport Turismo billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

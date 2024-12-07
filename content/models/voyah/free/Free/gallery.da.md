@@ -1,7 +1,7 @@
 ---
 title: VOYAH FREE galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store VOYAH FREE-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store VOYAH FREE billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

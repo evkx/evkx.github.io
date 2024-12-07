@@ -1,5 +1,5 @@
 ---
-title: Nissan EV-modeller
+title: Nissan EV modeller
 linktitle: "Nissan"
 description: "Nissan is a multinational automobile manufacturer headquartered in Yokohama, Japan. It was founded in 1933 as the 'Nissan Motor Company Ltd.' and has since become one of the largest automakers in the world. Nissan offers a wide range of vehicles, from small city cars to luxury sedans and SUVs. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Nissan Ariya er en Coupe SUV tilgængelig i 5 varianter.
+Nissan Ariya er en coupé SUV, der fås i 5 varianter.
 </p>
 	<a href="ariya/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

@@ -1,7 +1,7 @@
 ---
 title: BMW i5 eDrive40 Touring galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store BMW i5 eDrive40 Touring-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store BMW i5 eDrive40 Touring billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

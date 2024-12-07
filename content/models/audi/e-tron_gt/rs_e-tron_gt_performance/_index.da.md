@@ -1,7 +1,7 @@
 ---
 title: Audi RS e-tron GT performance
 linktitle: "RS e-tron GT performance"
-description: "Audi RS e-tron GT performance er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 598 km (372 miles). EVKX.net har alle detaljerne."
+description: "Audi RS e-tron GT performance er en elektrisk luksus sedan med en WLTP rækkevidde på op til 598 km (372 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,102 +11,102 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/main_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
-Vi har opdelt vores Audi RS e-tron GT performance artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-Med overboost leverer Audi RS e-tron GT performance en fantastisk maksimal effekt på 680 kW (925 hk). Selv uden overboost har den en formidabel effekt på 610 kW (829 hk). Det maksimale drejningsmoment når utrolige 1027 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på kun 2,5 sekunder og opnår en topfart på 250 km/t, hvilket understreger dens betagende ydeevne.
+Med overboost leverer Audi RS e-tron GT performance en imponerende maksimal effekt på 680 kW (925 hk / 912 bhp). Selv uden overboost har den en formidabel ydelse på 610 kW (829 hk / 818 bhp). Det maksimale drejningsmoment når op på utrolige 1027 Nm (758 lb-ft). Denne kraftmaskine kan accelerere fra 0 til 100 km/t (0 til 62 mph) på blot 2,5 sekunder og opnår en tophastighed på 250 km/t (155 mph), hvilket understreger dens enestående ydeevne.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 105,0 kWh og en nettoanvendelig kapacitet på 97,0 kWh, hvilket giver en buffer på 8,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 725 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitets batteri har en brutto kapacitet på 105,0 kWh og en netto kapacitet på 97,0 kWh, hvilket giver en 8,0 kWh buffer (7,6%) til batteribeskyttelse. Med en driftsspænding på 725 volt kvalificerer det som et 800-volt batterisystem. Denne høje spænding er afgørende for systemets opladningskapaciteter. Dette lithium-ion batteri bruger [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 598 og 527 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 16,2 kWh/100 km for basismodellen og 18,4 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierer køretøjets rækkevidde mellem 598 og 527 km (372-328 miles), afhængigt af den specifikke konfiguration og tilvalg som f.eks. hjulstørrelse. Større hjul kan øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 16,2 kWh/100 km for basismodellen og 18,4 kWh/100 km for topmodellen under WLTP testcyklussen. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 320kW. En fuld opladning fra 0 - 100 % ville tage 47 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 16 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 209kW. Hver opladningssession ville tage 18 minutter og 48 sekunder. Denne usædvanligt hurtige opladningskapacitet gør Audi RS e-tron GT performance til en af de mest effektive og bekvemme elbiler til langdistancerejser.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 320 kW. Opladning fra 0% til 100% tager cirka 47 minutter, mens et mere typisk scenario fra 10% til 80% tager 16 minutter med en gennemsnitlig ladehastighed på 260 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 1% til 65%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 209 kW, hvor hver opladningssession tager cirka 18 minutter og 48 sekunder. Denne exceptionelt hurtige opladningskapacitet gør Audi RS e-tron GT performance til en af de mest effektive og bekvemme elbiler til langdistancekørsel.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 8 timer og 55 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 65%, med en samlet opladningstid på 36 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 8 timer og 55 minutter, med to opladningsstop fra 1% til 65%, i alt 36 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 49 minutter ved brug af en hjemmeoplader. For hurtigere opladning kan du vælge en valgfri ombordlader, der understøtter op til 22 kW. Med denne opgradering kan du opnå en fuld opladning fra 0 til 100% på kun cirka 4 timer og 24 minutter derhjemme.
+Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 8 timer og 49 minutter ved brug af en hjemmeinstallation. En valgfri 22 kW indbygget oplader reducerer den fulde opladningstid til cirka 4 timer og 24 minutter.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/charging_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
 ### Ladeport
 
-Placeringen af ladeporten er på [højre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at bruge ladestationer, hvor du parkerer siden ind i opladeren. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder. En anden port er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne ekstra port giver dig flere parkeringsmuligheder til AC-opladning. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**J1772**](../../../../technology/charging/connectors/#j1772) for Nordamerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se de fulde specifikationer for alle markeder.
+Ladeporten er bekvemt placeret på [højre frontside](../../../../technology/charging/connectors/#front-side), hvilket letter adgangen ved ladestationer hvor du parkerer parallelt med laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer. Derudover giver en anden port på [venstre frontside](../../../../technology/charging/connectors/#front-side) større fleksibilitet ved AC-opladning. Stiktyperne varierer mellem forskellige markeder. Denne model bruger [**J1772**](../../../../technology/charging/connectors/#j1772) i Nordamerika og [**TYPE2**](../../../../technology/charging/connectors/#type-2) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-Audi RS e-tron GT performance har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Audi RS e-tron GT performance har et firehjulstræksystem drevet af to motorer, én på hver aksel. Motorerne er [Permanent Magnet Synkron Motorer](../../../../technology/motors/pmsm/).
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 125 mm, og maksimum er 165 mm.
+Forhjulsophænget er [dobbelt wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske støddæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Den minimale frihøjde er 125 mm, og den maksimale er 165 mm.
 
-Du kan bestille Audi RS e-tron GT performance med en alternativ Active hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og aktive hydrauliske dæmpere. Dæmperen undertrykker aktivt uønskede bevægelser af luftaffjedringen. Dette gør det muligt for hjulene at blive aktivt presset ind i vejen eller trukket ind i karosseriet til enhver tid. Med en glat kørsel absorberer systemet næsten fuldstændig bump. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 125 mm, og maksimum er 165 mm.
+Du kan bestille Audi RS e-tron GT performance med en alternativ Active affjedring. Forhjulsophænget er [dobbelt wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og aktive hydrauliske støddæmpere. Støddæmperen modvirker aktivt uønskede bevægelser i luftaffjedringen. Dette gør det muligt aktivt at skubbe hjulene ned i vejen eller trække dem op i karrosseriet når som helst. Med en jævn kørsel absorberer systemet næsten alle bump fuldstændigt. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Den minimale frihøjde er 125 mm, og den maksimale er 165 mm.
 
-Den aktive affjedring holder bilens karrosseri næsten vandret under dynamisk bremsning, styring og acceleration, hvilket forbedrer præcis styrerespons og kontrol for føreren.
+Den aktive affjedring holder bilens karrosseri næsten vandret under dynamisk bremsning, styring og acceleration, hvilket forbedrer præcis styrerespons og førerens kontrol.
 
-Normalt læner biler sig udad i sving. Men de aktive kurvedynamikker kan modvirke denne krængning eller endda overkompensere, så bilen læner sig ind i svinget som en motorcykel.
+Normalt hælder biler udad i sving. Den aktive svingedynamik kan dog modvirke denne rulning eller endda overkompensere, så bilen læner sig ind i sving ligesom en motorcykel.
 
-Easy Entry-funktionen hæver bilens karrosseri automatisk, når en dør åbnes, hvilket letter ind- og udstigning. Når døren lukkes, vender karrosseriet tilbage til det forrige niveau.
+Easy Entry-funktionen hæver automatisk bilens karrosseri, når en dør åbnes, hvilket gør det lettere at stige ind og ud. Når døren lukkes, vender karrosseriet tilbage til det tidligere niveau.
 
 ### Styring
 
-Dynamisk styring er en standard-funktion på Audi RS e-tron GT performance. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en valgfri-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
+Dynamisk styring er standard på Audi RS e-tron GT performance, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort. Derudover er baghjulsstyring tilgængelig som valgfrit funktion. Baghjulsstyring reducerer vendediameteren ved langsom kørsel.
 
 ### Bremser
 
-Du kan vælge mellem forskellige bremsesystemer. Bremserne standard bruger almindelige [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 360mm, og de bagerste skiver er 358mm. Bremserne second bruger en [støbejernsskive belagt med wolframcarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og producerer næsten ikke bremsestøv. De forreste skiver er 410mm, og de bagerste skiver er 365mm. Bremserne third bruger [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De forreste skiver er 420mm, og de bagerste skiver er 410mm.
+Du kan vælge mellem forskellige bremsesystemer. standard bremsevalget bruger almindelige [støbejerns-skiver](../../../../technology/brakes/#disc-brakes). De forreste skiver måler 360 mm, mens de bageste skiver er 358 mm. second bremsevalget bruger [støbejernsskiver belagt med wolframkarbid](../../../../technology/brakes/#carbid-brakes). De ruster ikke og producerer næsten intet bremsestøv. De forreste skiver måler 410 mm, mens de bageste skiver er 365 mm. third bremsevalget bruger [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De forreste skiver måler 420 mm, mens de bageste skiver er 410 mm.
 
 ### Regenerativ bremsning
 
-Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**. Det betragtes dog ikke som fuld en-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle, indtil det stopper af sig selv.
+[Regenerativ bremsning](../../../../technology/regen/) i denne model tilbyder flere tilstande for at forbedre effektivitet og køreoplevelse. Den mest effektive mulighed er [**Automatisk regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet ruller når det er muligt og bruger regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind når det er nødvendigt. <br /><br/>  En anden mulighed er [**Regenerering på speederpedalen**](../../../../technology/regen/#one-pedal-driving) tilstanden hvor regenerativ bremsning aktiveres når føreren letter foden fra speederen. Dette system gør det muligt for køretøjet at sænke farten og genvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **én-pedal kørsel**. Det betragtes dog ikke som fuld én-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle indtil det stopper af sig selv.
 
-Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
+Derudover kan du justere styrken af den regenerative bremsning når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, så du kan tilpasse køreoplevelsen efter dine præferencer.
 
 Den maksimale regenerative effekt er 265 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den Audi RS e-tron GT performance, med dimensioner på 4989 mm i længde, 1964 mm i bredde og 1396 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Audi RS e-tron GT performance fås i alt i 54 lakfarver, herunder perlemors- og metalliske muligheder. Ud over standardpaletten er der eksklusive farver fra 'Audi exclusive'-paletten.
+Audi RS e-tron GT performance, med dimensioner på 4989 mm i længde, 1964 mm i bredde og 1396 mm i højde, tilhører E-segment biler, også kendt som executive biler, der er større og mere luksuriøse end deres D-segment modstykker. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydeevne. Audi RS e-tron GT performance fås i alt i 54 lakfarver, inklusive perlemor og metalliske muligheder. Udover standardpaletten kommer nogle farver fra den eksklusive 'Audi exclusive' palette.
 
-Du kan vælge mellem flere hjul i forskellige størrelser på Audi RS e-tron GT performance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Audi RS e-tron GT performance tilbyder flere hjulmuligheder i forskellige størrelser, så du kan tilpasse din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 225/55 dæk på 19" fælge foran og 275/45 dæk på 19" fælge bagpå
-- 245/45 dæk på 20" fælge foran og 285/40 dæk på 20" fælge bagpå
-- 265/35 dæk på 21" fælge foran og 305/30 dæk på 21" fælge bagpå
+- 225/55 dæk på 19" fælge foran og 275/45 dæk på 19" fælge bag
+- 245/45 dæk på 20" fælge foran og 285/40 dæk på 20" fælge bag
+- 265/35 dæk på 21" fælge foran og 305/30 dæk på 21" fælge bag
 
-Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+Smallere hjul forbedrer forbruget og giver længere rækkevidde, mens bredere hjul giver bedre vejgreb og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagagerumsklap](../../../../technology/doors/#boot-lid) til bagagerummet.
 
-Der er tre forskellige tagmuligheder at vælge imellem. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen. Den tredje mulighed er et kulfibertag, som reducerer køretøjets samlede vægt, hvilket sænker tyngdepunktet og forbedrer håndtering og ydeevne.
+Der er tre forskellige tagmuligheder at vælge imellem. Standardtaget inkluderer et stort panoramatag i glas, der strækker sig fra for til bag, hvilket forbedrer interiørets rummelige og lyse fornemmelse og dermed forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen. Alternativt kan du vælge et panoramatag med elektrokromisk glas, der kan justeres for at kontrollere sollyset. Den tredje mulighed er et kulfibertag, som reducerer køretøjets samlede vægt og dermed sænker tyngdepunktet og forbedrer håndtering og ydeevne.
 
-Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne. Som en mulighed er dobbeltglas sidevinduer tilgængelige for at reducere kabinestøj, hvilket forbedrer den samlede køreoplevelse.
+Derudover kan du bestille bilen med tonede ruder fra B-søjlen og bagud, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne. Som ekstraudstyr fås dobbeltruder i sideruderne for at reducere kabinestøj og forbedre den samlede køreoplevelse.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/exterior_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
@@ -118,101 +118,101 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ### Sæder
 
-Audi RS e-tron GT performance har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+Audi RS e-tron GT performance har plads til fem passagerer med to forsæder og en trebænk bagtil.
 
-#### Første række sæder
+#### Forsæder
 
-For første række tilbyder Audi RS e-tron GT performance tre forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
+Forreste række tilbyder tre sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
-Følgende funktioner er tilgængelige på **sport** sædet.
+Følgende funktioner er tilgængelige på **sport** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-Følgende funktioner er tilgængelige på **sport plus** sædet.
+Følgende funktioner er tilgængelige på **sport plus** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-Følgende funktioner er tilgængelige på **sport pro** sædet.
+Følgende funktioner er tilgængelige på **sport pro** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justering af sædepude sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage) (valgfri)
+- [Justerbar sidestøtte i ryglæn](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Justerbar sidestøtte i sædehynde](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage) (ekstraudstyr)
 
-Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+Fås med:
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/frontseats_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
-#### Sæde på anden række
+#### Anden række sæder
 
-Følgende funktioner er tilgængelige på **** sædet.
+Følgende funktioner er tilgængelige på **** sædet:
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/secondrowseats_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
-### Interiøropbevaring
+### Indvendig opbevaring
 
-- **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i den bagerste armlæn.
-- **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af essentielle genstande.
+- **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i det bageste armlæn.
+- **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af vigtige genstande.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
-En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, hvilket kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Audi RS e-tron GT performance inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+Audi RS e-tron GT performance inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
 - **Elektrisk justerbart rat**
-- **Trådløs opladning af telefon**
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-Audi RS e-tron GT performance har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
+Audi RS e-tron GT performance har flere integrerede skærme. Bag rattet er der et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen er der én [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen) øverst i midterkonsollen.
 
 Vigtige skærmdetaljer:
 
-- Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor
-- Skærmen touch øverst på midterkonsollen er 10,1 tommer stor
+- Den  skærm bag rattet integreret i instrumentbrættet er 12,3 tommer stor
+- Den touch skærm øverst i midterkonsollen er 10,1 tommer stor
 
-Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+Et head-up display er et valgfrit system, der projicerer hastighed og anden vigtig førerinformation på forruden.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/screens_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
 ### Rat
 
-Audi RS e-tron GT performance er udstyret med en enkelt type rat:
+Audi RS e-tron GT performance er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -220,40 +220,40 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Med standard indbygget navigationssystem har du al den hjælp, du behøver for at nå din destination uden besvær.
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter Audi RS e-tron GT performance Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+Audi RS e-tron GT performance understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Audi RS e-tron GT performance.
+Du kan vælge mellem to lydsystemer til Audi RS e-tron GT performance:
 
-- Med Audi Sound system får du ti højttalere med en maksimal systemeffekt på 180 watt.
-- Med Bang & Olufsen Sound System får du 16 højttalere med en maksimal systemeffekt på 700 watt.
+- **Audi Sound system:** Har ti højttalere og leverer en maksimal effekt på 180 watt.
+- **Bang & Olufsen Sound System:** Har 16 højttalere og leverer en maksimal effekt på 700 watt.
 
-## Mobilapp
+## Mobil App
 
-Den Audi RS e-tron GT performance kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
+Audi RS e-tron GT performance kommer med en dedikeret mobilapp, tilgængelig til både Android og iOS-enheder, så du kan styre og overvåge din bil på afstand. Appen tilbyder en bred vifte af funktioner designet til at forbedre din køreoplevelse:
 
-- **Find din bil**: Tjek nemt bilens aktuelle placering.
-- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
-- **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
-- **Planlagt opladning**: Planlæg og tidsindstil opladningssessioner før dine ture.
-- **Juster ladningsmål**: Indstil din ønskede opladningstilstand for at starte eller stoppe opladning efter behov.
-- **Ruteplanlægning**: Planlæg din rute og send den direkte til bilens navigationssystem.
-- **Kørehistorik**: Gennemgå detaljer om dine tidligere ture.
+- **Find din bil:** Se nemt bilens aktuelle placering.
+- **Forkonditionering:** Forvarm eller afkøl din bil, før du starter din rejse, for optimal komfort.
+- **Lås og lås op:** Lås eller lås dine bildøre op sikkert med et tryk.
+- **Planlagt opladning:** Planlæg og programsæt opladningssessioner før dine ture.
+- **Juster ladeniveau:** Indstil dit ønskede ladeniveau for at starte eller stoppe opladningen efter behov.
+- **Ruteplanlægning:** Planlæg din rute og send den direkte til bilens navigationssystem.
+- **Kørselshistorik:** Gennemgå detaljerne for dine tidligere ture.
 
-## Lys
+## Lygter
 
 Du kan vælge mellem tre typer forlygter til Audi RS e-tron GT performance.
 
-- **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
-- **LED Matrix forlygter:** Tilgængelige som en mulighed, dette adaptive system opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt, hvilket optimerer belysningen ved at dæmpe specifikke små områder foran.
-- **LED Matrix forlygter med laserteknologi:** Også tilgængelige som en mulighed, disse forlygter kombinerer de adaptive egenskaber ved LED Matrix-systemet med laserteknologi for forbedret lysstyrke og rækkevidde, hvilket giver overlegen belysning og sikkerhed.
+- **Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
+- **LED Matrix-forlygter:** Som ekstraudstyr fås dette adaptive system, der opdeler den traditionelle enkeltstråle i snesevis af mindre stråler, som lyskontrolenheden kan tænde og slukke individuelt og dermed optimere belysningen ved at slukke for specifikke små områder foran.
+- **LED Matrix-forlygter med laserteknologi:** Også tilgængelig som ekstraudstyr, disse forlygter kombinerer de adaptive funktioner i LED Matrix-systemet med laserteknologi for forbedret lysstyrke og rækkevidde, hvilket giver overlegen belysning og sikkerhed.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/headlights_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2249"  >}}
 
@@ -261,62 +261,62 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den Audi RS e-tron GT performance inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+Audi RS e-tron GT performance har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper føreren med at forudse kørselsforhold og spare energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper førere med at forudse køreforhold og spare energi.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Audi RS e-tron GT performance, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Audi RS e-tron GT performance, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Audi RS e-tron GT performance, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Audi RS e-tron GT performance, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Audi RS e-tron GT performance, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Audi RS e-tron GT performance, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfrit på Audi RS e-tron GT performance, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+[**Front Tværgående Trafik Assistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Ekstraudstyr på Audi RS e-tron GT performance, dette førerassistentsystem hjælper førere med at registrere modkørende trafik ved krydsning af et vejkryds eller når der drejes til venstre eller højre fra stillestående position.
 
-[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valgfrit på Audi RS e-tron GT performance, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
+[**Advarsel om Krydsende Trafik Bag (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Ekstraudstyr på Audi RS e-tron GT performance, dette system bruger sensorer til at opdage køretøjer, der nærmer sig fra siden, når man bakker ud af en parkeringsplads eller indkørsel.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfrit på Audi RS e-tron GT performance, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Ekstraudstyr på Audi RS e-tron GT performance, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Audi RS e-tron GT performance, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Audi RS e-tron GT performance, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Audi RS e-tron GT performance, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
+[**Automatisk Nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Audi RS e-tron GT performance, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfrit på Audi RS e-tron GT performance, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Ekstraudstyr på Audi RS e-tron GT performance, dette system hjælper med at opdage trafik i blinde vinkler.
 
 ### Køreautomatisering
 
 Audi RS e-tron GT performance tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med  niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
-- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (ekstraudstyr)
 
-Med det valgfrie Assistantpackage Tour niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
+Med det valgfrie Assistantpackage Tour niveau 2-system får du yderligere køreautomatiseringsfunktioner ud over dem, der er nævnt ovenfor:
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
 
 ## Sikkerheds- og adgangsteknologier
 
-Audi RS e-tron GT performance er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+Audi RS e-tron GT performance er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Med den standard nøglefri start og valgfri nøglefri adgang kan du låse og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
+- **Nøglefri adgang og start:** Med standard nøglefri start og valgfri nøglefri adgang kan du låse op og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 405 liter. På taget kan du laste op til 75 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 85 liter.
+Bagagerummet har en lastkapacitet på 405 liter (14,3 CU FT). På taget kan du laste op til 75 kg (165,3 lbs). Derudover er der et frunk (front-bagagerum) med en opbevaringskapacitet på 85 liter (3,0 CU FT).
 
-Køretøjets maksimale vægt er 2860 kg, med en basisvægt på 2340 kg. Dette giver en maksimal last på 520 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 2860 kg (6305 lbs), med en egenvægt på 2340 kg (5159 lbs). Dette giver en maksimal last på 520 kg (1146 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
-Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
+Denne model fås ikke med anhængertræk. Så hvis du skal trække en trailer, må du kigge på andre modeller.
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
-Denne model havde verdenspremiere den 18.06.2024, og leveringerne startede i September 2024.
-{{< pagenavigation b_url="../" b_title="Audi e-tron GT" f_url="rangeandconsumption/" f_title="Range" >}}
+Audi RS e-tron GT performance havde sin verdenspremiere den 18.06.2024, og leveringerne startede i September 2024.
+{{< pagenavigation b_url="../" b_title="Audi e-tron GT" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

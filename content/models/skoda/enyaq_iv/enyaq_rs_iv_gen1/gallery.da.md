@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ RS iV (GEN1) galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store SKODA ENYAQ RS iV (GEN1)-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store SKODA ENYAQ RS iV (GEN1) billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

@@ -1,7 +1,7 @@
 ---
-title: Lucid Gravity Dream Edition opladningskurve og ydeevne
-linktitle: "Opladningskurve"
-description: "Nedan är laddningskurvan för Lucid Gravity Dream Edition, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
+title: Lucid Gravity Dream Edition ladekurve og ydelse
+linktitle: "Ladekurve"
+description: "Herunder er opladningskurven for Lucid Gravity Dream Edition, der viser ladehastigheden ved forskellige batteriniveauer. Derudover giver grafer for rækkevidde og tid omfattende detaljer om opladningsydelsen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -26,7 +26,7 @@ navicon: bi-battery-charging
 	<tbody>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 0 - 100 %
+				Gennemsnitlig ladehastighed 0-100%
 			</td>
 			<td>
 				95,5 kW
@@ -34,7 +34,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-100 %
+				Gennemsnitlig ladehastighed 10-100%
 			</td>
 			<td>
 				89,1 kW
@@ -42,7 +42,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-90 %
+				Gennemsnitlig ladehastighed 10-90%
 			</td>
 			<td>
 				149,3 kW
@@ -50,7 +50,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-80 %
+				Gennemsnitlig ladehastighed 10-80%
 			</td>
 			<td>
 				170,8 kW
@@ -58,7 +58,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Maks C-Rate
+				Maksimal C-Rate
 			</td>
 			<td>
 				2,61
@@ -66,7 +66,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig C-rate
+				Gennemsnitlig C-Rate
 			</td>
 			<td>
 				1,50
@@ -82,7 +82,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningshastighed inkluderet 5 minutters tab
+				Optimal ladehastighed inklusiv 5 minutters tab
 			</td>
 			<td>
 				175,9kW
@@ -90,7 +90,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningsstoptid
+				Optimal ladetid
 			</td>
 			<td>
 				18m25s
@@ -115,7 +115,7 @@ navicon: bi-battery-charging
 	<tbody>
 		<tr>
 			<td>
-				Opladningstid 0 - 100%
+				Ladetid 0-100%
 			</td>
 			<td>
 				1 h 15 m 22 s
@@ -123,7 +123,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-100%
+				Ladetid 10-100%
 			</td>
 			<td>
 				1 h 12 m 43 s
@@ -131,7 +131,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-80%
+				Ladetid 10-80%
 			</td>
 			<td>
 				 29 m 30 s
@@ -166,7 +166,7 @@ navicon: bi-battery-charging
 	<tbody>
 		<tr>
 			<td>
-				Rækkevidde per minut 0-100%
+				Rækkevidde pr. minut 0-100%
 			</td>
 			<td>
 				9,4 km (5,8 mi)
@@ -183,7 +183,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-100%
+				Rækkevidde pr. minut 10-100%
 			</td>
 			<td>
 				8,8 km (5,5 mi)
@@ -200,7 +200,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-80%
+				Rækkevidde pr. minut 10-80%
 			</td>
 			<td>
 				16,8 km (10,4 mi)
@@ -220,10 +220,10 @@ navicon: bi-battery-charging
 </div>
 
 
-Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
+Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kolde eller varme temperaturer kan dog påvirke kurven betydeligt. Denne kurve er også baseret på start af opladning ved lav batteristatus. Derfor kan tilslutning ved højere niveau påvirke kurven positivt eller negativt. Læs mere om hvad der påvirker ladehastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-Lucid Gravity Dream Edition har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
+Lucid Gravity Dream Edition har batterivarmer, hvilket gør det lettere at oplade ved optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -241,7 +241,7 @@ Lucid Gravity Dream Edition har batterivärme, vilket gör det lättare att ladd
 				Tid
 			</th>
 			<th>
-				Energi opladet
+				Opladet energi
 			</th>
 		</tr>
 	</thead>
@@ -1665,4 +1665,4 @@ Lucid Gravity Dream Edition har batterivärme, vilket gör det lättare att ladd
 </div>
 
 
-{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rækkevidde" f_url="../specifications/" f_title="Specifikationer" >}}

@@ -1,7 +1,7 @@
 ---
 title: Opel Frontera
 linktitle: "Frontera"
-description: "Opel Frontera er en fuldelektrisk crossover med en WLTP rækkevidde på op til 306 km (190 miles). EVKX.net har alle detaljerne."
+description: "Opel Frontera er en elektrisk crossover med en WLTP rækkevidde på op til 306 km (190 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,89 +11,89 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/opel/frontera/main_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
-Vi har opdelt vores Opel Frontera artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-Opel Frontera kWh leverer grundlæggende ydeevne med en maksimal effekt på 83 kW (113 hk) og et samlet drejningsmoment på 120 Nm. Den accelererer fra 0 til 100 km/t på 11 sekunder og når en topfart på 135 km/t, hvilket er mere sammenligneligt med indgangsmodeller af traditionelle forbrændingsmotorbiler.
+Opel Frontera kWh giver grundlæggende ydeevne med en maksimal effekt på 83 kW (113 hk / 111 bhp) og et samlet drejningsmoment på 120 Nm (89 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 11 sekunder og når en tophastighed på 135 km/t (84 mph), hvilket er mere sammenligneligt med indgangsniveau traditionelle forbrændingsmotorer.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 45,0 kWh og en nettoanvendelig kapacitet på 44,0 kWh, hvilket giver en buffer på 1,0 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitets batteri har en brutto kapacitet på 45,0 kWh og en netto kapacitet på 44,0 kWh, hvilket giver en 1,0 kWh buffer (2,2%) til batteribeskyttelse. Lithium-ion batteriet bruger [LFP-teknologi](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), hvilket giver både fordele og ulemper sammenlignet med typiske NCA/NMC-batterier.
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 306 km, med et energiforbrugsrate på 14,4 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er køretøjets rækkevidde 306 km (190 miles), med et energiforbrug på 14,4 kWh/100 km (3 mi/kWh). For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 67 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 26 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 13% til 68%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 63kW. Hver opladningssession ville tage 23 minutter og 57 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 100 kW. Opladning fra 0% til 100% tager cirka 67 minutter, mens et mere typisk scenario fra 10% til 80% tager 26 minutter med en gennemsnitlig ladehastighed på 72 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 13% til 68%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 63 kW, hvor hver opladningssession tager cirka 23 minutter og 57 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24 kWh/100 km, ville turen tage cirka 11 timer og 26 minutter. Denne rejse ville kræve to opladningsstop fra 13% til 69%, med en samlet opladningstid på 187 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 24 kWh/100 km, ville turen tage cirka 11 timer og 26 minutter, med otte opladningsstop fra 13% til 69%, i alt 187 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 7,4 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 5 timer og 56 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 7,4 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 5 timer og 56 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 
-Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Ladeporten er placeret på [venstre bagside](../../../../technology/charging/connectors/#rear-side), hvilket gør det nemt at bruge ladestationer, hvor du skal bakke ind til laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-Opel Frontera har et forhjulstræksystem understøttet af en motor på forakslen.
+Opel Frontera har et forhjulstræksystem understøttet af én motor på forakslen.
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 163 mm.
+Forhjulsophænget er [MacPherson fjederben](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere. affjedringen har fast højde og dæmpning. Frihøjden med denne affjedring er 163 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funktion på Opel Frontera. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+Dynamisk styring er standard på Opel Frontera, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort.
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
+Opel Frontera er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag.
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) i denne model er primært faciliteret gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving). I modsætning til nogle modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller kørsel på frihjul ikke tilgængelig her. Ved lave hastigheder vil en-pedal kørsel holde bilen langsomt kørende fremad.
+[Regenerativ bremsning](../../../../technology/regen/) i denne model er primært muliggjort gennem [**én-pedal kørsel**](../../../../technology/regen/#one-pedal-driving). I modsætning til nogle modeller er [Automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive) eller friløb ikke tilgængelig her. Ved lave hastigheder vil én-pedals køretilstanden få bilen til at krybe fremad.
 
-Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er to niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
+Derudover kan du justere styrken af den regenerative bremsning når du løfter foden fra speederen. Der er to niveauer af regenerativ bremsning at vælge imellem, så du kan tilpasse køreoplevelsen efter dine præferencer.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den Opel Frontera, med dimensioner på 4385 mm i længde, 1795 mm i bredde og 1635 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Opel Frontera fås i alt 12 lakfarver, herunder både solide og metalliske muligheder. Nogle af disse lakmuligheder inkluderer to-tone lak, hvor taget er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt look.
+Opel Frontera, med dimensioner på 4385 mm i længde, 1795 mm i bredde og 1635 mm i højde, tilhører B-SUV segmentet, også kendt som kompakte SUV'er eller crossovers, der kombinerer B-segment bilers kompakte størrelse og manøvredygtighed med en højere køreposition, øget bagagerumsplads og robust styling fra en SUV. Opel Frontera fås i alt i 12 lakfarver, inklusive både almindelige og metalliske muligheder. Nogle af disse lakvalg inkluderer totonede farver, hvor taget er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt udseende.
 
-Du kan vælge mellem flere hjul i forskellige størrelser på Opel Frontera, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Opel Frontera tilbyder flere hjulmuligheder i forskellige størrelser, så du kan tilpasse din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 205/55 dæk on 16" fælge
-- 205/50 dæk on 17" fælge
+- 205/55 dæk på 16" fælge
+- 205/50 dæk på 17" fælge
 
-Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+Smallere hjul forbedrer forbruget og giver længere rækkevidde, mens bredere hjul giver bedre vejgreb og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate).
 
-Der er kun ét tag til denne model.
+Der er kun én tagmulighed for denne model.
 
-Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
+Derudover kan du bestille bilen med tonede ruder fra B-søjlen og bagud, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
 
 {{< sitefiguresized thumb="models/opel/frontera/exterior_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
@@ -105,92 +105,92 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ### Sæder
 
-Opel Frontera har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+Opel Frontera har plads til fem passagerer med to forsæder og en trebænk bagtil.
 
-#### Første række sæder
+#### Forsæder
 
-For første række tilbyder Opel Frontera to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
+Forreste række tilbyder to sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
-Følgende funktioner er tilgængelige på **Standard** sædet.
+Følgende funktioner er tilgængelige på **Standard** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofbetræk](../../../../technology/seats/materials/#fabric)
 
-Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
+Følgende funktioner er tilgængelige på **Advanced Comfort** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
-- højdejusterbar nakkestøtte
+- Højdejusterbar nakkestøtte
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Black/Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [mikrofiber/kunstlæderbetræk](../../../../technology/seats/materials/#microfiber)
 
-#### Sæder på anden række
+#### Anden række sæder
 
-Du kan vælge to sædetyper til anden række i Opel Frontera.
+Du kan vælge mellem to sædetyper til anden række i Opel Frontera.
 
-Muligheden standard er en tre-sædet bænk med en 100 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+standard muligheden er en tresæders bænk med 100 opdeling, hvor du kan folde hver sektion separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
-- højdejusterbar nakkestøtte
+- Højdejusterbar nakkestøtte
 
-Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
+Følgende funktioner er tilgængelige på **Advanced Comfort** sædet:
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Black/Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [mikrofiber/kunstlæderbetræk](../../../../technology/seats/materials/#microfiber)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
-- **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
+- **1-zone klimaanlæg:** Understøtter kun styring af én fælles zone for hele bilen.
 
-Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
+Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr sammenlignet med modeller med varmepumpe.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Opel Frontera inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+Opel Frontera inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
-- **Trådløs opladning af telefon**
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-Opel Frontera har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+Opel Frontera har to skærme med information til fører og passagerer. Bag rattet er der et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og på højre side er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Vigtige skærmdetaljer:
 
-- Skærmen  bag rattet til venstre for rammen er 10,0 tommer stor
-- Skærmen touch i højre del af den delte ramme er 10,0 tommer stor
+- Den  skærm bag rattet på venstre side af rammen er 10,0 tommer stor
+- Den touch skærm på højre side af den fælles ramme er 10,0 tommer stor
 
-Modellen har ikke et head-up display.
+Modellen inkluderer ikke et head-up display.
 
 {{< sitefiguresized thumb="models/opel/frontera/screens_1_st.jpg" title="Opel Frontera" width="3000" height="1875"  >}}
 
 ### Rat
 
-Opel Frontera er udstyret med en enkelt type rat:
+Opel Frontera er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
-Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+Denne model kommer med stemmestyring som standard, der giver dig mulighed for at styre forskellige funktioner gennem stemmekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -198,26 +198,26 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ### Navigationssystem
 
-Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Med valgfrit indbygget navigationssystem har du al den hjælp, du behøver for at nå din destination uden besvær.
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter Opel Frontera Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+Opel Frontera understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Opel Frontera.
+Du kan vælge mellem to lydsystemer til Opel Frontera:
 
 - **standard:** Har to højttalere.
 - **Max Sound system:** Har to højttalere.
 
-Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+Derudover inkluderer modellen 2 USB-C tilslutninger som standard. Som ekstraudstyr kan du få yderligere 2 USB-C tilslutninger.
 
-## Lys
+## Lygter
 
-**Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+**Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/opel/frontera/headlights_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
@@ -225,46 +225,46 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den Opel Frontera inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+Opel Frontera har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Opel Frontera, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Opel Frontera, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Opel Frontera, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Opel Frontera, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Opel Frontera, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Opel Frontera, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
 ### Køreautomatisering
 
-Med standardudstyret tilbyder modellen ingen køreautomatisering.
+Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 - Fartpilot.
 
 ### Sensorer & Kameraer
 
-Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
-Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), én [kameraer](../../../../technology/sensorsandcameras/cameras/) og fire [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+Denne model bruger kameraer, radar og ultrasoniske sensorer til sine førerassistentsystemer.
+Op til en [radar-sensorer](../../../../technology/sensorsandcameras/radar/), en [kameraer](../../../../technology/sensorsandcameras/cameras/), og fire [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 ## Sikkerheds- og adgangsteknologier
 
-Opel Frontera er udstyret med essentielle sikkerhedsfunktioner for at beskytte dig og dit køretøj og tilbyder enkelhed og pålidelighed. Disse inkluderer:
+Opel Frontera er udstyret med grundlæggende sikkerhedsfunktioner for at beskytte dig og dit køretøj, og tilbyder enkelhed og pålidelighed. Disse omfatter:
 
-- **Manuel nøgleadgang:** Køretøjet bruger et traditionelt nøglesystem, så du nemt kan låse og starte bilen manuelt.
+- **Manuel nøgleadgang:** Køretøjet bruger et traditionelt nøglesystem, så du nemt kan låse op og starte bilen manuelt.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 460 liter. Med det bageste sæde foldet ned, udvides dette til 1594 liter. På taget kan du laste op til 75 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack.
+Bagagerummet har en lastkapacitet på 460 liter (16,2 CU FT). Med bagsædet lagt ned udvides dette til 1594 liter (56,3 CU FT). På taget kan du laste op til 75 kg (165,3 lbs). Tagbøjler fås som ekstraudstyr for nem montering af tagboks eller lastbærer.
 
-Køretøjets maksimale vægt er 2030 kg, med en basisvægt på 1439 kg. Dette giver en maksimal last på 591 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 2030 kg (4475 lbs), med en egenvægt på 1439 kg (3172 lbs). Dette giver en maksimal last på 591 kg (1303 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
 {{< sitefiguresized thumb="models/opel/frontera/trunk_1_st.jpg" title="Opel Frontera" width="3000" height="2000"  >}}
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
-Denne model havde verdenspremiere den 15.05.2024, og leveringer forventes at starte om September 2024.
-{{< pagenavigation b_url="../" b_title="Opel Frontera" f_url="rangeandconsumption/" f_title="Range" >}}
+Denne model havde sin verdenspremiere den 15.05.2024, og leveringerne forventes at begynde i September 2024.
+{{< pagenavigation b_url="../" b_title="Opel Frontera" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

@@ -1,5 +1,5 @@
 ---
-title: Kia EV-modeller
+title: Kia EV modeller
 linktitle: "Kia"
 description: "Kia, en sydkoreansk bilproducent grundlagt i 1944, har udviklet sig til en global leder kendt for innovation og kvalitet. Med et stærkt fokus på elektrisk mobilitet udvider Kia sit EV-sortiment med henblik på bæredygtighed og avanceret teknologi. Mærkets engagement i tilgængelige, miljøvenlige køretøjer positionerer det som en nøglespiller på EV-markedet."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Kia EV3 er en crossover tilgængelig i 1 varianter.
+Kia EV3 er en crossover, der fås i 1 varianter.
 </p>
 	<a href="ev3/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Kia EV3 er en crossover tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Kia EV6 er en Coupe SUV tilgængelig i 6 varianter.
+Kia EV6 er en coupé SUV, der fås i 6 varianter.
 </p>
 	<a href="ev6/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -56,7 +56,7 @@ Kia EV6 er en Coupe SUV tilgængelig i 6 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Kia EV9 er en SUV tilgængelig i 5 varianter.
+Kia EV9 er en SUV, der fås i 5 varianter.
 </p>
 	<a href="ev9/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -71,7 +71,7 @@ Kia EV9 er en SUV tilgængelig i 5 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Kia Niro er en crossover tilgængelig i 1 varianter.
+Kia Niro er en crossover, der fås i 1 varianter.
 </p>
 	<a href="niro/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

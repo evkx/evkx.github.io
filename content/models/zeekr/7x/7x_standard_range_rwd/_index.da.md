@@ -1,7 +1,7 @@
 ---
 title: Zeekr 7X Standard Range RWD
 linktitle: "7X Standard Range RWD"
-description: "Zeekr 7X Standard Range RWD er en fuldelektrisk SUV med en rækkevidde på CLTC på op til 780 km (485 miles). EVKX.net har alle detaljerne."
+description: "Zeekr 7X Standard Range RWD er en elektrisk SUV med en CLTC rækkevidde på op til 780 km (485 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,44 +11,44 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/main_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="3000" height="1687"  >}}
 
-Vi har opdelt vores Zeekr 7X Standard Range RWD artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-Zeekr 7X Standard Range RWD leverer en solid præstation med en maksimal effekt på 310 kW (422 hk) og et totalt drejningsmoment på 440 Nm. Den kan accelerere fra 0 til 100 km/t på 5,8 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+Zeekr 7X Standard Range RWD leverer en solid præstation med en maksimal effekt på 310 kW (422 hk / 416 bhp) og et samlet drejningsmoment på 440 Nm (325 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 5,8 sekunder og når en tophastighed på 200 km/t (124 mph), hvilket gør den konkurrencedygtig inden for sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 75,0 kWh og en nettoanvendelig kapacitet på 74,0 kWh, hvilket giver en buffer på 1,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 700 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitets batteri har en brutto kapacitet på 75,0 kWh og en netto kapacitet på 74,0 kWh, hvilket giver en 1,0 kWh buffer (1,3%) til batteribeskyttelse. Med en driftsspænding på 700 volt kvalificerer det som et 800-volt batterisystem. Denne høje spænding er afgørende for systemets opladningskapaciteter. Lithium-ion batteriet bruger [LFP-teknologi](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), hvilket giver både fordele og ulemper sammenlignet med typiske NCA/NMC-batterier.
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 780 km (485 miles). Forbruget er 9,5kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Køretøjets rækkevidde, ifølge [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standarden, er 780 km (485 miles). Energiforbruget er 9,5 kWh/100 km baseret på CLTC standardtesten. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 450kW. En fuld opladning fra 0 - 100 % ville tage 23 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 9 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 80%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 227kW. Hver opladningssession ville tage 15 minutter og 14 sekunder. Denne usædvanligt hurtige opladningskapacitet gør Zeekr 7X Standard Range RWD til en af de mest effektive og bekvemme elbiler til langdistancerejser.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 450 kW. Opladning fra 0% til 100% tager cirka 23 minutter, mens et mere typisk scenario fra 10% til 80% tager 9 minutter med en gennemsnitlig ladehastighed på 336 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 2% til 80%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 227 kW, hvor hver opladningssession tager cirka 15 minutter og 14 sekunder. Denne exceptionelt hurtige opladningskapacitet gør Zeekr 7X Standard Range RWD til en af de mest effektive og bekvemme elbiler til langdistancekørsel.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 23 kWh/100 km, ville turen tage cirka 9 timer og 1 minutter. Denne rejse ville kræve to opladningsstop fra 3% til 74%, med en samlet opladningstid på 42 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 23 kWh/100 km, ville turen tage cirka 9 timer og 1 minutter, med tre opladningsstop fra 3% til 74%, i alt 42 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 43 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 6 timer og 43 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 
-Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Ladeporten er placeret på [venstre bagside](../../../../technology/charging/connectors/#rear-side), hvilket gør det nemt at bruge ladestationer, hvor du skal bakke ind til laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/battery_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="1576" height="900"  >}}
 
@@ -56,48 +56,48 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-Zeekr 7X Standard Range RWD har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Zeekr 7X Standard Range RWD har et baghjulstræksystem understøttet af én motor på bagakslen. Den anvendte motor er en [permanent magnet synkronmotor](../../../../technology/motors/pmsm/).
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standar affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 190 mm.
+Forhjulsophænget bruger et [dobbelt wishbone](../../../../technology/suspension/#double-wishbone) design, mens baghjulsophænget bruger et [Multilink](../../../../technology/suspension/#multilink) setup. Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere. standar affjedringen har stålsfjedre med fast højde, men du kan justere dæmpningen til at passe til din kørestil eller vejforhold. Frihøjden med denne affjedring er 190 mm.
 
-Du kan bestille Zeekr 7X Standard Range RWD med en alternativ air suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 160 mm, og maksimum er 230 mm.
+Du kan bestille Zeekr 7X Standard Range RWD med en alternativ air suspension affjedring. Forhjulsophænget er [dobbelt wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske støddæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Den minimale frihøjde er 160 mm, og den maksimale er 230 mm.
 
-For lettere lastning kan luftaffjedringen sænkes ved hjælp af betjeningsknapper i bagagerummet.
+For lettere læsning kan du sænke luftaffjedringen bagfra
 
 ### Styring
 
-Dynamisk styring er en standard-funktion på Zeekr 7X Standard Range RWD. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+Dynamisk styring er standard på Zeekr 7X Standard Range RWD, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort.
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
+Zeekr 7X Standard Range RWD er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag.
 
 ### Regenerativ bremsning
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog er [regenerativ bremsning](../../../../technology/regen/) muliggjort gennem [**én-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den Zeekr 7X Standard Range RWD, med dimensioner på 4825 mm i længde, 1930 mm i bredde og 1656 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Zeekr 7X Standard Range RWD fås i alt 7 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
+Zeekr 7X Standard Range RWD, med dimensioner på 4825 mm i længde, 1930 mm i bredde og 1656 mm i højde, tilhører mellemklasse SUV'er, der tilbyder en kombination af plads, komfort, ydeevne og alsidighed, hvilket gør dem velegnede til en bred vifte af bilister med forskellige behov. Zeekr 7X Standard Range RWD fås i alt i 7 lakfarver, inklusive flere iøjnefaldende metalliske muligheder.
 
-Du kan vælge mellem flere hjul i forskellige størrelser på Zeekr 7X Standard Range RWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Zeekr 7X Standard Range RWD tilbyder flere hjulmuligheder i forskellige størrelser, så du kan tilpasse din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 265/50 dæk on 19" fælge
-- 265/45 dæk on 20" fælge
+- 265/50 dæk på 19" fælge
+- 265/45 dæk på 20" fælge
 
-Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+Smallere hjul forbedrer forbruget og giver længere rækkevidde, mens bredere hjul giver bedre vejgreb og håndtering.
 
-Bilen har fire [rammeløse døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate). Elektriske døre er en valgfri funktion for sidedørene.
+Bilen har fire [rammeløse døre](../../../../technology/doors/) og en [hatchback-agtig bagklap](../../../../technology/doors/#hatcback-style-liftgate). Eldrevne døre er en valgfrit funktion for sidedørene.
 
-Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
+Der er kun én tagmulighed for denne model. Standardtaget har et stort panoramatag, der strækker sig fra for til bag. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Det har et elektrisk gardin, som passagererne kan bruge til beskyttelse mod solen.
 
-Ruderne fra B-stolpen og bagsiden er tonede.
+Ruderne fra B-søjlen og bagud er tonede, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/exterior_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="3000" height="1687"  >}}
 
@@ -107,56 +107,56 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Interiøret i Zeekr 7X Standard Range RWD er designet med en minimalistisk æstetik og har førsteklasses materialer overalt. Den todelte midterkonsol adskiller fører og passager og tilbyder praktiske opbevaringsmuligheder og forbedret funktionalitet. Du kan vælge mellem flere interiørdesigns.
+Interiøret i Zeekr 7X Standard Range RWD er designet med en minimalistisk æstetik og har førsteklasses materialer overalt. Den todelte midterkonsol adskiller fører og passager, og giver praktiske opbevaringsmuligheder og forbedret funktionalitet. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
-Zeekr 7X Standard Range RWD har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+Zeekr 7X Standard Range RWD har plads til fem passagerer med to forsæder og en trebænk bagtil.
 
-#### Første række sæder
+#### Forsæder
 
-Zeekr 7X Standard Range RWD tilbyder kun én type forreste sæde.
+Zeekr 7X Standard Range RWD tilbyder én type forsæde.
 
-Følgende funktioner er tilgængelige på **standard** sædet.
+Følgende funktioner er tilgængelige på **standard** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- Højdejusterbar nakkestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (elektrisk justerbar)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Justerbar sidestøtte i ryglæn](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (elektrisk justerbar)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
-Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Purple/White [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-- Black/Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-- Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Purple/White [Nappa-læderbetræk](../../../../technology/seats/materials/#leather)
+- Black/Gray [Nappa-læderbetræk](../../../../technology/seats/materials/#leather)
+- Black [Nappa-læderbetræk](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/frontseats_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="3000" height="1687"  >}}
 
-#### Sæder på anden række
+#### Anden række sæder
 
-Du kan vælge to sædetyper til anden række i Zeekr 7X Standard Range RWD.
+Du kan vælge mellem to sædetyper til anden række i Zeekr 7X Standard Range RWD.
 
-Muligheden standard er en tre-sædet bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+standard muligheden er en tresæders bænk med 40:60 opdeling, hvor du kan folde hver sektion separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- Højdejusterbar nakkestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)
 
-Muligheden second er et [executive-sæde kombineret med en to-sædet bænk](../../../../technology/seats/types/#executive-sæde--to-sædet-bænk). Derudover er følgende funktionaliteter tilgængelige.
+second muligheden er et [komfortsæde kombineret med en tosæders bænk](../../../../technology/seats/types/#executive-seat--two-seat-bench). Yderligere funktioner inkluderer:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
-- [massage](../../../../technology/seats/adjustment/#massage) (standard for ydre sæder)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)
+- [Massage](../../../../technology/seats/adjustment/#massage) (standard for ydersæder)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/secondrowseats_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="1600" height="899"  >}}
 
@@ -164,51 +164,51 @@ Muligheden second er et [executive-sæde kombineret med en to-sædet bænk](../.
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
-En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, hvilket kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Zeekr 7X Standard Range RWD inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+Zeekr 7X Standard Range RWD inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
 - **Elektrisk justerbart rat**
-- **Trådløs opladning af telefon**
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-Kontrolgrænsefladen for denne EV-model er fokuseret omkring skærminteraktion og har kun begrænset funktionalitet tilgængelig på knapper og stænger. For nogle kan dette medføre mindre end ideel brugeroplevelse og anvendelighed.
+Kontrolgrænsefladen for Zeekr 7X Standard Range RWD er primært fokuseret på skærminteraktion, med begrænset funktionalitet tilgængelig via fysiske knapper og kontaktarme. Dette design kan resultere i en mindre end ideel brugeroplevelse for nogle brugere.
 
-Zeekr 7X Standard Range RWD har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
+Zeekr 7X Standard Range RWD har flere integrerede skærme. Bag rattet er der et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen er der én [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen) øverst i midterkonsollen.
 
 Vigtige skærmdetaljer:
 
-- Skærmen  bag rattet integreret i instrumentbrættet er 13,0 tommer stor
-- Skærmen touch øverst på midterkonsollen er 16,0 tommer stor
+- Den  skærm bag rattet integreret i instrumentbrættet er 13,0 tommer stor
+- Den touch skærm øverst i midterkonsollen er 16,0 tommer stor
 
-Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+Et head-up display er et standard system, der projicerer hastighed og anden vigtig førerinformation på forruden.
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/screens_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="3000" height="1687"  >}}
 
 ### Rat
 
-Zeekr 7X Standard Range RWD er udstyret med en enkelt type rat:
+Zeekr 7X Standard Range RWD er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat har integreret varme for ekstra komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
-Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+Denne model kommer med stemmestyring som standard, der giver dig mulighed for at styre forskellige funktioner gennem stemmekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -216,37 +216,37 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Med standard indbygget navigationssystem har du al den hjælp, du behøver for at nå din destination uden besvær.
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter Zeekr 7X Standard Range RWD Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+Zeekr 7X Standard Range RWD understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Zeekr 7X Standard Range RWD.
+Zeekr 7X Standard Range RWD kommer med ét lydsystem:
 
-- Med Zeekr Sound System får du 21 højttalere med en maksimal systemeffekt på 2160 watt.
+- **Zeekr Sound System:** Har 21 højttalere og leverer en maksimal effekt på 2160 watt.
 
-Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+Derudover inkluderer modellen 3 USB-C tilslutninger som standard. Modellen har 1 USB-A tilslutninger som standard.
 
-## Mobilapp
+## Mobil App
 
-Den Zeekr 7X Standard Range RWD kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
+Zeekr 7X Standard Range RWD kommer med en dedikeret mobilapp, tilgængelig til både Android og iOS-enheder, så du kan styre og overvåge din bil på afstand. Appen tilbyder en bred vifte af funktioner designet til at forbedre din køreoplevelse:
 
-- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
-- **Fjernparkering**: Styr din bil nemt for at parkere eller forlade en parkeringsplads eksternt.
-- **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
-- **Ruteplanlægning**: Planlæg din rute og send den direkte til bilens navigationssystem.
+- **Forkonditionering:** Forvarm eller afkøl din bil, før du starter din rejse, for optimal komfort.
+- **Fjernparkering:** Styr din bil til at parkere eller forlade en parkeringsplads på afstand.
+- **Lås og lås op:** Lås eller lås dine bildøre op sikkert med et tryk.
+- **Ruteplanlægning:** Planlæg din rute og send den direkte til bilens navigationssystem.
 
-## Lys
+## Lygter
 
 Du kan vælge mellem to typer forlygter til Zeekr 7X Standard Range RWD.
 
-- **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
-- De valgfrie LED-forlygter har flere LED-segmenter, hvilket giver dig mulighed for at tilpasse din foretrukne kørelys (DRL) signatur.
+- **Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
+- De valgfrie LED-forlygter har flere LED-segmenter, så du kan tilpasse din foretrukne kørelys-signatur (DRL).
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/headlights_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="2400" height="1350"  >}}
 
@@ -254,76 +254,76 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den Zeekr 7X Standard Range RWD inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+Zeekr 7X Standard Range RWD har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper føreren med at forudse kørselsforhold og spare energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper førere med at forudse køreforhold og spare energi.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Zeekr 7X Standard Range RWD, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Zeekr 7X Standard Range RWD, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Zeekr 7X Standard Range RWD, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Zeekr 7X Standard Range RWD, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Zeekr 7X Standard Range RWD, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Zeekr 7X Standard Range RWD, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Zeekr 7X Standard Range RWD, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+[**Front Tværgående Trafik Assistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Zeekr 7X Standard Range RWD, dette førerassistentsystem hjælper førere med at registrere modkørende trafik ved krydsning af et vejkryds eller når der drejes til venstre eller højre fra stillestående position.
 
-[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Zeekr 7X Standard Range RWD, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
+[**Advarsel om Krydsende Trafik Bag (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Zeekr 7X Standard Range RWD, dette system bruger sensorer til at opdage køretøjer, der nærmer sig fra siden, når man bakker ud af en parkeringsplads eller indkørsel.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Zeekr 7X Standard Range RWD, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Zeekr 7X Standard Range RWD, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Zeekr 7X Standard Range RWD, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Zeekr 7X Standard Range RWD, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Zeekr 7X Standard Range RWD, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Zeekr 7X Standard Range RWD, dette system hjælper med at opdage trafik i blinde vinkler.
 
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard på Zeekr 7X Standard Range RWD, dette system advarer passagererne mod at åbne dørene, hvis der er risiko for at ramme noget.
+[**Udstigningsadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Zeekr 7X Standard Range RWD, dette system advarer passagererne mod at åbne døre, hvis der er risiko for at ramme noget.
 
 ### Køreautomatisering
 
-Med standard NZP Pilot Assist niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med det standard NZP Pilot Assist niveau 2-system får du følgende køreautomatiseringsfunktioner.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
-- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer & Kameraer
 
-Denne model bruger kameraer, radar, LiDAR og ultralydssensorer til sine førerassistentsystemer.
-Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), én [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+Denne model bruger kameraer, radar, LiDAR og ultrasoniske sensorer til sine førerassistentsystemer.
+Op til fem [radar-sensorer](../../../../technology/sensorsandcameras/radar/), en [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 ## Sikkerheds- og adgangsteknologier
 
-Zeekr 7X Standard Range RWD er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+Zeekr 7X Standard Range RWD er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
+- **Nøglefri adgang og start:** Bilens nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse op og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 616 liter. Med det bageste sæde foldet ned, udvides dette til 1978 liter. På taget kan du laste op til 100 kg. Tagbøjler er standard for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 62 liter.
+Bagagerummet har en lastkapacitet på 616 liter (21,8 CU FT). Med bagsædet lagt ned udvides dette til 1978 liter (69,9 CU FT). På taget kan du laste op til 100 kg (220,5 lbs). Tagbøjler er standard for nem montering af tagboks eller lastbærer. Derudover er der et frunk (front-bagagerum) med en opbevaringskapacitet på 62 liter (2,2 CU FT).
 
-Køretøjets maksimale vægt er 2800 kg, med en basisvægt på 2298 kg. Dette giver en maksimal last på 502 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 2800 kg (6173 lbs), med en egenvægt på 2298 kg (5066 lbs). Dette giver en maksimal last på 502 kg (1107 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
-Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
+Denne model fås ikke med anhængertræk. Så hvis du skal trække en trailer, må du kigge på andre modeller.
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/trunk_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="2400" height="1350"  >}}
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
-Denne model havde verdenspremiere den 29.08.2024, og leveringer forventes at starte om October 2024. Denne model er kun tilgængelig i Kina.
+Denne model havde sin verdenspremiere den 29.08.2024, og leveringerne forventes at begynde i October 2024. Bemærk venligst at denne model kun er tilgængelig i Kina.
 
 ### Priser
 
-Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Herunder er startpriserne for udvalgte lande:
 
 - 269 900,00 yuan (Kina)
 
-## Alternative Modeller
+## Alternative modeller
 
-I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Zeekr 7X Standard Range RWD, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til Zeekr 7X Standard Range RWD, som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
 
 - [Porsche Macan Turbo](/models/porsche/macan/macan_turbo/)
 - [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron/)
@@ -331,4 +331,4 @@ I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alter
 
 <a href="https://db.evkx.net/evcompare?evs=221389%2c4d777d%2c03d3c7%2c899448" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 
-{{< pagenavigation b_url="../" b_title="Zeekr 7X" f_url="rangeandconsumption/" f_title="Range" >}}
+{{< pagenavigation b_url="../" b_title="Zeekr 7X" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

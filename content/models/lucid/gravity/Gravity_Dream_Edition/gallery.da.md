@@ -1,7 +1,7 @@
 ---
 title: Lucid Gravity Dream Edition galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Lucid Gravity Dream Edition-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Lucid Gravity Dream Edition billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

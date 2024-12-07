@@ -1,7 +1,7 @@
 ---
 title: Xiaomi SU7 Pro galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Xiaomi SU7 Pro-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Xiaomi SU7 Pro billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

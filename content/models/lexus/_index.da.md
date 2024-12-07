@@ -1,5 +1,5 @@
 ---
-title: Lexus EV-modeller
+title: Lexus EV modeller
 linktitle: "Lexus"
 description: "The Lexus journey begins in 1983, when a Japanese team of engineers, designers and technicians were assigned a secret project that required them to reimagine luxury automotive. They were to set new standards of production in order to build an ambitious new vehicle that would outshine the world's best.  "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Lexus RZ er en SUV tilgængelig i 2 varianter.
+Lexus RZ er en SUV, der fås i 2 varianter.
 </p>
 	<a href="rz/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Lexus RZ er en SUV tilgængelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Lexus UX er en crossover tilgængelig i 1 varianter.
+Lexus UX er en crossover, der fås i 1 varianter.
 </p>
 	<a href="ux/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

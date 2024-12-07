@@ -1,5 +1,5 @@
 ---
-title: VOYAH EV-modeller
+title: VOYAH EV modeller
 linktitle: "VOYAH"
 description: "Voyah is a car brand that specializes in designing and developing electric vehicles. Voyah is the premium division of Chinese state-owned automaker Dongfeng Motor Corporation. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-VOYAH Courage er en SUV tilgængelig i 1 varianter.
+VOYAH Courage er en SUV, der fås i 1 varianter.
 </p>
 	<a href="courage/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ VOYAH Courage er en SUV tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-VOYAH FREE er en SUV tilgængelig i 1 varianter.
+VOYAH FREE er en SUV, der fås i 1 varianter.
 </p>
 	<a href="free/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

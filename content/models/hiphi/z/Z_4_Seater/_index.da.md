@@ -1,7 +1,7 @@
 ---
 title: HiPhi Z 4 Seater
 linktitle: "Z 4 Seater"
-description: "HiPhi Z 4 Seater er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 555 km (345 miles). EVKX.net har alle detaljerne."
+description: "HiPhi Z 4 Seater er en elektrisk luksus sedan med en WLTP rækkevidde på op til 555 km (345 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,84 +11,84 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/main_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1486"  >}}
 
-Vi har opdelt vores HiPhi Z 4 Seater artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-HiPhi Z 4 Seater imponerer med en maksimal effekt på 494 kW (672 hk) og et imponerende samlet drejningsmoment på 820 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,8 sekunder og har en topfart på 200 km/h, hvilket gør den til en standout i sin klasse.
+HiPhi Z 4 Seater har en imponerende styrke med en maksimal effekt på 494 kW (672 hk / 663 bhp) og et kommanderende samlet drejningsmoment på 820 Nm (605 lb-ft). Denne højtydende maskine kan sprinte fra 0 til 100 km/t (0 til 62 mph) på kun 3,8 sekunder, og den når en tophastighed på 200 km/t (124 mph), hvilket gør den til en frontløber i sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 120,0 kWh og en nettoanvendelig kapacitet på 113,0 kWh, hvilket giver en buffer på 7,0 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitets batteri har en brutto kapacitet på 120,0 kWh og en netto kapacitet på 113,0 kWh, hvilket giver en 7,0 kWh buffer (5,8%) til batteribeskyttelse. Dette lithium-ion batteri bruger [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 555 km, med et energiforbrugsrate på 20,4 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er køretøjets rækkevidde 555 km (345 miles), med et energiforbrug på 20,4 kWh/100 km (3 mi/kWh). For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 94 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 48 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 48%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 101kW. Hver opladningssession ville tage 29 minutter og 30 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på  kW. Opladning fra 0% til 100% tager cirka 94 minutter, mens et mere typisk scenario fra 10% til 80% tager 48 minutter med en gennemsnitlig ladehastighed på 98 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 4% til 48%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 101 kW, hvor hver opladningssession tager cirka 29 minutter og 30 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 28 kWh/100 km, ville turen tage cirka 9 timer og 59 minutter. Denne rejse ville kræve to opladningsstop fra 5% til 42%, med en samlet opladningstid på 100 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 28 kWh/100 km, ville turen tage cirka 9 timer og 59 minutter, med fire opladningsstop fra 5% til 42%, i alt 100 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 10 timer og 16 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 10 timer og 16 minutter ved brug af en hjemmeinstallation.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/charging_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2032"  >}}
 
 ### Ladeport
 
-Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Denne model bruger [**GBT**](../../../../technology/charging/connectors/#gbt) til Kina og Europa, hvilket betyder, at du skal bruge en CCS2>GBT-adapter i Europa. Se de fulde specifikationer for alle markeder.
+Ladeporten er placeret på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke ind til laderen. Denne model bruger [**GBT**](../../../../technology/charging/connectors/#gbt) i Kina og Europa, hvilket betyder at du skal bruge en CCS2>GBT adapter i Europa. Se fulde specifikationer for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-HiPhi Z 4 Seater har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+HiPhi Z 4 Seater har et firehjulstræksystem drevet af to motorer, én på hver aksel. Motorerne er [Permanent Magnet Synkron Motorer](../../../../technology/motors/pmsm/).
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 150 mm, og maksimum er 200 mm.
+Forhjulsophænget er [dobbelt wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske støddæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Den minimale frihøjde er 150 mm, og den maksimale er 200 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funktion på HiPhi Z 4 Seater. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en standard-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
+Dynamisk styring er standard på HiPhi Z 4 Seater, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort. Derudover er baghjulsstyring tilgængelig som standard funktion. Baghjulsstyring reducerer vendediameteren ved langsom kørsel.
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
+HiPhi Z 4 Seater er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag.
 
 ### Regenerativ bremsning
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den HiPhi Z 4 Seater, med dimensioner på 5036 mm i længde, 2018 mm i bredde og 1439 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
+HiPhi Z 4 Seater, med dimensioner på 5036 mm i længde, 2018 mm i bredde og 1439 mm i højde, tilhører F-segment biler, også kendt som luksus- eller store luksusbiler, der repræsenterer toppen af automobilkomfort, ydeevne og teknologi. De er typisk store sedaner eller limousiner designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. Du kan vælge mellem 6 forskellige lakfarver, når du bestiller denne model.
 
-Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på HiPhi Z 4 Seater, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Du kan vælge mellem flere hjuldesign, alle tilgængelige i samme størrelse, på HiPhi Z 4 Seater, så du kan personliggøre din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 255/45 dæk på 22" fælge foran og 285/40 dæk på 22" fælge bagpå
+- 255/45 dæk på 22" fælge foran og 285/40 dæk på 22" fælge bag
 
-Bilen har to [almindelige døre](../../../../technology/doors/) foran, [selvmordsdøre](../../../../technology/doors/) på anden række, og et [bagklap](../../../../technology/doors/#bootlid) bagerst. Elektriske døre er en standard funktion for sidedørene.
+The car has two [regular doors](../../../../technology/doors/) in front, [suicide doors](../../../../technology/doors/) on the second row, and a [bootlid](../../../../technology/doors/#bootlid) in the rear. Eldrevne døre er en standard funktion for sidedørene.
 
-Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Glasset er tonet for at beskytte mod varme fra solen.
+Der er kun én tagmulighed for denne model. Standardtaget har et stort panoramatag, der strækker sig fra for til bag. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Glasset er tonet for at beskytte mod varme fra solen.
 
-Ruderne fra B-stolpen og bagsiden er tonede.
+Ruderne fra B-søjlen og bagud er tonede, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/exterior_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1399"  >}}
 
@@ -100,37 +100,37 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ### Sæder
 
-Sædeopsætningen er to sæder foran og to sæder bagved.
+Sædeopsætningen er to sæder foran og to sæder bagpå.
 
-#### Første række sæder
+#### Forsæder
 
-HiPhi Z 4 Seater tilbyder kun én type forreste sæde.
+HiPhi Z 4 Seater tilbyder én type forsæde.
 
-Følgende funktioner er tilgængelige på **standard** sædet.
+Følgende funktioner er tilgængelige på **standard** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
-Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-- White [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Gray [Nappa-læderbetræk](../../../../technology/seats/materials/#leather)
+- White [Nappa-læderbetræk](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/frontseats_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2256"  >}}
 
-#### Sæde på anden række
+#### Anden række sæder
 
-For anden række har denne model to [executive-sæder](../../../../technology/seats/types/#twin-executive-sæder). Derudover er følgende funktionaliteter tilgængelige.
+Til anden række har denne model to [komfortsæder](../../../../technology/seats/types/#twin-executive-seats). Yderligere funktioner inkluderer:
 
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/secondrowseats_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2287"  >}}
 
@@ -138,49 +138,49 @@ For anden række har denne model to [executive-sæder](../../../../technology/se
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
-En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, hvilket kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-HiPhi Z 4 Seater inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+HiPhi Z 4 Seater inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
 - **Elektrisk justerbart rat**
-- **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
-- **Trådløs opladning af telefon**
+- **Easy Entry Funktion:** Flytter førersædet for at lette indstigning i bilen.
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-HiPhi Z 4 Seater har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
+HiPhi Z 4 Seater har en enkelt skærm til føreren. Instrumentbrættets midte har en enkelt [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen), der fungerer som den primære skærm for både køretøjsinformation og infotainment-funktioner.
 
 Vigtige skærmdetaljer:
 
-- Skærmen touch i dashboardets midte er 15,0 tommer stor
+- Den touch skærm på midten af instrumentbrættet er 15,0 tommer stor
 
-Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+Et head-up display er et standard system, der projicerer hastighed og anden vigtig førerinformation på forruden.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/screens_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2052"  >}}
 
 ### Rat
 
-HiPhi Z 4 Seater er udstyret med en enkelt type rat:
+HiPhi Z 4 Seater er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat har integreret varme for ekstra komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
-Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+Denne model kommer med stemmestyring som standard, der giver dig mulighed for at styre forskellige funktioner gennem stemmekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -188,17 +188,17 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for HiPhi Z 4 Seater.
+HiPhi Z 4 Seater kommer med ét lydsystem:
 
-- Med SONIC PRO SYSTEM får du 23 højttalere med en maksimal systemeffekt på 600 watt.
+- **SONIC PRO SYSTEM:** Har 23 højttalere og leverer en maksimal effekt på 600 watt.
 
-Modellen har 1 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser. Modellen har 1 USB-A-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+Derudover inkluderer modellen 1 USB-C tilslutninger som standard. Som ekstraudstyr kan du få yderligere 2 USB-C tilslutninger. Modellen har 1 USB-A tilslutninger som standard. Som ekstraudstyr kan du få yderligere 2 USB-C tilslutninger.
 
-## Lys
+## Lygter
 
-**Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+**Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/headlights_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1467"  >}}
 
@@ -206,51 +206,51 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den HiPhi Z 4 Seater inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+HiPhi Z 4 Seater har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på HiPhi Z 4 Seater, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på HiPhi Z 4 Seater, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på HiPhi Z 4 Seater, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på HiPhi Z 4 Seater, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på HiPhi Z 4 Seater, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på HiPhi Z 4 Seater, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på HiPhi Z 4 Seater, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+[**Front Tværgående Trafik Assistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på HiPhi Z 4 Seater, dette førerassistentsystem hjælper førere med at registrere modkørende trafik ved krydsning af et vejkryds eller når der drejes til venstre eller højre fra stillestående position.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på HiPhi Z 4 Seater, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på HiPhi Z 4 Seater, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på HiPhi Z 4 Seater, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på HiPhi Z 4 Seater, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på HiPhi Z 4 Seater, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på HiPhi Z 4 Seater, dette system hjælper med at opdage trafik i blinde vinkler.
 
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard på HiPhi Z 4 Seater, dette system advarer passagererne mod at åbne dørene, hvis der er risiko for at ramme noget.
+[**Udstigningsadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på HiPhi Z 4 Seater, dette system advarer passagererne mod at åbne døre, hvis der er risiko for at ramme noget.
 
 ### Køreautomatisering
 
-Med standard  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med det standard  niveau 2-system får du følgende køreautomatiseringsfunktioner.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
-- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ## Sikkerheds- og adgangsteknologier
 
-HiPhi Z 4 Seater er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+HiPhi Z 4 Seater er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
+- **Nøglefri adgang og start:** Bilens nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse op og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 316 liter. Med det bageste sæde foldet ned, udvides dette til 654 liter.
+Bagagerummet har en lastkapacitet på 316 liter (11,2 CU FT). Med bagsædet lagt ned udvides dette til 654 liter (23,1 CU FT).
 
-Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
+Denne model fås ikke med anhængertræk. Så hvis du skal trække en trailer, må du kigge på andre modeller.
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
 
-{{< pagenavigation b_url="../" b_title="HiPhi Z" f_url="rangeandconsumption/" f_title="Range" >}}
+{{< pagenavigation b_url="../" b_title="HiPhi Z" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

@@ -1,7 +1,7 @@
 ---
 title: BMW i4 eDrive40 galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store BMW i4 eDrive40-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store BMW i4 eDrive40 billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

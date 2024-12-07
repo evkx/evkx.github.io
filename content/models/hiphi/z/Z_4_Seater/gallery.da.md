@@ -1,7 +1,7 @@
 ---
 title: HiPhi Z 4 Seater galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store HiPhi Z 4 Seater-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store HiPhi Z 4 Seater billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

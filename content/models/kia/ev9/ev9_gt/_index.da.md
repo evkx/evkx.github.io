@@ -1,7 +1,7 @@
 ---
 title: Kia EV9 GT
 linktitle: "EV9 GT"
-description: "Kia EV9 GT er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 505 km (314 miles). EVKX.net har alle detaljerne."
+description: "Kia EV9 GT er en elektrisk SUV med en WLTP rækkevidde på op til 505 km (314 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,104 +11,104 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/main_1_st.jpg" title="Kia EV9 GT" width="3000" height="2000"  >}}
 
-Vi har opdelt vores Kia EV9 GT artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-Kia EV9 GT leverer en solid præstation med en maksimal effekt på 373 kW (507 hk) og et totalt drejningsmoment på 700 Nm. Den kan accelerere fra 0 til 100 km/t på 4,4 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+Kia EV9 GT leverer en solid præstation med en maksimal effekt på 373 kW (507 hk / 500 bhp) og et samlet drejningsmoment på 700 Nm (517 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 4,4 sekunder og når en tophastighed på 200 km/t (124 mph), hvilket gør den konkurrencedygtig inden for sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 99,8 kWh og en nettoanvendelig kapacitet på 98,0 kWh, hvilket giver en buffer på 1,8 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 552 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitets batteri har en brutto kapacitet på 99,8 kWh og en netto kapacitet på 98,0 kWh, hvilket giver en 1,8 kWh buffer (1,8%) til batteribeskyttelse. Med en driftsspænding på 552 volt kvalificerer det som et 800-volt batterisystem. Denne høje spænding er afgørende for systemets opladningskapaciteter. Dette lithium-ion batteri bruger [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 505 km, med et energiforbrugsrate på 19,4 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er køretøjets rækkevidde 505 km (314 miles), med et energiforbrug på 19,4 kWh/100 km (3 mi/kWh). For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 68 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 24 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 71%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 150kW. Hver opladningssession ville tage 27 minutter og 58 sekunder. Denne effektive opladningskapacitet gør Kia EV9 GT til et praktisk valg til langdistancerejser.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 233 kW. Opladning fra 0% til 100% tager cirka 68 minutter, mens et mere typisk scenario fra 10% til 80% tager 24 minutter med en gennemsnitlig ladehastighed på 169 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 2% til 71%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 150 kW, hvor hver opladningssession tager cirka 27 minutter og 58 sekunder. Denne effektive opladningskapacitet gør Kia EV9 GT til et bekvemt valg til langdistancekørsel.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 26 kWh/100 km, ville turen tage cirka 9 timer og 27 minutter. Denne rejse ville kræve to opladningsstop fra 5% til 61%, med en samlet opladningstid på 67 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 26 kWh/100 km, ville turen tage cirka 9 timer og 27 minutter, med tre opladningsstop fra 5% til 61%, i alt 67 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 54 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 8 timer og 54 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 
-Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**NACS**](../../../../technology/charging/connectors/# nacs) for Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se de fulde specifikationer for alle markeder.
+Ladeporten er placeret på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke ind til laderen. Stiktyperne varierer mellem forskellige markeder. Denne model bruger [**NACS**](../../../../technology/charging/connectors/#nacs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
-### Bidirektionel opladning
+### Tovejs opladning
 
-Denne model understøtter både V2L (Vehicle to Load) og V2H (Vehicle to Home) funktionaliteter. V2L giver dig mulighed for at forsyne elektrisk udstyr, der kræver op til 3,68 kW strøm, inklusive muligheden for at oplade andre køretøjer. V2H gør det muligt for bilen at fungere som en backup strømkilde til dit hjem.
+Denne model understøtter både V2L (Vehicle to Load) og V2H (Vehicle to Home) funktionalitet. V2L gør det muligt at forsyne elektrisk udstyr med op til 3,68 kW strøm, inklusive muligheden for at oplade andre køretøjer. V2H gør det muligt for bilen at fungere som nødstrømsforsyning til dit hjem.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-Kia EV9 GT har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Kia EV9 GT har et firehjulstræksystem drevet af to motorer, én på hver aksel. Motorerne er [Permanent Magnet Synkron Motorer](../../../../technology/motors/pmsm/).
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere.
+Forhjulsophænget er [MacPherson fjederben](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere.
 
 ### Styring
 
-Dynamisk styring er en standard-funktion på Kia EV9 GT. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+Dynamisk styring er standard på Kia EV9 GT, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort.
 
 ### Køretilstande
 
-Kia EV9 GT lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 7 tilstande:
+Kia EV9 GT lader brugeren vælge forskellige [køretilstande](../../../../technology/drivemodes/) som påvirker bilens håndtering. Føreren kan vælge mellem 7 tilstande:
 
-- Eco: Afbalanceret styring, med effektiv speeder og afbalanceret affjedring.
-- Sport: Dynamisk styring, affjedring og speeder.
-- Normal: Afbalanceret speeder og styring, komfortaffjedring.
-- My Drive: Brugerdefinerede indstillinger for styring, speeder og affjedring.
-- Snow: Afbalanceret styring, speeder og dæmpning.
-- Mud: Afbalanceret styring, speeder og dæmpning.
-- Sand: Afbalanceret styring, speeder og dæmpning.
+- Eco: Afbalanceret styring med effektiv gaspedal og afbalanceret affjedring.
+- Sport: Dynamisk styring, affjedring og gaspedal.
+- Normal: Afbalanceret gaspedal og styring, komfortabel affjedringsdæmpning.
+- My Drive: Brugerdefinerede indstillinger for styring, gaspedal og affjedring.
+- Snow: Afbalanceret styring, gaspedal og dæmpning.
+- Mud: Afbalanceret styring, gaspedal og dæmpning.
+- Sand: Afbalanceret styring, gaspedal og dæmpning.
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 360mm, og de bagerste skiver er 340mm.
+Kia EV9 GT er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag. De forreste skiver måler 360 mm, mens de bageste skiver er 340 mm.
 
 ### Regenerativ bremsning
 
-Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**. Systemet stopper bilen helt ved brug af friktionsbremser.
+[Regenerativ bremsning](../../../../technology/regen/) i denne model tilbyder flere tilstande for at forbedre effektivitet og køreoplevelse. Den mest effektive mulighed er [**Automatisk regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet ruller når det er muligt og bruger regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind når det er nødvendigt. <br /><br/>  En anden mulighed er [**Regenerering på speederpedalen**](../../../../technology/regen/#one-pedal-driving) tilstanden hvor regenerativ bremsning aktiveres når føreren letter foden fra speederen. Dette system gør det muligt for køretøjet at sænke farten og genvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **én-pedal kørsel**. Systemet stopper bilen helt ved hjælp af friktionsbremser.
 
-Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er fire niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
+Derudover kan du justere styrken af den regenerative bremsning når du løfter foden fra speederen. Der er fire niveauer af regenerativ bremsning at vælge imellem, så du kan tilpasse køreoplevelsen efter dine præferencer.
 
 Den maksimale regenerative effekt er 150 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den Kia EV9 GT, med dimensioner på 5015 mm i længde, 1980 mm i bredde og 1780 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Kia EV9 GT tilbyder et udvalg af 10 lakfarver, herunder ensfarvede, metalliske, perlemors- og matte muligheder
+Kia EV9 GT, med dimensioner på 5015 mm i længde, 1980 mm i bredde og 1780 mm i højde, tilhører store SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til specifikke bilister med særlige behov. Kia EV9 GT tilbyder et udvalg på 10 lakfarver, med almindelige, metalliske, perlemor og matte muligheder.
 
-Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Kia EV9 GT, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Du kan vælge mellem flere hjuldesign, alle tilgængelige i samme størrelse, på Kia EV9 GT, så du kan personliggøre din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 285/45 dæk on 21" fælge
+- 285/45 dæk på 21" fælge
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Lågen er elektrisk drevet og har en kick-sensor som standard.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate). Bagklappen er elektrisk betjent og har fodsensor som standard.
 
-Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset har to paneler. Et over den første og den anden række. Dette glas gør bilens interiør føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Begge glaspaneler har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
+Der er to forskellige tagmuligheder at vælge imellem. Standardtaget er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset har to paneler. Et over første og andet sæde. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Begge glaspaneler har et elektrisk gardin, som passagererne kan bruge til beskyttelse mod solen.
 
-Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
+Derudover kan du bestille bilen med tonede ruder fra B-søjlen og bagud, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/exterior_1_st.jpg" title="Kia EV9 GT" width="3000" height="2000"  >}}
 
@@ -118,164 +118,164 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Interiøret i Kia EV9 GT er funktionelt og har materialer af høj kvalitet i flere områder i stedet for hård plast. Det inkluderer en flydende midterkonsol, der skaber et åbent rum mellem passageren og føreren, hvilket giver praktiske opbevaringsmuligheder. Det overordnede design prioriterer praktisk anvendelse og brugervenlighed.
+Interiøret i Kia EV9 GT er funktionelt og har materialer af høj kvalitet i flere områder i stedet for hård plastik. Den har en svævende midterkonsol, der skaber et åbent rum mellem passager og fører, og giver praktiske opbevaringsmuligheder. Det overordnede design prioriterer praktisk anvendelighed og brugervenlighed.
 
 ### Sæder
 
-Sædelayoutet er seks sæder med to foran, to kaptajnstole på anden række og en to-sædet bænk på tredje række.
+Sædeopsætningen er seks sæder med to foran, to kaptajnstole på anden række og en tosæders bænk på tredje række.
 
-#### Første række sæder
+#### Forsæder
 
-Kia EV9 GT tilbyder kun én type forreste sæde.
+Kia EV9 GT tilbyder én type forsæde.
 
-Følgende funktioner er tilgængelige på ** Premium Relaxion** sædet.
+Følgende funktioner er tilgængelige på ** Premium Relaxion** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
+- [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- Højdejusterbar nakkestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage) (standard for fører, ikke tilgængelig for passager)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage) (standard for fører, ikke tilgængelig for passager)
+- [Benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/frontseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="2000"  >}}
 
-#### Sæde på anden række
+#### Anden række sæder
 
-For anden række har denne model to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
+Til anden række har denne model to kaptajnstole. Yderligere funktioner inkluderer:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support) (elektrisk justerbar)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- Højdejusterbar nakkestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Benstøtte til passager](../../../../technology/seats/adjustment/#leg-support) (elektrisk justerbar)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/secondrowseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="2011"  >}}
 
-#### Sæder på tredje række
+#### Tredje række sæder
 
-Den tredje række har en to-sæders bænk med en 50:50-deling. Igen kan du folde sæderne ned, når de ikke bruges, for at skabe en større lastkapacitet.
+Tredje række har en tosæders bænk med en 50:50 opdeling. Du kan også folde sæderne ned, når de ikke bruges, for at skabe mere bagagerumsplads.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/thirdrowseats_1_st.jpg" title="Kia EV9 GT" width="3000" height="1997"  >}}
 
-### Interiøropbevaring
+### Indvendig opbevaring
 
-Kia EV9 GT tilbyder rigelige opbevaringsløsninger i interiøret for at øge bekvemmeligheden og organiseringen:
+Kia EV9 GT tilbyder rigelige opbevaringsløsninger i kabinen for at øge bekvemmelighed og organisation:
 
-- **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i bagarmlænet og tre i tredje række.
-- **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af essentielle genstande.
-- **Underfloor Opbevaring:** Bagagerummet har underfloor opbevaring, perfekt til at holde mindre genstande som opladningskabler pænt gemt væk.
+- **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i det bageste armlæn og tre på tredje række.
+- **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af vigtige genstande.
+- **Opbevaring under gulvet:** Bagagerummet har opbevaring under gulvet, perfekt til at holde mindre genstande som ladekabler pænt gemt væk.
 
-### Interiørbelysning
+### Indvendig belysning
 
-Kia EV9 GT tilbyder en række interiørbelysningsmuligheder designet til at skabe en behagelig atmosfære og forbedre synligheden.
+Kia EV9 GT tilbyder en række indvendige belysningsindstillinger designet til at skabe en behagelig atmosfære og forbedre synligheden.
 
-- **Flerfarvet Ambient Belysning:** Denne funktion strækker sig over instrumentbrættet, dørpanelerne og fodrummet, hvilket skaber en harmonisk og indbydende atmosfære. Du kan tilpasse farverne efter dit humør eller præference, hvilket tilføjer en personlig touch til din køreoplevelse.
+- **Flerfarvede stemningslys:** Denne funktion strækker sig over instrumentbrættet, dørpanelerne og fodrummet, og skaber en harmonisk og indbydende atmosfære. Du kan tilpasse farverne efter dit humør eller præference og tilføje et personligt præg til din køreoplevelse.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
-En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, hvilket kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Kia EV9 GT inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+Kia EV9 GT inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
 - **Elektrisk justerbart rat**
-- **Trådløs opladning af telefon**
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-Kontrolgrænsefladen for denne EV-model er fokuseret omkring skærminteraktion og har kun begrænset funktionalitet tilgængelig på knapper og stænger. For nogle kan dette medføre mindre end ideel brugeroplevelse og anvendelighed.
+Kontrolgrænsefladen for Kia EV9 GT er primært fokuseret på skærminteraktion, med begrænset funktionalitet tilgængelig via fysiske knapper og kontaktarme. Dette design kan resultere i en mindre end ideel brugeroplevelse for nogle brugere.
 
-Kia EV9 GT har tre skærme på en delt ramme monteret med beslag på instrumentbrættet.
+Kia EV9 GT har tre skærme på en fælles ramme monteret med beslag på instrumentbrættet.
 
 Vigtige skærmdetaljer:
 
-- Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor
-- Skærmen touch i den midterste del af den delte ramme er 5,3 tommer stor
-- Skærmen touch i højre del af den delte ramme er 12,3 tommer stor
+- Den  skærm bag rattet på venstre side af rammen er 12,3 tommer stor
+- Den touch skærm i midterdelen af den fælles ramme er 5,3 tommer stor
+- Den touch skærm på højre side af den fælles ramme er 12,3 tommer stor
 
-Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+Et head-up display er et standard system, der projicerer hastighed og anden vigtig førerinformation på forruden.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/screens_1_st.jpg" title="Kia EV9 GT" width="3000" height="2000"  >}}
 
 ### Rat
 
-Kia EV9 GT er udstyret med en enkelt type rat:
+Kia EV9 GT er udstyret med én type rat:
 
-- **Rundt Rat:** Dette rat har integreret opvarmning for ekstra komfort i koldt vejr. Det inkluderer også fysiske knapper, rullehjul og skiftepaler, der giver dig mulighed for at styre infotainmentsystemet, justere lydstyrken, skifte musiknumre og administrere andre vigtige funktioner med lethed.
+- **Cirkulært rat:** Dette rat har integreret varme for ekstra komfort i koldt vejr. Det har også fysiske knapper, scrollhjul og skiftepaler, der giver dig mulighed for at styre infotainmentsystemet, justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner med lethed.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
-Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+Denne model kommer med stemmestyring som standard, der giver dig mulighed for at styre forskellige funktioner gennem stemmekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
-Kia EV9 GT har et specialbygget infotainmentsystem designet til at give en grænseflade med en række funktioner og funktioner for at forbedre køreoplevelsen.
+Kia EV9 GT har et specialbygget infotainmentsystem designet til at give en grænseflade med en række funktioner for at forbedre køreoplevelsen.
 
 ### Navigationssystem
 
-Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning. Systemet giver realtids trafikoplysninger, hvilket sikrer en effektiv og stressfri rejse.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning. Systemet giver realtids trafikinformation, der sikrer en effektiv og stressfri rejse.
 
-### Forudinstallerede Apps
+### Forudinstallerede apps
 
-Mens infotainmentsystemet ikke inkluderer en appbutik, leveres det med et udvalg af forudinstallerede tredjepartsapps, der kører direkte på bilens skærm, uafhængigt af en tilsluttet telefon. De tilgængelige apps varierer afhængigt af markedet, men inkluderer populære muligheder såsom:
+Selvom infotainmentsystemet ikke inkluderer en app-butik, kommer det med et udvalg af forudinstallerede tredjepartsapps, der kører direkte på bilens skærm uafhængigt af en tilsluttet telefon. De tilgængelige apps varierer efter marked, men inkluderer populære muligheder som:
 
-- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver uendelige underholdningsmuligheder under kørslen.
+- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver endeløse underholdningsmuligheder under kørslen.
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter Kia EV9 GT Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+Kia EV9 GT understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Kia EV9 GT.
+Du kan vælge mellem to lydsystemer til Kia EV9 GT:
 
-- Med Standard får du seks højttalere med en maksimal systemeffekt på 200 watt.
-- Med Meridian Premium Sound System får du 14 højttalere med en maksimal systemeffekt på 680 watt.
+- **Standard:** Har seks højttalere og leverer en maksimal effekt på 200 watt.
+- **Meridian Premium Sound System:** Har 14 højttalere og leverer en maksimal effekt på 680 watt.
 
-Modellen har 6 USB-C-forbindelser som standard.
+Derudover inkluderer modellen 6 USB-C tilslutninger som standard.
 
-## Mobilapp
+## Mobil App
 
-Den Kia EV9 GT kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
+Kia EV9 GT kommer med en dedikeret mobilapp, tilgængelig til både Android og iOS-enheder, så du kan styre og overvåge din bil på afstand. Appen tilbyder en bred vifte af funktioner designet til at forbedre din køreoplevelse:
 
-- **Find din bil**: Tjek nemt bilens aktuelle placering.
-- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
-- **Fjernparkering**: Styr din bil nemt for at parkere eller forlade en parkeringsplads eksternt.
-- **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
-- **Planlagt opladning**: Planlæg og tidsindstil opladningssessioner før dine ture.
-- **Juster ladningsmål**: Indstil din ønskede opladningstilstand for at starte eller stoppe opladning efter behov.
-- **Ruteplanlægning**: Planlæg din rute og send den direkte til bilens navigationssystem.
-- **Kørehistorik**: Gennemgå detaljer om dine tidligere ture.
+- **Find din bil:** Se nemt bilens aktuelle placering.
+- **Forkonditionering:** Forvarm eller afkøl din bil, før du starter din rejse, for optimal komfort.
+- **Fjernparkering:** Styr din bil til at parkere eller forlade en parkeringsplads på afstand.
+- **Lås og lås op:** Lås eller lås dine bildøre op sikkert med et tryk.
+- **Planlagt opladning:** Planlæg og programsæt opladningssessioner før dine ture.
+- **Juster ladeniveau:** Indstil dit ønskede ladeniveau for at starte eller stoppe opladningen efter behov.
+- **Ruteplanlægning:** Planlæg din rute og send den direkte til bilens navigationssystem.
+- **Kørselshistorik:** Gennemgå detaljerne for dine tidligere ture.
 
-## Lys
+## Lygter
 
-De standard forlygter bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt for at dæmpe små områder foran.
+Kia EV9 GT er udstyret med avancerede LED Matrix-forlygter. Dette adaptive system opdeler den traditionelle enkeltstråle i flere mindre stråler, så lyskontrolenheden selektivt kan tænde og slukke dem for at undgå at blænde andre bilister. For øget sikkerhed inkluderer forlygterne også kurvelys, der oplyser siden ved drejning.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/headlights_1_st.jpg" title="Kia EV9 GT" width="3000" height="2000"  >}}
 
@@ -283,87 +283,87 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den Kia EV9 GT inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+Kia EV9 GT har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Kia EV9 GT, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Kia EV9 GT, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Kia EV9 GT, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Kia EV9 GT, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Kia EV9 GT, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Kia EV9 GT, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Kia EV9 GT, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+[**Front Tværgående Trafik Assistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Kia EV9 GT, dette førerassistentsystem hjælper førere med at registrere modkørende trafik ved krydsning af et vejkryds eller når der drejes til venstre eller højre fra stillestående position.
 
-[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Kia EV9 GT, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
+[**Advarsel om Krydsende Trafik Bag (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Kia EV9 GT, dette system bruger sensorer til at opdage køretøjer, der nærmer sig fra siden, når man bakker ud af en parkeringsplads eller indkørsel.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Kia EV9 GT, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Kia EV9 GT, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Kia EV9 GT, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Kia EV9 GT, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Kia EV9 GT, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
+[**Automatisk Nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Kia EV9 GT, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Kia EV9 GT, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Kia EV9 GT, dette system hjælper med at opdage trafik i blinde vinkler.
 
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard på Kia EV9 GT, dette system advarer passagererne mod at åbne dørene, hvis der er risiko for at ramme noget.
+[**Udstigningsadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Kia EV9 GT, dette system advarer passagererne mod at åbne døre, hvis der er risiko for at ramme noget.
 
 ### Køreautomatisering
 
-Med standard Highway Driving Assist niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med det standard Highway Driving Assist niveau 2-system får du følgende køreautomatiseringsfunktioner.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
-- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer & Kameraer
 
-Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
-Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+Denne model bruger kameraer, radar og ultrasoniske sensorer til sine førerassistentsystemer.
+Op til fem [radar-sensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 ## Sikkerhed
 
-Kia EV9 GT er udstyret med flere airbags for at sikre beskyttelse af passagererne i tilfælde af en kollision. Airbagsystemet inkluderer:
+Kia EV9 GT er udstyret med flere airbags for at sikre beskyttelse af passagererne i tilfælde af en kollision. Airbagsystemet omfatter:
 
-- Frontairbags til føreren og forsædepassageren
-- Sidegardinairbags til både første og anden række
-- Sideairbags til føreren og forsædepassageren
-- Sideairbags til passagererne i anden række
-- En frontcenterairbag for at forhindre føreren og forsædepassageren i at kollidere med hinanden under en sidekollision
+- Frontairbags til fører og forsædepassager
+- Gardinairbags til både første og anden række
+- Sideairbags til fører og forsædepassager
+- Sideairbags til passagererne på anden række
+- En midterairbag foran for at forhindre føreren og forsædepassageren i at kollidere med hinanden under en sidekollision
 
 ## Sikkerheds- og adgangsteknologier
 
-Kia EV9 GT er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+Kia EV9 GT er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
-- **Telefon-som-nøgle funktionalitet:** Med telefon-som-nøgle teknologi kan du bruge din smartphone som en digital nøgle til at låse og starte køretøjet, hvilket giver et ekstra lag af bekvemmelighed og fleksibilitet.
-- **Alarmsystem:** Et integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at hjælpe med at afskrække indtrængen og holde dit køretøj sikkert.
+- **Nøglefri adgang og start:** Bilens nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse op og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
+- **Telefon-som-nøgle funktion:** Med telefon-som-nøgle teknologi kan du bruge din smartphone som en digital nøgle til at låse op og starte køretøjet, hvilket giver et ekstra lag af bekvemmelighed og fleksibilitet.
+- **Alarmsystem:** Et integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at forhindre indbrud og holde dit køretøj sikkert.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 333 liter. Med det bageste sæde foldet ned, udvides dette til 2393 liter. På taget kan du laste op til 100 kg. Tagbøjler er standard for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 52 liter.
+Bagagerummet har en lastkapacitet på 333 liter (11,8 CU FT). Med bagsædet lagt ned udvides dette til 2393 liter (84,5 CU FT). På taget kan du laste op til 100 kg (220,5 lbs). Tagbøjler er standard for nem montering af tagboks eller lastbærer. Derudover er der et frunk (front-bagagerum) med en opbevaringskapacitet på 52 liter (1,8 CU FT).
 
-Køretøjets maksimale vægt er 3190 kg, med en basisvægt på 2637 kg. Dette giver en maksimal last på 553 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 3190 kg (7033 lbs), med en egenvægt på 2637 kg (5814 lbs). Dette giver en maksimal last på 553 kg (1219 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
-En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 2500 kg, mens den for en ubremset trailer er 750 kg.
+Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for en bremset trailer er 2500 kg (5512 lbs), mens det for en ubremset trailer er 750 kg (1653 lbs).
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
-Denne model havde verdenspremiere den 31.03.2023, og leveringerne startede i December 2023.
+Kia EV9 GT havde sin verdenspremiere den 31.03.2023, og leveringerne startede i December 2023.
 
 ### Priser
 
-Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Herunder er startpriserne for udvalgte lande:
 
 - AUD121 000,00 (Australien)
 - AUD121 000,00 (Australien)
 
-## Alternative Modeller
+## Alternative modeller
 
-I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Kia EV9 GT, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til Kia EV9 GT, som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
 
 - [Volvo EX90 Twin Motor](/models/volvo/ex90/ex90_twin_motor/)
 - [Hyundai IONIQ 9 AWD Performance](/models/hyundai/ioniq_9/ioniq_9_awd_performance/)
@@ -372,4 +372,4 @@ I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alter
 
 <a href="https://db.evkx.net/evcompare?evs=2036c2%2ccc6d21%2c3b7e97%2cb8df50%2caba51d" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 
-{{< pagenavigation b_url="../" b_title="Kia EV9" f_url="rangeandconsumption/" f_title="Range" >}}
+{{< pagenavigation b_url="../" b_title="Kia EV9" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

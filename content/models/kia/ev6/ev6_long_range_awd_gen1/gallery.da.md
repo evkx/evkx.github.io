@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Long Range AWD (GEN1) galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Kia EV6 Long Range AWD (GEN1)-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Kia EV6 Long Range AWD (GEN1) billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

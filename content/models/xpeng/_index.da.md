@@ -1,5 +1,5 @@
 ---
-title: XPENG EV-modeller
+title: XPENG EV modeller
 linktitle: "XPENG"
 description: "XPeng is a Chinese electric vehicle manufacturer that was founded in 2014 by He Xiaopeng, a former Alibaba executive and internet entrepreneur. The company is headquartered in Guangzhou, Guangdong, with offices in Mountain View, California, United States and is publicly traded on the New York Stock Exchange. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-XPENG G3 er en crossover tilgængelig i 1 varianter.
+XPENG G3 er en crossover, der fås i 1 varianter.
 </p>
 	<a href="g3/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ XPENG G3 er en crossover tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-XPENG G6 er en SUV tilgængelig i 3 varianter.
+XPENG G6 er en SUV, der fås i 3 varianter.
 </p>
 	<a href="g6/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -56,7 +56,7 @@ XPENG G6 er en SUV tilgængelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-XPENG G9 er en SUV tilgængelig i 3 varianter.
+XPENG G9 er en SUV, der fås i 3 varianter.
 </p>
 	<a href="g9/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -71,7 +71,7 @@ XPENG G9 er en SUV tilgængelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-XPENG Mona M03 er en sedan tilgængelig i 1 varianter.
+XPENG Mona M03 er en sedan, der fås i 1 varianter.
 </p>
 	<a href="mona_m03/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -86,7 +86,7 @@ XPENG Mona M03 er en sedan tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-XPENG P7 er en sedan tilgængelig i 1 varianter.
+XPENG P7 er en sedan, der fås i 1 varianter.
 </p>
 	<a href="p7/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -101,7 +101,7 @@ XPENG P7 er en sedan tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-XPENG X9 er en MPV tilgængelig i 1 varianter.
+XPENG X9 er en MPV, der fås i 1 varianter.
 </p>
 	<a href="x9/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

@@ -1,5 +1,5 @@
 ---
-title: Polestar EV-modeller
+title: Polestar EV modeller
 linktitle: "Polestar"
 description: "Polestar is a Swedish electric vehicle (EV) brand that was launched in 2017 as a standalone brand under the Volvo Car Group and its parent company, Geely Holding. Polestar's focus is on developing premium electric cars that combine cutting-edge technology, sustainable materials, and minimalist design."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Polestar 2 er en sedan tilgængelig i 3 varianter.
+Polestar 2 er en sedan, der fås i 3 varianter.
 </p>
 	<a href="2/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Polestar 2 er en sedan tilgængelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Polestar 3 er en SUV tilgængelig i 3 varianter.
+Polestar 3 er en SUV, der fås i 3 varianter.
 </p>
 	<a href="3/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -56,7 +56,7 @@ Polestar 3 er en SUV tilgængelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Polestar 4 er en Coupe SUV tilgængelig i 2 varianter.
+Polestar 4 er en coupé SUV, der fås i 2 varianter.
 </p>
 	<a href="4/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

@@ -1,5 +1,5 @@
 ---
-title: Porsche EV-modeller
+title: Porsche EV modeller
 linktitle: "Porsche"
 description: "Porsche, kendt for sin arv af ydeevne og luksus, har problemfrit overgået til den elektriske æra. Ved at kombinere banebrydende teknologi med ikonisk design leverer Porsches elektriske modeller, som Taycan, spændende hastighed, præcis håndtering og bæredygtig innovation, der sætter nye standarder for elektriske sportsvogne."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Porsche Macan er en premium Coupe SUV tilgængelig i 4 varianter.
+Porsche Macan er en premium coupé SUV, der fås i 4 varianter.
 </p>
 	<a href="macan/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Porsche Macan er en premium Coupe SUV tilgængelig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Porsche Taycan er en luksus sedan/stationcar tilgængelig i 28 varianter.
+Porsche Taycan er en luksus sedan/stationcar, der fås i 28 varianter.
 </p>
 	<a href="taycan/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

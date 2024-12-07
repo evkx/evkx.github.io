@@ -1,5 +1,5 @@
 ---
-title: Tesla EV-modeller
+title: Tesla EV modeller
 linktitle: "Tesla"
 description: "Tesla, Inc., founded by Elon Musk in 2003, is a leading American electric vehicle (EV) and clean energy company headquartered in Palo Alto, California. Tesla's mission is to accelerate the world's transition to sustainable energy through the production of electric vehicles, renewable energy solutions, and energy storage systems. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Cybertruck er en pickup truck tilgængelig i 2 varianter.
+Tesla Cybertruck er en pickup truck, der fås i 2 varianter.
 </p>
 	<a href="cybertruck/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Tesla Cybertruck er en pickup truck tilgængelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Model 3 er en sedan tilgængelig i 7 varianter.
+Tesla Model 3 er en sedan, der fås i 7 varianter.
 </p>
 	<a href="model_3/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -56,7 +56,7 @@ Tesla Model 3 er en sedan tilgængelig i 7 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Model S er en sedan tilgængelig i 3 varianter.
+Tesla Model S er en sedan, der fås i 3 varianter.
 </p>
 	<a href="model_s/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -71,7 +71,7 @@ Tesla Model S er en sedan tilgængelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Model X er en SUV tilgængelig i 3 varianter.
+Tesla Model X er en SUV, der fås i 3 varianter.
 </p>
 	<a href="model_x/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -86,7 +86,7 @@ Tesla Model X er en SUV tilgængelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Model Y er en Coupe SUV tilgængelig i 4 varianter.
+Tesla Model Y er en coupé SUV, der fås i 4 varianter.
 </p>
 	<a href="model_y/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

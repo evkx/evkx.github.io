@@ -1,7 +1,7 @@
 ---
 title: Polestar 2 Long Range Dual Motor Performance galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Polestar 2 Long Range Dual Motor Performance-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Polestar 2 Long Range Dual Motor Performance billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

@@ -1,7 +1,7 @@
 ---
 title: Porsche Macan 4 galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Porsche Macan 4-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Porsche Macan 4 billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

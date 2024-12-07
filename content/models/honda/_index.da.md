@@ -1,5 +1,5 @@
 ---
-title: Honda EV-modeller
+title: Honda EV modeller
 linktitle: "Honda"
 description: "Honda is a Japanese multinational conglomerate that manufactures automobiles, motorcycles, and power equipment. It is the world's largest motorcycle manufacturer and one of the largest automobile manufacturers. Honda also has a luxury brand called Acura, which it launched in 1986 as the first Japanese luxury brand."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Honda e:Ny1 er en crossover tilgængelig i 1 varianter.
+Honda e:Ny1 er en crossover, der fås i 1 varianter.
 </p>
 	<a href="e_ny1/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Honda e:Ny1 er en crossover tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Honda Prologue er en SUV tilgængelig i 2 varianter.
+Honda Prologue er en SUV, der fås i 2 varianter.
 </p>
 	<a href="prologue/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

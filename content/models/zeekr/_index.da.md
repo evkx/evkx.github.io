@@ -1,5 +1,5 @@
 ---
-title: Zeekr EV-modeller
+title: Zeekr EV modeller
 linktitle: "Zeekr"
 description: "Zeekr is a new luxury electric vehicle (EV) brand launched by Geely Automobile in 2021. The brand aims to compete with Tesla and other high-end EV makers in China and beyond. Zeekr's EV strategy is based on four pillars design, technology, performance and customer experience."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Zeekr 001 er en stationcar tilgængelig i 4 varianter.
+Zeekr 001 er en stationcar, der fås i 4 varianter.
 </p>
 	<a href="001/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Zeekr 001 er en stationcar tilgængelig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Zeekr 007 er en sedan tilgængelig i 1 varianter.
+Zeekr 007 er en sedan, der fås i 1 varianter.
 </p>
 	<a href="007/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -56,7 +56,7 @@ Zeekr 007 er en sedan tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Zeekr 009 er en premium MPV tilgængelig i 1 varianter.
+Zeekr 009 er en premium MPV, der fås i 1 varianter.
 </p>
 	<a href="009/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -71,7 +71,7 @@ Zeekr 009 er en premium MPV tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Zeekr 7X er en SUV tilgængelig i 2 varianter.
+Zeekr 7X er en SUV, der fås i 2 varianter.
 </p>
 	<a href="7x/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -86,7 +86,7 @@ Zeekr 7X er en SUV tilgængelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Zeekr MIX er en MPV tilgængelig i 1 varianter.
+Zeekr MIX er en MPV, der fås i 1 varianter.
 </p>
 	<a href="mix/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -101,7 +101,7 @@ Zeekr MIX er en MPV tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Zeekr X er en crossover tilgængelig i 2 varianter.
+Zeekr X er en crossover, der fås i 2 varianter.
 </p>
 	<a href="x/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

@@ -1,12 +1,12 @@
 ---
-title: EV-modeller
-linktitle: "EV-modeller"
-description: "Fremtiden er elektrisk, og EVKX.net giver dig et komplet overblik over el-markedets mærker, modeller og varianter."
+title: EV modeller
+linktitle: "EV modeller"
+description: "Fremtiden er elektrisk, og EVKX.net giver dig et komplet overblik over EV-markedets mærker, modeller og varianter."
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned for at læse introduktionen til hvert mærke.
+Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller rul ned for at læse introduktionen til hvert mærke.
 <div class="container text-center p-2 pe-4 mb-4 bg-body-tertiary rounded border">
 	<div class="row align-items-start">
 		<div class="col col-6 col-md-3" >
@@ -222,7 +222,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Acura har 1 modeller med i alt 3 varianter.
 	</p>
-	<a href="acura/" class="btn btn-outline-primary" role="button">Gå til Acura EV-modeloversigt</a>
+	<a href="acura/" class="btn btn-outline-primary" role="button">Gå til Acura EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="aion/"><img src="https://media.evkx.net/multimedia/models/aion/brandevs_st.jpg" class="img-fluid mb-2" alt="Aion" ></a>
@@ -230,14 +230,14 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Aion har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="aion/" class="btn btn-outline-primary" role="button">Gå til Aion EV-modeloversigt</a>
+	<a href="aion/" class="btn btn-outline-primary" role="button">Gå til Aion EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Alfa Romeo</h2>
 	<p>
 	Alfa Romeo har 1 modeller med i alt 2 varianter.
 	</p>
-	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Gå til Alfa Romeo EV-modeloversigt</a>
+	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Gå til Alfa Romeo EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Alpine</h2>
@@ -247,7 +247,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Alpine har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="alpine/" class="btn btn-outline-primary" role="button">Gå til Alpine EV-modeloversigt</a>
+	<a href="alpine/" class="btn btn-outline-primary" role="button">Gå til Alpine EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid mb-2" alt="Audi" ></a>
@@ -258,14 +258,14 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Audi har 6 modeller med i alt 50 varianter.
 	</p>
-	<a href="audi/" class="btn btn-outline-primary" role="button">Gå til Audi EV-modeloversigt</a>
+	<a href="audi/" class="btn btn-outline-primary" role="button">Gå til Audi EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Automobili Pininfarina</h2>
 	<p>
 	Automobili Pininfarina har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="automobili pininfarina/" class="btn btn-outline-primary" role="button">Gå til Automobili Pininfarina EV-modeloversigt</a>
+	<a href="automobili pininfarina/" class="btn btn-outline-primary" role="button">Gå til Automobili Pininfarina EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="bmw/"><img src="https://media.evkx.net/multimedia/models/bmw/brandevs_st.jpg" class="img-fluid mb-2" alt="BMW" ></a>
@@ -273,7 +273,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	BMW har 7 modeller med i alt 20 varianter.
 	</p>
-	<a href="bmw/" class="btn btn-outline-primary" role="button">Gå til BMW EV-modeloversigt</a>
+	<a href="bmw/" class="btn btn-outline-primary" role="button">Gå til BMW EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="byd/"><img src="https://media.evkx.net/multimedia/models/byd/brandevs_st.jpg" class="img-fluid mb-2" alt="BYD" ></a>
@@ -281,7 +281,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	BYD har 8 modeller med i alt 10 varianter.
 	</p>
-	<a href="byd/" class="btn btn-outline-primary" role="button">Gå til BYD EV-modeloversigt</a>
+	<a href="byd/" class="btn btn-outline-primary" role="button">Gå til BYD EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="cadillac/"><img src="https://media.evkx.net/multimedia/models/cadillac/brandevs_st.jpg" class="img-fluid mb-2" alt="Cadillac" ></a>
@@ -292,7 +292,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Cadillac har 4 modeller med i alt 5 varianter.
 	</p>
-	<a href="cadillac/" class="btn btn-outline-primary" role="button">Gå til Cadillac EV-modeloversigt</a>
+	<a href="cadillac/" class="btn btn-outline-primary" role="button">Gå til Cadillac EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="chevrolet/"><img src="https://media.evkx.net/multimedia/models/chevrolet/brandevs_st.jpg" class="img-fluid mb-2" alt="Chevrolet" ></a>
@@ -300,7 +300,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Chevrolet har 3 modeller med i alt 8 varianter.
 	</p>
-	<a href="chevrolet/" class="btn btn-outline-primary" role="button">Gå til Chevrolet EV-modeloversigt</a>
+	<a href="chevrolet/" class="btn btn-outline-primary" role="button">Gå til Chevrolet EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="citroën/"><img src="https://media.evkx.net/multimedia/models/citroën/brandevs_st.jpg" class="img-fluid mb-2" alt="Citroën" ></a>
@@ -308,7 +308,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Citroën har 3 modeller med i alt 3 varianter.
 	</p>
-	<a href="citroën/" class="btn btn-outline-primary" role="button">Gå til Citroën EV-modeloversigt</a>
+	<a href="citroën/" class="btn btn-outline-primary" role="button">Gå til Citroën EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="cupra/"><img src="https://media.evkx.net/multimedia/models/cupra/brandevs_st.jpg" class="img-fluid mb-2" alt="CUPRA" ></a>
@@ -316,7 +316,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	CUPRA har 2 modeller med i alt 6 varianter.
 	</p>
-	<a href="cupra/" class="btn btn-outline-primary" role="button">Gå til CUPRA EV-modeloversigt</a>
+	<a href="cupra/" class="btn btn-outline-primary" role="button">Gå til CUPRA EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="dacia/"><img src="https://media.evkx.net/multimedia/models/dacia/brandevs_st.jpg" class="img-fluid mb-2" alt="Dacia" ></a>
@@ -324,7 +324,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Dacia har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="dacia/" class="btn btn-outline-primary" role="button">Gå til Dacia EV-modeloversigt</a>
+	<a href="dacia/" class="btn btn-outline-primary" role="button">Gå til Dacia EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Dongfeng</h2>
@@ -334,7 +334,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Dongfeng har 1 modeller med i alt 2 varianter.
 	</p>
-	<a href="dongfeng/" class="btn btn-outline-primary" role="button">Gå til Dongfeng EV-modeloversigt</a>
+	<a href="dongfeng/" class="btn btn-outline-primary" role="button">Gå til Dongfeng EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="ds/"><img src="https://media.evkx.net/multimedia/models/ds/brandevs_st.jpg" class="img-fluid mb-2" alt="DS" ></a>
@@ -342,7 +342,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	DS har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="ds/" class="btn btn-outline-primary" role="button">Gå til DS EV-modeloversigt</a>
+	<a href="ds/" class="btn btn-outline-primary" role="button">Gå til DS EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="fiat/"><img src="https://media.evkx.net/multimedia/models/fiat/brandevs_st.jpg" class="img-fluid mb-2" alt="Fiat" ></a>
@@ -350,7 +350,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Fiat har 2 modeller med i alt 2 varianter.
 	</p>
-	<a href="fiat/" class="btn btn-outline-primary" role="button">Gå til Fiat EV-modeloversigt</a>
+	<a href="fiat/" class="btn btn-outline-primary" role="button">Gå til Fiat EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="fisker/"><img src="https://media.evkx.net/multimedia/models/fisker/brandevs_st.jpg" class="img-fluid mb-2" alt="Fisker" ></a>
@@ -358,7 +358,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Fisker har 1 modeller med i alt 3 varianter.
 	</p>
-	<a href="fisker/" class="btn btn-outline-primary" role="button">Gå til Fisker EV-modeloversigt</a>
+	<a href="fisker/" class="btn btn-outline-primary" role="button">Gå til Fisker EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpeg" class="img-fluid mb-2" alt="Ford" ></a>
@@ -366,7 +366,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Ford har 5 modeller med i alt 13 varianter.
 	</p>
-	<a href="ford/" class="btn btn-outline-primary" role="button">Gå til Ford EV-modeloversigt</a>
+	<a href="ford/" class="btn btn-outline-primary" role="button">Gå til Ford EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="genesis/"><img src="https://media.evkx.net/multimedia/models/genesis/brandevs_st.jpg" class="img-fluid mb-2" alt="Genesis" ></a>
@@ -374,7 +374,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Genesis har 2 modeller med i alt 4 varianter.
 	</p>
-	<a href="genesis/" class="btn btn-outline-primary" role="button">Gå til Genesis EV-modeloversigt</a>
+	<a href="genesis/" class="btn btn-outline-primary" role="button">Gå til Genesis EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="gmc/"><img src="https://media.evkx.net/multimedia/models/gmc/brandevs_st.jpg" class="img-fluid mb-2" alt="GMC" ></a>
@@ -382,7 +382,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	GMC har 2 modeller med i alt 4 varianter.
 	</p>
-	<a href="gmc/" class="btn btn-outline-primary" role="button">Gå til GMC EV-modeloversigt</a>
+	<a href="gmc/" class="btn btn-outline-primary" role="button">Gå til GMC EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="hiphi/"><img src="https://media.evkx.net/multimedia/models/hiphi/brandevs_st.jpg" class="img-fluid mb-2" alt="HiPhi" ></a>
@@ -390,7 +390,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	HiPhi har 3 modeller med i alt 5 varianter.
 	</p>
-	<a href="hiphi/" class="btn btn-outline-primary" role="button">Gå til HiPhi EV-modeloversigt</a>
+	<a href="hiphi/" class="btn btn-outline-primary" role="button">Gå til HiPhi EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="honda/"><img src="https://media.evkx.net/multimedia/models/honda/brandevs_st.jpg" class="img-fluid mb-2" alt="Honda" ></a>
@@ -398,7 +398,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Honda har 2 modeller med i alt 3 varianter.
 	</p>
-	<a href="honda/" class="btn btn-outline-primary" role="button">Gå til Honda EV-modeloversigt</a>
+	<a href="honda/" class="btn btn-outline-primary" role="button">Gå til Honda EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="hongqi/"><img src="https://media.evkx.net/multimedia/models/hongqi/brandevs_st.jpg" class="img-fluid mb-2" alt="Hongqi" ></a>
@@ -406,7 +406,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Hongqi har 1 modeller med i alt 4 varianter.
 	</p>
-	<a href="hongqi/" class="btn btn-outline-primary" role="button">Gå til Hongqi EV-modeloversigt</a>
+	<a href="hongqi/" class="btn btn-outline-primary" role="button">Gå til Hongqi EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="hyundai/"><img src="https://media.evkx.net/multimedia/models/hyundai/brandevs_st.jpg" class="img-fluid mb-2" alt="Hyundai" ></a>
@@ -417,7 +417,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Hyundai har 5 modeller med i alt 13 varianter.
 	</p>
-	<a href="hyundai/" class="btn btn-outline-primary" role="button">Gå til Hyundai EV-modeloversigt</a>
+	<a href="hyundai/" class="btn btn-outline-primary" role="button">Gå til Hyundai EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="jaguar/"><img src="https://media.evkx.net/multimedia/models/jaguar/brandevs_st.jpg" class="img-fluid mb-2" alt="Jaguar" ></a>
@@ -425,7 +425,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Jaguar har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="jaguar/" class="btn btn-outline-primary" role="button">Gå til Jaguar EV-modeloversigt</a>
+	<a href="jaguar/" class="btn btn-outline-primary" role="button">Gå til Jaguar EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="jeep/"><img src="https://media.evkx.net/multimedia/models/jeep/brandevs_st.jpg" class="img-fluid mb-2" alt="Jeep" ></a>
@@ -433,14 +433,14 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Jeep har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="jeep/" class="btn btn-outline-primary" role="button">Gå til Jeep EV-modeloversigt</a>
+	<a href="jeep/" class="btn btn-outline-primary" role="button">Gå til Jeep EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>KGM</h2>
 	<p>
 	KGM har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="kgm/" class="btn btn-outline-primary" role="button">Gå til KGM EV-modeloversigt</a>
+	<a href="kgm/" class="btn btn-outline-primary" role="button">Gå til KGM EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="kia/"><img src="https://media.evkx.net/multimedia/models/kia/brandevs_st.jpg" class="img-fluid mb-2" alt="Kia" ></a>
@@ -451,7 +451,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Kia har 4 modeller med i alt 13 varianter.
 	</p>
-	<a href="kia/" class="btn btn-outline-primary" role="button">Gå til Kia EV-modeloversigt</a>
+	<a href="kia/" class="btn btn-outline-primary" role="button">Gå til Kia EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="lancia/"><img src="https://media.evkx.net/multimedia/models/lancia/brandevs_st.jpg" class="img-fluid mb-2" alt="Lancia" ></a>
@@ -459,7 +459,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Lancia har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="lancia/" class="btn btn-outline-primary" role="button">Gå til Lancia EV-modeloversigt</a>
+	<a href="lancia/" class="btn btn-outline-primary" role="button">Gå til Lancia EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Leapmotor</h2>
@@ -469,7 +469,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Leapmotor har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="leapmotor/" class="btn btn-outline-primary" role="button">Gå til Leapmotor EV-modeloversigt</a>
+	<a href="leapmotor/" class="btn btn-outline-primary" role="button">Gå til Leapmotor EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="lexus/"><img src="https://media.evkx.net/multimedia/models/lexus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lexus" ></a>
@@ -477,14 +477,14 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Lexus har 2 modeller med i alt 3 varianter.
 	</p>
-	<a href="lexus/" class="btn btn-outline-primary" role="button">Gå til Lexus EV-modeloversigt</a>
+	<a href="lexus/" class="btn btn-outline-primary" role="button">Gå til Lexus EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Li Auto</h2>
 	<p>
 	Li Auto har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="li auto/" class="btn btn-outline-primary" role="button">Gå til Li Auto EV-modeloversigt</a>
+	<a href="li auto/" class="btn btn-outline-primary" role="button">Gå til Li Auto EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="lotus/"><img src="https://media.evkx.net/multimedia/models/lotus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lotus" ></a>
@@ -492,7 +492,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Lotus har 2 modeller med i alt 6 varianter.
 	</p>
-	<a href="lotus/" class="btn btn-outline-primary" role="button">Gå til Lotus EV-modeloversigt</a>
+	<a href="lotus/" class="btn btn-outline-primary" role="button">Gå til Lotus EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="lucid/"><img src="https://media.evkx.net/multimedia/models/lucid/brandevs_st.jpg" class="img-fluid mb-2" alt="Lucid" ></a>
@@ -503,21 +503,21 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Lucid har 2 modeller med i alt 7 varianter.
 	</p>
-	<a href="lucid/" class="btn btn-outline-primary" role="button">Gå til Lucid EV-modeloversigt</a>
+	<a href="lucid/" class="btn btn-outline-primary" role="button">Gå til Lucid EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Lynk & Co</h2>
 	<p>
 	Lynk & Co har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="lynk & co/" class="btn btn-outline-primary" role="button">Gå til Lynk & Co EV-modeloversigt</a>
+	<a href="lynk & co/" class="btn btn-outline-primary" role="button">Gå til Lynk & Co EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Maserati</h2>
 	<p>
 	Maserati har 2 modeller med i alt 2 varianter.
 	</p>
-	<a href="maserati/" class="btn btn-outline-primary" role="button">Gå til Maserati EV-modeloversigt</a>
+	<a href="maserati/" class="btn btn-outline-primary" role="button">Gå til Maserati EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="mercedes/"><img src="https://media.evkx.net/multimedia/models/mercedes/brandevs_st.jpg" class="img-fluid mb-2" alt="Mercedes" ></a>
@@ -525,7 +525,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Mercedes har 8 modeller med i alt 32 varianter.
 	</p>
-	<a href="mercedes/" class="btn btn-outline-primary" role="button">Gå til Mercedes EV-modeloversigt</a>
+	<a href="mercedes/" class="btn btn-outline-primary" role="button">Gå til Mercedes EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="mg/"><img src="https://media.evkx.net/multimedia/models/mg/brandevs_st.jpg" class="img-fluid mb-2" alt="MG" ></a>
@@ -533,7 +533,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	MG har 5 modeller med i alt 11 varianter.
 	</p>
-	<a href="mg/" class="btn btn-outline-primary" role="button">Gå til MG EV-modeloversigt</a>
+	<a href="mg/" class="btn btn-outline-primary" role="button">Gå til MG EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>MHERO</h2>
@@ -543,14 +543,14 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	MHERO har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="mhero/" class="btn btn-outline-primary" role="button">Gå til MHERO EV-modeloversigt</a>
+	<a href="mhero/" class="btn btn-outline-primary" role="button">Gå til MHERO EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Mini</h2>
 	<p>
 	Mini har 2 modeller med i alt 2 varianter.
 	</p>
-	<a href="mini/" class="btn btn-outline-primary" role="button">Gå til Mini EV-modeloversigt</a>
+	<a href="mini/" class="btn btn-outline-primary" role="button">Gå til Mini EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="neta/"><img src="https://media.evkx.net/multimedia/models/neta/brandevs_st.jpg" class="img-fluid mb-2" alt="Neta" ></a>
@@ -558,7 +558,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Neta har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="neta/" class="btn btn-outline-primary" role="button">Gå til Neta EV-modeloversigt</a>
+	<a href="neta/" class="btn btn-outline-primary" role="button">Gå til Neta EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="nio/"><img src="https://media.evkx.net/multimedia/models/nio/brandevs_st.jpg" class="img-fluid mb-2" alt="Nio" ></a>
@@ -566,7 +566,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Nio har 7 modeller med i alt 8 varianter.
 	</p>
-	<a href="nio/" class="btn btn-outline-primary" role="button">Gå til Nio EV-modeloversigt</a>
+	<a href="nio/" class="btn btn-outline-primary" role="button">Gå til Nio EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="nissan/"><img src="https://media.evkx.net/multimedia/models/nissan/brandevs_st.jpg" class="img-fluid mb-2" alt="Nissan" ></a>
@@ -574,7 +574,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Nissan har 1 modeller med i alt 5 varianter.
 	</p>
-	<a href="nissan/" class="btn btn-outline-primary" role="button">Gå til Nissan EV-modeloversigt</a>
+	<a href="nissan/" class="btn btn-outline-primary" role="button">Gå til Nissan EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>OMODA</h2>
@@ -584,7 +584,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	OMODA har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="omoda/" class="btn btn-outline-primary" role="button">Gå til OMODA EV-modeloversigt</a>
+	<a href="omoda/" class="btn btn-outline-primary" role="button">Gå til OMODA EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Onvo</h2>
@@ -594,7 +594,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Onvo har 1 modeller med i alt 2 varianter.
 	</p>
-	<a href="onvo/" class="btn btn-outline-primary" role="button">Gå til Onvo EV-modeloversigt</a>
+	<a href="onvo/" class="btn btn-outline-primary" role="button">Gå til Onvo EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="opel/"><img src="https://media.evkx.net/multimedia/models/opel/brandevs_st.jpeg" class="img-fluid mb-2" alt="Opel" ></a>
@@ -602,7 +602,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Opel har 4 modeller med i alt 5 varianter.
 	</p>
-	<a href="opel/" class="btn btn-outline-primary" role="button">Gå til Opel EV-modeloversigt</a>
+	<a href="opel/" class="btn btn-outline-primary" role="button">Gå til Opel EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="peugot/"><img src="https://media.evkx.net/multimedia/models/peugot/brandevs_st.jpeg" class="img-fluid mb-2" alt="Peugot" ></a>
@@ -610,7 +610,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Peugot har 5 modeller med i alt 8 varianter.
 	</p>
-	<a href="peugot/" class="btn btn-outline-primary" role="button">Gå til Peugot EV-modeloversigt</a>
+	<a href="peugot/" class="btn btn-outline-primary" role="button">Gå til Peugot EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="polestar/"><img src="https://media.evkx.net/multimedia/models/polestar/brandevs_st.jpg" class="img-fluid mb-2" alt="Polestar" ></a>
@@ -618,7 +618,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Polestar har 3 modeller med i alt 8 varianter.
 	</p>
-	<a href="polestar/" class="btn btn-outline-primary" role="button">Gå til Polestar EV-modeloversigt</a>
+	<a href="polestar/" class="btn btn-outline-primary" role="button">Gå til Polestar EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="porsche/"><img src="https://media.evkx.net/multimedia/models/porsche/brandevs_st.jpeg" class="img-fluid mb-2" alt="Porsche" ></a>
@@ -629,7 +629,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Porsche har 2 modeller med i alt 32 varianter.
 	</p>
-	<a href="porsche/" class="btn btn-outline-primary" role="button">Gå til Porsche EV-modeloversigt</a>
+	<a href="porsche/" class="btn btn-outline-primary" role="button">Gå til Porsche EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="renault/"><img src="https://media.evkx.net/multimedia/models/renault/brandevs_st.jpg" class="img-fluid mb-2" alt="Renault" ></a>
@@ -637,7 +637,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Renault har 3 modeller med i alt 4 varianter.
 	</p>
-	<a href="renault/" class="btn btn-outline-primary" role="button">Gå til Renault EV-modeloversigt</a>
+	<a href="renault/" class="btn btn-outline-primary" role="button">Gå til Renault EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="rimac/"><img src="https://media.evkx.net/multimedia/models/rimac/brandevs_st.jpg" class="img-fluid mb-2" alt="Rimac" ></a>
@@ -645,7 +645,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Rimac har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="rimac/" class="btn btn-outline-primary" role="button">Gå til Rimac EV-modeloversigt</a>
+	<a href="rimac/" class="btn btn-outline-primary" role="button">Gå til Rimac EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="rivian/"><img src="https://media.evkx.net/multimedia/models/rivian/brandevs_st.jpg" class="img-fluid mb-2" alt="Rivian" ></a>
@@ -653,7 +653,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Rivian har 1 modeller med i alt 8 varianter.
 	</p>
-	<a href="rivian/" class="btn btn-outline-primary" role="button">Gå til Rivian EV-modeloversigt</a>
+	<a href="rivian/" class="btn btn-outline-primary" role="button">Gå til Rivian EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="rolls-royce/"><img src="https://media.evkx.net/multimedia/models/rolls-royce/brandevs_st.jpg" class="img-fluid mb-2" alt="Rolls-Royce" ></a>
@@ -661,7 +661,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Rolls-Royce har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="rolls-royce/" class="btn btn-outline-primary" role="button">Gå til Rolls-Royce EV-modeloversigt</a>
+	<a href="rolls-royce/" class="btn btn-outline-primary" role="button">Gå til Rolls-Royce EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="seres/"><img src="https://media.evkx.net/multimedia/models/seres/brandevs_st.jpg" class="img-fluid mb-2" alt="Seres" ></a>
@@ -669,7 +669,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Seres har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="seres/" class="btn btn-outline-primary" role="button">Gå til Seres EV-modeloversigt</a>
+	<a href="seres/" class="btn btn-outline-primary" role="button">Gå til Seres EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="skoda/"><img src="https://media.evkx.net/multimedia/models/skoda/brandevs_st.jpg" class="img-fluid mb-2" alt="Skoda" ></a>
@@ -680,7 +680,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Skoda har 2 modeller med i alt 16 varianter.
 	</p>
-	<a href="skoda/" class="btn btn-outline-primary" role="button">Gå til Skoda EV-modeloversigt</a>
+	<a href="skoda/" class="btn btn-outline-primary" role="button">Gå til Skoda EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="smart/"><img src="https://media.evkx.net/multimedia/models/smart/brandevs_st.jpg" class="img-fluid mb-2" alt="Smart" ></a>
@@ -688,7 +688,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Smart har 2 modeller med i alt 4 varianter.
 	</p>
-	<a href="smart/" class="btn btn-outline-primary" role="button">Gå til Smart EV-modeloversigt</a>
+	<a href="smart/" class="btn btn-outline-primary" role="button">Gå til Smart EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="subaru/"><img src="https://media.evkx.net/multimedia/models/subaru/brandevs_st.jpeg" class="img-fluid mb-2" alt="Subaru" ></a>
@@ -696,7 +696,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Subaru har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="subaru/" class="btn btn-outline-primary" role="button">Gå til Subaru EV-modeloversigt</a>
+	<a href="subaru/" class="btn btn-outline-primary" role="button">Gå til Subaru EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="tesla/"><img src="https://media.evkx.net/multimedia/models/tesla/brandevs_st.jpg" class="img-fluid mb-2" alt="Tesla" ></a>
@@ -704,7 +704,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Tesla har 5 modeller med i alt 19 varianter.
 	</p>
-	<a href="tesla/" class="btn btn-outline-primary" role="button">Gå til Tesla EV-modeloversigt</a>
+	<a href="tesla/" class="btn btn-outline-primary" role="button">Gå til Tesla EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="toyota/"><img src="https://media.evkx.net/multimedia/models/toyota/brandevs_st.jpg" class="img-fluid mb-2" alt="Toyota" ></a>
@@ -712,7 +712,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Toyota har 1 modeller med i alt 2 varianter.
 	</p>
-	<a href="toyota/" class="btn btn-outline-primary" role="button">Gå til Toyota EV-modeloversigt</a>
+	<a href="toyota/" class="btn btn-outline-primary" role="button">Gå til Toyota EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="vinfast/"><img src="https://media.evkx.net/multimedia/models/vinfast/brandevs_st.jpg" class="img-fluid mb-2" alt="VinFast" ></a>
@@ -720,7 +720,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	VinFast har 1 modeller med i alt 2 varianter.
 	</p>
-	<a href="vinfast/" class="btn btn-outline-primary" role="button">Gå til VinFast EV-modeloversigt</a>
+	<a href="vinfast/" class="btn btn-outline-primary" role="button">Gå til VinFast EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="volkswagen/"><img src="https://media.evkx.net/multimedia/models/volkswagen/brandevs_st.jpg" class="img-fluid mb-2" alt="Volkswagen" ></a>
@@ -728,7 +728,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Volkswagen har 6 modeller med i alt 28 varianter.
 	</p>
-	<a href="volkswagen/" class="btn btn-outline-primary" role="button">Gå til Volkswagen EV-modeloversigt</a>
+	<a href="volkswagen/" class="btn btn-outline-primary" role="button">Gå til Volkswagen EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="volvo/"><img src="https://media.evkx.net/multimedia/models/volvo/brandevs_st.jpg" class="img-fluid mb-2" alt="Volvo" ></a>
@@ -736,7 +736,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Volvo har 7 modeller med i alt 18 varianter.
 	</p>
-	<a href="volvo/" class="btn btn-outline-primary" role="button">Gå til Volvo EV-modeloversigt</a>
+	<a href="volvo/" class="btn btn-outline-primary" role="button">Gå til Volvo EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="voyah/"><img src="https://media.evkx.net/multimedia/models/voyah/brandevs_st.jpg" class="img-fluid mb-2" alt="VOYAH" ></a>
@@ -744,7 +744,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	VOYAH har 2 modeller med i alt 2 varianter.
 	</p>
-	<a href="voyah/" class="btn btn-outline-primary" role="button">Gå til VOYAH EV-modeloversigt</a>
+	<a href="voyah/" class="btn btn-outline-primary" role="button">Gå til VOYAH EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="xiaomi/"><img src="https://media.evkx.net/multimedia/models/xiaomi/brandevs_st.jpg" class="img-fluid mb-2" alt="Xiaomi" ></a>
@@ -752,7 +752,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Xiaomi har 1 modeller med i alt 4 varianter.
 	</p>
-	<a href="xiaomi/" class="btn btn-outline-primary" role="button">Gå til Xiaomi EV-modeloversigt</a>
+	<a href="xiaomi/" class="btn btn-outline-primary" role="button">Gå til Xiaomi EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="xpeng/"><img src="https://media.evkx.net/multimedia/models/xpeng/brandevs_st.jpg" class="img-fluid mb-2" alt="XPENG" ></a>
@@ -760,7 +760,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	XPENG har 6 modeller med i alt 10 varianter.
 	</p>
-	<a href="xpeng/" class="btn btn-outline-primary" role="button">Gå til XPENG EV-modeloversigt</a>
+	<a href="xpeng/" class="btn btn-outline-primary" role="button">Gå til XPENG EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="yangwang/"><img src="https://media.evkx.net/multimedia/models/yangwang/brandevs_st.jpg" class="img-fluid mb-2" alt="YangWang" ></a>
@@ -768,7 +768,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	YangWang har 1 modeller med i alt 1 varianter.
 	</p>
-	<a href="yangwang/" class="btn btn-outline-primary" role="button">Gå til YangWang EV-modeloversigt</a>
+	<a href="yangwang/" class="btn btn-outline-primary" role="button">Gå til YangWang EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="zeekr/"><img src="https://media.evkx.net/multimedia/models/zeekr/brandevs_st.jpg" class="img-fluid mb-2" alt="Zeekr" ></a>
@@ -776,7 +776,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<p>
 	Zeekr har 6 modeller med i alt 11 varianter.
 	</p>
-	<a href="zeekr/" class="btn btn-outline-primary" role="button">Gå til Zeekr EV-modeloversigt</a>
+	<a href="zeekr/" class="btn btn-outline-primary" role="button">Gå til Zeekr EV-model oversigt</a>
 </div>
 
 

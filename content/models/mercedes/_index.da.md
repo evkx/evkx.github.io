@@ -1,5 +1,5 @@
 ---
-title: Mercedes EV-modeller
+title: Mercedes EV modeller
 linktitle: "Mercedes"
 description: "Mercedes-Benz,commonly referred to as Mercedes and sometimes as Benz, is a German luxury and commercial vehicle automotive brand established in 1926. By 2022, Mercedes-Benz will have battery electric vehicles (BEV) in all segments the company serves. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mercedes EQA er en premium crossover tilgængelig i 4 varianter.
+Mercedes EQA er en premium crossover, der fås i 4 varianter.
 </p>
 	<a href="eqa/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Mercedes EQA er en premium crossover tilgængelig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mercedes EQB er en premium SUV tilgængelig i 3 varianter.
+Mercedes EQB er en premium SUV, der fås i 3 varianter.
 </p>
 	<a href="eqb/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -56,7 +56,7 @@ Mercedes EQB er en premium SUV tilgængelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mercedes EQC er en luksus-SUV tilgængelig i 1 varianter.
+Mercedes EQC er en luksus SUV, der fås i 1 varianter.
 </p>
 	<a href="eqc/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -71,7 +71,7 @@ Mercedes EQC er en luksus-SUV tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mercedes EQE er en luksussedan tilgængelig i 6 varianter.
+Mercedes EQE er en luksusbil, der fås i 6 varianter.
 </p>
 	<a href="eqe/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -86,7 +86,7 @@ Mercedes EQE er en luksussedan tilgængelig i 6 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mercedes EQE SUV er en luksus-SUV tilgængelig i 5 varianter.
+Mercedes EQE SUV er en luksus SUV, der fås i 5 varianter.
 </p>
 	<a href="eqe_suv/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -101,7 +101,7 @@ Mercedes EQE SUV er en luksus-SUV tilgængelig i 5 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mercedes EQS er en luksussedan tilgængelig i 6 varianter.
+Mercedes EQS er en luksusbil, der fås i 6 varianter.
 </p>
 	<a href="eqs/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -116,7 +116,7 @@ Mercedes EQS er en luksussedan tilgængelig i 6 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mercedes EQS SUV er en luksus-SUV tilgængelig i 6 varianter.
+Mercedes EQS SUV er en luksus SUV, der fås i 6 varianter.
 </p>
 	<a href="eqs_suv/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -131,7 +131,7 @@ Mercedes EQS SUV er en luksus-SUV tilgængelig i 6 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mercedes G er en luksus-SUV tilgængelig i 1 varianter.
+Mercedes G er en luksus SUV, der fås i 1 varianter.
 </p>
 	<a href="g/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

@@ -1,7 +1,7 @@
 ---
 title: Aion Hyper GT 710 Supercharged galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Aion Hyper GT 710 Supercharged-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Aion Hyper GT 710 Supercharged billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

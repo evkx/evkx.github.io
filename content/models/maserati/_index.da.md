@@ -1,5 +1,5 @@
 ---
-title: Maserati EV-modeller
+title: Maserati EV modeller
 linktitle: "Maserati"
 description: "Maserati, the iconic Italian luxury car brand, has a comprehensive EV strategy as part of its commitment to electrification and sustainable growth. The brand has confirmed its dedication to a 100% Engineered and Made in Italy strategic plan, which is focused on bold electrification. Maserati is the first Italian luxury brand to develop and produce all-electric vehicles, and it's driving through a sustainable long-term profitable growth plan centered on consistent brand and product evolution."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Maserati GranCabrio er en luksus konvertibel tilgængelig i 1 varianter.
+Maserati GranCabrio er en luksuriøs cabriolet, der fås i 1 varianter.
 </p>
 	<a href="grancabrio/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Maserati GranCabrio er en luksus konvertibel tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Maserati Grecale er en luksus-SUV tilgængelig i 1 varianter.
+Maserati Grecale er en luksus SUV, der fås i 1 varianter.
 </p>
 	<a href="grecale/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

@@ -1,7 +1,7 @@
 ---
 title: XPENG G3i galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store XPENG G3i-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store XPENG G3i billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

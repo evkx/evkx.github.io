@@ -1,7 +1,7 @@
 ---
 title: Ford F150 Lightning Standard Range
 linktitle: "F150 Lightning Standard Range"
-description: "Ford F150 Lightning Standard Range er en fuldelektrisk pickup med en WLTP rækkevidde på op til 427 km (265 miles). EVKX.net har alle detaljerne."
+description: "Ford F150 Lightning Standard Range er en elektrisk pickup truck med en WLTP rækkevidde på op til 427 km (265 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,82 +11,82 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/main_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1571"  >}}
 
-Vi har opdelt vores Ford F150 Lightning Standard Range artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-Ford F150 Lightning Standard Range imponerer med en maksimal effekt på 433 kW (589 hk) og et imponerende samlet drejningsmoment på 1050 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,2 sekunder og har en topfart på 180 km/h, hvilket gør den til en standout i sin klasse.
+Ford F150 Lightning Standard Range har en imponerende styrke med en maksimal effekt på 433 kW (589 hk / 581 bhp) og et kommanderende samlet drejningsmoment på 1050 Nm (775 lb-ft). Denne højtydende maskine kan sprinte fra 0 til 100 km/t (0 til 62 mph) på kun 4,2 sekunder, og den når en tophastighed på 180 km/t (112 mph), hvilket gør den til en frontløber i sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 110,0 kWh og en nettoanvendelig kapacitet på 98,0 kWh, hvilket giver en buffer på 12,0 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitets batteri har en brutto kapacitet på 110,0 kWh og en netto kapacitet på 98,0 kWh, hvilket giver en 12,0 kWh buffer (10,9%) til batteribeskyttelse. Dette lithium-ion batteri bruger [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 427 km, med et energiforbrugsrate på 23,0 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er køretøjets rækkevidde 427 km (265 miles), med et energiforbrug på 23,0 kWh/100 km (3 mi/kWh). For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 155kW. En fuld opladning fra 0 - 100 % ville tage 99 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 38 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 71%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 101kW. Hver opladningssession ville tage 41 minutter og 26 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 155 kW. Opladning fra 0% til 100% tager cirka 99 minutter, mens et mere typisk scenario fra 10% til 80% tager 38 minutter med en gennemsnitlig ladehastighed på 110 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 0% til 71%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 101 kW, hvor hver opladningssession tager cirka 41 minutter og 26 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 33 kWh/100 km, ville turen tage cirka 10 timer og 38 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 79%, med en samlet opladningstid på 138 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 33 kWh/100 km, ville turen tage cirka 10 timer og 38 minutter, med tre opladningsstop fra 0% til 79%, i alt 138 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 19,2 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 5 timer og 6 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 19,2 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 5 timer og 6 minutter ved brug af en hjemmeinstallation.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/charging_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1506"  >}}
 
 ### Ladeport
 
-Placeringen af ladeporten er på [højre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at bruge ladestationer, hvor du parkerer siden ind i opladeren. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Ladeporten er bekvemt placeret på [højre frontside](../../../../technology/charging/connectors/#front-side), hvilket letter adgangen ved ladestationer hvor du parkerer parallelt med laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-Ford F150 Lightning Standard Range har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
+Ford F150 Lightning Standard Range har et firehjulstræksystem drevet af to motorer, én på hver aksel.
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 226 mm.
+Forhjulsophænget bruger et [dobbelt wishbone](../../../../technology/suspension/#double-wishbone) design, mens baghjulsophænget bruger et [Multilink](../../../../technology/suspension/#multilink) setup. Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere. affjedringen har fast højde og dæmpning. Frihøjden med denne affjedring er 226 mm.
 
 ### Bremser
 
 ### Regenerativ bremsning
 
-Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**. Du kan vælge mellem to stopmodi til en-pedal kørsel. **Hold mode** stopper køretøjet helt ved brug af friktionsbremser, og **Roll mode** tillader køretøjet at rulle, indtil det stopper naturligt.
+[Regenerativ bremsning](../../../../technology/regen/) i denne model tilbyder flere tilstande for at forbedre effektivitet og køreoplevelse. Den mest effektive mulighed er [**Automatisk regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet ruller når det er muligt og bruger regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind når det er nødvendigt. <br /><br/>  En anden mulighed er [**Regenerering på speederpedalen**](../../../../technology/regen/#one-pedal-driving) tilstanden hvor regenerativ bremsning aktiveres når føreren letter foden fra speederen. Dette system gør det muligt for køretøjet at sænke farten og genvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **én-pedal kørsel**. Du kan vælge mellem to stoptilstande for én-pedal kørsel. **Hold tilstand** bringer køretøjet til et komplet stop ved hjælp af friktionsbremser, og **Rul tilstand** lader køretøjet rulle indtil det stopper naturligt.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den Ford F150 Lightning Standard Range, med dimensioner på 5915 mm i længden,  mm i bredden og 2004 mm i højden, skiller sig ud i Full-size Pick-Up truck kategorien og tilbyder exceptionel plads, kraft og kapacitet. Ford F150 Lightning Standard Range fås i alt 6 lakfarver, herunder både solide og metalliske muligheder.
+Ford F150 Lightning Standard Range, med dimensioner på 5915 mm i længde,  mm i bredde og 2004 mm i højde, udmærker sig i kategorien stor pickup-truck med exceptionel plads, kraft og kapacitet. Ford F150 Lightning Standard Range fås i alt i 6 lakfarver, inklusive både almindelige og metalliske muligheder.
 
-Du kan vælge mellem flere hjul i forskellige størrelser på Ford F150 Lightning Standard Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Ford F150 Lightning Standard Range tilbyder flere hjulmuligheder i forskellige størrelser, så du kan tilpasse din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 265/70 dæk on 18" fælge
-- 275/60 dæk on 20" fælge
-- 285/45 dæk on 22" fælge
+- 265/70 dæk på 18" fælge
+- 275/60 dæk på 20" fælge
+- 285/45 dæk på 22" fælge
 
-Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+Smallere hjul forbedrer forbruget og giver længere rækkevidde, mens bredere hjul giver bedre vejgreb og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-tailgate) der falder ned.
 
-Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset strækker det meste af taget, og beboerne kan åbne den forreste del. Dette glas gør bilens interiøret føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
+Der er kun én tagmulighed for denne model. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset strækker sig over det meste af taget, og passagererne kan åbne den forreste del. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Det har et elektrisk gardin, som passagererne kan bruge til beskyttelse mod solen.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/exterior_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1595"  >}}
 
@@ -100,80 +100,80 @@ Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
 
-Ford F150 Lightning Standard Range har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+Ford F150 Lightning Standard Range har plads til fem passagerer med to forsæder og en trebænk bagtil.
 
-#### Første række sæder
+#### Forsæder
 
-Ford F150 Lightning Standard Range tilbyder kun én type forreste sæde.
+Ford F150 Lightning Standard Range tilbyder én type forsæde.
 
-Følgende funktioner er tilgængelige på **** sædet.
+Følgende funktioner er tilgængelige på **** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (valgfri)
-- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som en mulighed)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
+- [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ekstraudstyr)
+- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som ekstraudstyr)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (ekstraudstyr)
 
-Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Gray [kunstlæderbetræk](../../../../technology/seats/materials/#leatherette)
+- Gray [stofbetræk](../../../../technology/seats/materials/#fabric)
+- Black [kunstlæderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black [kunstlæderbetræk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/frontseats_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}
 
-#### Sæde på anden række
+#### Anden række sæder
 
-Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Anden række har en standard tresæders bænk med  opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Ford F150 Lightning Standard Range inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+Ford F150 Lightning Standard Range inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
 To forskellige skærmopsætninger er tilgængelige på Ford F150 Lightning Standard Range.
 
-Standardlayoutet har følgende konfiguration.
+Standardopsætningen har følgende konfiguration.
 
 Vigtige skærmdetaljer:
 
-- Skærmen  bag rattet integreret i instrumentbrættet er 12,0 tommer stor
-- Skærmen  i dashboardets midte er 12,0 tommer stor
+- Den  skærm bag rattet integreret i instrumentbrættet er 12,0 tommer stor
+- Den  skærm på midten af instrumentbrættet er 12,0 tommer stor
 
-Det valgfri -layout har følgende konfiguration.
+Den valgfrie  opsætning har følgende konfiguration.
 
 Vigtige skærmdetaljer:
 
-- Skærmen  bag rattet integreret i instrumentbrættet er 12,0 tommer stor
-- Skærmen  i dashboardets midte er 15,5 tommer stor
+- Den  skærm bag rattet integreret i instrumentbrættet er 12,0 tommer stor
+- Den  skærm på midten af instrumentbrættet er 15,5 tommer stor
 
-Modellen har ikke et head-up display.
+Modellen inkluderer ikke et head-up display.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/screens_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}
 
 ### Rat
 
-Ford F150 Lightning Standard Range er udstyret med en enkelt type rat:
+Ford F150 Lightning Standard Range er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -181,25 +181,25 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Med standard indbygget navigationssystem har du al den hjælp, du behøver for at nå din destination uden besvær.
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter Ford F150 Lightning Standard Range Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+Ford F150 Lightning Standard Range understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Du kan vælge mellem tre lydsystemer på Ford F150 Lightning Standard Range.
+Du kan vælge mellem tre lydsystemer til Ford F150 Lightning Standard Range:
 
-- Med Ford får du fire højttalere med en maksimal systemeffekt på 80 watt.
-- Med B&O Sound System får du otte højttalere med en maksimal systemeffekt på 640 watt.
-- Med B&O Unleashed Sound System får du 18 højttalere med en maksimal systemeffekt på 1080 watt.
+- **Ford:** Har fire højttalere og leverer en maksimal effekt på 80 watt.
+- **B&O Sound System:** Har otte højttalere og leverer en maksimal effekt på 640 watt.
+- **B&O Unleashed Sound System:** Har 18 højttalere og leverer en maksimal effekt på 1080 watt.
 
-## Lys
+## Lygter
 
-**Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+**Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/headlights_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}
 
@@ -207,59 +207,59 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den Ford F150 Lightning Standard Range inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+Ford F150 Lightning Standard Range har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Ford F150 Lightning Standard Range, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Ford F150 Lightning Standard Range, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Ford F150 Lightning Standard Range, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Ford F150 Lightning Standard Range, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Ford F150 Lightning Standard Range, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Ford F150 Lightning Standard Range, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Ford F150 Lightning Standard Range, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Ford F150 Lightning Standard Range, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfrit på Ford F150 Lightning Standard Range, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
+[**Automatisk Nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Ekstraudstyr på Ford F150 Lightning Standard Range, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfrit på Ford F150 Lightning Standard Range, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Ekstraudstyr på Ford F150 Lightning Standard Range, dette system hjælper med at opdage trafik i blinde vinkler.
 
 ### Køreautomatisering
 
 Ford F150 Lightning Standard Range tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med Ford Co-Pilot360™ 2.0 niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med Ford Co-Pilot360™ 2.0 niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 - Fartpilot.
 
-Med det valgfrie Ford Co-Pilot360™ Assist 2.0 niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
+Med det valgfrie Ford Co-Pilot360™ Assist 2.0 niveau 2-system får du yderligere køreautomatiseringsfunktioner ud over dem, der er nævnt ovenfor:
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
-Med det valgfrie Ford Co-Pilot360™ Active 2.0 niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
+Med det valgfrie Ford Co-Pilot360™ Active 2.0 niveau 2-system får du yderligere køreautomatiseringsfunktioner ud over dem, der er nævnt ovenfor:
 
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ## Sikkerheds- og adgangsteknologier
 
-Ford F150 Lightning Standard Range er udstyret med essentielle sikkerhedsfunktioner for at beskytte dig og dit køretøj og tilbyder enkelhed og pålidelighed. Disse inkluderer:
+Ford F150 Lightning Standard Range er udstyret med grundlæggende sikkerhedsfunktioner for at beskytte dig og dit køretøj, og tilbyder enkelhed og pålidelighed. Disse omfatter:
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Lastbeddet har en lastekapacitet på 1495 liter. Det har en bredde på 1285 mm og en længde på 1704 mm, med en maksimal belastning på 907 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 399 liter.
+Ladet har en lastkapacitet på 1495 liter (52,8 CU FT). Det har en bredde på 1285 mm (50,6 tommer) og en længde på 1704 mm (67,1 tommer), med en maksimal lastvægt på 907 kg (1999,6 lbs). Derudover er der et frunk (front-bagagerum) med en opbevaringskapacitet på 399 liter (14,1 CU FT).
 
-Køretøjets maksimale vægt er 3500 kg, med en basisvægt på 2890 kg. Dette giver en maksimal last på 610 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 3500 kg (7716 lbs), med en egenvægt på 2890 kg (6371 lbs). Dette giver en maksimal last på 610 kg (1345 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
-En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 3490 kg, mens den for en ubremset trailer er 750 kg.
+Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for en bremset trailer er 3490 kg (7694 lbs), mens det for en ubremset trailer er 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/trunk_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1264"  >}}
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
-Denne model havde verdenspremiere den 19.05.2021, og leveringerne startede i December 2021.
-{{< pagenavigation b_url="../" b_title="Ford F150 Lightning" f_url="rangeandconsumption/" f_title="Range" >}}
+Ford F150 Lightning Standard Range havde sin verdenspremiere den 19.05.2021, og leveringerne startede i December 2021.
+{{< pagenavigation b_url="../" b_title="Ford F150 Lightning" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

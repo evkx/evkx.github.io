@@ -1,7 +1,7 @@
 ---
 title: Smart #3 Brabus galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Smart #3 Brabus-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Smart #3 Brabus billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

@@ -1,7 +1,7 @@
 ---
 title: Leapmotor C10 69kWh RWD galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store Leapmotor C10 69kWh RWD-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store Leapmotor C10 69kWh RWD billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

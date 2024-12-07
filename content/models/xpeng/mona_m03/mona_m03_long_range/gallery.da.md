@@ -1,7 +1,7 @@
 ---
 title: XPENG Mona M03 Long Range galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store XPENG Mona M03 Long Range-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store XPENG Mona M03 Long Range billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

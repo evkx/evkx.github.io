@@ -1,14 +1,14 @@
 ---
-title: Porsche Taycan 4S Sport Turismo (GEN1) opladningskurve og ydeevne
-linktitle: "Opladningskurve"
-description: "Nedan är laddningskurvan för Porsche Taycan 4S Sport Turismo (GEN1), som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
+title: Porsche Taycan 4S Sport Turismo (GEN1) ladekurve og ydelse
+linktitle: "Ladekurve"
+description: "Herunder er opladningskurven for Porsche Taycan 4S Sport Turismo (GEN1), der viser ladehastigheden ved forskellige batteriniveauer. Derudover giver grafer for rækkevidde og tid omfattende detaljer om opladningsydelsen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskellige batteripakker.
+Denne model fås med flere batterier. Herunder finder du ydelsen for de forskellige batteripakker.
 
 ### 79,2 kWh Performance Battery
 
@@ -30,7 +30,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 	<tbody>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 0 - 100 %
+				Gennemsnitlig ladehastighed 0-100%
 			</td>
 			<td>
 				92,1 kW
@@ -38,7 +38,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-100 %
+				Gennemsnitlig ladehastighed 10-100%
 			</td>
 			<td>
 				86,9 kW
@@ -46,7 +46,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-90 %
+				Gennemsnitlig ladehastighed 10-90%
 			</td>
 			<td>
 				108,0 kW
@@ -54,7 +54,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-80 %
+				Gennemsnitlig ladehastighed 10-80%
 			</td>
 			<td>
 				153,2 kW
@@ -62,7 +62,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Maks C-Rate
+				Maksimal C-Rate
 			</td>
 			<td>
 				2,80
@@ -70,7 +70,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig C-rate
+				Gennemsnitlig C-Rate
 			</td>
 			<td>
 				1,90
@@ -86,7 +86,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningshastighed inkluderet 5 minutters tab
+				Optimal ladehastighed inklusiv 5 minutters tab
 			</td>
 			<td>
 				133,5kW
@@ -94,7 +94,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningsstoptid
+				Optimal ladetid
 			</td>
 			<td>
 				21m23s
@@ -119,7 +119,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 	<tbody>
 		<tr>
 			<td>
-				Opladningstid 0 - 100%
+				Ladetid 0-100%
 			</td>
 			<td>
 				 46 m 16 s
@@ -127,7 +127,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-100%
+				Ladetid 10-100%
 			</td>
 			<td>
 				 44 m 6 s
@@ -135,7 +135,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-80%
+				Ladetid 10-80%
 			</td>
 			<td>
 				 19 m 28 s
@@ -170,7 +170,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 	<tbody>
 		<tr>
 			<td>
-				Rækkevidde per minut 0-100%
+				Rækkevidde pr. minut 0-100%
 			</td>
 			<td>
 				?
@@ -187,7 +187,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-100%
+				Rækkevidde pr. minut 10-100%
 			</td>
 			<td>
 				?
@@ -204,7 +204,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-80%
+				Rækkevidde pr. minut 10-80%
 			</td>
 			<td>
 				?
@@ -224,10 +224,10 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 </div>
 
 
-Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
+Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kolde eller varme temperaturer kan dog påvirke kurven betydeligt. Denne kurve er også baseret på start af opladning ved lav batteristatus. Derfor kan tilslutning ved højere niveau påvirke kurven positivt eller negativt. Læs mere om hvad der påvirker ladehastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
+Porsche Taycan 4S Sport Turismo (GEN1) har batterivarmer, hvilket gør det lettere at oplade ved optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -245,7 +245,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 				Tid
 			</th>
 			<th>
-				Energi opladet
+				Opladet energi
 			</th>
 		</tr>
 	</thead>
@@ -1688,7 +1688,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 	<tbody>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 0 - 100 %
+				Gennemsnitlig ladehastighed 0-100%
 			</td>
 			<td>
 				97,5 kW
@@ -1696,7 +1696,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-100 %
+				Gennemsnitlig ladehastighed 10-100%
 			</td>
 			<td>
 				93,2 kW
@@ -1704,7 +1704,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-90 %
+				Gennemsnitlig ladehastighed 10-90%
 			</td>
 			<td>
 				136,6 kW
@@ -1712,7 +1712,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-80 %
+				Gennemsnitlig ladehastighed 10-80%
 			</td>
 			<td>
 				191,4 kW
@@ -1720,7 +1720,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 		</tr>
 		<tr>
 			<td>
-				Maks C-Rate
+				Maksimal C-Rate
 			</td>
 			<td>
 				2,84
@@ -1728,7 +1728,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig C-rate
+				Gennemsnitlig C-Rate
 			</td>
 			<td>
 				1,94
@@ -1744,7 +1744,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningshastighed inkluderet 5 minutters tab
+				Optimal ladehastighed inklusiv 5 minutters tab
 			</td>
 			<td>
 				162,3kW
@@ -1752,7 +1752,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningsstoptid
+				Optimal ladetid
 			</td>
 			<td>
 				19m52s
@@ -1777,7 +1777,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 	<tbody>
 		<tr>
 			<td>
-				Opladningstid 0 - 100%
+				Ladetid 0-100%
 			</td>
 			<td>
 				 51 m 29 s
@@ -1785,7 +1785,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-100%
+				Ladetid 10-100%
 			</td>
 			<td>
 				 48 m 30 s
@@ -1793,7 +1793,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-80%
+				Ladetid 10-80%
 			</td>
 			<td>
 				 18 m 21 s
@@ -1828,7 +1828,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 	<tbody>
 		<tr>
 			<td>
-				Rækkevidde per minut 0-100%
+				Rækkevidde pr. minut 0-100%
 			</td>
 			<td>
 				?
@@ -1845,7 +1845,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-100%
+				Rækkevidde pr. minut 10-100%
 			</td>
 			<td>
 				?
@@ -1862,7 +1862,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-80%
+				Rækkevidde pr. minut 10-80%
 			</td>
 			<td>
 				?
@@ -1882,10 +1882,10 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 </div>
 
 
-Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
+Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kolde eller varme temperaturer kan dog påvirke kurven betydeligt. Denne kurve er også baseret på start af opladning ved lav batteristatus. Derfor kan tilslutning ved højere niveau påvirke kurven positivt eller negativt. Læs mere om hvad der påvirker ladehastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
-Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lättare att ladda vid optimal batteritemperatur.
+Porsche Taycan 4S Sport Turismo (GEN1) har batterivarmer, hvilket gør det lettere at oplade ved optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -1903,7 +1903,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 				Tid
 			</th>
 			<th>
-				Energi opladet
+				Opladet energi
 			</th>
 		</tr>
 	</thead>
@@ -3327,4 +3327,4 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batterivärme, vilket gör det lätta
 </div>
 
 
-{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rækkevidde" f_url="../specifications/" f_title="Specifikationer" >}}

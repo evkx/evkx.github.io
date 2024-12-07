@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Sport Turismo (GEN1)
 linktitle: "Taycan Sport Turismo GEN1"
-description: "Porsche Taycan Sport Turismo (GEN1) er en fuldelektrisk luksus stationcar med en WLTP rækkevidde på op til 484 km (301 miles). EVKX.net har alle detaljerne."
+description: "Porsche Taycan Sport Turismo (GEN1) er en elektrisk luksus stationcar med en WLTP rækkevidde på op til 484 km (301 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,108 +11,108 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo_gen1/main_1_st.jpg" title="Porsche Taycan Sport Turismo (GEN1)" width="3000" height="2000"  >}}
 
-Vi har opdelt vores Porsche Taycan Sport Turismo (GEN1) artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-Med overboost når Porsche Taycan Sport Turismo (GEN1) en maksimal effekt på 300 kW (408 hk). Uden overboost leverer den 240 kW (326 hk). Det maksimale drejningsmoment er 345 Nm. Den kan accelerere fra 0 til 100 km/t på 5,4 sekunder og når en topfart på 230 km/t, hvilket demonstrerer dens solide præstation.
+Med overboost når Porsche Taycan Sport Turismo (GEN1) en maksimal effekt på 300 kW (408 hk / 402 bhp). Uden overboost leverer den 240 kW (326 hk / 322 bhp). Det maksimale drejningsmoment er 345 Nm (255 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 5,4 sekunder og når en tophastighed på 230 km/t (143 mph), hvilket demonstrerer dens solide ydeevne.
 
-Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost når Porsche Taycan Sport Turismo (GEN1) en maksimal effekt på 350 kW (476 hk). Uden overboost leverer den 280 kW (381 hk). Det maksimale drejningsmoment er 357 Nm. Den kan accelerere fra 0 til 100 km/t på 5,4 sekunder og når en topfart på 230 km/t, hvilket demonstrerer dens solide præstation.
+Med det valgfrie Performance Battery Plus batteri får du andre præstationstal. Med overboost når Porsche Taycan Sport Turismo (GEN1) en maksimal effekt på 350 kW (476 hk / 469 bhp). Uden overboost leverer den 280 kW (381 hk / 376 bhp). Det maksimale drejningsmoment er 357 Nm (263 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 5,4 sekunder og når en tophastighed på 230 km/t (143 mph), hvilket demonstrerer dens solide ydeevne.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Porsche Taycan Sport Turismo (GEN1) har to batterimuligheder med forskellige specifikationer. Nedenfor kan du se, hvordan dette påvirker rækkevidde og opladning.
+Porsche Taycan Sport Turismo (GEN1) fås med to batterimuligheder, der hver især tilbyder forskellige specifikationer og ydelsesparametre.
 
 ### Performance Battery
 
-Det højkapacitetsbatteri har en bruttokapacitet på 79,2 kWh og en nettoanvendelig kapacitet på 71,0 kWh, hvilket giver en buffer på 8,2 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 615 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitets batteri har en brutto kapacitet på 79,2 kWh og en netto kapacitet på 71,0 kWh, hvilket giver en 8,2 kWh buffer (10,4%) til batteribeskyttelse. Med en driftsspænding på 615 volt kvalificerer det som et 800-volt batterisystem. Denne høje spænding er afgørende for systemets opladningskapaciteter. Dette lithium-ion batteri bruger [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 431 og 354 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 16,5 kWh/100 km for basismodellen og 20,1 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierer køretøjets rækkevidde mellem 431 og 354 km (268-220 miles), afhængigt af den specifikke konfiguration og tilvalg som f.eks. hjulstørrelse. Større hjul kan øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 16,5 kWh/100 km for basismodellen og 20,1 kWh/100 km for topmodellen under WLTP testcyklussen. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 225kW. En fuld opladning fra 0 - 100 % ville tage 46 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 19 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 67%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 133kW. Hver opladningssession ville tage 21 minutter og 23 sekunder. Denne effektive opladningskapacitet gør Porsche Taycan Sport Turismo (GEN1) til et praktisk valg til langdistancerejser.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 225 kW. Opladning fra 0% til 100% tager cirka 46 minutter, mens et mere typisk scenario fra 10% til 80% tager 19 minutter med en gennemsnitlig ladehastighed på 153 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 0% til 67%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 133 kW, hvor hver opladningssession tager cirka 21 minutter og 23 sekunder. Denne effektive opladningskapacitet gør Porsche Taycan Sport Turismo (GEN1) til et bekvemt valg til langdistancekørsel.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 9 timer og 27 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 70%, med en samlet opladningstid på 67 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 9 timer og 27 minutter, med tre opladningsstop fra 0% til 70%, i alt 67 minutters opladningstid.
 
 ### Performance Battery Plus
 
-Det højkapacitetsbatteri har en bruttokapacitet på 93,4 kWh og en nettoanvendelig kapacitet på 83,7 kWh, hvilket giver en buffer på 9,7 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 725 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitets batteri har en brutto kapacitet på 93,4 kWh og en netto kapacitet på 83,7 kWh, hvilket giver en 9,7 kWh buffer (10,4%) til batteribeskyttelse. Med en driftsspænding på 725 volt kvalificerer det som et 800-volt batterisystem. Denne høje spænding er afgørende for systemets opladningskapaciteter. Dette lithium-ion batteri bruger [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 484 og 407 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 16,5 kWh/100 km for basismodellen og 20,1 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierer køretøjets rækkevidde mellem 484 og 407 km (301-253 miles), afhængigt af den specifikke konfiguration og tilvalg som f.eks. hjulstørrelse. Større hjul kan øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 16,5 kWh/100 km for basismodellen og 20,1 kWh/100 km for topmodellen under WLTP testcyklussen. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 51 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 64%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 162kW. Hver opladningssession ville tage 19 minutter og 52 sekunder. Denne effektive opladningskapacitet gør Porsche Taycan Sport Turismo (GEN1) til et praktisk valg til langdistancerejser.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 270 kW. Opladning fra 0% til 100% tager cirka 51 minutter, mens et mere typisk scenario fra 10% til 80% tager 18 minutter med en gennemsnitlig ladehastighed på 191 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 3% til 64%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 162 kW, hvor hver opladningssession tager cirka 19 minutter og 52 sekunder. Denne effektive opladningskapacitet gør Porsche Taycan Sport Turismo (GEN1) til et bekvemt valg til langdistancekørsel.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 9 timer og 11 minutter. Denne rejse ville kræve to opladningsstop fra 3% til 58%, med en samlet opladningstid på 51 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 9 timer og 11 minutter, med tre opladningsstop fra 3% til 58%, i alt 51 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 27 minutter ved brug af en hjemmeoplader. For hurtigere opladning kan du vælge en valgfri ombordlader, der understøtter op til 22 kW. Med denne opgradering kan du opnå en fuld opladning fra 0 til 100% på kun cirka 3 timer og 13 minutter derhjemme.
+Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 6 timer og 27 minutter ved brug af en hjemmeinstallation. En valgfri 22 kW indbygget oplader reducerer den fulde opladningstid til cirka 3 timer og 13 minutter.
 
 ### Ladeport
 
-Placeringen af ladeporten er på [højre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at bruge ladestationer, hvor du parkerer siden ind i opladeren. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder. En anden port er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne ekstra port giver dig flere parkeringsmuligheder til AC-opladning. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**J1772**](../../../../technology/charging/connectors/#j1772) for Nordamerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se de fulde specifikationer for alle markeder.
+Ladeporten er bekvemt placeret på [højre frontside](../../../../technology/charging/connectors/#front-side), hvilket letter adgangen ved ladestationer hvor du parkerer parallelt med laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer. Derudover giver en anden port på [venstre frontside](../../../../technology/charging/connectors/#front-side) større fleksibilitet ved AC-opladning. Stiktyperne varierer mellem forskellige markeder. Denne model bruger [**J1772**](../../../../technology/charging/connectors/#j1772) i Nordamerika og [**TYPE2**](../../../../technology/charging/connectors/#type-2) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-Porsche Taycan Sport Turismo (GEN1) har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Porsche Taycan Sport Turismo (GEN1) har et baghjulstræksystem understøttet af én motor på bagakslen. Den anvendte motor er en [permanent magnet synkronmotor](../../../../technology/motors/pmsm/).
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. Standard affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 127 mm.
+Forhjulsophænget bruger et [dobbelt wishbone](../../../../technology/suspension/#double-wishbone) design, mens baghjulsophænget bruger et [Multilink](../../../../technology/suspension/#multilink) setup. Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere. Standard affjedringen har stålsfjedre med fast højde, men du kan justere dæmpningen til at passe til din kørestil eller vejforhold. Frihøjden med denne affjedring er 127 mm.
 
-Du kan bestille Porsche Taycan Sport Turismo (GEN1) med en alternativ Adaptive Air Suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 103 mm, og maksimum er 127 mm.
+Du kan bestille Porsche Taycan Sport Turismo (GEN1) med en alternativ Adaptive Air Suspension affjedring. Forhjulsophænget er [dobbelt wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske støddæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Den minimale frihøjde er 103 mm, og den maksimale er 127 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funktion på Porsche Taycan Sport Turismo (GEN1). Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en valgfri-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
+Dynamisk styring er standard på Porsche Taycan Sport Turismo (GEN1), hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort. Derudover er baghjulsstyring tilgængelig som valgfrit funktion. Baghjulsstyring reducerer vendediameteren ved langsom kørsel.
 
 ### Bremser
 
-Du kan vælge mellem forskellige bremsesystemer. Bremserne standard bruger almindelige [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 360mm, og de bagerste skiver er 358mm. Bremserne second bruger en [støbejernsskive belagt med wolframcarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og producerer næsten ikke bremsestøv. De forreste skiver er 410mm, og de bagerste skiver er 365mm.
+Du kan vælge mellem forskellige bremsesystemer. standard bremsevalget bruger almindelige [støbejerns-skiver](../../../../technology/brakes/#disc-brakes). De forreste skiver måler 360 mm, mens de bageste skiver er 358 mm. second bremsevalget bruger [støbejernsskiver belagt med wolframkarbid](../../../../technology/brakes/#carbid-brakes). De ruster ikke og producerer næsten intet bremsestøv. De forreste skiver måler 410 mm, mens de bageste skiver er 365 mm.
 
 ### Regenerativ bremsning
 
-Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**.
+[Regenerativ bremsning](../../../../technology/regen/) i denne model tilbyder flere tilstande for at forbedre effektivitet og køreoplevelse. Den mest effektive mulighed er [**Automatisk regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet ruller når det er muligt og bruger regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind når det er nødvendigt. <br /><br/>  En anden mulighed er [**Regenerering på speederpedalen**](../../../../technology/regen/#one-pedal-driving) tilstanden hvor regenerativ bremsning aktiveres når føreren letter foden fra speederen. Dette system gør det muligt for køretøjet at sænke farten og genvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **én-pedal kørsel**.
 
 Den maksimale regenerative effekt er 265 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den Porsche Taycan Sport Turismo (GEN1), med dimensioner på 4963 mm i længde, 1964 mm i bredde og 1395 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Porsche Taycan Sport Turismo (GEN1) fås i alt 17 lakfarver, herunder både solide og metalliske muligheder.
+Porsche Taycan Sport Turismo (GEN1), med dimensioner på 4963 mm i længde, 1964 mm i bredde og 1395 mm i højde, tilhører E-segment biler, også kendt som executive biler, der er større og mere luksuriøse end deres D-segment modstykker. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydeevne. Porsche Taycan Sport Turismo (GEN1) fås i alt i 17 lakfarver, inklusive både almindelige og metalliske muligheder.
 
-Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
+Du kan også vælge mellem flere stilmæssige muligheder for at gøre din bil mere unik.
 
-Du kan vælge mellem flere hjul i forskellige størrelser på Porsche Taycan Sport Turismo (GEN1), så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Porsche Taycan Sport Turismo (GEN1) tilbyder flere hjulmuligheder i forskellige størrelser, så du kan tilpasse din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 225/55 dæk på 19" fælge foran og 275/45 dæk på 19" fælge bagpå
-- 245/45 dæk på 20" fælge foran og 285/40 dæk på 20" fælge bagpå
-- 265/35 dæk på 21" fælge foran og 305/30 dæk på 21" fælge bagpå
+- 225/55 dæk på 19" fælge foran og 275/45 dæk på 19" fælge bag
+- 245/45 dæk på 20" fælge foran og 285/40 dæk på 20" fælge bag
+- 265/35 dæk på 21" fælge foran og 305/30 dæk på 21" fælge bag
 
-Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+Smallere hjul forbedrer forbruget og giver længere rækkevidde, mens bredere hjul giver bedre vejgreb og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Den elektrisk drevne bagklap har en kick-sensor som ekstraudstyr, hvilket gør det muligt at åbne den ved blot at sparke foden under bagklappen.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate). Den elektriske bagklap har fodsensor som ekstraudstyr, der gør det muligt at åbne den ved blot at sparke foden under bagklappen.
 
-Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
+Der er tre forskellige tagmuligheder at vælge imellem. Standardtaget er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med stort panoramatag, der strækker sig fra for til bag. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med stort panoramatag, der strækker sig over det meste af området fra for til bag. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Glasset har en elektrokromisk funktion, der lader dig blænde glasset for at beskytte mod solen.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo_gen1/exterior_1_st.jpg" title="Porsche Taycan Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
@@ -124,54 +124,54 @@ Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et al
 
 ### Sæder
 
-Denne model tilbyder et layout med fire sæder eller et valgfrit 4+1 layout.
+Denne model tilbyder en firesæders opsætning eller en valgfri 4+1 opsætning.
 
-#### Første række sæder
+#### Forsæder
 
-For første række tilbyder Porsche Taycan Sport Turismo (GEN1) tre forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
+Forreste række tilbyder tre sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
-Følgende funktioner er tilgængelige på **Comfort** sædet.
+Følgende funktioner er tilgængelige på **Comfort** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-Følgende funktioner er tilgængelige på **Comfortseats with memory** sædet.
+Følgende funktioner er tilgængelige på **Comfortseats with memory** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
+Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justering af sædepude sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage) (valgfri)
+- [Justerbar sidestøtte i ryglæn](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Justerbar sidestøtte i sædehynde](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage) (ekstraudstyr)
 
-Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+Fås med:
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo_gen1/frontseats_1_st.jpg" title="Porsche Taycan Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
-#### Sæder på anden række
+#### Anden række sæder
 
-Du kan vælge to sædetyper til anden række i Porsche Taycan Sport Turismo (GEN1).
+Du kan vælge mellem to sædetyper til anden række i Porsche Taycan Sport Turismo (GEN1).
 
-Muligheden standard er to integrerede sæder i anden række. Derudover er følgende funktionaliteter tilgængelige.
+standard muligheden er to integrerede sæder i anden række. Yderligere funktioner inkluderer:
 
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
 
-Muligheden second er to integrerede sæder i anden række med et tredje mindre sæde imellem. Derudover er følgende funktionaliteter tilgængelige.
+second muligheden er to integrerede sæder i anden række med et tredje mindre sæde i midten. Yderligere funktioner inkluderer:
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo_gen1/secondrowseats_1_st.jpg" title="Porsche Taycan Sport Turismo (GEN1)" width="3000" height="1912"  >}}
 
@@ -179,46 +179,46 @@ Muligheden second er to integrerede sæder i anden række med et tredje mindre s
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
-Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
+Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydelig energi brugt til opvarmning i koldt vejr.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Porsche Taycan Sport Turismo (GEN1) inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+Porsche Taycan Sport Turismo (GEN1) inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-Porsche Taycan Sport Turismo (GEN1) har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , er der én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen og én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) i bunden af midterkonsollen. Til passageren er der en valgfri [infotainment-skærm](../../../../technology/userinterface/screens/#front-passager-screen).
+Porsche Taycan Sport Turismo (GEN1) har flere integrerede skærme. Bag rattet er der et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen er der én [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen) øverst i midterkonsollen og én [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen) nederst i midterkonsollen. Til passageren er der en valgfri [infotainmentskærm](../../../../technology/userinterface/screens/#front-passenger-screen).
 
 Vigtige skærmdetaljer:
 
-- Skærmen touch bag rattet integreret i instrumentbrættet er 16,8 tommer stor
-- Skærmen touch øverst på midterkonsollen er 10,9 tommer stor
-- Skærmen touch i bunden af midterkonsollen er 8,4 tommer stor
-- Skærmen touch foran passageren i instrumentbrættet er 10,9 tommer stor
+- Den touch skærm bag rattet integreret i instrumentbrættet er 16,8 tommer stor
+- Den touch skærm øverst i midterkonsollen er 10,9 tommer stor
+- Den touch skærm nederst i midterkonsollen er 8,4 tommer stor
+- Den touch skærm foran passageren i instrumentbrættet er 10,9 tommer stor
 
-Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+Et head-up display er et valgfrit system, der projicerer hastighed og anden vigtig førerinformation på forruden.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo_gen1/screens_1_st.jpg" title="Porsche Taycan Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
 ### Rat
 
-Porsche Taycan Sport Turismo (GEN1) er udstyret med en enkelt type rat:
+Porsche Taycan Sport Turismo (GEN1) er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -226,28 +226,28 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Med standard indbygget navigationssystem har du al den hjælp, du behøver for at nå din destination uden besvær.
 
-### Telefon spejling
+### Telefonspejling
 
-Yderligere understøtter Porsche Taycan Sport Turismo (GEN1) Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+Porsche Taycan Sport Turismo (GEN1) understøtter Android Auto og Apple CarPlay, så du kan spejle din telefons skærm på bilens display. Denne funktionalitet gør det muligt at køre apps som Google Maps eller Waze direkte fra din telefon.
 
 ### Lydsystem
 
-Du kan vælge mellem tre lydsystemer på Porsche Taycan Sport Turismo (GEN1).
+Du kan vælge mellem tre lydsystemer til Porsche Taycan Sport Turismo (GEN1):
 
-- Med Porsche Sound system får du ti højttalere med en maksimal systemeffekt på 150 watt.
-- Med BOSE® Surround Sound System får du 14 højttalere med en maksimal systemeffekt på 710 watt.
-- Med Burmester® 3D High-End Surround Sound System får du 21 højttalere med en maksimal systemeffekt på 1455 watt.
+- **Porsche Sound system:** Har ti højttalere og leverer en maksimal effekt på 150 watt.
+- **BOSE® Surround Sound System:** Har 14 højttalere og leverer en maksimal effekt på 710 watt.
+- **Burmester® 3D High-End Surround Sound System:** Har 21 højttalere og leverer en maksimal effekt på 1455 watt.
 
-## Lys
+## Lygter
 
 Du kan vælge mellem to typer forlygter til Porsche Taycan Sport Turismo (GEN1).
 
-- **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
-- **LED Matrix forlygter:** Tilgængelige som en mulighed, dette adaptive system opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt, hvilket optimerer belysningen ved at dæmpe specifikke små områder foran.
+- **Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
+- **LED Matrix-forlygter:** Som ekstraudstyr fås dette adaptive system, der opdeler den traditionelle enkeltstråle i snesevis af mindre stråler, som lyskontrolenheden kan tænde og slukke individuelt og dermed optimere belysningen ved at slukke for specifikke små områder foran.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo_gen1/headlights_1_st.jpg" title="Porsche Taycan Sport Turismo (GEN1)" width="3000" height="2000"  >}}
 
@@ -255,64 +255,64 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Den Porsche Taycan Sport Turismo (GEN1) inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+Porsche Taycan Sport Turismo (GEN1) har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper føreren med at forudse kørselsforhold og spare energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funktion, der hjælper førere med at forudse køreforhold og spare energi.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Porsche Taycan Sport Turismo (GEN1), dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Porsche Taycan Sport Turismo (GEN1), dette system forhindrer hjulene i at låse under bremsning.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Porsche Taycan Sport Turismo (GEN1), dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Porsche Taycan Sport Turismo (GEN1), dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Porsche Taycan Sport Turismo (GEN1), dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Porsche Taycan Sport Turismo (GEN1), dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfrit på Porsche Taycan Sport Turismo (GEN1), dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+[**Front Tværgående Trafik Assistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Ekstraudstyr på Porsche Taycan Sport Turismo (GEN1), dette førerassistentsystem hjælper førere med at registrere modkørende trafik ved krydsning af et vejkryds eller når der drejes til venstre eller højre fra stillestående position.
 
-[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valgfrit på Porsche Taycan Sport Turismo (GEN1), dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
+[**Advarsel om Krydsende Trafik Bag (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Ekstraudstyr på Porsche Taycan Sport Turismo (GEN1), dette system bruger sensorer til at opdage køretøjer, der nærmer sig fra siden, når man bakker ud af en parkeringsplads eller indkørsel.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfrit på Porsche Taycan Sport Turismo (GEN1), dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Ekstraudstyr på Porsche Taycan Sport Turismo (GEN1), dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Porsche Taycan Sport Turismo (GEN1), dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Porsche Taycan Sport Turismo (GEN1), dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Porsche Taycan Sport Turismo (GEN1), dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
+[**Automatisk Nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Porsche Taycan Sport Turismo (GEN1), dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfrit på Porsche Taycan Sport Turismo (GEN1), dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Ekstraudstyr på Porsche Taycan Sport Turismo (GEN1), dette system hjælper med at opdage trafik i blinde vinkler.
 
 ### Køreautomatisering
 
 Porsche Taycan Sport Turismo (GEN1) tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med  niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (ekstraudstyr)
 
-Med det valgfrie Porsche InnoDrive niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
+Med det valgfrie Porsche InnoDrive niveau 2-system får du yderligere køreautomatiseringsfunktioner ud over dem, der er nævnt ovenfor:
 
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
 
 ## Sikkerheds- og adgangsteknologier
 
-Porsche Taycan Sport Turismo (GEN1) er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+Porsche Taycan Sport Turismo (GEN1) er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Med den standard nøglefri start og valgfri nøglefri adgang kan du låse og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
+- **Nøglefri adgang og start:** Med standard nøglefri start og valgfri nøglefri adgang kan du låse op og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 446 liter. Med det bageste sæde foldet ned, udvides dette til 1212 liter. På taget kan du laste op til 75 kg.
+Bagagerummet har en lastkapacitet på 446 liter (15,8 CU FT). Med bagsædet lagt ned udvides dette til 1212 liter (42,8 CU FT). På taget kan du laste op til 75 kg (165,3 lbs).
 
-Køretøjets maksimale vægt er 2795 kg, med en basisvægt på 2075 kg. Dette giver en maksimal last på 720 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 2795 kg (6162 lbs), med en egenvægt på 2075 kg (4575 lbs). Dette giver en maksimal last på 720 kg (1587 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
-Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
+Denne model fås ikke med anhængertræk. Så hvis du skal trække en trailer, må du kigge på andre modeller.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo_gen1/trunk_1_st.jpg" title="Porsche Taycan Sport Turismo (GEN1)" width="3000" height="1747"  >}}
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
 
-{{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Range" >}}
+{{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

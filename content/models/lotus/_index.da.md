@@ -1,5 +1,5 @@
 ---
-title: Lotus EV-modeller
+title: Lotus EV modeller
 linktitle: "Lotus"
 description: "Lotus, the British sports car maker famous for its lightweight and agile models, is undergoing a radical transformation. The company, which is now owned by Chinese giant Geely, has announced that it will stop producing combustion-engined cars after the launch of the Emira, its last petrol-powered model. "
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Lotus Eletre er en luksus-SUV tilgængelig i 3 varianter.
+Lotus Eletre er en luksus SUV, der fås i 3 varianter.
 </p>
 	<a href="eletre/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Lotus Eletre er en luksus-SUV tilgængelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Lotus Emeya er en luksussedan tilgængelig i 3 varianter.
+Lotus Emeya er en luksusbil, der fås i 3 varianter.
 </p>
 	<a href="emeya/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

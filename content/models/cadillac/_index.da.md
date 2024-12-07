@@ -1,5 +1,5 @@
 ---
-title: Cadillac EV-modeller
+title: Cadillac EV modeller
 linktitle: "Cadillac"
 description: "Cadillac, en pioner inden for amerikanske luksusbiler siden 1902, blander arv med innovation. Som General Motors' premium mærke driver Cadillac nu et dristigt skift mod elektrificering. Med en forpligtelse til en fuldelektrisk lineup inden 2030 fokuserer mærket på avanceret teknologi, bæredygtighed og opretholdelse af sin karakteristiske luksusappel."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Cadillac ESCALADE er en SUV tilgængelig i 1 varianter.
+Cadillac ESCALADE er en SUV, der fås i 1 varianter.
 </p>
 	<a href="escalade/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Cadillac ESCALADE er en SUV tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Cadillac LYRIQ er en SUV tilgængelig i 2 varianter.
+Cadillac LYRIQ er en SUV, der fås i 2 varianter.
 </p>
 	<a href="lyriq/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -56,7 +56,7 @@ Cadillac LYRIQ er en SUV tilgængelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Cadillac OPTIQ er en SUV tilgængelig i 1 varianter.
+Cadillac OPTIQ er en SUV, der fås i 1 varianter.
 </p>
 	<a href="optiq/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -71,7 +71,7 @@ Cadillac OPTIQ er en SUV tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Cadillac VISTIQ er en SUV tilgængelig i 1 varianter.
+Cadillac VISTIQ er en SUV, der fås i 1 varianter.
 </p>
 	<a href="vistiq/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

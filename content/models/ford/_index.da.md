@@ -1,5 +1,5 @@
 ---
-title: Ford EV-modeller
+title: Ford EV modeller
 linktitle: "Ford"
 description: "Ford is one of the world's leading automakers, with a history of innovation and excellence that spans more than a century. Ford is also committed to leading the transition to a more sustainable and electrified future, with a range of hybrid and electric vehicles (EVs) that offer performance, efficiency, technology and convenience."
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        Nuværende modeller
+                        Aktuelle modeller
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Ford Capri er en Coupe SUV tilgængelig i 2 varianter.
+Ford Capri er en coupé SUV, der fås i 2 varianter.
 </p>
 	<a href="capri/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -41,7 +41,7 @@ Ford Capri er en Coupe SUV tilgængelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Ford Explorer er en crossover tilgængelig i 3 varianter.
+Ford Explorer er en crossover, der fås i 3 varianter.
 </p>
 	<a href="explorer/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -56,7 +56,7 @@ Ford Explorer er en crossover tilgængelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Ford F150 Lightning er en pickup truck tilgængelig i 2 varianter.
+Ford F150 Lightning er en pickup truck, der fås i 2 varianter.
 </p>
 	<a href="f150_lightning/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -71,7 +71,7 @@ Ford F150 Lightning er en pickup truck tilgængelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Ford Mustang Mach-E er en Coupe SUV tilgængelig i 5 varianter.
+Ford Mustang Mach-E er en coupé SUV, der fås i 5 varianter.
 </p>
 	<a href="mustang_mach-e/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
@@ -86,7 +86,7 @@ Ford Mustang Mach-E er en Coupe SUV tilgængelig i 5 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Ford Puma er en crossover tilgængelig i 1 varianter.
+Ford Puma er en crossover, der fås i 1 varianter.
 </p>
 	<a href="puma/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

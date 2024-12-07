@@ -1,7 +1,7 @@
 ---
 title: BYD Seal RWD galleri
 linktitle: "Galleri"
-description: "Se nedenfor for vores store BYD Seal RWD-billedgalleri. Klik på billederne for versioner i høj opløsning."
+description: "Se nedenfor for vores store BYD Seal RWD billedgalleri. Klik på billederne for versioner i høj opløsning."
 weight: 5
 hidden: true
 navicon: bi-images

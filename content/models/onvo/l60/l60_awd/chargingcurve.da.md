@@ -1,14 +1,14 @@
 ---
-title: Onvo L60 AWD opladningskurve og ydeevne
-linktitle: "Opladningskurve"
-description: "Nedan är laddningskurvan för Onvo L60 AWD, som illustrerar laddningshastigheten vid olika batterinivåer. Dessutom ger grafer för räckvidd och tid omfattande detaljer om laddningsprestanda."
+title: Onvo L60 AWD ladekurve og ydelse
+linktitle: "Ladekurve"
+description: "Herunder er opladningskurven for Onvo L60 AWD, der viser ladehastigheden ved forskellige batteriniveauer. Derudover giver grafer for rækkevidde og tid omfattende detaljer om opladningsydelsen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskellige batteripakker.
+Denne model fås med flere batterier. Herunder finder du ydelsen for de forskellige batteripakker.
 
 ### 85 kWh 85kWh
 
@@ -18,7 +18,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 
 
 <div class="alert alert-primary" role="alert">
-Opladningskurven for denne model er baseret på producentdata og indsigt i opladningsydelsen af lignende batteripakker.
+Ladekurven for denne model er udledt af producentdata og indsigt i ladeydelsen af lignende batteripakker.
 </div>
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -33,7 +33,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 	<tbody>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 0 - 100 %
+				Gennemsnitlig ladehastighed 0-100%
 			</td>
 			<td>
 				143,9 kW
@@ -41,7 +41,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-100 %
+				Gennemsnitlig ladehastighed 10-100%
 			</td>
 			<td>
 				139,0 kW
@@ -49,7 +49,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-90 %
+				Gennemsnitlig ladehastighed 10-90%
 			</td>
 			<td>
 				175,0 kW
@@ -57,7 +57,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-80 %
+				Gennemsnitlig ladehastighed 10-80%
 			</td>
 			<td>
 				183,2 kW
@@ -65,7 +65,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Maks C-Rate
+				Maksimal C-Rate
 			</td>
 			<td>
 				3,08
@@ -73,7 +73,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig C-rate
+				Gennemsnitlig C-Rate
 			</td>
 			<td>
 				2,17
@@ -89,7 +89,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningshastighed inkluderet 5 minutters tab
+				Optimal ladehastighed inklusiv 5 minutters tab
 			</td>
 			<td>
 				153,5kW
@@ -97,7 +97,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningsstoptid
+				Optimal ladetid
 			</td>
 			<td>
 				27m44s
@@ -122,7 +122,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 	<tbody>
 		<tr>
 			<td>
-				Opladningstid 0 - 100%
+				Ladetid 0-100%
 			</td>
 			<td>
 				 37 m 31 s
@@ -130,7 +130,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-100%
+				Ladetid 10-100%
 			</td>
 			<td>
 				 34 m 57 s
@@ -138,7 +138,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-80%
+				Ladetid 10-80%
 			</td>
 			<td>
 				 20 m 37 s
@@ -173,7 +173,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 	<tbody>
 		<tr>
 			<td>
-				Rækkevidde per minut 0-100%
+				Rækkevidde pr. minut 0-100%
 			</td>
 			<td>
 				?
@@ -190,7 +190,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-100%
+				Rækkevidde pr. minut 10-100%
 			</td>
 			<td>
 				?
@@ -207,7 +207,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-80%
+				Rækkevidde pr. minut 10-80%
 			</td>
 			<td>
 				?
@@ -227,7 +227,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 </div>
 
 
-Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
+Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kolde eller varme temperaturer kan dog påvirke kurven betydeligt. Denne kurve er også baseret på start af opladning ved lav batteristatus. Derfor kan tilslutning ved højere niveau påvirke kurven positivt eller negativt. Læs mere om hvad der påvirker ladehastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -245,7 +245,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				Tid
 			</th>
 			<th>
-				Energi opladet
+				Opladet energi
 			</th>
 		</tr>
 	</thead>
@@ -1676,7 +1676,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 
 
 <div class="alert alert-primary" role="alert">
-Opladningskurven for denne model er baseret på producentdata og indsigt i opladningsydelsen af lignende batteripakker.
+Ladekurven for denne model er udledt af producentdata og indsigt i ladeydelsen af lignende batteripakker.
 </div>
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -1691,7 +1691,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 	<tbody>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 0 - 100 %
+				Gennemsnitlig ladehastighed 0-100%
 			</td>
 			<td>
 				74,3 kW
@@ -1699,7 +1699,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-100 %
+				Gennemsnitlig ladehastighed 10-100%
 			</td>
 			<td>
 				75,6 kW
@@ -1707,7 +1707,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-90 %
+				Gennemsnitlig ladehastighed 10-90%
 			</td>
 			<td>
 				93,9 kW
@@ -1715,7 +1715,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig opladningshastighed 10-80 %
+				Gennemsnitlig ladehastighed 10-80%
 			</td>
 			<td>
 				98,6 kW
@@ -1723,7 +1723,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Maks C-Rate
+				Maksimal C-Rate
 			</td>
 			<td>
 				2,08
@@ -1731,7 +1731,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Gennemsnitlig C-rate
+				Gennemsnitlig C-Rate
 			</td>
 			<td>
 				1,54
@@ -1747,7 +1747,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningshastighed inkluderet 5 minutters tab
+				Optimal ladehastighed inklusiv 5 minutters tab
 			</td>
 			<td>
 				82,9kW
@@ -1755,7 +1755,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Optimal opladningsstoptid
+				Optimal ladetid
 			</td>
 			<td>
 				30m53s
@@ -1780,7 +1780,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 	<tbody>
 		<tr>
 			<td>
-				Opladningstid 0 - 100%
+				Ladetid 0-100%
 			</td>
 			<td>
 				 47 m 39 s
@@ -1788,7 +1788,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-100%
+				Ladetid 10-100%
 			</td>
 			<td>
 				 42 m 7 s
@@ -1796,7 +1796,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Opladningstid 10-80%
+				Ladetid 10-80%
 			</td>
 			<td>
 				 25 m 8 s
@@ -1831,7 +1831,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 	<tbody>
 		<tr>
 			<td>
-				Rækkevidde per minut 0-100%
+				Rækkevidde pr. minut 0-100%
 			</td>
 			<td>
 				?
@@ -1848,7 +1848,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-100%
+				Rækkevidde pr. minut 10-100%
 			</td>
 			<td>
 				?
@@ -1865,7 +1865,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 		</tr>
 		<tr>
 			<td>
-				Rækkevidde per minut 10-80%
+				Rækkevidde pr. minut 10-80%
 			</td>
 			<td>
 				?
@@ -1885,7 +1885,7 @@ Opladningskurven for denne model er baseret på producentdata og indsigt i oplad
 </div>
 
 
-Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
+Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kolde eller varme temperaturer kan dog påvirke kurven betydeligt. Denne kurve er også baseret på start af opladning ved lav batteristatus. Derfor kan tilslutning ved højere niveau påvirke kurven positivt eller negativt. Læs mere om hvad der påvirker ladehastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -1903,7 +1903,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 				Tid
 			</th>
 			<th>
-				Energi opladet
+				Opladet energi
 			</th>
 		</tr>
 	</thead>
@@ -3327,4 +3327,4 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 </div>
 
 
-{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rækkevidde" f_url="../specifications/" f_title="Specifikationer" >}}

@@ -1,7 +1,7 @@
 ---
 title: Tesla Model Y Standard Range
 linktitle: "Model Y Standard Range"
-description: "Tesla Model Y Standard Range er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 430 km (267 miles). EVKX.net har alle detaljerne."
+description: "Tesla Model Y Standard Range er en elektrisk coupé SUV med en WLTP rækkevidde på op til 430 km (267 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,124 +11,124 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/main_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2250"  >}}
 
-Vi har opdelt vores Tesla Model Y Standard Range artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-Tesla Model Y Standard Range leverer en solid præstation med en maksimal effekt på 255 kW (347 hk) og et totalt drejningsmoment på 420 Nm. Den kan accelerere fra 0 til 100 km/t på 6,9 sekunder og når en topfart på 217 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+Tesla Model Y Standard Range leverer en solid præstation med en maksimal effekt på 255 kW (347 hk / 342 bhp) og et samlet drejningsmoment på 420 Nm (310 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 6,9 sekunder og når en tophastighed på 217 km/t (135 mph), hvilket gør den konkurrencedygtig inden for sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Tesla Model Y Standard Range har fire batterimuligheder med forskellige specifikationer. Nedenfor kan du se, hvordan dette påvirker rækkevidde og opladning.
+Tesla Model Y Standard Range fås med fire batterimuligheder, der hver især tilbyder forskellige specifikationer og ydelsesparametre.
 
 ### CATL LFP Europa/China market
 
-Det højkapacitetsbatteri har en bruttokapacitet på 60,0 kWh og en nettoanvendelig kapacitet på 55,0 kWh, hvilket giver en buffer på 5,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 340 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitets batteri har en brutto kapacitet på 60,0 kWh og en netto kapacitet på 55,0 kWh, hvilket giver en 5,0 kWh buffer (8,3%) til batteribeskyttelse. Med en nominel spænding på 340 volt klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Lithium-ion batteriet bruger [LFP-teknologi](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), hvilket giver både fordele og ulemper sammenlignet med typiske NCA/NMC-batterier.
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 430 km, med et energiforbrugsrate på 12,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er køretøjets rækkevidde 430 km (267 miles), med et energiforbrug på 12,8 kWh/100 km (3 mi/kWh). For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 53 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 28 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 47%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 87kW. Hver opladningssession ville tage 18 minutter og 46 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 250 kW. Opladning fra 0% til 100% tager cirka 53 minutter, mens et mere typisk scenario fra 10% til 80% tager 28 minutter med en gennemsnitlig ladehastighed på 82 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 0% til 47%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 87 kW, hvor hver opladningssession tager cirka 18 minutter og 46 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 56 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 51%, med en samlet opladningstid på 97 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 56 minutter, med fem opladningsstop fra 0% til 51%, i alt 97 minutters opladningstid.
 
 ### BYD LFP Europa/China market
 
-Det højkapacitetsbatteri har en bruttokapacitet på 60,0 kWh og en nettoanvendelig kapacitet på 55,0 kWh, hvilket giver en buffer på 5,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 340 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitets batteri har en brutto kapacitet på 60,0 kWh og en netto kapacitet på 55,0 kWh, hvilket giver en 5,0 kWh buffer (8,3%) til batteribeskyttelse. Med en nominel spænding på 340 volt klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Lithium-ion batteriet bruger [LFP-teknologi](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), hvilket giver både fordele og ulemper sammenlignet med typiske NCA/NMC-batterier.
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 430 km, med et energiforbrugsrate på 12,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er køretøjets rækkevidde 430 km (267 miles), med et energiforbrug på 12,8 kWh/100 km (3 mi/kWh). For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 38 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 63%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 111kW. Hver opladningssession ville tage 19 minutter og 46 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 250 kW. Opladning fra 0% til 100% tager cirka 38 minutter, mens et mere typisk scenario fra 10% til 80% tager 18 minutter med en gennemsnitlig ladehastighed på 126 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 0% til 63%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 111 kW, hvor hver opladningssession tager cirka 19 minutter og 46 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 36 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 64%, med en samlet opladningstid på 76 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 36 minutter, med fire opladningsstop fra 0% til 64%, i alt 76 minutters opladningstid.
 
 ### NMC 4850 US Market
 
-Det højkapacitetsbatteri har en bruttokapacitet på 70,0 kWh og en nettoanvendelig kapacitet på 68,5 kWh, hvilket giver en buffer på 1,5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 340 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitets batteri har en brutto kapacitet på 70,0 kWh og en netto kapacitet på 68,5 kWh, hvilket giver en 1,5 kWh buffer (2,1%) til batteribeskyttelse. Med en nominel spænding på 340 volt klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette lithium-ion batteri bruger [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 430 km, med et energiforbrugsrate på 12,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er køretøjets rækkevidde 430 km (267 miles), med et energiforbrug på 12,8 kWh/100 km (3 mi/kWh). For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 86 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 42 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 35%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 81kW. Hver opladningssession ville tage 18 minutter og 46 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 250 kW. Opladning fra 0% til 100% tager cirka 86 minutter, mens et mere typisk scenario fra 10% til 80% tager 42 minutter med en gennemsnitlig ladehastighed på 69 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 0% til 35%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 81 kW, hvor hver opladningssession tager cirka 18 minutter og 46 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 53 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 37%, med en samlet opladningstid på 94 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 53 minutter, med fem opladningsstop fra 0% til 37%, i alt 94 minutters opladningstid.
 
 ### NMC 21700 US Market Software locked
 
-Det højkapacitetsbatteri har en bruttokapacitet på 70,0 kWh og en nettoanvendelig kapacitet på 68,5 kWh, hvilket giver en buffer på 1,5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 340 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitets batteri har en brutto kapacitet på 70,0 kWh og en netto kapacitet på 68,5 kWh, hvilket giver en 1,5 kWh buffer (2,1%) til batteribeskyttelse. Med en nominel spænding på 340 volt klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette lithium-ion batteri bruger [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 430 km, med et energiforbrugsrate på 12,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er køretøjets rækkevidde 430 km (267 miles), med et energiforbrug på 12,8 kWh/100 km (3 mi/kWh). For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 41 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 24 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 59%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 109kW. Hver opladningssession ville tage 22 minutter og 11 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 250 kW. Opladning fra 0% til 100% tager cirka 41 minutter, mens et mere typisk scenario fra 10% til 80% tager 24 minutter med en gennemsnitlig ladehastighed på 120 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 0% til 59%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 109 kW, hvor hver opladningssession tager cirka 22 minutter og 11 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 30 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 62%, med en samlet opladningstid på 70 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 19,5 kWh/100 km, ville turen tage cirka 9 timer og 30 minutter, med tre opladningsstop fra 0% til 62%, i alt 70 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 5 timer og 0 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 5 timer og 0 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 
-Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/charging/connectors/#rear-corner). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**NACS**](../../../../technology/charging/connectors/# nacs) for Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se de fulde specifikationer for alle markeder.
+Ladeporten er bekvemt placeret på [venstre baghjørne](../../../../technology/charging/connectors/#rear-corner) af køretøjet, hvilket letter adgangen når du bakker ind til ladestationer. Stiktyperne varierer mellem forskellige markeder. Denne model bruger [**NACS**](../../../../technology/charging/connectors/#nacs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-Tesla Model Y Standard Range har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Tesla Model Y Standard Range har et baghjulstræksystem understøttet af én motor på bagakslen. Den anvendte motor er en [permanent magnet synkronmotor](../../../../technology/motors/pmsm/).
 
-### Hjulophæng
+### Affjedring
 
-Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 167 mm.
+Forhjulsophænget bruger et [dobbelt wishbone](../../../../technology/suspension/#double-wishbone) design, mens baghjulsophænget bruger et [Multilink](../../../../technology/suspension/#multilink) setup. Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere. standard affjedringen har fast højde og dæmpning. Frihøjden med denne affjedring er 167 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funktion på Tesla Model Y Standard Range. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+Dynamisk styring er standard på Tesla Model Y Standard Range, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort.
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 355mm, og de bagerste skiver er 335mm.
+Tesla Model Y Standard Range er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag. De forreste skiver måler 355 mm, mens de bageste skiver er 335 mm.
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) i denne model er primært faciliteret gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving). I modsætning til nogle modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller kørsel på frihjul ikke tilgængelig her. Denne model tilbyder tre stopmodi til en-pedal kørsel: <ul><li>**Hold mode** stopper køretøjet helt ved brug af friktionsbremser</li><li>**Roll mode** tillader køretøjet at rulle, indtil det stopper naturligt</li><li>**Creep mode** bevæger bilen fremad ved lav hastighed</li></ul>
+[Regenerativ bremsning](../../../../technology/regen/) i denne model er primært muliggjort gennem [**én-pedal kørsel**](../../../../technology/regen/#one-pedal-driving). I modsætning til nogle modeller er [Automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive) eller friløb ikke tilgængelig her. Denne model tilbyder tre stoptilstande for én-pedal kørsel: <ul><li>**Hold tilstand** bringer køretøjet til et komplet stop ved hjælp af friktionsbremser</li><li>**Rul tilstand** lader køretøjet rulle indtil det stopper naturligt</li><li>**Kryb tilstand** får bilen til at bevæge sig fremad ved lav hastighed</li></ul>
 
-Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er to niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
+Derudover kan du justere styrken af den regenerative bremsning når du løfter foden fra speederen. Der er to niveauer af regenerativ bremsning at vælge imellem, så du kan tilpasse køreoplevelsen efter dine præferencer.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den Tesla Model Y Standard Range, med dimensioner på 4751 mm i længde, 1921 mm i bredde og 1624 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Tesla Model Y Standard Range fås i alt 6 lakfarver, herunder både solide og metalliske muligheder.
+Tesla Model Y Standard Range, med dimensioner på 4751 mm i længde, 1921 mm i bredde og 1624 mm i højde, tilhører kategorien Kompakt SUV, også kendt som C-SUV. Disse tilbyder en balance mellem mindre bilers praktiske egenskaber og manøvredygtighed og større SUV'ers plads og alsidighed. Tesla Model Y Standard Range fås i alt i 6 lakfarver, inklusive både almindelige og metalliske muligheder.
 
-Du kan vælge mellem flere hjul i forskellige størrelser på Tesla Model Y Standard Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Tesla Model Y Standard Range tilbyder flere hjulmuligheder i forskellige størrelser, så du kan tilpasse din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 255/45 dæk on 19" fælge
-- 255/40 dæk on 20" fælge
-- 255/35 dæk på 21" fælge foran og 275/35 dæk på 21" fælge bagpå
+- 255/45 dæk på 19" fælge
+- 255/40 dæk på 20" fælge
+- 255/35 dæk på 21" fælge foran og 275/35 dæk på 21" fælge bag
 
-Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+Smallere hjul forbedrer forbruget og giver længere rækkevidde, mens bredere hjul giver bedre vejgreb og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Lågen er elektrisk drevet og har en kick-sensor som standard.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate). Bagklappen er elektrisk betjent og har fodsensor som standard.
 
-Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
+Der er kun én tagmulighed for denne model. Standardtaget inkluderer et stort panoramatag i glas, der strækker sig fra for til bag, hvilket forbedrer interiørets rummelige og lyse fornemmelse og dermed forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
 
-Ruderne fra B-stolpen og bagsiden er tonede.
+Ruderne fra B-søjlen og bagud er tonede, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/exterior_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2455"  >}}
 
@@ -138,44 +138,44 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Interiøret i Tesla Model Y Standard Range er designet med en minimalistisk æstetik og har materialer af mellem kvalitet overalt. En traditionel midterkonsol adskiller fører og passager og tilbyder praktiske opbevaringsløsninger og forbedret funktionalitet. Du kan vælge mellem flere interiørdesigns.
+Interiøret i Tesla Model Y Standard Range er designet med en minimalistisk æstetik og har materialer af mellem kvalitet overalt. En traditionel midterkonsol adskiller fører og passager, og giver praktiske opbevaringsløsninger og forbedret funktionalitet. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
-Derudover tilbyder modellen et traditionelt fem-sædet layout eller et valgfrit syv-sædet layout.
+Tesla Model Y Standard Range fås i en standard femsæders konfiguration, med en valgfri syvsæders opsætning for øget alsidighed.
 
-#### Første række sæder
+#### Forsæder
 
-Tesla Model Y Standard Range tilbyder kun én type forreste sæde.
+Tesla Model Y Standard Range tilbyder én type forsæde.
 
-Følgende funktioner er tilgængelige på **standard** sædet.
+Følgende funktioner er tilgængelige på **standard** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
+- [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory)
 
-Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Black/White [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black [kunstlæderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black/White [kunstlæderbetræk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/frontseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
-#### Sæde på anden række
+#### Anden række sæder
 
-Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Anden række har en standard tresæders bænk med 60:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/secondrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
-#### Sæder på tredje række
+#### Tredje række sæder
 
-Tredje række har en valgfri to-sædet bænk med en 50:50 split. Igen kan du folde sæderne ned, når de ikke bruges for at skabe en større lastkapacitet.
+Tredje række har en valgfri tosæders bænk med en 50:50 opdeling. Du kan også folde sæderne ned, når de ikke bruges, for at skabe mere bagagerumsplads.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/thirdrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
@@ -183,187 +183,187 @@ Tredje række har en valgfri to-sædet bænk med en 50:50 split. Igen kan du fol
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
-- **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
+- **1-zone klimaanlæg:** Understøtter kun styring af én fælles zone for hele bilen.
 
-En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, hvilket kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-Tesla Model Y Standard Range inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+Tesla Model Y Standard Range inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
 - **Elektrisk justerbart rat**
-- **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
-- **Trådløs opladning af telefon**
+- **Easy Entry Funktion:** Flytter førersædet for at lette indstigning i bilen.
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-Kontrolgrænsefladen for denne EV-model er fokuseret omkring skærminteraktion og har kun begrænset funktionalitet tilgængelig på knapper og stænger. For nogle kan dette medføre mindre end ideel brugeroplevelse og anvendelighed.
+Kontrolgrænsefladen for Tesla Model Y Standard Range er primært fokuseret på skærminteraktion, med begrænset funktionalitet tilgængelig via fysiske knapper og kontaktarme. Dette design kan resultere i en mindre end ideel brugeroplevelse for nogle brugere.
 
-Tesla Model Y Standard Range har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
+Tesla Model Y Standard Range har en enkelt skærm til føreren. Instrumentbrættets midte har en enkelt [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen), der fungerer som den primære skærm for både køretøjsinformation og infotainment-funktioner.
 
 Vigtige skærmdetaljer:
 
-- Skærmen touch i dashboardets midte er 15,0 tommer stor
+- Den touch skærm på midten af instrumentbrættet er 15,0 tommer stor
 
-Modellen har ikke et head-up display.
+Modellen inkluderer ikke et head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/screens_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="1800"  >}}
 
 ### Rat
 
-Tesla Model Y Standard Range er udstyret med en enkelt type rat:
+Tesla Model Y Standard Range er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det inkluderer også to multifunktionelle rullehjul, der giver dig mulighed for at kontrollere infotainmentsystemet, justere lydstyrken, skifte musiknumre og nemt styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat har integreret varme for ekstra komfort i koldt vejr. Det har også to multifunktionelle scrollhjul, der giver dig mulighed for at styre infotainmentsystemet, justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner med lethed.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
-Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+Denne model kommer med stemmestyring som standard, der giver dig mulighed for at styre forskellige funktioner gennem stemmekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
-Den Tesla Model Y Standard Range har et Tesla Infotainment-system, der kører på et specialbygget, Linux-baseret operativsystem, designet til en glat og responsiv brugeroplevelse. Den intuitive grænseflade er optimeret for nem brug, hvilket gør det muligt for føreren at navigere gennem menuer og indstillinger med minimale distraktioner. Systemet understøtter over-the-air opdateringer, hvilket sikrer kontinuerlige forbedringer og adgang til de nyeste funktioner uden behov for et værkstedbesøg. Strømlinet stemmekontrolfunktionalitet og touchskærmskontroller giver hurtig adgang til væsentlige funktioner og forbedrer den samlede anvendelighed. Operativsystemet tilbyder også en høj grad af tilpasning, hvilket giver brugerne mulighed for at skræddersy deres oplevelse efter deres præferencer.
+Tesla Model Y Standard Range har et Tesla Infotainmentsystem der kører på et specialbygget Linux-baseret OS, designet til en jævn og responsiv brugeroplevelse. Den intuitive grænseflade er optimeret for brugervenlighed, så førere kan navigere i menuer og indstillinger med minimal distraktion. Systemet understøtter trådløse opdateringer, hvilket sikrer løbende forbedringer og adgang til de nyeste funktioner uden behov for værkstedsbesøg. Strømlinet stemmestyring og touchskærm giver hurtig adgang til vigtige funktioner. OS'et tilbyder også en høj grad af tilpasning, så brugerne kan skræddersy deres oplevelse.
 
 ### Navigationssystem
 
-Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning, hvor du kan definere det ønskede ladningsniveau ved din destination eller under ladestop. Systemet giver realtids trafikoplysninger, der sikrer en effektiv og stressfri rejse.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning, hvor du kan definere ønsket ladeniveau ved destinationen eller under ladestop. Systemet giver realtids trafikinformation, der sikrer en effektiv og stressfri rejse.
 
-### Forudinstallerede Apps
+### Forudinstallerede apps
 
-Mens infotainmentsystemet ikke inkluderer en appbutik, leveres det med et udvalg af forudinstallerede tredjepartsapps, der kører direkte på bilens skærm, uafhængigt af en tilsluttet telefon. De tilgængelige apps varierer afhængigt af markedet, men inkluderer populære muligheder såsom:
+Selvom infotainmentsystemet ikke inkluderer en app-butik, kommer det med et udvalg af forudinstallerede tredjepartsapps, der kører direkte på bilens skærm uafhængigt af en tilsluttet telefon. De tilgængelige apps varierer efter marked, men inkluderer populære muligheder som:
 
-- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver uendelige underholdningsmuligheder under kørslen.
-- **Netflix** Nyd film og shows direkte fra din bils skærm, perfekt til underholdning, mens du holder parkeret.
-- **YouTube** Se dine yndlingsvideoer, kanaler og playlister på bilens infotainmentskærm, hvilket gør det nemt at holde sig underholdt, mens du holder parkeret.
-- **Twitch** Stream live gaming-indhold eller se dine yndlingsstreamere på farten.
-- **TIDAL** Nyd musikstreaming i høj kvalitet og eksklusivt indhold fra dine yndlingskunstnere, der leverer en førsteklasses lydoplevelse direkte til dit køretøj.
-- **TuneIn** Få adgang til live radiostationer, podcasts og nyheder fra hele verden.
+- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver endeløse underholdningsmuligheder under kørslen.
+- **Netflix:** Se film og serier direkte på bilens skærm, perfekt til underholdning når bilen holder stille.
+- **YouTube:** Se dine yndlingsvideoer, kanaler og playlister på bilens infotainmentskærm, så du let kan blive underholdt når bilen holder stille.
+- **Twitch:** Stream live gaming-indhold eller se dine yndlingsstreamere på farten.
+- **TIDAL:** Nyd high-fidelity musikstreaming og eksklusivt indhold fra dine yndlingskunstnere, der leverer en premium lydoplevelse direkte i din bil.
+- **TuneIn:** Få adgang til live radiostationer, podcasts og nyheder fra hele verden.
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Tesla Model Y Standard Range.
+Tesla Model Y Standard Range kommer med ét lydsystem:
 
-- Med Tesla Premium Sound får du 13 højttalere med en maksimal systemeffekt på 560 watt.
+- **Tesla Premium Sound:** Har 13 højttalere og leverer en maksimal effekt på 560 watt.
 
-Modellen har 4 USB-C-forbindelser som standard.
+Derudover inkluderer modellen 4 USB-C tilslutninger som standard.
 
-## Mobilapp
+## Mobil App
 
-Den Tesla Model Y Standard Range kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
+Tesla Model Y Standard Range kommer med en dedikeret mobilapp, tilgængelig til både Android og iOS-enheder, så du kan styre og overvåge din bil på afstand. Appen tilbyder en bred vifte af funktioner designet til at forbedre din køreoplevelse:
 
-- **Find din bil**: Tjek nemt bilens aktuelle placering.
-- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
-- **Fjernparkering**: Styr din bil nemt for at parkere eller forlade en parkeringsplads eksternt.
-- **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
-- **Vindueskontrol**: Åbn og luk vinduerne hvor som helst fra.
-- **Planlagt opladning**: Planlæg og tidsindstil opladningssessioner før dine ture.
-- **Juster ladningsmål**: Indstil din ønskede opladningstilstand for at starte eller stoppe opladning efter behov.
-- **Find din bil**: Aktiver hornet eller lysene for at finde din bil i tæt befolkede områder.
-- **Ruteplanlægning**: Planlæg din rute og send den direkte til bilens navigationssystem.
-- **Kørehistorik**: Gennemgå detaljer om dine tidligere ture.
+- **Find din bil:** Se nemt bilens aktuelle placering.
+- **Forkonditionering:** Forvarm eller afkøl din bil, før du starter din rejse, for optimal komfort.
+- **Fjernparkering:** Styr din bil til at parkere eller forlade en parkeringsplads på afstand.
+- **Lås og lås op:** Lås eller lås dine bildøre op sikkert med et tryk.
+- **Vindueskontrol:** Åbn og luk vinduer fra hvor som helst.
+- **Planlagt opladning:** Planlæg og programsæt opladningssessioner før dine ture.
+- **Juster ladeniveau:** Indstil dit ønskede ladeniveau for at starte eller stoppe opladningen efter behov.
+- **Find din bil:** Aktiver hornet eller lygterne for at hjælpe med at finde din bil i tætpakkede områder.
+- **Ruteplanlægning:** Planlæg din rute og send den direkte til bilens navigationssystem.
+- **Kørselshistorik:** Gennemgå detaljerne for dine tidligere ture.
 
-## Lys
+## Lygter
 
-De standard forlygter bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt for at dæmpe små områder foran.
+Tesla Model Y Standard Range er udstyret med avancerede LED Matrix-forlygter. Dette adaptive system opdeler den traditionelle enkeltstråle i flere mindre stråler, så lyskontrolenheden selektivt kan tænde og slukke dem for at undgå at blænde andre bilister. For øget sikkerhed inkluderer forlygterne også kurvelys, der oplyser siden ved drejning.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerede førerassistentsystemer
 
-Den Tesla Model Y Standard Range inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+Tesla Model Y Standard Range har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
 ### Sikkerhedssystemer
 
-[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Tesla Model Y Standard Range, dette system forhindrer hjulene i at låse under opbremsning.
+[**Antiblokeringssystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Tesla Model Y Standard Range, dette system forhindrer hjulene i at låse under bremsning.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Tesla Model Y Standard Range, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+[**Elektronisk Stabilitetskontrol (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Tesla Model Y Standard Range, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte veje.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Tesla Model Y Standard Range, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Tesla Model Y Standard Range, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Tesla Model Y Standard Range, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
+[**Front Tværgående Trafik Assistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Tesla Model Y Standard Range, dette førerassistentsystem hjælper førere med at registrere modkørende trafik ved krydsning af et vejkryds eller når der drejes til venstre eller højre fra stillestående position.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Tesla Model Y Standard Range, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Tesla Model Y Standard Range, dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Tesla Model Y Standard Range, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Tesla Model Y Standard Range, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Tesla Model Y Standard Range, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
+[**Automatisk Nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Tesla Model Y Standard Range, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Tesla Model Y Standard Range, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Tesla Model Y Standard Range, dette system hjælper med at opdage trafik i blinde vinkler.
 
 ### Køreautomatisering
 
 Tesla Model Y Standard Range tilbyder [køreautomatisering på niveau 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med standard Basic Autopilot niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med det standard Basic Autopilot niveau 2-system får du følgende køreautomatiseringsfunktioner.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
 
-Med det valgfrie Enhanced Autopilot niveau 2-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
+Med det valgfrie Enhanced Autopilot niveau 2-system får du yderligere køreautomatiseringsfunktioner ud over dem, der er nævnt ovenfor:
 
-- Avanceret fartpilot, der følger navigationen og slår fra og til på større veje for at nå målet.
-- - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- Avanceret fartpilot der følger navigation og slår til og fra på større veje for at nå destinationen.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Med det valgfrie Full Self-Driving Capability niveau 3-system får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor:
+Med det valgfrie Full Self-Driving Capability niveau 3-system får du yderligere køreautomatiseringsfunktioner ud over dem, der er nævnt ovenfor:
 
-- Trafiklys kontrol - følg trafiklysene.
-- Stopskiltkontrol - følg stopskilt.
+- Trafiklysstyring - følger trafiklys.
+- Stopskiltskontrol - følger stopskilte.
 
 ### Sensorer & Kameraer
 
-Denne model bruger kun kameraer til sine førerassistentsystemer. Dette design begrænser nøjagtigheden af kørehjælpesystemerne og gør dem mere følsomme over for vejrforhold end biler, der også bruger radar og andre sensorer.
+Denne model bruger kun kameraer til sine førerassistentsystemer. Dette design begrænser nøjagtigheden af førerassistentsystemerne og gør dem mere følsomme over for vejr end biler, der også bruger radar og andre sensorer.
 Den bruger otte [kameraer](../../../../technology/sensorsandcameras/cameras/) til at registrere alt i køretøjets omgivelser.
 
 ## Sikkerheds- og adgangsteknologier
 
-Tesla Model Y Standard Range er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse inkluderer:
+Tesla Model Y Standard Range er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
-- **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
-- **Telefon-som-nøgle funktionalitet:** Med telefon-som-nøgle teknologi kan du bruge din smartphone som en digital nøgle til at låse og starte køretøjet, hvilket giver et ekstra lag af bekvemmelighed og fleksibilitet.
-- **Alarmsystem:** Et integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at hjælpe med at afskrække indtrængen og holde dit køretøj sikkert.
-- **Integreret Dashcam:** Den indbyggede dashcam optager videooptagelser af dine rejser og fanger vigtige detaljer for at give ekstra sikkerhed, ansvarlighed og ro i sindet.
-- **Parkeringsovervågning:** Ved hjælp af sit kamerasystem overvåger køretøjet aktivt omgivelserne, mens det er parkeret, og tilbyder forbedret beskyttelse gennem kontinuerlig overvågning.
+- **Nøglefri adgang og start:** Bilens nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse op og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
+- **Telefon-som-nøgle funktion:** Med telefon-som-nøgle teknologi kan du bruge din smartphone som en digital nøgle til at låse op og starte køretøjet, hvilket giver et ekstra lag af bekvemmelighed og fleksibilitet.
+- **Alarmsystem:** Et integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at forhindre indbrud og holde dit køretøj sikkert.
+- **Integreret dashcam:** Det indbyggede dashcam optager video af dine ture og fanger vigtige detaljer for at give ekstra sikkerhed, ansvarlighed og ro i sindet.
+- **Parkeringsovervågning:** Ved hjælp af sine kameraer overvåger køretøjet aktivt omgivelserne mens det er parkeret og tilbyder forbedret beskyttelse gennem kontinuerlig overvågning.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 854 liter. Med det bageste sæde foldet ned, udvides dette til 2158 liter. På taget kan du laste op til 75 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 117 liter.
+Bagagerummet har en lastkapacitet på 854 liter (30,2 CU FT). Med bagsædet lagt ned udvides dette til 2158 liter (76,2 CU FT). På taget kan du laste op til 75 kg (165,3 lbs). Derudover er der et frunk (front-bagagerum) med en opbevaringskapacitet på 117 liter (4,1 CU FT).
 
-Køretøjets maksimale vægt er 2720 kg, med en basisvægt på 2135 kg. Dette giver en maksimal last på 585 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 2720 kg (5997 lbs), med en egenvægt på 2135 kg (4707 lbs). Dette giver en maksimal last på 585 kg (1290 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
-En anhængertræk er standardudstyr på denne model. Den maksimale tilladte vægt for en bremset trailer er 1600, og for en ubremset trailer er det 750 kg.
+Anhængertræk er standardudstyr på denne model. Den maksimale vægt på en bremset trailer er 1600 kg, og på en ubremset trailer er det 750 kg (3527/1653 lbs).
 
-## Tilgængelighed og priser
+## Tilgængelighed & Priser
 
-Denne model havde verdenspremiere den 19.03.2019, og leveringerne startede i March 2020.
+Tesla Model Y Standard Range havde sin verdenspremiere den 19.03.2019, og leveringerne startede i March 2020.
 
 ### Priser
 
-Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Herunder er startpriserne for udvalgte lande:
 
 - $47 990,00 (USA)
 - 449 990,00 NOK (Norge)
 
-## Alternative Modeller
+## Alternative modeller
 
-I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Tesla Model Y Standard Range, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til Tesla Model Y Standard Range, som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
 
 - [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
 - [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
@@ -376,4 +376,4 @@ I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alter
 
 <a href="https://db.evkx.net/evcompare?evs=fcf585%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2cf8d246%2cfc3b15%2cfd9e1f" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 
-{{< pagenavigation b_url="../" b_title="Tesla Model Y" f_url="rangeandconsumption/" f_title="Range" >}}
+{{< pagenavigation b_url="../" b_title="Tesla Model Y" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

@@ -1,7 +1,7 @@
 ---
 title: XPENG G3i
 linktitle: "G3i"
-description: "XPENG G3i er en fuldelektrisk crossover med en WLTP rækkevidde på op til 420 km (261 miles). EVKX.net har alle detaljerne."
+description: "XPENG G3i er en elektrisk crossover med en WLTP rækkevidde på op til 420 km (261 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,56 +11,56 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/main_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
 
-Vi har opdelt vores XPENG G3i artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. Klik på linkene nedenfor for at springe til forskellige områder eller læs videre for den fulde artikel. Derudover tilbyder vi et overblik over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljeret information om [ladeydelse](chargingcurve/) og nogle [online anmeldelser](reviews/). Vores sektioner inkluderer:
 
-- [Ydeevne](#ydeevne)
-- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
-- [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#udvendig)
-- [Interiør (sæder++)](#interiør)
-- [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avancerede driver-assistance-systemer](#køreautomatisering)
-- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
+- [Ydelse](#section-performance)
+- [Batteri, rækkevidde og opladning](#section-battery)
+- [Drivlinje (affjedring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (farver, hjul ++)](#section-exterior)
+- [Interiør (sæder++)](#section-interior)
+- [Brugergrænseflade og betjening](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lygter](#section-lights)
+- [Avancerede førerassistentsystemer](#section-adas)
+- [Lastkapacitet og trækkraft](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Ydeevne
+## Ydelse
 
-XPENG G3i tilbyder beskedne præstationer med en maksimal effekt på 145 kW (197 hk) og et samlet drejningsmoment på 300 Nm. Den accelererer fra 0 til 100 km/t på 8,6 sekunder og har en topfart på 170 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+XPENG G3i tilbyder beskeden ydeevne med en maksimal effekt på 145 kW (197 hk / 194 bhp) og et samlet drejningsmoment på 300 Nm (221 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 8,6 sekunder og har en tophastighed på 170 km/t (106 mph), hvilket ligger tættere på traditionelle forbrændingsmotorer.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Batteri, rækkevidde og opladning
+## Batteri, Rækkevidde og Opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 66,0 kWh og en nettoanvendelig kapacitet på 55,9 kWh, hvilket giver en buffer på 10,1 kWh (3%) til batteribeskyttelse.
+Det højkapacitets batteri har en brutto kapacitet på 66,0 kWh og en netto kapacitet på 55,9 kWh, hvilket giver en 10,1 kWh buffer (15,3%) til batteribeskyttelse.
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 420 km, med et energiforbrugsrate på 13,3 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er køretøjets rækkevidde 420 km (261 miles), med et energiforbrug på 13,3 kWh/100 km (3 mi/kWh). For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 50kW. En fuld opladning fra 0 - 100 % ville tage 91 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 52 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 8% til 79%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 41kW. Hver opladningssession ville tage 58 minutter og 50 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 50 kW. Opladning fra 0% til 100% tager cirka 91 minutter, mens et mere typisk scenario fra 10% til 80% tager 52 minutter med en gennemsnitlig ladehastighed på 45 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 8% til 79%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 41 kW, hvor hver opladningssession tager cirka 58 minutter og 50 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 13 timer og 5 minutter. Denne rejse ville kræve to opladningsstop fra 9% til 79%, med en samlet opladningstid på 285 minutter
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 13 timer og 5 minutter, med fem opladningsstop fra 9% til 79%, i alt 285 minutters opladningstid.
 
-### Ombordlader
+### Indbygget oplader
 
-Den standard ombordlader understøtter op til 6,6 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 28 minutter ved brug af en hjemmeoplader.
+Den standard indbyggede oplader understøtter op til 6,6 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 8 timer og 28 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 
-Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivetrain
+## Drivlinje
 
-XPENG G3i har et forhjulstræksystem understøttet af en motor på forakslen.
+XPENG G3i har et forhjulstræksystem understøttet af én motor på forakslen.
 
-### Hjulophæng
+### Affjedring
 
--ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 130 mm.
+affjedringen har fast højde og dæmpning. Frihøjden med denne affjedring er 130 mm.
 
 ### Bremser
 
@@ -68,20 +68,20 @@ XPENG G3i har et forhjulstræksystem understøttet af en motor på forakslen.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Udvendig
+## Eksteriør
 
-Den XPENG G3i, med dimensioner på 4495 mm i længde, 1820 mm i bredde og 1610 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Du kan vælge mellem 1 forskellige malingsfarver, når du bestiller denne model.
+XPENG G3i, med dimensioner på 4495 mm i længde, 1820 mm i bredde og 1610 mm i højde, tilhører B-SUV segmentet, også kendt som kompakte SUV'er eller crossovers, der kombinerer B-segment bilers kompakte størrelse og manøvredygtighed med en højere køreposition, øget bagagerumsplads og robust styling fra en SUV. Du kan vælge mellem 1 forskellige lakfarver, når du bestiller denne model.
 
-Du kan vælge mellem flere hjul i forskellige størrelser på XPENG G3i, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+XPENG G3i tilbyder flere hjulmuligheder i forskellige størrelser, så du kan tilpasse din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 215/55 dæk on 17" fælge
-- 215/55 dæk on 18" fælge
+- 215/55 dæk på 17" fælge
+- 215/55 dæk på 18" fælge
 
-Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+Smallere hjul forbedrer forbruget og giver længere rækkevidde, mens bredere hjul giver bedre vejgreb og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagagerumsklap](../../../../technology/doors/#boot-lid) til bagagerummet.
 
-Der er kun ét tag til denne model.
+Der er kun én tagmulighed for denne model.
 
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/exterior_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
 
@@ -93,71 +93,71 @@ Der er kun ét tag til denne model.
 
 ### Sæder
 
-XPENG G3i har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+XPENG G3i har plads til fem passagerer med to forsæder og en trebænk bagtil.
 
-#### Første række sæder
+#### Forsæder
 
-XPENG G3i tilbyder kun én type forreste sæde.
+XPENG G3i tilbyder én type forsæde.
 
-Følgende funktioner er tilgængelige på **** sædet.
+Følgende funktioner er tilgængelige på **** sædet:
 
-- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (ekstraudstyr)
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+Fås med:
 
-#### Sæde på anden række
+#### Anden række sæder
 
-Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Anden række har en standard tresæders bænk med 60:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
-- [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
+- [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+Der er ét klimasystem tilgængeligt:
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
+Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr sammenlignet med modeller med varmepumpe.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
-XPENG G3i inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+XPENG G3i inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Brugergrænseflade og kontrol
+## Brugergrænseflade og betjening
 
-XPENG G3i har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
+XPENG G3i har flere integrerede skærme. Bag rattet er der et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen er der én [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen) øverst i midterkonsollen.
 
 Vigtige skærmdetaljer:
 
-- Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor
-- Skærmen touch i midten af midterkonsollen er 15,6 tommer stor
+- Den  skærm bag rattet integreret i instrumentbrættet er 12,3 tommer stor
+- Den touch skærm i midten af midterkonsollen er 15,6 tommer stor
 
-Modellen har ikke et head-up display.
+Modellen inkluderer ikke et head-up display.
 
 ### Rat
 
-XPENG G3i er udstyret med en enkelt type rat:
+XPENG G3i er udstyret med én type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Cirkulært rat:** Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
-Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+Denne model kommer med stemmestyring som standard, der giver dig mulighed for at styre forskellige funktioner gennem stemmekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -165,51 +165,51 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for XPENG G3i.
+XPENG G3i kommer med ét lydsystem:
 
 - **standard:** Har NULL højttalere.
 
-Modellen har 4 USB-A-forbindelser som standard.
+Modellen har 4 USB-A tilslutninger som standard.
 
-## Lys
+## Lygter
 
-**Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+**Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerede førerassistentsystemer
 
-Den XPENG G3i inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
+XPENG G3i har en række standard og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet til at forbedre sikkerhed og komfort.
 
 ### Sikkerhedssystemer
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på XPENG G3i, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+[**Vognbaneassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på XPENG G3i, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Vognbaneafvigelsesadvarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system til at advare føreren, hvis køretøjet afviger fra vognbanen.
 
-[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på XPENG G3i, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+[**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på XPENG G3i, dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard på XPENG G3i, dette system advarer passagererne mod at åbne dørene, hvis der er risiko for at ramme noget.
+[**Udstigningsadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på XPENG G3i, dette system advarer passagererne mod at åbne døre, hvis der er risiko for at ramme noget.
 
 ### Køreautomatisering
 
-Med standardudstyret tilbyder modellen ingen køreautomatisering.
+Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 ## Sikkerheds- og adgangsteknologier
 
-XPENG G3i er udstyret med essentielle sikkerhedsfunktioner for at beskytte dig og dit køretøj og tilbyder enkelhed og pålidelighed. Disse inkluderer:
+XPENG G3i er udstyret med grundlæggende sikkerhedsfunktioner for at beskytte dig og dit køretøj, og tilbyder enkelhed og pålidelighed. Disse omfatter:
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastkapacitet og træk-kapacitet
+## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastekapacitet på 380 liter. Med det bageste sæde foldet ned, udvides dette til 760 liter. På taget kan du laste op til 80 kg.
+Bagagerummet har en lastkapacitet på 380 liter (13,4 CU FT). Med bagsædet lagt ned udvides dette til 760 liter (26,8 CU FT). På taget kan du laste op til 80 kg (176,4 lbs).
 
-Køretøjets maksimale vægt er 2110 kg, med en basisvægt på 1660 kg. Dette giver en maksimal last på 450 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 2110 kg (4652 lbs), med en egenvægt på 1660 kg (3660 lbs). Dette giver en maksimal last på 450 kg (992 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
-Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
-{{< pagenavigation b_url="../" b_title="XPENG G3" f_url="rangeandconsumption/" f_title="Range" >}}
+Denne model fås ikke med anhængertræk. Så hvis du skal trække en trailer, må du kigge på andre modeller.
+{{< pagenavigation b_url="../" b_title="XPENG G3" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}
