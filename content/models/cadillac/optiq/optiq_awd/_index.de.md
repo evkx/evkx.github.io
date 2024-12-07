@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Cadillac OPTIQ AWD liefert eine solide Leistung mit einer maximalen Leistung von 224 kW (305 PS / 300 bhp) und einem Gesamtdrehmoment von 480 Nm (354 lb-ft). Er beschleunigt in 5,9 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 210 km/h (131 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -48,6 +52,8 @@ Der Ladeanschluss befindet sich an der [linken Vorderseite](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Antriebsstrang
 
 Der Cadillac OPTIQ AWD verfügt über ein Allradantriebssystem, das von zwei Motoren angetrieben wird, einem an jeder Achse. Die verwendeten Motoren sind [Permanentmagnet-Synchronmotoren](../../../../technology/motors/pmsm/) an der Vorderachse und [Induktionsmotoren](../../../../technology/motors/asm/) an der Hinterachse.
@@ -64,6 +70,8 @@ Der Cadillac OPTIQ AWD ist mit [Gusseisenscheibenbremsen](../../../../technology
 
 [Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen. Das System stoppt das Fahrzeug vollständig mit Reibungsbremsen.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Cadillac OPTIQ AWD, mit Abmessungen von 4820 mm Länge,  mm Breite und 1644 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. Der Cadillac OPTIQ AWD ist in insgesamt 8 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
@@ -79,6 +87,8 @@ Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach hat ein gro
 {{< sitefiguresized thumb="models/cadillac/optiq/exterior_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2250"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -116,6 +126,8 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Spl
 
 {{< sitefiguresized thumb="models/cadillac/optiq/secondrowseats_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Zwei Klimasystemoptionen sind verfügbar:
@@ -125,11 +137,15 @@ Zwei Klimasystemoptionen sind verfügbar:
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktionen
 
 Der Cadillac OPTIQ AWD umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -154,6 +170,8 @@ Der Cadillac OPTIQ AWD ist mit einem einzigen Lenkradtyp ausgestattet:
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
 Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -186,6 +204,8 @@ Zusätzlich verfügt das Modell standardmäßig über 5 USB-C-Anschlüsse.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Erweiterte Fahrerassistenzsysteme
 
 Der Cadillac OPTIQ AWD verfügt über eine Reihe von standardmäßigen und optionalen [fortschrittlichen Fahrerassistenzsystemen](../../../../technology/driverassistance/) (ADAS), die die Sicherheit und den Komfort verbessern sollen.
@@ -216,6 +236,8 @@ Der Cadillac OPTIQ AWD ist mit fortschrittlichen Sicherheitsfunktionen ausgestat
 - **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

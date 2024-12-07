@@ -24,9 +24,13 @@ Vi har delt vår beskrivelse av Honda e:Ny1 i seksjoner. Hvis du vil vente med �
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ytelse
 
 Honda e:Ny1 tilbyr beskjedne ytelser med en maksimal effekt på 150 kW (204 hk) og et totalt dreiemoment på 310 Nm. Den akselererer fra 0 til 100 km/t på 7,7 sekunder og har en toppfart på 160 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
@@ -47,6 +51,8 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 Plasseringen av ladeporten er på [fronten](../../../../technology/charging/connectors/#front). Denne plasseringen gjør det brukervennlige ladestasjoner der du må parkere med fronten inn. Denne modellen bruker [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) kontakten for ladeporten.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivverk
 
@@ -78,6 +84,8 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det finnes tre nivåer av regenerativ bremsing å velge mellom, noe som gir deg mulighet til å tilpasse kjøreopplevelsen etter dine preferanser.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Eksteriør
 
 Honda e:Ny1, med dimensjoner på 4387 mm i lengde, 1790 mm i bredde og 1584 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Honda e:Ny1 er tilgjengelig i totalt 5 lakkfarger, alle inkluderer metalliske og perlemorsalternativer.
@@ -95,6 +103,8 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -128,6 +138,8 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -136,6 +148,8 @@ Det er ett tilgjengelig klimasystem.
 
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunksjoner
 
 Honda e:Ny1 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -143,6 +157,8 @@ Honda e:Ny1 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighe
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brukergrensesnitt og kontroll
 
@@ -168,6 +184,8 @@ Honda e:Ny1 er utstyrt med en enkelt type ratt:
 ### Speil
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -202,6 +220,8 @@ Honda e:Ny1 kommer med sin egen dedikerte mobilapp, tilgjengelig for både Andro
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/headlights_1_st.jpg" title="Honda e:Ny1" width="3000" height="1819"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avanserte førerassistentsystemer
 
@@ -244,6 +264,8 @@ Honda e:Ny1 er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og
 - **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastekapasitet og slepeevne
 

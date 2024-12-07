@@ -24,9 +24,13 @@ Vi har delat in vår beskrivning av Polestar 2 Long Range Single Motor i avsnitt
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Polestar 2 Long Range Single Motor levererar en solid prestanda med en maximal effekt på 220 kW (299 hk) och ett totalt vridmoment på 490 Nm. Den kan accelerera från 0 till 100 km/h på 6,2 sekunder och når en topphastighet på 205 km/h, vilket gör den konkurrenskraftig i sin klass.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -48,6 +52,8 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivlina
 
 Polestar 2 Long Range Single Motor har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
@@ -65,6 +71,8 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Du kan välja mellan två stoppmodi för enpedalskörning. **Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar och **Creep-läge** för bilen framåt i låg hastighet.
 
 Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
+
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
@@ -84,6 +92,8 @@ Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du be
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/exteriore_3_st.jpg" title="Polestar 2 Long Range Single Motor" width="2953" height="2215"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -122,6 +132,8 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -130,6 +142,8 @@ Det finns ett tillgängligt klimatsystem.
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktioner
 
 Polestar 2 Long Range Single Motor inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -137,6 +151,8 @@ Polestar 2 Long Range Single Motor inkluderar flera funktioner för att förbät
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -161,6 +177,8 @@ Polestar 2 Long Range Single Motor är utrustad med en enda typ av ratt:
 
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Ljudsystem
@@ -182,6 +200,8 @@ Du kan välja mellan två typer av strålkastare för Polestar 2 Long Range Sing
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/headlights_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="1766"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -215,6 +235,8 @@ Polestar 2 Long Range Single Motor är utrustad med avancerade säkerhetsfunktio
 - **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

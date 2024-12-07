@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Lynk & Co 02 bietet eine bescheidene Leistung mit einer maximalen Leistung von 200 kW (272 PS / 268 bhp) und einem Gesamtdrehmoment von 343 Nm (253 lb-ft). Er beschleunigt in 5,5 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 180 km/h (112 mph), was ihn eher mit herkömmlichen Verbrennungsmotorfahrzeugen vergleichbar macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -48,6 +52,8 @@ Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Antriebsstrang
 
 Der Lynk & Co 02 hat ein Heckantriebssystem, das von einem Motor an der Hinterachse unterstützt wird.
@@ -63,6 +69,8 @@ Der Lynk & Co 02 ist mit [Gusseisenscheibenbremsen](../../../../technology/brake
 ### Rekuperatives Bremsen
 
 [**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht.
+
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exterieur
 
@@ -82,6 +90,8 @@ Es gibt zwei verschiedene Dachoptionen zur Auswahl. Optional können Sie dieses 
 {{< sitefiguresized thumb="models/lynk_and_co/02/02/exterior_1_st.jpg" title="Lynk & Co 02" width="3000" height="2250"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -114,6 +124,8 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, s
 
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Zwei Klimasystemoptionen sind verfügbar:
@@ -123,6 +135,8 @@ Zwei Klimasystemoptionen sind verfügbar:
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktionen
 
 Der Lynk & Co 02 umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
@@ -130,6 +144,8 @@ Der Lynk & Co 02 umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu ve
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -151,6 +167,8 @@ Der Lynk & Co 02 ist mit einem einzigen Lenkradtyp ausgestattet:
 ### Spiegel
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -177,6 +195,8 @@ Sie können zwischen zwei Scheinwerfertypen für den Lynk & Co 02 wählen.
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
 {{< sitefiguresized thumb="models/lynk_and_co/02/02/headlights_1_st.jpg" title="Lynk & Co 02" width="3000" height="2250"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -218,6 +238,8 @@ Der Lynk & Co 02 ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, u
 - **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

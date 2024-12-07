@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
-- [Performance](#performance)
-- [Battery, Range, and Charging](#battery-range-and-charging)
-- [Drivetrain (suspension, brakes, steering)](#drivetrain)
-- [Exterior (paint colors, wheels ++)](#exterior)
-- [Interior (seats++)](#interior)
-- [User interface and control](#user-interface-and-control)
-- [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Battery, Range, and Charging](#section-battery)
+- [Drivetrain (suspension, brakes, steering)](#section-drivetrain)
+- [Exterior (paint colors, wheels ++)](#section-exterior)
+- [Interior (seats++)](#section-interior)
+- [User interface and control](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lights](#section-lights)
+- [Advanced driver-assistance systems](#section-adas)
+- [Cargo Capacity and Towing Ability](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 The Mercedes-EQ EQB 300 4MATIC offers modest performance with a maximum power of 168 kW (228 hp / 225 bhp) and a total torque of 390 Nm (288 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Battery, Range, and Charging
 
@@ -48,6 +52,8 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivetrain
 
 The Mercedes-EQ EQB 300 4MATIC features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
@@ -65,6 +71,8 @@ The Mercedes-EQ EQB 300 4MATIC is equipped with [cast-iron disc brakes](../../..
 ### Regenerative Braking
 
 The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**. However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
+
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exterior
 
@@ -85,6 +93,8 @@ There are two different roof options to select from. The standard is just a regu
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1686"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -136,12 +146,16 @@ The second row features a standard three-seat bench with a 40:20:40 split, allow
 
 The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Climate System
 
 Two climate system options are available:
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Comfort Features
 
@@ -150,6 +164,8 @@ The Mercedes-EQ EQB 300 4MATIC includes several features to enhance comfort and 
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## User Interface and Control
 
@@ -178,6 +194,8 @@ This model has an optional voice control system. The voice control lets you cont
 
 This model also has an optional gesture control system that lets you control specific features.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigation System
@@ -202,6 +220,8 @@ Additionally, the model includes 4 USB-C connections as standard. As an option, 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Advanced Driver Assistance Systems
 
@@ -242,6 +262,8 @@ The Mercedes-EQ EQB 300 4MATIC is equipped with advanced security features to pr
 - **Keyless Entry and Start:** With the standard keyless start and optional keyless entry, you can unlock and start the vehicle seamlessly without removing the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Cargo Capacity and Towing Ability
 

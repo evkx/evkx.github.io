@@ -30,9 +30,13 @@ Dieses Modell wurde durch [Volvo EC40 Single Motor](/models/volvo/ec40/ec40_sing
 
 </div>
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Volvo C40 Recharge Single Motor bietet eine bescheidene Leistung mit einer maximalen Leistung von 175 kW (238 PS / 235 bhp) und einem Gesamtdrehmoment von 420 Nm (310 lb-ft). Er beschleunigt in 7,3 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 180 km/h (112 mph), was ihn eher mit herkömmlichen Verbrennungsmotorfahrzeugen vergleichbar macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -56,6 +60,8 @@ Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Antriebsstrang
 
 Der Volvo C40 Recharge Single Motor hat ein Heckantriebssystem, das von einem Motor an der Hinterachse unterstützt wird.
@@ -71,6 +77,8 @@ Der Volvo C40 Recharge Single Motor ist mit [Gusseisenscheibenbremsen](../../../
 ### Rekuperatives Bremsen
 
 [Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen. Das System stoppt das Fahrzeug vollständig mit Reibungsbremsen.
+
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exterieur
 
@@ -90,6 +98,8 @@ Es gibt zwei verschiedene Dachoptionen zur Auswahl. Optional können Sie dieses 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/exterior_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -120,6 +130,8 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, s
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/secondrowseats_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
@@ -128,6 +140,8 @@ Es gibt ein Klimasystem verfügbar:
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktionen
 
 Der Volvo C40 Recharge Single Motor umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
@@ -135,6 +149,8 @@ Der Volvo C40 Recharge Single Motor umfasst mehrere Funktionen, um Komfort und B
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -159,6 +175,8 @@ Der Volvo C40 Recharge Single Motor ist mit einem einzigen Lenkradtyp ausgestatt
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Soundsystem
@@ -180,6 +198,8 @@ Sie können zwischen zwei Scheinwerfertypen für den Volvo C40 Recharge Single M
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/headlights_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -213,6 +233,8 @@ Der Volvo C40 Recharge Single Motor ist mit fortschrittlichen Sicherheitsfunktio
 - **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

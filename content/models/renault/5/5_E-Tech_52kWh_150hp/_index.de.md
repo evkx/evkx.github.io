@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Renault 5 E-Tech 52kWh 150hp bietet eine bescheidene Leistung mit einer maximalen Leistung von 110 kW (150 PS / 148 bhp) und einem Gesamtdrehmoment von 245 Nm (181 lb-ft). Er beschleunigt in 7,9 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 150 km/h (93 mph), was ihn eher mit herkömmlichen Verbrennungsmotorfahrzeugen vergleichbar macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -50,6 +54,8 @@ Der Ladeanschluss befindet sich an der [linken Vorderseite](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Antriebsstrang
 
 Der Renault 5 E-Tech 52kWh 150hp hat ein Frontantriebssystem, das von einem Motor an der Vorderachse unterstützt wird. Der verwendete Motor ist ein [Wickelrotor-Synchronmotor](../../../../technology/motors/wrsm/).
@@ -70,6 +76,8 @@ Der Renault 5 E-Tech 52kWh 150hp ist mit [Gusseisenscheibenbremsen](../../../../
 
 [Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Renault 5 E-Tech 52kWh 150hp, mit Abmessungen von 3920 mm Länge, 1770 mm Breite und 1500 mm Höhe, fällt in die B-Segment-Autos, oft als Supermini bezeichnet, ist ein kleines Auto, das typischerweise für das Fahren in der Stadt geeignet ist und eine gute Balance zwischen Effizienz, Größe und Kosten bietet. Der Renault 5 E-Tech 52kWh 150hp ist in insgesamt 5 Unilackfarben erhältlich.
@@ -85,6 +93,8 @@ Es gibt nur eine Dachoption für dieses Modell. Das Standarddach ist einfach ein
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/exterior_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -114,6 +124,8 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
@@ -121,6 +133,8 @@ Es gibt ein Klimasystem verfügbar:
 - **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktionen
 
@@ -130,6 +144,8 @@ Der Renault 5 E-Tech 52kWh 150hp umfasst mehrere Funktionen, um Komfort und Bequ
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -153,6 +169,8 @@ Der Renault 5 E-Tech 52kWh 150hp ist mit einem einzigen Lenkradtyp ausgestattet:
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
 Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -185,6 +203,8 @@ Sie können zwischen zwei Scheinwerfertypen für den Renault 5 E-Tech 52kWh 150h
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/headlights_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -221,6 +241,8 @@ Der Renault 5 E-Tech 52kWh 150hp ist mit fortschrittlichen Sicherheitsfunktionen
 - **Schlüsselloser Zugang und Start:** Mit dem standardmäßigen schlüssellosen Start und dem optionalen schlüssellosen Zugang können Sie das Fahrzeug nahtlos entriegeln und starten, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

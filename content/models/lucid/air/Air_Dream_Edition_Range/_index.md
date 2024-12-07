@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
-- [Performance](#performance)
-- [Battery, Range, and Charging](#battery-range-and-charging)
-- [Drivetrain (suspension, brakes, steering)](#drivetrain)
-- [Exterior (paint colors, wheels ++)](#exterior)
-- [Interior (seats++)](#interior)
-- [User interface and control](#user-interface-and-control)
-- [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Battery, Range, and Charging](#section-battery)
+- [Drivetrain (suspension, brakes, steering)](#section-drivetrain)
+- [Exterior (paint colors, wheels ++)](#section-exterior)
+- [Interior (seats++)](#section-interior)
+- [User interface and control](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lights](#section-lights)
+- [Advanced driver-assistance systems](#section-adas)
+- [Cargo Capacity and Towing Ability](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 The Lucid Air Dream Edition Range delivers a jaw-dropping maximum power of 696 KW (946 hp/933 bhp) and a massive total torque of 1390 Nm (1026 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.9 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 270 km/h (168 mph), making it a true marvel of engineering and performance.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Battery, Range, and Charging
 
@@ -48,6 +52,8 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivetrain
 
 The Lucid Air Dream Edition Range features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -68,6 +74,8 @@ The Lucid Air Dream Edition Range is equipped with [cast-iron disc brakes](../..
 
 [Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. The system stops the car completely using friction brakes.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 The Lucid Air Dream Edition Range, with dimensions of 4975 mm in length, 1939 mm in width, and 1410 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. You can choose between 4 different paint colors when ordering this model.
@@ -87,6 +95,8 @@ There is only one roof option for this model. The windshield is panoramic going 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/exterior_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="1945"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -123,6 +133,8 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/secondrowseats_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2077"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Climate System
 
 There is one climate system available:
@@ -130,6 +142,8 @@ There is one climate system available:
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Comfort Features
 
@@ -139,6 +153,8 @@ The Lucid Air Dream Edition Range includes several features to enhance comfort a
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## User Interface and Control
 
@@ -165,6 +181,8 @@ The Lucid Air Dream Edition Range is equipped with a single type of steering whe
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigation System
@@ -187,6 +205,8 @@ Additionally, the model includes 3 USB-C connections as standard. The model has 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/headlights_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2001"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Advanced Driver Assistance Systems
 
@@ -220,6 +240,8 @@ The Lucid Air Dream Edition Range is equipped with advanced security features to
 - **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Cargo Capacity and Towing Ability
 

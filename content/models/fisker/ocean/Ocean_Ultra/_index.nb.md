@@ -24,9 +24,13 @@ Vi har delt vår beskrivelse av Fisker Ocean Ultra i seksjoner. Hvis du vil vent
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ytelse
 
 Med overboost når Fisker Ocean Ultra en maksimal effekt på 400 kW (544 hk / 536 bhp). Uten overboost leverer den solide 344 kW (468 hk). Maksimalt dreiemoment er på 737 Nm. Denne kraftpluggen kan akselerere fra 0 til 100 km/t på kun 4,2 sekunder og har en topphastighet på 205 km/t, som viser frem dens imponerende ytelse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
@@ -48,6 +52,8 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivverk
 
 Fisker Ocean Ultra har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
@@ -65,6 +71,8 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 [**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. Imidlertid blir [regenerativ bremsing](../../../../technology/regen/) muliggjort gjennom [**enpedals kjøring**](../../../../technology/regen/#one-pedal-driving) kombinert med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Det anses imidlertid ikke som full en-pedalskjøring siden kjøretøyet ved lave hastigheter vil fortsette å rulle til det stopper av seg selv.
 
 I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det finnes tre nivåer av regenerativ bremsing å velge mellom, noe som gir deg mulighet til å tilpasse kjøreopplevelsen etter dine preferanser.
+
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
@@ -84,6 +92,8 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/exterior_1_st.jpg" title="Fisker Ocean Ultra" width="3000" height="1635"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -119,6 +129,8 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -126,6 +138,8 @@ Det er ett tilgjengelig klimasystem.
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
@@ -135,6 +149,8 @@ Fisker Ocean Ultra inkluderer flere funksjoner for å forbedre komfort og bekvem
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brukergrensesnitt og kontroll
 
@@ -159,6 +175,8 @@ Fisker Ocean Ultra er utstyrt med en enkelt type ratt:
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigasjonssystem
@@ -178,6 +196,8 @@ Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avanserte førerassistentsystemer
 
@@ -217,6 +237,8 @@ Fisker Ocean Ultra er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte
 - **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastekapasitet og slepeevne
 

@@ -24,9 +24,13 @@ Vi har opdelt vores BYD Seal U Design artikel i sektioner. Hvis du vil vente med
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ydeevne
 
 BYD Seal U Design tilbyder beskedne præstationer med en maksimal effekt på 160 kW (218 hk) og et samlet drejningsmoment på 310 Nm. Den accelererer fra 0 til 100 km/t på 9,3 sekunder og har en topfart på 175 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rækkevidde og opladning
 
@@ -49,6 +53,8 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivetrain
 
@@ -74,6 +80,8 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 Den maksimale regenerative effekt er 200 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Udvendig
 
 Den BYD Seal U Design, med dimensioner på 4785 mm i længde, 1890 mm i bredde og 1668 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. BYD Seal U Design fås i alt i 6 ensfarvede lakfarver.
@@ -91,6 +99,8 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/exterior_1_st.jpg" title="BYD Seal U Design" width="1500" height="872"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -123,6 +133,8 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/secondrowseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="2225"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -130,6 +142,8 @@ Der er et tilgængeligt klimasystem.
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
@@ -139,6 +153,8 @@ BYD Seal U Design inkluderer flere funktioner, der forbedrer komfort og bekvemme
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brugergrænseflade og kontrol
 
@@ -162,6 +178,8 @@ BYD Seal U Design er udstyret med en enkelt type rat:
 ### Spejle
 
 Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -188,6 +206,8 @@ Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/headlights_1_st.jpg" title="BYD Seal U Design" width="3000" height="1900"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerede førerassistentsystemer
 
@@ -227,6 +247,8 @@ BYD Seal U Design er udstyret med avancerede sikkerhedsfunktioner for at beskytt
 - **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet og træk-kapacitet
 

@@ -24,9 +24,13 @@ Vi har delt vår beskrivelse av Mercedes-EQ EQE 300 i seksjoner. Hvis du vil ven
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ytelse
 
 Mercedes-EQ EQE 300 tilbyr beskjedne ytelser med en maksimal effekt på 180 kW (245 hk) og et totalt dreiemoment på 565 Nm. Den akselererer fra 0 til 100 km/t på 7,3 sekunder og har en toppfart på 210 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
@@ -50,6 +54,8 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivverk
 
 Mercedes-EQ EQE 300 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
@@ -72,6 +78,8 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 Den maksimale regenerative effekten er 186 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Eksteriør
 
 Mercedes-EQ EQE 300, med dimensjoner på 4946 mm i lengde, 1961 mm i bredde og 1510 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Mercedes-EQ EQE 300 tilbyr et utvalg av 11 lakkfarger, inkludert ensfargede, metalliske og matte alternativer. Ved siden av standardpaletten er det eksklusive farger tilgjengelig fra 'MANUFAKTUR'-paletten.
@@ -91,6 +99,8 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelok
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad. Dette glasset gjør bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -137,6 +147,8 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 
 - høydejusterbar hodestøtte
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 To klimasystemalternativer er tilgjengelige:
@@ -146,6 +158,8 @@ To klimasystemalternativer er tilgjengelige:
 
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunksjoner
 
 Mercedes-EQ EQE 300 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -154,6 +168,8 @@ Mercedes-EQ EQE 300 inkluderer flere funksjoner for å forbedre komfort og bekve
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brukergrensesnitt og kontroll
 
@@ -192,6 +208,8 @@ Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg k
 
 Denne modellen har også et valgfritt bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigasjonssystem
@@ -219,6 +237,8 @@ Du kan velge mellom to typer frontlykter for Mercedes-EQ EQE 300.
 - **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avanserte førerassistentsystemer
 
@@ -260,6 +280,8 @@ Med det valgfrie Driver Assistance Package Plus nivå 2-systemet får du ekstra 
 Mercedes-EQ EQE 300 er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastekapasitet og slepeevne
 

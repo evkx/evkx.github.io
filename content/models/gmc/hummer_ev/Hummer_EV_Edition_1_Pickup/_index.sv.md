@@ -24,9 +24,13 @@ Vi har delat in vår beskrivning av GMC Hummer EV Edition 1 Pickup i avsnitt. Om
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 GMC Hummer EV Edition 1 Pickup levererar en häpnadsväckande maximal effekt på 746 KW (1014 hk) och ett massivt vridmoment på 1150 Nm. Denna kraftmaskin kan accelerera från 0 till 100 km/h på bara 3,5 sekunder, vilket visar på dess fantastiska acceleration. Dessutom uppnår den en topphastighet på 170 km/h, vilket gör den till ett verkligt ingenjörsmässigt och prestandamässigt underverk.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -47,6 +51,8 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivlina
 
@@ -84,6 +90,8 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 Den maximala regenerativa effekten är 400 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exteriör
 
 GMC Hummer EV Edition 1 Pickup, med dimensioner på 5507 mm i längd, 2201 mm i bredd och 2009 mm i höjd, utmärker sig i kategorin Full-size Pick-Up truck och erbjuder exceptionellt utrymme, kraft och kapacitet. GMC Hummer EV Edition 1 Pickup finns i totalt 1 lackfärger, inklusive flera iögonfallande metalliska alternativ.
@@ -99,6 +107,8 @@ B-stolpen och vyerna bak är tonade.
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -134,6 +144,8 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -141,6 +153,8 @@ Det finns ett tillgängligt klimatsystem.
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
@@ -150,6 +164,8 @@ GMC Hummer EV Edition 1 Pickup inkluderar flera funktioner för att förbättra 
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -175,6 +191,8 @@ GMC Hummer EV Edition 1 Pickup är utrustad med en enda typ av ratt:
 ### Speglar
 
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -209,6 +227,8 @@ Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutninga
 **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -251,6 +271,8 @@ GMC Hummer EV Edition 1 Pickup är utrustad med avancerade säkerhetsfunktioner 
 - **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

@@ -13,16 +13,16 @@ navicon: bi-car-front
 
 Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performance](#performance)
-- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
-- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
-- [Extérieur (couleurs de peinture, roues ++)](#exterior)
-- [Intérieur (sièges++)](#interior)
-- [Interface utilisateur et contrôle](#user-interface-and-control)
-- [Infodivertissement](#infotainment)
-- [Éclairage](#lights)
-- [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Batterie, Autonomie et Recharge](#section-battery)
+- [Groupe motopropulseur (suspension, freins, direction)](#section-drivetrain)
+- [Extérieur (couleurs de peinture, roues ++)](#section-exterior)
+- [Intérieur (sièges++)](#section-interior)
+- [Interface utilisateur et contrôle](#section-ui)
+- [Infodivertissement](#section-infotainment)
+- [Éclairage](#section-lights)
+- [Systèmes avancés d'aide à la conduite](#section-adas)
+- [Capacité de chargement et Aptitude au remorquage](#section-transportation)
 
 <div class="alert alert-secondary" role="alert">
 
@@ -30,11 +30,15 @@ Ce modèle a été remplacé par [Porsche Taycan](/models/porsche/taycan/taycan/
 
 </div>
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Performance
 
 Avec la suralimentation, le Porsche Taycan (GEN1) atteint une puissance maximale de 300 kW (408 ch / 402 bhp). Sans suralimentation, il délivre 240 kW (326 ch / 322 bhp). Le couple maximal est de 345 Nm (255 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 5,4 secondes et atteint une vitesse maximale de 230 km/h (143 mph), démontrant ses solides performances.
 
 Avec la batterie optionnelle Performance Battery Plus, vous obtenez d'autres chiffres de performance. Avec la suralimentation, le Porsche Taycan (GEN1) atteint une puissance maximale de 350 kW (476 ch / 469 bhp). Sans suralimentation, il délivre 280 kW (381 ch / 376 bhp). Le couple maximal est de 357 Nm (263 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 5,4 secondes et atteint une vitesse maximale de 230 km/h (143 mph), démontrant ses solides performances.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Autonomie et Recharge
 
@@ -70,6 +74,8 @@ Le port de charge est situé sur le [côté avant droit](../../../../technology/
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Groupe Motopropulseur
 
 Le Porsche Taycan (GEN1) dispose d'un système de traction arrière soutenu par un moteur sur l'essieu arrière. Le moteur utilisé est un [moteur synchrone à aimants permanents](../../../../technology/motors/pmsm/).
@@ -94,6 +100,8 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 La puissance régénérative maximale est de 265 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Extérieur
 
 Le Porsche Taycan (GEN1), avec des dimensions de 4963 mm de longueur, 1964 mm de largeur et 1395 mm de hauteur, appartient aux voitures du segment E, également appelées voitures exécutives, qui sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un ensemble spécifique de conducteurs. Le Porsche Taycan (GEN1) est disponible en un total de 17 couleurs de peinture, y compris des options unies et métalliques.
@@ -115,6 +123,8 @@ Il y a trois options de toit différentes à sélectionner. Le toit standard est
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gen1/exterior_1_st.jpg" title="Porsche Taycan (GEN1)" width="3000" height="1713"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Intérieur
 
@@ -169,6 +179,8 @@ L'option standard est deux sièges intégrés dans la deuxième rangée. Fonctio
 
 L'option second est deux sièges intégrés dans la deuxième rangée avec un troisième siège plus petit au milieu. Fonctionnalités supplémentaires :
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Système de Climatisation
 
 Il y a un système de climatisation disponible :
@@ -177,11 +189,15 @@ Il y a un système de climatisation disponible :
 
 Ce modèle a une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur peut économiser une énergie significative utilisée pour le chauffage par temps froid.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Caractéristiques de confort
 
 Le Porsche Taycan (GEN1) comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interface Utilisateur et Contrôle
 
@@ -207,6 +223,8 @@ Le Porsche Taycan (GEN1) est équipé d'un seul type de volant :
 ### Rétroviseurs
 
 Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infodivertissement
 
@@ -234,6 +252,8 @@ Vous pouvez choisir entre deux types de phares pour le Porsche Taycan (GEN1).
 - **Phares à LED Matrix :** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant l'éclairage en désactivant des zones spécifiques devant.
 
 Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Systèmes Avancés d'Aide à la Conduite
 
@@ -281,6 +301,8 @@ Le Porsche Taycan (GEN1) est équipé de fonctionnalités de sécurité avancée
 - **Entrée et démarrage sans clé :** Avec le démarrage sans clé de série et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans faille sans retirer la clé de votre poche ou de votre sac.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacité de Chargement et Aptitude au Remorquage
 

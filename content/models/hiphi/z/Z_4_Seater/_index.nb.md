@@ -24,9 +24,13 @@ Vi har delt vår beskrivelse av HiPhi Z 4 Seater i seksjoner. Hvis du vil vente 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ytelse
 
 HiPhi Z 4 Seater imponerer med en imponerende kraft på 494 kW (672 hk) og et betydelig dreiemoment på 820 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 3,8 sekunder og har en toppfart på 200 km/t, noe som gjør den til en markant modell i sin klasse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
@@ -50,6 +54,8 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivverk
 
 HiPhi Z 4 Seater har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -68,6 +74,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ### Regenerativ bremsing
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
@@ -86,6 +93,8 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/exterior_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1399"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -125,6 +134,8 @@ For den andre raden har denne modellen doble [executive-seter](../../../../techn
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/secondrowseats_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2287"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -132,6 +143,8 @@ Det er ett tilgjengelig klimasystem.
 - **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
@@ -142,6 +155,8 @@ HiPhi Z 4 Seater inkluderer flere funksjoner for å forbedre komfort og bekvemme
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brukergrensesnitt og kontroll
 
@@ -167,6 +182,8 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Lydsystem
@@ -184,6 +201,8 @@ Modellen har 1 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/headlights_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1467"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avanserte førerassistentsystemer
 
@@ -222,6 +241,8 @@ HiPhi Z 4 Seater er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte d
 - **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastekapasitet og slepeevne
 

@@ -24,9 +24,13 @@ Vi har opdelt vores Zeekr 7X Long Range AWD artikel i sektioner. Hvis du vil ven
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ydeevne
 
 Zeekr 7X Long Range AWD imponerer med en maksimal effekt på 475 kW (646 hk) og et imponerende samlet drejningsmoment på 710 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,8 sekunder og har en topfart på 200 km/h, hvilket gør den til en standout i sin klasse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rækkevidde og opladning
 
@@ -50,6 +54,8 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivetrain
 
 Zeekr 7X Long Range AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
@@ -72,6 +78,8 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 [**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Udvendig
 
 Den Zeekr 7X Long Range AWD, med dimensioner på 4825 mm i længde, 1930 mm i bredde og 1656 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Zeekr 7X Long Range AWD fås i alt 7 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
@@ -92,6 +100,8 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/exterior_1_st.jpg" title="Zeekr 7X Long Range AWD" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -148,6 +158,8 @@ Muligheden second er et [executive-sæde kombineret med en to-sædet bænk](../.
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/secondrowseats_1_st.jpg" title="Zeekr 7X Long Range AWD" width="1600" height="899"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -155,6 +167,8 @@ Der er et tilgængeligt klimasystem.
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
@@ -164,6 +178,8 @@ Zeekr 7X Long Range AWD inkluderer flere funktioner, der forbedrer komfort og be
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brugergrænseflade og kontrol
 
@@ -191,6 +207,8 @@ Zeekr 7X Long Range AWD er udstyret med en enkelt type rat:
 Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -229,6 +247,8 @@ Du kan vælge mellem to typer forlygter til Zeekr 7X Long Range AWD.
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/headlights_1_st.jpg" title="Zeekr 7X Long Range AWD" width="2400" height="1350"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerede førerassistentsystemer
 
@@ -276,6 +296,8 @@ Zeekr 7X Long Range AWD er udstyret med avancerede sikkerhedsfunktioner for at b
 - **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet og træk-kapacitet
 

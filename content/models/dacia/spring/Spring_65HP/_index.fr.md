@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performance](#performance)
-- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
-- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
-- [Extérieur (couleurs de peinture, roues ++)](#exterior)
-- [Intérieur (sièges++)](#interior)
-- [Interface utilisateur et contrôle](#user-interface-and-control)
-- [Infodivertissement](#infotainment)
-- [Éclairage](#lights)
-- [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Batterie, Autonomie et Recharge](#section-battery)
+- [Groupe motopropulseur (suspension, freins, direction)](#section-drivetrain)
+- [Extérieur (couleurs de peinture, roues ++)](#section-exterior)
+- [Intérieur (sièges++)](#section-interior)
+- [Interface utilisateur et contrôle](#section-ui)
+- [Infodivertissement](#section-infotainment)
+- [Éclairage](#section-lights)
+- [Systèmes avancés d'aide à la conduite](#section-adas)
+- [Capacité de chargement et Aptitude au remorquage](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 Le Dacia Spring 65HP kWh offre des performances de base avec une puissance maximale de 48 kW (65 ch / 64 bhp) et un couple total de 113 Nm (83 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 13,7 secondes et atteint une vitesse maximale de 125 km/h (78 mph), ce qui est plus comparable aux véhicules à moteur à combustion interne d'entrée de gamme.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Autonomie et Recharge
 
@@ -48,6 +52,8 @@ L'emplacement du port de charge est à l'[avant](../../../../technology/charging
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Groupe Motopropulseur
 
 Le Dacia Spring 65HP dispose d'un système de traction avant soutenu par un moteur sur l'essieu avant.
@@ -61,6 +67,8 @@ La suspension avant est à [jambes de force MacPherson](../../../../technology/s
 ### Freinage Régénératif
 
 Le [freinage régénératif](../../../../technology/regen/) sur ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou le roulage ne sont pas disponibles ici.
+
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Extérieur
 
@@ -80,6 +88,8 @@ Il n'y a qu'une seule option de toit pour ce modèle.
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/exterior_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Intérieur
 
@@ -112,6 +122,8 @@ Disponible en :
 
 - Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Système de Climatisation
 
 Il y a un système de climatisation disponible :
@@ -120,11 +132,15 @@ Il y a un système de climatisation disponible :
 
 Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport aux modèles avec une pompe à chaleur.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Caractéristiques de confort
 
 Le Dacia Spring 65HP comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interface Utilisateur et Contrôle
 
@@ -146,6 +162,8 @@ Le Dacia Spring 65HP est équipé d'un seul type de volant :
 ### Rétroviseurs
 
 Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infodivertissement
 
@@ -173,6 +191,8 @@ Les feux arrière utilisent la technologie LED, assurant à la fois une haute vi
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/headlights_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
 
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Systèmes Avancés d'Aide à la Conduite
 
 Le Dacia Spring 65HP dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
@@ -196,6 +216,8 @@ Le Dacia Spring 65HP est équipé de fonctionnalités de sécurité essentielles
 - **Accès avec clé manuelle :** Le véhicule utilise un système de clé traditionnel, vous permettant de déverrouiller et de démarrer la voiture manuellement avec facilité.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacité de Chargement et Aptitude au Remorquage
 

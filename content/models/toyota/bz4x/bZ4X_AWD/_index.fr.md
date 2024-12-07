@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performance](#performance)
-- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
-- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
-- [Extérieur (couleurs de peinture, roues ++)](#exterior)
-- [Intérieur (sièges++)](#interior)
-- [Interface utilisateur et contrôle](#user-interface-and-control)
-- [Infodivertissement](#infotainment)
-- [Éclairage](#lights)
-- [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Batterie, Autonomie et Recharge](#section-battery)
+- [Groupe motopropulseur (suspension, freins, direction)](#section-drivetrain)
+- [Extérieur (couleurs de peinture, roues ++)](#section-exterior)
+- [Intérieur (sièges++)](#section-interior)
+- [Interface utilisateur et contrôle](#section-ui)
+- [Infodivertissement](#section-infotainment)
+- [Éclairage](#section-lights)
+- [Systèmes avancés d'aide à la conduite](#section-adas)
+- [Capacité de chargement et Aptitude au remorquage](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 Le Toyota bZ4X AWD offre des performances modestes avec une puissance maximale de 160 kW (218 ch / 215 bhp) et un couple total de 337 Nm (249 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 6,9 secondes et atteint une vitesse maximale de 160 km/h (99 mph), s'alignant plus étroitement avec les véhicules à moteur à combustion interne traditionnels.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Autonomie et Recharge
 
@@ -47,6 +51,8 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC 
 L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite l'utilisation des stations de charge où vous vous garez de côté par rapport au chargeur. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Groupe Motopropulseur
 
@@ -80,6 +86,8 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous re
 
 La puissance régénérative maximale est de 100 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Extérieur
 
 Le Toyota bZ4X AWD, avec des dimensions de 4690 mm de longueur, 1860 mm de largeur et 1600 mm de hauteur, appartient à la catégorie des SUV compacts, également appelés C-SUV. Ceux-ci offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Le Toyota bZ4X AWD est disponible en un total de 11 couleurs de peinture, y compris des options unies, métalliques et nacrées. Certaines de ces options de peinture incluent des peintures bicolores où le toit et la partie supérieure de la carrosserie sont peints dans une couleur différente, offrant un look distinctif et élégant.
@@ -100,6 +108,8 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/exterior_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Intérieur
 
@@ -139,6 +149,8 @@ La deuxième rangée dispose d'une banquette trois places standard avec une rép
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/secondrowseats_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Système de Climatisation
 
 Il y a un système de climatisation disponible :
@@ -147,6 +159,8 @@ Il y a un système de climatisation disponible :
 
 Ce modèle a une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur peut économiser une énergie significative utilisée pour le chauffage par temps froid.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Caractéristiques de confort
 
 Le Toyota bZ4X AWD comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
@@ -154,6 +168,8 @@ Le Toyota bZ4X AWD comprend plusieurs fonctionnalités pour améliorer le confor
 - **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interface Utilisateur et Contrôle
 
@@ -188,6 +204,8 @@ Le Toyota bZ4X AWD est équipé d'un seul type de volant :
 ### Rétroviseurs
 
 Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infodivertissement
 
@@ -230,6 +248,8 @@ Vous pouvez choisir entre deux types de phares pour le Toyota bZ4X AWD.
 - **Phares à LED Matrix :** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant l'éclairage en désactivant des zones spécifiques devant.
 
 Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Systèmes Avancés d'Aide à la Conduite
 
@@ -289,6 +309,8 @@ Le Toyota bZ4X AWD est équipé de fonctionnalités de sécurité avancées pour
 - **Système d'alarme :** Un système d'alarme intégré en option surveille les entrées non autorisées ou les manipulations, fournissant des alertes pour aider à dissuader les intrusions et à améliorer la sécurité du véhicule.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacité de Chargement et Aptitude au Remorquage
 

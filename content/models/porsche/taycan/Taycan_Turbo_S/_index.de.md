@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Mit Overboost liefert der Porsche Taycan Turbo S eine erstaunliche maximale Leistung von 700 kW (952 PS / 939 bhp). Auch ohne Overboost bietet er beeindruckende 620 kW (843 PS / 831 bhp). Das maximale Drehmoment erreicht unglaubliche 1110 Nm (819 lb-ft). Dieser Kraftprotz kann in nur 2,4 Sekunden von 0 auf 100 km/h (0 auf 62 mph) beschleunigen und erreicht eine Höchstgeschwindigkeit von 260 km/h (162 mph), was seine atemberaubende Leistung unterstreicht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -50,6 +54,8 @@ Der Ladeanschluss befindet sich bequem an der [rechten Vorderseite](../../../../
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Antriebsstrang
 
 Der Porsche Taycan Turbo S verfügt über ein Allradantriebssystem, das von zwei Motoren angetrieben wird, einem an jeder Achse. Die verwendeten Motoren sind [Permanentmagnet-Synchronmotoren](../../../../technology/motors/pmsm/).
@@ -72,6 +78,8 @@ Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell b
 
 Die maximale regenerative Leistung beträgt 275 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Porsche Taycan Turbo S, mit Abmessungen von 4963 mm Länge, 1966 mm Breite und 1381 mm Höhe, fällt in die E-Segment-Autos, auch als Executive-Autos bekannt, sind größer und luxuriöser als ihre D-Segment-Pendants. Sie sind darauf ausgelegt, überlegenen Komfort, fortschrittliche Technologie und hohe Leistung zu bieten, was sie für eine bestimmte Gruppe von Fahrern geeignet macht. Der Porsche Taycan Turbo S ist in insgesamt 17 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen.
@@ -93,6 +101,8 @@ Es gibt drei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/exterior_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -141,6 +151,8 @@ Die second-Option sind zwei integrierte Sitze in der zweiten Reihe mit einem dri
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="1688"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
@@ -149,11 +161,15 @@ Es gibt ein Klimasystem verfügbar:
 
 Dieses Modell hat eine [Wärmepumpe](../../../../technology/hvac/#heat-pump) als Option. Diese Wärmepumpe kann erheblich Energie sparen, die zum Heizen bei kaltem Wetter verwendet wird.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktionen
 
 Der Porsche Taycan Turbo S umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -180,6 +196,8 @@ Der Porsche Taycan Turbo S ist mit einem einzigen Lenkradtyp ausgestattet:
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -205,6 +223,8 @@ Der Porsche Taycan Turbo S ist mit fortschrittlichen LED-Matrix-Scheinwerfern au
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/headlights_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2298"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -252,6 +272,8 @@ Der Porsche Taycan Turbo S ist mit fortschrittlichen Sicherheitsfunktionen ausge
 - **Schlüsselloser Zugang und Start:** Mit dem standardmäßigen schlüssellosen Start und dem optionalen schlüssellosen Zugang können Sie das Fahrzeug nahtlos entriegeln und starten, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

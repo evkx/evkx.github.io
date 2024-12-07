@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
-- [Performance](#performance)
-- [Battery, Range, and Charging](#battery-range-and-charging)
-- [Drivetrain (suspension, brakes, steering)](#drivetrain)
-- [Exterior (paint colors, wheels ++)](#exterior)
-- [Interior (seats++)](#interior)
-- [User interface and control](#user-interface-and-control)
-- [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Battery, Range, and Charging](#section-battery)
+- [Drivetrain (suspension, brakes, steering)](#section-drivetrain)
+- [Exterior (paint colors, wheels ++)](#section-exterior)
+- [Interior (seats++)](#section-interior)
+- [User interface and control](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lights](#section-lights)
+- [Advanced driver-assistance systems](#section-adas)
+- [Cargo Capacity and Towing Ability](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 The Cadillac ESCALADE IQ packs an impressive punch with a maximum power of 560 kW (761 hp / 751 bhp) and a commanding total torque of 1064 Nm (785 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.9 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Battery, Range, and Charging
 
@@ -51,6 +55,8 @@ The charge port is located on the [left rear side](../../../../technology/chargi
 This model supports both V2L (Vehicle to Load) and V2H (Vehicle to Home) functionalities. V2L allows you to power electrical equipment requiring up to 10.2 kW of power, including the ability to charge other vehicles. V2H enables the car to serve as a backup power source for your home. You can connect equipment using a adapter on the charging port and via standard connectors in the cabin. Note that V2H requires specialized equipment in your home.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivetrain
 
@@ -89,6 +95,8 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The maximum regenerative power is 400 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 The Cadillac ESCALADE IQ, with dimensions of 5697 mm in length, 2167 mm in width, and 1934 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Cadillac ESCALADE IQ is available in a total of 10 paint colors, including both solid and metallic options. Some of these paint options include two-tone paints where the roof is painted in a different color, providing a distinctive and stylish look.
@@ -106,6 +114,8 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2028"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -174,6 +184,8 @@ The second option is twin [executive seats](../../../../technology/seats/types/#
 
 The third row has a three-seat bench with a 60:40 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Climate System
 
 There is one climate system available:
@@ -181,6 +193,8 @@ There is one climate system available:
 - **5-zone climate system:** Supports different temperatures in five zones. The driver, passenger, and two zones in the the 2. row and one in the 3. row.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Comfort Features
 
@@ -190,6 +204,8 @@ The Cadillac ESCALADE IQ includes several features to enhance comfort and conven
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## User Interface and Control
 
@@ -216,6 +232,8 @@ The Cadillac ESCALADE IQ is equipped with a single type of steering wheel:
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -254,6 +272,8 @@ The Cadillac ESCALADE IQ comes with a dedicated mobile app, available for both A
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Advanced Driver Assistance Systems
 
@@ -302,6 +322,8 @@ The Cadillac ESCALADE IQ is equipped with advanced security features to protect 
 - **Alarm System:** An integrated alarm system monitors for unauthorized entry or tampering, providing alerts to help deter intrusions and keep your vehicle secure.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Cargo Capacity and Towing Ability
 

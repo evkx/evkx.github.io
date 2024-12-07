@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
-- [Performance](#performance)
-- [Battery, Range, and Charging](#battery-range-and-charging)
-- [Drivetrain (suspension, brakes, steering)](#drivetrain)
-- [Exterior (paint colors, wheels ++)](#exterior)
-- [Interior (seats++)](#interior)
-- [User interface and control](#user-interface-and-control)
-- [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Battery, Range, and Charging](#section-battery)
+- [Drivetrain (suspension, brakes, steering)](#section-drivetrain)
+- [Exterior (paint colors, wheels ++)](#section-exterior)
+- [Interior (seats++)](#section-interior)
+- [User interface and control](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lights](#section-lights)
+- [Advanced driver-assistance systems](#section-adas)
+- [Cargo Capacity and Towing Ability](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 The Lotus Eletre S packs an impressive punch with a maximum power of 450 kW (612 hp / 604 bhp) and a commanding total torque of 710 Nm (524 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.5 seconds, and it reaches a top speed of 258 km/h (160 mph), making it a standout in its class.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Battery, Range, and Charging
 
@@ -47,6 +51,8 @@ The standard onboard charger supports up to 22 kW for Level 1 and Level 2 AC cha
 The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivetrain
 
@@ -70,6 +76,8 @@ You can choose between different brake systems. The standard option brakes use a
 
 Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are three levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 The Lotus Eletre S, with dimensions of 5105 mm in length,  mm in width, and 1630 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Lotus Eletre S is available in a total of 6 paint colors, including several striking metallic options.
@@ -90,6 +98,8 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/exterior_1_st.jpg" title="Lotus Eletre S" width="3000" height="1790"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -136,6 +146,8 @@ The second option is twin [executive seats](../../../../technology/seats/types/#
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/secondrowseats_1_st.jpg" title="Lotus Eletre S" width="3000" height="2000"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Climate System
 
 There is one climate system available:
@@ -144,6 +156,8 @@ There is one climate system available:
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Comfort Features
 
 The Lotus Eletre S includes several features to enhance comfort and convenience:
@@ -151,6 +165,8 @@ The Lotus Eletre S includes several features to enhance comfort and convenience:
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## User Interface and Control
 
@@ -174,6 +190,8 @@ The Lotus Eletre S is equipped with a single type of steering wheel:
 For the exterior mirrors, you can choose between camera-based mirrors with interior screens or traditional mirrors. The interior mirror is a standard mirror.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -201,6 +219,8 @@ The Lotus Eletre S comes equipped with advanced LED Matrix headlights. This adap
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/headlights_1_st.jpg" title="Lotus Eletre S" width="3000" height="2000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Advanced Driver Assistance Systems
 
@@ -249,6 +269,8 @@ The Lotus Eletre S is equipped with advanced security features to protect you an
 - **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Cargo Capacity and Towing Ability
 

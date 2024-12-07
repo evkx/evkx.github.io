@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performance](#performance)
-- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
-- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
-- [Extérieur (couleurs de peinture, roues ++)](#exterior)
-- [Intérieur (sièges++)](#interior)
-- [Interface utilisateur et contrôle](#user-interface-and-control)
-- [Infodivertissement](#infotainment)
-- [Éclairage](#lights)
-- [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Batterie, Autonomie et Recharge](#section-battery)
+- [Groupe motopropulseur (suspension, freins, direction)](#section-drivetrain)
+- [Extérieur (couleurs de peinture, roues ++)](#section-exterior)
+- [Intérieur (sièges++)](#section-interior)
+- [Interface utilisateur et contrôle](#section-ui)
+- [Infodivertissement](#section-infotainment)
+- [Éclairage](#section-lights)
+- [Systèmes avancés d'aide à la conduite](#section-adas)
+- [Capacité de chargement et Aptitude au remorquage](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 Le Hongqi E-HS9 Comfort offre des performances modestes avec une puissance maximale de 320 kW (435 ch / 429 bhp) et un couple total de 300 Nm (221 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 6,5 secondes et atteint une vitesse maximale de 200 km/h (124 mph), s'alignant plus étroitement avec les véhicules à moteur à combustion interne traditionnels.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Autonomie et Recharge
 
@@ -48,6 +52,8 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Groupe Motopropulseur
 
 Le Hongqi E-HS9 Comfort dispose d'un système de traction intégrale alimenté par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
@@ -68,6 +74,8 @@ Le Hongqi E-HS9 Comfort est équipé de [freins à disque en fonte](../../../../
 
 Le [freinage régénératif](../../../../technology/regen/) sur ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou le roulage ne sont pas disponibles ici.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Extérieur
 
 Le Hongqi E-HS9 Comfort, avec des dimensions de 5209 mm de longueur, 2010 mm de largeur et 1713 mm de hauteur, appartient aux SUV de grande taille, offrant le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un ensemble spécifique de conducteurs aux besoins uniques. Le Hongqi E-HS9 Comfort est disponible en un total de 6 couleurs de peinture, y compris plusieurs options métalliques frappantes.
@@ -86,6 +94,8 @@ Il n'y a qu'une seule option de toit pour ce modèle. Le toit standard a un toit
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_comfort/exterior_1_st.jpg" title="Hongqi E-HS9 Comfort" width="3000" height="1757"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Intérieur
 
@@ -121,11 +131,15 @@ La deuxième rangée dispose d'une banquette trois places standard avec une rép
 
 La troisième rangée dispose d'une banquette deux places avec une répartition 50:50. Vous pouvez également rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Système de Climatisation
 
 Il y a un système de climatisation disponible :
 
 - **Système de climatisation à 6 zones :** Permet des températures différentes dans six zones : Le conducteur, le passager, deux zones dans la 2e rangée et deux zones dans la 3e rangée.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Caractéristiques de confort
 
@@ -135,6 +149,8 @@ Le Hongqi E-HS9 Comfort comprend plusieurs fonctionnalités pour améliorer le c
 - **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interface Utilisateur et Contrôle
 
@@ -163,6 +179,8 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 Ce modèle dispose d'un système de commande vocale en option. La commande vocale vous permet de contrôler certaines fonctionnalités par des commandes vocales.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infodivertissement
 
 ### Système de Navigation
@@ -184,6 +202,8 @@ De plus, le modèle comprend 1 connexions USB-C de série. Le modèle dispose de
 Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_comfort/headlights_1_st.jpg" title="Hongqi E-HS9 Comfort" width="851" height="686"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Systèmes Avancés d'Aide à la Conduite
 
@@ -224,6 +244,8 @@ Le Hongqi E-HS9 Comfort est équipé de fonctionnalités de sécurité avancées
 - **Entrée et démarrage sans clé :** Le système d'entrée et de démarrage sans clé du véhicule permet un accès sans faille, vous permettant de déverrouiller et de démarrer la voiture sans avoir besoin de retirer la clé de votre poche ou de votre sac.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacité de Chargement et Aptitude au Remorquage
 

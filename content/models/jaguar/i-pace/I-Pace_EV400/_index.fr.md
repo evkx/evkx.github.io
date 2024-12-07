@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performance](#performance)
-- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
-- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
-- [Extérieur (couleurs de peinture, roues ++)](#exterior)
-- [Intérieur (sièges++)](#interior)
-- [Interface utilisateur et contrôle](#user-interface-and-control)
-- [Infodivertissement](#infotainment)
-- [Éclairage](#lights)
-- [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Batterie, Autonomie et Recharge](#section-battery)
+- [Groupe motopropulseur (suspension, freins, direction)](#section-drivetrain)
+- [Extérieur (couleurs de peinture, roues ++)](#section-exterior)
+- [Intérieur (sièges++)](#section-interior)
+- [Interface utilisateur et contrôle](#section-ui)
+- [Infodivertissement](#section-infotainment)
+- [Éclairage](#section-lights)
+- [Systèmes avancés d'aide à la conduite](#section-adas)
+- [Capacité de chargement et Aptitude au remorquage](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 Le Jaguar I-Pace EV400 offre des performances solides avec une puissance maximale de 294 kW (400 ch / 394 bhp) et un couple total de 696 Nm (514 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 4,8 secondes et atteint une vitesse maximale de 200 km/h (124 mph), le rendant compétitif dans sa catégorie.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Autonomie et Recharge
 
@@ -50,6 +54,8 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Groupe Motopropulseur
 
 Le Jaguar I-Pace EV400 dispose d'un système de traction intégrale alimenté par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
@@ -64,6 +70,7 @@ Le Jaguar I-Pace EV400 est équipé de [freins à disque en fonte](../../../../t
 
 ### Freinage Régénératif
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Extérieur
 
@@ -87,6 +94,8 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/exterior_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Intérieur
 
@@ -154,12 +163,16 @@ L'option second est une banquette trois places avec une répartition 40:20:40 o�
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Système de Climatisation
 
 Deux options de système de climatisation sont disponibles :
 
 - **Système de climatisation à 2 zones :** Permet des températures différentes pour le conducteur et le passager.
 - **Système de climatisation à 4 zones :** Permet des températures différentes pour le conducteur, le passager et deux passagers séparés à l'arrière.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Caractéristiques de confort
 
@@ -168,6 +181,8 @@ Le Jaguar I-Pace EV400 comprend plusieurs fonctionnalités pour améliorer le co
 - **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interface Utilisateur et Contrôle
 
@@ -192,6 +207,8 @@ Le Jaguar I-Pace EV400 est équipé d'un seul type de volant :
 ### Rétroviseurs
 
 Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infodivertissement
 
@@ -221,6 +238,8 @@ Les feux arrière utilisent la technologie LED, assurant à la fois une haute vi
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/headlights_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Systèmes Avancés d'Aide à la Conduite
 
 Le Jaguar I-Pace EV400 dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
@@ -242,6 +261,8 @@ Avec le système standard, le modèle n'offre aucune automatisation de la condui
 Le Jaguar I-Pace EV400 est équipé de fonctionnalités de sécurité essentielles pour vous protéger, vous et votre véhicule, offrant simplicité et fiabilité. Celles-ci incluent :
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacité de Chargement et Aptitude au Remorquage
 

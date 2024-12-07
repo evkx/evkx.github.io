@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Mercedes-EQ EQE 300 bietet eine bescheidene Leistung mit einer maximalen Leistung von 180 kW (245 PS / 241 bhp) und einem Gesamtdrehmoment von 565 Nm (417 lb-ft). Er beschleunigt in 7,3 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 210 km/h (131 mph), was ihn eher mit herkömmlichen Verbrennungsmotorfahrzeugen vergleichbar macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -50,6 +54,8 @@ Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technol
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Antriebsstrang
 
 Der Mercedes-EQ EQE 300 hat ein Heckantriebssystem, das von einem Motor an der Hinterachse unterstützt wird. Der verwendete Motor ist ein [Permanentmagnet-Synchronmotor](../../../../technology/motors/pmsm/).
@@ -72,6 +78,8 @@ Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell b
 
 Die maximale regenerative Leistung beträgt 186 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Mercedes-EQ EQE 300, mit Abmessungen von 4946 mm Länge, 1961 mm Breite und 1510 mm Höhe, fällt in die E-Segment-Autos, auch als Executive-Autos bekannt, sind größer und luxuriöser als ihre D-Segment-Pendants. Sie sind darauf ausgelegt, überlegenen Komfort, fortschrittliche Technologie und hohe Leistung zu bieten, was sie für eine bestimmte Gruppe von Fahrern geeignet macht. Der Mercedes-EQ EQE 300 bietet eine Auswahl von 11 Lackfarben, darunter Unilack-, Metallic- und Matt-Optionen. Neben der Standardpalette sind exklusive Farben aus der 'MANUFAKTUR' Palette erhältlich.
@@ -91,6 +99,8 @@ Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heck
 Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach ein normales Dach. Optional können Sie dieses Modell mit einem Panoramadach bestellen. Das Glas hat zwei Paneele. Eines über der ersten und eines über der zweiten Reihe, und die Insassen können den vorderen Teil öffnen. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Beide Glasplatten haben einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -137,6 +147,8 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-
 
 - Höhenverstellbare Kopfstütze
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Zwei Klimasystemoptionen sind verfügbar:
@@ -146,6 +158,8 @@ Zwei Klimasystemoptionen sind verfügbar:
 
 Dieses Modell hat keine [Wärmepumpe](../../../../technology/hvac/#heat-pump). Dies kann den Verbrauch bei kaltem Wetter im Vergleich zu Modellen mit Wärmepumpe erhöhen.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktionen
 
 Der Mercedes-EQ EQE 300 umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
@@ -154,6 +168,8 @@ Der Mercedes-EQ EQE 300 umfasst mehrere Funktionen, um Komfort und Bequemlichkei
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -192,6 +208,8 @@ Dieses Modell verfügt über ein optionales Sprachsteuerungssystem. Mit der Spra
 
 Dieses Modell verfügt auch über ein optionales Gestensteuerungssystem, mit dem Sie bestimmte Funktionen steuern können.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -219,6 +237,8 @@ Sie können zwischen zwei Scheinwerfertypen für den Mercedes-EQ EQE 300 wählen
 - **LED-Matrix-Scheinwerfer:** Diese adaptive System ist optional erhältlich und teilt den traditionellen einzelnen Scheinwerferstrahl in Dutzende kleinerer Strahlen auf, die der Lichtcontroller einzeln ein- und ausschalten kann, um die Beleuchtung zu optimieren, indem bestimmte kleine Bereiche vor dem Fahrzeug nicht beleuchtet werden.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -260,6 +280,8 @@ Mit dem optionalen Driver Assistance Package Plus Level 2 System erhalten Sie zu
 Der Mercedes-EQ EQE 300 ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

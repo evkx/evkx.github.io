@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Mercedes-EQ EQS 450+ liefert eine solide Leistung mit einer maximalen Leistung von 265 kW (360 PS / 355 bhp) und einem Gesamtdrehmoment von 800 Nm (590 lb-ft). Er beschleunigt in 5,6 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 210 km/h (131 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -47,6 +51,8 @@ Das Standard-Bordladegerät unterstützt bis zu 22 kW für Level 1 und Level 2 A
 Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Antriebsstrang
 
@@ -70,6 +76,8 @@ Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell b
 
 Die maximale regenerative Leistung beträgt 300 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Mercedes-EQ EQS 450+, mit Abmessungen von 5216 mm Länge, 1926 mm Breite und 1512 mm Höhe, fällt in die F-Segment-Autos, auch als Luxus- oder Full-Size-Luxusautos bekannt, repräsentieren den Höhepunkt von Automobilluxus, Leistung und Technologie. Sie sind typischerweise große Limousinen oder Limousinen und sind darauf ausgelegt, höchsten Komfort, Prestige und fortschrittliche Funktionen zu bieten. Der Mercedes-EQ EQS 450+ bietet eine Auswahl von 11 Lackfarben, darunter Unilack-, Metallic- und Matt-Optionen. Neben der Standardpalette sind exklusive Farben aus der 'MANUFAKTUR' Palette erhältlich.
@@ -92,6 +100,8 @@ Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/exterior_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -147,12 +157,16 @@ Die second-Option ist eine Drei-Sitz-Bank mit einem 40:20:40-Split, bei dem jede
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Zwei Klimasystemoptionen sind verfügbar:
 
 - **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
 - **4-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer, Beifahrer und zwei separate Passagiere auf dem Rücksitz.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktionen
 
@@ -162,6 +176,8 @@ Der Mercedes-EQ EQS 450+ umfasst mehrere Funktionen, um Komfort und Bequemlichke
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -198,6 +214,8 @@ Dieses Modell verfügt über ein optionales Sprachsteuerungssystem. Mit der Spra
 
 Dieses Modell verfügt auch über ein optionales Gestensteuerungssystem, mit dem Sie bestimmte Funktionen steuern können.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -222,6 +240,8 @@ Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse. Optio
 Der Mercedes-EQ EQS 450+ ist mit fortschrittlichen LED-Matrix-Scheinwerfern ausgestattet. Dieses adaptive System teilt den traditionellen einzelnen Scheinwerferstrahl in mehrere kleinere Strahlen auf, sodass der Lichtcontroller sie selektiv ein- und ausschalten kann, um andere Fahrer nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -267,6 +287,8 @@ Mit dem optionalen DRIVE PILOT Level 3 System erhalten Sie zusätzliche Fahrauto
 Der Mercedes-EQ EQS 450+ ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

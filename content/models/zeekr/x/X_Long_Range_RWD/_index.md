@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
-- [Performance](#performance)
-- [Battery, Range, and Charging](#battery-range-and-charging)
-- [Drivetrain (suspension, brakes, steering)](#drivetrain)
-- [Exterior (paint colors, wheels ++)](#exterior)
-- [Interior (seats++)](#interior)
-- [User interface and control](#user-interface-and-control)
-- [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Battery, Range, and Charging](#section-battery)
+- [Drivetrain (suspension, brakes, steering)](#section-drivetrain)
+- [Exterior (paint colors, wheels ++)](#section-exterior)
+- [Interior (seats++)](#section-interior)
+- [User interface and control](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lights](#section-lights)
+- [Advanced driver-assistance systems](#section-adas)
+- [Cargo Capacity and Towing Ability](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 The Zeekr X Long Range RWD offers modest performance with a maximum power of 200 kW (272 hp / 268 bhp) and a total torque of 343 Nm (253 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.6 seconds and has a top speed of 180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Battery, Range, and Charging
 
@@ -48,6 +52,8 @@ The charge port is located on the [left rear side](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivetrain
 
 The Zeekr X Long Range RWD has a rear-wheel drive system supported by one motor on the rear axle.
@@ -64,6 +70,8 @@ The Zeekr X Long Range RWD is equipped with [cast-iron disc brakes](../../../../
 
 [**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 The Zeekr X Long Range RWD, with dimensions of 4432 mm in length, 1836 mm in width, and 1566 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Zeekr X Long Range RWD is available in a total of 6 paint colors, all of which include metallic and pearlescent options.
@@ -79,6 +87,8 @@ There are two different roof options to select from. As an option, you can order
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/exterior_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -113,6 +123,8 @@ The second row features a standard three-seat bench with a  split, allowing each
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/secondrowseats_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Climate System
 
 Two climate system options are available:
@@ -122,6 +134,8 @@ Two climate system options are available:
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Comfort Features
 
 The Zeekr X Long Range RWD includes several features to enhance comfort and convenience:
@@ -129,6 +143,8 @@ The Zeekr X Long Range RWD includes several features to enhance comfort and conv
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## User Interface and Control
 
@@ -150,6 +166,8 @@ The Zeekr X Long Range RWD is equipped with a single type of steering wheel:
 ### Mirrors
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -175,6 +193,8 @@ You can choose between two types of headlights for the Zeekr X Long Range RWD.
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/headlights_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Advanced Driver Assistance Systems
 
@@ -214,6 +234,8 @@ The Zeekr X Long Range RWD is equipped with advanced security features to protec
 - **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Cargo Capacity and Towing Ability
 

@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#performance)
-- [Batería, Autonomía y Carga](#battery-range-and-charging)
-- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
-- [Exterior (colores de pintura, ruedas ++)](#exterior)
-- [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#user-interface-and-control)
-- [Infoentretenimiento](#infotainment)
-- [Luces](#lights)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
+- [Rendimiento](#section-performance)
+- [Batería, Autonomía y Carga](#section-battery)
+- [Tren motriz (suspensión, frenos, dirección)](#section-drivetrain)
+- [Exterior (colores, ruedas ++)](#section-exterior)
+- [Interior (asientos++)](#section-interior)
+- [Interfaz de usuario y control](#section-ui)
+- [Infoentretenimiento](#section-infotainment)
+- [Luces](#section-lights)
+- [Sistemas avanzados de asistencia a la conducción](#section-adas)
+- [Capacidad de Carga y Capacidad de Remolque](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Rendimiento
 
 El Onvo L60 AWD ofrece un rendimiento sólido con una potencia máxima de 340 kW (462 hp / 456 bhp) y un par total de 440 Nm (325 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 4,6 segundos y alcanza una velocidad máxima de 203 km/h (126 mph), siendo competitivo dentro de su clase.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batería, Autonomía y Carga
 
@@ -68,6 +72,8 @@ Este modelo admite el intercambio de batería. El intercambio de batería signif
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Tren Motriz
 
 El Onvo L60 AWD cuenta con un sistema de tracción en las cuatro ruedas impulsado por dos motores, uno en cada eje. Los motores utilizados son [Motores de Inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores Síncronos de Imán Permanente](../../../../technology/motors/pmsm/) en el eje trasero.
@@ -90,6 +96,8 @@ El [frenado regenerativo](../../../../technology/regen/) en este modelo se facil
 
 Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 El Onvo L60 AWD, con dimensiones de 4828 mm de longitud, 1930 mm de ancho y 1616 mm de altura, pertenece a los SUVs de tamaño medio que ofrecen una combinación de espacio, comodidad, rendimiento y versatilidad, haciéndolos adecuados para una amplia gama de conductores con diversas necesidades. El Onvo L60 AWD está disponible en un total de 7 colores de pintura sólidos.
@@ -108,6 +116,8 @@ Solo hay una opción de techo para este modelo. El techo estándar incluye un gr
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/exterior_1_st.jpg" title="Onvo L60 AWD" width="1280" height="720"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -154,6 +164,8 @@ La segunda fila cuenta con un banco estándar de tres asientos con una división
 
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/secondrowseats_1_st.jpg" title="Onvo L60 AWD" width="1536" height="864"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Sistema de Climatización
 
 Hay un sistema de climatización disponible:
@@ -161,6 +173,8 @@ Hay un sistema de climatización disponible:
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estándar, que puede ahorrar una cantidad significativa de energía que el EV usaría de otra manera para la calefacción en clima frío.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Características de Confort
 
@@ -170,6 +184,8 @@ El Onvo L60 AWD incluye varias características para mejorar la comodidad y conv
 - **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interfaz de Usuario y Control
 
@@ -196,6 +212,8 @@ El Onvo L60 AWD está equipado con un solo tipo de volante:
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
 Este modelo viene equipado con control por voz de serie, lo que le permite gestionar varias funciones a través de comandos de voz.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistema de Información y Entretenimiento
 
@@ -226,6 +244,8 @@ Además, el modelo incluye 2 conexiones USB-C como estándar. El modelo tiene 1 
 Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/headlights_1_st.jpg" title="Onvo L60 AWD" width="1320" height="916"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistemas Avanzados de Asistencia al Conductor
 
@@ -271,6 +291,8 @@ El Onvo L60 AWD está equipado con características de seguridad avanzadas para 
 - **Funcionalidad de Teléfono como Llave:** Con la tecnología de teléfono como llave, puede usar su smartphone como una llave digital para desbloquear y arrancar el vehículo, proporcionando una capa adicional de conveniencia y flexibilidad.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacidad de Carga y Remolque
 

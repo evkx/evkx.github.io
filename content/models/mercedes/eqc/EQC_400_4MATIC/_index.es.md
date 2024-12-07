@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#performance)
-- [Batería, Autonomía y Carga](#battery-range-and-charging)
-- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
-- [Exterior (colores de pintura, ruedas ++)](#exterior)
-- [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#user-interface-and-control)
-- [Infoentretenimiento](#infotainment)
-- [Luces](#lights)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
+- [Rendimiento](#section-performance)
+- [Batería, Autonomía y Carga](#section-battery)
+- [Tren motriz (suspensión, frenos, dirección)](#section-drivetrain)
+- [Exterior (colores, ruedas ++)](#section-exterior)
+- [Interior (asientos++)](#section-interior)
+- [Interfaz de usuario y control](#section-ui)
+- [Infoentretenimiento](#section-infotainment)
+- [Luces](#section-lights)
+- [Sistemas avanzados de asistencia a la conducción](#section-adas)
+- [Capacidad de Carga y Capacidad de Remolque](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Rendimiento
 
 El Mercedes-EQ EQC 400 4MATIC ofrece un rendimiento sólido con una potencia máxima de 300 kW (408 hp / 402 bhp) y un par total de 760 Nm (561 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 5,1 segundos y alcanza una velocidad máxima de 180 km/h (112 mph), siendo competitivo dentro de su clase.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batería, Autonomía y Carga
 
@@ -48,6 +52,8 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Tren Motriz
 
 El Mercedes-EQ EQC 400 4MATIC cuenta con un sistema de tracción en las cuatro ruedas impulsado por dos motores, uno en cada eje. Los motores utilizados son [Motores de Inducción](../../../../technology/motors/asm/).
@@ -68,6 +74,8 @@ El Mercedes-EQ EQC 400 4MATIC está equipado con [frenos de disco de hierro fund
 
 El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza cuando es posible y emplea el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos combina frenos físicos solo cuando es necesario. <br /><br/> Otra opción es el modo [**Regeneración en el Pedal del Acelerador**](../../../../technology/regen/#one-pedal-driving) donde el frenado regenerativo se activa cuando el conductor levanta el pie del pedal del acelerador. Este sistema permite que el vehículo disminuya la velocidad y recupere energía sin que el conductor necesite presionar el pedal del freno, una característica a menudo denominada **conducción con un solo pedal**. Sin embargo, no se considera una conducción completa con un solo pedal ya que, a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí solo.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 El Mercedes-EQ EQC 400 4MATIC, con dimensiones de 4762 mm de longitud, 1884 mm de ancho y 1624 mm de altura, pertenece a la categoría de SUVs compactos, también conocidos como C-SUVs. Estos ofrecen un equilibrio entre la practicidad y la maniobrabilidad de vehículos más pequeños y el espacio y la versatilidad de SUVs más grandes. El Mercedes-EQ EQC 400 4MATIC ofrece una selección de 11 colores de pintura, con opciones sólidas, metálicas y mate. Junto con la paleta estándar, hay colores exclusivos disponibles de la paleta 'MANUFAKTUR'.
@@ -85,6 +93,8 @@ El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [p
 Solo hay una opción de techo para este modelo. Como opción, puede pedir este modelo con un techo solar. El vidrio se extiende solo sobre la fila delantera y los ocupantes pueden abrirlo. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden usar para protegerse del sol.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -110,15 +120,21 @@ Las siguientes funcionalidades están disponibles en el asiento ****:
 
 Disponible en:
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Sistema de Climatización
 
 Hay un sistema de climatización disponible:
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Características de Confort
 
 El Mercedes-EQ EQC 400 4MATIC incluye varias características para mejorar la comodidad y conveniencia:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interfaz de Usuario y Control
 
@@ -143,6 +159,8 @@ El Mercedes-EQ EQC 400 4MATIC está equipado con un solo tipo de volante:
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Sistema de Información y Entretenimiento
 
 ### Sistema de Navegación
@@ -166,6 +184,8 @@ Puede elegir entre tres sistemas de sonido para el Mercedes-EQ EQC 400 4MATIC:
 El Mercedes-EQ EQC 400 4MATIC viene equipado con faros LED Matrix avanzados. Este sistema adaptativo divide el haz de luz tradicional en múltiples rayos más pequeños, permitiendo que el controlador de luz los encienda y apague selectivamente para evitar deslumbrar a otros conductores. Para mayor seguridad, los faros también incluyen luces de giro que iluminan el lateral al girar.
 
 Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistemas Avanzados de Asistencia al Conductor
 
@@ -207,6 +227,8 @@ El Mercedes-EQ EQC 400 4MATIC está equipado con características de seguridad a
 - **Entrada y Arranque Sin Llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin interrupciones sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacidad de Carga y Remolque
 

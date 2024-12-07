@@ -24,11 +24,15 @@ Vi har delat in vår beskrivning av Mercedes-AMG EQS 53 4MATIC+ i avsnitt. Om du
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Mercedes-AMG EQS 53 4MATIC+ imponerar med en imponerande kraft på 484 kW (658 hk) och ett imponerande totalt vridmoment på 858 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,8 sekunder och når en topphastighet på 220 km/h, vilket gör den till en stjärna i sin klass.
 
 Om du inte är tillräckligt nöjd med standardprestandan kan du lägga till prestandaalternativet AMG Dynamic Plus. Då förbättras siffrorna. Mercedes-AMG EQS 53 4MATIC+ imponerar med en imponerande kraft på 560 kW (761 hk) och ett imponerande totalt vridmoment på 1020 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,4 sekunder och når en topphastighet på 250 km/h, vilket gör den till en stjärna i sin klass.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -52,6 +56,8 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivlina
 
 Mercedes-AMG EQS 53 4MATIC+ har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -74,6 +80,8 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 Den maximala regenerativa effekten är 300 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exteriör
 
 Mercedes-AMG EQS 53 4MATIC+, med dimensioner på 5223 mm i längd, 1926 mm i bredd och 1520 mm i höjd, tillhör F-segmentet av bilar, även kallat lyxbilar eller fullstora lyxbilar. De representerar toppen av bilens lyx, prestanda och teknologi. De är vanligtvis stora sedaner eller limousiner designade för att erbjuda det bästa inom komfort, prestige och avancerade funktioner. Mercedes-AMG EQS 53 4MATIC+ erbjuder ett urval av 11 lackfärger, med enfärgade, metalliska och matta alternativ. Vid sidan av standardpaletten finns exklusiva färger tillgängliga från 'MANUFAKTUR'-paletten.
@@ -92,6 +100,8 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/exterior_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="1998"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -145,12 +155,16 @@ Alternativet second är en tresitssbänk med en 40:20:40-sektion där du kan vik
 - höjdjusterbart nackstöd
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Två klimatsystemalternativ är tillgängliga:
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 - **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
@@ -160,6 +174,8 @@ Mercedes-AMG EQS 53 4MATIC+ inkluderar flera funktioner för att förbättra kom
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -189,6 +205,8 @@ Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig s
 
 Denna modell har också ett valfritt gestkontrollsystem som låter dig styra specifika funktioner.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -213,6 +231,8 @@ Modellen har 4 USB-C-anslutningar som standard. Som ett alternativ kan du få yt
 Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt för att släcka små områden framför.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -258,6 +278,8 @@ Med det valfria DRIVE PILOT nivå 3-systemet får du ytterligare funktioner för
 Mercedes-AMG EQS 53 4MATIC+ är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

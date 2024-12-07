@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Mit der optionalen Performance Battery Plus Batterie erhalten Sie andere Leistungswerte. Mit Overboost erreicht der Porsche Taycan GTS (GEN1) eine maximale Leistung von 440 kW (598 PS / 590 bhp). Ohne Overboost bietet er starke 320 kW (435 PS / 429 bhp). Das maximale Drehmoment beträgt 850 Nm (627 lb-ft). Dieser Kraftprotz kann in nur 3,7 Sekunden von 0 auf 100 km/h (0 auf 62 mph) beschleunigen und erreicht eine Höchstgeschwindigkeit von 250 km/h (155 mph), was seine beeindruckende Leistung zeigt.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -47,6 +51,8 @@ Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 A
 Der Ladeanschluss befindet sich bequem an der [rechten Vorderseite](../../../../technology/charging/connectors/#front-side), was den Zugang an Ladestationen erleichtert, bei denen Sie parallel zum Ladegerät parken. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen. Zusätzlich bietet ein zweiter Anschluss an der [linken Vorderseite](../../../../technology/charging/connectors/#front-side) mehr Flexibilität für das AC-Laden. Die Steckertypen variieren je nach Markt. Dieses Modell verwendet [**J1772**](../../../../technology/charging/connectors/#j1772) für Nordamerika und [**TYPE2**](../../../../technology/charging/connectors/#type-2) für Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Antriebsstrang
 
@@ -70,6 +76,8 @@ Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell b
 
 Die maximale regenerative Leistung beträgt 275 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Porsche Taycan GTS (GEN1), mit Abmessungen von 4963 mm Länge, 1964 mm Breite und 1395 mm Höhe, fällt in die E-Segment-Autos, auch als Executive-Autos bekannt, sind größer und luxuriöser als ihre D-Segment-Pendants. Sie sind darauf ausgelegt, überlegenen Komfort, fortschrittliche Technologie und hohe Leistung zu bieten, was sie für eine bestimmte Gruppe von Fahrern geeignet macht. Der Porsche Taycan GTS (GEN1) ist in insgesamt 17 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen.
@@ -91,6 +99,8 @@ Es gibt drei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_gen1/exterior_1_st.jpg" title="Porsche Taycan GTS (GEN1)" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -145,6 +155,8 @@ Die standard-Option sind zwei integrierte Sitze in der zweiten Reihe. Zusätzlic
 
 Die second-Option sind zwei integrierte Sitze in der zweiten Reihe mit einem dritten kleineren Sitz dazwischen. Zusätzliche Funktionen umfassen:
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
@@ -153,11 +165,15 @@ Es gibt ein Klimasystem verfügbar:
 
 Dieses Modell hat eine [Wärmepumpe](../../../../technology/hvac/#heat-pump) als Option. Diese Wärmepumpe kann erheblich Energie sparen, die zum Heizen bei kaltem Wetter verwendet wird.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktionen
 
 Der Porsche Taycan GTS (GEN1) umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -184,6 +200,8 @@ Der Porsche Taycan GTS (GEN1) ist mit einem einzigen Lenkradtyp ausgestattet:
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -207,6 +225,8 @@ Sie können zwischen drei Soundsystemen für den Porsche Taycan GTS (GEN1) wähl
 Der Porsche Taycan GTS (GEN1) ist mit fortschrittlichen LED-Matrix-Scheinwerfern ausgestattet. Dieses adaptive System teilt den traditionellen einzelnen Scheinwerferstrahl in mehrere kleinere Strahlen auf, sodass der Lichtcontroller sie selektiv ein- und ausschalten kann, um andere Fahrer nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -254,6 +274,8 @@ Der Porsche Taycan GTS (GEN1) ist mit fortschrittlichen Sicherheitsfunktionen au
 - **Schlüsselloser Zugang und Start:** Mit dem standardmäßigen schlüssellosen Start und dem optionalen schlüssellosen Zugang können Sie das Fahrzeug nahtlos entriegeln und starten, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
-- [Performance](#performance)
-- [Battery, Range, and Charging](#battery-range-and-charging)
-- [Drivetrain (suspension, brakes, steering)](#drivetrain)
-- [Exterior (paint colors, wheels ++)](#exterior)
-- [Interior (seats++)](#interior)
-- [User interface and control](#user-interface-and-control)
-- [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Battery, Range, and Charging](#section-battery)
+- [Drivetrain (suspension, brakes, steering)](#section-drivetrain)
+- [Exterior (paint colors, wheels ++)](#section-exterior)
+- [Interior (seats++)](#section-interior)
+- [User interface and control](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lights](#section-lights)
+- [Advanced driver-assistance systems](#section-adas)
+- [Cargo Capacity and Towing Ability](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 With overboost, the Audi A6 Sportback e-tron quattro reaches a maximum power of 340 kW (462 hp / 456 bhp). Without overboost, it delivers 315 kW (428 hp / 422 bhp). The maximum torque is 855 Nm (631 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 210 km/h (131 mph), demonstrating its solid performance.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Battery, Range, and Charging
 
@@ -49,6 +53,8 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. Additionally, a second port on the [right rear side](../../../../technology/charging/connectors/#front-side) offers greater flexibility for AC charging. The connector types vary between different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and [**TYPE2**](../../../../technology/charging/connectors/#type-2) for Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivetrain
 
@@ -86,6 +92,8 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The maximum regenerative power is 220 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 The Audi A6 Sportback e-tron quattro, with dimensions of 4928 mm in length, 1923 mm in width, and 1455 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. Audi A6 Sportback e-tron quattro is available in a total of 56 paint colors, including solid, metallic, and pearlescent options. In addition to the standard palette, some colors are from the exclusive 'Audi exclusive' palette.
@@ -108,6 +116,8 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_quattro/exterior_1_st.jpg" title="Audi A6 Sportback e-tron quattro" width="3000" height="2249"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -184,6 +194,8 @@ The Audi A6 Sportback e-tron quattro offers a range of interior lighting options
 
 - **Multicolor Ambient Lighting:** This feature extends across the dashboard, door panels, and footwell, providing a harmonious and inviting atmosphere. You can customize the colors to suit your mood or preference, adding a personal touch to your driving experience. This feature is optional.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Climate System
 
 Two climate system options are available:
@@ -192,6 +204,8 @@ Two climate system options are available:
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Comfort Features
 
@@ -202,6 +216,8 @@ The Audi A6 Sportback e-tron quattro includes several features to enhance comfor
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## User Interface and Control
 
@@ -228,6 +244,8 @@ The Audi A6 Sportback e-tron quattro is equipped with a single type of steering 
 For the exterior mirrors, you can choose between camera-based mirrors with interior screens or traditional mirrors. The interior mirror is a standard mirror.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -283,6 +301,8 @@ Additionally, you have two options for taillights:
 - Optional taillights: These feature OLED technology, offering enhanced lighting performance and a distinctive look.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_quattro/headlights_1_st.jpg" title="Audi A6 Sportback e-tron quattro" width="3000" height="2250"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Advanced Driver Assistance Systems
 
@@ -349,6 +369,8 @@ The Audi A6 Sportback e-tron quattro is equipped with advanced security features
 - **Alarm System:** An optional integrated alarm system monitors for unauthorized entry or tampering, providing alerts to help deter intrusions and enhance vehicle security.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Cargo Capacity and Towing Ability
 

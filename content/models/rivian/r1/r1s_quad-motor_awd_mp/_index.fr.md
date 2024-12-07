@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performance](#performance)
-- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
-- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
-- [Extérieur (couleurs de peinture, roues ++)](#exterior)
-- [Intérieur (sièges++)](#interior)
-- [Interface utilisateur et contrôle](#user-interface-and-control)
-- [Infodivertissement](#infotainment)
-- [Éclairage](#lights)
-- [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Batterie, Autonomie et Recharge](#section-battery)
+- [Groupe motopropulseur (suspension, freins, direction)](#section-drivetrain)
+- [Extérieur (couleurs de peinture, roues ++)](#section-exterior)
+- [Intérieur (sièges++)](#section-interior)
+- [Interface utilisateur et contrôle](#section-ui)
+- [Infodivertissement](#section-infotainment)
+- [Éclairage](#section-lights)
+- [Systèmes avancés d'aide à la conduite](#section-adas)
+- [Capacité de chargement et Aptitude au remorquage](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 Le Rivian R1S Quad-Motor AWD MP délivre une puissance maximale impressionnante de 764 kW (1039 ch / 1025 bhp) et un couple total massif de 1623 Nm (1198 lb-pi). Cette bête peut passer de 0 à 100 km/h (0 à 62 mph) en seulement 2,6 secondes, démontrant son accélération époustouflante. De plus, il atteint une vitesse maximale de 201 km/h (125 mph), en faisant une véritable merveille d'ingénierie et de performance.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Autonomie et Recharge
 
@@ -48,6 +52,8 @@ Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge A
 L'emplacement du port de charge est à l'[angle avant gauche](../../../../technology/charging/connectors/#front-corner). Cet emplacement facilite l'utilisation des stations de charge où vous devez vous garer avec l'avant. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Groupe Motopropulseur
 
@@ -81,6 +87,8 @@ Le [freinage régénératif](../../../../technology/regen/) sur ce modèle est p
 
 De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous retirez votre pied de l'accélérateur. Il y a deux niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Extérieur
 
 Le Rivian R1S Quad-Motor AWD MP, avec des dimensions de 5100 mm de longueur,  mm de largeur et 1966 mm de hauteur, appartient aux SUV de grande taille, offrant le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un ensemble spécifique de conducteurs aux besoins uniques. Le Rivian R1S Quad-Motor AWD MP est disponible en un total de 9 couleurs de peinture, y compris plusieurs options métalliques frappantes.
@@ -101,6 +109,8 @@ Les vitres à partir du montant B et vers l'arrière sont teintées, ce qui amé
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Intérieur
 
@@ -141,6 +151,8 @@ La deuxième rangée dispose d'une banquette trois places standard avec une rép
 
 La troisième rangée dispose d'une banquette deux places avec une répartition 50:50. Vous pouvez également rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Système de Climatisation
 
 Il y a un système de climatisation disponible :
@@ -148,6 +160,8 @@ Il y a un système de climatisation disponible :
 - **Système de climatisation à 4 zones :** Permet des températures différentes pour le conducteur, le passager et deux passagers séparés à l'arrière.
 
 Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport aux modèles avec une pompe à chaleur.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Caractéristiques de confort
 
@@ -157,6 +171,8 @@ Le Rivian R1S Quad-Motor AWD MP comprend plusieurs fonctionnalités pour amélio
 - **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interface Utilisateur et Contrôle
 
@@ -183,6 +199,8 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 Ce modèle est équipé de la commande vocale de série, vous permettant de gérer diverses fonctions par des commandes vocales.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infodivertissement
 
 Le Rivian R1S Quad-Motor AWD MP dispose d'un système d'infodivertissement avancé basé sur Android Automotive OS, une plateforme de Google spécialement conçue pour les tableaux de bord des véhicules. Pour améliorer ce système robuste, Rivian a intégré sa propre suite d'applications, offrant une navigation fluide, des paramètres de voiture complets et bien plus encore.
@@ -206,6 +224,8 @@ Le Rivian R1S Quad-Motor AWD MP est équipé de phares à LED Matrix avancés. C
 Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/headlights_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Systèmes Avancés d'Aide à la Conduite
 
@@ -246,6 +266,8 @@ Le Rivian R1S Quad-Motor AWD MP est équipé de fonctionnalités de sécurité a
 - **Entrée et démarrage sans clé :** Le système d'entrée et de démarrage sans clé du véhicule permet un accès sans faille, vous permettant de déverrouiller et de démarrer la voiture sans avoir besoin de retirer la clé de votre poche ou de votre sac.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacité de Chargement et Aptitude au Remorquage
 

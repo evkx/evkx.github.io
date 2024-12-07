@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der MHERO I liefert eine atemberaubende maximale Leistung von 800 kW (1088 PS/1073 bhp) und ein massives Gesamtdrehmoment von 1400 Nm (1033 lb-ft). Dieser Kraftprotz kann in nur 4,2 Sekunden von 0 auf 100 km/h (0 auf 62 mph) beschleunigen und erreicht eine Höchstgeschwindigkeit von 180 km/h (112 mph), was seine erstaunliche Beschleunigung zeigt. Zusätzlich erreicht er eine Höchstgeschwindigkeit von 180 km/h (112 mph), was ihn zu einem wahren Wunderwerk der Technik und Leistung macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -53,6 +57,8 @@ Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technolo
 Dieses Modell unterstützt V2L (Vehicle 2 Load), was bedeutet, dass Sie elektrische Geräte mit bis zu 6 kW Leistung betreiben können, einschließlich des Ladens anderer Fahrzeuge.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Antriebsstrang
 
@@ -88,6 +94,8 @@ Der MHERO I ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#di
 
 Die maximale regenerative Leistung beträgt 100 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der MHERO I, mit Abmessungen von 4987 mm Länge, 2080 mm Breite und 1935 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. Das MHERO I ist in insgesamt 3 Lackfarben erhältlich, darunter mehrere auffällige Mattoptionen.
@@ -108,6 +116,8 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 {{< sitefiguresized thumb="models/mhero/i/i/exterior_1_st.jpg" title="MHERO I" width="1920" height="1080"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -152,6 +162,8 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-
 - [Massage](../../../../technology/seats/adjustment/#massage) (Standard für äußere Sitze)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
@@ -159,6 +171,8 @@ Es gibt ein Klimasystem verfügbar:
 - **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktionen
 
@@ -169,6 +183,8 @@ Der MHERO I umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbess
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -196,6 +212,8 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -217,6 +235,8 @@ Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Das M
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
 {{< sitefiguresized thumb="models/mhero/i/i/headlights_1_st.jpg" title="MHERO I" width="2000" height="1500"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -274,6 +294,8 @@ Der MHERO I ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie
 - **Integrierte Dashcam:** Die eingebaute Dashcam zeichnet Videoaufnahmen Ihrer Fahrten auf und erfasst wichtige Details, um zusätzliche Sicherheit, Verantwortlichkeit und Seelenfrieden zu bieten.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

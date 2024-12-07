@@ -24,9 +24,13 @@ Vi har delat in vår beskrivning av Tesla Model Y Standard Range i avsnitt. Om d
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Tesla Model Y Standard Range levererar en solid prestanda med en maximal effekt på 255 kW (347 hk) och ett totalt vridmoment på 420 Nm. Den kan accelerera från 0 till 100 km/h på 6,9 sekunder och når en topphastighet på 217 km/h, vilket gör den konkurrenskraftig i sin klass.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -82,6 +86,8 @@ Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivlina
 
 Tesla Model Y Standard Range har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
@@ -104,6 +110,8 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exteriör
 
 Tesla Model Y Standard Range, med dimensioner på 4751 mm i längd, 1921 mm i bredd och 1624 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Tesla Model Y Standard Range finns i totalt 6 lackfärger, inklusive både solida och metalliska alternativ.
@@ -125,6 +133,8 @@ B-stolpen och vyerna bak är tonade.
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/exterior_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2455"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -169,6 +179,8 @@ Den tredje raden har en valfri tvåsitsbänk med en 50:50-delning. Återigen kan
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/thirdrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -176,6 +188,8 @@ Det finns ett tillgängligt klimatsystem.
 - **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
@@ -186,6 +200,8 @@ Tesla Model Y Standard Range inkluderar flera funktioner för att förbättra ko
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -212,6 +228,8 @@ Tesla Model Y Standard Range är utrustad med en enda typ av ratt:
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -260,6 +278,8 @@ Tesla Model Y Standard Range kommer med en egen dedikerad mobilapp, tillgänglig
 Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt för att släcka små områden framför.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -319,6 +339,8 @@ Tesla Model Y Standard Range är utrustad med avancerade säkerhetsfunktioner f�
 - **Parkeringsövervakning:** Med hjälp av sitt kamerasystem övervakar fordonet aktivt omgivningen medan det är parkerat och ger ökat skydd genom kontinuerlig övervakning.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

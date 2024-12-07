@@ -24,9 +24,13 @@ Vi har opdelt vores BMW i5 xDrive40 artikel i sektioner. Hvis du vil vente med a
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ydeevne
 
 BMW i5 xDrive40 leverer en solid præstation med en maksimal effekt på 290 kW (394 hk) og et totalt drejningsmoment på 590 Nm. Den kan accelerere fra 0 til 100 km/t på 5,4 sekunder og når en topfart på 230 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rækkevidde og opladning
 
@@ -49,6 +53,8 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivetrain
 
@@ -74,6 +80,8 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 Den maksimale regenerative effekt er 116 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Udvendig
 
 Den BMW i5 xDrive40, med dimensioner på 5060 mm i længde, 1900 mm i bredde og 1505 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. BMW i5 xDrive40 fås i alt 12 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
@@ -95,6 +103,8 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/exterior_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="1999"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -134,6 +144,8 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/secondrowseats_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 To klimaanlægsmuligheder er tilgængelige:
@@ -143,6 +155,8 @@ To klimaanlægsmuligheder er tilgængelige:
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktioner
 
 BMW i5 xDrive40 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -151,6 +165,8 @@ BMW i5 xDrive40 inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brugergrænseflade og kontrol
 
@@ -174,6 +190,8 @@ BMW i5 xDrive40 er udstyret med en enkelt type rat:
 ### Spejle
 
 Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -205,6 +223,8 @@ Du kan vælge mellem to typer forlygter til BMW i5 xDrive40.
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/headlights_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerede førerassistentsystemer
 
@@ -247,6 +267,8 @@ BMW i5 xDrive40 er udstyret med avancerede sikkerhedsfunktioner for at beskytte 
 - **Nøglefri adgang og start:** Med den standard nøglefri start og valgfri nøglefri adgang kan du låse og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet og træk-kapacitet
 

@@ -24,9 +24,13 @@ Vi har delat in vår beskrivning av Hyundai Ioniq 5 Long Range AWD i avsnitt. Om
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Hyundai Ioniq 5 Long Range AWD levererar en solid prestanda med en maximal effekt på 239 kW (325 hk) och ett totalt vridmoment på 605 Nm. Den kan accelerera från 0 till 100 km/h på 5,3 sekunder och når en topphastighet på 185 km/h, vilket gör den konkurrenskraftig i sin klass.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -54,6 +58,8 @@ Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elekt
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivlina
 
 Hyundai Ioniq 5 Long Range AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
@@ -73,6 +79,8 @@ Dynamisk styrning är standard-funktionen för Hyundai Ioniq 5 Long Range AWD. D
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera.
 
 Den maximala regenerativa effekten är 277 kW.
+
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
@@ -94,6 +102,8 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/exterior_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -141,6 +151,8 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/secondrowseats_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -149,6 +161,8 @@ Det finns ett tillgängligt klimatsystem.
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktioner
 
 Hyundai Ioniq 5 Long Range AWD inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -156,6 +170,8 @@ Hyundai Ioniq 5 Long Range AWD inkluderar flera funktioner för att förbättra 
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -182,6 +198,8 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -207,6 +225,8 @@ Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/headlights_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -265,6 +285,8 @@ Hyundai Ioniq 5 Long Range AWD är utrustad med avancerade säkerhetsfunktioner 
 - **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

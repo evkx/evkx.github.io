@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#performance)
-- [Batería, Autonomía y Carga](#battery-range-and-charging)
-- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
-- [Exterior (colores de pintura, ruedas ++)](#exterior)
-- [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#user-interface-and-control)
-- [Infoentretenimiento](#infotainment)
-- [Luces](#lights)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
+- [Rendimiento](#section-performance)
+- [Batería, Autonomía y Carga](#section-battery)
+- [Tren motriz (suspensión, frenos, dirección)](#section-drivetrain)
+- [Exterior (colores, ruedas ++)](#section-exterior)
+- [Interior (asientos++)](#section-interior)
+- [Interfaz de usuario y control](#section-ui)
+- [Infoentretenimiento](#section-infotainment)
+- [Luces](#section-lights)
+- [Sistemas avanzados de asistencia a la conducción](#section-adas)
+- [Capacidad de Carga y Capacidad de Remolque](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Rendimiento
 
 El Peugot E-208 ofrece un rendimiento modesto con una potencia máxima de 115 kW (156 hp / 154 bhp) y un par total de 260 Nm (192 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 8,1 segundos y alcanza una velocidad máxima de 150 km/h (93 mph), alineándose más con los vehículos tradicionales de motor de combustión interna.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batería, Autonomía y Carga
 
@@ -48,6 +52,8 @@ El puerto de carga está ubicado en el [lado trasero izquierdo](../../../../tech
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Tren Motriz
 
 El Peugot E-208 cuenta con un sistema de tracción en las cuatro ruedas impulsado por dos motores, uno en cada eje.
@@ -61,6 +67,8 @@ La suspensión delantera es de [MacPherson Strut](../../../../technology/suspens
 ### Frenado Regenerativo
 
 El [frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puede usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar.
+
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exterior
 
@@ -82,6 +90,8 @@ Además, puede pedir el coche con ventanas tintadas desde el pilar B hacia atrá
 {{< sitefiguresized thumb="models/peugot/208/e-208/exterior_1_st.jpg" title="Peugot E-208" width="3000" height="1666"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -116,17 +126,23 @@ Disponible en:
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división 60:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Sistema de Climatización
 
 Hay un sistema de climatización disponible:
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estándar, que puede ahorrar una cantidad significativa de energía que el EV usaría de otra manera para la calefacción en clima frío.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Características de Confort
 
 El Peugot E-208 incluye varias características para mejorar la comodidad y conveniencia:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interfaz de Usuario y Control
 
@@ -148,6 +164,8 @@ El Peugot E-208 está equipado con un solo tipo de volante:
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistema de Información y Entretenimiento
 
@@ -172,6 +190,8 @@ El Peugot E-208 viene equipado con faros LED Matrix avanzados. Este sistema adap
 Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/peugot/208/e-208/headlights_1_st.jpg" title="Peugot E-208" width="3000" height="2000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistemas Avanzados de Asistencia al Conductor
 
@@ -200,6 +220,8 @@ El Peugot E-208 está equipado con características de seguridad avanzadas para 
 - **Entrada y Arranque Sin Llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin interrupciones, permitiéndole desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacidad de Carga y Remolque
 

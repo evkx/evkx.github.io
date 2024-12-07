@@ -24,9 +24,13 @@ Vi har opdelt vores VOYAH FREE artikel i sektioner. Hvis du vil vente med at læ
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ydeevne
 
 VOYAH FREE leverer en solid præstation med en maksimal effekt på 360 kW (490 hk) og et totalt drejningsmoment på 720 Nm. Den kan accelerere fra 0 til 100 km/t på 4,4 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rækkevidde og opladning
 
@@ -47,6 +51,8 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivetrain
 
@@ -81,6 +87,8 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 Hvis du løfter foden helt væk, er regen på et fast niveau. Dette kan ikke justeres.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Udvendig
 
 Den VOYAH FREE, med dimensioner på 4905 mm i længde, 1950 mm i bredde og 1645 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. VOYAH FREE fås i alt 6 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
@@ -98,6 +106,8 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{< sitefiguresized thumb="models/voyah/free/free/exterior_1_st.jpg" title="VOYAH FREE" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -138,6 +148,8 @@ Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan
 - højdejusterbar nakkestøtte
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -145,6 +157,8 @@ Der er et tilgængeligt klimasystem.
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
 Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
@@ -154,6 +168,8 @@ VOYAH FREE inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brugergrænseflade og kontrol
 
@@ -185,6 +201,8 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 Et gestuskontrolsystem, der lader dig styre specifikke funktioner ved hjælp af dine hænder.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -212,6 +230,8 @@ Den VOYAH FREE kommer med sin dedikerede mobilapp, tilgængelig til både Androi
 **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerede førerassistentsystemer
 
@@ -255,6 +275,8 @@ VOYAH FREE er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig o
 - **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet og træk-kapacitet
 

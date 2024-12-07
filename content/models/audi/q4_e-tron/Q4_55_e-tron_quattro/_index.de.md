@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Audi Q4 55 e-tron quattro liefert eine solide Leistung mit einer maximalen Leistung von 250 kW (340 PS / 335 bhp) und einem Gesamtdrehmoment von 679 Nm (501 lb-ft). Er beschleunigt in 5,4 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 180 km/h (112 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -51,6 +55,8 @@ Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technol
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/battery_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="1766"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Antriebsstrang
 
@@ -85,6 +91,8 @@ Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell b
 
 Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen drei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Audi Q4 55 e-tron quattro, mit Abmessungen von 4588 mm Länge, 1865 mm Breite und 1632 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der Audi Q4 55 e-tron quattro ist in insgesamt 8 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen.
@@ -108,6 +116,8 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/exterior_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="2250"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -184,6 +194,8 @@ Der Audi Q4 55 e-tron quattro bietet zahlreiche Innenraumaufbewahrungslösungen,
 - **Getränkehalter:** Zwei Getränkehalter befinden sich in der vorderen Mittelkonsole, mit zusätzlichen zwei im hinteren Armlehnenbereich.
 - **Handschuhfach:** Ein geräumiges Handschuhfach befindet sich im Armaturenbrett vor dem Beifahrer, ideal zum Aufbewahren von wichtigen Gegenständen.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Zwei Klimasystemoptionen sind verfügbar:
@@ -193,6 +205,8 @@ Zwei Klimasystemoptionen sind verfügbar:
 
 Dieses Modell hat eine [Wärmepumpe](../../../../technology/hvac/#heat-pump) als Option. Diese Wärmepumpe kann erheblich Energie sparen, die zum Heizen bei kaltem Wetter verwendet wird.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktionen
 
 Der Audi Q4 55 e-tron quattro umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
@@ -201,6 +215,8 @@ Der Audi Q4 55 e-tron quattro umfasst mehrere Funktionen, um Komfort und Bequeml
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -226,6 +242,8 @@ Der Audi Q4 55 e-tron quattro ist mit einem einzigen Lenkradtyp ausgestattet:
 ### Spiegel
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -272,6 +290,8 @@ Zusätzlich haben Sie zwei Optionen für Rücklichter:
 - Die optionalen Rücklichter verwenden LED-Technologie.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="2003"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -339,6 +359,8 @@ Der Audi Q4 55 e-tron quattro ist mit fortschrittlichen Sicherheitsfunktionen au
 - **Alarmsystem:** Ein optionales integriertes Alarmsystem überwacht unbefugtes Betreten oder Manipulation und gibt Warnungen aus, um Eindringlinge abzuschrecken und die Sicherheit des Fahrzeugs zu erhöhen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Rivian R1S Dual-Motor AWD SP liefert eine solide Leistung mit einer maximalen Leistung von 398 kW (541 PS / 534 bhp) und einem Gesamtdrehmoment von 827 Nm (610 lb-ft). Er beschleunigt in 4,5 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 201 km/h (125 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -48,6 +52,8 @@ Der Ladeanschluss befindet sich an der [linken vorderen Ecke](../../../../techno
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Antriebsstrang
 
 Der Rivian R1S Dual-Motor AWD SP verfügt über ein Allradantriebssystem, das von zwei Motoren angetrieben wird, einem an jeder Achse.
@@ -66,6 +72,8 @@ Der Rivian R1S Dual-Motor AWD SP ist mit [Gusseisenscheibenbremsen](../../../../
 
 Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen zwei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Rivian R1S Dual-Motor AWD SP, mit Abmessungen von 5100 mm Länge,  mm Breite und 1966 mm Höhe, fällt in die Full-Size-SUVs, bieten den meisten Raum, Leistung und Fähigkeit unter den SUV-Kategorien, was sie für eine bestimmte Gruppe von Fahrern mit einzigartigen Bedürfnissen geeignet macht. Der Rivian R1S Dual-Motor AWD SP ist in insgesamt 9 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
@@ -81,6 +89,8 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/exterior_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -121,6 +131,8 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, s
 
 Die dritte Reihe hat eine optionale Zweiersitzbank mit einer 50:50-Teilung. Auch hier können Sie die Sitze bei Nichtgebrauch umklappen, um eine größere Ladekapazität zu schaffen.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
@@ -128,6 +140,8 @@ Es gibt ein Klimasystem verfügbar:
 - **4-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer, Beifahrer und zwei separate Passagiere auf dem Rücksitz.
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktionen
 
@@ -137,6 +151,8 @@ Der Rivian R1S Dual-Motor AWD SP umfasst mehrere Funktionen, um Komfort und Bequ
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -163,6 +179,8 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 Der Rivian R1S Dual-Motor AWD SP verfügt über ein fortschrittliches Infotainmentsystem, das auf dem Android Automotive OS basiert, einer von Google speziell für Fahrzeug-Dashboards entwickelten Plattform. Rivian hat dieses robuste System mit einer eigenen Suite von Anwendungen erweitert, die nahtlose Navigation, umfassende Fahrzeugeinstellungen und vieles mehr bieten.
@@ -186,6 +204,8 @@ Zusätzlich verfügt das Modell standardmäßig über 6 USB-C-Anschlüsse.
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/headlights_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -221,6 +241,8 @@ Der Rivian R1S Dual-Motor AWD SP ist mit fortschrittlichen Sicherheitsfunktionen
 - **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

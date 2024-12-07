@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#performance)
-- [Batería, Autonomía y Carga](#battery-range-and-charging)
-- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
-- [Exterior (colores de pintura, ruedas ++)](#exterior)
-- [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#user-interface-and-control)
-- [Infoentretenimiento](#infotainment)
-- [Luces](#lights)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
+- [Rendimiento](#section-performance)
+- [Batería, Autonomía y Carga](#section-battery)
+- [Tren motriz (suspensión, frenos, dirección)](#section-drivetrain)
+- [Exterior (colores, ruedas ++)](#section-exterior)
+- [Interior (asientos++)](#section-interior)
+- [Interfaz de usuario y control](#section-ui)
+- [Infoentretenimiento](#section-infotainment)
+- [Luces](#section-lights)
+- [Sistemas avanzados de asistencia a la conducción](#section-adas)
+- [Capacidad de Carga y Capacidad de Remolque](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Rendimiento
 
 Con sobrealimentación, el Audi Q8 e-tron edition Dakar alcanza una potencia máxima de 300 kW (408 hp / 402 bhp). Sin sobrealimentación, ofrece 265 kW (360 hp / 355 bhp). El par máximo es de 664 Nm (490 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 5,8 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), demostrando su sólido rendimiento.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batería, Autonomía y Carga
 
@@ -49,6 +53,8 @@ El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nive
 La ubicación del puerto de carga está en el [lado delantero izquierdo](../../../../technology/charging/connectors/#front-side). Esta ubicación facilita el uso de estaciones de carga donde estaciona de lado hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas. Un segundo puerto está en el [lado delantero derecho](../../../../technology/charging/connectors/#front-side). Este puerto adicional le brinda más opciones de estacionamiento para la carga AC. Los tipos de conectores varían entre diferentes mercados. Este modelo utiliza [**J1772**](../../../../technology/charging/connectors/#j1772) para América del Norte y [**TYPE2**](../../../../technology/charging/connectors/#type-2) para Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Tren Motriz
 
@@ -86,6 +92,8 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 El Audi Q8 e-tron edition Dakar, con dimensiones de 4901 mm de longitud, 1935 mm de ancho y 1629 mm de altura, pertenece a los SUVs de tamaño medio que ofrecen una combinación de espacio, comodidad, rendimiento y versatilidad, haciéndolos adecuados para una amplia gama de conductores con diversas necesidades. El Audi Q8 e-tron edition Dakar ofrece una selección de 3 colores de pintura, incluidos colores sólidos y metálicos. Junto con la paleta estándar, hay colores exclusivos disponibles de la paleta 'Audi exclusive'.
@@ -108,6 +116,8 @@ Las ventanas desde el pilar B hacia atrás están tintadas, lo que mejora la pri
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="1999"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -190,6 +200,8 @@ La segunda fila cuenta con un banco estándar de tres asientos con una división
 - **Portavasos:** Hay dos portavasos ubicados en la consola central delantera, y dos adicionales en el reposabrazos trasero.
 - **Guantera:** Hay una espaciosa guantera situada en el tablero frente al asiento del pasajero, ideal para almacenar artículos esenciales.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Sistema de Climatización
 
 Hay dos opciones de sistemas de climatización disponibles:
@@ -198,6 +210,8 @@ Hay dos opciones de sistemas de climatización disponibles:
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estándar, que puede ahorrar una cantidad significativa de energía que el EV usaría de otra manera para la calefacción en clima frío.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Características de Confort
 
@@ -208,6 +222,8 @@ El Audi Q8 e-tron edition Dakar incluye varias características para mejorar la 
 - **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interfaz de Usuario y Control
 
@@ -232,6 +248,8 @@ El Audi Q8 e-tron edition Dakar está equipado con un solo tipo de volante:
 ### Espejos
 
 Para los espejos exteriores, puede elegir entre espejos basados en cámara con pantallas interiores o espejos tradicionales. El espejo interior es un espejo estándar.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistema de Información y Entretenimiento
 
@@ -274,6 +292,8 @@ Puede elegir entre dos tipos de faros delanteros para el Audi Q8 e-tron edition 
 Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/headlights_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistemas Avanzados de Asistencia al Conductor
 
@@ -329,6 +349,8 @@ El Audi Q8 e-tron edition Dakar está equipado con características de seguridad
 - **Sistema de Alarma:** Un sistema de alarma integrado opcional monitorea entradas no autorizadas o manipulaciones, proporcionando alertas para ayudar a disuadir intrusiones y mejorar la seguridad del vehículo.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacidad de Carga y Remolque
 

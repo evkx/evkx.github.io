@@ -24,9 +24,13 @@ Vi har opdelt vores Audi Q8 Sportback 50 e-tron artikel i sektioner. Hvis du vil
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ydeevne
 
 Audi Q8 Sportback 50 e-tron leverer en solid præstation med en maksimal effekt på 230 kW (313 hk) og et totalt drejningsmoment på 540 Nm. Den kan accelerere fra 0 til 100 km/t på 6,8 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rækkevidde og opladning
 
@@ -47,6 +51,8 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 Placeringen af ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at lade stationer, hvor du parkerer siden ind i ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder. En anden port er på [højre forside](../../../../technology/charging/connectors/#front-side). Denne ekstra port giver dig flere parkeringsmuligheder til AC-opladning. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**J1772**](../../../../technology/charging/connectors/#j1772) for Nordamerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se de fulde specifikationer for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivetrain
 
@@ -84,6 +90,8 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Udvendig
 
 Den Audi Q8 Sportback 50 e-tron, med dimensioner på 4901 mm i længde, 1935 mm i bredde og 1616 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Audi Q8 Sportback 50 e-tron fås i alt 61 lakfarver, herunder solide, metalliske og perlemorsmuligheder. Ud over standardpaletten er nogle farver fra den eksklusive 'Audi Q8 Sportback 50 e-tron' palette.
@@ -107,6 +115,8 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_sportback_50_e-tron/exterior_1_st.jpeg" title="Audi Q8 Sportback 50 e-tron" width="3000" height="2002"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -185,6 +195,8 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 - **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i den bagerste armlæn.
 - **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af essentielle genstande.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 To klimaanlægsmuligheder er tilgængelige:
@@ -193,6 +205,8 @@ To klimaanlægsmuligheder er tilgængelige:
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
@@ -203,6 +217,8 @@ Audi Q8 Sportback 50 e-tron inkluderer flere funktioner, der forbedrer komfort o
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brugergrænseflade og kontrol
 
@@ -225,6 +241,8 @@ Audi Q8 Sportback 50 e-tron er udstyret med en enkelt type rat:
 ### Spejle
 
 For de udvendige spejle kan du vælge mellem kamera-baserede spejle med indvendige skærme eller traditionelle spejle. Det indvendige spejl er et standard spejl.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -266,6 +284,8 @@ Du kan vælge mellem tre typer forlygter til Audi Q8 Sportback 50 e-tron.
 - Forlygter baseret på LED Digital Matrix-teknologi er tilgængelige som en mulighed.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerede førerassistentsystemer
 
@@ -321,6 +341,8 @@ Audi Q8 Sportback 50 e-tron er udstyret med avancerede sikkerhedsfunktioner for 
 - **Alarmsystem:** Et valgfrit integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at hjælpe med at afskrække indtrængen og forbedre køretøjets sikkerhed.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet og træk-kapacitet
 

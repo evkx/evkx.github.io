@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#performance)
-- [Batería, Autonomía y Carga](#battery-range-and-charging)
-- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
-- [Exterior (colores de pintura, ruedas ++)](#exterior)
-- [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#user-interface-and-control)
-- [Infoentretenimiento](#infotainment)
-- [Luces](#lights)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
+- [Rendimiento](#section-performance)
+- [Batería, Autonomía y Carga](#section-battery)
+- [Tren motriz (suspensión, frenos, dirección)](#section-drivetrain)
+- [Exterior (colores, ruedas ++)](#section-exterior)
+- [Interior (asientos++)](#section-interior)
+- [Interfaz de usuario y control](#section-ui)
+- [Infoentretenimiento](#section-infotainment)
+- [Luces](#section-lights)
+- [Sistemas avanzados de asistencia a la conducción](#section-adas)
+- [Capacidad de Carga y Capacidad de Remolque](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Rendimiento
 
 El Alpine A290 GT ofrece un rendimiento modesto con una potencia máxima de 130 kW (177 hp / 174 bhp) y un par total de 285 Nm (210 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 7,4 segundos y alcanza una velocidad máxima de 160 km/h (99 mph), alineándose más con los vehículos tradicionales de motor de combustión interna.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batería, Autonomía y Carga
 
@@ -48,6 +52,8 @@ La ubicación del puerto de carga está en el [lado delantero izquierdo](../../.
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Tren Motriz
 
 El Alpine A290 GT tiene un sistema de tracción delantera soportado por un motor en el eje delantero. El motor utilizado es un [Motor Síncrono de Rotor Bobinado](../../../../technology/motors/wrsm/).
@@ -68,6 +74,8 @@ El Alpine A290 GT está equipado con [frenos de disco de hierro fundido](../../.
 
 El [frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puede usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 El Alpine A290 GT, con dimensiones de 3990 mm de longitud, 1820 mm de ancho y 1520 mm de altura, pertenece al segmento de coches B, a menudo conocido como supermini, es un coche pequeño típicamente adecuado para la conducción urbana, ofreciendo un buen equilibrio entre eficiencia, tamaño y costo. El Alpine A290 GT está disponible en un total de 5 colores de pintura sólidos.
@@ -83,6 +91,8 @@ Solo hay una opción de techo para este modelo. El estándar es solo un techo re
 {{< sitefiguresized thumb="models/alpine/a290/a290_gt/exterior_1_st.jpg" title="Alpine A290 GT" width="2000" height="1000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -114,6 +124,8 @@ La segunda fila cuenta con un banco estándar de tres asientos con una división
 
 {{< sitefiguresized thumb="models/alpine/a290/a290_gt/secondrowseats_1_st.jpg" title="Alpine A290 GT" width="2000" height="1125"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Sistema de Climatización
 
 Hay un sistema de climatización disponible:
@@ -121,6 +133,8 @@ Hay un sistema de climatización disponible:
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estándar, que puede ahorrar una cantidad significativa de energía que el EV usaría de otra manera para la calefacción en clima frío.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Características de Confort
 
@@ -130,6 +144,8 @@ El Alpine A290 GT incluye varias características para mejorar la comodidad y co
 - **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interfaz de Usuario y Control
 
@@ -155,6 +171,8 @@ El Alpine A290 GT está equipado con un solo tipo de volante:
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
 Este modelo viene equipado con control por voz de serie, lo que le permite gestionar varias funciones a través de comandos de voz.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistema de Información y Entretenimiento
 
@@ -187,6 +205,8 @@ Puede elegir entre dos tipos de faros delanteros para el Alpine A290 GT.
 Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/alpine/a290/a290_gt/headlights_1_st.jpg" title="Alpine A290 GT" width="2000" height="1000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistemas Avanzados de Asistencia al Conductor
 
@@ -223,6 +243,8 @@ El Alpine A290 GT está equipado con características de seguridad avanzadas par
 - **Entrada y Arranque Sin Llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin interrupciones sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacidad de Carga y Remolque
 

@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Rivian R1S Quad-Motor AWD MP liefert eine atemberaubende maximale Leistung von 764 kW (1039 PS/1025 bhp) und ein massives Gesamtdrehmoment von 1623 Nm (1198 lb-ft). Dieser Kraftprotz kann in nur 2,6 Sekunden von 0 auf 100 km/h (0 auf 62 mph) beschleunigen und erreicht eine Höchstgeschwindigkeit von 201 km/h (125 mph), was seine erstaunliche Beschleunigung zeigt. Zusätzlich erreicht er eine Höchstgeschwindigkeit von 201 km/h (125 mph), was ihn zu einem wahren Wunderwerk der Technik und Leistung macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -48,6 +52,8 @@ Das Standard-Bordladegerät unterstützt bis zu 11,5 kW für Level 1 und Level 2
 Der Ladeanschluss befindet sich an der [linken vorderen Ecke](../../../../technology/charging/connectors/#front-corner). Diese Position erleichtert die Nutzung von Ladestationen, bei denen Sie mit der Vorderseite einparken müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Antriebsstrang
 
@@ -81,6 +87,8 @@ Der Rivian R1S Quad-Motor AWD MP ist mit [Gusseisenscheibenbremsen](../../../../
 
 Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen zwei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Rivian R1S Quad-Motor AWD MP, mit Abmessungen von 5100 mm Länge,  mm Breite und 1966 mm Höhe, fällt in die Full-Size-SUVs, bieten den meisten Raum, Leistung und Fähigkeit unter den SUV-Kategorien, was sie für eine bestimmte Gruppe von Fahrern mit einzigartigen Bedürfnissen geeignet macht. Der Rivian R1S Quad-Motor AWD MP ist in insgesamt 9 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
@@ -101,6 +109,8 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -141,6 +151,8 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, s
 
 Die dritte Reihe hat eine Zweiersitzbank mit einer 50:50-Teilung. Auch hier können Sie die Sitze bei Nichtgebrauch umklappen, um eine größere Ladekapazität zu schaffen.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
@@ -148,6 +160,8 @@ Es gibt ein Klimasystem verfügbar:
 - **4-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer, Beifahrer und zwei separate Passagiere auf dem Rücksitz.
 
 Dieses Modell hat keine [Wärmepumpe](../../../../technology/hvac/#heat-pump). Dies kann den Verbrauch bei kaltem Wetter im Vergleich zu Modellen mit Wärmepumpe erhöhen.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktionen
 
@@ -157,6 +171,8 @@ Der Rivian R1S Quad-Motor AWD MP umfasst mehrere Funktionen, um Komfort und Bequ
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -183,6 +199,8 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 Der Rivian R1S Quad-Motor AWD MP verfügt über ein fortschrittliches Infotainmentsystem, das auf dem Android Automotive OS basiert, einer von Google speziell für Fahrzeug-Dashboards entwickelten Plattform. Rivian hat dieses robuste System mit einer eigenen Suite von Anwendungen erweitert, die nahtlose Navigation, umfassende Fahrzeugeinstellungen und vieles mehr bieten.
@@ -206,6 +224,8 @@ Der Rivian R1S Quad-Motor AWD MP ist mit fortschrittlichen LED-Matrix-Scheinwerf
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/headlights_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -246,6 +266,8 @@ Der Rivian R1S Quad-Motor AWD MP ist mit fortschrittlichen Sicherheitsfunktionen
 - **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

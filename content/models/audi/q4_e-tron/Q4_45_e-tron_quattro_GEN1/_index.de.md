@@ -30,9 +30,13 @@ Dieses Modell wurde durch [Audi Q4 45 e-tron quattro](/models/audi/q4_e-tron/q4_
 
 </div>
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Audi Q4 45 e-tron quattro (GEN1) bietet eine bescheidene Leistung mit einer maximalen Leistung von 195 kW (265 PS / 262 bhp) und einem Gesamtdrehmoment von 425 Nm (314 lb-ft). Er beschleunigt in 6,9 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 180 km/h (112 mph), was ihn eher mit herkömmlichen Verbrennungsmotorfahrzeugen vergleichbar macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -55,6 +59,8 @@ Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technol
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/battery_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="1766"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Antriebsstrang
 
@@ -80,6 +86,8 @@ Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell b
 
 Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen drei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Audi Q4 45 e-tron quattro (GEN1), mit Abmessungen von 4588 mm Länge, 1865 mm Breite und 1632 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Sie können zwischen 8 verschiedenen Lackfarben wählen, wenn Sie dieses Modell bestellen.
@@ -103,6 +111,8 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/exterior_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2250"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -152,6 +162,8 @@ Die second-Option ist eine Drei-Sitz-Bank mit einem 40:20:40-Split, bei dem jede
 - **Getränkehalter:** Zwei Getränkehalter befinden sich in der vorderen Mittelkonsole, mit zusätzlichen zwei im hinteren Armlehnenbereich.
 - **Handschuhfach:** Ein geräumiges Handschuhfach befindet sich im Armaturenbrett vor dem Beifahrer, ideal zum Aufbewahren von wichtigen Gegenständen.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Zwei Klimasystemoptionen sind verfügbar:
@@ -161,6 +173,8 @@ Zwei Klimasystemoptionen sind verfügbar:
 
 Dieses Modell hat eine [Wärmepumpe](../../../../technology/hvac/#heat-pump) als Option. Diese Wärmepumpe kann erheblich Energie sparen, die zum Heizen bei kaltem Wetter verwendet wird.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktionen
 
 Der Audi Q4 45 e-tron quattro (GEN1) umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
@@ -169,6 +183,8 @@ Der Audi Q4 45 e-tron quattro (GEN1) umfasst mehrere Funktionen, um Komfort und 
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -192,6 +208,8 @@ Der Audi Q4 45 e-tron quattro (GEN1) ist mit einem einzigen Lenkradtyp ausgestat
 ### Spiegel
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -236,6 +254,8 @@ Zusätzlich haben Sie zwei Optionen für Rücklichter:
 - Die optionalen Rücklichter verwenden LED-Technologie.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/headlights_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2003"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -284,6 +304,8 @@ Der Audi Q4 45 e-tron quattro (GEN1) ist mit fortschrittlichen Sicherheitsfunkti
 - **Schlüsselloser Zugang und Start:** Mit dem standardmäßigen schlüssellosen Start und dem optionalen schlüssellosen Zugang können Sie das Fahrzeug nahtlos entriegeln und starten, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

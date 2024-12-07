@@ -24,9 +24,13 @@ Vi har opdelt vores Chevrolet Silverado EV 3WT artikel i sektioner. Hvis du vil 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ydeevne
 
 Chevrolet Silverado EV 3WT leverer en solid præstation med en maksimal effekt på 375 kW (510 hk) og et totalt drejningsmoment på 834 Nm. Den kan accelerere fra 0 til 100 km/t på 4,5 sekunder og når en topfart på 170 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rækkevidde og opladning
 
@@ -54,6 +58,8 @@ Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsy
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivetrain
 
 Chevrolet Silverado EV 3WT har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -74,6 +80,8 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 Den maksimale regenerative effekt er 400 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Udvendig
 
 Den Chevrolet Silverado EV 3WT, med dimensioner på 5920 mm i længden, 2072 mm i bredden og 2009 mm i højden, skiller sig ud i Full-size Pick-Up truck kategorien og tilbyder exceptionel plads, kraft og kapacitet. Chevrolet Silverado EV 3WT fås i alt 1 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
@@ -91,6 +99,8 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/exterior_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -124,6 +134,8 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -132,11 +144,15 @@ Der er et tilgængeligt klimasystem.
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktioner
 
 Chevrolet Silverado EV 3WT inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brugergrænseflade og kontrol
 
@@ -162,6 +178,8 @@ Chevrolet Silverado EV 3WT er udstyret med en enkelt type rat:
 ### Spejle
 
 Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -208,6 +226,8 @@ Den Chevrolet Silverado EV 3WT kommer med sin dedikerede mobilapp, tilgængelig 
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Avancerede førerassistentsystemer
 
 Den Chevrolet Silverado EV 3WT inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
@@ -248,6 +268,8 @@ Chevrolet Silverado EV 3WT er udstyret med avancerede sikkerhedsfunktioner for a
 - **Nøglefri adgang og start:** Køretøjets nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet og træk-kapacitet
 

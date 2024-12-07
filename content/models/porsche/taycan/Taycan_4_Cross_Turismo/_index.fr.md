@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performance](#performance)
-- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
-- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
-- [Extérieur (couleurs de peinture, roues ++)](#exterior)
-- [Intérieur (sièges++)](#interior)
-- [Interface utilisateur et contrôle](#user-interface-and-control)
-- [Infodivertissement](#infotainment)
-- [Éclairage](#lights)
-- [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Batterie, Autonomie et Recharge](#section-battery)
+- [Groupe motopropulseur (suspension, freins, direction)](#section-drivetrain)
+- [Extérieur (couleurs de peinture, roues ++)](#section-exterior)
+- [Intérieur (sièges++)](#section-interior)
+- [Interface utilisateur et contrôle](#section-ui)
+- [Infodivertissement](#section-infotainment)
+- [Éclairage](#section-lights)
+- [Systèmes avancés d'aide à la conduite](#section-adas)
+- [Capacité de chargement et Aptitude au remorquage](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 Avec la suralimentation, le Porsche Taycan 4 Cross Turismo atteint une puissance maximale de 350 kW (476 ch / 469 bhp). Sans suralimentation, il délivre 280 kW (381 ch / 376 bhp). Le couple maximal est de 500 Nm (369 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 5,1 secondes et atteint une vitesse maximale de 220 km/h (137 mph), démontrant ses solides performances.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Autonomie et Recharge
 
@@ -47,6 +51,8 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC 
 Le port de charge est situé sur le [côté avant droit](../../../../technology/charging/connectors/#front-side), facilitant l'accès aux stations de charge où vous vous garez parallèlement au chargeur. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes. De plus, un deuxième port sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side) offre une plus grande flexibilité pour la charge AC. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**J1772**](../../../../technology/charging/connectors/#j1772) pour l'Amérique du Nord et [**TYPE2**](../../../../technology/charging/connectors/#type-2) pour l'Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Groupe Motopropulseur
 
@@ -72,6 +78,8 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 La puissance régénérative maximale est de 265 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Extérieur
 
 Le Porsche Taycan 4 Cross Turismo, avec des dimensions de 4974 mm de longueur, 1964 mm de largeur et 1409 mm de hauteur, appartient aux voitures du segment E, également appelées voitures exécutives, qui sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un ensemble spécifique de conducteurs. Le Porsche Taycan 4 Cross Turismo est disponible en un total de 17 couleurs de peinture, y compris des options unies et métalliques.
@@ -93,6 +101,8 @@ Il y a trois options de toit différentes à sélectionner. Le toit standard est
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/exterior_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="2001"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Intérieur
 
@@ -149,6 +159,8 @@ L'option second est deux sièges intégrés dans la deuxième rangée avec un tr
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="2250"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Système de Climatisation
 
 Il y a un système de climatisation disponible :
@@ -157,11 +169,15 @@ Il y a un système de climatisation disponible :
 
 Ce modèle a une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur peut économiser une énergie significative utilisée pour le chauffage par temps froid.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Caractéristiques de confort
 
 Le Porsche Taycan 4 Cross Turismo comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interface Utilisateur et Contrôle
 
@@ -187,6 +203,8 @@ Le Porsche Taycan 4 Cross Turismo est équipé d'un seul type de volant :
 ### Rétroviseurs
 
 Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infodivertissement
 
@@ -216,6 +234,8 @@ Vous pouvez choisir entre deux types de phares pour le Porsche Taycan 4 Cross Tu
 Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/headlights_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="2000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Systèmes Avancés d'Aide à la Conduite
 
@@ -263,6 +283,8 @@ Le Porsche Taycan 4 Cross Turismo est équipé de fonctionnalités de sécurité
 - **Entrée et démarrage sans clé :** Avec le démarrage sans clé de série et l'entrée sans clé en option, vous pouvez déverrouiller et démarrer le véhicule sans faille sans retirer la clé de votre poche ou de votre sac.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacité de Chargement et Aptitude au Remorquage
 

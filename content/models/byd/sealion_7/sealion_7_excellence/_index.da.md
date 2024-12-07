@@ -24,9 +24,13 @@ Vi har opdelt vores BYD Sealion 7 Excellence artikel i sektioner. Hvis du vil ve
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ydeevne
 
 BYD Sealion 7 Excellence leverer en solid præstation med en maksimal effekt på 390 kW (530 hk) og et totalt drejningsmoment på 690 Nm. Den kan accelerere fra 0 til 100 km/t på 4,5 sekunder og når en topfart på 215 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rækkevidde og opladning
 
@@ -52,6 +56,8 @@ Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsy
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivetrain
 
 BYD Sealion 7 Excellence har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -76,6 +82,8 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 Den maksimale regenerative effekt er 200 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Udvendig
 
 Den BYD Sealion 7 Excellence, med dimensioner på 4830 mm i længde, 1875 mm i bredde og 1620 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. BYD Sealion 7 Excellence fås i alt 4 lakfarver, herunder både solide og metalliske muligheder.
@@ -93,6 +101,8 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/exterior_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="1726"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -136,6 +146,8 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/secondrowseats_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="2001"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -143,6 +155,8 @@ Der er et tilgængeligt klimasystem.
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
@@ -152,6 +166,8 @@ BYD Sealion 7 Excellence inkluderer flere funktioner, der forbedrer komfort og b
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brugergrænseflade og kontrol
 
@@ -180,6 +196,8 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -205,6 +223,8 @@ Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/headlights_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="1854"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerede førerassistentsystemer
 
@@ -245,6 +265,8 @@ BYD Sealion 7 Excellence er udstyret med avancerede sikkerhedsfunktioner for at 
 - **Telefon-som-nøgle funktionalitet:** Med telefon-som-nøgle teknologi kan du bruge din smartphone som en digital nøgle til at låse og starte køretøjet, hvilket giver et ekstra lag af bekvemmelighed og fleksibilitet.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet og træk-kapacitet
 

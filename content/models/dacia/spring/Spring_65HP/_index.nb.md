@@ -24,9 +24,13 @@ Vi har delt vår beskrivelse av Dacia Spring 65HP i seksjoner. Hvis du vil vente
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ytelse
 
 Dacia Spring 65HP gir grunnleggende ytelse med en maksimal effekt på 48 kW (65 hk) og et totalt dreiemoment på 113 Nm. Den akselererer fra 0 til 100 km/t på 13,7 sekunder og når en toppfart på 125 km/t, noe som er mer sammenlignbart med innstegsmodeller av tradisjonelle forbrenningsmotorbiler.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
@@ -48,6 +52,8 @@ Plasseringen av ladeporten er på [fronten](../../../../technology/charging/conn
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivverk
 
 Dacia Spring 65HP har et forhjulsdriftssystem støttet av én motor på forakselen.
@@ -61,6 +67,8 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 ### Regenerativ bremsing
 
 [Regenerativ bremsing](../../../../technology/regen/) i denne modellen er primært tilrettelagt gjennom [**en-pedalskjøring**](../../../../technology/regen/#one-pedal-driving). I motsetning til noen modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling ikke tilgjengelig her.
+
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
@@ -80,6 +88,8 @@ Det er bare ett tak for denne modellen.
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/exterior_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -112,6 +122,8 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -120,11 +132,15 @@ Det er ett tilgjengelig klimasystem.
 
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunksjoner
 
 Dacia Spring 65HP inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brukergrensesnitt og kontroll
 
@@ -146,6 +162,8 @@ Dacia Spring 65HP er utstyrt med en enkelt type ratt:
 ### Speil
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -173,6 +191,8 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/headlights_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
 
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Avanserte førerassistentsystemer
 
 Dacia Spring 65HP inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
@@ -196,6 +216,8 @@ Dacia Spring 65HP er utstyrt med essensielle sikkerhetsfunksjoner for å beskytt
 - **Manuell nøkkeltilgang:** Kjøretøyet bruker et tradisjonelt nøkkelsystem, slik at du enkelt kan låse opp og starte bilen manuelt.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastekapasitet og slepeevne
 

@@ -24,9 +24,13 @@ Vi har delat in vår beskrivning av Alpine A290 GT i avsnitt. Om du vill vänta 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Alpine A290 GT erbjuder blygsamma prestanda med en maximal effekt på 130 kW (177 hk) och ett totalt vridmoment på 285 Nm. Den accelererar från 0 till 100 km/h på 7,4 sekunder och har en topphastighet på 160 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -48,6 +52,8 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivlina
 
 Alpine A290 GT har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Synkronmotor med lindad rotor](../../../../technology/motors/wrsm/).
@@ -68,6 +74,8 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exteriör
 
 Alpine A290 GT, med dimensioner på 3990 mm i längd, 1820 mm i bredd och 1520 mm i höjd, tillhör B-segmentet av bilar, även kallat supermini. Det är en liten bil som vanligtvis passar bra för stadskörning och erbjuder en bra balans mellan effektivitet, storlek och kostnad. Alpine A290 GT finns i totalt 5 enfärgade lackfärger.
@@ -83,6 +91,8 @@ Det finns bara ett tak för denna modell. Standardinställningen är bara ett va
 {{< sitefiguresized thumb="models/alpine/a290/a290_gt/exterior_1_st.jpg" title="Alpine A290 GT" width="2000" height="1000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -114,6 +124,8 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 {{< sitefiguresized thumb="models/alpine/a290/a290_gt/secondrowseats_1_st.jpg" title="Alpine A290 GT" width="2000" height="1125"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -121,6 +133,8 @@ Det finns ett tillgängligt klimatsystem.
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
@@ -130,6 +144,8 @@ Alpine A290 GT inkluderar flera funktioner för att förbättra komfort och bekv
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -155,6 +171,8 @@ Alpine A290 GT är utrustad med en enda typ av ratt:
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -187,6 +205,8 @@ Du kan välja mellan två typer av strålkastare för Alpine A290 GT.
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/alpine/a290/a290_gt/headlights_1_st.jpg" title="Alpine A290 GT" width="2000" height="1000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -223,6 +243,8 @@ Alpine A290 GT är utrustad med avancerade säkerhetsfunktioner för att skydda 
 - **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

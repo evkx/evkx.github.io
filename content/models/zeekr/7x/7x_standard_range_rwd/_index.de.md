@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Zeekr 7X Standard Range RWD liefert eine solide Leistung mit einer maximalen Leistung von 310 kW (422 PS / 416 bhp) und einem Gesamtdrehmoment von 440 Nm (325 lb-ft). Er beschleunigt in 5,8 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 200 km/h (124 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -49,6 +53,8 @@ Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technolo
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/battery_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="1576" height="900"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Antriebsstrang
 
@@ -74,6 +80,8 @@ Der Zeekr 7X Standard Range RWD ist mit [Gusseisenscheibenbremsen](../../../../t
 
 [**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Zeekr 7X Standard Range RWD, mit Abmessungen von 4825 mm Länge, 1930 mm Breite und 1656 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. Der Zeekr 7X Standard Range RWD ist in insgesamt 7 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
@@ -94,6 +102,8 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/exterior_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -150,6 +160,8 @@ Die second-Option ist ein [Executive-Sitz kombiniert mit einer Zwei-Sitz-Bank](.
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/secondrowseats_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="1600" height="899"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
@@ -157,6 +169,8 @@ Es gibt ein Klimasystem verfügbar:
 - **3-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen in drei Zonen für Fahrer, Beifahrer und Rücksitz.
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktionen
 
@@ -166,6 +180,8 @@ Der Zeekr 7X Standard Range RWD umfasst mehrere Funktionen, um Komfort und Beque
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -193,6 +209,8 @@ Der Zeekr 7X Standard Range RWD ist mit einem einzigen Lenkradtyp ausgestattet:
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
 Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -231,6 +249,8 @@ Sie können zwischen zwei Scheinwerfertypen für den Zeekr 7X Standard Range RWD
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/headlights_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="2400" height="1350"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -278,6 +298,8 @@ Der Zeekr 7X Standard Range RWD ist mit fortschrittlichen Sicherheitsfunktionen 
 - **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

@@ -24,9 +24,13 @@ Vi har opdelt vores Porsche Taycan Turbo S Sport Turismo artikel i sektioner. Hv
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ydeevne
 
 Med overboost leverer Porsche Taycan Turbo S Sport Turismo en fantastisk maksimal effekt på 700 kW (952 hk). Selv uden overboost har den en formidabel effekt på 620 kW (843 hk). Det maksimale drejningsmoment når utrolige 1110 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på kun 2,4 sekunder og opnår en topfart på 260 km/t, hvilket understreger dens betagende ydeevne.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rækkevidde og opladning
 
@@ -50,6 +54,8 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivetrain
 
 Porsche Taycan Turbo S Sport Turismo har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -72,6 +78,8 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 Den maksimale regenerative effekt er 275 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Udvendig
 
 Den Porsche Taycan Turbo S Sport Turismo, med dimensioner på 4963 mm i længde, 1966 mm i bredde og 1381 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Porsche Taycan Turbo S Sport Turismo fås i alt 17 lakfarver, herunder både solide og metalliske muligheder.
@@ -93,6 +101,8 @@ Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et al
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -137,6 +147,8 @@ Muligheden standard er to integrerede sæder i anden række. Derudover er følge
 
 Muligheden second er to integrerede sæder i anden række med et tredje mindre sæde imellem. Derudover er følgende funktionaliteter tilgængelige.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -145,11 +157,15 @@ Der er et tilgængeligt klimasystem.
 
 Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktioner
 
 Porsche Taycan Turbo S Sport Turismo inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brugergrænseflade og kontrol
 
@@ -176,6 +192,8 @@ Porsche Taycan Turbo S Sport Turismo er udstyret med en enkelt type rat:
 
 Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -201,6 +219,8 @@ De standard forlygter bruger LED Matrix-teknologi. LED Matrix er et adaptivt sys
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo" width="3000" height="1688"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerede førerassistentsystemer
 
@@ -248,6 +268,8 @@ Porsche Taycan Turbo S Sport Turismo er udstyret med avancerede sikkerhedsfunkti
 - **Nøglefri adgang og start:** Med den standard nøglefri start og valgfri nøglefri adgang kan du låse og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet og træk-kapacitet
 

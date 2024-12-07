@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Tesla Model 3 Performance liefert eine solide Leistung mit einer maximalen Leistung von 393 kW (534 PS / 527 bhp) und einem Gesamtdrehmoment von 660 Nm (487 lb-ft). Er beschleunigt in 3,3 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 261 km/h (162 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -47,6 +51,8 @@ Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 A
 Der Ladeanschluss befindet sich bequem an der [linken hinteren Ecke](../../../../technology/charging/connectors/#rear-corner) des Fahrzeugs, was den Zugang beim Rückwärtsfahren zu Ladestationen erleichtert. Die Steckertypen variieren je nach Markt. Dieses Modell verwendet [**NACS**](../../../../technology/charging/connectors/#nacs) für Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) für Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Antriebsstrang
 
@@ -70,6 +76,8 @@ Der Tesla Model 3 Performance ist mit [Gusseisenscheibenbremsen](../../../../tec
 
 Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen zwei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Tesla Model 3 Performance, mit Abmessungen von 4694 mm Länge, 1849 mm Breite und 1443 mm Höhe, fällt in die D-Segment-Autos, auch als Mittelklasse- oder Familienautos bekannt, bieten mehr Platz, Komfort und Funktionen als kleinere Segmente, was sie für eine Vielzahl von Fahrern geeignet macht. Der Tesla Model 3 Performance ist in insgesamt 5 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen.
@@ -90,6 +98,8 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/exterior_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2658"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -124,6 +134,8 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
@@ -131,6 +143,8 @@ Es gibt ein Klimasystem verfügbar:
 - **1-Zonen-Klimasystem:** Unterstützt nur die Steuerung einer gemeinsamen Zone für das gesamte Auto.
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktionen
 
@@ -140,6 +154,8 @@ Der Tesla Model 3 Performance umfasst mehrere Funktionen, um Komfort und Bequeml
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -163,6 +179,8 @@ Der Tesla Model 3 Performance ist mit einem einzigen Lenkradtyp ausgestattet:
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -184,6 +202,8 @@ Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/headlights_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -243,6 +263,8 @@ Der Tesla Model 3 Performance ist mit fortschrittlichen Sicherheitsfunktionen au
 - **Parküberwachung:** Mit seinem Kamerasystem überwacht das Fahrzeug aktiv die Umgebung, während es geparkt ist, und bietet durch kontinuierliche Überwachung einen verbesserten Schutz.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

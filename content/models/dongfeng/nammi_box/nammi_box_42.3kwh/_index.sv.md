@@ -24,9 +24,13 @@ Vi har delat in vår beskrivning av Dongfeng Nammi Box 42.3kWh i avsnitt. Om du 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Dongfeng Nammi Box 42.3kWh erbjuder grundläggande prestanda med en maximal effekt på 70 kW (95 hk) och ett totalt vridmoment på 175 Nm. Den accelererar från 0 till 100 km/h på 14 sekunder och når en topphastighet på 140 km/h, vilket är mer jämförbart med instegsmodeller av traditionella förbränningsmotorfordon.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -51,6 +55,8 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till 3,6 kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivlina
 
@@ -80,6 +86,8 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 Den maximala regenerativa effekten är 50 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exteriör
 
 Dongfeng Nammi Box 42.3kWh, med dimensioner på 4020 mm i längd, 1810 mm i bredd och 1570 mm i höjd, tillhör B-segmentet av bilar, även kallat supermini. Det är en liten bil som vanligtvis passar bra för stadskörning och erbjuder en bra balans mellan effektivitet, storlek och kostnad. Dongfeng Nammi Box 42.3kWh finns i totalt 4 enfärgade lackfärger.
@@ -95,6 +103,8 @@ Det finns bara ett tak för denna modell.
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/exterior_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -132,6 +142,8 @@ Den andra raden har en standardbänk med tre sittplatser med en 100-sektion där
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -140,6 +152,8 @@ Det finns ett tillgängligt klimatsystem.
 
 Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktioner
 
 Dongfeng Nammi Box 42.3kWh inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -147,6 +161,8 @@ Dongfeng Nammi Box 42.3kWh inkluderar flera funktioner för att förbättra komf
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -175,6 +191,8 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 Dongfeng Nammi Box 42.3kWh har ett specialbyggt infotainmentsystem som är utformat för att ge ett gränssnitt med en rad funktioner och funktioner för att förbättra körupplevelsen.
@@ -194,6 +212,8 @@ Modellen har 1 USB-A-anslutningar som standard.
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/headlights_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="1920" height="1080"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -239,6 +259,8 @@ Dongfeng Nammi Box 42.3kWh är utrustad med avancerade säkerhetsfunktioner för
 - **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

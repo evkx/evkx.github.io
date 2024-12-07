@@ -24,9 +24,13 @@ Vi har delt vår beskrivelse av Zeekr X Privilege AWD i seksjoner. Hvis du vil v
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ytelse
 
 Zeekr X Privilege AWD leverer solid ytelse med en maksimal effekt på 315 kW (428 hk) og et totalt dreiemoment på 543 Nm. Den kan akselerere fra 0 til 100 km/t på 3,8 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
@@ -48,6 +52,8 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivverk
 
 Zeekr X Privilege AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
@@ -64,6 +70,8 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 [**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. Imidlertid blir [regenerativ bremsing](../../../../technology/regen/) muliggjort gjennom [**enpedals kjøring**](../../../../technology/regen/#one-pedal-driving) kombinert med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Eksteriør
 
 Zeekr X Privilege AWD, med dimensjoner på 4432 mm i lengde, 1836 mm i bredde og 1566 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Zeekr X Privilege AWD er tilgjengelig i totalt 6 lakkfarger, alle inkluderer metalliske og perlemorsalternativer.
@@ -79,6 +87,8 @@ Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/exterior_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -113,6 +123,8 @@ Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hv
 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/secondrowseats_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 To klimasystemalternativer er tilgjengelige:
@@ -122,6 +134,8 @@ To klimasystemalternativer er tilgjengelige:
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunksjoner
 
 Zeekr X Privilege AWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -129,6 +143,8 @@ Zeekr X Privilege AWD inkluderer flere funksjoner for å forbedre komfort og bek
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brukergrensesnitt og kontroll
 
@@ -150,6 +166,8 @@ Zeekr X Privilege AWD er utstyrt med en enkelt type ratt:
 ### Speil
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -175,6 +193,8 @@ Du kan velge mellom to typer frontlykter for Zeekr X Privilege AWD.
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/headlights_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avanserte førerassistentsystemer
 
@@ -214,6 +234,8 @@ Zeekr X Privilege AWD er utstyrt med avanserte sikkerhetsfunksjoner for å besky
 - **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastekapasitet og slepeevne
 

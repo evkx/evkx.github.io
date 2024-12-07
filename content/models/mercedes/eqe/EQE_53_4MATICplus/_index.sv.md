@@ -24,11 +24,15 @@ Vi har delat in vår beskrivning av Mercedes-AMG EQE 53 4MATIC+ i avsnitt. Om du
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Mercedes-AMG EQE 53 4MATIC+ imponerar med en imponerande kraft på 460 kW (625 hk) och ett imponerande totalt vridmoment på 950 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,5 sekunder och når en topphastighet på 220 km/h, vilket gör den till en stjärna i sin klass.
 
 Om du inte är tillräckligt nöjd med standardprestandan kan du lägga till prestandaalternativet AMG Dynamic Plus. Då förbättras siffrorna. Mercedes-AMG EQE 53 4MATIC+ imponerar med en imponerande kraft på 505 kW (687 hk) och ett imponerande totalt vridmoment på 1000 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,3 sekunder och når en topphastighet på 240 km/h, vilket gör den till en stjärna i sin klass.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -52,6 +56,8 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivlina
 
 Mercedes-AMG EQE 53 4MATIC+ har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -72,6 +78,8 @@ Du kan välja mellan olika bromssystem. Bromsarna standard använder vanliga [gj
 
 Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektiviteten och körupplevelsen. Det mest effektiva alternativet är [**Automatiskt Regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet seglar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det är nödvändigt. <br /><br/> Ett annat alternativ är läget [**Regen på Gaspedal**](../../../../technology/regen/#one-pedal-driving), där regenerativ bromsning aktiveras när föraren släpper gaspedalen. Detta system tillåter fordonet att sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalskörning**. Du kan välja mellan två stoppmodi för enpedalskörning. **Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar, och **Roll-läge** låter fordonet rulla tills det stannar naturligt.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exteriör
 
 Mercedes-AMG EQE 53 4MATIC+, med dimensioner på 4964 mm i längd, 1961 mm i bredd och 1492 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Mercedes-AMG EQE 53 4MATIC+ erbjuder ett urval av 11 lackfärger, med enfärgade, metalliska och matta alternativ. Vid sidan av standardpaletten finns exklusiva färger tillgängliga från 'MANUFAKTUR'-paletten.
@@ -90,6 +98,8 @@ Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [bakluck
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humöret och komforten för den åkande. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -138,6 +148,8 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/secondrowseats_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2000"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Två klimatsystemalternativ är tillgängliga:
@@ -147,6 +159,8 @@ Två klimatsystemalternativ är tillgängliga:
 
 Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktioner
 
 Mercedes-AMG EQE 53 4MATIC+ inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -155,6 +169,8 @@ Mercedes-AMG EQE 53 4MATIC+ inkluderar flera funktioner för att förbättra kom
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -193,6 +209,8 @@ Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig s
 
 Denna modell har också ett valfritt gestkontrollsystem som låter dig styra specifika funktioner.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -222,6 +240,8 @@ Du kan välja mellan två typer av strålkastare för Mercedes-AMG EQE 53 4MATIC
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/headlights_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="1738"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -263,6 +283,8 @@ Med det valfria Driver Assistance Package Plus nivå 2-systemet får du ytterlig
 Mercedes-AMG EQE 53 4MATIC+ är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
-- [Performance](#performance)
-- [Battery, Range, and Charging](#battery-range-and-charging)
-- [Drivetrain (suspension, brakes, steering)](#drivetrain)
-- [Exterior (paint colors, wheels ++)](#exterior)
-- [Interior (seats++)](#interior)
-- [User interface and control](#user-interface-and-control)
-- [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Battery, Range, and Charging](#section-battery)
+- [Drivetrain (suspension, brakes, steering)](#section-drivetrain)
+- [Exterior (paint colors, wheels ++)](#section-exterior)
+- [Interior (seats++)](#section-interior)
+- [User interface and control](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lights](#section-lights)
+- [Advanced driver-assistance systems](#section-adas)
+- [Cargo Capacity and Towing Ability](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 The Cadillac LYRIQ AWD delivers a solid performance with a maximum power of 384 kW (522 hp / 515 bhp) and a total torque of 610 Nm (450 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.7 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Battery, Range, and Charging
 
@@ -50,6 +54,8 @@ The location of the charge port is on the [left front side](../../../../technolo
 ### Bidirectional Charging
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivetrain
 
@@ -81,6 +87,8 @@ The Cadillac LYRIQ AWD is equipped with [cast-iron disc brakes](../../../../tech
 
 Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are two levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 The Cadillac LYRIQ AWD, with dimensions of 4996 mm in length, 1977 mm in width, and 1623 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Cadillac LYRIQ AWD is available in a total of 8 paint colors, including several striking metallic options.
@@ -101,6 +109,8 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/exterior_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2249"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -145,6 +155,8 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/secondrowseats_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2249"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Climate System
 
 Two climate system options are available:
@@ -154,6 +166,8 @@ Two climate system options are available:
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Comfort Features
 
 The Cadillac LYRIQ AWD includes several features to enhance comfort and convenience:
@@ -162,6 +176,8 @@ The Cadillac LYRIQ AWD includes several features to enhance comfort and convenie
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## User Interface and Control
 
@@ -188,6 +204,8 @@ The Cadillac LYRIQ AWD is equipped with a single type of steering wheel:
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -232,6 +250,8 @@ The Cadillac LYRIQ AWD comes with a dedicated mobile app, available for both And
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/headlights_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="1973"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Advanced Driver Assistance Systems
 
@@ -289,6 +309,8 @@ The Cadillac LYRIQ AWD is equipped with advanced security features to protect yo
 - **Alarm System:** An integrated alarm system monitors for unauthorized entry or tampering, providing alerts to help deter intrusions and keep your vehicle secure.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Cargo Capacity and Towing Ability
 

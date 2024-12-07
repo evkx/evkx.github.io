@@ -24,9 +24,13 @@ Vi har delt vår beskrivelse av Audi Q4 45 e-tron quattro i seksjoner. Hvis du v
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ytelse
 
 Audi Q4 45 e-tron quattro leverer solid ytelse med en maksimal effekt på 210 kW (286 hk) og et totalt dreiemoment på 679 Nm. Den kan akselerere fra 0 til 100 km/t på 6,6 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
@@ -51,6 +55,8 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/battery_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="1766"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivverk
 
@@ -85,6 +91,8 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det finnes tre nivåer av regenerativ bremsing å velge mellom, noe som gir deg mulighet til å tilpasse kjøreopplevelsen etter dine preferanser.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Eksteriør
 
 Audi Q4 45 e-tron quattro, med dimensjoner på 4588 mm i lengde, 1865 mm i bredde og 1632 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Audi Q4 45 e-tron quattro er tilgjengelig i totalt 8 lakkfarger, inkludert både solide og metalliske alternativer.
@@ -108,6 +116,8 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/exterior_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="2250"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -184,6 +194,8 @@ Audi Q4 45 e-tron quattro gir rikelige interiørlagringsløsninger for å forbed
 - **Koppholdere:** To koppholdere er plassert i den fremre midtkonsollen, med ytterligere to i bakre armlene.
 - **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjeren, ideelt for oppbevaring av nødvendige gjenstander.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 To klimasystemalternativer er tilgjengelige:
@@ -193,6 +205,8 @@ To klimasystemalternativer er tilgjengelige:
 
 Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunksjoner
 
 Audi Q4 45 e-tron quattro inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -201,6 +215,8 @@ Audi Q4 45 e-tron quattro inkluderer flere funksjoner for å forbedre komfort og
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brukergrensesnitt og kontroll
 
@@ -226,6 +242,8 @@ Audi Q4 45 e-tron quattro er utstyrt med en enkelt type ratt:
 ### Speil
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -272,6 +290,8 @@ I tillegg har du to alternativer for baklykter:
 - De valgfrie baklyktene bruker LED-teknologi.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="2003"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avanserte førerassistentsystemer
 
@@ -339,6 +359,8 @@ Audi Q4 45 e-tron quattro er utstyrt med avanserte sikkerhetsfunksjoner for å b
 - **Alarmsystem:** Et valgfritt integrert alarmsystem overvåker uautorisert tilgang eller tukling, og gir varsler for å bidra til å avskrekke innbrudd og forbedre kjøretøyets sikkerhet.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastekapasitet og slepeevne
 

@@ -30,9 +30,13 @@ Denna modell har ersatts av [Volvo EX40 Single Motor ER](/models/volvo/ex40/ex40
 
 </div>
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Volvo XC40 Recharge Single Motor ER erbjuder blygsamma prestanda med en maximal effekt på 185 kW (252 hk) och ett totalt vridmoment på 420 Nm. Den accelererar från 0 till 100 km/h på 7,3 sekunder och har en topphastighet på 160 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -54,6 +58,8 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivlina
 
 Volvo XC40 Recharge Single Motor ER har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
@@ -69,6 +75,8 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 ### Regenerativ bromsning
 
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Systemet stoppar bilen helt med hjälp av friktionsbromsar.
+
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör
 
@@ -88,6 +96,8 @@ Det finns två olika takalternativ att välja mellan. Som tillval kan du bestäl
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/exterior_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="1920" height="1080"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -116,6 +126,8 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -124,6 +136,8 @@ Det finns ett tillgängligt klimatsystem.
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktioner
 
 Volvo XC40 Recharge Single Motor ER inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -131,6 +145,8 @@ Volvo XC40 Recharge Single Motor ER inkluderar flera funktioner för att förbä
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -155,6 +171,8 @@ Volvo XC40 Recharge Single Motor ER är utrustad med en enda typ av ratt:
 
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Ljudsystem
@@ -176,6 +194,8 @@ Du kan välja mellan två typer av strålkastare för Volvo XC40 Recharge Single
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/headlights_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="1080" height="1080"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -209,6 +229,8 @@ Volvo XC40 Recharge Single Motor ER är utrustad med avancerade säkerhetsfunkti
 - **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

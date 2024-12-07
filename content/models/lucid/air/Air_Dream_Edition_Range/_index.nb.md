@@ -24,9 +24,13 @@ Vi har delt vår beskrivelse av Lucid Air Dream Edition Range i seksjoner. Hvis 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ytelse
 
 Lucid Air Dream Edition Range leverer en imponerende maksimal effekt på 696 KW (946 hk) og et massivt dreiemoment på 1390 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 2,9 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 270 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
@@ -48,6 +52,8 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivverk
 
 Lucid Air Dream Edition Range har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -68,6 +74,8 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 [Regenerativ bremsing](../../../../technology/regen/) i denne modellen er primært tilrettelagt gjennom [**en-pedalskjøring**](../../../../technology/regen/#one-pedal-driving). I motsetning til noen modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling ikke tilgjengelig her. Systemet stopper bilen helt ved hjelp av friksjonsbremser.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Eksteriør
 
 Lucid Air Dream Edition Range, med dimensjoner på 4975 mm i lengde, 1939 mm i bredde og 1410 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Du kan velge mellom 4 forskjellige lakkfarger når du bestiller denne modellen.
@@ -87,6 +95,8 @@ Det er bare ett tak for denne modellen. Forruten er panoramautsikt tilbake over 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/exterior_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="1945"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -123,6 +133,8 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/secondrowseats_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2077"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -130,6 +142,8 @@ Det er ett tilgjengelig klimasystem.
 - **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
 
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
@@ -139,6 +153,8 @@ Lucid Air Dream Edition Range inkluderer flere funksjoner for å forbedre komfor
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brukergrensesnitt og kontroll
 
@@ -165,6 +181,8 @@ Lucid Air Dream Edition Range er utstyrt med en enkelt type ratt:
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigasjonssystem
@@ -187,6 +205,8 @@ Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/headlights_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2001"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avanserte førerassistentsystemer
 
@@ -220,6 +240,8 @@ Lucid Air Dream Edition Range er utstyrt med avanserte sikkerhetsfunksjoner for 
 - **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastekapasitet og slepeevne
 

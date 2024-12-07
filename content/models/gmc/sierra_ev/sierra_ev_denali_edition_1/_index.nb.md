@@ -24,9 +24,13 @@ Vi har delt vår beskrivelse av GMC Sierra EV Denali Edition 1 i seksjoner. Hvis
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ytelse
 
 GMC Sierra EV Denali Edition 1 imponerer med en imponerende kraft på 562 kW (764 hk) og et betydelig dreiemoment på 1064 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,5 sekunder og har en toppfart på 170 km/t, noe som gjør den til en markant modell i sin klasse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
@@ -55,6 +59,8 @@ Denne modellen støtter både V2L (Vehicle to Load) og V2H (Vehicle to Home) fun
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/v2l_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1280" height="1056"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivverk
 
@@ -89,6 +95,8 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 Den maksimale regenerative effekten er 400 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Eksteriør
 
 GMC Sierra EV Denali Edition 1, med dimensjoner på 5920 mm i lengde, 2072 mm i bredde og 2009 mm i høyde, skiller seg ut i Full-size Pick-Up truck kategorien og tilbyr eksepsjonell plass, kraft og kapasitet. GMC Sierra EV Denali Edition 1 er tilgjengelig i totalt 1 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
@@ -106,6 +114,8 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/exterior_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1920" height="1080"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -144,6 +154,8 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (standard for ytre seter)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -151,6 +163,8 @@ Det er ett tilgjengelig klimasystem.
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
@@ -160,6 +174,8 @@ GMC Sierra EV Denali Edition 1 inkluderer flere funksjoner for å forbedre komfo
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brukergrensesnitt og kontroll
 
@@ -187,6 +203,8 @@ GMC Sierra EV Denali Edition 1 er utstyrt med en enkelt type ratt:
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -231,6 +249,8 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/headlights_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="2000" height="1000"  >}}
 
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Avanserte førerassistentsystemer
 
 GMC Sierra EV Denali Edition 1 inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
@@ -273,6 +293,8 @@ GMC Sierra EV Denali Edition 1 er utstyrt med avanserte sikkerhetsfunksjoner for
 - **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastekapasitet og slepeevne
 

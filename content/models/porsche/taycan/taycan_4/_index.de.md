@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Mit der optionalen Performance Battery Plus Batterie erhalten Sie andere Leistungswerte. Mit Overboost erreicht der Porsche Taycan 4 eine maximale Leistung von 300 kW (408 PS / 402 bhp). Ohne Overboost liefert er 300 kW (408 PS / 402 bhp). Das maximale Drehmoment beträgt 420 Nm (310 lb-ft). Er beschleunigt in 4,8 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 230 km/h (143 mph), was seine solide Leistung demonstriert. Mit Overboost erreicht der Porsche Taycan 4 eine maximale Leistung von 300 kW (408 PS / 402 bhp). Ohne Overboost liefert er 300 kW (408 PS / 402 bhp). Das maximale Drehmoment beträgt 410 Nm (303 lb-ft). Er beschleunigt in 4,8 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 230 km/h (143 mph), was seine solide Leistung demonstriert.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -61,6 +65,8 @@ Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 A
 Der Ladeanschluss befindet sich bequem an der [rechten Vorderseite](../../../../technology/charging/connectors/#front-side), was den Zugang an Ladestationen erleichtert, bei denen Sie parallel zum Ladegerät parken. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen. Zusätzlich bietet ein zweiter Anschluss an der [linken Vorderseite](../../../../technology/charging/connectors/#front-side) mehr Flexibilität für das AC-Laden. Die Steckertypen variieren je nach Markt. Dieses Modell verwendet [**J1772**](../../../../technology/charging/connectors/#j1772) für Nordamerika und [**TYPE2**](../../../../technology/charging/connectors/#type-2) für Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Antriebsstrang
 
@@ -104,6 +110,8 @@ Wenn Sie den Fuß vollständig vom Pedal nehmen, ist die Regeneration auf einem 
 
 Die maximale regenerative Leistung beträgt 265 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Porsche Taycan 4, mit Abmessungen von 4963 mm Länge, 1966 mm Breite und 1395 mm Höhe, fällt in die E-Segment-Autos, auch als Executive-Autos bekannt, sind größer und luxuriöser als ihre D-Segment-Pendants. Sie sind darauf ausgelegt, überlegenen Komfort, fortschrittliche Technologie und hohe Leistung zu bieten, was sie für eine bestimmte Gruppe von Fahrern geeignet macht. Der Porsche Taycan 4 ist in insgesamt 17 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen.
@@ -127,6 +135,8 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4/exterior_1_st.jpg" title="Porsche Taycan 4" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -255,6 +265,8 @@ Der Porsche Taycan 4 bietet eine Reihe von Innenbeleuchtungsoptionen, die eine a
 
 - **Mehrfarbige Ambientebeleuchtung:** Diese Funktion erstreckt sich über die Türverkleidungen und den Fußraum und sorgt für eine harmonische und einladende Atmosphäre. Sie können die Farben an Ihre Stimmung oder Vorlieben anpassen und so eine persönliche Note in Ihr Fahrerlebnis bringen.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
@@ -262,6 +274,8 @@ Es gibt ein Klimasystem verfügbar:
 - **3-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen in drei Zonen für Fahrer, Beifahrer und Rücksitz.
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktionen
 
@@ -272,6 +286,8 @@ Der Porsche Taycan 4 umfasst mehrere Funktionen, um Komfort und Bequemlichkeit z
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -302,6 +318,8 @@ Sie können aus mehreren Lenkrädern wählen.
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
 Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -355,6 +373,8 @@ Sie können zwischen zwei Scheinwerfertypen für den Porsche Taycan 4 wählen.
 - **LED-Matrix-Scheinwerfer:** Diese adaptive System ist als Upgrade erhältlich und teilt den traditionellen Scheinwerferstrahl in Dutzende kleinerer Strahlen auf, die der Lichtcontroller einzeln aktivieren oder deaktivieren kann. Dies optimiert die Beleuchtung, indem bestimmte Bereiche selektiv gedimmt werden, um entgegenkommenden Verkehr nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -423,6 +443,8 @@ Der Porsche Taycan 4 ist mit fortschrittlichen Sicherheitsfunktionen ausgestatte
 - **Parküberwachung:** Mit seinem Kamerasystem überwacht das Fahrzeug aktiv die Umgebung, während es geparkt ist, und bietet durch kontinuierliche Überwachung einen verbesserten Schutz.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

@@ -30,11 +30,15 @@ Denna modell har ersatts av [Porsche Taycan 4S Sport Turismo](/models/porsche/ta
 
 </div>
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Med overboost når Porsche Taycan 4S Sport Turismo (GEN1) en maximal effekt på 390 kW (530 hk). Utan overboost levererar den 320 kW (435 hk). Det maximala vridmomentet är 640 Nm. Den kan accelerera från 0 till 100 km/h på 4 sekunder och når en topphastighet på 230 km/h, vilket demonstrerar dess solida prestanda.
 
 Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med överboost når Porsche Taycan 4S Sport Turismo (GEN1) en maximal effekt på 420 kW (571 hk). Utan överboost ger den en stark effekt på 320 kW (435 hk). Det maximala vridmomentet är 650 Nm. Denna kraftpaket kan accelerera från 0 till 100 km/h på bara 4 sekunder och har en topphastighet på 250 km/h, vilket visar dess imponerande prestanda.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -70,6 +74,8 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivlina
 
 Porsche Taycan 4S Sport Turismo (GEN1) har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -94,6 +100,8 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 Den maximala regenerativa effekten är 265 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exteriör
 
 Porsche Taycan 4S Sport Turismo (GEN1), med dimensioner på 4963 mm i längd, 1964 mm i bredd och 1395 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Porsche Taycan 4S Sport Turismo (GEN1) finns i totalt 17 lackfärger, inklusive både solida och metalliska alternativ.
@@ -115,6 +123,8 @@ Det finns tre olika takalternativ att välja mellan. Standardinställningen är 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo_gen1/exterior_1_st.jpg" title="Porsche Taycan 4S Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -171,6 +181,8 @@ Alternativet second är två integrerade säten i andra raden med en tredje mind
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo_gen1/secondrowseats_1_st.jpg" title="Porsche Taycan 4S Sport Turismo (GEN1)" width="3000" height="1912"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -179,11 +191,15 @@ Det finns ett tillgängligt klimatsystem.
 
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktioner
 
 Porsche Taycan 4S Sport Turismo (GEN1) inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -209,6 +225,8 @@ Porsche Taycan 4S Sport Turismo (GEN1) är utrustad med en enda typ av ratt:
 ### Speglar
 
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -238,6 +256,8 @@ Du kan välja mellan två typer av strålkastare för Porsche Taycan 4S Sport Tu
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo_gen1/headlights_1_st.jpg" title="Porsche Taycan 4S Sport Turismo (GEN1)" width="3000" height="2000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -285,6 +305,8 @@ Porsche Taycan 4S Sport Turismo (GEN1) är utrustad med avancerade säkerhetsfun
 - **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

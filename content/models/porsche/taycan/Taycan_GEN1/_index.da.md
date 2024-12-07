@@ -30,11 +30,15 @@ Denne model er blevet erstattet af [Porsche Taycan](/models/porsche/taycan/tayca
 
 </div>
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ydeevne
 
 Med overboost når Porsche Taycan (GEN1) en maksimal effekt på 300 kW (408 hk). Uden overboost leverer den 240 kW (326 hk). Det maksimale drejningsmoment er 345 Nm. Den kan accelerere fra 0 til 100 km/t på 5,4 sekunder og når en topfart på 230 km/t, hvilket demonstrerer dens solide præstation.
 
 Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost når Porsche Taycan (GEN1) en maksimal effekt på 350 kW (476 hk). Uden overboost leverer den 280 kW (381 hk). Det maksimale drejningsmoment er 357 Nm. Den kan accelerere fra 0 til 100 km/t på 5,4 sekunder og når en topfart på 230 km/t, hvilket demonstrerer dens solide præstation.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rækkevidde og opladning
 
@@ -70,6 +74,8 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivetrain
 
 Porsche Taycan (GEN1) har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -94,6 +100,8 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 Den maksimale regenerative effekt er 265 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Udvendig
 
 Den Porsche Taycan (GEN1), med dimensioner på 4963 mm i længde, 1964 mm i bredde og 1395 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Porsche Taycan (GEN1) fås i alt 17 lakfarver, herunder både solide og metalliske muligheder.
@@ -115,6 +123,8 @@ Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et al
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gen1/exterior_1_st.jpg" title="Porsche Taycan (GEN1)" width="3000" height="1713"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -169,6 +179,8 @@ Muligheden standard er to integrerede sæder i anden række. Derudover er følge
 
 Muligheden second er to integrerede sæder i anden række med et tredje mindre sæde imellem. Derudover er følgende funktionaliteter tilgængelige.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -177,11 +189,15 @@ Der er et tilgængeligt klimasystem.
 
 Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktioner
 
 Porsche Taycan (GEN1) inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brugergrænseflade og kontrol
 
@@ -207,6 +223,8 @@ Porsche Taycan (GEN1) er udstyret med en enkelt type rat:
 ### Spejle
 
 Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -234,6 +252,8 @@ Du kan vælge mellem to typer forlygter til Porsche Taycan (GEN1).
 - **LED Matrix forlygter:** Tilgængelige som en mulighed, dette adaptive system opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt, hvilket optimerer belysningen ved at dæmpe specifikke små områder foran.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerede førerassistentsystemer
 
@@ -281,6 +301,8 @@ Porsche Taycan (GEN1) er udstyret med avancerede sikkerhedsfunktioner for at bes
 - **Nøglefri adgang og start:** Med den standard nøglefri start og valgfri nøglefri adgang kan du låse og starte køretøjet problemfrit uden at tage nøglen op af lommen eller tasken.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet og træk-kapacitet
 

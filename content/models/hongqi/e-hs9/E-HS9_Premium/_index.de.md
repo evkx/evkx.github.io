@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Hongqi E-HS9 Premium bietet eine beeindruckende Leistung mit einer maximalen Leistung von 405 kW (551 PS / 543 bhp) und einem beachtlichen Gesamtdrehmoment von 670 Nm (494 lb-ft). Diese Hochleistungsmaschine kann in nur 4,9 Sekunden von 0 auf 100 km/h (0 auf 62 mph) sprinten und erreicht eine Höchstgeschwindigkeit von 200 km/h (124 mph), was sie zu einem herausragenden Fahrzeug in ihrer Klasse macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -48,6 +52,8 @@ Der Ladeanschluss befindet sich an der [linken Vorderseite](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Antriebsstrang
 
 Der Hongqi E-HS9 Premium verfügt über ein Allradantriebssystem, das von zwei Motoren angetrieben wird, einem an jeder Achse. Die verwendeten Motoren sind [Permanentmagnet-Synchronmotoren](../../../../technology/motors/pmsm/).
@@ -68,6 +74,8 @@ Der Hongqi E-HS9 Premium ist mit [Gusseisenscheibenbremsen](../../../../technolo
 
 [Regenerative Bremsung](../../../../technology/regen/) in diesem Modell wird hauptsächlich durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) ermöglicht. Im Gegensatz zu einigen Modellen sind [Automatische Regeneration](../../../../technology/regen/#automatic-regen-adaptive) oder Rollen hier nicht verfügbar.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Hongqi E-HS9 Premium, mit Abmessungen von 5209 mm Länge, 2010 mm Breite und 1713 mm Höhe, fällt in die Full-Size-SUVs, bieten den meisten Raum, Leistung und Fähigkeit unter den SUV-Kategorien, was sie für eine bestimmte Gruppe von Fahrern mit einzigartigen Bedürfnissen geeignet macht. Der Hongqi E-HS9 Premium ist in insgesamt 6 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
@@ -86,6 +94,8 @@ Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein Panoram
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/exterior_1_st.jpg" title="Hongqi E-HS9 Premium" width="3000" height="1757"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -121,11 +131,15 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Spl
 
 Die dritte Reihe hat eine Zweiersitzbank mit einer 50:50-Teilung. Auch hier können Sie die Sitze bei Nichtgebrauch umklappen, um eine größere Ladekapazität zu schaffen.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
 
 - **6-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen in sechs Zonen: Der Fahrer, Beifahrer und zwei Zonen, sowohl in der 2. als auch in der 3. Reihe.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktionen
 
@@ -135,6 +149,8 @@ Der Hongqi E-HS9 Premium umfasst mehrere Funktionen, um Komfort und Bequemlichke
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -163,6 +179,8 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 Dieses Modell verfügt über ein optionales Sprachsteuerungssystem. Mit der Sprachsteuerung können Sie einige Funktionen über Sprachbefehle steuern.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -184,6 +202,8 @@ Der Hongqi E-HS9 Premium ist mit fortschrittlichen LED-Matrix-Scheinwerfern ausg
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/headlights_1_st.jpg" title="Hongqi E-HS9 Premium" width="851" height="686"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -224,6 +244,8 @@ Der Hongqi E-HS9 Premium ist mit fortschrittlichen Sicherheitsfunktionen ausgest
 - **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

@@ -24,9 +24,13 @@ Vi har delat in vår beskrivning av Cadillac VISTIQ AWD i avsnitt. Om du vill v�
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Cadillac VISTIQ AWD imponerar med en imponerande kraft på 458,6 kW (624 hk) och ett imponerande totalt vridmoment på 880 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,7 sekunder och når en topphastighet på 210 km/h, vilket gör den till en stjärna i sin klass.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -52,6 +56,8 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 ### Bidirektionell laddning
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivlina
 
@@ -81,6 +87,8 @@ Du kan välja mellan olika bromssystem. Bromsarna standard använder vanliga [gj
 
 Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exteriör
 
 Cadillac VISTIQ AWD, med dimensioner på 5222 mm i längd, 1977 mm i bredd och 1804 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Cadillac VISTIQ AWD finns i totalt 8 lackfärger, inklusive flera iögonfallande metalliska alternativ.
@@ -102,6 +110,8 @@ B-stolpen och vyerna bak är tonade.
 {{< sitefiguresized thumb="models/cadillac/vistiq/vistiq_awd/exterior_1_st.jpg" title="Cadillac VISTIQ AWD" width="3000" height="2001"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -151,6 +161,8 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 
 Den tredje raden har en tvåsitsig bänk med en 50:50-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -158,6 +170,8 @@ Det finns ett tillgängligt klimatsystem.
 - **5-zons klimatsystem:** Stöder olika temperaturer i fem zoner. Förare, passagerare och två zoner på 2:a raden och en på 3:e raden.
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
@@ -167,6 +181,8 @@ Cadillac VISTIQ AWD inkluderar flera funktioner för att förbättra komfort och
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -193,6 +209,8 @@ Cadillac VISTIQ AWD är utrustad med en enda typ av ratt:
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -232,6 +250,8 @@ Cadillac VISTIQ AWD kommer med en egen dedikerad mobilapp, tillgänglig för bå
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/cadillac/vistiq/vistiq_awd/headlights_1_st.jpg" title="Cadillac VISTIQ AWD" width="3000" height="2001"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -289,6 +309,8 @@ Cadillac VISTIQ AWD är utrustad med avancerade säkerhetsfunktioner för att sk
 - **Larmsystem:** Ett integrerat larmsystem övervakar obehörig åtkomst eller manipulation och ger varningar för att hjälpa till att avskräcka intrång och hålla ditt fordon säkert.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

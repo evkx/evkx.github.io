@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performance](#performance)
-- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
-- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
-- [Extérieur (couleurs de peinture, roues ++)](#exterior)
-- [Intérieur (sièges++)](#interior)
-- [Interface utilisateur et contrôle](#user-interface-and-control)
-- [Infodivertissement](#infotainment)
-- [Éclairage](#lights)
-- [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Batterie, Autonomie et Recharge](#section-battery)
+- [Groupe motopropulseur (suspension, freins, direction)](#section-drivetrain)
+- [Extérieur (couleurs de peinture, roues ++)](#section-exterior)
+- [Intérieur (sièges++)](#section-interior)
+- [Interface utilisateur et contrôle](#section-ui)
+- [Infodivertissement](#section-infotainment)
+- [Éclairage](#section-lights)
+- [Systèmes avancés d'aide à la conduite](#section-adas)
+- [Capacité de chargement et Aptitude au remorquage](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 Le Tesla Model 3 Performance (GEN1) offre des performances solides avec une puissance maximale de 377 kW (513 ch / 506 bhp) et un couple total de 660 Nm (487 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 3,4 secondes et atteint une vitesse maximale de 261 km/h (162 mph), le rendant compétitif dans sa catégorie.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Autonomie et Recharge
 
@@ -50,6 +54,8 @@ Le port de charge est situé à l'[angle arrière gauche](../../../../technology
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Groupe Motopropulseur
 
 Le Tesla Model 3 Performance (GEN1) dispose d'un système de traction intégrale alimenté par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [moteurs à induction](../../../../technology/motors/asm/) sur l'essieu avant et des [moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/) sur l'essieu arrière.
@@ -72,6 +78,8 @@ Le [freinage régénératif](../../../../technology/regen/) sur ce modèle est p
 
 De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous retirez votre pied de l'accélérateur. Il y a deux niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Extérieur
 
 Le Tesla Model 3 Performance (GEN1), avec des dimensions de 4694 mm de longueur, 1849 mm de largeur et 1443 mm de hauteur, appartient aux voitures du segment D, également appelées voitures de taille moyenne ou familiales, offrant plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. Le Tesla Model 3 Performance (GEN1) est disponible en un total de 5 couleurs de peinture, y compris des options unies et métalliques.
@@ -92,6 +100,8 @@ Les vitres à partir du montant B et vers l'arrière sont teintées, ce qui amé
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/exterior_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Intérieur
 
@@ -120,6 +130,8 @@ La deuxième rangée dispose d'une banquette trois places standard avec une rép
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/secondrowseats_1_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Système de Climatisation
 
 Il y a un système de climatisation disponible :
@@ -127,6 +139,8 @@ Il y a un système de climatisation disponible :
 - **Système de climatisation à 1 zone :** Permet de contrôler une seule zone partagée pour toute la voiture.
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui peut économiser une énergie significative que le VE utiliserait autrement pour le chauffage par temps froid.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Caractéristiques de confort
 
@@ -136,6 +150,8 @@ Le Tesla Model 3 Performance (GEN1) comprend plusieurs fonctionnalités pour am�
 - **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interface Utilisateur et Contrôle
 
@@ -159,6 +175,8 @@ Le Tesla Model 3 Performance (GEN1) est équipé d'un seul type de volant :
 
 Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infodivertissement
 
 ### Système de Navigation
@@ -178,6 +196,8 @@ De plus, le modèle comprend 4 connexions USB-C de série.
 **Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace.
 
 Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Systèmes Avancés d'Aide à la Conduite
 
@@ -237,6 +257,8 @@ Le Tesla Model 3 Performance (GEN1) est équipé de fonctionnalités de sécurit
 - **Surveillance de stationnement :** En utilisant sa suite de caméras, le véhicule surveille activement les environs pendant qu'il est garé, offrant une protection accrue grâce à une surveillance continue.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacité de Chargement et Aptitude au Remorquage
 

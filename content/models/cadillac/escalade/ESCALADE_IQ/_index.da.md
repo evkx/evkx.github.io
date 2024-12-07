@@ -24,9 +24,13 @@ Vi har opdelt vores Cadillac ESCALADE IQ artikel i sektioner. Hvis du vil vente 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ydeevne
 
 Cadillac ESCALADE IQ imponerer med en maksimal effekt på 560 kW (761 hk) og et imponerende samlet drejningsmoment på 1064 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,9 sekunder og har en topfart på 200 km/h, hvilket gør den til en standout i sin klasse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rækkevidde og opladning
 
@@ -51,6 +55,8 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 Denne model understøtter både V2L (Vehicle to Load) og V2H (Vehicle to Home) funktionaliteter. V2L giver dig mulighed for at forsyne elektrisk udstyr, der kræver op til 10,2 kW strøm, inklusive muligheden for at oplade andre køretøjer. V2H gør det muligt for bilen at fungere som en backup strømkilde til dit hjem. Du kan tilslutte udstyr ved hjælp af en adapter på ladeporten og via standardstik i kabinen. Bemærk, at V2H kræver specialudstyr i dit hjem.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivetrain
 
@@ -89,6 +95,8 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 Den maksimale regenerative effekt er 400 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Udvendig
 
 Den Cadillac ESCALADE IQ, med dimensioner på 5697 mm i længde, 2167 mm i bredde og 1934 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Cadillac ESCALADE IQ fås i alt 10 lakfarver, herunder både solide og metalliske muligheder. Nogle af disse lakmuligheder inkluderer to-tone lak, hvor taget er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt look.
@@ -106,6 +114,8 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2028"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -174,6 +184,8 @@ Muligheden second er dobbelte [executive-sæder](../../../../technology/seats/ty
 
 Tredje række har en tre-sæders bænk med en 60:40-deling. Igen kan du folde sæderne ned, når de ikke bruges, for at skabe en større lastkapacitet.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -181,6 +193,8 @@ Der er et tilgængeligt klimasystem.
 - **5-zone klimaanlæg:** Understøtter forskellige temperaturer i fem zoner. Føreren, passageren og to zoner i 2. række og en i 3. række.
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
@@ -190,6 +204,8 @@ Cadillac ESCALADE IQ inkluderer flere funktioner, der forbedrer komfort og bekve
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brugergrænseflade og kontrol
 
@@ -216,6 +232,8 @@ Cadillac ESCALADE IQ er udstyret med en enkelt type rat:
 Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -254,6 +272,8 @@ Den Cadillac ESCALADE IQ kommer med sin dedikerede mobilapp, tilgængelig til b�
 **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning. For øget sikkerhed inkluderer forlygterne også drejelys, der oplyser siden, når du drejer.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerede førerassistentsystemer
 
@@ -302,6 +322,8 @@ Cadillac ESCALADE IQ er udstyret med avancerede sikkerhedsfunktioner for at besk
 - **Alarmsystem:** Et integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at hjælpe med at afskrække indtrængen og holde dit køretøj sikkert.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet og træk-kapacitet
 

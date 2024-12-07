@@ -24,9 +24,13 @@ Vi har opdelt vores Audi A6 Avant e-tron quattro artikel i sektioner. Hvis du vi
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ydeevne
 
 Med overboost når Audi A6 Avant e-tron quattro en maksimal effekt på 340 kW (462 hk). Uden overboost leverer den 315 kW (428 hk). Det maksimale drejningsmoment er 855 Nm. Den kan accelerere fra 0 til 100 km/t på 4,5 sekunder og når en topfart på 210 km/t, hvilket demonstrerer dens solide præstation.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rækkevidde og opladning
 
@@ -47,6 +51,8 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder. En anden port er på [højre bagside](../../../../technology/charging/connectors/#front-side). Denne ekstra port giver dig flere parkeringsmuligheder til AC-opladning. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**J1772**](../../../../technology/charging/connectors/#j1772) for Nordamerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se de fulde specifikationer for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivetrain
 
@@ -84,6 +90,8 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 Den maksimale regenerative effekt er 220 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Udvendig
 
 Den Audi A6 Avant e-tron quattro, med dimensioner på 4928 mm i længde, 1923 mm i bredde og 1527 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Audi A6 Avant e-tron quattro fås i alt 56 lakfarver, herunder solide, metalliske og perlemorsmuligheder. Ud over standardpaletten er nogle farver fra den eksklusive 'Audi A6 Avant e-tron quattro' palette.
@@ -107,6 +115,8 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_quattro/exterior_1_st.jpg" title="Audi A6 Avant e-tron quattro" width="3000" height="2250"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -173,6 +183,8 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 - **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i den bagerste armlæn.
 - **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af essentielle genstande.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 To klimaanlægsmuligheder er tilgængelige:
@@ -181,6 +193,8 @@ To klimaanlægsmuligheder er tilgængelige:
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
@@ -191,6 +205,8 @@ Audi A6 Avant e-tron quattro inkluderer flere funktioner, der forbedrer komfort 
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brugergrænseflade og kontrol
 
@@ -219,6 +235,8 @@ Audi A6 Avant e-tron quattro er udstyret med en enkelt type rat:
 For de udvendige spejle kan du vælge mellem kamera-baserede spejle med indvendige skærme eller traditionelle spejle. Det indvendige spejl er et standard spejl.
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -275,6 +293,8 @@ Derudover har du to muligheder for baglygter:
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_quattro/headlights_1_st.jpg" title="Audi A6 Avant e-tron quattro" width="3000" height="2249"  >}}
 
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Avancerede førerassistentsystemer
 
 Den Audi A6 Avant e-tron quattro inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
@@ -330,6 +350,8 @@ Audi A6 Avant e-tron quattro er udstyret med avancerede sikkerhedsfunktioner for
 - **Alarmsystem:** Et valgfrit integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at hjælpe med at afskrække indtrængen og forbedre køretøjets sikkerhed.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet og træk-kapacitet
 

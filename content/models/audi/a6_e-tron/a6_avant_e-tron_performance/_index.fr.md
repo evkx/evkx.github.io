@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performance](#performance)
-- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
-- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
-- [Extérieur (couleurs de peinture, roues ++)](#exterior)
-- [Intérieur (sièges++)](#interior)
-- [Interface utilisateur et contrôle](#user-interface-and-control)
-- [Infodivertissement](#infotainment)
-- [Éclairage](#lights)
-- [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Batterie, Autonomie et Recharge](#section-battery)
+- [Groupe motopropulseur (suspension, freins, direction)](#section-drivetrain)
+- [Extérieur (couleurs de peinture, roues ++)](#section-exterior)
+- [Intérieur (sièges++)](#section-interior)
+- [Interface utilisateur et contrôle](#section-ui)
+- [Infodivertissement](#section-infotainment)
+- [Éclairage](#section-lights)
+- [Systèmes avancés d'aide à la conduite](#section-adas)
+- [Capacité de chargement et Aptitude au remorquage](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 Avec la suralimentation, le Audi A6 Avant e-tron performance atteint une puissance maximale de 280 kW (381 ch / 376 bhp). Sans suralimentation, il délivre 270 kW (367 ch / 362 bhp). Le couple maximal est de 565 Nm (417 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 5,4 secondes et atteint une vitesse maximale de 210 km/h (131 mph), démontrant ses solides performances.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Autonomie et Recharge
 
@@ -47,6 +51,8 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC 
 Le port de charge est situé sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side), facilitant l'utilisation des stations de charge où vous devez reculer vers le chargeur. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes. De plus, un deuxième port sur le [côté arrière droit](../../../../technology/charging/connectors/#front-side) offre une plus grande flexibilité pour la charge AC. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**J1772**](../../../../technology/charging/connectors/#j1772) pour l'Amérique du Nord et [**TYPE2**](../../../../technology/charging/connectors/#type-2) pour l'Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Groupe Motopropulseur
 
@@ -84,6 +90,8 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous re
 
 La puissance régénérative maximale est de 220 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Extérieur
 
 Le Audi A6 Avant e-tron performance, avec des dimensions de 4928 mm de longueur, 1923 mm de largeur et 1527 mm de hauteur, appartient aux voitures du segment E, également appelées voitures exécutives, qui sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un ensemble spécifique de conducteurs. Le Audi A6 Avant e-tron performance est disponible en un total de 56 couleurs de peinture, y compris des options unies, métalliques et nacrées. En plus de la palette standard, certaines couleurs proviennent de la palette exclusive 'Audi exclusive'.
@@ -107,6 +115,8 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/exterior_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2250"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Intérieur
 
@@ -173,6 +183,8 @@ La deuxième rangée dispose d'une banquette trois places standard avec une rép
 - **Porte-gobelets :** Deux porte-gobelets sont situés dans la console centrale avant, avec deux autres dans l'accoudoir arrière.
 - **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les articles essentiels.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Système de Climatisation
 
 Deux options de système de climatisation sont disponibles :
@@ -181,6 +193,8 @@ Deux options de système de climatisation sont disponibles :
 - **Système de climatisation à 4 zones :** Permet des températures différentes pour le conducteur, le passager et deux passagers séparés à l'arrière.
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui peut économiser une énergie significative que le VE utiliserait autrement pour le chauffage par temps froid.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Caractéristiques de confort
 
@@ -191,6 +205,8 @@ Le Audi A6 Avant e-tron performance comprend plusieurs fonctionnalités pour am�
 - **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interface Utilisateur et Contrôle
 
@@ -219,6 +235,8 @@ Le Audi A6 Avant e-tron performance est équipé d'un seul type de volant :
 Pour les rétroviseurs extérieurs, vous pouvez choisir entre des rétroviseurs basés sur des caméras avec des écrans intérieurs ou des rétroviseurs traditionnels. Le rétroviseur intérieur est un miroir standard.
 
 Ce modèle est équipé de la commande vocale de série, vous permettant de gérer diverses fonctions par des commandes vocales.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infodivertissement
 
@@ -275,6 +293,8 @@ De plus, vous avez deux options pour les feux arrière :
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Systèmes Avancés d'Aide à la Conduite
 
 Le Audi A6 Avant e-tron performance dispose d'une gamme de systèmes [d'assistance avancée au conducteur](../../../../technology/driverassistance/) (ADAS) standard et optionnels conçus pour améliorer la sécurité et le confort.
@@ -330,6 +350,8 @@ Le Audi A6 Avant e-tron performance est équipé de fonctionnalités de sécurit
 - **Système d'alarme :** Un système d'alarme intégré en option surveille les entrées non autorisées ou les manipulations, fournissant des alertes pour aider à dissuader les intrusions et à améliorer la sécurité du véhicule.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacité de Chargement et Aptitude au Remorquage
 

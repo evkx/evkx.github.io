@@ -24,9 +24,13 @@ Vi har delat in vår beskrivning av Audi Q4 Sportback 55 e-tron quattro i avsnit
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Audi Q4 Sportback 55 e-tron quattro levererar en solid prestanda med en maximal effekt på 250 kW (340 hk) och ett totalt vridmoment på 679 Nm. Den kan accelerera från 0 till 100 km/h på 5,4 sekunder och når en topphastighet på 180 km/h, vilket gör den konkurrenskraftig i sin klass.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -49,6 +53,8 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 ### Bidirektionell laddning
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivlina
 
@@ -83,6 +89,8 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns tre nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exteriör
 
 Audi Q4 Sportback 55 e-tron quattro, med dimensioner på 4588 mm i längd, 1865 mm i bredd och 1614 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Audi Q4 Sportback 55 e-tron quattro finns i totalt 8 lackfärger, inklusive både solida och metalliska alternativ.
@@ -106,6 +114,8 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/exterior_1_st.jpg" title="Audi Q4 Sportback 55 e-tron quattro" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -182,6 +192,8 @@ Audi Q4 Sportback 55 e-tron quattro erbjuder gott om interiörförvaringslösnin
 - **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
 - **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Två klimatsystemalternativ är tillgängliga:
@@ -191,6 +203,8 @@ Två klimatsystemalternativ är tillgängliga:
 
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktioner
 
 Audi Q4 Sportback 55 e-tron quattro inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -199,6 +213,8 @@ Audi Q4 Sportback 55 e-tron quattro inkluderar flera funktioner för att förbä
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -224,6 +240,8 @@ Audi Q4 Sportback 55 e-tron quattro är utrustad med en enda typ av ratt:
 ### Speglar
 
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -270,6 +288,8 @@ Dessutom har du två alternativ för bakljus:
 - De valfria bakljusen använder LED-teknik.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 Sportback 55 e-tron quattro" width="3000" height="2000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -337,6 +357,8 @@ Audi Q4 Sportback 55 e-tron quattro är utrustad med avancerade säkerhetsfunkti
 - **Larmsystem:** Ett valfritt integrerat larmsystem övervakar obehörig åtkomst eller manipulation och ger varningar för att hjälpa till att avskräcka intrång och förbättra fordonets säkerhet.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

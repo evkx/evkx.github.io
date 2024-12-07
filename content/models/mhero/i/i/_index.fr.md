@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performance](#performance)
-- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
-- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
-- [Extérieur (couleurs de peinture, roues ++)](#exterior)
-- [Intérieur (sièges++)](#interior)
-- [Interface utilisateur et contrôle](#user-interface-and-control)
-- [Infodivertissement](#infotainment)
-- [Éclairage](#lights)
-- [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Batterie, Autonomie et Recharge](#section-battery)
+- [Groupe motopropulseur (suspension, freins, direction)](#section-drivetrain)
+- [Extérieur (couleurs de peinture, roues ++)](#section-exterior)
+- [Intérieur (sièges++)](#section-interior)
+- [Interface utilisateur et contrôle](#section-ui)
+- [Infodivertissement](#section-infotainment)
+- [Éclairage](#section-lights)
+- [Systèmes avancés d'aide à la conduite](#section-adas)
+- [Capacité de chargement et Aptitude au remorquage](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 Le MHERO I délivre une puissance maximale impressionnante de 800 kW (1088 ch / 1073 bhp) et un couple total massif de 1400 Nm (1033 lb-pi). Cette bête peut passer de 0 à 100 km/h (0 à 62 mph) en seulement 4,2 secondes, démontrant son accélération époustouflante. De plus, il atteint une vitesse maximale de 180 km/h (112 mph), en faisant une véritable merveille d'ingénierie et de performance.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Autonomie et Recharge
 
@@ -53,6 +57,8 @@ Le port de charge est situé sur le [côté arrière gauche](../../../../technol
 Ce modèle prend en charge le V2L (Vehicle to Load), vous permettant d'alimenter des équipements électriques nécessitant jusqu'à 6 kW de puissance, y compris la possibilité de charger d'autres véhicules.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Groupe Motopropulseur
 
@@ -88,6 +94,8 @@ Le MHERO I est équipé de [freins à disque en fonte](../../../../technology/br
 
 La puissance régénérative maximale est de 100 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Extérieur
 
 Le MHERO I, avec des dimensions de 4987 mm de longueur, 2080 mm de largeur et 1935 mm de hauteur, appartient aux SUV de taille moyenne, offrant un mélange d'espace, de confort, de performance et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Le MHERO I est disponible en un total de 3 couleurs de peinture, y compris plusieurs options mates frappantes.
@@ -108,6 +116,8 @@ Les vitres à partir du montant B et vers l'arrière sont teintées, ce qui amé
 {{< sitefiguresized thumb="models/mhero/i/i/exterior_1_st.jpg" title="MHERO I" width="1920" height="1080"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Intérieur
 
@@ -152,6 +162,8 @@ La deuxième rangée dispose d'une banquette trois places standard avec une rép
 - [Massage](../../../../technology/seats/adjustment/#massage) (standard pour les sièges extérieurs)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Système de Climatisation
 
 Il y a un système de climatisation disponible :
@@ -159,6 +171,8 @@ Il y a un système de climatisation disponible :
 - **Système de climatisation à 2 zones :** Permet des températures différentes pour le conducteur et le passager.
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui peut économiser une énergie significative que le VE utiliserait autrement pour le chauffage par temps froid.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Caractéristiques de confort
 
@@ -169,6 +183,8 @@ Le MHERO I comprend plusieurs fonctionnalités pour améliorer le confort et la 
 - **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interface Utilisateur et Contrôle
 
@@ -196,6 +212,8 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 Ce modèle est équipé de la commande vocale de série, vous permettant de gérer diverses fonctions par des commandes vocales.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infodivertissement
 
 ### Système de Navigation
@@ -217,6 +235,8 @@ De plus, le modèle comprend 2 connexions USB-C de série. Le modèle dispose de
 Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
 {{< sitefiguresized thumb="models/mhero/i/i/headlights_1_st.jpg" title="MHERO I" width="2000" height="1500"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Systèmes Avancés d'Aide à la Conduite
 
@@ -274,6 +294,8 @@ Le MHERO I est équipé de fonctionnalités de sécurité avancées pour vous pr
 - **Dashcam intégrée :** La dashcam intégrée enregistre des séquences vidéo de vos trajets, capturant des détails clés pour fournir une sécurité accrue, une responsabilité et une tranquillité d'esprit.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacité de Chargement et Aptitude au Remorquage
 

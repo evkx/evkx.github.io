@@ -24,9 +24,13 @@ Vi har delt vår beskrivelse av MHERO I i seksjoner. Hvis du vil vente med å le
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ytelse
 
 MHERO I leverer en imponerende maksimal effekt på 800 KW (1088 hk) og et massivt dreiemoment på 1400 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 4,2 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 180 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
@@ -53,6 +57,8 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 Denne modellen støtter V2L (Vehicle 2 Load), som betyr at du kan drive elektrisk utstyr som krever opptil 6 kW strøm, inkludert lading av andre kjøretøy.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivverk
 
@@ -88,6 +94,8 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 Den maksimale regenerative effekten er 100 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Eksteriør
 
 MHERO I, med dimensjoner på 4987 mm i lengde, 2080 mm i bredde og 1935 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. MHERO I er tilgjengelig i totalt 3 lakkfarger, inkludert flere slående matte alternativer.
@@ -108,6 +116,8 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{< sitefiguresized thumb="models/mhero/i/i/exterior_1_st.jpg" title="MHERO I" width="1920" height="1080"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -152,6 +162,8 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 - [massasje](../../../../technology/seats/adjustment/#massage) (standard for ytre seter)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -159,6 +171,8 @@ Det er ett tilgjengelig klimasystem.
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
@@ -169,6 +183,8 @@ MHERO I inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brukergrensesnitt og kontroll
 
@@ -196,6 +212,8 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigasjonssystem
@@ -217,6 +235,8 @@ Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinge
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 {{< sitefiguresized thumb="models/mhero/i/i/headlights_1_st.jpg" title="MHERO I" width="2000" height="1500"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avanserte førerassistentsystemer
 
@@ -274,6 +294,8 @@ MHERO I er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kj�
 - **Integrert dashbordkamera:** Det innebygde dashbordkameraet tar opp videoopptak av dine reiser, og fanger opp viktige detaljer for å gi økt sikkerhet, ansvarlighet og trygghet.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastekapasitet og slepeevne
 

@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#performance)
-- [Batería, Autonomía y Carga](#battery-range-and-charging)
-- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
-- [Exterior (colores de pintura, ruedas ++)](#exterior)
-- [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#user-interface-and-control)
-- [Infoentretenimiento](#infotainment)
-- [Luces](#lights)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
+- [Rendimiento](#section-performance)
+- [Batería, Autonomía y Carga](#section-battery)
+- [Tren motriz (suspensión, frenos, dirección)](#section-drivetrain)
+- [Exterior (colores, ruedas ++)](#section-exterior)
+- [Interior (asientos++)](#section-interior)
+- [Interfaz de usuario y control](#section-ui)
+- [Infoentretenimiento](#section-infotainment)
+- [Luces](#section-lights)
+- [Sistemas avanzados de asistencia a la conducción](#section-adas)
+- [Capacidad de Carga y Capacidad de Remolque](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Rendimiento
 
 El VOYAH Courage AWD ofrece un rendimiento sólido con una potencia máxima de 320 kW (435 hp / 429 bhp) y un par total de 620 Nm (458 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 4,9 segundos y alcanza una velocidad máxima de 204 km/h (127 mph), siendo competitivo dentro de su clase.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batería, Autonomía y Carga
 
@@ -47,6 +51,8 @@ El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nive
 La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#rear-side). Esta ubicación facilita el uso de estaciones de carga donde necesita retroceder hacia el cargador.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Tren Motriz
 
@@ -81,6 +87,8 @@ El VOYAH Courage AWD está equipado con [frenos de disco de hierro fundido](../.
 
 Si levantas completamente el pie, la regeneración está en un nivel fijo. Esto no se puede ajustar.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 El VOYAH Courage AWD, con dimensiones de 4725 mm de longitud, 1900 mm de ancho y 1653 mm de altura, pertenece a la categoría de SUVs compactos, también conocidos como C-SUVs. Estos ofrecen un equilibrio entre la practicidad y la maniobrabilidad de vehículos más pequeños y el espacio y la versatilidad de SUVs más grandes. El VOYAH Courage AWD está disponible en un total de 7 colores de pintura, incluidos varios llamativos colores metálicos. Algunas de estas opciones de pintura incluyen pinturas de dos tonos donde el techo y la parte superior del cuerpo están pintados en un color diferente, proporcionando un aspecto distintivo y elegante.
@@ -98,6 +106,8 @@ Las ventanas desde el pilar B hacia atrás están tintadas, lo que mejora la pri
 {{< sitefiguresized thumb="models/voyah/courage/courage_awd/exterior_1_st.jpg" title="VOYAH Courage AWD" width="1920" height="1003"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -142,6 +152,8 @@ La segunda fila cuenta con un banco estándar de tres asientos con una división
 
 {{< sitefiguresized thumb="models/voyah/courage/courage_awd/secondrowseats_1_st.jpg" title="VOYAH Courage AWD" width="1280" height="853"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Sistema de Climatización
 
 Hay un sistema de climatización disponible:
@@ -149,6 +161,8 @@ Hay un sistema de climatización disponible:
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estándar, que puede ahorrar una cantidad significativa de energía que el EV usaría de otra manera para la calefacción en clima frío.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Características de Confort
 
@@ -158,6 +172,8 @@ El VOYAH Courage AWD incluye varias características para mejorar la comodidad y
 - **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interfaz de Usuario y Control
 
@@ -187,6 +203,8 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 Este modelo viene equipado con control por voz de serie, lo que le permite gestionar varias funciones a través de comandos de voz.
 
 Un sistema de control por gestos que le permite controlar funciones específicas usando sus manos.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistema de Información y Entretenimiento
 
@@ -221,6 +239,8 @@ El VOYAH Courage AWD viene con una aplicación móvil dedicada, disponible tanto
 Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/voyah/courage/courage_awd/headlights_1_st.jpg" title="VOYAH Courage AWD" width="1200" height="675"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistemas Avanzados de Asistencia al Conductor
 
@@ -265,6 +285,8 @@ El VOYAH Courage AWD está equipado con características de seguridad avanzadas 
 - **Vigilancia de Estacionamiento:** Utilizando su conjunto de cámaras, el vehículo monitorea activamente los alrededores mientras está estacionado, ofreciendo una protección mejorada a través de vigilancia continua.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacidad de Carga y Remolque
 

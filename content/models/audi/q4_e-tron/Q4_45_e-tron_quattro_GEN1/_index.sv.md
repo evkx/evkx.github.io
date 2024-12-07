@@ -30,9 +30,13 @@ Denna modell har ersatts av [Audi Q4 45 e-tron quattro](/models/audi/q4_e-tron/q
 
 </div>
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Audi Q4 45 e-tron quattro (GEN1) erbjuder blygsamma prestanda med en maximal effekt på 195 kW (265 hk) och ett totalt vridmoment på 425 Nm. Den accelererar från 0 till 100 km/h på 6,9 sekunder och har en topphastighet på 180 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -55,6 +59,8 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/battery_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="1766"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivlina
 
@@ -80,6 +86,8 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns tre nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exteriör
 
 Audi Q4 45 e-tron quattro (GEN1), med dimensioner på 4588 mm i längd, 1865 mm i bredd och 1632 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 8 olika färgfärger när du beställer den här modellen.
@@ -103,6 +111,8 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/exterior_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2250"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -152,6 +162,8 @@ Alternativet second är en tresitssbänk med en 40:20:40-sektion där du kan vik
 - **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
 - **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Två klimatsystemalternativ är tillgängliga:
@@ -161,6 +173,8 @@ Två klimatsystemalternativ är tillgängliga:
 
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktioner
 
 Audi Q4 45 e-tron quattro (GEN1) inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -169,6 +183,8 @@ Audi Q4 45 e-tron quattro (GEN1) inkluderar flera funktioner för att förbättr
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -192,6 +208,8 @@ Audi Q4 45 e-tron quattro (GEN1) är utrustad med en enda typ av ratt:
 ### Speglar
 
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -236,6 +254,8 @@ Dessutom har du två alternativ för bakljus:
 - De valfria bakljusen använder LED-teknik.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/headlights_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2003"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -284,6 +304,8 @@ Audi Q4 45 e-tron quattro (GEN1) är utrustad med avancerade säkerhetsfunktione
 - **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

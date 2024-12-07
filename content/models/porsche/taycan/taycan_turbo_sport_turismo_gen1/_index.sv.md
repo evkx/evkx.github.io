@@ -24,9 +24,13 @@ Vi har delat in vår beskrivning av Porsche Taycan Turbo Sport Turismo (GEN1) i 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost levererar Porsche Taycan Turbo Sport Turismo (GEN1) en häpnadsväckande maximal effekt på 650 kW (884 hk). Även utan overboost har den en formidabel effekt på 707 kW (872 hk). Det maximala vridmomentet når otroliga 940 Nm. Denna kraftfulla maskin kan accelerera från 0 till 100 km/h på endast 3,2 sekunder och når en topphastighet på 260 km/h, vilket understryker dess imponerande prestanda.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -47,6 +51,8 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 Platsen för laddningsporten är på [höger framsida](../../../../technology/charging/connectors/#front-side). Denna placering gör det enkelt att använda laddstationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader. En andra port finns på [vänster front](../../../../technology/charging/connectors/#front-side). Denna extra port ger du fler parkeringsmöjligheter för AC-laddning. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**J1772**](../../../../technology/charging/connectors/#j1772) för Nordamerika och för Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullständiga specifikationer för alla marknader.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivlina
 
@@ -70,6 +76,8 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 Den maximala regenerativa effekten är 275 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exteriör
 
 Porsche Taycan Turbo Sport Turismo (GEN1), med dimensioner på 4963 mm i längd, 1966 mm i bredd och 1381 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Porsche Taycan Turbo Sport Turismo (GEN1) finns i totalt 17 lackfärger, inklusive både solida och metalliska alternativ.
@@ -91,6 +99,8 @@ Det finns tre olika takalternativ att välja mellan. Standardinställningen är 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo_gen1/exterior_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -147,6 +157,8 @@ Alternativet second är två integrerade säten i andra raden med en tredje mind
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo_gen1/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo (GEN1)" width="3000" height="1912"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -155,11 +167,15 @@ Det finns ett tillgängligt klimatsystem.
 
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktioner
 
 Porsche Taycan Turbo Sport Turismo (GEN1) inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -186,6 +202,8 @@ Porsche Taycan Turbo Sport Turismo (GEN1) är utrustad med en enda typ av ratt:
 
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -211,6 +229,8 @@ Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo_gen1/headlights_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo (GEN1)" width="3000" height="2000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -258,6 +278,8 @@ Porsche Taycan Turbo Sport Turismo (GEN1) är utrustad med avancerade säkerhets
 - **Nyckelfri åtkomst och start:** Med standard nyckelfri start och valfri nyckelfri åtkomst kan du låsa upp och starta fordonet sömlöst utan att ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

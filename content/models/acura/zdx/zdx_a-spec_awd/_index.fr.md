@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performance](#performance)
-- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
-- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
-- [Extérieur (couleurs de peinture, roues ++)](#exterior)
-- [Intérieur (sièges++)](#interior)
-- [Interface utilisateur et contrôle](#user-interface-and-control)
-- [Infodivertissement](#infotainment)
-- [Éclairage](#lights)
-- [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Batterie, Autonomie et Recharge](#section-battery)
+- [Groupe motopropulseur (suspension, freins, direction)](#section-drivetrain)
+- [Extérieur (couleurs de peinture, roues ++)](#section-exterior)
+- [Intérieur (sièges++)](#section-interior)
+- [Interface utilisateur et contrôle](#section-ui)
+- [Infodivertissement](#section-infotainment)
+- [Éclairage](#section-lights)
+- [Systèmes avancés d'aide à la conduite](#section-adas)
+- [Capacité de chargement et Aptitude au remorquage](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 Le Acura ZDX A-Spec AWD offre des performances solides avec une puissance maximale de 365 kW (496 ch / 490 bhp) et un couple total de 592 Nm (437 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 6 secondes et atteint une vitesse maximale de 210 km/h (131 mph), le rendant compétitif dans sa catégorie.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Autonomie et Recharge
 
@@ -49,6 +53,8 @@ Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge A
 L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite l'utilisation des stations de charge où vous vous garez de côté par rapport au chargeur.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Groupe Motopropulseur
 
@@ -81,6 +87,8 @@ Le [freinage régénératif](../../../../technology/regen/) est disponible en de
 
 De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous retirez votre pied de l'accélérateur. Il y a deux niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Extérieur
 
 Le Acura ZDX A-Spec AWD, avec des dimensions de 5022 mm de longueur, 1956 mm de largeur et 1636 mm de hauteur, appartient aux SUV de grande taille, offrant le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un ensemble spécifique de conducteurs aux besoins uniques. Le Acura ZDX A-Spec AWD est disponible en un total de 5 couleurs de peinture, toutes incluant des options métalliques et nacrées.
@@ -98,6 +106,8 @@ Les vitres à partir du montant B et vers l'arrière sont teintées, ce qui amé
 {{< sitefiguresized thumb="models/acura/zdx/zdx_a-spec_awd/exterior_1_st.jpg" title="Acura ZDX A-Spec AWD" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Intérieur
 
@@ -152,6 +162,8 @@ Le Acura ZDX A-Spec AWD offre une gamme d'options d'éclairage intérieur conçu
 
 - **Éclairage d'ambiance multicolore :** Cette fonctionnalité s'étend sur le tableau de bord et les panneaux de porte, offrant une atmosphère harmonieuse et accueillante. Vous pouvez personnaliser les couleurs selon votre humeur ou vos préférences, ajoutant une touche personnelle à votre expérience de conduite.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Système de Climatisation
 
 Il y a un système de climatisation disponible :
@@ -159,6 +171,8 @@ Il y a un système de climatisation disponible :
 - **Système de climatisation à 2 zones :** Permet des températures différentes pour le conducteur et le passager.
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui peut économiser une énergie significative que le VE utiliserait autrement pour le chauffage par temps froid.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Caractéristiques de confort
 
@@ -169,6 +183,8 @@ Le Acura ZDX A-Spec AWD comprend plusieurs fonctionnalités pour améliorer le c
 - **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interface Utilisateur et Contrôle
 
@@ -196,6 +212,8 @@ Le Acura ZDX A-Spec AWD est équipé d'un seul type de volant :
 Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
 Ce modèle est équipé de la commande vocale de série, vous permettant de gérer diverses fonctions par des commandes vocales.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infodivertissement
 
@@ -243,6 +261,8 @@ Le Acura ZDX A-Spec AWD est livré avec une application mobile dédiée, disponi
 Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_a-spec_awd/headlights_1_st.jpg" title="Acura ZDX A-Spec AWD" width="3000" height="2000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Systèmes Avancés d'Aide à la Conduite
 
@@ -301,6 +321,8 @@ Le Acura ZDX A-Spec AWD est équipé de fonctionnalités de sécurité avancées
 - **Système d'alarme :** Un système d'alarme intégré surveille les entrées non autorisées ou les manipulations, fournissant des alertes pour aider à dissuader les intrusions et à sécuriser votre véhicule.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacité de Chargement et Aptitude au Remorquage
 

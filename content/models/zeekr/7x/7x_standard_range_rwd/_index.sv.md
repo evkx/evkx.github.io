@@ -24,9 +24,13 @@ Vi har delat in vår beskrivning av Zeekr 7X Standard Range RWD i avsnitt. Om du
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Zeekr 7X Standard Range RWD levererar en solid prestanda med en maximal effekt på 310 kW (422 hk) och ett totalt vridmoment på 440 Nm. Den kan accelerera från 0 till 100 km/h på 5,8 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -49,6 +53,8 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/battery_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="1576" height="900"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivlina
 
@@ -74,6 +80,8 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 [**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Dock möjliggörs [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving) kombinerat med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exteriör
 
 Zeekr 7X Standard Range RWD, med dimensioner på 4825 mm i längd, 1930 mm i bredd och 1656 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Zeekr 7X Standard Range RWD finns i totalt 7 lackfärger, inklusive flera iögonfallande metalliska alternativ.
@@ -94,6 +102,8 @@ B-stolpen och vyerna bak är tonade.
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/exterior_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -150,6 +160,8 @@ Alternativet second är en [executive-stol kombinerad med en tvåsitsbänk](../.
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/secondrowseats_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="1600" height="899"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -157,6 +169,8 @@ Det finns ett tillgängligt klimatsystem.
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
@@ -166,6 +180,8 @@ Zeekr 7X Standard Range RWD inkluderar flera funktioner för att förbättra kom
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -193,6 +209,8 @@ Zeekr 7X Standard Range RWD är utrustad med en enda typ av ratt:
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -231,6 +249,8 @@ Du kan välja mellan två typer av strålkastare för Zeekr 7X Standard Range RW
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/headlights_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="2400" height="1350"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -278,6 +298,8 @@ Zeekr 7X Standard Range RWD är utrustad med avancerade säkerhetsfunktioner fö
 - **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

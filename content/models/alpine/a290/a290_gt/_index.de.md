@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Alpine A290 GT bietet eine bescheidene Leistung mit einer maximalen Leistung von 130 kW (177 PS / 174 bhp) und einem Gesamtdrehmoment von 285 Nm (210 lb-ft). Er beschleunigt in 7,4 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 160 km/h (99 mph), was ihn eher mit herkömmlichen Verbrennungsmotorfahrzeugen vergleichbar macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -48,6 +52,8 @@ Der Ladeanschluss befindet sich an der [linken Vorderseite](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Antriebsstrang
 
 Der Alpine A290 GT hat ein Frontantriebssystem, das von einem Motor an der Vorderachse unterstützt wird. Der verwendete Motor ist ein [Wickelrotor-Synchronmotor](../../../../technology/motors/wrsm/).
@@ -68,6 +74,8 @@ Der Alpine A290 GT ist mit [Gusseisenscheibenbremsen](../../../../technology/bra
 
 [Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Alpine A290 GT, mit Abmessungen von 3990 mm Länge, 1820 mm Breite und 1520 mm Höhe, fällt in die B-Segment-Autos, oft als Supermini bezeichnet, ist ein kleines Auto, das typischerweise für das Fahren in der Stadt geeignet ist und eine gute Balance zwischen Effizienz, Größe und Kosten bietet. Der Alpine A290 GT ist in insgesamt 5 Unilackfarben erhältlich.
@@ -83,6 +91,8 @@ Es gibt nur eine Dachoption für dieses Modell. Das Standarddach ist einfach ein
 {{< sitefiguresized thumb="models/alpine/a290/a290_gt/exterior_1_st.jpg" title="Alpine A290 GT" width="2000" height="1000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -114,6 +124,8 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Spl
 
 {{< sitefiguresized thumb="models/alpine/a290/a290_gt/secondrowseats_1_st.jpg" title="Alpine A290 GT" width="2000" height="1125"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
@@ -121,6 +133,8 @@ Es gibt ein Klimasystem verfügbar:
 - **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktionen
 
@@ -130,6 +144,8 @@ Der Alpine A290 GT umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu 
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -155,6 +171,8 @@ Der Alpine A290 GT ist mit einem einzigen Lenkradtyp ausgestattet:
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
 Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -187,6 +205,8 @@ Sie können zwischen zwei Scheinwerfertypen für den Alpine A290 GT wählen.
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
 {{< sitefiguresized thumb="models/alpine/a290/a290_gt/headlights_1_st.jpg" title="Alpine A290 GT" width="2000" height="1000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -223,6 +243,8 @@ Der Alpine A290 GT ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet,
 - **Schlüsselloser Zugang und Start:** Mit dem standardmäßigen schlüssellosen Start und dem optionalen schlüssellosen Zugang können Sie das Fahrzeug nahtlos entriegeln und starten, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

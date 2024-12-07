@@ -24,11 +24,15 @@ Vi har delt vår beskrivelse av Porsche Taycan 4S Sport Turismo i seksjoner. Hvi
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ytelse
 
 Med overboost når Porsche Taycan 4S Sport Turismo en maksimal effekt på 400 kW (544 hk / 536 bhp). Uten overboost leverer den solide 340 kW (462 hk). Maksimalt dreiemoment er på 695 Nm. Denne kraftpluggen kan akselerere fra 0 til 100 km/t på kun 3,7 sekunder og har en topphastighet på 250 km/t, som viser frem dens imponerende ytelse.
 
 Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost når Porsche Taycan 4S Sport Turismo en maksimal effekt på 440 kW (598 hk / 590 bhp). Uten overboost leverer den solide 380 kW (517 hk). Maksimalt dreiemoment er på 710 Nm. Denne kraftpluggen kan akselerere fra 0 til 100 km/t på kun 4 sekunder og har en topphastighet på 250 km/t, som viser frem dens imponerende ytelse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
@@ -64,6 +68,8 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivverk
 
 Porsche Taycan 4S Sport Turismo har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -86,6 +92,8 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 Den maksimale regenerative effekten er 265 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Eksteriør
 
 Porsche Taycan 4S Sport Turismo, med dimensjoner på 4963 mm i lengde, 1964 mm i bredde og 1395 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Porsche Taycan 4S Sport Turismo er tilgjengelig i totalt 17 lakkfarger, inkludert både solide og metalliske alternativer.
@@ -107,6 +115,8 @@ Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et v
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -159,6 +169,8 @@ Alternativet standard er to integrerte seter i andre rad. I tillegg er følgende
 
 Alternativet second er to integrerte seter i andre rad med et tredje mindre sete i mellom. I tillegg er følgende funksjoner tilgjengelige.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -167,11 +179,15 @@ Det er ett tilgjengelig klimasystem.
 
 Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunksjoner
 
 Porsche Taycan 4S Sport Turismo inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brukergrensesnitt og kontroll
 
@@ -197,6 +213,8 @@ Porsche Taycan 4S Sport Turismo er utstyrt med en enkelt type ratt:
 ### Speil
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -226,6 +244,8 @@ Du kan velge mellom to typer frontlykter for Porsche Taycan 4S Sport Turismo.
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1688"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avanserte førerassistentsystemer
 
@@ -273,6 +293,8 @@ Porsche Taycan 4S Sport Turismo er utstyrt med avanserte sikkerhetsfunksjoner fo
 - **Nøkkelfri adgang og start:** Med standard nøkkelfri start og valgfri nøkkelfri adgang kan du låse opp og starte kjøretøyet sømløst uten å ta nøkkelen ut av lommen eller vesken.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastekapasitet og slepeevne
 

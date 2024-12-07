@@ -30,11 +30,15 @@ Denne modellen er erstattet av [Porsche Taycan](/models/porsche/taycan/taycan/).
 
 </div>
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Ytelse
 
 Med overboost når Porsche Taycan (GEN1) en maksimal effekt på 300 kW (408 hk). Uten overboost leverer den 240 kW (326 hk). Maksimalt dreiemoment er 345 Nm. Den kan akselerere fra 0 til 100 km/t på 5,4 sekunder og når en topphastighet på 230 km/t, noe som viser dens solide ytelse.
 
 Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost når Porsche Taycan (GEN1) en maksimal effekt på 350 kW (476 hk). Uten overboost leverer den 280 kW (381 hk). Maksimalt dreiemoment er 357 Nm. Den kan akselerere fra 0 til 100 km/t på 5,4 sekunder og når en topphastighet på 230 km/t, noe som viser dens solide ytelse.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
@@ -70,6 +74,8 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivverk
 
 Porsche Taycan (GEN1) har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
@@ -94,6 +100,8 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 Den maksimale regenerative effekten er 265 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Eksteriør
 
 Porsche Taycan (GEN1), med dimensjoner på 4963 mm i lengde, 1964 mm i bredde og 1395 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Porsche Taycan (GEN1) er tilgjengelig i totalt 17 lakkfarger, inkludert både solide og metalliske alternativer.
@@ -115,6 +123,8 @@ Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et v
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gen1/exterior_1_st.jpg" title="Porsche Taycan (GEN1)" width="3000" height="1713"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
 
@@ -169,6 +179,8 @@ Alternativet standard er to integrerte seter i andre rad. I tillegg er følgende
 
 Alternativet second er to integrerte seter i andre rad med et tredje mindre sete i mellom. I tillegg er følgende funksjoner tilgjengelige.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -177,11 +189,15 @@ Det er ett tilgjengelig klimasystem.
 
 Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunksjoner
 
 Porsche Taycan (GEN1) inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brukergrensesnitt og kontroll
 
@@ -207,6 +223,8 @@ Porsche Taycan (GEN1) er utstyrt med en enkelt type ratt:
 ### Speil
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
@@ -234,6 +252,8 @@ Du kan velge mellom to typer frontlykter for Porsche Taycan (GEN1).
 - **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avanserte førerassistentsystemer
 
@@ -281,6 +301,8 @@ Porsche Taycan (GEN1) er utstyrt med avanserte sikkerhetsfunksjoner for å besky
 - **Nøkkelfri adgang og start:** Med standard nøkkelfri start og valgfri nøkkelfri adgang kan du låse opp og starte kjøretøyet sømløst uten å ta nøkkelen ut av lommen eller vesken.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastekapasitet og slepeevne
 

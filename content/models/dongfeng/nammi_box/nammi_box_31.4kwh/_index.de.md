@@ -24,9 +24,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Dongfeng Nammi Box 31.4kWh kWh bietet eine grundlegende Leistung mit einer maximalen Leistung von 70 kW (95 PS / 94 bhp) und einem Gesamtdrehmoment von 175 Nm (129 lb-ft). Er beschleunigt in 14 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 140 km/h (87 mph), was ihn eher mit Einstiegsfahrzeugen mit herkömmlichen Verbrennungsmotoren vergleichbar macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -51,6 +55,8 @@ Der Ladeanschluss befindet sich bequem an der [rechten Vorderseite](../../../../
 Dieses Modell unterstützt V2L (Vehicle 2 Load), was bedeutet, dass Sie elektrische Geräte mit bis zu 3,6 kW Leistung betreiben können, einschließlich des Ladens anderer Fahrzeuge.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Antriebsstrang
 
@@ -80,6 +86,8 @@ Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Si
 
 Die maximale regenerative Leistung beträgt 50 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Dongfeng Nammi Box 31.4kWh, mit Abmessungen von 4020 mm Länge, 1810 mm Breite und 1570 mm Höhe, fällt in die B-Segment-Autos, oft als Supermini bezeichnet, ist ein kleines Auto, das typischerweise für das Fahren in der Stadt geeignet ist und eine gute Balance zwischen Effizienz, Größe und Kosten bietet. Der Dongfeng Nammi Box 31.4kWh ist in insgesamt 4 Unilackfarben erhältlich.
@@ -95,6 +103,8 @@ Es gibt nur eine Dachoption für dieses Modell.
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_31.4kwh/exterior_1_st.jpg" title="Dongfeng Nammi Box 31.4kWh" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -131,6 +141,8 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 100-Split
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
@@ -139,6 +151,8 @@ Es gibt ein Klimasystem verfügbar:
 
 Dieses Modell hat keine [Wärmepumpe](../../../../technology/hvac/#heat-pump). Dies kann den Verbrauch bei kaltem Wetter im Vergleich zu Modellen mit Wärmepumpe erhöhen.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktionen
 
 Der Dongfeng Nammi Box 31.4kWh umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
@@ -146,6 +160,8 @@ Der Dongfeng Nammi Box 31.4kWh umfasst mehrere Funktionen, um Komfort und Bequem
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -174,6 +190,8 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 Das Dongfeng Nammi Box 31.4kWh verfügt über ein maßgeschneidertes Infotainmentsystem, das eine Schnittstelle mit einer Vielzahl von Funktionen und Funktionen bietet, um das Fahrerlebnis zu verbessern.
@@ -193,6 +211,8 @@ Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_31.4kwh/headlights_1_st.jpg" title="Dongfeng Nammi Box 31.4kWh" width="1920" height="1080"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -238,6 +258,8 @@ Der Dongfeng Nammi Box 31.4kWh ist mit fortschrittlichen Sicherheitsfunktionen a
 - **Schlüsselloser Zugang und Start:** Das schlüssellose Zugangssystem des Fahrzeugs ermöglicht einen nahtlosen Zugang, sodass Sie das Auto entriegeln und starten können, ohne den Schlüssel aus Ihrer Tasche oder Ihrem Beutel zu nehmen.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

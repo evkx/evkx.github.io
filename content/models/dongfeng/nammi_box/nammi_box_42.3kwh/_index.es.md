@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#performance)
-- [Batería, Autonomía y Carga](#battery-range-and-charging)
-- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
-- [Exterior (colores de pintura, ruedas ++)](#exterior)
-- [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#user-interface-and-control)
-- [Infoentretenimiento](#infotainment)
-- [Luces](#lights)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
+- [Rendimiento](#section-performance)
+- [Batería, Autonomía y Carga](#section-battery)
+- [Tren motriz (suspensión, frenos, dirección)](#section-drivetrain)
+- [Exterior (colores, ruedas ++)](#section-exterior)
+- [Interior (asientos++)](#section-interior)
+- [Interfaz de usuario y control](#section-ui)
+- [Infoentretenimiento](#section-infotainment)
+- [Luces](#section-lights)
+- [Sistemas avanzados de asistencia a la conducción](#section-adas)
+- [Capacidad de Carga y Capacidad de Remolque](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Rendimiento
 
 El Dongfeng Nammi Box 42.3kWh kWh ofrece un rendimiento básico con una potencia máxima de 70 kW (95 hp / 94 bhp) y un par total de 175 Nm (129 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 14 segundos y alcanza una velocidad máxima de 140 km/h (87 mph), comparable a los vehículos tradicionales de motor de combustión interna de nivel básico.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batería, Autonomía y Carga
 
@@ -51,6 +55,8 @@ El puerto de carga está convenientemente ubicado en el [lado delantero derecho]
 Este modelo admite V2L (Vehículo a Carga), lo que le permite alimentar equipos eléctricos que requieren hasta 3,6 kW de potencia, incluida la capacidad de cargar otros vehículos.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Tren Motriz
 
@@ -80,6 +86,8 @@ Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pi
 
 La potencia máxima de regeneración es de 50 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 El Dongfeng Nammi Box 42.3kWh, con dimensiones de 4020 mm de longitud, 1810 mm de ancho y 1570 mm de altura, pertenece al segmento de coches B, a menudo conocido como supermini, es un coche pequeño típicamente adecuado para la conducción urbana, ofreciendo un buen equilibrio entre eficiencia, tamaño y costo. El Dongfeng Nammi Box 42.3kWh está disponible en un total de 4 colores de pintura sólidos.
@@ -95,6 +103,8 @@ Solo hay una opción de techo para este modelo.
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/exterior_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -132,6 +142,8 @@ La segunda fila cuenta con un banco estándar de tres asientos con una división
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Sistema de Climatización
 
 Hay un sistema de climatización disponible:
@@ -140,6 +152,8 @@ Hay un sistema de climatización disponible:
 
 Este modelo no tiene una [bomba de calor](../../../../technology/hvac/#heat-pump). Esto puede aumentar el consumo en clima frío en comparación con los modelos con bomba de calor.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Características de Confort
 
 El Dongfeng Nammi Box 42.3kWh incluye varias características para mejorar la comodidad y conveniencia:
@@ -147,6 +161,8 @@ El Dongfeng Nammi Box 42.3kWh incluye varias características para mejorar la co
 - **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interfaz de Usuario y Control
 
@@ -175,6 +191,8 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 Este modelo viene equipado con control por voz de serie, lo que le permite gestionar varias funciones a través de comandos de voz.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Sistema de Información y Entretenimiento
 
 El Dongfeng Nammi Box 42.3kWh cuenta con un sistema de información y entretenimiento personalizado diseñado para proporcionar una interfaz con una variedad de características y funciones para mejorar la experiencia de conducción.
@@ -194,6 +212,8 @@ El modelo tiene 1 conexiones USB-A como estándar.
 Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_42.3kwh/headlights_1_st.jpg" title="Dongfeng Nammi Box 42.3kWh" width="1920" height="1080"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistemas Avanzados de Asistencia al Conductor
 
@@ -239,6 +259,8 @@ El Dongfeng Nammi Box 42.3kWh está equipado con características de seguridad a
 - **Entrada y Arranque Sin Llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin interrupciones, permitiéndole desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacidad de Carga y Remolque
 

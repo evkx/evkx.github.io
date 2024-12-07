@@ -13,16 +13,16 @@ navicon: bi-car-front
 
 Nous avons organisé cet article en sections spécifiques pour une navigation plus facile. Cliquez sur les liens ci-dessous pour accéder à différentes sections ou continuez à lire pour l'article complet. De plus, nous offrons un aperçu des [spécifications complètes](specifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/), et quelques [critiques en ligne](reviews/). Nos sections incluent :
 
-- [Performance](#performance)
-- [Batterie, Autonomie et Recharge](#battery-range-and-charging)
-- [Groupe motopropulseur (suspension, freins, direction)](#drivetrain)
-- [Extérieur (couleurs de peinture, roues ++)](#exterior)
-- [Intérieur (sièges++)](#interior)
-- [Interface utilisateur et contrôle](#user-interface-and-control)
-- [Infodivertissement](#infotainment)
-- [Éclairage](#lights)
-- [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
-- [Capacité de chargement et aptitude au remorquage](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Batterie, Autonomie et Recharge](#section-battery)
+- [Groupe motopropulseur (suspension, freins, direction)](#section-drivetrain)
+- [Extérieur (couleurs de peinture, roues ++)](#section-exterior)
+- [Intérieur (sièges++)](#section-interior)
+- [Interface utilisateur et contrôle](#section-ui)
+- [Infodivertissement](#section-infotainment)
+- [Éclairage](#section-lights)
+- [Systèmes avancés d'aide à la conduite](#section-adas)
+- [Capacité de chargement et Aptitude au remorquage](#section-transportation)
 
 <div class="alert alert-secondary" role="alert">
 
@@ -30,9 +30,13 @@ Ce modèle a été remplacé par [Mercedes EQS 580 4MATIC](/models/mercedes/eqs/
 
 </div>
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Performance
 
 Le Mercedes-EQ EQS 580 4MATIC offre des performances solides avec une puissance maximale de 385 kW (524 ch / 516 bhp) et un couple total de 858 Nm (633 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 4,3 secondes et atteint une vitesse maximale de 210 km/h (131 mph), le rendant compétitif dans sa catégorie.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Autonomie et Recharge
 
@@ -56,6 +60,8 @@ L'emplacement du port de charge est sur le [côté arrière droit](../../../../t
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Groupe Motopropulseur
 
 Le Mercedes-EQ EQS 580 4MATIC dispose d'un système de traction intégrale alimenté par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
@@ -78,6 +84,8 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 La puissance régénérative maximale est de 300 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Extérieur
 
 Le Mercedes-EQ EQS 580 4MATIC, avec des dimensions de 5216 mm de longueur, 1926 mm de largeur et 1512 mm de hauteur, appartient aux voitures du segment F, également appelées voitures de luxe ou voitures de luxe de grande taille, représentant le summum du luxe automobile, des performances et de la technologie. Elles sont généralement de grandes berlines ou limousines et sont conçues pour offrir le plus grand confort, prestige et fonctionnalités avancées. Le Mercedes-EQ EQS 580 4MATIC offre une sélection de 11 couleurs de peinture, avec des options unies, métalliques et mates. En plus de la palette standard, des couleurs exclusives sont disponibles dans la palette 'MANUFAKTUR'.
@@ -98,6 +106,8 @@ La voiture a quatre [portes régulières](../../../../technology/doors/) et un [
 Il y a deux options de toit différentes à sélectionner. Le toit standard est simplement un toit régulier. En option, vous pouvez commander ce modèle avec un toit panoramique. Le verre a deux panneaux. Un sur la première et la deuxième rangée, et les occupants peuvent ouvrir la partie avant. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Les deux panneaux de verre ont un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Intérieur
 
@@ -153,12 +163,16 @@ L'option second est une banquette trois places avec une répartition 40:20:40 o�
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic_gen1/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Système de Climatisation
 
 Deux options de système de climatisation sont disponibles :
 
 - **Système de climatisation à 2 zones :** Permet des températures différentes pour le conducteur et le passager.
 - **Système de climatisation à 4 zones :** Permet des températures différentes pour le conducteur, le passager et deux passagers séparés à l'arrière.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Caractéristiques de confort
 
@@ -168,6 +182,8 @@ Le Mercedes-EQ EQS 580 4MATIC comprend plusieurs fonctionnalités pour améliore
 - **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interface Utilisateur et Contrôle
 
@@ -197,6 +213,8 @@ Ce modèle dispose d'un système de commande vocale en option. La commande vocal
 
 Ce modèle dispose également d'un système de contrôle gestuel optionnel qui vous permet de contrôler certaines fonctionnalités.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infodivertissement
 
 ### Système de Navigation
@@ -221,6 +239,8 @@ De plus, le modèle comprend 4 connexions USB-C de série. En option, vous pouve
 Le Mercedes-EQ EQS 580 4MATIC est équipé de phares à LED Matrix avancés. Ce système adaptatif divise le faisceau de phare traditionnel en plusieurs petits rayons, permettant au contrôleur de lumière de les allumer et éteindre sélectivement pour éviter d'éblouir les autres conducteurs. Pour une sécurité accrue, les phares comprennent également des feux de virage qui éclairent le côté lors des virages.
 
 Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Systèmes Avancés d'Aide à la Conduite
 
@@ -266,6 +286,8 @@ Avec le système optionnel DRIVE PILOT niveau 3, vous obtenez des fonctionnalit�
 Le Mercedes-EQ EQS 580 4MATIC est équipé de fonctionnalités de sécurité avancées pour vous protéger, vous et votre véhicule. Celles-ci incluent :
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacité de Chargement et Aptitude au Remorquage
 

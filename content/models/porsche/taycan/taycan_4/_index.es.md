@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#performance)
-- [Batería, Autonomía y Carga](#battery-range-and-charging)
-- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
-- [Exterior (colores de pintura, ruedas ++)](#exterior)
-- [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#user-interface-and-control)
-- [Infoentretenimiento](#infotainment)
-- [Luces](#lights)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
+- [Rendimiento](#section-performance)
+- [Batería, Autonomía y Carga](#section-battery)
+- [Tren motriz (suspensión, frenos, dirección)](#section-drivetrain)
+- [Exterior (colores, ruedas ++)](#section-exterior)
+- [Interior (asientos++)](#section-interior)
+- [Interfaz de usuario y control](#section-ui)
+- [Infoentretenimiento](#section-infotainment)
+- [Luces](#section-lights)
+- [Sistemas avanzados de asistencia a la conducción](#section-adas)
+- [Capacidad de Carga y Capacidad de Remolque](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Rendimiento
 
 Con la batería opcional Performance Battery Plus, obtienes otros números de rendimiento. Con sobrealimentación, el Porsche Taycan 4 alcanza una potencia máxima de 300 kW (408 hp / 402 bhp). Sin sobrealimentación, ofrece 300 kW (408 hp / 402 bhp). El par máximo es de 420 Nm (310 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 4,8 segundos y alcanza una velocidad máxima de 230 km/h (143 mph), demostrando su sólido rendimiento. Con sobrealimentación, el Porsche Taycan 4 alcanza una potencia máxima de 300 kW (408 hp / 402 bhp). Sin sobrealimentación, ofrece 300 kW (408 hp / 402 bhp). El par máximo es de 410 Nm (303 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 4,8 segundos y alcanza una velocidad máxima de 230 km/h (143 mph), demostrando su sólido rendimiento.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batería, Autonomía y Carga
 
@@ -61,6 +65,8 @@ El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nive
 El puerto de carga está convenientemente ubicado en el [lado delantero derecho](../../../../technology/charging/connectors/#front-side), facilitando el acceso en estaciones de carga donde estaciona paralelo al cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas. Además, un segundo puerto en el [lado delantero izquierdo](../../../../technology/charging/connectors/#front-side) ofrece mayor flexibilidad para la carga AC. Los tipos de conectores varían entre diferentes mercados. Este modelo utiliza [**J1772**](../../../../technology/charging/connectors/#j1772) para América del Norte y [**TYPE2**](../../../../technology/charging/connectors/#type-2) para Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Tren Motriz
 
@@ -104,6 +110,8 @@ Si levantas completamente el pie, la regeneración está en un nivel fijo. Esto 
 
 La potencia máxima de regeneración es de 265 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 El Porsche Taycan 4, con dimensiones de 4963 mm de longitud, 1966 mm de ancho y 1395 mm de altura, pertenece al segmento de coches E, también conocidos como coches ejecutivos, que son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer una comodidad superior, tecnología avanzada y alto rendimiento, haciéndolos adecuados para un conjunto específico de conductores. El Porsche Taycan 4 está disponible en un total de 17 colores de pintura, incluidos tanto colores sólidos como metálicos.
@@ -127,6 +135,8 @@ Además, puede pedir el coche con ventanas tintadas desde el pilar B hacia atrá
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4/exterior_1_st.jpg" title="Porsche Taycan 4" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -255,6 +265,8 @@ El Porsche Taycan 4 ofrece una gama de opciones de iluminación interior diseña
 
 - **Iluminación ambiental multicolor:** Esta característica se extiende a lo largo de los paneles de las puertas y el espacio para los pies, proporcionando una atmósfera armoniosa y acogedora. Puedes personalizar los colores para adaptarlos a tu estado de ánimo o preferencia, añadiendo un toque personal a tu experiencia de conducción.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Sistema de Climatización
 
 Hay un sistema de climatización disponible:
@@ -262,6 +274,8 @@ Hay un sistema de climatización disponible:
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estándar, que puede ahorrar una cantidad significativa de energía que el EV usaría de otra manera para la calefacción en clima frío.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Características de Confort
 
@@ -272,6 +286,8 @@ El Porsche Taycan 4 incluye varias características para mejorar la comodidad y 
 - **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interfaz de Usuario y Control
 
@@ -302,6 +318,8 @@ Puede seleccionar entre varios volantes.
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
 Este modelo viene equipado con control por voz de serie, lo que le permite gestionar varias funciones a través de comandos de voz.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistema de Información y Entretenimiento
 
@@ -355,6 +373,8 @@ Puede elegir entre dos tipos de faros delanteros para el Porsche Taycan 4.
 - **Faros LED Matrix:** Disponibles como mejora, este sistema adaptativo divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede activar o desactivar individualmente. Esto optimiza la iluminación al atenuar selectivamente áreas específicas para evitar deslumbrar al tráfico que se aproxima. Para mayor seguridad, incluye luces de giro que iluminan el lateral al girar.
 
 Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistemas Avanzados de Asistencia al Conductor
 
@@ -423,6 +443,8 @@ El Porsche Taycan 4 está equipado con características de seguridad avanzadas p
 - **Vigilancia de Estacionamiento:** Utilizando su conjunto de cámaras, el vehículo monitorea activamente los alrededores mientras está estacionado, ofreciendo una protección mejorada a través de vigilancia continua.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacidad de Carga y Remolque
 

@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#performance)
-- [Batería, Autonomía y Carga](#battery-range-and-charging)
-- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
-- [Exterior (colores de pintura, ruedas ++)](#exterior)
-- [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#user-interface-and-control)
-- [Infoentretenimiento](#infotainment)
-- [Luces](#lights)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
+- [Rendimiento](#section-performance)
+- [Batería, Autonomía y Carga](#section-battery)
+- [Tren motriz (suspensión, frenos, dirección)](#section-drivetrain)
+- [Exterior (colores, ruedas ++)](#section-exterior)
+- [Interior (asientos++)](#section-interior)
+- [Interfaz de usuario y control](#section-ui)
+- [Infoentretenimiento](#section-infotainment)
+- [Luces](#section-lights)
+- [Sistemas avanzados de asistencia a la conducción](#section-adas)
+- [Capacidad de Carga y Capacidad de Remolque](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Rendimiento
 
 El Rivian R1S Quad-Motor AWD ofrece una impresionante potencia máxima de 620 kW (843 hp / 831 bhp) y un par total de 1231 Nm (908 lb-ft). Este potente vehículo puede acelerar de 0 a 100 km/h (0 a 62 mph) en solo 3,1 segundos, mostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 201 km/h (125 mph), lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batería, Autonomía y Carga
 
@@ -51,6 +55,8 @@ La ubicación del puerto de carga está en la [esquina delantera izquierda](../.
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Tren Motriz
 
 El Rivian R1S Quad-Motor AWD tiene un sistema de tracción en las cuatro ruedas soportado por cuatro motores. Uno para cada rueda.
@@ -69,6 +75,8 @@ El [frenado regenerativo](../../../../technology/regen/) en este modelo se facil
 
 Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 El Rivian R1S Quad-Motor AWD, con dimensiones de 5100 mm de longitud,  mm de ancho y 1966 mm de altura, pertenece a los SUVs de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUVs, haciéndolos adecuados para un conjunto específico de conductores con necesidades únicas. El Rivian R1S Quad-Motor AWD está disponible en un total de 9 colores de pintura, incluidos varios llamativos colores metálicos.
@@ -84,6 +92,8 @@ Las ventanas desde el pilar B hacia atrás están tintadas, lo que mejora la pri
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="2880" height="1920"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -122,6 +132,8 @@ La segunda fila cuenta con un banco estándar de tres asientos con una división
 
 La tercera fila tiene un banco de dos asientos con división . También puede plegar los asientos cuando no se usan para crear un mayor espacio de carga.
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Sistema de Climatización
 
 Hay un sistema de climatización disponible:
@@ -129,6 +141,8 @@ Hay un sistema de climatización disponible:
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
 Este modelo no tiene una [bomba de calor](../../../../technology/hvac/#heat-pump). Esto puede aumentar el consumo en clima frío en comparación con los modelos con bomba de calor.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Características de Confort
 
@@ -138,6 +152,8 @@ El Rivian R1S Quad-Motor AWD incluye varias características para mejorar la com
 - **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interfaz de Usuario y Control
 
@@ -164,6 +180,8 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 Este modelo viene equipado con control por voz de serie, lo que le permite gestionar varias funciones a través de comandos de voz.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Sistema de Información y Entretenimiento
 
 El Rivian R1S Quad-Motor AWD cuenta con un avanzado sistema de información y entretenimiento basado en Android Automotive OS, una plataforma de Google diseñada específicamente para los tableros de los vehículos. Mejorando este robusto sistema, Rivian ha integrado su propia suite de aplicaciones, proporcionando una navegación sin interrupciones, configuraciones completas del coche y mucho más.
@@ -185,6 +203,8 @@ Además, el modelo incluye 6 conexiones USB-C como estándar.
 **Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
 
 Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistemas Avanzados de Asistencia al Conductor
 
@@ -220,6 +240,8 @@ El Rivian R1S Quad-Motor AWD está equipado con características de seguridad av
 - **Entrada y Arranque Sin Llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin interrupciones, permitiéndole desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacidad de Carga y Remolque
 

@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#performance)
-- [Batería, Autonomía y Carga](#battery-range-and-charging)
-- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
-- [Exterior (colores de pintura, ruedas ++)](#exterior)
-- [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#user-interface-and-control)
-- [Infoentretenimiento](#infotainment)
-- [Luces](#lights)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
+- [Rendimiento](#section-performance)
+- [Batería, Autonomía y Carga](#section-battery)
+- [Tren motriz (suspensión, frenos, dirección)](#section-drivetrain)
+- [Exterior (colores, ruedas ++)](#section-exterior)
+- [Interior (asientos++)](#section-interior)
+- [Interfaz de usuario y control](#section-ui)
+- [Infoentretenimiento](#section-infotainment)
+- [Luces](#section-lights)
+- [Sistemas avanzados de asistencia a la conducción](#section-adas)
+- [Capacidad de Carga y Capacidad de Remolque](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Rendimiento
 
 El Volkswagen ID.7 Pro ofrece un rendimiento sólido con una potencia máxima de 210 kW (286 hp / 282 bhp) y un par total de 550 Nm (406 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 6,5 segundos y alcanza una velocidad máxima de 180 km/h (112 mph), siendo competitivo dentro de su clase.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batería, Autonomía y Carga
 
@@ -50,6 +54,8 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Tren Motriz
 
 El Volkswagen ID.7 Pro tiene un sistema de tracción trasera soportado por un motor en el eje trasero. El motor utilizado es un [Motor Síncrono de Imán Permanente](../../../../technology/motors/pmsm/).
@@ -72,6 +78,8 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 Si levantas completamente el pie, la regeneración está en un nivel fijo. Esto no se puede ajustar.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 El Volkswagen ID.7 Pro, con dimensiones de 4961 mm de longitud, 1862 mm de ancho y 1532 mm de altura, pertenece al segmento de coches E, también conocidos como coches ejecutivos, que son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer una comodidad superior, tecnología avanzada y alto rendimiento, haciéndolos adecuados para un conjunto específico de conductores. El Volkswagen ID.7 Pro está disponible en un total de 13 colores de pintura, incluidos tanto colores sólidos como metálicos. Algunas de estas opciones de pintura incluyen pinturas de dos tonos donde el techo y la parte superior del cuerpo están pintados en un color diferente, proporcionando un aspecto distintivo y elegante.
@@ -93,6 +101,8 @@ Además, puede pedir el coche con ventanas tintadas desde el pilar B hacia atrá
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/exterior_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -143,6 +153,8 @@ La segunda fila cuenta con un banco estándar de tres asientos con una división
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Sistema de Climatización
 
 Hay dos opciones de sistemas de climatización disponibles:
@@ -152,6 +164,8 @@ Hay dos opciones de sistemas de climatización disponibles:
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estándar, que puede ahorrar una cantidad significativa de energía que el EV usaría de otra manera para la calefacción en clima frío.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Características de Confort
 
 El Volkswagen ID.7 Pro incluye varias características para mejorar la comodidad y conveniencia:
@@ -159,6 +173,8 @@ El Volkswagen ID.7 Pro incluye varias características para mejorar la comodidad
 - **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interfaz de Usuario y Control
 
@@ -184,6 +200,8 @@ El Volkswagen ID.7 Pro está equipado con un solo tipo de volante:
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
+
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistema de Información y Entretenimiento
 
@@ -222,6 +240,8 @@ Puede elegir entre dos tipos de faros delanteros para el Volkswagen ID.7 Pro.
 Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/headlights_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistemas Avanzados de Asistencia al Conductor
 
@@ -272,6 +292,8 @@ El Volkswagen ID.7 Pro está equipado con características de seguridad avanzada
 - **Entrada y Arranque Sin Llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin interrupciones sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacidad de Carga y Remolque
 

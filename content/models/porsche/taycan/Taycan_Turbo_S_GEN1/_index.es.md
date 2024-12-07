@@ -13,16 +13,16 @@ navicon: bi-car-front
 
 Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
-- [Rendimiento](#performance)
-- [Batería, Autonomía y Carga](#battery-range-and-charging)
-- [Tren motriz (suspensión, frenos, dirección)](#drivetrain)
-- [Exterior (colores de pintura, ruedas ++)](#exterior)
-- [Interior (asientos++)](#interior)
-- [Interfaz de usuario y control](#user-interface-and-control)
-- [Infoentretenimiento](#infotainment)
-- [Luces](#lights)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y remolque](#cargo-capacity-and-towing-ability)
+- [Rendimiento](#section-performance)
+- [Batería, Autonomía y Carga](#section-battery)
+- [Tren motriz (suspensión, frenos, dirección)](#section-drivetrain)
+- [Exterior (colores, ruedas ++)](#section-exterior)
+- [Interior (asientos++)](#section-interior)
+- [Interfaz de usuario y control](#section-ui)
+- [Infoentretenimiento](#section-infotainment)
+- [Luces](#section-lights)
+- [Sistemas avanzados de asistencia a la conducción](#section-adas)
+- [Capacidad de Carga y Capacidad de Remolque](#section-transportation)
 
 <div class="alert alert-secondary" role="alert">
 
@@ -30,9 +30,13 @@ Este modelo ha sido reemplazado por [Porsche Taycan Turbo S](/models/porsche/tay
 
 </div>
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Rendimiento
 
 El Porsche Taycan Turbo S (GEN1) ofrece un rendimiento impresionante con una potencia máxima de 560 kW (761 hp / 751 bhp) al usar sobrealimentación. Sin sobrealimentación, aún ofrece una robusta potencia de 460 kW (625 hp / 617 bhp). El vehículo genera un par máximo de 850 Nm (627 lb-ft), permitiéndole acelerar de 0 a 100 km/h (0 a 62 mph) en solo 2,8 segundos y alcanzar una velocidad máxima de 260 km/h (162 mph).
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batería, Autonomía y Carga
 
@@ -56,6 +60,8 @@ El puerto de carga está convenientemente ubicado en el [lado delantero derecho]
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Tren Motriz
 
 El Porsche Taycan Turbo S (GEN1) cuenta con un sistema de tracción en las cuatro ruedas impulsado por dos motores, uno en cada eje. Los motores utilizados son [Motores Síncronos de Imán Permanente](../../../../technology/motors/pmsm/).
@@ -78,6 +84,8 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 La potencia máxima de regeneración es de 275 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 El Porsche Taycan Turbo S (GEN1), con dimensiones de 4963 mm de longitud, 1966 mm de ancho y 1381 mm de altura, pertenece al segmento de coches E, también conocidos como coches ejecutivos, que son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer una comodidad superior, tecnología avanzada y alto rendimiento, haciéndolos adecuados para un conjunto específico de conductores. El Porsche Taycan Turbo S (GEN1) está disponible en un total de 17 colores de pintura, incluidos tanto colores sólidos como metálicos.
@@ -99,6 +107,8 @@ Hay tres opciones de techo diferentes para elegir. El estándar es solo un techo
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/exterior_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -145,6 +155,8 @@ La opción standard es dos asientos integrados en la segunda fila. Las funcional
 
 La opción second es dos asientos integrados en la segunda fila con un tercer asiento más pequeño en el medio. Las funcionalidades adicionales incluyen:
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Sistema de Climatización
 
 Hay un sistema de climatización disponible:
@@ -153,11 +165,15 @@ Hay un sistema de climatización disponible:
 
 Este modelo tiene una [bomba de calor](../../../../technology/hvac/#heat-pump) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía utilizada para la calefacción en clima frío.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Características de Confort
 
 El Porsche Taycan Turbo S (GEN1) incluye varias características para mejorar la comodidad y conveniencia:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interfaz de Usuario y Control
 
@@ -184,6 +200,8 @@ El Porsche Taycan Turbo S (GEN1) está equipado con un solo tipo de volante:
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Sistema de Información y Entretenimiento
 
 ### Sistema de Navegación
@@ -209,6 +227,8 @@ El Porsche Taycan Turbo S (GEN1) viene equipado con faros LED Matrix avanzados. 
 Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/headlights_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2298"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistemas Avanzados de Asistencia al Conductor
 
@@ -256,6 +276,8 @@ El Porsche Taycan Turbo S (GEN1) está equipado con características de segurida
 - **Entrada y Arranque Sin Llave:** Con el arranque sin llave estándar y la entrada sin llave opcional, puede desbloquear y arrancar el vehículo sin interrupciones sin necesidad de sacar la llave de su bolsillo o bolso.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Capacidad de Carga y Remolque
 

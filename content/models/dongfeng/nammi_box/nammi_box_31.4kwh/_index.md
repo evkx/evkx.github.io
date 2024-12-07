@@ -13,20 +13,24 @@ navicon: bi-car-front
 
 We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
-- [Performance](#performance)
-- [Battery, Range, and Charging](#battery-range-and-charging)
-- [Drivetrain (suspension, brakes, steering)](#drivetrain)
-- [Exterior (paint colors, wheels ++)](#exterior)
-- [Interior (seats++)](#interior)
-- [User interface and control](#user-interface-and-control)
-- [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
+- [Performance](#section-performance)
+- [Battery, Range, and Charging](#section-battery)
+- [Drivetrain (suspension, brakes, steering)](#section-drivetrain)
+- [Exterior (paint colors, wheels ++)](#section-exterior)
+- [Interior (seats++)](#section-interior)
+- [User interface and control](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lights](#section-lights)
+- [Advanced driver-assistance systems](#section-adas)
+- [Cargo Capacity and Towing Ability](#section-transportation)
+
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
 
 The Dongfeng Nammi Box 31.4kWh kWh provides basic performance with a maximum power of 70 kW (95 hp / 94 bhp) and a total torque of 175 Nm (129 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 14 seconds and reaches a top speed of 140 km/h (87 mph), which is more comparable to entry-level traditional internal combustion engine vehicles.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Battery, Range, and Charging
 
@@ -51,6 +55,8 @@ The charge port is conveniently located on the [right front side](../../../../te
 This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 3.6 kW of power, including the ability to charge other vehicles.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivetrain
 
@@ -80,6 +86,8 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The maximum regenerative power is 50 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterior
 
 The Dongfeng Nammi Box 31.4kWh, with dimensions of 4020 mm in length, 1810 mm in width, and 1570 mm in height, falls into the B-segment car, often referred to as a supermini, is a small car typically suitable for urban driving, offering a good balance of efficiency, size, and cost. The Dongfeng Nammi Box 31.4kWh is available in a total of 4 solid paint colors.
@@ -95,6 +103,8 @@ There is only one roof option for this model.
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_31.4kwh/exterior_1_st.jpg" title="Dongfeng Nammi Box 31.4kWh" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
 
@@ -131,6 +141,8 @@ The second row features a standard three-seat bench with a 100 split, allowing e
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Climate System
 
 There is one climate system available:
@@ -139,6 +151,8 @@ There is one climate system available:
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Comfort Features
 
 The Dongfeng Nammi Box 31.4kWh includes several features to enhance comfort and convenience:
@@ -146,6 +160,8 @@ The Dongfeng Nammi Box 31.4kWh includes several features to enhance comfort and 
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## User Interface and Control
 
@@ -174,6 +190,8 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 The Dongfeng Nammi Box 31.4kWh features a custom-built infotainment system designed to provide a interface with a range of features and functions to enhance the driving experience.
@@ -193,6 +211,8 @@ The model has 1 USB-A connections as standard.
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_31.4kwh/headlights_1_st.jpg" title="Dongfeng Nammi Box 31.4kWh" width="1920" height="1080"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Advanced Driver Assistance Systems
 
@@ -238,6 +258,8 @@ The Dongfeng Nammi Box 31.4kWh is equipped with advanced security features to pr
 - **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Cargo Capacity and Towing Ability
 

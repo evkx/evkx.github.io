@@ -24,9 +24,13 @@ Vi har delat in vår beskrivning av Polestar 3 Long Range Dual Motor i avsnitt. 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Polestar 3 Long Range Dual Motor levererar en solid prestanda med en maximal effekt på 360 kW (490 hk) och ett totalt vridmoment på 840 Nm. Den kan accelerera från 0 till 100 km/h på 5 sekunder och når en topphastighet på 210 km/h, vilket gör den konkurrenskraftig i sin klass.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -48,6 +52,8 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivlina
 
 Polestar 3 Long Range Dual Motor har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
@@ -66,6 +72,8 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exteriör
 
 Polestar 3 Long Range Dual Motor, med dimensioner på 4900 mm i längd, 1968 mm i bredd och 1614 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Polestar 3 Long Range Dual Motor finns i totalt 6 lackfärger, inklusive flera iögonfallande metalliska alternativ.
@@ -81,6 +89,8 @@ Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du be
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor/exterior_1_st.jpg" title="Polestar 3 Long Range Dual Motor" width="3000" height="2250"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -121,6 +131,8 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion d�
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor/secondrowseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor" width="3000" height="2248"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -128,6 +140,8 @@ Det finns ett tillgängligt klimatsystem.
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktioner
 
@@ -137,6 +151,8 @@ Polestar 3 Long Range Dual Motor inkluderar flera funktioner för att förbättr
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -161,6 +177,8 @@ Polestar 3 Long Range Dual Motor är utrustad med en enda typ av ratt:
 
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Ljudsystem
@@ -182,6 +200,8 @@ Du kan välja mellan två typer av strålkastare för Polestar 3 Long Range Dual
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor/headlights_1_st.jpg" title="Polestar 3 Long Range Dual Motor" width="3000" height="2250"  >}}
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -215,6 +235,8 @@ Polestar 3 Long Range Dual Motor är utrustad med avancerade säkerhetsfunktione
 - **Nyckelfri åtkomst och start:** Fordonets nyckelfria åtkomst- och startsystem möjliggör sömlös åtkomst, vilket gör att du kan låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 

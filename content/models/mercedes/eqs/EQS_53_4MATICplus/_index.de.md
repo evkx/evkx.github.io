@@ -24,11 +24,15 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
 - [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Leistung
 
 Der Mercedes-AMG EQS 53 4MATIC+ bietet eine beeindruckende Leistung mit einer maximalen Leistung von 484 kW (658 PS / 649 bhp) und einem beachtlichen Gesamtdrehmoment von 858 Nm (633 lb-ft). Diese Hochleistungsmaschine kann in nur 3,8 Sekunden von 0 auf 100 km/h (0 auf 62 mph) sprinten und erreicht eine Höchstgeschwindigkeit von 220 km/h (137 mph), was sie zu einem herausragenden Fahrzeug in ihrer Klasse macht.
 
 Wenn Sie mit der Standardleistung nicht zufrieden sind, können Sie die AMG Dynamic Plus Leistungsoption hinzufügen. Dann werden die Werte verbessert. Der Mercedes-AMG EQS 53 4MATIC+ bietet eine beeindruckende Leistung mit einer maximalen Leistung von 560 kW (761 PS / 751 bhp) und einem beachtlichen Gesamtdrehmoment von 1020 Nm (753 lb-ft). Diese Hochleistungsmaschine kann in nur 3,4 Sekunden von 0 auf 100 km/h (0 auf 62 mph) sprinten und erreicht eine Höchstgeschwindigkeit von 250 km/h (155 mph), was sie zu einem herausragenden Fahrzeug in ihrer Klasse macht.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
@@ -52,6 +56,8 @@ Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technol
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Antriebsstrang
 
 Der Mercedes-AMG EQS 53 4MATIC+ verfügt über ein Allradantriebssystem, das von zwei Motoren angetrieben wird, einem an jeder Achse. Die verwendeten Motoren sind [Permanentmagnet-Synchronmotoren](../../../../technology/motors/pmsm/).
@@ -74,6 +80,8 @@ Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell b
 
 Die maximale regenerative Leistung beträgt 300 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exterieur
 
 Der Mercedes-AMG EQS 53 4MATIC+, mit Abmessungen von 5223 mm Länge, 1926 mm Breite und 1520 mm Höhe, fällt in die F-Segment-Autos, auch als Luxus- oder Full-Size-Luxusautos bekannt, repräsentieren den Höhepunkt von Automobilluxus, Leistung und Technologie. Sie sind typischerweise große Limousinen oder Limousinen und sind darauf ausgelegt, höchsten Komfort, Prestige und fortschrittliche Funktionen zu bieten. Der Mercedes-AMG EQS 53 4MATIC+ bietet eine Auswahl von 11 Lackfarben, darunter Unilack-, Metallic- und Matt-Optionen. Neben der Standardpalette sind exklusive Farben aus der 'MANUFAKTUR' Palette erhältlich.
@@ -92,6 +100,8 @@ Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/exterior_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="1998"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interieur
 
@@ -145,12 +155,16 @@ Die second-Option ist eine Drei-Sitz-Bank mit einem 40:20:40-Split, bei dem jede
 - Höhenverstellbare Kopfstütze
 - [Verstellbare Seitenwangen der Rückenlehne](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimaanlage
 
 Zwei Klimasystemoptionen sind verfügbar:
 
 - **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
 - **4-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer, Beifahrer und zwei separate Passagiere auf dem Rücksitz.
+
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunktionen
 
@@ -160,6 +174,8 @@ Der Mercedes-AMG EQS 53 4MATIC+ umfasst mehrere Funktionen, um Komfort und Beque
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Benutzeroberfläche und Steuerung
 
@@ -189,6 +205,8 @@ Dieses Modell verfügt über ein optionales Sprachsteuerungssystem. Mit der Spra
 
 Dieses Modell verfügt auch über ein optionales Gestensteuerungssystem, mit dem Sie bestimmte Funktionen steuern können.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -213,6 +231,8 @@ Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse. Optio
 Der Mercedes-AMG EQS 53 4MATIC+ ist mit fortschrittlichen LED-Matrix-Scheinwerfern ausgestattet. Dieses adaptive System teilt den traditionellen einzelnen Scheinwerferstrahl in mehrere kleinere Strahlen auf, sodass der Lichtcontroller sie selektiv ein- und ausschalten kann, um andere Fahrer nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -258,6 +278,8 @@ Mit dem optionalen DRIVE PILOT Level 3 System erhalten Sie zusätzliche Fahrauto
 Der Mercedes-AMG EQS 53 4MATIC+ ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen. Diese umfassen:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ladekapazität und Anhängelast
 

@@ -24,9 +24,13 @@ Vi har delat in vår beskrivning av Mercedes-EQ EQE 500 4MATIC i avsnitt. Om du 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Prestanda
 
 Mercedes-EQ EQE 500 4MATIC levererar en solid prestanda med en maximal effekt på 300 kW (408 hk) och ett totalt vridmoment på 858 Nm. Den kan accelerera från 0 till 100 km/h på 4,7 sekunder och når en topphastighet på 210 km/h, vilket gör den konkurrenskraftig i sin klass.
+
+<a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
@@ -50,6 +54,8 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
+<a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Drivlina
 
 Mercedes-EQ EQE 500 4MATIC har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -72,6 +78,8 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 Den maximala regenerativa effekten är 186 kW.
 
+<a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Exteriör
 
 Mercedes-EQ EQE 500 4MATIC, med dimensioner på 4946 mm i längd, 1961 mm i bredd och 1510 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Mercedes-EQ EQE 500 4MATIC erbjuder ett urval av 11 lackfärger, med enfärgade, metalliska och matta alternativ. Vid sidan av standardpaletten finns exklusiva färger tillgängliga från 'MANUFAKTUR'-paletten.
@@ -93,6 +101,8 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_500_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC" width="3000" height="1849"  >}}
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
 
@@ -141,6 +151,8 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_500_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC" width="3000" height="2000"  >}}
 
+<a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Klimatsystem
 
 Två klimatsystemalternativ är tillgängliga:
@@ -150,6 +162,8 @@ Två klimatsystemalternativ är tillgängliga:
 
 Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
+<a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Komfortfunktioner
 
 Mercedes-EQ EQE 500 4MATIC inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -158,6 +172,8 @@ Mercedes-EQ EQE 500 4MATIC inkluderar flera funktioner för att förbättra komf
 - **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
 
@@ -196,6 +212,8 @@ Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig s
 
 Denna modell har också ett valfritt gestkontrollsystem som låter dig styra specifika funktioner.
 
+<a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
+
 ## Infotainment
 
 ### Navigationssystem
@@ -223,6 +241,8 @@ Du kan välja mellan två typer av strålkastare för Mercedes-EQ EQE 500 4MATIC
 - **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+
+<a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avancerade förarassistanssystem
 
@@ -264,6 +284,8 @@ Med det valfria Driver Assistance Package Plus nivå 2-systemet får du ytterlig
 Mercedes-EQ EQE 500 4MATIC är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
 
 {{<evkxdisplayaddarticle />}}
+
+<a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Lastkapacitet och dragkapacitet
 
