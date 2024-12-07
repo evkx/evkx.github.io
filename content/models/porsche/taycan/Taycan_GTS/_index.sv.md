@@ -281,8 +281,8 @@ Dessutom stöder Porsche Taycan GTS Android Auto och Apple CarPlay. Denna funkti
 
 Du kan välja mellan två ljudsystem på Porsche Taycan GTS.
 
-- Med  BOSE® Surround Sound System får du 14 högtalare med en maximal systemeffekt på 710 watt.
-- Med  Burmester® 3D High-End Surround Sound System får du 21 högtalare med en maximal systemeffekt på 1455 watt.
+- Med BOSE® Surround Sound System får du 14 högtalare med en maximal systemeffekt på 710 watt.
+- Med Burmester® 3D High-End Surround Sound System får du 21 högtalare med en maximal systemeffekt på 1455 watt.
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 

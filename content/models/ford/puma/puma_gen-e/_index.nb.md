@@ -30,13 +30,17 @@ Ford Puma Gen-E tilbyr beskjedne ytelser med en maksimal effekt på 123,5 kW (16
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 43,0 kWh og en netto brukbar kapasitet på 40,0 kWh, som gir en buffer på 3,0 kWh (7,0%) for batteribeskyttelse. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 43,6 kWh og en netto brukbar kapasitet på 46,0 kWh, som gir en buffer på -2,4 kWh (-5,5%) for batteribeskyttelse. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 376 km, med et energiforbruk på 10,6 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 376 og 347 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 12,2 kWh/100 km for basismodellen og 13,3 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 100 kW. En full lading fra 0 - 100 % vil ta 57 minutter, mens et mer vanlig scenario på 10-80 % vil ta 22 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 67%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 65kW. Hver ladeøkt vil ta 22 minutter og 11 sekunder.
+Maksimal DC-ladehastighet er 100 kW. En full lading fra 0 - 100 % vil ta 65 minutter, mens et mer vanlig scenario på 10-80 % vil ta 25 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 66%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 67kW. Hver ladeøkt vil ta 24 minutter og 21 sekunder.
+
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 23 kWh/100 km, ville turen ta omtrent 11 timer og 7 minutter. Denne reisen ville kreve to ladestopp fra 8% til 58%, med en total ladetid på 167 minutter.
 
 ### Ombordlader
+
+Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 4 timer og 10 minutter med en hjemmelader.
 
 ### Ladeport
 
@@ -120,6 +124,14 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
+
+### Interiørlagring
+
+Ford Puma Gen-E gir rikelige interiørlagringsløsninger for å forbedre bekvemmelighet og organisering:
+
+- **Koppholdere:** To koppholdere er plassert i den fremre midtkonsollen, med ytterligere to i bakre armlene.
+- **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjeren, ideelt for oppbevaring av nødvendige gjenstander.
+- **Undergulv Oppbevaring:** Bagasjerommet har et stort oppbevaringsrom under gulvet, ideelt for oppbevaring av større gjenstander eller for å holde bagasjerommet organisert.
 
 ## Klimasystem
 

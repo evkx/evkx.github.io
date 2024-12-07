@@ -213,8 +213,8 @@ I tillegg støtter Porsche Taycan 4S Sport Turismo Android Auto og Apple CarPlay
 Du kan velge mellom tre lydsystemer på Porsche Taycan 4S Sport Turismo.
 
 - Med Porsche Sound system får du ti høyttalere med en maksimal systemeffekt på 150 watt.
-- Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt.
-- Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1455 watt.
+- Med BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt.
+- Med Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1455 watt.
 
 ## Lys
 

@@ -188,8 +188,8 @@ Yderligere understøtter Peugot E-5008 Long Range Android Auto og Apple CarPlay.
 
 Du kan vælge mellem to lydsystemer på Peugot E-5008 Long Range.
 
-- Med  får du seks højttalere med en maksimal systemeffekt på 100 watt.
-- Med  får du ti højttalere med en maksimal systemeffekt på 690 watt.
+- Med standard får du seks højttalere med en maksimal systemeffekt på 100 watt.
+- Med standard får du ti højttalere med en maksimal systemeffekt på 690 watt.
 
 Modellen har 4 USB-C-forbindelser som standard.
 

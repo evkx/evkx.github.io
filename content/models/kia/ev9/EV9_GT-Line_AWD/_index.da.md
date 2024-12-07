@@ -183,6 +183,7 @@ Den tredje række har en to-sæders bænk med en 50:50-deling. Igen kan du folde
 
 Kia EV9 GT-Line AWD tilbyder rigelige opbevaringsløsninger i interiøret for at øge bekvemmeligheden og organiseringen:
 
+- **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i bagarmlænet og tre i tredje række.
 - **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af essentielle genstande.
 - **Underfloor Opbevaring:** Bagagerummet har underfloor opbevaring, perfekt til at holde mindre genstande som opladningskabler pænt gemt væk.
 

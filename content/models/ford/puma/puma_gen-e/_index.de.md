@@ -30,13 +30,17 @@ Der Ford Puma Gen-E bietet eine bescheidene Leistung mit einer maximalen Leistun
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 43,0 kWh und eine nutzbare Nettokapazität von 40,0 kWh, was einen Puffer von 3,0 kWh (7,0%) zum Schutz der Batterie bietet. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 43,6 kWh und eine nutzbare Nettokapazität von 46,0 kWh, was einen Puffer von -2,4 kWh (-5,5%) zum Schutz der Batterie bietet. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 376 km (234 Meilen) mit einem Energieverbrauch von 10,6 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 376 und 347 km (234-216 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 12,2 kWh/100 km für das Basismodell und 13,3 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 100 kW. Das Laden von 0% auf 100% dauert etwa 57 Minuten, während ein typischer Ladevorgang von 10% auf 80% 22 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 77 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 7% und 67%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 65 kW, wobei jede Ladesitzung etwa 22 Minuten und 11 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 100 kW. Das Laden von 0% auf 100% dauert etwa 65 Minuten, während ein typischer Ladevorgang von 10% auf 80% 25 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 77 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 7% und 66%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 67 kW, wobei jede Ladesitzung etwa 24 Minuten und 21 Sekunden dauert.
+
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 23 kWh/100 km, würde die Fahrt etwa 11 Stunden und 7 Minuten dauern. Diese Reise würde acht Ladestopps von 8% auf 58% erfordern, mit einer gesamten Ladezeit von 167 Minuten.
 
 ### Bordladegerät
+
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 4 Stunden und 10 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -120,6 +124,14 @@ Verfügbar in:
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
+
+### Innenraumaufbewahrung
+
+Der Ford Puma Gen-E bietet zahlreiche Innenraumaufbewahrungslösungen, um Komfort und Organisation zu verbessern:
+
+- **Getränkehalter:** Zwei Getränkehalter befinden sich in der vorderen Mittelkonsole, mit zusätzlichen zwei im hinteren Armlehnenbereich.
+- **Handschuhfach:** Ein geräumiges Handschuhfach befindet sich im Armaturenbrett vor dem Beifahrer, ideal zum Aufbewahren von wichtigen Gegenständen.
+- **Unterbodenlagerung:** Der Kofferraum verfügt über ein großes Unterbodenlagerfach, ideal zum Verstauen größerer Gegenstände oder zum Organisieren des Kofferraums.
 
 ## Klimaanlage
 

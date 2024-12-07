@@ -205,7 +205,7 @@ Yderligere understøtter XPENG G6 RWD Long Range Android Auto og Apple CarPlay. 
 
 Én type lydsystem er tilgængelig for XPENG G6 RWD Long Range.
 
-- Med  får du 18 højttalere med en maksimal systemeffekt på 1200 watt.
+- Med standard får du 18 højttalere med en maksimal systemeffekt på 1200 watt.
 
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

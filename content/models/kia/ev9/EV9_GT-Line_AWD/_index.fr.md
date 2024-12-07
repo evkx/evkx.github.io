@@ -183,6 +183,7 @@ La troisième rangée dispose d'une banquette deux places avec une répartition 
 
 Le Kia EV9 GT-Line AWD offre de nombreuses solutions de rangement intérieur pour améliorer la commodité et l'organisation :
 
+- **Porte-gobelets:** Deux porte-gobelets sont situés dans la console centrale avant, avec deux supplémentaires dans l'accoudoir arrière et trois dans la troisième rangée.
 - **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les articles essentiels.
 - **Rangement sous le plancher :** La zone du coffre dispose d'un rangement sous le plancher, parfait pour garder les petits objets comme les câbles de charge bien rangés.
 

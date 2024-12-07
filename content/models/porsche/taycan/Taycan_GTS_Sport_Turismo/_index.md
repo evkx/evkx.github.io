@@ -284,8 +284,8 @@ The Porsche Taycan GTS Sport Turismo supports Android Auto and Apple CarPlay, al
 
 You can choose between two sound systems for the Porsche Taycan GTS Sport Turismo:
 
-- ** BOSE® Surround Sound System:** Features 14 speakers and delivers a maximum output of 710 watts.
-- ** Burmester® 3D High-End Surround Sound System:** Features 21 speakers and delivers a maximum output of 1455 watts.
+- **BOSE® Surround Sound System:** Features 14 speakers and delivers a maximum output of 710 watts.
+- **Burmester® 3D High-End Surround Sound System:** Features 21 speakers and delivers a maximum output of 1455 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 

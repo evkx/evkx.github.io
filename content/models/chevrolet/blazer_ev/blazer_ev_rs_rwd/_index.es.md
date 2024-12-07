@@ -36,7 +36,7 @@ Según el estándar [EPA](../../../../guides/understandingrange/epa/) (Agencia d
 
 El vehículo admite carga rápida DC con una potencia máxima de 190 kW. Cargar del 0% al 100% toma aproximadamente 91 minutos, mientras que un escenario más típico del 10% al 80% toma 48 minutos con una velocidad de carga promedio de 95 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 6% al 57%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 103 kW, con cada sesión de carga tomando aproximadamente 32 minutos y 60 segundos.
 
-En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 25 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 44 minutos, requiriendo tres paradas de carga del 7% al 52%, totalizando 85 minutos de tiempo de carga.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 24,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 41 minutos, requiriendo tres paradas de carga del 7% al 50%, totalizando 81 minutos de tiempo de carga.
 
 ### Cargador a Bordo
 

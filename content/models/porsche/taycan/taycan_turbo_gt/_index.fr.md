@@ -189,8 +189,8 @@ Le Porsche Taycan Turbo GT prend en charge Android Auto et Apple CarPlay, vous p
 Vous pouvez choisir entre trois systèmes audio pour le Porsche Taycan Turbo GT :
 
 - **Porsche Sound system :** Dispose de dix haut-parleurs et délivre une puissance maximale de 150 watts.
-- ** BOSE® Surround Sound System :** Dispose de 14 haut-parleurs et délivre une puissance maximale de 710 watts.
-- ** Burmester® 3D High-End Surround Sound System :** Dispose de 21 haut-parleurs et délivre une puissance maximale de 1455 watts.
+- **BOSE® Surround Sound System :** Dispose de 14 haut-parleurs et délivre une puissance maximale de 710 watts.
+- **Burmester® 3D High-End Surround Sound System :** Dispose de 21 haut-parleurs et délivre une puissance maximale de 1455 watts.
 
 ## Éclairage
 

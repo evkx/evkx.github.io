@@ -184,8 +184,8 @@ Le Opel Grandland prend en charge Android Auto et Apple CarPlay, vous permettant
 
 Vous pouvez choisir entre deux systèmes audio pour le Opel Grandland :
 
-- ** :** Dispose de six haut-parleurs et délivre une puissance maximale de 100 watts.
-- ** :** Dispose de dix haut-parleurs et délivre une puissance maximale de 690 watts.
+- **standard :** Dispose de six haut-parleurs et délivre une puissance maximale de 100 watts.
+- **standard :** Dispose de dix haut-parleurs et délivre une puissance maximale de 690 watts.
 
 De plus, le modèle comprend 4 connexions USB-C de série.
 

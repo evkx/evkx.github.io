@@ -30,17 +30,17 @@ Chevrolet Blazer EV RS AWD leverer solid ytelse med en maksimal effekt på 214 k
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 93,0 kWh og en netto brukbar kapasitet på 89,0 kWh, som gir en buffer på 4,0 kWh (4,3%) for batteribeskyttelse. Med en nominell spenning på 296 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 93,0 kWh og en netto brukbar kapasitet på 91,0 kWh, som gir en buffer på 2,0 kWh (2,2%) for batteribeskyttelse. Med en nominell spenning på 296 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
-I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 449 km med en energiforbrukshastighet på 19,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 449 km med en energiforbrukshastighet på 20,3 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 76 minutter, mens et mer vanlig scenario på 10-80 % vil ta 39 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 58%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 100kW. Hver ladeøkt vil ta 28 minutter og 52 sekunder.
+Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 77 minutter, mens et mer vanlig scenario på 10-80 % vil ta 40 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 58%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 100kW. Hver ladeøkt vil ta 28 minutter og 23 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 9 timer og 59 minutter. Denne reisen ville kreve to ladestopp fra 6% til 52%, med en total ladetid på 99 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 9 timer og 56 minutter. Denne reisen ville kreve to ladestopp fra 7% til 51%, med en total ladetid på 97 minutter.
 
 ### Ombordlader
 
-Den standard ombordladeren støtter opptil 11,5 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 44 minutter med en hjemmelader.
+Den standard ombordladeren støtter opptil 11,5 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 54 minutter med en hjemmelader.
 
 ### Ladeport
 

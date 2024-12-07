@@ -36,7 +36,7 @@ According to the [EPA](../../../../guides/understandingrange/epa/) (Environmenta
 
 The vehicle supports fast DC charging with a maximum power of 190 kW. Charging from 0% to 100% takes approximately 91 minutes, while a more typical scenario from 10% to 80% takes 48 minutes with an average charging speed of 95 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 57%. This results in an effective charging speed, including time lost, of 103 kW, with each charging session taking about 32 minutes and 60 seconds.
 
-In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 25 kWh/100 km, the trip would take about 9 hours and 44 minutes, requiring three charging stops from 7% to 52%, totaling 85 minutes of charging time.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 24.5 kWh/100 km, the trip would take about 9 hours and 41 minutes, requiring three charging stops from 7% to 50%, totaling 81 minutes of charging time.
 
 ### Onboard Charger
 

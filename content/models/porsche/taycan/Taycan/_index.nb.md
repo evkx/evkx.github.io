@@ -336,8 +336,8 @@ I tillegg støtter Porsche Taycan Android Auto og Apple CarPlay. Denne funksjona
 Du kan velge mellom tre lydsystemer på Porsche Taycan.
 
 - Med Porsche Sound system får du ti høyttalere med en maksimal systemeffekt på 150 watt.
-- Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt.
-- Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1455 watt.
+- Med BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt.
+- Med Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1455 watt.
 
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 

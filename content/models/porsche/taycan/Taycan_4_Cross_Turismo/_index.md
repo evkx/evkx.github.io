@@ -210,8 +210,8 @@ The Porsche Taycan 4 Cross Turismo supports Android Auto and Apple CarPlay, allo
 You can choose between three sound systems for the Porsche Taycan 4 Cross Turismo:
 
 - **Porsche Sound system:** Features ten speakers and delivers a maximum output of 150 watts.
-- ** BOSE® Surround Sound System:** Features 14 speakers and delivers a maximum output of 710 watts.
-- ** Burmester® 3D High-End Surround Sound System:** Features 21 speakers and delivers a maximum output of 1455 watts.
+- **BOSE® Surround Sound System:** Features 14 speakers and delivers a maximum output of 710 watts.
+- **Burmester® 3D High-End Surround Sound System:** Features 21 speakers and delivers a maximum output of 1455 watts.
 
 ## Lights
 

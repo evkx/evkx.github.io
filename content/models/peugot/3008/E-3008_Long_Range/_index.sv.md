@@ -176,8 +176,8 @@ Dessutom stöder Peugot E-3008 Long Range Android Auto och Apple CarPlay. Denna 
 
 Du kan välja mellan två ljudsystem på Peugot E-3008 Long Range.
 
-- Med  får du sex högtalare med en maximal systemeffekt på 100 watt.
-- Med  får du tio högtalare med en maximal systemeffekt på 690 watt.
+- Med standard får du sex högtalare med en maximal systemeffekt på 100 watt.
+- Med standard får du tio högtalare med en maximal systemeffekt på 690 watt.
 
 Modellen har 4 USB-C-anslutningar som standard.
 

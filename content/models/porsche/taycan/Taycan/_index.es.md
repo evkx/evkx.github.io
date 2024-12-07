@@ -336,8 +336,8 @@ El Porsche Taycan es compatible con Android Auto y Apple CarPlay, lo que le perm
 Puede elegir entre tres sistemas de sonido para el Porsche Taycan:
 
 - **Porsche Sound system:** Cuenta con diez altavoces y ofrece una potencia máxima de 150 vatios.
-- ** BOSE® Surround Sound System:** Cuenta con 14 altavoces y ofrece una potencia máxima de 710 vatios.
-- ** Burmester® 3D High-End Surround Sound System:** Cuenta con 21 altavoces y ofrece una potencia máxima de 1455 vatios.
+- **BOSE® Surround Sound System:** Cuenta con 14 altavoces y ofrece una potencia máxima de 710 vatios.
+- **Burmester® 3D High-End Surround Sound System:** Cuenta con 21 altavoces y ofrece una potencia máxima de 1455 vatios.
 
 Además, el modelo incluye 2 conexiones USB-C como estándar. Como opción, puede obtener 2 conexiones USB-C adicionales.
 

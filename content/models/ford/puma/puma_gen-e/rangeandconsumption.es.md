@@ -43,7 +43,7 @@ A continuación se muestran las autonomías oficialmente calificadas. Las prueba
 				376 km / 234 mi
 			</td>
 			<td>
-				10,64kWh/100km / 5,8 mi/kWh
+				12,23kWh/100km / 5,1 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ A continuación se muestran las autonomías oficialmente calificadas. Las prueba
 				</a>
 			</td>
 			<td>
-				376 km / 234 mi
+				347 km / 216 mi
 			</td>
 			<td>
-				10,64 kWh/100km / 5,8 mi/kWh
+				13,26 kWh/100km / 4,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ La tabla a continuación muestra cómo afecta la autonomía oficial encender la 
 				Autonomía WLTP mínimo equipamiento con 2KW AC
 			</td>
 			<td>
-				 268km / 167 mi 
+				 278km / 173 mi 
 			</td>
 			<td>
-				-28,7%
+				-26,1%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ La tabla a continuación muestra cómo afecta la autonomía oficial encender la 
 				Autonomía WLTP máximo equipamiento con 2KW AC
 			</td>
 			<td>
-				268 km / 167 mi
+				262 km / 163 mi
 			</td>
 			<td>
-				-28,7%
+				-24,5%
 			</td>
 		</tr>
 	</tbody>
@@ -127,6 +127,72 @@ La tabla a continuación muestra algunos ejemplos estimados del mundo real en co
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				90 km/h (56 mph) en condiciones perfectas
+			</td>
+			<td>
+				288km / 179 mi
+			</td>
+			<td>
+				16 kWh/100km / 3,9 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90 km/h (56 mph) con calefacción de 2KW
+			</td>
+			<td>
+				261km /157mi
+			</td>
+			<td>
+				18,2 kWh/100km /3,4 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph (112 km/h) en condiciones perfectas
+			</td>
+			<td>
+				219 km / 136 mi
+			</td>
+			<td>
+				21 kWh/100km / 3,0 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph (112 km/h) con calefacción de 2KW
+			</td>
+			<td>
+				202km / 126mi
+			</td>
+			<td>
+				22,8 kWh/100km / 2,7 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120 km/h (75 mph) en condiciones perfectas
+			</td>
+			<td>
+				200 km / 124 mi
+			</td>
+			<td>
+				23 kWh/100km / 2,7 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120 km/h (75 mph) con calefacción de 2KW
+			</td>
+			<td>
+				186 km /116mi
+			</td>
+			<td>
+				24,7 kWh/100km /2,5 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>

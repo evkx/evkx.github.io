@@ -176,7 +176,7 @@ I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du tre
 
 Én type lydsystem er tilgjengelig for XPENG G9 RWD Long Range.
 
-- Med  får du 24 høyttalere med en maksimal systemeffekt på 1940 watt.
+- Med standard får du 24 høyttalere med en maksimal systemeffekt på 1940 watt.
 
 ## Lys
 

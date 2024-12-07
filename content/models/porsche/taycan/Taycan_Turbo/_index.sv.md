@@ -205,8 +205,8 @@ Dessutom stöder Porsche Taycan Turbo Android Auto och Apple CarPlay. Denna funk
 Du kan välja mellan tre ljudsystem på Porsche Taycan Turbo.
 
 - Med Porsche Sound system får du tio högtalare med en maximal systemeffekt på 150 watt.
-- Med  BOSE® Surround Sound System får du 14 högtalare med en maximal systemeffekt på 710 watt.
-- Med  Burmester® 3D High-End Surround Sound System får du 21 högtalare med en maximal systemeffekt på 1455 watt.
+- Med BOSE® Surround Sound System får du 14 högtalare med en maximal systemeffekt på 710 watt.
+- Med Burmester® 3D High-End Surround Sound System får du 21 högtalare med en maximal systemeffekt på 1455 watt.
 
 ## Ljus
 

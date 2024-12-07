@@ -205,7 +205,7 @@ Le XPENG G6 AWD Performance prend en charge Android Auto et Apple CarPlay, vous 
 
 Le XPENG G6 AWD Performance est équipé d'une seule option de système audio :
 
-- ** :** Dispose de 18 haut-parleurs et délivre une puissance maximale de 1200 watts.
+- **standard :** Dispose de 18 haut-parleurs et délivre une puissance maximale de 1200 watts.
 
 De plus, le modèle comprend 3 connexions USB-C de série. Le modèle dispose de 1 connexions USB-A de série.
 

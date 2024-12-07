@@ -30,13 +30,17 @@ Ford Puma Gen-E tilbyder beskedne præstationer med en maksimal effekt på 123,5
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 43,0 kWh og en nettoanvendelig kapacitet på 40,0 kWh, hvilket giver en buffer på 3,0 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 43,6 kWh og en nettoanvendelig kapacitet på 46,0 kWh, hvilket giver en buffer på -2,4 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 376 km, med et energiforbrugsrate på 10,6 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 376 og 347 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 12,2 kWh/100 km for basismodellen og 13,3 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 57 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 22 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 67%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 65kW. Hver opladningssession ville tage 22 minutter og 11 sekunder.
+Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 65 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 25 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 66%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 67kW. Hver opladningssession ville tage 24 minutter og 21 sekunder.
+
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 23 kWh/100 km, ville turen tage cirka 11 timer og 7 minutter. Denne rejse ville kræve to opladningsstop fra 8% til 58%, med en samlet opladningstid på 167 minutter
 
 ### Ombordlader
+
+Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 4 timer og 10 minutter ved brug af en hjemmeoplader.
 
 ### Ladeport
 
@@ -120,6 +124,14 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
+
+### Interiøropbevaring
+
+Ford Puma Gen-E tilbyder rigelige opbevaringsløsninger i interiøret for at øge bekvemmeligheden og organiseringen:
+
+- **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i den bagerste armlæn.
+- **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af essentielle genstande.
+- **Underfloor Opbevaring:** Bagagerummet har et stort opbevaringsrum under gulvet, ideelt til opbevaring af større genstande eller til at holde bagagerummet organiseret.
 
 ## Klimasystem
 

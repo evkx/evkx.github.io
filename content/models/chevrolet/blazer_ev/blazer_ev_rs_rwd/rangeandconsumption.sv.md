@@ -132,10 +132,10 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				90 km/h/56 mph under perfekta förhållanden
 			</td>
 			<td>
-				538km / 334 mi
+				566km / 352 mi
 			</td>
 			<td>
-				20 kWh/100km / 3,1 mi/kWh
+				19 kWh/100km / 3,3 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -143,10 +143,10 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				90 kmh/56 mph med 2KW uppvärmning
 			</td>
 			<td>
-				497km /301mi
+				520km /315mi
 			</td>
 			<td>
-				22,2 kWh/100km /2,8 mi/kWh 
+				21,2 kWh/100km /2,9 mi/kWh 
 			</td>
 		</tr>
 		<tr>
@@ -154,10 +154,10 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				70 mph/112 km/h under perfekta förhållanden
 			</td>
 			<td>
-				512 km / 318 mi
+				478 km / 297 mi
 			</td>
 			<td>
-				21 kWh/100km / 3,0 mi/kWh
+				22,5 kWh/100km / 2,8 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -165,10 +165,10 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				70 mph/112 km/h med 2KW uppvärmning
 			</td>
 			<td>
-				472km / 293mi
+				443km / 275mi
 			</td>
 			<td>
-				22,8 kWh/100km / 2,7 mi/kWh  
+				24,3 kWh/100km / 2,6 mi/kWh  
 			</td>
 		</tr>
 		<tr>
@@ -176,10 +176,10 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				120 kmh/75 mph under perfekta förhållanden
 			</td>
 			<td>
-				430 km / 267 mi
+				439 km / 273 mi
 			</td>
 			<td>
-				25 kWh/100km / 2,5 mi/kWh
+				24,5 kWh/100km / 2,5 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -187,10 +187,10 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				120 kmh /75mph med 2KW uppvärmning
 			</td>
 			<td>
-				403 km /250mi
+				411 km /255mi
 			</td>
 			<td>
-				26,7 kWh/100km /2,3 mi/kWh
+				26,2 kWh/100km /2,4 mi/kWh
 			</td>
 		</tr>
 	</tbody>

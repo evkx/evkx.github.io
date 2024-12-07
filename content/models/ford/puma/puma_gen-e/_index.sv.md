@@ -30,13 +30,17 @@ Ford Puma Gen-E erbjuder blygsamma prestanda med en maximal effekt på 123,5 kW 
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 43,0 kWh och en nettoanvändbar kapacitet på 40,0 kWh, vilket ger en buffert på 3,0 kWh (7,0%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 43,6 kWh och en nettoanvändbar kapacitet på 46,0 kWh, vilket ger en buffert på −2,4 kWh (−5,5%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 376 km (199 miles), med en energiförbrukningshastighet på 10,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 376 och 347 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 12,2 kWh/100 km för basmodellen och 13,3 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 57 minuter, medan ett vanligare scenario på 10-80 % tar 22 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 67%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 65kW. Varje laddningssession tar 22 minuter och 11 sekunder.
+Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 65 minuter, medan ett vanligare scenario på 10-80 % tar 25 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 66%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 67kW. Varje laddningssession tar 24 minuter och 21 sekunder.
+
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 11 timmar och 7 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 58%, med en total laddningstid på 167 minuter.
 
 ### Ombordladdare
+
+Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 4 timmar och 10 minuter med en hemmaladdare.
 
 ### Laddningsport
 
@@ -120,6 +124,14 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
+
+### Interiör Förvaring
+
+Ford Puma Gen-E erbjuder gott om interiörförvaringslösningar för att förbättra bekvämligheten och organisationen:
+
+- **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet.
+- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
+- **Underfloor Förvaring:** Bagageutrymmet har ett stort förvaringsutrymme under golvet, perfekt för att förvara större föremål eller hålla bagageutrymmet organiserat.
 
 ## Klimatsystem
 

@@ -205,7 +205,7 @@ The XPENG G6 AWD Performance supports Android Auto and Apple CarPlay, allowing y
 
 The XPENG G6 AWD Performance comes equipped with one sound system option:
 
-- **:** Features 18 speakers and delivers a maximum output of 1200 watts.
+- **standard:** Features 18 speakers and delivers a maximum output of 1200 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

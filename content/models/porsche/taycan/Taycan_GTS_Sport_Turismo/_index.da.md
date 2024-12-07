@@ -277,8 +277,8 @@ Yderligere understøtter Porsche Taycan GTS Sport Turismo Android Auto og Apple 
 
 Du kan vælge mellem to lydsystemer på Porsche Taycan GTS Sport Turismo.
 
-- Med  BOSE® Surround Sound System får du 14 højttalere med en maksimal systemeffekt på 710 watt.
-- Med  Burmester® 3D High-End Surround Sound System får du 21 højttalere med en maksimal systemeffekt på 1455 watt.
+- Med BOSE® Surround Sound System får du 14 højttalere med en maksimal systemeffekt på 710 watt.
+- Med Burmester® 3D High-End Surround Sound System får du 21 højttalere med en maksimal systemeffekt på 1455 watt.
 
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 

@@ -126,7 +126,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nettokapazität der Batterie
 			</td>
 			<td>
-				89 kWh
+				91 kWh
 			</td>
 		</tr>
 		<tr>

@@ -158,6 +158,7 @@ Den tredje raden har en to-seters benk med en 50:50-deling. Igjen kan du legge n
 
 Kia EV9 GT gir rikelige interiørlagringsløsninger for å forbedre bekvemmelighet og organisering:
 
+- **Koppholdere:** To koppholdere er plassert i den fremre midtkonsollen, med ytterligere to i bakre armlene og tre i tredje rad.
 - **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjeren, ideelt for oppbevaring av nødvendige gjenstander.
 - **Underfloor Lagring:** Bagasjerommet har underfloor lagring, perfekt for å holde mindre gjenstander som ladekabler pent bortgjemt.
 

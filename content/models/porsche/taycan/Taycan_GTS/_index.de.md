@@ -281,8 +281,8 @@ Der Porsche Taycan GTS unterstützt Android Auto und Apple CarPlay, sodass Sie d
 
 Sie können zwischen zwei Soundsystemen für den Porsche Taycan GTS wählen:
 
-- ** BOSE® Surround Sound System:** Verfügt über 14 Lautsprecher und liefert eine maximale Ausgangsleistung von 710 Watt.
-- ** Burmester® 3D High-End Surround Sound System:** Verfügt über 21 Lautsprecher und liefert eine maximale Ausgangsleistung von 1455 Watt.
+- **BOSE® Surround Sound System:** Verfügt über 14 Lautsprecher und liefert eine maximale Ausgangsleistung von 710 Watt.
+- **Burmester® 3D High-End Surround Sound System:** Verfügt über 21 Lautsprecher und liefert eine maximale Ausgangsleistung von 1455 Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Optional können Sie zusätzliche 2 USB-C-Anschlüsse erhalten.
 

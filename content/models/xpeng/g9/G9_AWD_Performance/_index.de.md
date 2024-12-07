@@ -176,7 +176,7 @@ Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, di
 
 Der XPENG G9 AWD Performance ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über 24 Lautsprecher und liefert eine maximale Ausgangsleistung von 1940 Watt.
+- **standard:** Verfügt über 24 Lautsprecher und liefert eine maximale Ausgangsleistung von 1940 Watt.
 
 ## Lichter
 

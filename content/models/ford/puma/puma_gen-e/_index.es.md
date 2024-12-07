@@ -30,13 +30,17 @@ El Ford Puma Gen-E ofrece un rendimiento modesto con una potencia máxima de 123
 
 ## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 43,0 kWh y una capacidad neta utilizable de 40,0 kWh, proporcionando un buffer de 3,0 kWh (7,0%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+La batería de alta capacidad tiene una capacidad bruta de 43,6 kWh y una capacidad neta utilizable de 46,0 kWh, proporcionando un buffer de -2,4 kWh (-5,5%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo es de 376 km (234 millas), con una tasa de consumo de energía de 10,6 kWh/100 km (3 mi/kWh). Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo varía entre 376 a 347 km (234-216 millas), dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes pueden aumentar el consumo de energía y, posteriormente, reducir la autonomía general. El consumo de energía del vehículo se califica en 12,2 kWh/100 km para el modelo base y 13,3 kWh/100 km para el modelo de gama alta según el ciclo de prueba WLTP. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-El vehículo admite carga rápida DC con una potencia máxima de 100 kW. Cargar del 0% al 100% toma aproximadamente 57 minutos, mientras que un escenario más típico del 10% al 80% toma 22 minutos con una velocidad de carga promedio de 77 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 7% al 67%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 65 kW, con cada sesión de carga tomando aproximadamente 22 minutos y 11 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 100 kW. Cargar del 0% al 100% toma aproximadamente 65 minutos, mientras que un escenario más típico del 10% al 80% toma 25 minutos con una velocidad de carga promedio de 77 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 7% al 66%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 67 kW, con cada sesión de carga tomando aproximadamente 24 minutos y 21 segundos.
+
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 23 kWh/100 km, el viaje tomaría aproximadamente 11 horas y 7 minutos, requiriendo ocho paradas de carga del 8% al 58%, totalizando 167 minutos de tiempo de carga.
 
 ### Cargador a Bordo
+
+El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 4 horas y 10 minutos usando una configuración doméstica.
 
 ### Puerto de Carga
 
@@ -120,6 +124,14 @@ Disponible en:
 La segunda fila cuenta con un banco estándar de tres asientos con una división , que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)
+
+### Almacenamiento Interior
+
+El Ford Puma Gen-E proporciona amplias soluciones de almacenamiento interior para mejorar la conveniencia y organización:
+
+- **Portavasos:** Hay dos portavasos ubicados en la consola central delantera, y dos adicionales en el reposabrazos trasero.
+- **Guantera:** Hay una espaciosa guantera situada en el tablero frente al asiento del pasajero, ideal para almacenar artículos esenciales.
+- **Almacenamiento Bajo el Piso:** El área del maletero cuenta con un gran compartimento de almacenamiento bajo el piso, ideal para guardar artículos más grandes o mantener el maletero organizado.
 
 ## Sistema de Climatización
 

@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Velocidad de carga óptima incluyendo 5 minutos de pérdida
 			</td>
 			<td>
-				99,6kW
+				100,0kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Tiempo óptimo de parada de carga
 			</td>
 			<td>
-				28m52s
+				28m23s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 0 - 100%
 			</td>
 			<td>
-				1 h 15 m 42 s
+				1 h 17 m 24 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-100%
 			</td>
 			<td>
-				1 h 9 m 24 s
+				1 h 10 m 57 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-80%
 			</td>
 			<td>
-				 39 m 20 s
+				 40 m 13 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,13 +169,13 @@ navicon: bi-battery-charging
 				Autonomía por minuto 0-100%
 			</td>
 			<td>
-				5,9 km (3,7 mi)
+				5,8 km (3,6 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,6 km (3,5 mi)
+				5,1 km (3,2 mi)
 			</td>
 			<td>
 				4,7 km (2,9 mi)
@@ -186,13 +186,13 @@ navicon: bi-battery-charging
 				Autonomía por minuto 10-100%
 			</td>
 			<td>
-				5,8 km (3,6 mi)
+				5,7 km (3,5 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				5,5 km (3,4 mi)
+				5,0 km (3,1 mi)
 			</td>
 			<td>
 				4,6 km (2,9 mi)
@@ -203,13 +203,13 @@ navicon: bi-battery-charging
 				Autonomía por minuto 10-80%
 			</td>
 			<td>
-				8,0 km (5,0 mi)
+				7,8 km (4,8 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				7,5 km (4,7 mi)
+				6,9 km (4,3 mi)
 			</td>
 			<td>
 				6,3 km (3,9 mi)
@@ -268,7 +268,7 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				60 kW
 			</td>
 			<td>
-				 1 m 2 s
+				 1 m 4 s
 			</td>
 			<td>
 				0,9 kWh
@@ -282,7 +282,7 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				70 kW
 			</td>
 			<td>
-				 1 m 55 s
+				 1 m 58 s
 			</td>
 			<td>
 				1,8 kWh
@@ -296,7 +296,7 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				80 kW
 			</td>
 			<td>
-				 2 m 41 s
+				 2 m 45 s
 			</td>
 			<td>
 				2,7 kWh
@@ -310,7 +310,7 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				90 kW
 			</td>
 			<td>
-				 3 m 22 s
+				 3 m 26 s
 			</td>
 			<td>
 				3,6 kWh
@@ -324,10 +324,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				100 kW
 			</td>
 			<td>
-				 3 m 58 s
+				 4 m 3 s
 			</td>
 			<td>
-				4,4 kWh
+				4,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -338,10 +338,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				110 kW
 			</td>
 			<td>
-				 4 m 31 s
+				 4 m 37 s
 			</td>
 			<td>
-				5,3 kWh
+				5,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -352,10 +352,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				120 kW
 			</td>
 			<td>
-				 5 m 1 s
+				 5 m 7 s
 			</td>
 			<td>
-				6,2 kWh
+				6,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,10 +366,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				130 kW
 			</td>
 			<td>
-				 5 m 28 s
+				 5 m 36 s
 			</td>
 			<td>
-				7,1 kWh
+				7,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -380,10 +380,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				140 kW
 			</td>
 			<td>
-				 5 m 54 s
+				 6 m 2 s
 			</td>
 			<td>
-				8,0 kWh
+				8,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -394,10 +394,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				150 kW
 			</td>
 			<td>
-				 6 m 17 s
+				 6 m 26 s
 			</td>
 			<td>
-				8,9 kWh
+				9,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -408,10 +408,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				150 kW
 			</td>
 			<td>
-				 6 m 40 s
+				 6 m 49 s
 			</td>
 			<td>
-				9,8 kWh
+				10,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -422,10 +422,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				151 kW
 			</td>
 			<td>
-				 7 m 3 s
+				 7 m 13 s
 			</td>
 			<td>
-				10,7 kWh
+				10,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -436,10 +436,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				151 kW
 			</td>
 			<td>
-				 7 m 26 s
+				 7 m 36 s
 			</td>
 			<td>
-				11,6 kWh
+				11,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -450,10 +450,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				152 kW
 			</td>
 			<td>
-				 7 m 49 s
+				 7 m 59 s
 			</td>
 			<td>
-				12,5 kWh
+				12,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -464,10 +464,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				152 kW
 			</td>
 			<td>
-				 8 m 12 s
+				 8 m 23 s
 			</td>
 			<td>
-				13,4 kWh
+				13,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -478,10 +478,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				153 kW
 			</td>
 			<td>
-				 8 m 34 s
+				 8 m 46 s
 			</td>
 			<td>
-				14,2 kWh
+				14,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -492,10 +492,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				153 kW
 			</td>
 			<td>
-				 8 m 57 s
+				 9 m 9 s
 			</td>
 			<td>
-				15,1 kWh
+				15,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -506,10 +506,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				152 kW
 			</td>
 			<td>
-				 9 m 19 s
+				 9 m 32 s
 			</td>
 			<td>
-				16,0 kWh
+				16,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -520,10 +520,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				151 kW
 			</td>
 			<td>
-				 9 m 42 s
+				 9 m 55 s
 			</td>
 			<td>
-				16,9 kWh
+				17,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -534,10 +534,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				150 kW
 			</td>
 			<td>
-				 10 m 5 s
+				 10 m 18 s
 			</td>
 			<td>
-				17,8 kWh
+				18,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -548,10 +548,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				149 kW
 			</td>
 			<td>
-				 10 m 28 s
+				 10 m 42 s
 			</td>
 			<td>
-				18,7 kWh
+				19,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -562,10 +562,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				148 kW
 			</td>
 			<td>
-				 10 m 51 s
+				 11 m 6 s
 			</td>
 			<td>
-				19,6 kWh
+				20,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -576,10 +576,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				148 kW
 			</td>
 			<td>
-				 11 m 14 s
+				 11 m 29 s
 			</td>
 			<td>
-				20,5 kWh
+				20,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -590,10 +590,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				147 kW
 			</td>
 			<td>
-				 11 m 38 s
+				 11 m 53 s
 			</td>
 			<td>
-				21,4 kWh
+				21,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -604,10 +604,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				146 kW
 			</td>
 			<td>
-				 12 m 1 s
+				 12 m 17 s
 			</td>
 			<td>
-				22,2 kWh
+				22,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -618,10 +618,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				145 kW
 			</td>
 			<td>
-				 12 m 25 s
+				 12 m 42 s
 			</td>
 			<td>
-				23,1 kWh
+				23,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -632,10 +632,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				144 kW
 			</td>
 			<td>
-				 12 m 49 s
+				 13 m 6 s
 			</td>
 			<td>
-				24,0 kWh
+				24,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -646,10 +646,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				143 kW
 			</td>
 			<td>
-				 13 m 13 s
+				 13 m 31 s
 			</td>
 			<td>
-				24,9 kWh
+				25,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -660,10 +660,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				141 kW
 			</td>
 			<td>
-				 13 m 37 s
+				 13 m 55 s
 			</td>
 			<td>
-				25,8 kWh
+				26,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -674,10 +674,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				139 kW
 			</td>
 			<td>
-				 14 m 2 s
+				 14 m 21 s
 			</td>
 			<td>
-				26,7 kWh
+				27,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -688,10 +688,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				137 kW
 			</td>
 			<td>
-				 14 m 27 s
+				 14 m 46 s
 			</td>
 			<td>
-				27,6 kWh
+				28,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -702,10 +702,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				135 kW
 			</td>
 			<td>
-				 14 m 52 s
+				 15 m 12 s
 			</td>
 			<td>
-				28,5 kWh
+				29,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -716,10 +716,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				133 kW
 			</td>
 			<td>
-				 15 m 18 s
+				 15 m 38 s
 			</td>
 			<td>
-				29,4 kWh
+				30,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -730,10 +730,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				131 kW
 			</td>
 			<td>
-				 15 m 44 s
+				 16 m 5 s
 			</td>
 			<td>
-				30,3 kWh
+				30,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -744,10 +744,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				129 kW
 			</td>
 			<td>
-				 16 m 10 s
+				 16 m 32 s
 			</td>
 			<td>
-				31,2 kWh
+				31,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -758,10 +758,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				127 kW
 			</td>
 			<td>
-				 16 m 37 s
+				 17 m 0 s
 			</td>
 			<td>
-				32,0 kWh
+				32,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -772,10 +772,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				125 kW
 			</td>
 			<td>
-				 17 m 5 s
+				 17 m 28 s
 			</td>
 			<td>
-				32,9 kWh
+				33,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -786,10 +786,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				123 kW
 			</td>
 			<td>
-				 17 m 32 s
+				 17 m 56 s
 			</td>
 			<td>
-				33,8 kWh
+				34,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -800,10 +800,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				122 kW
 			</td>
 			<td>
-				 18 m 0 s
+				 18 m 25 s
 			</td>
 			<td>
-				34,7 kWh
+				35,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -814,10 +814,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				121 kW
 			</td>
 			<td>
-				 18 m 29 s
+				 18 m 54 s
 			</td>
 			<td>
-				35,6 kWh
+				36,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -828,10 +828,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				121 kW
 			</td>
 			<td>
-				 18 m 57 s
+				 19 m 23 s
 			</td>
 			<td>
-				36,5 kWh
+				37,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -842,10 +842,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				120 kW
 			</td>
 			<td>
-				 19 m 26 s
+				 19 m 52 s
 			</td>
 			<td>
-				37,4 kWh
+				38,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -856,10 +856,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				120 kW
 			</td>
 			<td>
-				 19 m 55 s
+				 20 m 22 s
 			</td>
 			<td>
-				38,3 kWh
+				39,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -870,10 +870,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				119 kW
 			</td>
 			<td>
-				 20 m 24 s
+				 20 m 51 s
 			</td>
 			<td>
-				39,2 kWh
+				40,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -884,10 +884,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				119 kW
 			</td>
 			<td>
-				 20 m 53 s
+				 21 m 21 s
 			</td>
 			<td>
-				40,0 kWh
+				41,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -898,10 +898,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				118 kW
 			</td>
 			<td>
-				 21 m 22 s
+				 21 m 51 s
 			</td>
 			<td>
-				40,9 kWh
+				41,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -912,10 +912,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				118 kW
 			</td>
 			<td>
-				 21 m 51 s
+				 22 m 21 s
 			</td>
 			<td>
-				41,8 kWh
+				42,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -926,10 +926,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				117 kW
 			</td>
 			<td>
-				 22 m 20 s
+				 22 m 51 s
 			</td>
 			<td>
-				42,7 kWh
+				43,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -940,10 +940,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				117 kW
 			</td>
 			<td>
-				 22 m 50 s
+				 23 m 21 s
 			</td>
 			<td>
-				43,6 kWh
+				44,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -954,10 +954,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				116 kW
 			</td>
 			<td>
-				 23 m 20 s
+				 23 m 51 s
 			</td>
 			<td>
-				44,5 kWh
+				45,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -968,10 +968,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				116 kW
 			</td>
 			<td>
-				 23 m 49 s
+				 24 m 21 s
 			</td>
 			<td>
-				45,4 kWh
+				46,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -982,10 +982,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				115 kW
 			</td>
 			<td>
-				 24 m 19 s
+				 24 m 52 s
 			</td>
 			<td>
-				46,3 kWh
+				47,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -996,10 +996,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				114 kW
 			</td>
 			<td>
-				 24 m 49 s
+				 25 m 23 s
 			</td>
 			<td>
-				47,2 kWh
+				48,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1010,10 +1010,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				113 kW
 			</td>
 			<td>
-				 25 m 19 s
+				 25 m 54 s
 			</td>
 			<td>
-				48,1 kWh
+				49,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1024,10 +1024,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				113 kW
 			</td>
 			<td>
-				 25 m 50 s
+				 26 m 25 s
 			</td>
 			<td>
-				49,0 kWh
+				50,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1038,10 +1038,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				112 kW
 			</td>
 			<td>
-				 26 m 21 s
+				 26 m 56 s
 			</td>
 			<td>
-				49,8 kWh
+				51,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1052,10 +1052,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				111 kW
 			</td>
 			<td>
-				 26 m 52 s
+				 27 m 28 s
 			</td>
 			<td>
-				50,7 kWh
+				51,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1066,10 +1066,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				110 kW
 			</td>
 			<td>
-				 27 m 23 s
+				 28 m 0 s
 			</td>
 			<td>
-				51,6 kWh
+				52,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1080,10 +1080,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				95 kW
 			</td>
 			<td>
-				 27 m 56 s
+				 28 m 34 s
 			</td>
 			<td>
-				52,5 kWh
+				53,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1094,10 +1094,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				79 kW
 			</td>
 			<td>
-				 28 m 36 s
+				 29 m 15 s
 			</td>
 			<td>
-				53,4 kWh
+				54,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1108,10 +1108,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				64 kW
 			</td>
 			<td>
-				 29 m 24 s
+				 30 m 4 s
 			</td>
 			<td>
-				54,3 kWh
+				55,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1122,10 +1122,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				58 kW
 			</td>
 			<td>
-				 30 m 21 s
+				 31 m 2 s
 			</td>
 			<td>
-				55,2 kWh
+				56,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1136,10 +1136,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				57 kW
 			</td>
 			<td>
-				 31 m 20 s
+				 32 m 3 s
 			</td>
 			<td>
-				56,1 kWh
+				57,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1150,10 +1150,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				56 kW
 			</td>
 			<td>
-				 32 m 21 s
+				 33 m 5 s
 			</td>
 			<td>
-				57,0 kWh
+				58,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1164,10 +1164,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				55 kW
 			</td>
 			<td>
-				 33 m 24 s
+				 34 m 9 s
 			</td>
 			<td>
-				57,8 kWh
+				59,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1178,10 +1178,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				54 kW
 			</td>
 			<td>
-				 34 m 27 s
+				 35 m 13 s
 			</td>
 			<td>
-				58,7 kWh
+				60,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1192,10 +1192,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				59 kW
 			</td>
 			<td>
-				 35 m 28 s
+				 36 m 15 s
 			</td>
 			<td>
-				59,6 kWh
+				61,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1206,10 +1206,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				65 kW
 			</td>
 			<td>
-				 36 m 23 s
+				 37 m 12 s
 			</td>
 			<td>
-				60,5 kWh
+				61,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1220,10 +1220,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				70 kW
 			</td>
 			<td>
-				 37 m 15 s
+				 38 m 5 s
 			</td>
 			<td>
-				61,4 kWh
+				62,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1234,10 +1234,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				75 kW
 			</td>
 			<td>
-				 38 m 2 s
+				 38 m 54 s
 			</td>
 			<td>
-				62,3 kWh
+				63,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1248,10 +1248,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				76 kW
 			</td>
 			<td>
-				 38 m 48 s
+				 39 m 40 s
 			</td>
 			<td>
-				63,2 kWh
+				64,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1262,10 +1262,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				78 kW
 			</td>
 			<td>
-				 39 m 33 s
+				 40 m 26 s
 			</td>
 			<td>
-				64,1 kWh
+				65,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1276,10 +1276,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				79 kW
 			</td>
 			<td>
-				 40 m 17 s
+				 41 m 11 s
 			</td>
 			<td>
-				65,0 kWh
+				66,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1290,10 +1290,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				80 kW
 			</td>
 			<td>
-				 41 m 0 s
+				 41 m 55 s
 			</td>
 			<td>
-				65,9 kWh
+				67,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1304,10 +1304,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				79 kW
 			</td>
 			<td>
-				 41 m 43 s
+				 42 m 40 s
 			</td>
 			<td>
-				66,8 kWh
+				68,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1318,10 +1318,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				78 kW
 			</td>
 			<td>
-				 42 m 27 s
+				 43 m 25 s
 			</td>
 			<td>
-				67,6 kWh
+				69,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1332,10 +1332,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				77 kW
 			</td>
 			<td>
-				 43 m 12 s
+				 44 m 10 s
 			</td>
 			<td>
-				68,5 kWh
+				70,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1346,10 +1346,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				73 kW
 			</td>
 			<td>
-				 43 m 58 s
+				 44 m 57 s
 			</td>
 			<td>
-				69,4 kWh
+				71,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1360,10 +1360,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				69 kW
 			</td>
 			<td>
-				 44 m 46 s
+				 45 m 47 s
 			</td>
 			<td>
-				70,3 kWh
+				71,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1374,10 +1374,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				65 kW
 			</td>
 			<td>
-				 45 m 38 s
+				 46 m 39 s
 			</td>
 			<td>
-				71,2 kWh
+				72,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1388,10 +1388,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				63 kW
 			</td>
 			<td>
-				 46 m 32 s
+				 47 m 34 s
 			</td>
 			<td>
-				72,1 kWh
+				73,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1402,10 +1402,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				61 kW
 			</td>
 			<td>
-				 47 m 27 s
+				 48 m 31 s
 			</td>
 			<td>
-				73,0 kWh
+				74,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1416,10 +1416,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				58 kW
 			</td>
 			<td>
-				 48 m 26 s
+				 49 m 31 s
 			</td>
 			<td>
-				73,9 kWh
+				75,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1430,10 +1430,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				56 kW
 			</td>
 			<td>
-				 49 m 26 s
+				 50 m 32 s
 			</td>
 			<td>
-				74,8 kWh
+				76,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1444,10 +1444,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				54 kW
 			</td>
 			<td>
-				 50 m 29 s
+				 51 m 37 s
 			</td>
 			<td>
-				75,6 kWh
+				77,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1458,10 +1458,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				52 kW
 			</td>
 			<td>
-				 51 m 34 s
+				 52 m 44 s
 			</td>
 			<td>
-				76,5 kWh
+				78,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1472,10 +1472,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				49 kW
 			</td>
 			<td>
-				 52 m 42 s
+				 53 m 54 s
 			</td>
 			<td>
-				77,4 kWh
+				79,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1486,10 +1486,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				47 kW
 			</td>
 			<td>
-				 53 m 54 s
+				 55 m 7 s
 			</td>
 			<td>
-				78,3 kWh
+				80,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1500,10 +1500,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				45 kW
 			</td>
 			<td>
-				 55 m 9 s
+				 56 m 24 s
 			</td>
 			<td>
-				79,2 kWh
+				81,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1514,10 +1514,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				43 kW
 			</td>
 			<td>
-				 56 m 28 s
+				 57 m 44 s
 			</td>
 			<td>
-				80,1 kWh
+				81,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1528,10 +1528,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				40 kW
 			</td>
 			<td>
-				 57 m 51 s
+				 59 m 9 s
 			</td>
 			<td>
-				81,0 kWh
+				82,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1542,10 +1542,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				38 kW
 			</td>
 			<td>
-				 59 m 19 s
+				1 h 0 m 39 s
 			</td>
 			<td>
-				81,9 kWh
+				83,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1556,10 +1556,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				36 kW
 			</td>
 			<td>
-				1 h 0 m 53 s
+				1 h 2 m 15 s
 			</td>
 			<td>
-				82,8 kWh
+				84,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1570,10 +1570,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				34 kW
 			</td>
 			<td>
-				1 h 2 m 32 s
+				1 h 3 m 57 s
 			</td>
 			<td>
-				83,7 kWh
+				85,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1584,10 +1584,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				31 kW
 			</td>
 			<td>
-				1 h 4 m 19 s
+				1 h 5 m 45 s
 			</td>
 			<td>
-				84,6 kWh
+				86,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1598,10 +1598,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				29 kW
 			</td>
 			<td>
-				1 h 6 m 13 s
+				1 h 7 m 42 s
 			</td>
 			<td>
-				85,4 kWh
+				87,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1612,10 +1612,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				27 kW
 			</td>
 			<td>
-				1 h 8 m 17 s
+				1 h 9 m 49 s
 			</td>
 			<td>
-				86,3 kWh
+				88,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1626,10 +1626,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				25 kW
 			</td>
 			<td>
-				1 h 10 m 31 s
+				1 h 12 m 6 s
 			</td>
 			<td>
-				87,2 kWh
+				89,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1640,10 +1640,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				22 kW
 			</td>
 			<td>
-				1 h 12 m 59 s
+				1 h 14 m 37 s
 			</td>
 			<td>
-				88,1 kWh
+				90,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1654,10 +1654,10 @@ Chevrolet Blazer EV RS AWD tiene calefacción de batería, lo que facilita la ca
 				20 kW
 			</td>
 			<td>
-				1 h 15 m 42 s
+				1 h 17 m 24 s
 			</td>
 			<td>
-				89,0 kWh
+				91,0 kWh
 			</td>
 		</tr>
 	</tbody>

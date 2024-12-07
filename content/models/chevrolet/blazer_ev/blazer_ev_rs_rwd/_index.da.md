@@ -36,7 +36,7 @@ Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protect
 
 Den maksimale DC-opladningshastighed er 190kW. En fuld opladning fra 0 - 100 % ville tage 91 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 48 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 57%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 103kW. Hver opladningssession ville tage 32 minutter og 60 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 9 timer og 44 minutter. Denne rejse ville kræve to opladningsstop fra 7% til 52%, med en samlet opladningstid på 85 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24,5 kWh/100 km, ville turen tage cirka 9 timer og 41 minutter. Denne rejse ville kræve to opladningsstop fra 7% til 50%, med en samlet opladningstid på 81 minutter
 
 ### Ombordlader
 

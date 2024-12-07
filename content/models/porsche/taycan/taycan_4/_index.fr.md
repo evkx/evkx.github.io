@@ -328,8 +328,8 @@ Le Porsche Taycan 4 prend en charge Android Auto et Apple CarPlay, vous permetta
 Vous pouvez choisir entre trois systèmes audio pour le Porsche Taycan 4 :
 
 - **Porsche Sound system :** Dispose de dix haut-parleurs et délivre une puissance maximale de 150 watts.
-- ** BOSE® Surround Sound System :** Dispose de 14 haut-parleurs et délivre une puissance maximale de 710 watts.
-- ** Burmester® 3D High-End Surround Sound System :** Dispose de 21 haut-parleurs et délivre une puissance maximale de 1455 watts.
+- **BOSE® Surround Sound System :** Dispose de 14 haut-parleurs et délivre une puissance maximale de 710 watts.
+- **Burmester® 3D High-End Surround Sound System :** Dispose de 21 haut-parleurs et délivre une puissance maximale de 1455 watts.
 
 De plus, le modèle comprend 2 connexions USB-C de série. En option, vous pouvez obtenir des connexions USB-C supplémentaires 2.
 

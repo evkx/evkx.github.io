@@ -30,17 +30,17 @@ Le Chevrolet Blazer EV RS AWD offre des performances solides avec une puissance 
 
 ## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 93,0 kWh et une capacité nette utilisable de 89,0 kWh, offrant une marge de sécurité de 4,0 kWh (4,3%) pour la protection de la batterie. Avec une tension nominale de 296 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 93,0 kWh et une capacité nette utilisable de 91,0 kWh, offrant une marge de sécurité de 2,0 kWh (2,2%) pour la protection de la batterie. Avec une tension nominale de 296 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 279 miles (449 km) avec un taux de consommation d'énergie de 3,1 miles par kWh. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 150 kW. La charge de 0% à 100% prend environ 76 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 39 minutes avec une vitesse de charge moyenne de 95 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 6% à 58%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 100 kW, chaque session de charge prenant environ 28 minutes et 52 secondes.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 150 kW. La charge de 0% à 100% prend environ 77 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 40 minutes avec une vitesse de charge moyenne de 95 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 6% à 58%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 100 kW, chaque session de charge prenant environ 28 minutes et 23 secondes.
 
-Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 25 kWh/100 km, le voyage prendrait environ 9 heures et 59 minutes, nécessitant quatre arrêts de charge de 6% à 52%, totalisant 99 minutes de temps de charge.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 25 kWh/100 km, le voyage prendrait environ 9 heures et 56 minutes, nécessitant quatre arrêts de charge de 7% à 51%, totalisant 97 minutes de temps de charge.
 
 ### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 7 heures et 44 minutes avec une installation domestique.
+Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 7 heures et 54 minutes avec une installation domestique.
 
 ### Port de Charge
 

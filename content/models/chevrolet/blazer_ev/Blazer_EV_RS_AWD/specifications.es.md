@@ -126,7 +126,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				89 kWh
+				91 kWh
 			</td>
 		</tr>
 		<tr>

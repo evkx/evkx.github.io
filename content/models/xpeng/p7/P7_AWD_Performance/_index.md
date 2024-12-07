@@ -169,7 +169,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The XPENG P7 AWD Performance comes equipped with one sound system option:
 
-- **:** Features eight speakers and delivers a maximum output of 500 watts.
+- **standard:** Features eight speakers and delivers a maximum output of 500 watts.
 
 ## Lights
 

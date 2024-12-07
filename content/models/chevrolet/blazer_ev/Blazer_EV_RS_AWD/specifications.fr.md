@@ -126,7 +126,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				89 kWh
+				91 kWh
 			</td>
 		</tr>
 		<tr>

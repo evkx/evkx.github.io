@@ -205,7 +205,7 @@ Dessutom stöder XPENG G6 RWD Standard Range Android Auto och Apple CarPlay. Den
 
 En typ av ljudsystem är tillgänglig för XPENG G6 RWD Standard Range.
 
-- Med  får du 18 högtalare med en maximal systemeffekt på 1200 watt.
+- Med standard får du 18 högtalare med en maximal systemeffekt på 1200 watt.
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

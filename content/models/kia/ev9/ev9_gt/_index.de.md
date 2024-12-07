@@ -158,6 +158,7 @@ Die dritte Reihe hat eine Zweiersitzbank mit einer 50:50-Teilung. Auch hier kön
 
 Der Kia EV9 GT bietet zahlreiche Innenraumaufbewahrungslösungen, um Komfort und Organisation zu verbessern:
 
+- **Getränkehalter:** Zwei Getränkehalter befinden sich in der vorderen Mittelkonsole, zusätzlich zwei in der hinteren Armlehne und drei in der dritten Reihe.
 - **Handschuhfach:** Ein geräumiges Handschuhfach befindet sich im Armaturenbrett vor dem Beifahrer, ideal zum Aufbewahren von wichtigen Gegenständen.
 - **Unterbodenaufbewahrung:** Der Kofferraumbereich verfügt über eine Unterbodenaufbewahrung, perfekt, um kleinere Gegenstände wie Ladekabel ordentlich zu verstauen.
 

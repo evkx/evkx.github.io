@@ -36,7 +36,7 @@ Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental 
 
 Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 190 kW. La charge de 0% à 100% prend environ 91 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 48 minutes avec une vitesse de charge moyenne de 95 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 6% à 57%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 103 kW, chaque session de charge prenant environ 32 minutes et 60 secondes.
 
-Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 25 kWh/100 km, le voyage prendrait environ 9 heures et 44 minutes, nécessitant trois arrêts de charge de 7% à 52%, totalisant 85 minutes de temps de charge.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 24,5 kWh/100 km, le voyage prendrait environ 9 heures et 41 minutes, nécessitant trois arrêts de charge de 7% à 50%, totalisant 81 minutes de temps de charge.
 
 ### Chargeur Embarqué
 

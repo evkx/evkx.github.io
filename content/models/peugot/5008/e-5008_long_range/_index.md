@@ -188,8 +188,8 @@ The Peugot E-5008 Long Range supports Android Auto and Apple CarPlay, allowing y
 
 You can choose between two sound systems for the Peugot E-5008 Long Range:
 
-- **:** Features six speakers and delivers a maximum output of 100 watts.
-- **:** Features ten speakers and delivers a maximum output of 690 watts.
+- **standard:** Features six speakers and delivers a maximum output of 100 watts.
+- **standard:** Features ten speakers and delivers a maximum output of 690 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 

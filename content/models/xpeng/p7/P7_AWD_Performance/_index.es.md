@@ -169,7 +169,7 @@ Con el sistema de navegación en el coche una característica estándar, tiene t
 
 El XPENG P7 AWD Performance viene equipado con una opción de sistema de sonido:
 
-- **:** Cuenta con ocho altavoces y ofrece una potencia máxima de 500 vatios.
+- **standard:** Cuenta con ocho altavoces y ofrece una potencia máxima de 500 vatios.
 
 ## Luces
 

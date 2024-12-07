@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="puma_gen-e/"><img src="https://media.evkx.net/multimedia/models/ford/puma/puma_gen-e/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="Puma Gen-E" ></a>
-<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 43 kWh <i class="bi bi-ev-station"></i> 100 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 43,6 kWh <i class="bi bi-ev-station"></i> 100 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

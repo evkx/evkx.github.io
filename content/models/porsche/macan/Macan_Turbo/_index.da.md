@@ -194,8 +194,8 @@ Yderligere understøtter Porsche Macan Turbo Android Auto og Apple CarPlay. Denn
 
 Du kan vælge mellem to lydsystemer på Porsche Macan Turbo.
 
-- Med  BOSE® Surround Sound System får du 14 højttalere med en maksimal systemeffekt på 710 watt.
-- Med  Burmester® 3D High-End Surround Sound System får du 21 højttalere med en maksimal systemeffekt på 1470 watt.
+- Med BOSE® Surround Sound System får du 14 højttalere med en maksimal systemeffekt på 710 watt.
+- Med Burmester® 3D High-End Surround Sound System får du 21 højttalere med en maksimal systemeffekt på 1470 watt.
 
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 

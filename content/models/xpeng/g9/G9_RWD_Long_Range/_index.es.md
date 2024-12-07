@@ -176,7 +176,7 @@ Con el sistema de navegación en el coche una característica estándar, tiene t
 
 El XPENG G9 RWD Long Range viene equipado con una opción de sistema de sonido:
 
-- **:** Cuenta con 24 altavoces y ofrece una potencia máxima de 1940 vatios.
+- **standard:** Cuenta con 24 altavoces y ofrece una potencia máxima de 1940 vatios.
 
 ## Luces
 

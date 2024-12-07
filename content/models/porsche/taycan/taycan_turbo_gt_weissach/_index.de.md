@@ -177,8 +177,8 @@ Der Porsche Taycan Turbo GT Weissach unterstützt Android Auto und Apple CarPlay
 Sie können zwischen drei Soundsystemen für den Porsche Taycan Turbo GT Weissach wählen:
 
 - **Porsche Sound system:** Verfügt über zehn Lautsprecher und liefert eine maximale Ausgangsleistung von 150 Watt.
-- ** BOSE® Surround Sound System:** Verfügt über 14 Lautsprecher und liefert eine maximale Ausgangsleistung von 710 Watt.
-- ** Burmester® 3D High-End Surround Sound System:** Verfügt über 21 Lautsprecher und liefert eine maximale Ausgangsleistung von 1455 Watt.
+- **BOSE® Surround Sound System:** Verfügt über 14 Lautsprecher und liefert eine maximale Ausgangsleistung von 710 Watt.
+- **Burmester® 3D High-End Surround Sound System:** Verfügt über 21 Lautsprecher und liefert eine maximale Ausgangsleistung von 1455 Watt.
 
 ## Lichter
 

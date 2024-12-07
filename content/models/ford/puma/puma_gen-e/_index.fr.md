@@ -30,13 +30,17 @@ Le Ford Puma Gen-E offre des performances modestes avec une puissance maximale d
 
 ## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 43,0 kWh et une capacité nette utilisable de 40,0 kWh, offrant une marge de sécurité de 3,0 kWh (7,0%) pour la protection de la batterie. Cette batterie Lithium-Ion utilise la [technologie NMC (Nickel Manganèse Cobalt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+La batterie haute capacité a une capacité brute de 43,6 kWh et une capacité nette utilisable de 46,0 kWh, offrant une marge de sécurité de -2,4 kWh (-5,5%) pour la protection de la batterie. Cette batterie Lithium-Ion utilise la [technologie NMC (Nickel Manganèse Cobalt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 376 km (234 miles), avec un taux de consommation d'énergie de 10,6 kWh/100 km (3 mi/kWh). Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule varie entre 376 et 347 km (234-216 miles), en fonction de la configuration spécifique et des options, telles que la taille des roues. Des roues plus grandes peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 12,2 kWh/100 km pour le modèle de base et à 13,3 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 100 kW. La charge de 0% à 100% prend environ 57 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 22 minutes avec une vitesse de charge moyenne de 77 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 7% à 67%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 65 kW, chaque session de charge prenant environ 22 minutes et 11 secondes.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 100 kW. La charge de 0% à 100% prend environ 65 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 25 minutes avec une vitesse de charge moyenne de 77 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 7% à 66%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 67 kW, chaque session de charge prenant environ 24 minutes et 21 secondes.
+
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 23 kWh/100 km, le voyage prendrait environ 11 heures et 7 minutes, nécessitant huit arrêts de charge de 8% à 58%, totalisant 167 minutes de temps de charge.
 
 ### Chargeur Embarqué
+
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 4 heures et 10 minutes avec une installation domestique.
 
 ### Port de Charge
 
@@ -120,6 +124,14 @@ Disponible en :
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition , permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
+
+### Rangement intérieur
+
+Le Ford Puma Gen-E offre de nombreuses solutions de rangement intérieur pour améliorer la commodité et l'organisation :
+
+- **Porte-gobelets :** Deux porte-gobelets sont situés dans la console centrale avant, avec deux autres dans l'accoudoir arrière.
+- **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les articles essentiels.
+- **Rangement Sous le Plancher:** Le coffre dispose d'un grand compartiment de rangement sous le plancher, idéal pour ranger des objets plus volumineux ou pour garder le coffre organisé.
 
 ## Système de Climatisation
 

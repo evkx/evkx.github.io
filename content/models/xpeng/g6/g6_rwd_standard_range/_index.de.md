@@ -205,7 +205,7 @@ Der XPENG G6 RWD Standard Range unterstützt Android Auto und Apple CarPlay, sod
 
 Der XPENG G6 RWD Standard Range ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über 18 Lautsprecher und liefert eine maximale Ausgangsleistung von 1200 Watt.
+- **standard:** Verfügt über 18 Lautsprecher und liefert eine maximale Ausgangsleistung von 1200 Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 3 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 

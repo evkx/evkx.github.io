@@ -205,7 +205,7 @@ I tillegg støtter XPENG G6 AWD Performance Android Auto og Apple CarPlay. Denne
 
 Én type lydsystem er tilgjengelig for XPENG G6 AWD Performance.
 
-- Med  får du 18 høyttalere med en maksimal systemeffekt på 1200 watt.
+- Med standard får du 18 høyttalere med en maksimal systemeffekt på 1200 watt.
 
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 

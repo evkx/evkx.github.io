@@ -203,8 +203,8 @@ El Porsche Taycan 4 Cross Turismo es compatible con Android Auto y Apple CarPlay
 Puede elegir entre tres sistemas de sonido para el Porsche Taycan 4 Cross Turismo:
 
 - **Porsche Sound system:** Cuenta con diez altavoces y ofrece una potencia máxima de 150 vatios.
-- ** BOSE® Surround Sound System:** Cuenta con 14 altavoces y ofrece una potencia máxima de 710 vatios.
-- ** Burmester® 3D High-End Surround Sound System:** Cuenta con 21 altavoces y ofrece una potencia máxima de 1455 vatios.
+- **BOSE® Surround Sound System:** Cuenta con 14 altavoces y ofrece una potencia máxima de 710 vatios.
+- **Burmester® 3D High-End Surround Sound System:** Cuenta con 21 altavoces y ofrece una potencia máxima de 1455 vatios.
 
 ## Luces
 

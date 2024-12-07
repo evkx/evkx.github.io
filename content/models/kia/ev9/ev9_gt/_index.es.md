@@ -158,6 +158,7 @@ La tercera fila tiene un banco de dos asientos con división 50:50. También pue
 
 El Kia EV9 GT proporciona amplias soluciones de almacenamiento interior para mejorar la conveniencia y organización:
 
+- **Portavasos:** Dos portavasos están ubicados en la consola central delantera, con dos adicionales en el reposabrazos trasero y tres en la tercera fila.
 - **Guantera:** Hay una espaciosa guantera situada en el tablero frente al asiento del pasajero, ideal para almacenar artículos esenciales.
 - **Almacenamiento bajo el piso:** El área del maletero cuenta con almacenamiento bajo el piso, perfecto para mantener artículos pequeños como cables de carga ordenadamente guardados.
 

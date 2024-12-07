@@ -30,13 +30,17 @@ The Ford Puma Gen-E offers modest performance with a maximum power of 123.5 kW (
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 43.0 kWh and a net usable capacity of 40.0 kWh, providing a 3.0 kWh buffer (7.0%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+The high-capacity battery has a gross capacity of 43.6 kWh and a net usable capacity of 46.0 kWh, providing a -2.4 kWh buffer (-5.5%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 376 km (234 miles), with an energy consumption rate of 10.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 376 to 347 km (234-216 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.2 kWh/100 km for the base model and 13.3 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 57 minutes, while a more typical scenario from 10% to 80% takes 22 minutes with an average charging speed of 77 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 67%. This results in an effective charging speed, including time lost, of 65 kW, with each charging session taking about 22 minutes and 11 seconds.
+The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 65 minutes, while a more typical scenario from 10% to 80% takes 25 minutes with an average charging speed of 77 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 66%. This results in an effective charging speed, including time lost, of 67 kW, with each charging session taking about 24 minutes and 21 seconds.
+
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 23 kWh/100 km, the trip would take about 11 hours and 7 minutes, requiring eight charging stops from 8% to 58%, totaling 167 minutes of charging time.
 
 ### Onboard Charger
+
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 4 hours and 10 minutes using a home setup.
 
 ### Charge Port
 
@@ -120,6 +124,14 @@ Available in:
 The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
+
+### Interior Storage
+
+The Ford Puma Gen-E provides ample interior storage solutions to enhance convenience and organization:
+
+- **Cupholders:** Two cupholders are located in the front center console, with an additional two in the rear armrest.
+- **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
+- **Underfloor Storage:** The trunk area features a large underfloor storage compartment, ideal for storing larger items or keeping the trunk organized.
 
 ## Climate System
 

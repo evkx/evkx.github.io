@@ -190,6 +190,7 @@ The third row has a two-seat bench with a 50:50 split. Again, you can fold down 
 
 The Kia EV9 RWD provides ample interior storage solutions to enhance convenience and organization:
 
+- **Cupholders:** Two cupholders are located in the front center console, with an additional two in the rear armrest and three in the third row.
 - **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
 - **Underfloor Storage:** The trunk area features underfloor storage, perfect for keeping smaller items like charging cables neatly tucked away.
 

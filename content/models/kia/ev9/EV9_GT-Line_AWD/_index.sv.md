@@ -183,6 +183,7 @@ Den tredje raden har en tvåsitsig bänk med en 50:50-delning. Återigen kan du 
 
 Kia EV9 GT-Line AWD erbjuder gott om interiörförvaringslösningar för att förbättra bekvämligheten och organisationen:
 
+- **Mugghållare:** Två mugghållare är placerade i den främre mittkonsolen, med ytterligare två i det bakre armstödet och tre i tredje raden.
 - **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passageraren, perfekt för att förvara viktiga föremål.
 - **Undergolvsförvaring:** Bagageutrymmet har undergolvsförvaring, perfekt för att hålla mindre föremål som laddkablar prydligt undanlagda.
 

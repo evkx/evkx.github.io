@@ -169,7 +169,7 @@ Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, di
 
 Der XPENG P7 AWD Performance ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über acht Lautsprecher und liefert eine maximale Ausgangsleistung von 500 Watt.
+- **standard:** Verfügt über acht Lautsprecher und liefert eine maximale Ausgangsleistung von 500 Watt.
 
 ## Lichter
 

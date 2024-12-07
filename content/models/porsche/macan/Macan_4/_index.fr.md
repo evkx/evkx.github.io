@@ -204,8 +204,8 @@ Le Porsche Macan 4 prend en charge Android Auto et Apple CarPlay, vous permettan
 
 Vous pouvez choisir entre deux systèmes audio pour le Porsche Macan 4 :
 
-- ** BOSE® Surround Sound System :** Dispose de 14 haut-parleurs et délivre une puissance maximale de 710 watts.
-- ** Burmester® 3D High-End Surround Sound System :** Dispose de 21 haut-parleurs et délivre une puissance maximale de 1470 watts.
+- **BOSE® Surround Sound System :** Dispose de 14 haut-parleurs et délivre une puissance maximale de 710 watts.
+- **Burmester® 3D High-End Surround Sound System :** Dispose de 21 haut-parleurs et délivre une puissance maximale de 1470 watts.
 
 De plus, le modèle comprend 2 connexions USB-C de série. En option, vous pouvez obtenir des connexions USB-C supplémentaires 2.
 

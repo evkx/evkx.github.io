@@ -188,8 +188,8 @@ The Peugot E-5008 supports Android Auto and Apple CarPlay, allowing you to mirro
 
 You can choose between two sound systems for the Peugot E-5008:
 
-- **:** Features six speakers and delivers a maximum output of 100 watts.
-- **:** Features ten speakers and delivers a maximum output of 690 watts.
+- **standard:** Features six speakers and delivers a maximum output of 100 watts.
+- **standard:** Features ten speakers and delivers a maximum output of 690 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 

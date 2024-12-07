@@ -184,8 +184,8 @@ Dessutom stöder Opel Grandland Android Auto och Apple CarPlay. Denna funktion g
 
 Du kan välja mellan två ljudsystem på Opel Grandland.
 
-- Med  får du sex högtalare med en maximal systemeffekt på 100 watt.
-- Med  får du tio högtalare med en maximal systemeffekt på 690 watt.
+- Med standard får du sex högtalare med en maximal systemeffekt på 100 watt.
+- Med standard får du tio högtalare med en maximal systemeffekt på 690 watt.
 
 Modellen har 4 USB-C-anslutningar som standard.
 

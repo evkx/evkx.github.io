@@ -205,7 +205,7 @@ El XPENG G6 RWD Long Range es compatible con Android Auto y Apple CarPlay, lo qu
 
 El XPENG G6 RWD Long Range viene equipado con una opción de sistema de sonido:
 
-- **:** Cuenta con 18 altavoces y ofrece una potencia máxima de 1200 vatios.
+- **standard:** Cuenta con 18 altavoces y ofrece una potencia máxima de 1200 vatios.
 
 Además, el modelo incluye 3 conexiones USB-C como estándar. El modelo tiene 1 conexiones USB-A como estándar.
 

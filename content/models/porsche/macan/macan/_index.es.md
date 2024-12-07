@@ -202,8 +202,8 @@ El Porsche Macan es compatible con Android Auto y Apple CarPlay, lo que le permi
 
 Puede elegir entre dos sistemas de sonido para el Porsche Macan:
 
-- ** BOSE® Surround Sound System:** Cuenta con 14 altavoces y ofrece una potencia máxima de 710 vatios.
-- ** Burmester® 3D High-End Surround Sound System:** Cuenta con 21 altavoces y ofrece una potencia máxima de 1470 vatios.
+- **BOSE® Surround Sound System:** Cuenta con 14 altavoces y ofrece una potencia máxima de 710 vatios.
+- **Burmester® 3D High-End Surround Sound System:** Cuenta con 21 altavoces y ofrece una potencia máxima de 1470 vatios.
 
 Además, el modelo incluye 2 conexiones USB-C como estándar. Como opción, puede obtener 2 conexiones USB-C adicionales.
 

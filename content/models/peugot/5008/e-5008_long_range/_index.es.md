@@ -188,8 +188,8 @@ El Peugot E-5008 Long Range es compatible con Android Auto y Apple CarPlay, lo q
 
 Puede elegir entre dos sistemas de sonido para el Peugot E-5008 Long Range:
 
-- **:** Cuenta con seis altavoces y ofrece una potencia máxima de 100 vatios.
-- **:** Cuenta con diez altavoces y ofrece una potencia máxima de 690 vatios.
+- **standard:** Cuenta con seis altavoces y ofrece una potencia máxima de 100 vatios.
+- **standard:** Cuenta con diez altavoces y ofrece una potencia máxima de 690 vatios.
 
 Además, el modelo incluye 4 conexiones USB-C como estándar.
 

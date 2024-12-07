@@ -184,8 +184,8 @@ The Opel Grandland supports Android Auto and Apple CarPlay, allowing you to mirr
 
 You can choose between two sound systems for the Opel Grandland:
 
-- **:** Features six speakers and delivers a maximum output of 100 watts.
-- **:** Features ten speakers and delivers a maximum output of 690 watts.
+- **standard:** Features six speakers and delivers a maximum output of 100 watts.
+- **standard:** Features ten speakers and delivers a maximum output of 690 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 

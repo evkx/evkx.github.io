@@ -43,7 +43,7 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				376 km / 234 mi
 			</td>
 			<td>
-				10,64kWh/100km / 5,8 mi/kWh
+				12,23kWh/100km / 5,1 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				</a>
 			</td>
 			<td>
-				376 km / 234 mi
+				347 km / 216 mi
 			</td>
 			<td>
-				10,64 kWh/100km / 5,8 mi/kWh
+				13,26 kWh/100km / 4,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 				WLTP-seriens grundutrustningsnivå med 2KW AC
 			</td>
 			<td>
-				 268km / 167 mi 
+				 278km / 173 mi 
 			</td>
 			<td>
-				-28,7%
+				-26,1%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 				WLTP-räckvidd max trimnivå med 2KW AC
 			</td>
 			<td>
-				268 km / 167 mi
+				262 km / 163 mi
 			</td>
 			<td>
-				-28,7%
+				-24,5%
 			</td>
 		</tr>
 	</tbody>
@@ -127,6 +127,72 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				90 km/h/56 mph under perfekta förhållanden
+			</td>
+			<td>
+				288km / 179 mi
+			</td>
+			<td>
+				16 kWh/100km / 3,9 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90 kmh/56 mph med 2KW uppvärmning
+			</td>
+			<td>
+				261km /157mi
+			</td>
+			<td>
+				18,2 kWh/100km /3,4 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 km/h under perfekta förhållanden
+			</td>
+			<td>
+				219 km / 136 mi
+			</td>
+			<td>
+				21 kWh/100km / 3,0 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 km/h med 2KW uppvärmning
+			</td>
+			<td>
+				202km / 126mi
+			</td>
+			<td>
+				22,8 kWh/100km / 2,7 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120 kmh/75 mph under perfekta förhållanden
+			</td>
+			<td>
+				200 km / 124 mi
+			</td>
+			<td>
+				23 kWh/100km / 2,7 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120 kmh /75mph med 2KW uppvärmning
+			</td>
+			<td>
+				186 km /116mi
+			</td>
+			<td>
+				24,7 kWh/100km /2,5 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
