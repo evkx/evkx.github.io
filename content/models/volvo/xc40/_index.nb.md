@@ -1,7 +1,7 @@
 ---
 title: Volvo XC40
 linktitle: "XC40"
-description: "Se nedenfor for alle varianter av Volvo XC40"
+description: "Se under for detaljer om de ulike variantene av Volvo XC40"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -21,8 +21,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_single_motor/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_single_motor/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_single_motor/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_single_motor/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_single_motor/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_single_motor/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_single_motor/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>
@@ -40,8 +40,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_single_motor_er/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_single_motor_er/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_single_motor_er/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_single_motor_er/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_single_motor_er/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_single_motor_er/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_single_motor_er/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>
@@ -59,8 +59,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_twin_motor/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_twin_motor/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_twin_motor/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_twin_motor/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_twin_motor/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_twin_motor/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="xc40_recharge_twin_motor/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>

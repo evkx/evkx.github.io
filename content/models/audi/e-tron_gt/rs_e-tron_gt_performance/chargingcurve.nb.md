@@ -1,7 +1,7 @@
 ---
-title: Audi RS e-tron GT performance ladekurve og ladeytelse
+title: Audi RS e-tron GT performance ladekurve og ytelse
 linktitle: "Ladekurve"
-description: "Nedenfor er ladekurven for Audi RS e-tron GT performance, som illustrerer ladehastigheten ved forskjellige batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeprestasjonen."
+description: "Under er ladekurven for Audi RS e-tron GT performance, som viser ladehastigheten ved ulike batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeytelsen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -26,7 +26,7 @@ navicon: bi-battery-charging
 	<tbody>
 		<tr>
 			<td>
-				Gjennomsnittlig ladehastighet 0 - 100%
+				Gjennomsnittlig ladehastighet 0-100%
 			</td>
 			<td>
 				123,6 kW
@@ -58,7 +58,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Maks C-Rate
+				Maks C-rate
 			</td>
 			<td>
 				3,16
@@ -66,7 +66,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Gjennomsnittlig C-Rate
+				Gjennomsnittlig C-rate
 			</td>
 			<td>
 				2,32
@@ -82,7 +82,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Optimal ladehastighet inkludert 5 minutters tap
+				Optimal ladehastighet inkludert 5 minutter tap
 			</td>
 			<td>
 				209,3kW
@@ -90,7 +90,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Optimal ladestopp tid
+				Optimal ladestopp-tid
 			</td>
 			<td>
 				18m48s
@@ -115,7 +115,7 @@ navicon: bi-battery-charging
 	<tbody>
 		<tr>
 			<td>
-				Ladetid 0-100%
+				Ladetid 0 - 100%
 			</td>
 			<td>
 				 47 m 4 s
@@ -220,7 +220,7 @@ navicon: bi-battery-charging
 </div>
 
 
-Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
+Ladekurven over er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kalde eller varme temperaturer kan imidlertid påvirke kurven betydelig. Denne kurven er også basert på å starte lading ved lav ladestand. Derfor kan tilkobling ved høyere nivå påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -229,7 +229,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Ladenivå
 			</th>
 			<th>
 				Hastighet

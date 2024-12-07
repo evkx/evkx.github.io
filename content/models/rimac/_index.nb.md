@@ -1,5 +1,5 @@
 ---
-title: Rimac elektriske modeller
+title: Rimac elbilmodeller
 linktitle: "Rimac"
 description: "Rimac Automobili is a Croatian company that produces electric hypercars and provides technology solutions to global automotive manufacturers. The company was founded in 2009 by Mate Rimac, who converted his BMW 3 Series into an electric car and gained attention from investors and the media. Rimac Automobili's first model, the Concept One, was the world's fastest production electric car. "
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Rimac Nevera er en luksus hyperbil tilgjengelig i 1 varianter.
+Rimac Nevera er en luksus-hyperbil tilgjengelig i 1 varianter.
 </p>
-	<a href="nevera/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="nevera/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

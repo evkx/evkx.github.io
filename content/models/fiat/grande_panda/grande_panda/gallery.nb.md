@@ -1,7 +1,7 @@
 ---
-title: Fiat Grande Panda galleri
-linktitle: "Galleri"
-description: "Se nedenfor for vårt store Fiat Grande Panda bildegalleri. Klikk på bildene for høyoppløselige versjoner."
+title: Fiat Grande Panda bildegalleri
+linktitle: "Bildegalleri"
+description: "Se under for vårt store bildegalleri av Fiat Grande Panda. Klikk på bildene for høyoppløselige versjoner."
 weight: 5
 hidden: true
 navicon: bi-images
@@ -239,6 +239,6 @@ lightbox.init();
 <strong><i class="bi-arrow-left"></i> Spesifikasjoner </strong>
 </a>
 <a href="../reviews/" class="text-decoration-none text-black float-end">
-<strong>Tester <i class="bi-arrow-right"></i></strong>
+<strong>Anmeldelser <i class="bi-arrow-right"></i></strong>
 </a>
 </div>

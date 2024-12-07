@@ -1,5 +1,5 @@
 ---
-title: Porsche elektriske modeller
+title: Porsche elbilmodeller
 linktitle: "Porsche"
 description: "Porsche, kjent for sin arv av ytelse og luksus, har sømløst gått over til den elektriske æraen. Ved å kombinere banebrytende teknologi med ikonisk design, leverer Porsches elektriske modeller, som Taycan, spennende hastighet, presis håndtering og bærekraftig innovasjon, og setter nye standarder for elektriske sportsbiler."
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Porsche Macan er en premium Coupe SUV tilgjengelig i 4 varianter.
+Porsche Macan er en premium SUV-kupé tilgjengelig i 4 varianter.
 </p>
-	<a href="macan/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="macan/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -41,9 +41,9 @@ Porsche Macan er en premium Coupe SUV tilgjengelig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Porsche Taycan er en luksus sedan /stasjonsvogn tilgjengelig i 28 varianter.
+Porsche Taycan er en luksus sedan/stasjonsvogn tilgjengelig i 28 varianter.
 </p>
-	<a href="taycan/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="taycan/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

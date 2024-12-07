@@ -1,5 +1,5 @@
 ---
-title: CUPRA elektriske modeller
+title: CUPRA elbilmodeller
 linktitle: "CUPRA"
 description: "Cupra is a Spanish automobile brand that forms part of SEAT. It was created in 2018 as a spin-off of SEAT's performance division. Cupra stands for Cup Racing and reflects the brand's passion for racing and powerful car."
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-CUPRA BORN er en hatcback tilgjengelig i 4 varianter.
+CUPRA BORN er en kombi tilgjengelig i 4 varianter.
 </p>
-	<a href="born/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="born/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ CUPRA BORN er en hatcback tilgjengelig i 4 varianter.
             <div class="col col-12 col-md-6"><p>
 CUPRA Tavascan er en SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="tavascan/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="tavascan/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

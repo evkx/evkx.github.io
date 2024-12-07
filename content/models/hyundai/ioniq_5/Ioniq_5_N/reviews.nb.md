@@ -1,12 +1,12 @@
 ---
-title: Hyundai Ioniq 5 N tester
-linktitle: "Tester"
-description: "EVKX.net hjelper deg å finne de beste testene og omtalene av denne modellen."
+title: Hyundai Ioniq 5 N anmeldelser
+linktitle: "Anmeldelser"
+description: "EVKX.net hjelper deg å finne de beste anmeldelsene for denne modellen."
 weight: 6
 hidden: true
 navicon: bi-person-video2
 ---
-Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
+Vi samler anmeldelser fra våre [favoritt nettanmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Hyundai Ioniq 5N Vs The WORLD: The Petrol Car Killer?</h3>
@@ -129,7 +129,7 @@ Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evr
 </div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i>Galleri  </strong>
+<strong><i class="bi-arrow-left"></i>Bildegalleri  </strong>
 </a>
 <a href="../" class="text-decoration-none text-black float-end">
 <strong>Hyundai Ioniq 5 N <i class="bi-arrow-right"></i></strong>

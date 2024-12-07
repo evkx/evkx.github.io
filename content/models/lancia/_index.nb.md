@@ -1,5 +1,5 @@
 ---
-title: Lancia elektriske modeller
+title: Lancia elbilmodeller
 linktitle: "Lancia"
 description: "Lancia is a historic Italian car brand that is owned by Stellantis, the world's fourth-largest automaker. Lancia is known for its stylish and innovative cars, such as the Stratos, the Delta, and the Ypsilon."
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Lancia Ypsilon er en hatcback tilgjengelig i 1 varianter.
+Lancia Ypsilon er en kombi tilgjengelig i 1 varianter.
 </p>
-	<a href="ypsilon/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ypsilon/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

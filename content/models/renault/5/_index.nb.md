@@ -1,7 +1,7 @@
 ---
 title: Renault 5
 linktitle: "5"
-description: "Se nedenfor for alle varianter av Renault 5"
+description: "Se under for detaljer om de ulike variantene av Renault 5"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -19,8 +19,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="5_e-tech_52kwh_150hp/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="5_e-tech_52kwh_150hp/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="5_e-tech_52kwh_150hp/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="5_e-tech_52kwh_150hp/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="5_e-tech_52kwh_150hp/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="5_e-tech_52kwh_150hp/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="5_e-tech_52kwh_150hp/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>

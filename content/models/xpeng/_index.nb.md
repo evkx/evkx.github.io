@@ -1,5 +1,5 @@
 ---
-title: XPENG elektriske modeller
+title: XPENG elbilmodeller
 linktitle: "XPENG"
 description: "XPeng is a Chinese electric vehicle manufacturer that was founded in 2014 by He Xiaopeng, a former Alibaba executive and internet entrepreneur. The company is headquartered in Guangzhou, Guangdong, with offices in Mountain View, California, United States and is publicly traded on the New York Stock Exchange. "
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 XPENG G3 er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="g3/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="g3/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ XPENG G3 er en crossover tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 XPENG G6 er en SUV tilgjengelig i 3 varianter.
 </p>
-	<a href="g6/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="g6/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -58,7 +58,7 @@ XPENG G6 er en SUV tilgjengelig i 3 varianter.
             <div class="col col-12 col-md-6"><p>
 XPENG G9 er en SUV tilgjengelig i 3 varianter.
 </p>
-	<a href="g9/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="g9/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -73,7 +73,7 @@ XPENG G9 er en SUV tilgjengelig i 3 varianter.
             <div class="col col-12 col-md-6"><p>
 XPENG Mona M03 er en sedan tilgjengelig i 1 varianter.
 </p>
-	<a href="mona_m03/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="mona_m03/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -88,7 +88,7 @@ XPENG Mona M03 er en sedan tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 XPENG P7 er en sedan tilgjengelig i 1 varianter.
 </p>
-	<a href="p7/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="p7/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -101,9 +101,9 @@ XPENG P7 er en sedan tilgjengelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-XPENG X9 er en MPV tilgjengelig i 1 varianter.
+XPENG X9 er en flerbruksbil tilgjengelig i 1 varianter.
 </p>
-	<a href="x9/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="x9/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

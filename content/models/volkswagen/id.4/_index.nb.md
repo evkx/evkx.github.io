@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4
 linktitle: "ID.4"
-description: "Se nedenfor for alle varianter av Volkswagen ID.4"
+description: "Se under for detaljer om de ulike variantene av Volkswagen ID.4"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -19,8 +19,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>
@@ -38,8 +38,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>
@@ -57,8 +57,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="id.4_pro_performance/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_pro_performance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_pro_performance/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_pro_performance/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_pro_performance/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_performance/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_performance/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>
@@ -76,8 +76,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="id.4_pro/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_pro/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_pro/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_pro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_pro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>
@@ -95,8 +95,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="id.4_pure/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_pure/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_pure/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_pure/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_pure/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pure/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pure/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>
@@ -116,8 +116,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion_gen1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion_gen1/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>
@@ -135,8 +135,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="id.4_pro/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_pro/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_pro/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_pro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_pro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>
@@ -154,8 +154,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion_gen1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion_gen1/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>

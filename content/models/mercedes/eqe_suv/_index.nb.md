@@ -1,7 +1,7 @@
 ---
 title: Mercedes EQE SUV
 linktitle: "EQE SUV"
-description: "Se nedenfor for alle varianter av Mercedes EQE SUV"
+description: "Se under for detaljer om de ulike variantene av Mercedes EQE SUV"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -19,8 +19,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="eqe_350plus_suv/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqe_350plus_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqe_350plus_suv/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eqe_350plus_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eqe_350plus_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqe_350plus_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqe_350plus_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>
@@ -38,8 +38,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="eqe_350_4matic_suv/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqe_350_4matic_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqe_350_4matic_suv/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eqe_350_4matic_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eqe_350_4matic_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqe_350_4matic_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqe_350_4matic_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>
@@ -57,8 +57,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="eqe_43_4matic_suv/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqe_43_4matic_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqe_43_4matic_suv/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eqe_43_4matic_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eqe_43_4matic_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqe_43_4matic_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqe_43_4matic_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>
@@ -76,8 +76,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="eqe_500_4matic_suv/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqe_500_4matic_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqe_500_4matic_suv/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eqe_500_4matic_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eqe_500_4matic_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqe_500_4matic_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqe_500_4matic_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>
@@ -95,8 +95,8 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="eqe_53_4maticplus_suv/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqe_53_4maticplus_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqe_53_4maticplus_suv/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eqe_53_4maticplus_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eqe_53_4maticplus_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqe_53_4maticplus_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Bildegalleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqe_53_4maticplus_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Anmeldelser</a></li>
 			</ul>
 		</div>
 	</div>

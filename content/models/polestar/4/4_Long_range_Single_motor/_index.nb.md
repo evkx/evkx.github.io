@@ -1,7 +1,7 @@
 ---
 title: Polestar 4 Long range Single motor
 linktitle: "4 Long range Single motor"
-description: "Polestar 4 Long range Single motor er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 610 km. EVKX.net har alle detaljene."
+description: "Polestar 4 Long range Single motor er en elektrisk SUV-kupé med en WLTP rekkevidde på opptil 610 km (379 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,80 +11,80 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_single_motor/main_1_st.jpg" title="Polestar 4 Long range Single motor" width="3000" height="2000"  >}}
 
-Vi har delt vår beskrivelse av Polestar 4 Long range Single motor i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering. Klikk på lenkene nedenfor for å hoppe til ulike områder eller les videre for hele artikkelen. I tillegg tilbyr vi en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [nettanmeldelser](reviews/). Våre seksjoner inkluderer:
 
-- [Ytelse](#ytelse)
-- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivverk (fjæring, bremser, styring)](#drivverk)
-- [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interiør)
-- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
-- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
+- [Ytelse](#section-performance)
+- [Batteri, rekkevidde og lading](#section-battery)
+- [Drivlinje (fjæring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (lakkfarger, hjul ++)](#section-exterior)
+- [Interiør (seter++)](#section-interior)
+- [Brukergrensesnitt og kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lys](#section-lights)
+- [Avanserte førerassistentsystemer](#section-adas)
+- [Lastkapasitet og tilhengerevne](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ytelse
 
-Polestar 4 Long range Single motor tilbyr beskjedne ytelser med en maksimal effekt på 200 kW (272 hk) og et totalt dreiemoment på 343 Nm. Den akselererer fra 0 til 100 km/t på 7,4 sekunder og har en toppfart på 180 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
+Polestar 4 Long range Single motor tilbyr beskjeden ytelse med en maksimal effekt på 200 kW (272 hk / 268 bhp) og et totalt dreiemoment på 343 Nm (253 lb-ft). Den akselererer fra 0 til 100 km/t på 7,4 sekunder og har en topphastighet på 180 km/t (112 mph), mer på linje med tradisjonelle forbrenningsmotorer.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 100,0 kWh og en netto brukbar kapasitet på 94,0 kWh, som gir en buffer på 6,0 kWh (6,0%) for batteribeskyttelse. Med en nominell spenning på 370 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet med høy kapasitet har en brutto kapasitet på 100,0 kWh og en netto brukbar kapasitet på 94,0 kWh, som gir en 6,0 kWh buffer (6,0%) for batteribeskyttelse. Med en nominell spenning på 370 volt, klassifiseres systemet som et 400-volts batterisystem, i tråd med bransjestandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 610 km, med et energiforbruk på 15,4 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, er kjørelengden 610 km (379 miles), med et energiforbruk på 15,4 kWh/100 km (4,0 mi/kWh). For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Maksimal DC-ladehastighet er 200 kW. En full lading fra 0 - 100 % vil ta 61 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 55%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 130kW. Hver ladeøkt vil ta 22 minutter og 3 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 200 kW. Lading fra 0% til 100% tar omtrent 61 minutter, mens et mer typisk scenario fra 10% til 80% tar 29 minutter med en gjennomsnittlig ladehastighet på 137 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 4% til 55%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 130 kW, hvor hver ladeøkt tar omtrent 22 minutter og 3 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 20,5 kWh/100 km, ville turen ta omtrent 9 timer og 12 minutter. Denne reisen ville kreve to ladestopp fra 1% til 61%, med en total ladetid på 52 minutter.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 20,5 kWh/100 km, vil turen ta omtrent 9 timer og 12 minutter, og kreve to ladestopp fra 1% til 61%, totalt 52 minutter ladetid.
 
-### Ombordlader
+### Innebygd lader
 
-Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 4 timer og 16 minutter med en hjemmelader.
+Den standard innebygde laderen støtter opptil 22 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 4 timer og 16 minutter ved bruk av et hjemmeoppsett.
 
-### Ladeport
+### Ladekontakt
 
-Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Ladeporten er plassert på [venstre bakside](../../../../technology/charging/connectors/#rear-side), som gjør det enkelt å bruke ladestasjoner hvor du må rygge inn til laderen. Kontakttypene varierer etter marked: denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. Se fullstendige spesifikasjoner for informasjon om alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivverk
+## Drivlinje
 
-Polestar 4 Long range Single motor har et bakhjulsdriftssystem støttet av en motor på bakakselen.
+Polestar 4 Long range Single motor har et bakhjulsdrift-system med én motor på bakakselen.
 
-### Hjuloppheng
+### Fjæring
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 166 mm.
+Forhjulsopphenget bruker [doble triangelarmer](../../../../technology/suspension/#double-wishbone), mens bakhjulsopphenget er [Multilink](../../../../technology/suspension/#multilink). Standard fjæring inkluderer stålfjærer og hydrauliske dempere. har stålfjæring med fast høyde, men justerbar demping som kan tilpasses kjørestil og veiforhold. Bakkeklaring med denne hjulopphenget er 166 mm.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 400mm, og de bakre skivene er 390mm.
+Polestar 4 Long range Single motor er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak. Skivene foran måler 400 mm, mens skivene bak er 390 mm.
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to modi. Du kan bruke [en-pedalskjøring](../../../../technology/regen/#one-pedal-driving) eller du kan frihjule og bruke de [blandede bremsene](../../../../technology/regen/#manual-regen-using-brake-pedal) til å regenerere. Du kan velge mellom to stoppmodi for en-pedalskjøring. **Hold-modus** stopper kjøretøyet helt ved hjelp av friksjonsbremser og **Creep-modus** beveger bilen sakte fremover.
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [kjøring med én pedal](../../../../technology/regen/#one-pedal-driving) eller du kan frirulle og bruke [kombinerte bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) for å regenerere. Du kan velge mellom to stoppemodi for kjøring med én pedal. **Hold-modus** bringer kjøretøyet til fullstendig stopp ved hjelp av friksjonsbremser og **Kryp-modus** lar bilen bevege seg sakte fremover.
 
-I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det finnes to nivåer av regenerativ bremsing å velge mellom, noe som gir deg mulighet til å tilpasse kjøreopplevelsen etter dine preferanser.
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten av gasspedalen. Det er to nivåer å velge mellom, slik at du kan tilpasse kjøreopplevelsen etter eget ønske.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
-Polestar 4 Long range Single motor, med dimensjoner på 4840 mm i lengde, 2008 mm i bredde og 1534 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Polestar 4 Long range Single motor er tilgjengelig i totalt 6 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
+Polestar 4 Long range Single motor, med dimensjoner på 4840 mm i lengde, 2008 mm i bredde og 1534 mm i høyde, tilhører mellomstore SUVer som tilbyr en kombinasjon av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for en bred gruppe sjåfører med ulike behov. Polestar 4 Long range Single motor er tilgjengelig i totalt 6 lakkfarger, inkludert flere slående metallic-lakker.
 
-Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Polestar 4 Long range Single motor, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Polestar 4 Long range Single motor, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
 - 265/40 dekk på 22" felger foran og 295/40 dekk på 22" felger bak
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-type bakluke](../../../../technology/doors/#hatcback-style-liftgate).
 
-Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, som kan forbedre humøret og komforten til beboeren. Glasset har en elektrokrom funksjon som lar deg blande glasset for å beskytte mot solen.
+Det er to ulike takalternativer å velge mellom. Som tilvalg kan du bestille denne modellen med et stort panoramatak som strekker seg fra front til bak. Dette glasset får bilens interiør til å føles mer romslig og lyst, noe som kan forbedre stemningen og komforten for passasjerene. Glasset er tonet for å beskytte mot varme fra solen. Som tilvalg kan du bestille denne modellen med et stort panoramatak som strekker seg fra front til bak. Dette glasset får bilens interiør til å føles mer romslig og lyst, noe som kan forbedre stemningen og komforten for passasjerene. Glasset har en elektrokromatisk funksjon som lar deg blende glasset for å beskytte mot solen.
 
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_single_motor/exterior_1_st.jpg" title="Polestar 4 Long range Single motor" width="3000" height="1687"  >}}
 
@@ -98,57 +98,57 @@ Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
-Polestar 4 Long range Single motor har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+Polestar 4 Long range Single motor har plass til fem passasjerer med to forseter og en treseters benk bak.
 
 #### Forseter
 
-Polestar 4 Long range Single motor Long Range tilbyr kun én type forsete.
+Polestar 4 Long range Single motor tilbyr bare én type forsete.
 
-Følgende funksjoner er tilgjengelige på **standard** setet.
+Følgende funksjoner er tilgjengelig på **standard** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massasje](../../../../technology/seats/adjustment/#massage)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
+- [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
+- [Massasje](../../../../technology/seats/adjustment/#massage)
 
-Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
-- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofftrekk](../../../../technology/seats/materials/#fabric)
+- Black [stofftrekk](../../../../technology/seats/materials/#fabric)
+- Black [stofftrekk](../../../../technology/seats/materials/#fabric)
+- Gray [stofftrekk](../../../../technology/seats/materials/#fabric)
 - Gray [skinntrekk](../../../../technology/seats/materials/#leather)
 
-#### Seter på andre rad
+#### Andre seterad
 
-Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+Andre seterad har en standard treseter-benk med 40:60 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (standard for ytre seter)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
+- [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem.
+Det er ett klimasystem tilgjengelig:
 
-- **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
+- **2-sone klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
-Polestar 4 Long range Single motor inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+Polestar 4 Long range Single motor inkluderer flere funksjoner for å øke komfort og bekvemmelighet:
 
 - **Elektrisk justerbart ratt**
-- **Trådløs lading av telefon**
+- **Trådløs telefonlading**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -156,24 +156,24 @@ Polestar 4 Long range Single motor inkluderer flere funksjoner for å forbedre k
 
 ## Brukergrensesnitt og kontroll
 
-Polestar 4 Long range Single motor har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
+Polestar 4 Long range Single motor har flere integrerte skjermer. Bak rattet er det et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) øverst.
 
 Viktige skjermdetaljer:
 
 - -skjermen bak rattet integrert i dashbordet er 10,0 tommer stor
-- touch-skjermen øverst på midtkonsollen er 15,4 tommer stor
+- touch-skjermen øverst i midtkonsollen er 15,4 tommer stor
 
-Et head-up display er en standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en standard system som projiserer hastighet og annen viktig førerinformasjon på frontruten.
 
 ### Ratt
 
-Polestar 4 Long range Single motor er utstyrt med en enkelt type ratt:
+Polestar 4 Long range Single motor er utstyrt med én type ratt:
 
-- **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært ratt:** Dette rattet har integrert oppvarming for ekstra komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikk og styre andre viktige funksjoner.
 
 ### Speil
 
-Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+Både utvendige og innvendige speil bruker konvensjonell speilteknologi for å gi klar sikt over området bak kjøretøyet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -181,21 +181,21 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Polestar 4 Long range Single motor.
+Du kan velge mellom to lydsystemer for Polestar 4 Long range Single motor:
 
-- Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt.
-- Med Bowers & Wilkins får du 25 høyttalere med en maksimal systemeffekt på 1610 watt.
+- **High Performance:** Har åtte høyttalere og leverer en maksimal effekt på 200 watt.
+- **Bowers & Wilkins:** Har 25 høyttalere og leverer en maksimal effekt på 1610 watt.
 
-Modellen har 4 USB-C-tilkoblinger som standard.
+I tillegg har modellen 4 USB-C-tilkoblinger som standard.
 
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Polestar 4 Long range Single motor.
 
-- **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
-- **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
+- **Standard frontlykter:** Disse bruker avansert LED-teknologi som gir lyst og effektivt lys.
+- **LED Matrix frontlykter:** Tilgjengelig som tilvalg, dette adaptive systemet deler den tradisjonelle frontlyktsstrålen inn i dusinvis av mindre stråler som lyskontrolleren kan skru av og på individuelt, og optimaliserer belysningen ved å dimme spesifikke små områder foran.
 
-Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+Baklysene bruker LED-teknologi, som sikrer både god synlighet og energieffektivitet.
 
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_single_motor/headlights_1_st.jpg" title="Polestar 4 Long range Single motor" width="3000" height="2250"  >}}
 
@@ -203,30 +203,30 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 ## Avanserte førerassistentsystemer
 
-Polestar 4 Long range Single motor inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
+Polestar 4 Long range Single motor har en rekke standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet for å øke sikkerhet og komfort.
 
-[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funksjon som hjelper sjåfører med å forutse kjøreforhold og spare energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funksjon som hjelper førere med å forutse kjøreforhold og spare energi.
 
 ### Sikkerhetssystemer
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Polestar 4 Long range Single motor, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Polestar 4 Long range Single motor, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
-[**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Polestar 4 Long range Single motor, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
+[**Filholderassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Polestar 4 Long range Single motor, dette systemet hjelper med å hindre kjøretøyet i å drive ut av filen. Den inkluderer også et [**Filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler føreren hvis kjøretøyet beveger seg ut av filen.
 
-[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Polestar 4 Long range Single motor, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Kryssende trafikkvarsling bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Polestar 4 Long range Single motor, dette systemet bruker sensorer for å oppdage kjøretøy som nærmer seg fra siden når man rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Polestar 4 Long range Single motor, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Polestar 4 Long range Single motor, dette førerassistentsystemet hjelper førere med å unngå eller redusere frontkollisjoner.
 
-[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Polestar 4 Long range Single motor, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+[**Automatisk nødbrems (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Polestar 4 Long range Single motor, dette systemet aktiverer bremsene automatisk for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
 ### Kjøreautomatisering
 
 Med standard Pilot Assist nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Filsentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-## Sikkerhets- og tilgangsteknologier
+## Sikkerhet og adgangsteknologi
 
 Polestar 4 Long range Single motor er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
@@ -236,11 +236,11 @@ Polestar 4 Long range Single motor er utstyrt med avanserte sikkerhetsfunksjoner
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastekapasitet og slepeevne
+## Laste- og tilhengerkapasitet
 
-Bagasjerommet tilbyr en lastekapasitet på 526 liter. Med baksetene nedfelt, utvides dette til 1536 liter. På taket kan du laste opptil 100 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 15 liter.
+Bagasjerommet har en lastekapasitet på 526 liter (18,6 CU FT). Med baksetet nedfelt øker dette til 1536 liter (54,2 CU FT). På taket kan du laste opptil 100 kg (220,5 lbs). I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 15 liter (0,5 CU FT).
 
-Kjøretøyets maksimale vekt er 3080 kg, med en basisvekt på 2351 kg. Dette gir en maksimal lastekapasitet på 729 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 3080 kg (6790 lbs), med en egenvekt på 2351 kg (5183 lbs). Dette tillater en maksimal last på 729 kg (1607 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet.
 
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2000 kg, mens for en ubremset tilhenger er det 750 kg.
+Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med brems er 2000 kg (4409 lbs), og for tilhenger uten brems er det 750 kg (1653 lbs).
 {{< pagenavigation b_url="../" b_title="Polestar 4" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

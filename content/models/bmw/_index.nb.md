@@ -1,5 +1,5 @@
 ---
-title: BMW elektriske modeller
+title: BMW elbilmodeller
 linktitle: "BMW"
 description: "Electric drivetrains are a prerequisite for climate-neutral mobility of the future. This is why the BMW Group is consistently expanding its range of electric vehicles. As early as 2023, the Group will offer at least one fully electric model in virtually all key segments. "
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 BMW i4 er en premium sedan tilgjengelig i 3 varianter.
 </p>
-	<a href="i4/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="i4/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -41,9 +41,9 @@ BMW i4 er en premium sedan tilgjengelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW i5 er en premium sedan /stasjonsvogn tilgjengelig i 6 varianter.
+BMW i5 er en premium sedan/stasjonsvogn tilgjengelig i 6 varianter.
 </p>
-	<a href="i5/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="i5/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -56,9 +56,9 @@ BMW i5 er en premium sedan /stasjonsvogn tilgjengelig i 6 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW i7 er en luksus sedan tilgjengelig i 3 varianter.
+BMW i7 er en luksussedan tilgjengelig i 3 varianter.
 </p>
-	<a href="i7/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="i7/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -73,7 +73,7 @@ BMW i7 er en luksus sedan tilgjengelig i 3 varianter.
             <div class="col col-12 col-md-6"><p>
 BMW iX er en luksus-SUV tilgjengelig i 3 varianter.
 </p>
-	<a href="ix/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ix/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -88,7 +88,7 @@ BMW iX er en luksus-SUV tilgjengelig i 3 varianter.
             <div class="col col-12 col-md-6"><p>
 BMW iX1 er en premium SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="ix1/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ix1/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -101,9 +101,9 @@ BMW iX1 er en premium SUV tilgjengelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BMW iX2 er en premium Coupe SUV tilgjengelig i 2 varianter.
+BMW iX2 er en premium SUV-kupé tilgjengelig i 2 varianter.
 </p>
-	<a href="ix2/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ix2/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -118,7 +118,7 @@ BMW iX2 er en premium Coupe SUV tilgjengelig i 2 varianter.
             <div class="col col-12 col-md-6"><p>
 BMW iX3 er en premium SUV tilgjengelig i 1 varianter.
 </p>
-	<a href="ix3/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ix3/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

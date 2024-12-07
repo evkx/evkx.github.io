@@ -1,5 +1,5 @@
 ---
-title: MG elektriske modeller
+title: MG elbilmodeller
 linktitle: "MG"
 description: "MG is a British car brand that was founded in 1924 and is now owned by SAIC Motor, a Chinese automobile group. MG has a long history of producing sports cars and roadsters, but in recent years it has shifted to electric and hybrid vehicles. "
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-MG Cyberster er en cabriolet tilgjengelig i 1 varianter.
+MG Cyberster er en kabriolet tilgjengelig i 1 varianter.
 </p>
-	<a href="cyberster/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="cyberster/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ MG Cyberster er en cabriolet tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 MG Marvel R er en SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="marvel_r/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="marvel_r/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -58,7 +58,7 @@ MG Marvel R er en SUV tilgjengelig i 2 varianter.
             <div class="col col-12 col-md-6"><p>
 MG MG4 er en crossover tilgjengelig i 4 varianter.
 </p>
-	<a href="mg4/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="mg4/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -73,7 +73,7 @@ MG MG4 er en crossover tilgjengelig i 4 varianter.
             <div class="col col-12 col-md-6"><p>
 MG MG5 er en stasjonsvogn tilgjengelig i 2 varianter.
 </p>
-	<a href="mg5/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="mg5/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -88,7 +88,7 @@ MG MG5 er en stasjonsvogn tilgjengelig i 2 varianter.
             <div class="col col-12 col-md-6"><p>
 MG ZS er en SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="zs/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="zs/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: Volvo EM90
 linktitle: "EM90"
-description: "Volvo EM90 er en helelektrisk premium MPV med en CLTC rekkevidde på opptil 738 km. EVKX.net har alle detaljene."
+description: "Volvo EM90 er en elektrisk premium flerbruksbil med en CLTC rekkevidde på opptil 738 km (459 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,83 +11,83 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/main_1_st.jpg" title="Volvo EM90" width="2000" height="1503"  >}}
 
-Vi har delt vår beskrivelse av Volvo EM90 i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering. Klikk på lenkene nedenfor for å hoppe til ulike områder eller les videre for hele artikkelen. I tillegg tilbyr vi en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [nettanmeldelser](reviews/). Våre seksjoner inkluderer:
 
-- [Ytelse](#ytelse)
-- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivverk (fjæring, bremser, styring)](#drivverk)
-- [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interiør)
-- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
-- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
+- [Ytelse](#section-performance)
+- [Batteri, rekkevidde og lading](#section-battery)
+- [Drivlinje (fjæring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (lakkfarger, hjul ++)](#section-exterior)
+- [Interiør (seter++)](#section-interior)
+- [Brukergrensesnitt og kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lys](#section-lights)
+- [Avanserte førerassistentsystemer](#section-adas)
+- [Lastkapasitet og tilhengerevne](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ytelse
 
-Volvo EM90 tilbyr beskjedne ytelser med en maksimal effekt på 200 kW (272 hk) og et totalt dreiemoment på 686 Nm. Den akselererer fra 0 til 100 km/t på 8,3 sekunder og har en toppfart på 190 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
+Volvo EM90 tilbyr beskjeden ytelse med en maksimal effekt på 200 kW (272 hk / 268 bhp) og et totalt dreiemoment på 686 Nm (506 lb-ft). Den akselererer fra 0 til 100 km/t på 8,3 sekunder og har en topphastighet på 190 km/t (118 mph), mer på linje med tradisjonelle forbrenningsmotorer.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 116,0 kWh og en netto brukbar kapasitet på 110,0 kWh, som gir en buffer på 6,0 kWh (5,2%) for batteribeskyttelse. Med en nominell spenning på 370 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet med høy kapasitet har en brutto kapasitet på 116,0 kWh og en netto brukbar kapasitet på 110,0 kWh, som gir en 6,0 kWh buffer (5,2%) for batteribeskyttelse. Med en nominell spenning på 370 volt, klassifiseres systemet som et 400-volts batterisystem, i tråd med bransjestandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 738 km (459 miles). Forbruket er 14,9kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+Kjørelengden, ifølge [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standarden, er 738 km (459 miles). Energiforbruket er 14,9 kWh/100 km basert på CLTC standardtest. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Maksimal DC-ladehastighet er 200 kW. En full lading fra 0 - 100 % vil ta 68 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 55%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 136kW. Hver ladeøkt vil ta 24 minutter og 12 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 200 kW. Lading fra 0% til 100% tar omtrent 68 minutter, mens et mer typisk scenario fra 10% til 80% tar 32 minutter med en gjennomsnittlig ladehastighet på 144 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 5% til 55%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 136 kW, hvor hver ladeøkt tar omtrent 24 minutter og 12 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 28 kWh/100 km, ville turen ta omtrent 9 timer og 35 minutter. Denne reisen ville kreve to ladestopp fra 4% til 56%, med en total ladetid på 76 minutter.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 28 kWh/100 km, vil turen ta omtrent 9 timer og 35 minutter, og kreve tre ladestopp fra 4% til 56%, totalt 76 minutter ladetid.
 
-### Ombordlader
+### Innebygd lader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 10 timer og 0 minutter med en hjemmelader.
+Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 10 timer og 0 minutter ved bruk av et hjemmeoppsett.
 
-### Ladeport
+### Ladekontakt
 
-Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Ladeporten er plassert på [venstre bakside](../../../../technology/charging/connectors/#rear-side), som gjør det enkelt å bruke ladestasjoner hvor du må rygge inn til laderen. Kontakttypene varierer etter marked: denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. Se fullstendige spesifikasjoner for informasjon om alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivverk
+## Drivlinje
 
-Volvo EM90 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Volvo EM90 har et bakhjulsdrift-system med én motor på bakakselen. Motorene som brukes er [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
-### Hjuloppheng
+### Fjæring
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 162 mm, og maksimum er 192 mm.
+Forhjulsopphenget er [doble triangelarmer](../../../../technology/suspension/#double-wishbone), og bakhjulsopphenget er [Multilink](../../../../technology/suspension/#multilink). Det bruker luftfjæring og hydrauliske dempere. Fjæringen er helautomatisk på for- og bakaksel, slik at høyde og demping kan justeres både manuelt og automatisk. Minimum bakkeklaring er 162 mm, og maksimum er 192 mm.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 533mm, og de bakre skivene er 457mm.
+Volvo EM90 er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak. Skivene foran måler 533 mm, mens skivene bak er 457 mm.
 
 ### Regenerativ bremsing
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. Imidlertid blir [regenerativ bremsing](../../../../technology/regen/) muliggjort gjennom [**enpedals kjøring**](../../../../technology/regen/#one-pedal-driving) kombinert med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. [Regenerativ bremsing](../../../../technology/regen/) skjer via [**kjøring med én pedal**](../../../../technology/regen/#one-pedal-driving) kombinert med [**kombinerte bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
-Volvo EM90 er tilgjengelig i totalt 3 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
+Volvo EM90 er tilgjengelig i totalt 3 lakkfarger, inkludert flere slående metallic-lakker.
 
-Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volvo EM90, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Volvo EM90 tilbyr flere hjulalternativer i ulike størrelser, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
 - 255/50 dekk på 19" felger
 - 255/45 dekk på 20" felger
 
-Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+Smalere hjul forbedrer forbruket og gir lengre rekkevidde, mens bredere hjul gir bedre veigrep og håndtering.
 
-Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er en standard funksjon for sidedørene. Bakluken er elektrisk drevet.
+Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er en standard funksjon for sidedørene. Bakluken er elektrisk.
 
-Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg over de fleste områder fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humør og komfort for beboeren. Glasset er tonet for å beskytte mot varme fra solen.
+Det er kun ett takalternativ for denne modellen. Standardtaket har et stort panoramatak som strekker seg over mesteparten av området fra front til bak. Dette glasset får bilens interiør til å føles mer romslig og lyst, noe som kan forbedre stemningen og komforten for passasjerene. Glasset er tonet for å beskytte mot varme fra solen.
 
-Rutene fra B-stolpen og baksiden er tonet.
+Vinduene fra B-stolpen og bakover er tonede, noe som gir bedre privatliv og reduserer blending og varme fra solen, og gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/exterior_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 
@@ -101,67 +101,67 @@ Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
-Seteoppsettet er seks seter med to foran, to kapteinstoler på andre rad, og en to-seters benk på tredje rad.
+Seteoppsettet er seks seter med to foran, to kapteinsseter i andre rad, og en toseters benk i tredje rad.
 
 #### Forseter
 
-Volvo EM90 Long Range tilbyr kun én type forsete.
+Volvo EM90 tilbyr bare én type forsete.
 
-Følgende funksjoner er tilgjengelige på **standard** setet.
+Følgende funksjoner er tilgjengelig på **standard** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massasje](../../../../technology/seats/adjustment/#massage)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Justerbar sidestøtte rygg](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
+- [Massasje](../../../../technology/seats/adjustment/#massage)
 
-Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
-- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofftrekk](../../../../technology/seats/materials/#fabric)
+- Black [stofftrekk](../../../../technology/seats/materials/#fabric)
+- Black [stofftrekk](../../../../technology/seats/materials/#fabric)
+- Gray [stofftrekk](../../../../technology/seats/materials/#fabric)
 - Gray [skinntrekk](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/frontseats_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
-#### Seter på andre rad
+#### Andre seterad
 
-For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
+For andre seterad har denne modellen to kapteinsseter. Andre funksjoner inkluderer:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massasje](../../../../technology/seats/adjustment/#massage)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
+- [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
+- [Massasje](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 
-#### Seter på tredje rad
+#### Tredje seterad
 
-Den tredje raden har en to-seters benk med en 40:60-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
+Tredje rad har en toseters benk med 40:60 deling. Også her kan du felle ned setene når de ikke er i bruk for å skape større bagasjeplass.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem.
+Det er ett klimasystem tilgjengelig:
 
-- **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
+- **3-sone klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
 
-En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
-Volvo EM90 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+Volvo EM90 inkluderer flere funksjoner for å øke komfort og bekvemmelighet:
 
 - **Elektrisk justerbart ratt**
-- **Trådløs lading av telefon**
+- **Trådløs telefonlading**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -169,28 +169,28 @@ Volvo EM90 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet
 
 ## Brukergrensesnitt og kontroll
 
-Volvo EM90 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
+Volvo EM90 har flere integrerte skjermer. Bak rattet er det et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) øverst.
 
 Viktige skjermdetaljer:
 
 - -skjermen bak rattet integrert i dashbordet er 10,2 tommer stor
-- touch-skjermen øverst på midtkonsollen er 15,4 tommer stor
-For baksetepassasjerene er det en infotainmentskjerm i taket bak setene på første rad.
-Modellen er ikke tilgjengelig med head-up display.
+- touch-skjermen øverst i midtkonsollen er 15,4 tommer stor
+For passasjerene i baksetet er det en infotainmentskjerm i taket bak forsetene.
+Modellen har ikke head-up display.
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/screens_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
 ### Ratt
 
-Volvo EM90 er utstyrt med en enkelt type ratt:
+Volvo EM90 er utstyrt med én type ratt:
 
-- **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært ratt:** Dette rattet har integrert oppvarming for ekstra komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikk og styre andre viktige funksjoner.
 
 ### Speil
 
-Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+Både utvendige og innvendige speil bruker konvensjonell speilteknologi for å gi klar sikt over området bak kjøretøyet.
 
-Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
+Denne modellen kommer med stemmekontroll som standard, som lar deg styre ulike funksjoner gjennom talekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -198,25 +198,25 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Med en standard innebygd navigasjonssystem har du all hjelpen du trenger for å nå destinasjonen din enkelt.
 
-### Telefonspeiling
+### Telefonspeling
 
-I tillegg støtter Volvo EM90 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+Volvo EM90 støtter Android Auto og Apple CarPlay, som lar deg speile telefonskjermen på bilens skjerm. Denne funksjonaliteten gjør at du kan kjøre apper som Google Maps eller Waze direkte fra telefonen.
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Volvo EM90.
+Volvo EM90 kommer med ett lydsystem:
 
-- Med Bowers & Wilkins Sound System får du 21 høyttalere med en maksimal systemeffekt på 500 watt.
+- **Bowers & Wilkins Sound System:** Har 21 høyttalere og leverer en maksimal effekt på 500 watt.
 
-Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+I tillegg har modellen 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 
 ## Lys
 
-**Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
+**Standard frontlykter:** Disse bruker avansert LED-teknologi som gir lyst og effektivt lys.
 
-Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+Baklysene bruker LED-teknologi, som sikrer både god synlighet og energieffektivitet.
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/headlights_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 
@@ -224,30 +224,30 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 ## Avanserte førerassistentsystemer
 
-Volvo EM90 inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
+Volvo EM90 har en rekke standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet for å øke sikkerhet og komfort.
 
-[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funksjon som hjelper sjåfører med å forutse kjøreforhold og spare energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funksjon som hjelper førere med å forutse kjøreforhold og spare energi.
 
 ### Sikkerhetssystemer
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Volvo EM90, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Volvo EM90, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
-[**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Volvo EM90, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
+[**Filholderassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Volvo EM90, dette systemet hjelper med å hindre kjøretøyet i å drive ut av filen. Den inkluderer også et [**Filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler føreren hvis kjøretøyet beveger seg ut av filen.
 
-[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Volvo EM90, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Kryssende trafikkvarsling bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Volvo EM90, dette systemet bruker sensorer for å oppdage kjøretøy som nærmer seg fra siden når man rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Volvo EM90, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Volvo EM90, dette førerassistentsystemet hjelper førere med å unngå eller redusere frontkollisjoner.
 
-[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Volvo EM90, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+[**Automatisk nødbrems (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Volvo EM90, dette systemet aktiverer bremsene automatisk for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
 ### Kjøreautomatisering
 
 Med standard Pilot Assist nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Filsentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-## Sikkerhets- og tilgangsteknologier
+## Sikkerhet og adgangsteknologi
 
 Volvo EM90 er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
@@ -257,15 +257,15 @@ Volvo EM90 er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og 
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastekapasitet og slepeevne
+## Laste- og tilhengerkapasitet
 
-Bagasjerommet tilbyr en lastekapasitet på 376 liter. Med tredje seterad nedfelt, utvides dette til 2979 liter. På taket kan du laste opptil 100 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 32 liter.
+Bagasjerommet har en lastekapasitet på 376 liter (13,3 CU FT). Med tredje seterad nedfelt øker dette til 2979 liter (105,2 CU FT). På taket kan du laste opptil 100 kg (220,5 lbs). I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 32 liter (1,1 CU FT).
 
-Kjøretøyets maksimale vekt er 3400 kg, med en basisvekt på 2763 kg. Dette gir en maksimal lastekapasitet på 637 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 3400 kg (7496 lbs), med en egenvekt på 2763 kg (6091 lbs). Dette tillater en maksimal last på 637 kg (1404 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet.
 
-Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
+Denne modellen er ikke tilgjengelig med tilhengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 
-## Tilgjengelighet & pris
+## Tilgjengelighet og priser
 
-Denne modellen hadde sin verdenspremiere den 12.11.2023, med forventede leveranser som starter i March 2025. Vær oppmerksom på at denne modellen kun er tilgjengelig i Kina.
+Denne modellen hadde sin verdenspremiere 12.11.2023, og leveringene forventes å starte i March 2025. Vær oppmerksom på at denne modellen kun er tilgjengelig i Kina.
 {{< pagenavigation b_url="../" b_title="Volvo EM90" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

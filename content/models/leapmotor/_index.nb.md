@@ -1,5 +1,5 @@
 ---
-title: Leapmotor elektriske modeller
+title: Leapmotor elbilmodeller
 linktitle: "Leapmotor"
 description: "Leapmotor is a Chinese electric vehicle (EV) manufacturer, founded in 2015. Known for affordable, tech-driven cars like the T03 city car and C11 SUV, Leapmotor emphasizes in-house development of core EV technologies, including powertrains and autonomous driving, targeting China's growing EV market."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Leapmotor C10 er en SUV tilgjengelig i 1 varianter.
 </p>
-	<a href="c10/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="c10/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

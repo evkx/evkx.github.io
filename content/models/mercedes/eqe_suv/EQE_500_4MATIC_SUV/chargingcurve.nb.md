@@ -1,7 +1,7 @@
 ---
-title: Mercedes-EQ EQE 500 4MATIC SUV ladekurve og ladeytelse
+title: Mercedes-EQ EQE 500 4MATIC SUV ladekurve og ytelse
 linktitle: "Ladekurve"
-description: "Nedenfor er ladekurven for Mercedes-EQ EQE 500 4MATIC SUV, som illustrerer ladehastigheten ved forskjellige batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeprestasjonen."
+description: "Under er ladekurven for Mercedes-EQ EQE 500 4MATIC SUV, som viser ladehastigheten ved ulike batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeytelsen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -26,7 +26,7 @@ navicon: bi-battery-charging
 	<tbody>
 		<tr>
 			<td>
-				Gjennomsnittlig ladehastighet 0 - 100%
+				Gjennomsnittlig ladehastighet 0-100%
 			</td>
 			<td>
 				96,2 kW
@@ -58,7 +58,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Maks C-Rate
+				Maks C-rate
 			</td>
 			<td>
 				1,77
@@ -66,7 +66,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Gjennomsnittlig C-Rate
+				Gjennomsnittlig C-rate
 			</td>
 			<td>
 				1,31
@@ -82,7 +82,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Optimal ladehastighet inkludert 5 minutters tap
+				Optimal ladehastighet inkludert 5 minutter tap
 			</td>
 			<td>
 				119,1kW
@@ -90,7 +90,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Optimal ladestopp tid
+				Optimal ladestopp-tid
 			</td>
 			<td>
 				28m50s
@@ -115,7 +115,7 @@ navicon: bi-battery-charging
 	<tbody>
 		<tr>
 			<td>
-				Ladetid 0-100%
+				Ladetid 0 - 100%
 			</td>
 			<td>
 				 56 m 30 s
@@ -220,10 +220,10 @@ navicon: bi-battery-charging
 </div>
 
 
-Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
+Ladekurven over er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kalde eller varme temperaturer kan imidlertid påvirke kurven betydelig. Denne kurven er også basert på å starte lading ved lav ladestand. Derfor kan tilkobling ved høyere nivå påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
 
 
-Mercedes-EQ EQE 500 4MATIC SUV har batterioppvarming, noe som gjør lading ved en optimal batteritemperatur enklere.
+Mercedes-EQ EQE 500 4MATIC SUV har batterioppvarming, som gjør det enklere å lade ved optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -232,7 +232,7 @@ Mercedes-EQ EQE 500 4MATIC SUV har batterioppvarming, noe som gjør lading ved e
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Ladenivå
 			</th>
 			<th>
 				Hastighet

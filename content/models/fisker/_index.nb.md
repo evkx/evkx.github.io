@@ -1,5 +1,5 @@
 ---
-title: Fisker elektriske modeller
+title: Fisker elbilmodeller
 linktitle: "Fisker"
 description: "Fisker Inc. is an American electric vehicle (EV) manufacturer that was founded in 2016 by Henrik Fisker, a well-known automotive designer. The company is based in Manhattan Beach, California, and is focused on creating sustainable, electric mobility solutions."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Fisker Ocean er en SUV tilgjengelig i 3 varianter.
 </p>
-	<a href="ocean/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ocean/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

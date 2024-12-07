@@ -1,5 +1,5 @@
 ---
-title: Li Auto elektriske modeller
+title: Li Auto elbilmodeller
 linktitle: "Li Auto"
 description: "Li Auto Inc., a prominent player in China’s electric vehicle (EV) market, has an exciting roadmap for the future. "
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Li Auto MEGA er en premium MPV tilgjengelig i 1 varianter.
+Li Auto MEGA er en premium flerbruksbil tilgjengelig i 1 varianter.
 </p>
-	<a href="mega/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="mega/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Xiaomi elektriske modeller
+title: Xiaomi elbilmodeller
 linktitle: "Xiaomi"
 description: "Xiaomi, the Chinese tech giant known for its smartphones, has entered the electric vehicle (EV) market with the launch of its first EV, the Xiaomi SU7. The company has positioned the SU7 as a 'full-size high-performance eco-technology sedan' and has set an aggressive pricing strategy to compete in the highly saturated EV market"
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Xiaomi SU7 er en sedan tilgjengelig i 4 varianter.
 </p>
-	<a href="su7/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="su7/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

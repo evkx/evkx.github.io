@@ -1,7 +1,7 @@
 ---
-title: Rolls-Royce Spectre ladekurve og ladeytelse
+title: Rolls-Royce Spectre ladekurve og ytelse
 linktitle: "Ladekurve"
-description: "Nedenfor er ladekurven for Rolls-Royce Spectre, som illustrerer ladehastigheten ved forskjellige batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeprestasjonen."
+description: "Under er ladekurven for Rolls-Royce Spectre, som viser ladehastigheten ved ulike batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeytelsen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -26,7 +26,7 @@ navicon: bi-battery-charging
 	<tbody>
 		<tr>
 			<td>
-				Gjennomsnittlig ladehastighet 0 - 100%
+				Gjennomsnittlig ladehastighet 0-100%
 			</td>
 			<td>
 				83,4 kW
@@ -58,7 +58,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Maks C-Rate
+				Maks C-rate
 			</td>
 			<td>
 				1,90
@@ -66,7 +66,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Gjennomsnittlig C-Rate
+				Gjennomsnittlig C-rate
 			</td>
 			<td>
 				1,22
@@ -82,7 +82,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Optimal ladehastighet inkludert 5 minutters tap
+				Optimal ladehastighet inkludert 5 minutter tap
 			</td>
 			<td>
 				129,6kW
@@ -90,7 +90,7 @@ navicon: bi-battery-charging
 		</tr>
 		<tr>
 			<td>
-				Optimal ladestopp tid
+				Optimal ladestopp-tid
 			</td>
 			<td>
 				21m15s
@@ -115,7 +115,7 @@ navicon: bi-battery-charging
 	<tbody>
 		<tr>
 			<td>
-				Ladetid 0-100%
+				Ladetid 0 - 100%
 			</td>
 			<td>
 				1 h 13 m 21 s
@@ -220,10 +220,10 @@ navicon: bi-battery-charging
 </div>
 
 
-Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
+Ladekurven over er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kalde eller varme temperaturer kan imidlertid påvirke kurven betydelig. Denne kurven er også basert på å starte lading ved lav ladestand. Derfor kan tilkobling ved høyere nivå påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
 
 
-Rolls-Royce Spectre har batterioppvarming, noe som gjør lading ved en optimal batteritemperatur enklere.
+Rolls-Royce Spectre har batterioppvarming, som gjør det enklere å lade ved optimal batteritemperatur.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -232,7 +232,7 @@ Rolls-Royce Spectre har batterioppvarming, noe som gjør lading ved en optimal b
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Ladenivå
 			</th>
 			<th>
 				Hastighet

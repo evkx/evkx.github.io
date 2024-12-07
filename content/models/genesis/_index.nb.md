@@ -1,5 +1,5 @@
 ---
-title: Genesis elektriske modeller
+title: Genesis elbilmodeller
 linktitle: "Genesis"
 description: "Genesis is a luxury car brand that was launched by Hyundai Motor Group in 2015. It aims to provide positive and innovative experiences for its customers through its design, performance, and service."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Genesis GV60 er en SUV tilgjengelig i 3 varianter.
 </p>
-	<a href="gv60/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="gv60/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Genesis GV60 er en SUV tilgjengelig i 3 varianter.
             <div class="col col-12 col-md-6"><p>
 Genesis GV70 er en premium SUV tilgjengelig i 1 varianter.
 </p>
-	<a href="gv70/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="gv70/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

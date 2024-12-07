@@ -1,5 +1,5 @@
 ---
-title: Subaru elektriske modeller
+title: Subaru elbilmodeller
 linktitle: "Subaru"
 description: "Subaru is a Japanese automaker that produces vehicles with advanced technology, impressive performance, and intelligent features. Subaru is known for its permanent all-wheel drive system, boxer engine, and EyeSight driver assistance system. Subaru also has a strong reputation for safety, reliability, and durability."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Subaru Solterra er en SUV tilgjengelig i 1 varianter.
 </p>
-	<a href="solterra/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="solterra/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

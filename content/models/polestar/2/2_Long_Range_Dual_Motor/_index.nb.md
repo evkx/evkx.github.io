@@ -1,7 +1,7 @@
 ---
 title: Polestar 2 Long Range Dual Motor
 linktitle: "2 Long Range Dual Motor"
-description: "Polestar 2 Long Range Dual Motor er en helelektrisk sedan med en WLTP rekkevidde på opptil 592 km. EVKX.net har alle detaljene."
+description: "Polestar 2 Long Range Dual Motor er en elektrisk sedan med en WLTP rekkevidde på opptil 592 km (368 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,83 +11,83 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/main_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="2250"  >}}
 
-Vi har delt vår beskrivelse av Polestar 2 Long Range Dual Motor i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering. Klikk på lenkene nedenfor for å hoppe til ulike områder eller les videre for hele artikkelen. I tillegg tilbyr vi en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [nettanmeldelser](reviews/). Våre seksjoner inkluderer:
 
-- [Ytelse](#ytelse)
-- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivverk (fjæring, bremser, styring)](#drivverk)
-- [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interiør)
-- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
-- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
+- [Ytelse](#section-performance)
+- [Batteri, rekkevidde og lading](#section-battery)
+- [Drivlinje (fjæring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (lakkfarger, hjul ++)](#section-exterior)
+- [Interiør (seter++)](#section-interior)
+- [Brukergrensesnitt og kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lys](#section-lights)
+- [Avanserte førerassistentsystemer](#section-adas)
+- [Lastkapasitet og tilhengerevne](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ytelse
 
-Polestar 2 Long Range Dual Motor leverer solid ytelse med en maksimal effekt på 310 kW (422 hk) og et totalt dreiemoment på 740 Nm. Den kan akselerere fra 0 til 100 km/t på 4,5 sekunder og når en topphastighet på 205 km/t, noe som gjør den konkurransedyktig i sin klasse.
+Polestar 2 Long Range Dual Motor leverer solid ytelse med en maksimal effekt på 310 kW (422 hk / 416 bhp) og et totalt dreiemoment på 740 Nm (546 lb-ft). Den akselererer fra 0 til 100 km/t på 4,5 sekunder og når en topphastighet på 205 km/t (127 mph), noe som gjør den konkurransedyktig i sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 82,0 kWh og en netto brukbar kapasitet på 79,0 kWh, som gir en buffer på 3,0 kWh (3,7%) for batteribeskyttelse. Med en nominell spenning på 400 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet med høy kapasitet har en brutto kapasitet på 82,0 kWh og en netto brukbar kapasitet på 79,0 kWh, som gir en 3,0 kWh buffer (3,7%) for batteribeskyttelse. Med en nominell spenning på 400 volt, klassifiseres systemet som et 400-volts batterisystem, i tråd med bransjestandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 592 og 551 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 13,3 kWh/100 km for basismodellen og 14,3 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, varierer kjørelengden mellom 592 til 551 km (368-342 miles), avhengig av spesifikk konfigurasjon og valg, som for eksempel hjulstørrelse. Større hjul kan øke energiforbruket og følgelig redusere total rekkevidde. Bilens energiforbruk er oppgitt til 13,3 kWh/100 km for basismodellen og 14,3 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Maksimal DC-ladehastighet er 205 kW. En full lading fra 0 - 100 % vil ta 66 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 50%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 118kW. Hver ladeøkt vil ta 20 minutter og 42 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 205 kW. Lading fra 0% til 100% tar omtrent 66 minutter, mens et mer typisk scenario fra 10% til 80% tar 29 minutter med en gjennomsnittlig ladehastighet på 116 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 1% til 50%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 118 kW, hvor hver ladeøkt tar omtrent 20 minutter og 42 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 28 kWh/100 km, ville turen ta omtrent 10 timer og 2 minutter. Denne reisen ville kreve to ladestopp fra 1% til 52%, med en total ladetid på 103 minutter.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 28 kWh/100 km, vil turen ta omtrent 10 timer og 2 minutter, og kreve fem ladestopp fra 1% til 52%, totalt 103 minutter ladetid.
 
-### Ombordlader
+### Innebygd lader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 10 minutter med en hjemmelader.
+Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 7 timer og 10 minutter ved bruk av et hjemmeoppsett.
 
-### Ladeport
+### Ladekontakt
 
-Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Ladeporten er plassert på [venstre bakside](../../../../technology/charging/connectors/#rear-side), som gjør det enkelt å bruke ladestasjoner hvor du må rygge inn til laderen. Kontakttypene varierer etter marked: denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. Se fullstendige spesifikasjoner for informasjon om alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivverk
+## Drivlinje
 
-Polestar 2 Long Range Dual Motor har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
+Polestar 2 Long Range Dual Motor har et firehjulsdrift-system drevet av to motorer, en på hver aksel.
 
-### Hjuloppheng
+### Fjæring
 
--opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 151 mm.
+har fast høyde og demping på fjæringen. Bakkeklaring med denne hjulopphenget er 151 mm.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
+Polestar 2 Long Range Dual Motor er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak.
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to modi. Du kan bruke [en-pedalskjøring](../../../../technology/regen/#one-pedal-driving) eller du kan frihjule og bruke de [blandede bremsene](../../../../technology/regen/#manual-regen-using-brake-pedal) til å regenerere. Du kan velge mellom to stoppmodi for en-pedalskjøring. **Hold-modus** stopper kjøretøyet helt ved hjelp av friksjonsbremser og **Creep-modus** beveger bilen sakte fremover.
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [kjøring med én pedal](../../../../technology/regen/#one-pedal-driving) eller du kan frirulle og bruke [kombinerte bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) for å regenerere. Du kan velge mellom to stoppemodi for kjøring med én pedal. **Hold-modus** bringer kjøretøyet til fullstendig stopp ved hjelp av friksjonsbremser og **Kryp-modus** lar bilen bevege seg sakte fremover.
 
-I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det finnes to nivåer av regenerativ bremsing å velge mellom, noe som gir deg mulighet til å tilpasse kjøreopplevelsen etter dine preferanser.
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten av gasspedalen. Det er to nivåer å velge mellom, slik at du kan tilpasse kjøreopplevelsen etter eget ønske.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
-Polestar 2 Long Range Dual Motor, med dimensjoner på 4606 mm i lengde, 1859 mm i bredde og 1652 mm i høyde, tilhører D-segmentet av biler, også kjent som mellomstore eller familiebiler. Disse bilene tilbyr mer plass, komfort og funksjoner enn mindre segmenter, noe som gjør dem egnet for ulike sjåfører. Polestar 2 Long Range Dual Motor er tilgjengelig i totalt 6 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
+Polestar 2 Long Range Dual Motor, med dimensjoner på 4606 mm i lengde, 1859 mm i bredde og 1652 mm i høyde, tilhører D-segmentet. Også kjent som mellomklasse- eller familiebiler, tilbyr disse mer plass, komfort og utstyr enn mindre segmenter, noe som gjør dem egnet for mange sjåfører. Polestar 2 Long Range Dual Motor er tilgjengelig i totalt 6 lakkfarger, inkludert flere slående metallic-lakker.
 
-Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Polestar 2 Long Range Dual Motor, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Polestar 2 Long Range Dual Motor tilbyr flere hjulalternativer i ulike størrelser, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
 - 245/45 dekk på 19" felger
 - 245/40 dekk på 20" felger
 
-Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+Smalere hjul forbedrer forbruket og gir lengre rekkevidde, mens bredere hjul gir bedre veigrep og håndtering.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-type bakluke](../../../../technology/doors/#hatcback-style-liftgate).
 
-Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
+Det er to ulike takalternativer å velge mellom. Som tilvalg kan du bestille denne modellen med et stort panoramatak som strekker seg fra front til bak. Dette glasset får bilens interiør til å føles mer romslig og lyst, noe som kan forbedre stemningen og komforten for passasjerene. Glasset er tonet for å beskytte mot varme fra solen.
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/exteriore_3_st.jpg" title="Polestar 2 Long Range Dual Motor" width="2953" height="2215"  >}}
 
@@ -101,34 +101,34 @@ Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
-Polestar 2 Long Range Dual Motor har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+Polestar 2 Long Range Dual Motor har plass til fem passasjerer med to forseter og en treseters benk bak.
 
 #### Forseter
 
-Polestar 2 Long Range Dual Motor Long Range tilbyr kun én type forsete.
+Polestar 2 Long Range Dual Motor tilbyr bare én type forsete.
 
-Følgende funksjoner er tilgjengelige på **standard** setet.
+Følgende funksjoner er tilgjengelig på **standard** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
-- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofftrekk](../../../../technology/seats/materials/#fabric)
+- Black [stofftrekk](../../../../technology/seats/materials/#fabric)
+- Black [stofftrekk](../../../../technology/seats/materials/#fabric)
+- Gray [stofftrekk](../../../../technology/seats/materials/#fabric)
 - Gray [skinntrekk](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/frontseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="1687"  >}}
 
-#### Seter på andre rad
+#### Andre seterad
 
-Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+Andre seterad har en standard treseter-benk med  deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (standard for ytre seter)
+- [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="2250"  >}}
 
@@ -136,19 +136,19 @@ Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hv
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem.
+Det er ett klimasystem tilgjengelig:
 
-- **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
+- **2-sone klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
-Polestar 2 Long Range Dual Motor inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+Polestar 2 Long Range Dual Motor inkluderer flere funksjoner for å øke komfort og bekvemmelighet:
 
-- **Trådløs lading av telefon**
+- **Trådløs telefonlading**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -156,26 +156,26 @@ Polestar 2 Long Range Dual Motor inkluderer flere funksjoner for å forbedre kom
 
 ## Brukergrensesnitt og kontroll
 
-Polestar 2 Long Range Dual Motor har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
+Polestar 2 Long Range Dual Motor har flere integrerte skjermer. Bak rattet er det et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) øverst.
 
 Viktige skjermdetaljer:
 
 - -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor
-- touch-skjermen øverst på midtkonsollen er 11,2 tommer stor
+- touch-skjermen øverst i midtkonsollen er 11,2 tommer stor
 
-Modellen er ikke tilgjengelig med head-up display.
+Modellen har ikke head-up display.
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/screens_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="2250"  >}}
 
 ### Ratt
 
-Polestar 2 Long Range Dual Motor er utstyrt med en enkelt type ratt:
+Polestar 2 Long Range Dual Motor er utstyrt med én type ratt:
 
-- **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært ratt:** Dette rattet har integrert oppvarming for ekstra komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikk og styre andre viktige funksjoner.
 
 ### Speil
 
-Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+Både utvendige og innvendige speil bruker konvensjonell speilteknologi for å gi klar sikt over området bak kjøretøyet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -183,21 +183,21 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Polestar 2 Long Range Dual Motor.
+Du kan velge mellom to lydsystemer for Polestar 2 Long Range Dual Motor:
 
-- Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt.
-- Med Harman Kardon Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 600 watt.
+- **High Performance:** Har åtte høyttalere og leverer en maksimal effekt på 200 watt.
+- **Harman Kardon Premium Sound:** Har 13 høyttalere og leverer en maksimal effekt på 600 watt.
 
-Modellen har 4 USB-C-tilkoblinger som standard.
+I tillegg har modellen 4 USB-C-tilkoblinger som standard.
 
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Polestar 2 Long Range Dual Motor.
 
-- **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
-- **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
+- **Standard frontlykter:** Disse bruker avansert LED-teknologi som gir lyst og effektivt lys.
+- **LED Matrix frontlykter:** Tilgjengelig som tilvalg, dette adaptive systemet deler den tradisjonelle frontlyktsstrålen inn i dusinvis av mindre stråler som lyskontrolleren kan skru av og på individuelt, og optimaliserer belysningen ved å dimme spesifikke små områder foran.
 
-Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+Baklysene bruker LED-teknologi, som sikrer både god synlighet og energieffektivitet.
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/headlights_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="1766"  >}}
 
@@ -205,30 +205,30 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 ## Avanserte førerassistentsystemer
 
-Polestar 2 Long Range Dual Motor inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
+Polestar 2 Long Range Dual Motor har en rekke standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet for å øke sikkerhet og komfort.
 
-[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funksjon som hjelper sjåfører med å forutse kjøreforhold og spare energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funksjon som hjelper førere med å forutse kjøreforhold og spare energi.
 
 ### Sikkerhetssystemer
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Polestar 2 Long Range Dual Motor, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Polestar 2 Long Range Dual Motor, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
-[**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Polestar 2 Long Range Dual Motor, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
+[**Filholderassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Polestar 2 Long Range Dual Motor, dette systemet hjelper med å hindre kjøretøyet i å drive ut av filen. Den inkluderer også et [**Filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler føreren hvis kjøretøyet beveger seg ut av filen.
 
-[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Polestar 2 Long Range Dual Motor, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Kryssende trafikkvarsling bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Polestar 2 Long Range Dual Motor, dette systemet bruker sensorer for å oppdage kjøretøy som nærmer seg fra siden når man rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Polestar 2 Long Range Dual Motor, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Polestar 2 Long Range Dual Motor, dette førerassistentsystemet hjelper førere med å unngå eller redusere frontkollisjoner.
 
-[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Polestar 2 Long Range Dual Motor, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+[**Automatisk nødbrems (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Polestar 2 Long Range Dual Motor, dette systemet aktiverer bremsene automatisk for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
 ### Kjøreautomatisering
 
 Med standard Pilot Assist nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Filsentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-## Sikkerhets- og tilgangsteknologier
+## Sikkerhet og adgangsteknologi
 
 Polestar 2 Long Range Dual Motor er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
@@ -238,11 +238,11 @@ Polestar 2 Long Range Dual Motor er utstyrt med avanserte sikkerhetsfunksjoner f
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastekapasitet og slepeevne
+## Laste- og tilhengerkapasitet
 
-Bagasjerommet tilbyr en lastekapasitet på 405 liter. Med baksetene nedfelt, utvides dette til 1095 liter. På taket kan du laste opptil 75 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 31 liter.
+Bagasjerommet har en lastekapasitet på 405 liter (14,3 CU FT). Med baksetet nedfelt øker dette til 1095 liter (38,7 CU FT). På taket kan du laste opptil 75 kg (165,3 lbs). I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 31 liter (1,1 CU FT).
 
-Kjøretøyets maksimale vekt er 2520 kg, med en basisvekt på 2025 kg. Dette gir en maksimal lastekapasitet på 495 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 2520 kg (5556 lbs), med en egenvekt på 2025 kg (4464 lbs). Dette tillater en maksimal last på 495 kg (1091 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet.
 
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1500 kg, mens for en ubremset tilhenger er det 750 kg.
+Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med brems er 1500 kg (3307 lbs), og for tilhenger uten brems er det 750 kg (1653 lbs).
 {{< pagenavigation b_url="../" b_title="Polestar 2" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

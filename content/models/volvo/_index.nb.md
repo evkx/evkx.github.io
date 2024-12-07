@@ -1,5 +1,5 @@
 ---
-title: Volvo elektriske modeller
+title: Volvo elbilmodeller
 linktitle: "Volvo"
 description: "Volvo is a Swedish multinational automotive company that produces a range of cars, trucks, buses, and construction equipment. The company was founded in 1927 and has since become known for its commitment to safety, innovation, and sustainability."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Volvo C40 er en crossover tilgjengelig i 3 varianter.
 </p>
-	<a href="c40/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="c40/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Volvo C40 er en crossover tilgjengelig i 3 varianter.
             <div class="col col-12 col-md-6"><p>
 Volvo EC40 er en crossover tilgjengelig i 3 varianter.
 </p>
-	<a href="ec40/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ec40/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -56,9 +56,9 @@ Volvo EC40 er en crossover tilgjengelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volvo EM90 er en premium MPV tilgjengelig i 1 varianter.
+Volvo EM90 er en premium flerbruksbil tilgjengelig i 1 varianter.
 </p>
-	<a href="em90/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="em90/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -73,7 +73,7 @@ Volvo EM90 er en premium MPV tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Volvo EX30 er en crossover tilgjengelig i 3 varianter.
 </p>
-	<a href="ex30/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ex30/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -88,7 +88,7 @@ Volvo EX30 er en crossover tilgjengelig i 3 varianter.
             <div class="col col-12 col-md-6"><p>
 Volvo EX40 er en crossover tilgjengelig i 3 varianter.
 </p>
-	<a href="ex40/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ex40/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -103,7 +103,7 @@ Volvo EX40 er en crossover tilgjengelig i 3 varianter.
             <div class="col col-12 col-md-6"><p>
 Volvo EX90 er en SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="ex90/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ex90/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -118,7 +118,7 @@ Volvo EX90 er en SUV tilgjengelig i 2 varianter.
             <div class="col col-12 col-md-6"><p>
 Volvo XC40 er en crossover tilgjengelig i 3 varianter.
 </p>
-	<a href="xc40/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="xc40/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

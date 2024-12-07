@@ -1,5 +1,5 @@
 ---
-title: Lexus elektriske modeller
+title: Lexus elbilmodeller
 linktitle: "Lexus"
 description: "The Lexus journey begins in 1983, when a Japanese team of engineers, designers and technicians were assigned a secret project that required them to reimagine luxury automotive. They were to set new standards of production in order to build an ambitious new vehicle that would outshine the world's best.  "
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Lexus RZ er en SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="rz/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="rz/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Lexus RZ er en SUV tilgjengelig i 2 varianter.
             <div class="col col-12 col-md-6"><p>
 Lexus UX er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="ux/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ux/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

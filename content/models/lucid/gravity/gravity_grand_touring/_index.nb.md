@@ -1,7 +1,7 @@
 ---
 title: Lucid Gravity Grand Touring
 linktitle: "Gravity Grand Touring"
-description: "Lucid Gravity Grand Touring er en helelektrisk SUV med en EPA rekkevidde på opptil 708 km. EVKX.net har alle detaljene."
+description: "Lucid Gravity Grand Touring er en elektrisk SUV med en EPA rekkevidde på opptil 708 km (440 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,92 +11,92 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/main_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2007"  >}}
 
-Vi har delt vår beskrivelse av Lucid Gravity Grand Touring i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering. Klikk på lenkene nedenfor for å hoppe til ulike områder eller les videre for hele artikkelen. I tillegg tilbyr vi en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [nettanmeldelser](reviews/). Våre seksjoner inkluderer:
 
-- [Ytelse](#ytelse)
-- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivverk (fjæring, bremser, styring)](#drivverk)
-- [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interiør)
-- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
-- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
+- [Ytelse](#section-performance)
+- [Batteri, rekkevidde og lading](#section-battery)
+- [Drivlinje (fjæring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (lakkfarger, hjul ++)](#section-exterior)
+- [Interiør (seter++)](#section-interior)
+- [Brukergrensesnitt og kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lys](#section-lights)
+- [Avanserte førerassistentsystemer](#section-adas)
+- [Lastkapasitet og tilhengerevne](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ytelse
 
-Lucid Gravity Grand Touring leverer en imponerende maksimal effekt på 618 KW (840 hk) og et massivt dreiemoment på 1000 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 3,5 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 250 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
+Lucid Gravity Grand Touring leverer en imponerende maksimal effekt på 618 KW (840 hk/829 bhp) og et massivt totalt dreiemoment på 1000 Nm (738 lb-ft). Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 3,5 sekunder, som viser dens utrolige akselerasjon. I tillegg oppnår den en topphastighet på 250 km/t (155 mph), noe som gjør den til et sant teknisk mesterverk.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 119,0 kWh og en netto brukbar kapasitet på 118,0 kWh, som gir en buffer på 1,0 kWh (0,8%) for batteribeskyttelse. Ved å operere med en nominell spenning på 800 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
+Batteriet med høy kapasitet har en brutto kapasitet på 119,0 kWh og en netto brukbar kapasitet på 118,0 kWh, som gir en 1,0 kWh buffer (0,8%) for batteribeskyttelse. Med en driftsspenning på 800 volt, kvalifiserer det som et 800-volts batterisystem. Denne høye spenningen er avgjørende for systemets ladeegenskaper.
 
-I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 708 km med en energiforbrukshastighet på 16,7 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden, har bilen en rekkevidde på 440 miles (708 km) med et energiforbruk på 3,7 miles per kWh. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 74 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 175kW. Hver ladeøkt vil ta 18 minutter og 12 sekunder. Denne effektive ladekapasiteten gjør Lucid Gravity Grand Touring til et praktisk valg for langdistansereiser.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på  kW. Lading fra 0% til 100% tar omtrent 74 minutter, mens et mer typisk scenario fra 10% til 80% tar 29 minutter med en gjennomsnittlig ladehastighet på 171 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 0% til 45%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 175 kW, hvor hver ladeøkt tar omtrent 18 minutter og 12 sekunder. Denne effektive ladekapasiteten gjør Lucid Gravity Grand Touring til et praktisk alternativ for langdistansekjøring.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 21 kWh/100 km, ville turen ta omtrent 8 timer og 51 minutter. Denne reisen ville kreve to ladestopp fra 0% til 39%, med en total ladetid på 32 minutter.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 21 kWh/100 km, vil turen ta omtrent 8 timer og 51 minutter, og kreve to ladestopp fra 0% til 39%, totalt 32 minutter ladetid.
 
-### Ombordlader
+### Innebygd lader
 
-Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 5 timer og 21 minutter med en hjemmelader.
+Den standard innebygde laderen støtter opptil 22 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 5 timer og 21 minutter ved bruk av et hjemmeoppsett.
 
-### Ladeport
+### Ladekontakt
 
-Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**NACS**](../../../../technology/charging/connectors/#nacs) for Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se fullstendige spesifikasjoner for alle markeder.
+Ladeporten er plassert på [venstre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner hvor du parkerer sidelengs inn mot laderen. Kontakttypene varierer mellom ulike markeder. Denne modellen bruker [**NACS**](../../../../technology/charging/connectors/#nacs) i Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. Se fullstendige spesifikasjoner for informasjon om alle markeder.
 
 ### Toveis lading
 
-Denne modellen støtter V2L (Vehicle 2 Load), som betyr at du kan drive elektrisk utstyr som krever opptil 1,8 kW strøm, inkludert lading av andre kjøretøy.
+Denne modellen støtter V2L (Vehicle to Load), som lar deg drive elektrisk utstyr som krever opptil 1,8 kW strøm, inkludert muligheten til å lade andre kjøretøy.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivverk
+## Drivlinje
 
-Lucid Gravity Grand Touring har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Lucid Gravity Grand Touring har et firehjulsdrift-system drevet av to motorer, en på hver aksel. Motorene som brukes er [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
-### Hjuloppheng
+### Fjæring
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 155 mm.
+Forhjulsopphenget bruker [doble triangelarmer](../../../../technology/suspension/#double-wishbone), mens bakhjulsopphenget er [Multilink](../../../../technology/suspension/#multilink). Standard fjæring inkluderer stålfjærer og hydrauliske dempere. har stålfjæring med fast høyde, men justerbar demping som kan tilpasses kjørestil og veiforhold. Bakkeklaring med denne hjulopphenget er 155 mm.
 
-Du kan bestille Lucid Gravity Grand Touring med en alternativ  hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 155 mm, og maksimum er 220 mm.
+Du kan bestille Lucid Gravity Grand Touring med et alternativt  fjæringssystem. Forhjulsopphenget er [doble triangelarmer](../../../../technology/suspension/#double-wishbone), og bakhjulsopphenget er [Multilink](../../../../technology/suspension/#multilink). Det bruker luftfjæring og hydrauliske dempere. Fjæringen er helautomatisk på for- og bakaksel, slik at høyde og demping kan justeres både manuelt og automatisk. Minimum bakkeklaring er 155 mm, og maksimum er 220 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funksjonen på Lucid Gravity Grand Touring. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som en valgfri-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
+Dynamisk styring er en standard på Lucid Gravity Grand Touring, og varierer styreutvekslingen basert på kjørehastighet for bedre kontroll og komfort. I tillegg er firehjulsstyring tilgjengelig som en valgfri funksjon. Firehjulsstyring reduserer svingradius ved lav hastighet.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 386mm, og de bakre skivene er 381mm.
+Lucid Gravity Grand Touring er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak. Skivene foran måler 386 mm, mens skivene bak er 381 mm.
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) i denne modellen er primært tilrettelagt gjennom [**en-pedalskjøring**](../../../../technology/regen/#one-pedal-driving). I motsetning til noen modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling ikke tilgjengelig her. Systemet stopper bilen helt ved hjelp av friksjonsbremser.
+[Regenerativ bremsing](../../../../technology/regen/) i denne modellen skjer primært gjennom [**kjøring med én pedal**](../../../../technology/regen/#one-pedal-driving). I motsetning til enkelte andre modeller, er ikke [Automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive) eller frirulle tilgjengelig her. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
-Lucid Gravity Grand Touring, med dimensjoner på 5034 mm i lengde, 1999 mm i bredde og 1656 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Lucid Gravity Grand Touring er tilgjengelig i totalt 6 lakkfarger, inkludert både solide og metalliske alternativer.
+Lucid Gravity Grand Touring, med dimensjoner på 5034 mm i lengde, 1999 mm i bredde og 1656 mm i høyde, tilhører store SUVer som tilbyr mest plass, kraft og kapasitet blant SUV-kategoriene, noe som gjør dem egnet for spesifikke sjåfører med unike behov. Lucid Gravity Grand Touring er tilgjengelig i totalt 6 lakkfarger, inkludert både solide og metallic-lakker.
 
-Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lucid Gravity Grand Touring, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Lucid Gravity Grand Touring tilbyr flere hjulalternativer i ulike størrelser, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
 - 265/50 dekk på 20" felger foran og 285/45 dekk på 21" felger bak
 - 265/45 dekk på 21" felger foran og 285/40 dekk på 22" felger bak
 - 265/40 dekk på 21" felger foran og 285/35 dekk på 23" felger bak
 
-Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+Smalere hjul forbedrer forbruket og gir lengre rekkevidde, mens bredere hjul gir bedre veigrep og håndtering.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' er en standard-funksjon for sidedørene. Bakluken er elektrisk drevet.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate). Myk lukking er en standard funksjon for sidedørene. Bakluken er elektrisk.
 
-Det er bare ett tak for denne modellen. Forruten er panoramautsikt tilbake over den første raden. I tillegg er det glasspanel over den andre raden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen. Som et alternativ er dobbeltglass sidevinduer tilgjengelig for å redusere kabinstøy, noe som forbedrer den totale kjøreopplevelsen.
+Det er kun ett takalternativ for denne modellen. Frontruten er panoramisk og strekker seg bakover over første rad. I tillegg er det glasspanel over andre rad. Dette glasset får bilens interiør til å føles mer romslig og lyst, noe som kan forbedre stemningen og komforten for passasjerene. Glasset er tonet for å beskytte mot varme fra solen. Som tilvalg er det tilgjengelig doble sidevinduer som reduserer støy i kupeen og forbedrer kjøreopplevelsen.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/exterior_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="1687"  >}}
 
@@ -106,77 +106,77 @@ Det er bare ett tak for denne modellen. Forruten er panoramautsikt tilbake over 
 
 ## Interiør
 
-Interiøret i Lucid Gravity Grand Touring er designet med en minimalistisk estetikk og har førsteklasses materialer overalt. Det inkluderer også en tradisjonell midtkonsoll som skiller fører og passasjer, og gir praktiske oppbevaringsløsninger og forbedret funksjonalitet. Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
+Interiøret i Lucid Gravity Grand Touring er designet med et minimalistisk uttrykk, med premiummaterialer gjennomgående. Den har også en tradisjonell midtkonsoll som skiller fører og passasjer, med praktiske oppbevaringsløsninger og økt funksjonalitet. Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
-I tillegg tilbyr modellen en tradisjonell fem-seters layout eller en valgfri syv-seter layout.
+Lucid Gravity Grand Touring er tilgjengelig i standard femseterskonfigurasjon, med valgfritt syvseters oppsett for økt fleksibilitet.
 
 #### Forseter
 
-For første rad tilbyr Lucid Gravity Grand Touring to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
+Første seterad tilbyr to setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
-Følgende funksjoner er tilgjengelige på **12-way** setet.
+Følgende funksjoner er tilgjengelig på **12-way** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
+- [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)
+- Høydejusterbar hodestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgjengelig for passasjer)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
 
-Følgende funksjoner er tilgjengelige på **18-way** setet.
+Følgende funksjoner er tilgjengelig på **18-way** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
+- [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)
+- Høydejusterbar hodestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgjengelig for passasjer)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (elektrisk justerbar)
-- [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massasje](../../../../technology/seats/adjustment/#massage)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Justerbar sidestøtte rygg](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (elektrisk justerbart)
+- [Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (elektrisk justerbart)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
+- [Massasje](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/frontseats_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
 
-#### Seter på andre rad
+#### Andre seterad
 
-Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+Andre seterad har en standard treseter-benk med 60:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
-- høydejusterbar hodestøtte (standard for ytre seter)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
+- Høydejusterbar hodestøtte (standard for yttersetene)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/secondrowseats_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
 
-#### Seter på tredje rad
+#### Tredje seterad
 
-Den tredje raden har en valgfri to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
+Tredje rad har en valgfri toseters benk med 50:50 deling. Også her kan du felle ned setene når de ikke er i bruk for å skape større bagasjeplass.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem.
+Det er ett klimasystem tilgjengelig:
 
-- **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
+- **4-sone klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
 
-Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
+Denne modellen har ikke [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
-Lucid Gravity Grand Touring inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+Lucid Gravity Grand Touring inkluderer flere funksjoner for å øke komfort og bekvemmelighet:
 
 - **Elektrisk justerbart ratt**
-- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
-- **Trådløs lading av telefon**
+- **Easy Entry-funksjon:** Flytter førersetet for å gjøre det enklere å komme inn i bilen.
+- **Trådløs telefonlading**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -184,73 +184,73 @@ Lucid Gravity Grand Touring inkluderer flere funksjoner for å forbedre komfort 
 
 ## Brukergrensesnitt og kontroll
 
-Kontrollgrensesnittet for denne elbilmodellen er fokusert rundt skjerminteraksjon og har kun begrenset funksjonalitet tilgjengelig på knapper og spaker. For noen kan dette føre til en mindre enn ideell brukeropplevelse og brukervennlighet.
+Kontrollgrensesnittet for Lucid Gravity Grand Touring er primært fokusert på skjerminteraksjon, med begrenset funksjonalitet tilgjengelig via fysiske knapper og spaker. Dette designet kan resultere i en mindre enn ideell brukeropplevelse for enkelte brukere.
 
 Viktige skjermdetaljer:
 
-- touch-skjermen bak rattet på tvers av midten av dashbordet er 34,0 tommer stor
-- touch-skjermen i midten av midtkonsollen er 12,0 tommer stor
+- touch-skjermen bak rattet og over mot midten av dashbordet er 34,0 tommer stor
+- touch-skjermen midt i midtkonsollen er 12,0 tommer stor
 
-Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri system som projiserer hastighet og annen viktig førerinformasjon på frontruten.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/screens_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2250"  >}}
 
 ### Ratt
 
-Lucid Gravity Grand Touring er utstyrt med en enkelt type ratt:
+Lucid Gravity Grand Touring er utstyrt med én type ratt:
 
-- **Ovalt Ratt:** Dette rattet har valgfri integrert oppvarming for ekstra komfort i kaldt vær. Det inkluderer også haptiske knapper, som lar deg kontrollere infotainmentsystemet, justere volumet, bytte musikkspor og administrere andre viktige funksjoner med letthet.
+- **Ovalt ratt:** Dette rattet har valgfri integrert oppvarming for ekstra komfort i kaldt vær. Det har også haptiske knapper som lar deg kontrollere infotainmentsystemet, justere volumet, bytte musikk og styre andre viktige funksjoner enkelt.
 
 ### Speil
 
-Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+Både utvendige og innvendige speil bruker konvensjonell speilteknologi for å gi klar sikt over området bak kjøretøyet.
 
-Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
+Denne modellen kommer med stemmekontroll som standard, som lar deg styre ulike funksjoner gjennom talekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
-Lucid Gravity Grand Touring har et avansert infotainmentsystem bygget på Android Automotive OS, en plattform fra Google spesielt designet for bilens dashbord. For å forbedre dette robuste systemet har Lucid integrert sin egen suite av applikasjoner, som gir sømløs navigasjon, omfattende bilinnstillinger og mye mer.
+Lucid Gravity Grand Touring har et avansert infotainmentsystem bygget på Android Automotive OS, en plattform fra Google spesielt designet for bildashbord. For å forbedre dette robuste systemet har Lucid integrert sine egne applikasjoner, som gir sømløs navigasjon, omfattende bilinnstillinger og mye mer.
 
 ### Navigasjonssystem
 
 Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon og satellittkart som sikrer en effektiv og stressfri reise.
 
-### App store
+### App-butikk
 
-Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper for å kjøre direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
+Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper som kjører direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer etter marked, men inkluderer populære alternativer som:
 
-- **Spotify:** Strøm millioner av sanger, spillelister og podcaster direkte fra bilens infotainmentsystem, og tilbyr uendelige underholdningsalternativer under kjøringen.
+- **Spotify:** Strøm millioner av sanger, spillelister og podkaster direkte fra bilens infotainmentsystem, som gir endeløse underholdningsmuligheter for kjøreturen.
 - Tidal
-- **TuneIn** Få tilgang til direktesendte radiostasjoner, podkaster og nyheter fra hele verden.
+- **TuneIn:** Få tilgang til direktesendte radiostasjoner, podkaster og nyheter fra hele verden.
 - Alexa
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Lucid Gravity Grand Touring.
+Du kan velge mellom to lydsystemer for Lucid Gravity Grand Touring:
 
 - **Surreal Sound:** Har ti høyttalere.
-- Med Surreal Sound Pro System får du 22 høyttalere med en maksimal systemeffekt på 800 watt.
+- **Surreal Sound Pro System:** Har 22 høyttalere og leverer en maksimal effekt på 800 watt.
 
-Modellen har 4 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
+I tillegg har modellen 4 USB-C-tilkoblinger som standard. Som tilvalg kan du få ytterligere 2 USB-C-tilkoblinger.
 
 ## Mobilapp
 
-Lucid Gravity Grand Touring kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+Lucid Gravity Grand Touring kommer med en dedikert mobilapp, tilgjengelig for både Android og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt på avstand. Appen tilbyr en rekke funksjoner designet for å forbedre kjøreopplevelsen din:
 
-- **Finn kjøretøyet ditt**: Sjekk enkelt den nåværende plasseringen til bilen din.
-- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
-- **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
-- **Juster ladegrense**: Angi ønsket ladetilstand for å starte eller stoppe lading etter behov.
-- **Finn bilen din**: Aktiver hornet eller lysene for å finne bilen din i travle områder.
-- **Ruteplanlegging**: Planlegg ruten din og send den direkte til bilens navigasjonssystem.
+- **Finn bilen din:** Enkelt sjekk bilens nåværende posisjon.
+- **Forkondisjonering:** Forhåndsvarm eller avkjøl bilen før du starter reisen for optimal komfort.
+- **Lås og lås opp:** Lås eller lås opp bildørene sikkert med et tastetrykk.
+- **Juster lademål:** Angi ønsket ladenivå for å starte eller stoppe lading etter behov.
+- **Finn bilen din:** Aktiver horn eller lys for å finne bilen din i tett parkerte områder.
+- **Ruteplanlegging:** Planlegg ruten og send den direkte til bilens navigasjonssystem.
 
 ## Lys
 
-**Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
+**Standard frontlykter:** Disse bruker avansert LED-teknologi som gir lyst og effektivt lys.
 
-Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+Baklysene bruker LED-teknologi, som sikrer både god synlighet og energieffektivitet.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/headlights_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="1999"  >}}
 
@@ -258,95 +258,95 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 ## Avanserte førerassistentsystemer
 
-Lucid Gravity Grand Touring inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
+Lucid Gravity Grand Touring har en rekke standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet for å øke sikkerhet og komfort.
 
 ### Sikkerhetssystemer
 
-[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Lucid Gravity Grand Touring, dette systemet forhindrer hjulene i å låse seg under bremsing.
+[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Lucid Gravity Grand Touring, dette systemet hindrer hjulene i å låse seg under bremsing.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Lucid Gravity Grand Touring, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Lucid Gravity Grand Touring, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
-[**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Lucid Gravity Grand Touring, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
+[**Filholderassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Lucid Gravity Grand Touring, dette systemet hjelper med å hindre kjøretøyet i å drive ut av filen. Den inkluderer også et [**Filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler føreren hvis kjøretøyet beveger seg ut av filen.
 
-[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Lucid Gravity Grand Touring, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+[**Kryssende trafikkvarsling foran (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Lucid Gravity Grand Touring, dette førerassistentsystemet hjelper førere med å oppdage møtende trafikk når de krysser et veikryss eller svinger til venstre eller høyre fra stillestående posisjon.
 
-[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Lucid Gravity Grand Touring, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Lucid Gravity Grand Touring, dette førerassistentsystemet hjelper førere med å unngå eller redusere frontkollisjoner.
 
-[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Lucid Gravity Grand Touring, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+[**Automatisk nødbrems (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Lucid Gravity Grand Touring, dette systemet aktiverer bremsene automatisk for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Lucid Gravity Grand Touring, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
+[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Lucid Gravity Grand Touring, dette systemet hjelper til med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Lucid Gravity Grand Touring, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåking (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Lucid Gravity Grand Touring, dette sideassistentsystemet hjelper med å oppdage trafikk i blindsoner.
 
-[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Lucid Gravity Grand Touring, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
+[**Utstigningsvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Lucid Gravity Grand Touring, dette systemet varsler passasjerer mot å åpne dører hvis det er risiko for å treffe noe.
 
 ### Kjøreautomatisering
 
-Lucid Gravity Grand Touring tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
+Lucid Gravity Grand Touring tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
 
-Med DreamDrive nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med DreamDrive nivå 1-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-Med DreamDrive Premium nivå 1-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+Med DreamDrive Premium nivå 1-systemet får du ytterligere kjøreautomatiseringsfunksjoner i tillegg til de som er nevnt ovenfor:
 
-- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Automatisk filskifte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Med det valgfrie DreamDrive Pro nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
+Med det valgfrie DreamDrive Pro nivå 2-systemet får du ytterligere kjøreautomatiseringsfunksjoner i tillegg til de som er nevnt ovenfor:
 
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- Trafikklys kontroll - følger trafikklysene.
+- [**Filsentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- Trafikklys-kontroll - følger trafikklys.
 
-### Sensorer & Kameraer
+### Sensorer og kameraer
 
-Denne modellen bruker kameraer, radar, LiDAR og ultralydsensorer til sine førerassistentsystemer.
-Opptil fire [radarsensorer](../../../../technology/sensorsandcameras/radar/), en [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+Denne modellen bruker kameraer, radar, LiDAR og ultralydsensorer for sine førerassistentsystemer.
+Opp til fire [radarsensorer](../../../../technology/sensorsandcameras/radar/), én [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
 ## Sikkerhet
 
-Lucid Gravity Grand Touring er utstyrt med flere kollisjonsputer for å sikre beskyttelse av passasjerene i tilfelle en kollisjon. Kollisjonsputesystemet inkluderer:
+Lucid Gravity Grand Touring er utstyrt med flere kollisjonsputer for å sikre beskyttelse av passasjerene ved en kollisjon. Kollisjonsputesystemet inkluderer:
 
-- Frontkollisjonsputer for fører og forsetepassasjer
-- Sidegardinkollisjonsputer for både første og andre rad
-- Sidekollisjonsputer for fører og forsetepassasjer
-- Sidekollisjonsputer for passasjerene i andre rad
-- En front midtkollisjonspute for å forhindre at fører og forsetepassasjer kolliderer med hverandre under en sidekollisjon
+- Frontkollisjonsputer for fører og passasjer
+- Sidekollisjonsgardiner for både første og andre seterad
+- Sidekollisjonsputer for fører og passasjer
+- Sidekollisjonsputer for passasjerene i andre seterad
+- En sentral frontkollisjonspute for å hindre at fører og passasjer kolliderer med hverandre ved sidekollisjon
 
-## Sikkerhets- og tilgangsteknologier
+## Sikkerhet og adgangsteknologi
 
 Lucid Gravity Grand Touring er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
 - **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
-- **Telefon som nøkkelfunksjonalitet:** Med telefon som nøkkelteknologi kan du bruke smarttelefonen som en digital nøkkel for å låse opp og starte kjøretøyet, og gi en ekstra lag av bekvemmelighet og fleksibilitet.
+- **Telefon-som-nøkkel-funksjonalitet:** Med telefon-som-nøkkel-teknologi kan du bruke smarttelefonen din som en digital nøkkel for å låse opp og starte kjøretøyet, noe som gir et ekstra lag med bekvemmelighet og fleksibilitet.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastekapasitet og slepeevne
+## Laste- og tilhengerkapasitet
 
-Bagasjerommet tilbyr en lastekapasitet på 700 liter. Med baksetene nedfelt, utvides dette til 3170 liter. På taket kan du laste opptil 75 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 226 liter.
+Bagasjerommet har en lastekapasitet på 700 liter (24,7 CU FT). Med baksetet nedfelt øker dette til 3170 liter (111,9 CU FT). På taket kan du laste opptil 75 kg (165,3 lbs). I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 226 liter (8,0 CU FT).
 
-Kjøretøyets maksimale vekt er 3280 kg, med en basisvekt på 2500 kg. Dette gir en maksimal lastekapasitet på 780 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 3280 kg (7231 lbs), med en egenvekt på 2500 kg (5512 lbs). Dette tillater en maksimal last på 780 kg (1720 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet.
 
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2721 kg, mens for en ubremset tilhenger er det 750 kg.
+Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med brems er 2721 kg (5999 lbs), og for tilhenger uten brems er det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/trunk_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2000"  >}}
 
-## Tilgjengelighet & pris
+## Tilgjengelighet og priser
 
-Denne modellen hadde sin verdenspremiere den 16.11.2023, med forventede leveranser som starter i March 2025. Vær oppmerksom på at denne modellen kun er tilgjengelig i Nord-Amerika.
+Denne modellen hadde sin verdenspremiere 16.11.2023, og leveringene forventes å starte i March 2025. Vær oppmerksom på at denne modellen kun er tilgjengelig i Nord-Amerika.
 
 ### Priser
 
-Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
+Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er startprisene for utvalgte land:
 
 - $94 900,00 (USA)
 
-## Alternative Modeller
+## Alternative modeller
 
-I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Lucid Gravity Grand Touring som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til Lucid Gravity Grand Touring som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
 - [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
 - [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)

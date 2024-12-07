@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya NISMO
 linktitle: "Ariya NISMO"
-description: "Nissan Ariya NISMO er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 417 km. EVKX.net har alle detaljene."
+description: "Nissan Ariya NISMO er en elektrisk SUV-kupé med en WLTP rekkevidde på opptil 417 km (259 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,84 +11,84 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_nismo/main_1_st.jpg" title="Nissan Ariya NISMO" width="3000" height="1687"  >}}
 
-Vi har delt vår beskrivelse av Nissan Ariya NISMO i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering. Klikk på lenkene nedenfor for å hoppe til ulike områder eller les videre for hele artikkelen. I tillegg tilbyr vi en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [nettanmeldelser](reviews/). Våre seksjoner inkluderer:
 
-- [Ytelse](#ytelse)
-- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivverk (fjæring, bremser, styring)](#drivverk)
-- [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interiør)
-- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
-- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
+- [Ytelse](#section-performance)
+- [Batteri, rekkevidde og lading](#section-battery)
+- [Drivlinje (fjæring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (lakkfarger, hjul ++)](#section-exterior)
+- [Interiør (seter++)](#section-interior)
+- [Brukergrensesnitt og kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lys](#section-lights)
+- [Avanserte førerassistentsystemer](#section-adas)
+- [Lastkapasitet og tilhengerevne](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ytelse
 
-Nissan Ariya NISMO leverer solid ytelse med en maksimal effekt på 320 kW (435 hk) og et totalt dreiemoment på 600 Nm. Den kan akselerere fra 0 til 100 km/t på 5,0 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
+Nissan Ariya NISMO leverer solid ytelse med en maksimal effekt på 320 kW (435 hk / 429 bhp) og et totalt dreiemoment på 600 Nm (443 lb-ft). Den akselererer fra 0 til 100 km/t på 5,0 sekunder og når en topphastighet på 200 km/t (124 mph), noe som gjør den konkurransedyktig i sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 91,0 kWh og en netto brukbar kapasitet på 87,0 kWh, som gir en buffer på 4,0 kWh (4,4%) for batteribeskyttelse. Med en nominell spenning på 352 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet med høy kapasitet har en brutto kapasitet på 91,0 kWh og en netto brukbar kapasitet på 87,0 kWh, som gir en 4,0 kWh buffer (4,4%) for batteribeskyttelse. Med en nominell spenning på 352 volt, klassifiseres systemet som et 400-volts batterisystem, i tråd med bransjestandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 417 km, med et energiforbruk på 20,9 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, er kjørelengden 417 km (259 miles), med et energiforbruk på 20,9 kWh/100 km (3,0 mi/kWh). For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Maksimal DC-ladehastighet er 130 kW. En full lading fra 0 - 100 % vil ta 65 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 96kW. Hver ladeøkt vil ta 28 minutter og 16 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 130 kW. Lading fra 0% til 100% tar omtrent 65 minutter, mens et mer typisk scenario fra 10% til 80% tar 35 minutter med en gjennomsnittlig ladehastighet på 105 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 7% til 59%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 96 kW, hvor hver ladeøkt tar omtrent 28 minutter og 16 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 24,5 kWh/100 km, ville turen ta omtrent 10 timer og 0 minutter. Denne reisen ville kreve to ladestopp fra 6% til 67%, med en total ladetid på 100 minutter.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 24,5 kWh/100 km, vil turen ta omtrent 10 timer og 0 minutter, og kreve tre ladestopp fra 6% til 67%, totalt 100 minutter ladetid.
 
-### Ombordlader
+### Innebygd lader
 
-Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 3 timer og 57 minutter med en hjemmelader.
+Den standard innebygde laderen støtter opptil 22 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 3 timer og 57 minutter ved bruk av et hjemmeoppsett.
 
-### Ladeport
+### Ladekontakt
 
-Plasseringen av ladeporten er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du parkerer siden inn i laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Ladeporten er praktisk plassert på [høyre frontside](../../../../technology/charging/connectors/#front-side), som gjør det enkelt å bruke ladestasjoner hvor du parkerer parallelt med laderen. Kontakttypene varierer etter marked: denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. Se fullstendige spesifikasjoner for informasjon om alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivverk
+## Drivlinje
 
-Nissan Ariya NISMO har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+Nissan Ariya NISMO har et firehjulsdrift-system drevet av to motorer, en på hver aksel. Motorene som brukes er [viklet rotor synkronmotorer](../../../../technology/motors/wrsm/).
 
-### Hjuloppheng
+### Fjæring
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 170 mm.
+Forhjulsopphenget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og bakhjulsopphenget er [Multilink](../../../../technology/suspension/#multilink). Standardfjæringen inkluderer stålfjærer og hydrauliske dempere. standard har fast høyde og demping på fjæringen. Bakkeklaring med denne hjulopphenget er 170 mm.
 
 ### Styring
 
-Dynamisk styring er en valgfri-funksjonen på Nissan Ariya NISMO. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en valgfri på Nissan Ariya NISMO, og varierer styreutvekslingen basert på kjørehastighet for bedre kontroll og komfort.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
+Nissan Ariya NISMO er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak.
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to modi. Du kan bruke [en-pedalskjøring](../../../../technology/regen/#one-pedal-driving) eller du kan frihjule og bruke de [blandede bremsene](../../../../technology/regen/#manual-regen-using-brake-pedal) til å regenerere. Ved lave hastigheter vil en-pedalskjøringsmodus holde bilen sakte fremover.
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [kjøring med én pedal](../../../../technology/regen/#one-pedal-driving) eller du kan frirulle og bruke [kombinerte bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) for å regenerere. Ved lave hastigheter vil kjøring med én pedal holde bilen krypende fremover.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
-Nissan Ariya NISMO, med dimensjoner på 4595 mm i lengde, 1850 mm i bredde og 1660 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Nissan Ariya NISMO er tilgjengelig i totalt 1 lakkfarger, inkludert flere iøynefallende metalliske alternativer. Noen av disse lakkalternativene inkluderer to-tonet lakk hvor taket og den øvre delen av karosseriet er malt i en annen farge, noe som gir et karakteristisk og stilfullt utseende
+Nissan Ariya NISMO, med dimensjoner på 4595 mm i lengde, 1850 mm i bredde og 1660 mm i høyde, tilhører kategorien kompakte SUVer, også kjent som C-SUVer. Disse tilbyr en balanse mellom praktisk bruk og manøvrerbarhet fra mindre kjøretøy og plassen og allsidigheten til større SUVer. Nissan Ariya NISMO er tilgjengelig i totalt 1 lakkfarger, inkludert flere slående metallic-lakker. Noen av disse fargevalene inkluderer tolags-lakk hvor taket og øvre del av karosseriet er lakkert i en annen farge, som gir et særpreget og stilig utseende.
 
-Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Nissan Ariya NISMO, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Nissan Ariya NISMO, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
 - 255/45 dekk på 20" felger
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Løfteporten er elektrisk drevet og har kick-sensor som standard.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate). Bakluken er elektrisk og har bevegelsessensor som standard.
 
-Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
+Det er to ulike takalternativer å velge mellom. Standardtaket er et vanlig tak. Som tilvalg kan du bestille denne modellen med panoramatak. Glasset strekker seg over mesteparten av taket, og passasjerene kan åpne den fremre delen. Dette glasset får bilens interiør til å føles mer romslig og lyst, noe som kan forbedre stemningen og komforten for passasjerene. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-Rutene fra B-stolpen og baksiden er tonet.
+Vinduene fra B-stolpen og bakover er tonede, noe som gir bedre privatliv og reduserer blending og varme fra solen, og gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_nismo/exterior_1_st.jpg" title="Nissan Ariya NISMO" width="3000" height="1687"  >}}
 
@@ -102,51 +102,51 @@ Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
-Nissan Ariya NISMO har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+Nissan Ariya NISMO har plass til fem passasjerer med to forseter og en treseters benk bak.
 
 #### Forseter
 
-Nissan Ariya NISMO Long Range tilbyr kun én type forsete.
+Nissan Ariya NISMO tilbyr bare én type forsete.
 
-Følgende funksjoner er tilgjengelige på **standard** setet.
+Følgende funksjoner er tilgjengelig på **standard** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
-- høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [Minne](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
+- Høydejusterbar hodestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Minne](../../../../technology/seats/adjustment/#seat-memory) (valgfritt)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation) (valgfritt)
 
-Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
-- Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-- Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-- Black [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
-- Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- Black [stoff/kunstskinn-trekk](../../../../technology/seats/materials/#fabric)
+- Gray [stoff/kunstskinn-trekk](../../../../technology/seats/materials/#fabric)
+- Black [mikrofiber/kunstskinn-trekk](../../../../technology/seats/materials/#microfiber)
+- Gray [mikrofiber/kunstskinn-trekk](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_nismo/frontseats_1_st.jpg" title="Nissan Ariya NISMO" width="3000" height="1687"  >}}
 
-#### Seter på andre rad
+#### Andre seterad
 
-Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+Andre seterad har en standard treseter-benk med 60:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem.
+Det er ett klimasystem tilgjengelig:
 
-- **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
+- **2-sone klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
-Nissan Ariya NISMO inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+Nissan Ariya NISMO inkluderer flere funksjoner for å øke komfort og bekvemmelighet:
 
 - **Elektrisk justerbart ratt**
-- **Trådløs lading av telefon**
+- **Trådløs telefonlading**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -154,26 +154,26 @@ Nissan Ariya NISMO inkluderer flere funksjoner for å forbedre komfort og bekvem
 
 ## Brukergrensesnitt og kontroll
 
-Nissan Ariya NISMO har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
+Nissan Ariya NISMO har to skjermer med informasjon for fører og passasjerer. Bak rattet er det et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og på høyre side er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Viktige skjermdetaljer:
 
 - -skjermen bak rattet på venstre side av rammen er 12,3 tommer stor
-- touch-skjermen ved høyre del av den delte rammen er 12,3 tommer stor
+- touch-skjermen på høyre side av den felles rammen er 12,3 tommer stor
 
-Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri system som projiserer hastighet og annen viktig førerinformasjon på frontruten.
 
 ### Ratt
 
-Nissan Ariya NISMO er utstyrt med en enkelt type ratt:
+Nissan Ariya NISMO er utstyrt med én type ratt:
 
-- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært ratt:** Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikk og styre andre viktige funksjoner.
 
 ### Speil
 
-Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+Både utvendige og innvendige speil bruker konvensjonell speilteknologi for å gi klar sikt over området bak kjøretøyet.
 
-Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
+Denne modellen kommer med stemmekontroll som standard, som lar deg styre ulike funksjoner gjennom talekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -181,37 +181,37 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Med en standard innebygd navigasjonssystem har du all hjelpen du trenger for å nå destinasjonen din enkelt.
 
-### Telefonspeiling
+### Telefonspeling
 
-I tillegg støtter Nissan Ariya NISMO Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+Nissan Ariya NISMO støtter Android Auto og Apple CarPlay, som lar deg speile telefonskjermen på bilens skjerm. Denne funksjonaliteten gjør at du kan kjøre apper som Google Maps eller Waze direkte fra telefonen.
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Nissan Ariya NISMO.
+Du kan velge mellom to lydsystemer for Nissan Ariya NISMO:
 
 - **DAB Audiosystem:** Har seks høyttalere.
 - **BOSE Premium Sound System:** Har ti høyttalere.
 
 ## Mobilapp
 
-Nissan Ariya NISMO kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+Nissan Ariya NISMO kommer med en dedikert mobilapp, tilgjengelig for både Android og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt på avstand. Appen tilbyr en rekke funksjoner designet for å forbedre kjøreopplevelsen din:
 
-- **Finn kjøretøyet ditt**: Sjekk enkelt den nåværende plasseringen til bilen din.
-- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
-- **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
-- **Finn bilen din**: Aktiver hornet eller lysene for å finne bilen din i travle områder.
-- **Kjørelogg**: Gå gjennom detaljer om dine tidligere turer.
+- **Finn bilen din:** Enkelt sjekk bilens nåværende posisjon.
+- **Forkondisjonering:** Forhåndsvarm eller avkjøl bilen før du starter reisen for optimal komfort.
+- **Lås og lås opp:** Lås eller lås opp bildørene sikkert med et tastetrykk.
+- **Finn bilen din:** Aktiver horn eller lys for å finne bilen din i tett parkerte områder.
+- **Kjørehistorikk:** Se detaljer om tidligere turer.
 
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Nissan Ariya NISMO.
 
-- **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
-- **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
+- **Standard frontlykter:** Disse bruker avansert LED-teknologi som gir lyst og effektivt lys.
+- **LED Matrix frontlykter:** Tilgjengelig som tilvalg, dette adaptive systemet deler den tradisjonelle frontlyktsstrålen inn i dusinvis av mindre stråler som lyskontrolleren kan skru av og på individuelt, og optimaliserer belysningen ved å dimme spesifikke små områder foran.
 
-Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+Baklysene bruker LED-teknologi, som sikrer både god synlighet og energieffektivitet.
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_nismo/headlights_1_st.JPG" title="Nissan Ariya NISMO" width="3000" height="2001"  >}}
 
@@ -219,33 +219,33 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 ## Avanserte førerassistentsystemer
 
-Nissan Ariya NISMO inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
+Nissan Ariya NISMO har en rekke standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet for å øke sikkerhet og komfort.
 
 ### Sikkerhetssystemer
 
-[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Nissan Ariya NISMO, dette systemet forhindrer hjulene i å låse seg under bremsing.
+[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Nissan Ariya NISMO, dette systemet hindrer hjulene i å låse seg under bremsing.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Nissan Ariya NISMO, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Nissan Ariya NISMO, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
-[**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Nissan Ariya NISMO, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
+[**Filholderassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Nissan Ariya NISMO, dette systemet hjelper med å hindre kjøretøyet i å drive ut av filen. Den inkluderer også et [**Filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler føreren hvis kjøretøyet beveger seg ut av filen.
 
-[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfri på Nissan Ariya NISMO, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+[**Kryssende trafikkvarsling foran (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Valgfritt på Nissan Ariya NISMO, dette førerassistentsystemet hjelper førere med å oppdage møtende trafikk når de krysser et veikryss eller svinger til venstre eller høyre fra stillestående posisjon.
 
-[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfri på Nissan Ariya NISMO, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfritt på Nissan Ariya NISMO, dette førerassistentsystemet hjelper førere med å unngå eller redusere frontkollisjoner.
 
-[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Nissan Ariya NISMO, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+[**Automatisk nødbrems (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Nissan Ariya NISMO, dette systemet aktiverer bremsene automatisk for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Nissan Ariya NISMO, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåking (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Nissan Ariya NISMO, dette sideassistentsystemet hjelper med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 
 Med standard ProPILOT nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
+- [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Filsentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfritt)
 
-## Sikkerhets- og tilgangsteknologier
+## Sikkerhet og adgangsteknologi
 
 Nissan Ariya NISMO er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
@@ -255,24 +255,24 @@ Nissan Ariya NISMO er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastekapasitet og slepeevne
+## Laste- og tilhengerkapasitet
 
-Bagasjerommet tilbyr en lastekapasitet på 415 liter. Med baksetene nedfelt, utvides dette til 1280 liter. På taket kan du laste opptil 75 kg.
+Bagasjerommet har en lastekapasitet på 415 liter (14,7 CU FT). Med baksetet nedfelt øker dette til 1280 liter (45,2 CU FT). På taket kan du laste opptil 75 kg (165,3 lbs).
 
-Kjøretøyets maksimale vekt er 2665 kg, med en basisvekt på 2293 kg. Dette gir en maksimal lastekapasitet på 372 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 372 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
+Kjøretøyets maksimale vekt er 2665 kg (5875 lbs), med en egenvekt på 2293 kg (5055 lbs). Dette tillater en maksimal last på 372 kg (820 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet. 372kg regnes som lavt for denne typen bil og kan begrense hvor mye du kan ta med i tillegg til passasjerer.
 
-Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
+Denne modellen er ikke tilgjengelig med tilhengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_nismo/trunk_1_st.JPG" title="Nissan Ariya NISMO" width="3000" height="1999"  >}}
 
-## Tilgjengelighet & pris
+## Tilgjengelighet og priser
 
 Vær oppmerksom på at denne modellen kun er tilgjengelig i Nord-Amerika.
 
 ### Priser
 
-Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
+Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er startprisene for utvalgte land:
 
-- 534 400,00 NOK (Norge)
+- 534 400,00 kr (Norge)
 
 {{< pagenavigation b_url="../" b_title="Nissan Ariya" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

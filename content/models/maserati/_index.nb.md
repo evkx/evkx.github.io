@@ -1,5 +1,5 @@
 ---
-title: Maserati elektriske modeller
+title: Maserati elbilmodeller
 linktitle: "Maserati"
 description: "Maserati, the iconic Italian luxury car brand, has a comprehensive EV strategy as part of its commitment to electrification and sustainable growth. The brand has confirmed its dedication to a 100% Engineered and Made in Italy strategic plan, which is focused on bold electrification. Maserati is the first Italian luxury brand to develop and produce all-electric vehicles, and it's driving through a sustainable long-term profitable growth plan centered on consistent brand and product evolution."
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Maserati GranCabrio er en luksus cabriolet tilgjengelig i 1 varianter.
+Maserati GranCabrio er en luksus-kabriolet tilgjengelig i 1 varianter.
 </p>
-	<a href="grancabrio/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="grancabrio/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Maserati GranCabrio er en luksus cabriolet tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Maserati Grecale er en luksus-SUV tilgjengelig i 1 varianter.
 </p>
-	<a href="grecale/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="grecale/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

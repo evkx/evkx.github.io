@@ -1,7 +1,7 @@
 ---
 title: Nio EL8
 linktitle: "EL8"
-description: "Nio EL8 er en helelektrisk SUV med en WLTP rekkevidde på opptil 510 km. EVKX.net har alle detaljene."
+description: "Nio EL8 er en elektrisk SUV med en WLTP rekkevidde på opptil 510 km (317 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,122 +11,122 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/nio/el8/el8/main_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
-Vi har delt vår beskrivelse av Nio EL8 i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering. Klikk på lenkene nedenfor for å hoppe til ulike områder eller les videre for hele artikkelen. I tillegg tilbyr vi en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [nettanmeldelser](reviews/). Våre seksjoner inkluderer:
 
-- [Ytelse](#ytelse)
-- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivverk (fjæring, bremser, styring)](#drivverk)
-- [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interiør)
-- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
-- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
+- [Ytelse](#section-performance)
+- [Batteri, rekkevidde og lading](#section-battery)
+- [Drivlinje (fjæring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (lakkfarger, hjul ++)](#section-exterior)
+- [Interiør (seter++)](#section-interior)
+- [Brukergrensesnitt og kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lys](#section-lights)
+- [Avanserte førerassistentsystemer](#section-adas)
+- [Lastkapasitet og tilhengerevne](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ytelse
 
-Nio EL8 imponerer med en imponerende kraft på 480 kW (653 hk) og et betydelig dreiemoment på 850 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,1 sekunder og har en toppfart på 200 km/t, noe som gjør den til en markant modell i sin klasse.
+Nio EL8 har imponerende kraft med en maksimal effekt på 480 kW (653 hk / 644 bhp) og et kommanderende totalt dreiemoment på 850 Nm (627 lb-ft). Denne høyytelsesmaskinen kan sprinte fra 0 til 100 km/t på bare 4,1 sekunder, og den når en topphastighet på 200 km/t (124 mph), noe som gjør den til en utmerket i sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
-Nio EL8 har to batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading.
+Nio EL8 er tilgjengelig med to batterialternativer, som hver tilbyr ulike spesifikasjoner og ytelsesmålinger.
 
 ### 100kWh CALB NCM
 
-Høykapasitetsbatteriet har en brutto kapasitet på 100,0 kWh og en netto brukbar kapasitet på 90,0 kWh, som gir en buffer på 10,0 kWh (10,0%) for batteribeskyttelse. Med en nominell spenning på 358 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Batteriet med høy kapasitet har en brutto kapasitet på 100,0 kWh og en netto brukbar kapasitet på 90,0 kWh, som gir en 10,0 kWh buffer (10,0%) for batteribeskyttelse. Med en nominell spenning på 358 volt, klassifiseres systemet som et 400-volts batterisystem, i tråd med bransjestandarder.
 
-I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 510 og 493 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 17,6 kWh/100 km for basismodellen og 18,3 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, varierer kjørelengden mellom 510 til 493 km (317-306 miles), avhengig av spesifikk konfigurasjon og valg, som for eksempel hjulstørrelse. Større hjul kan øke energiforbruket og følgelig redusere total rekkevidde. Bilens energiforbruk er oppgitt til 17,6 kWh/100 km for basismodellen og 18,3 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Maksimal DC-ladehastighet er 240 kW. En full lading fra 0 - 100 % vil ta 63 minutter, mens et mer vanlig scenario på 10-80 % vil ta 22 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 147kW. Hver ladeøkt vil ta 20 minutter og 16 sekunder. Denne effektive ladekapasiteten gjør Nio EL8 til et praktisk valg for langdistansereiser.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 240 kW. Lading fra 0% til 100% tar omtrent 63 minutter, mens et mer typisk scenario fra 10% til 80% tar 22 minutter med en gjennomsnittlig ladehastighet på 176 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 8% til 63%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 147 kW, hvor hver ladeøkt tar omtrent 20 minutter og 16 sekunder. Denne effektive ladekapasiteten gjør Nio EL8 til et praktisk alternativ for langdistansekjøring.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 24,5 kWh/100 km, ville turen ta omtrent 9 timer og 24 minutter. Denne reisen ville kreve to ladestopp fra 8% til 66%, med en total ladetid på 64 minutter.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 24,5 kWh/100 km, vil turen ta omtrent 9 timer og 24 minutter, og kreve tre ladestopp fra 8% til 66%, totalt 64 minutter ladetid.
 
 ### 75kWh
 
-Høykapasitetsbatteriet har en brutto kapasitet på 75,0 kWh og en netto brukbar kapasitet på 70,5 kWh, som gir en buffer på 4,5 kWh (6,0%) for batteribeskyttelse. Med en nominell spenning på 386 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Batteriet med høy kapasitet har en brutto kapasitet på 75,0 kWh og en netto brukbar kapasitet på 70,5 kWh, som gir en 4,5 kWh buffer (6,0%) for batteribeskyttelse. Med en nominell spenning på 386 volt, klassifiseres systemet som et 400-volts batterisystem, i tråd med bransjestandarder.
 
-I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 390 og 379 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 17,6 kWh/100 km for basismodellen og 18,3 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, varierer kjørelengden mellom 390 til 379 km (242-236 miles), avhengig av spesifikk konfigurasjon og valg, som for eksempel hjulstørrelse. Større hjul kan øke energiforbruket og følgelig redusere total rekkevidde. Bilens energiforbruk er oppgitt til 17,6 kWh/100 km for basismodellen og 18,3 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Maksimal DC-ladehastighet er 140 kW. En full lading fra 0 - 100 % vil ta 66 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 74%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 75kW. Hver ladeøkt vil ta 38 minutter og 39 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 140 kW. Lading fra 0% til 100% tar omtrent 66 minutter, mens et mer typisk scenario fra 10% til 80% tar 35 minutter med en gjennomsnittlig ladehastighet på 85 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 7% til 74%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 75 kW, hvor hver ladeøkt tar omtrent 38 minutter og 39 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 24,5 kWh/100 km, ville turen ta omtrent 10 timer og 39 minutter. Denne reisen ville kreve to ladestopp fra 7% til 69%, med en total ladetid på 140 minutter.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 24,5 kWh/100 km, vil turen ta omtrent 10 timer og 39 minutter, og kreve fire ladestopp fra 7% til 69%, totalt 140 minutter ladetid.
 
-### Ombordlader
+### Innebygd lader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 8 timer og 10 minutter med en hjemmelader.
+Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 8 timer og 10 minutter ved bruk av et hjemmeoppsett.
 
-### Ladeport
+### Ladekontakt
 
-Plasseringen av ladeporten er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du parkerer siden inn i laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Ladeporten er praktisk plassert på [høyre frontside](../../../../technology/charging/connectors/#front-side), som gjør det enkelt å bruke ladestasjoner hvor du parkerer parallelt med laderen. Kontakttypene varierer etter marked: denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. Se fullstendige spesifikasjoner for informasjon om alle markeder.
 
-### Batteribytte
+### Batteribytting
 
-Denne modellen støtter batteribytte. Batteribytte betyr at du kan kjøre til en unik batteribyttestasjon og få batteriet erstattet med et nytt batteri med 90 % SOC. Batteribyttet tar 7 minutter.
+Denne modellen støtter batteribytting. Batteribytting betyr at du kan kjøre til en spesiell batteribyttestasjon og få batteriet erstattet med et nytt batteri med 90% lading. Batteribyttet tar 7 minutter.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivverk
+## Drivlinje
 
-Nio EL8 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på forakselen og [induksjonsmotorer](../../../../technology/motors/asm/) på bakakselen.
+Nio EL8 har et firehjulsdrift-system drevet av to motorer, en på hver aksel. Motorene som brukes er [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/) på forakselen og [induksjonsmotorer](../../../../technology/motors/asm/) på bakakselen.
 
-### Hjuloppheng
+### Fjæring
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 110 mm, og maksimum er 200 mm.
+Forhjulsopphenget er [doble triangelarmer](../../../../technology/suspension/#double-wishbone), og bakhjulsopphenget er [Multilink](../../../../technology/suspension/#multilink). Det bruker luftfjæring og hydrauliske dempere. Fjæringen er helautomatisk på for- og bakaksel, slik at høyde og demping kan justeres både manuelt og automatisk. Minimum bakkeklaring er 110 mm, og maksimum er 200 mm.
 
-Easy Entry-funksjonen hever automatisk bilens karosseri når en dør åpnes, noe som letter inn- og utstigning. Når døren lukkes, senkes karosseriet tilbake til forrige nivå.
+Easy Entry-funksjonen hever bilens karosseri automatisk når en dør åpnes, noe som gjør det enklere å komme inn og ut. Når døren lukkes, går karosseriet tilbake til forrige nivå.
 
-For enklere lasting kan luftfjæringen senkes ved hjelp av kontroller i bagasjerommet.
+For enklere lasting kan du senke luftfjæringen fra baksiden
 
 ### Styring
 
-Dynamisk styring er en standard-funksjonen på Nio EL8. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard på Nio EL8, og varierer styreutvekslingen basert på kjørehastighet for bedre kontroll og komfort.
 
 ### Kjøremoduser
 
-Nio EL8 lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 5 moduser:
+Nio EL8 lar brukeren velge ulike [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens håndtering. Føreren kan velge mellom 5 moduser:
 
 - Sport+: Dynamisk styring, lav fjæring med dynamisk gasspådrag og fjæring. Lav regenerativ bremsing.
 - Sport: Balansert styring, laveste fjæringshøyde med balansert gasspådrag og demping. Lav regenerativ bremsing.
-- Comfort: Komfort styring, normal fjæringshøyde med balansert gasspådrag og komfort demping. Lav regenerativ bremsing.
-- ECO: Komfort styring, normal fjæringshøyde med effektivt gasspådrag og komfort demping. Middels regenerativ bremsing.
-- Custom: Brukerdefinerte innstillinger for styring, fjæring, gassrespons og regenerativ bremsing.
+- Comfort: Komfortabel styring, normal fjæringshøyde med balansert gasspådrag, og komfortabel fjæringsdemping. Lav regenerativ bremsing.
+- ECO: Komfortabel styring, normal fjæringshøyde med effektiv gasspådrag, og komfortabel fjæringsdemping. Middels regenerativ bremsing.
+- Custom: Brukerdefinerte innstillinger for styring, fjæring, gasspådrag og regenerativ bremsing.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
+Nio EL8 er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak.
 
 ### Regenerativ bremsing
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. Imidlertid blir [regenerativ bremsing](../../../../technology/regen/) muliggjort gjennom [**enpedals kjøring**](../../../../technology/regen/#one-pedal-driving) kombinert med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Ved lave hastigheter vil en-pedalskjøringsmodus holde bilen sakte fremover.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. [Regenerativ bremsing](../../../../technology/regen/) skjer via [**kjøring med én pedal**](../../../../technology/regen/#one-pedal-driving) kombinert med [**kombinerte bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Ved lave hastigheter vil kjøring med én pedal holde bilen krypende fremover.
 
-I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det finnes tre nivåer av regenerativ bremsing å velge mellom, noe som gir deg mulighet til å tilpasse kjøreopplevelsen etter dine preferanser.
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten av gasspedalen. Det er tre nivåer å velge mellom, slik at du kan tilpasse kjøreopplevelsen etter eget ønske.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
-Nio EL8, med dimensjoner på 5099 mm i lengde, 1989 mm i bredde og 1750 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Nio EL8 er tilgjengelig i totalt 5 ensfargede lakkfarger.
+Nio EL8, med dimensjoner på 5099 mm i lengde, 1989 mm i bredde og 1750 mm i høyde, tilhører store SUVer som tilbyr mest plass, kraft og kapasitet blant SUV-kategoriene, noe som gjør dem egnet for spesifikke sjåfører med unike behov. Nio EL8 er tilgjengelig i totalt 5 solide lakkfarger.
 
-Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Nio EL8, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Nio EL8 tilbyr flere hjulalternativer i ulike størrelser, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
 - 265/50 dekk på 20" felger
 - 265/45 dekk på 21" felger
 - 265/40 dekk på 22" felger
 
-Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+Smalere hjul forbedrer forbruket og gir lengre rekkevidde, mens bredere hjul gir bedre veigrep og håndtering.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' er en standard-funksjon for sidedørene. Løfteporten er elektrisk drevet og har kick-sensor som standard.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate). Myk lukking er en standard funksjon for sidedørene. Bakluken er elektrisk og har bevegelsessensor som standard.
 
-Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
+Det er kun ett takalternativ for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset får bilens interiør til å føles mer romslig og lyst, noe som kan forbedre stemningen og komforten for passasjerene. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-Rutene fra B-stolpen og baksiden er tonet.
+Vinduene fra B-stolpen og bakover er tonede, noe som gir bedre privatliv og reduserer blending og varme fra solen, og gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/nio/el8/el8/exterior_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -136,88 +136,88 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Interiøret i Nio EL8 er designet med en minimalistisk estetikk og har førsteklasses materialer overalt. Den todelte midtkonsollen skiller fører og passasjer og tilbyr praktiske oppbevaringsmuligheter og forbedret funksjonalitet. Du kan velge mellom flere interiørdesign.
+Interiøret i Nio EL8 er designet med et minimalistisk uttrykk, med premiummaterialer gjennomgående. Midtkonsollen i to nivåer skiller fører og passasjer, og gir praktiske oppbevaringsmuligheter og økt funksjonalitet. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
-Seteoppsettet er seks seter med to foran, to kapteinstoler på andre rad, og en to-seters benk på tredje rad.
+Seteoppsettet er seks seter med to foran, to kapteinsseter i andre rad, og en toseters benk i tredje rad.
 
 #### Forseter
 
-Nio EL8 Long Range tilbyr kun én type forsete.
+Nio EL8 tilbyr bare én type forsete.
 
-Følgende funksjoner er tilgjengelige på **standard** setet.
+Følgende funksjoner er tilgjengelig på **standard** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- høydejusterbar hodestøtte (elektrisk justerbar)
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
+- [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)
+- Høydejusterbar hodestøtte (elektrisk justerbart)
+- [Varme](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (elektrisk justerbar)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massasje](../../../../technology/seats/adjustment/#massage)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support) (standard for passasjersete)
-- [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest) (standard for passasjersete)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Justerbar sidestøtte rygg](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (elektrisk justerbart)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
+- [Massasje](../../../../technology/seats/adjustment/#massage)
+- [Benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support) (standard for passasjersete)
+- [Fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest) (standard for passasjersete)
 
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
-- DarkGray [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Brown [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Beige [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- DarkGray [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
+- Brown [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
+- Beige [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
-#### Seter på andre rad
+#### Andre seterad
 
-Du kan velge to setetyper for den andre raden i Nio EL8.
+Du kan velge mellom to setetyper for andre rad i Nio EL8.
 
-Alternativet standard er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
+standard alternativet er to kapteinsseter. Andre funksjoner inkluderer:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
+- Høydejusterbar hodestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
-Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
+second alternativet er to kapteinsseter. Andre funksjoner inkluderer:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massasje](../../../../technology/seats/adjustment/#massage)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
+- Høydejusterbar hodestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
+- [Massasje](../../../../technology/seats/adjustment/#massage)
+- [Benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
-#### Seter på tredje rad
+#### Tredje seterad
 
-Den tredje raden har en to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
+Tredje rad har en toseters benk med 50:50 deling. Også her kan du felle ned setene når de ikke er i bruk for å skape større bagasjeplass.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem.
+Det er ett klimasystem tilgjengelig:
 
-- **5-soners klimasystem:** Støtter forskjellige temperaturer i fem soner. Fører, passasjer og to soner på 2. rad og en i 3. rad.
+- **5-sone klimasystem:** Støtter forskjellige temperaturer i fem soner. Fører, passasjer, to soner i 2. rad og én i 3. rad.
 
-En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
-Nio EL8 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+Nio EL8 inkluderer flere funksjoner for å øke komfort og bekvemmelighet:
 
 - **Elektrisk justerbart ratt**
-- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
-- **Trådløs lading av telefon**
+- **Easy Entry-funksjon:** Flytter førersetet for å gjøre det enklere å komme inn i bilen.
+- **Trådløs telefonlading**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -225,147 +225,147 @@ Nio EL8 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 ## Brukergrensesnitt og kontroll
 
-Kontrollgrensesnittet for denne elbilmodellen er fokusert rundt skjerminteraksjon og har kun begrenset funksjonalitet tilgjengelig på knapper og spaker. For noen kan dette føre til en mindre enn ideell brukeropplevelse og brukervennlighet.
+Kontrollgrensesnittet for Nio EL8 er primært fokusert på skjerminteraksjon, med begrenset funksjonalitet tilgjengelig via fysiske knapper og spaker. Dette designet kan resultere i en mindre enn ideell brukeropplevelse for enkelte brukere.
 
 Viktige skjermdetaljer:
 
 - -skjermen bak rattet montert i dashbordet er 9,8 tommer stor
-- touch-skjermen i midten av midtkonsollen er 11,3 tommer stor
+- touch-skjermen midt i midtkonsollen er 11,3 tommer stor
 
-Et head-up display er en standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en standard system som projiserer hastighet og annen viktig førerinformasjon på frontruten.
 
 {{< sitefiguresized thumb="models/nio/el8/el8/screens_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 ### Ratt
 
-Nio EL8 er utstyrt med en enkelt type ratt:
+Nio EL8 er utstyrt med én type ratt:
 
-- **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært ratt:** Dette rattet har integrert oppvarming for ekstra komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikk og styre andre viktige funksjoner.
 
 ### Speil
 
-Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+Både utvendige og innvendige speil bruker konvensjonell speilteknologi for å gi klar sikt over området bak kjøretøyet.
 
-Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
+Denne modellen kommer med stemmekontroll som standard, som lar deg styre ulike funksjoner gjennom talekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
-Nio EL8 har et infotainmentsystem kalt NIO SkyOS, designet for å gi et brukervennlig grensesnitt med en rekke funksjoner og tjenester for å forbedre kjøreopplevelsen. Dette systemet inkluderer ulike apper og tjenester, som navigasjon, musikkstrømming og kjøretøyinnstillinger, alt tilgjengelig via berøringsskjermen. Det støtter også over-the-air oppdateringer, som sikrer at kjøretøyet forblir oppdatert med de nyeste funksjonene og forbedringene.
+Nio EL8 har et infotainmentsystem kalt NIO SkyOS, designet for å gi et brukervennlig grensesnitt med mange funksjoner som forbedrer kjøreopplevelsen. Dette systemet inkluderer ulike apper og tjenester som navigasjon, musikkstrømming og bilinnstillinger, alt tilgjengelig via berøringsskjermen. Det støtter også programvareoppdateringer over nettet, slik at bilen alltid har de nyeste funksjonene og forbedringene.
 
 ### Navigasjonssystem
 
-Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging hvor du kan definere ønsket ladingsnivå ved din destinasjon eller under ladestopp. Systemet gir sanntids trafikkinformasjon som sikrer en effektiv og stressfri reise.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging, hvor du kan definere ønsket ladenivå ved destinasjon eller under ladestopp. Systemet gir sanntids trafikkinformasjon som sikrer en effektiv og stressfri reise.
 
-### Forhåndsinstallerte Apper
+### Forhåndsinstallerte apper
 
-Selv om infotainmentsystemet ikke inkluderer en appbutikk, leveres det med et utvalg av forhåndsinstallerte tredjepartsapper som kjører direkte på bilens skjerm, uavhengig av en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
+Selv om infotainmentsystemet ikke har en app-butikk, kommer det med et utvalg forhåndsinstallerte tredjepartsapper som kjører direkte på bilens skjerm, uavhengig av en tilkoblet telefon. Tilgjengelige apper varierer etter marked, men inkluderer populære alternativer som:
 
-- **Spotify:** Strøm millioner av sanger, spillelister og podcaster direkte fra bilens infotainmentsystem, og tilbyr uendelige underholdningsalternativer under kjøringen.
+- **Spotify:** Strøm millioner av sanger, spillelister og podkaster direkte fra bilens infotainmentsystem, som gir endeløse underholdningsmuligheter for kjøreturen.
 - **Tidal**
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Nio EL8.
+Nio EL8 kommer med ett lydsystem:
 
-- Med Premium sound system får du 23 høyttalere med en maksimal systemeffekt på 2230 watt.
+- **Premium sound system:** Har 23 høyttalere og leverer en maksimal effekt på 2230 watt.
 
-Modellen har 3 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
+I tillegg har modellen 3 USB-C-tilkoblinger som standard. Som tilvalg kan du få ytterligere 2 USB-C-tilkoblinger.
 
 ## Mobilapp
 
-Nio EL8 kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+Nio EL8 kommer med en dedikert mobilapp, tilgjengelig for både Android og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt på avstand. Appen tilbyr en rekke funksjoner designet for å forbedre kjøreopplevelsen din:
 
-- **Finn kjøretøyet ditt**: Sjekk enkelt den nåværende plasseringen til bilen din.
-- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
-- **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
-- **Vinduskontroll**: Åpne og lukk vinduene fra hvor som helst.
-- **Planlagt lading**: Planlegg og tidsbestem ladeøkter før turene dine.
-- **Juster ladegrense**: Angi ønsket ladetilstand for å starte eller stoppe lading etter behov.
-- **Finn bilen din**: Aktiver hornet eller lysene for å finne bilen din i travle områder.
-- **Ruteplanlegging**: Planlegg ruten din og send den direkte til bilens navigasjonssystem.
+- **Finn bilen din:** Enkelt sjekk bilens nåværende posisjon.
+- **Forkondisjonering:** Forhåndsvarm eller avkjøl bilen før du starter reisen for optimal komfort.
+- **Lås og lås opp:** Lås eller lås opp bildørene sikkert med et tastetrykk.
+- **Vinduskontroll:** Åpne og lukke vinduer fra hvor som helst.
+- **Planlagt lading:** Planlegg og tidsinnstill ladeøkter før reisene dine.
+- **Juster lademål:** Angi ønsket ladenivå for å starte eller stoppe lading etter behov.
+- **Finn bilen din:** Aktiver horn eller lys for å finne bilen din i tett parkerte områder.
+- **Ruteplanlegging:** Planlegg ruten og send den direkte til bilens navigasjonssystem.
 
 ## Lys
 
-Standard frontlykter bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å dempe små områder foran. For økt sikkerhet inkluderer det hjørnelys som lyser opp siden når du svinger.
+Standardfrontlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle frontlyktsstrålen inn i dusinvis av mindre stråler som lyskontrolleren kan skru av og på individuelt for å dimme små områder foran. For økt sikkerhet inkluderer det svinglys som lyser opp siden når du svinger.
 
-Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+Baklysene bruker LED-teknologi, som sikrer både god synlighet og energieffektivitet.
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Avanserte førerassistentsystemer
 
-Nio EL8 inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
+Nio EL8 har en rekke standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet for å øke sikkerhet og komfort.
 
 ### Sikkerhetssystemer
 
-[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Nio EL8, dette systemet forhindrer hjulene i å låse seg under bremsing.
+[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Nio EL8, dette systemet hindrer hjulene i å låse seg under bremsing.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Nio EL8, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Nio EL8, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
-[**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Nio EL8, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
+[**Filholderassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Nio EL8, dette systemet hjelper med å hindre kjøretøyet i å drive ut av filen. Den inkluderer også et [**Filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler føreren hvis kjøretøyet beveger seg ut av filen.
 
-[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Nio EL8, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+[**Kryssende trafikkvarsling foran (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Nio EL8, dette førerassistentsystemet hjelper førere med å oppdage møtende trafikk når de krysser et veikryss eller svinger til venstre eller høyre fra stillestående posisjon.
 
-[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Nio EL8, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Kryssende trafikkvarsling bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Nio EL8, dette systemet bruker sensorer for å oppdage kjøretøy som nærmer seg fra siden når man rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Nio EL8, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Nio EL8, dette førerassistentsystemet hjelper førere med å unngå eller redusere frontkollisjoner.
 
-[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Nio EL8, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+[**Automatisk nødbrems (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Nio EL8, dette systemet aktiverer bremsene automatisk for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Nio EL8, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåking (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Nio EL8, dette sideassistentsystemet hjelper med å oppdage trafikk i blindsoner.
 
-[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Nio EL8, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
+[**Utstigningsvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Nio EL8, dette systemet varsler passasjerer mot å åpne dører hvis det er risiko for å treffe noe.
 
 ### Kjøreautomatisering
 
 Med standard NIO Pilot Complete Pack nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
-- Avansert cruisekontroll som følger navigasjonen og slår av og på på hovedveier for å nå målet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Filsentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- Avansert cruisekontroll som følger navigasjon og slår seg av og på hovedveier for å nå målet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatisk filskifte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-### Sensorer & Kameraer
+### Sensorer og kameraer
 
-Denne modellen bruker kameraer, LiDAR og ultralydsensorer til sine førerassistentsystemer.
-Opptil en [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+Denne modellen bruker kameraer, LiDAR og ultralydsensorer for sine førerassistentsystemer.
+Opp til én [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
-## Sikkerhets- og tilgangsteknologier
+## Sikkerhet og adgangsteknologi
 
 Nio EL8 er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
 - **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
-- **Telefon som nøkkelfunksjonalitet:** Med telefon som nøkkelteknologi kan du bruke smarttelefonen som en digital nøkkel for å låse opp og starte kjøretøyet, og gi en ekstra lag av bekvemmelighet og fleksibilitet.
-- **Alarmsystem:** Et integrert alarmsystem overvåker uautorisert tilgang eller tukling, og gir varsler for å bidra til å avskrekke innbrudd og holde kjøretøyet ditt sikkert.
+- **Telefon-som-nøkkel-funksjonalitet:** Med telefon-som-nøkkel-teknologi kan du bruke smarttelefonen din som en digital nøkkel for å låse opp og starte kjøretøyet, noe som gir et ekstra lag med bekvemmelighet og fleksibilitet.
+- **Alarmsystem:** Et integrert alarmsystem overvåker mot uautorisert inntrengning eller sabotasje, og varsler for å forhindre innbrudd og holde kjøretøyet ditt sikkert.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastekapasitet og slepeevne
+## Laste- og tilhengerkapasitet
 
-Bagasjerommet tilbyr en lastekapasitet på 552 liter. Med tredje seterad nedfelt, utvides dette til 810 liter. På taket kan du laste opptil 100 kg. Valgfrie takrails er tilgjengelige for enkel montering av en takboks eller takstativ.
+Bagasjerommet har en lastekapasitet på 552 liter (19,5 CU FT). Med tredje seterad nedfelt øker dette til 810 liter (28,6 CU FT). På taket kan du laste opptil 100 kg (220,5 lbs). Takskinner er tilgjengelig som tilvalg for enkel montering av takboks eller takstativ.
 
-Kjøretøyets maksimale vekt er 3190 kg, med en basisvekt på 2612 kg. Dette gir en maksimal lastekapasitet på 578 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 3190 kg (7033 lbs), med en egenvekt på 2612 kg (5758 lbs). Dette tillater en maksimal last på 578 kg (1274 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet.
 
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2000 kg, mens for en ubremset tilhenger er det 750 kg.
+Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med brems er 2000 kg (4409 lbs), og for tilhenger uten brems er det 750 kg (1653 lbs).
 
-## Tilgjengelighet & pris
+## Tilgjengelighet og priser
 
-Nio EL8 hadde sin verdenspremiere den 13.06.2024, med leveranser som startet i October 2024.
+Nio EL8 hadde sin verdenspremiere 13.06.2024, med leveringer som startet i October 2024.
 
 ### Priser
 
-Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
+Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er startprisene for utvalgte land:
 
-- 894 000,00 NOK (Norge)
+- 894 000,00 kr (Norge)
 
-## Alternative Modeller
+## Alternative modeller
 
-I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Nio EL8 som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til Nio EL8 som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
 - [Volvo EX90 Twin Motor Performance](/models/volvo/ex90/ex90_twin_motor_performance/)
 - [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)

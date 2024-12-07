@@ -1,5 +1,5 @@
 ---
-title: Alpine elektriske modeller
+title: Alpine elbilmodeller
 linktitle: "Alpine"
 description: "Alpine er et fransk sportsbilmerke, grunnlagt i 1955 av Jean Rédélé, opprinnelig spesialisert på lette, smidige sportsbiler. Kjent for sin tilknytning til Renault, ble Alpine kjent på 1960- og 70-tallet med sin rallyvinnende A110 Berlinette, feiret for sin smidige håndtering og suksess i motorsport, spesielt i arrangementer som Monte Carlo Rally."
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Alpine A290 er en hatcback tilgjengelig i 1 varianter.
+Alpine A290 er en kombi tilgjengelig i 1 varianter.
 </p>
-	<a href="a290/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="a290/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

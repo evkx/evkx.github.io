@@ -1,7 +1,7 @@
 ---
 title: Hongqi E-HS9 Premium
 linktitle: "E-HS9 Premium"
-description: "Hongqi E-HS9 Premium er en helelektrisk SUV med en WLTP rekkevidde på opptil 465 km. EVKX.net har alle detaljene."
+description: "Hongqi E-HS9 Premium er en elektrisk SUV med en WLTP rekkevidde på opptil 465 km (289 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,85 +11,85 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg" title="Hongqi E-HS9 Premium" width="3000" height="2050"  >}}
 
-Vi har delt vår beskrivelse av Hongqi E-HS9 Premium i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering. Klikk på lenkene nedenfor for å hoppe til ulike områder eller les videre for hele artikkelen. I tillegg tilbyr vi en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [nettanmeldelser](reviews/). Våre seksjoner inkluderer:
 
-- [Ytelse](#ytelse)
-- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivverk (fjæring, bremser, styring)](#drivverk)
-- [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interiør)
-- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
-- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
+- [Ytelse](#section-performance)
+- [Batteri, rekkevidde og lading](#section-battery)
+- [Drivlinje (fjæring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (lakkfarger, hjul ++)](#section-exterior)
+- [Interiør (seter++)](#section-interior)
+- [Brukergrensesnitt og kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lys](#section-lights)
+- [Avanserte førerassistentsystemer](#section-adas)
+- [Lastkapasitet og tilhengerevne](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ytelse
 
-Hongqi E-HS9 Premium imponerer med en imponerende kraft på 405 kW (551 hk) og et betydelig dreiemoment på 670 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,9 sekunder og har en toppfart på 200 km/t, noe som gjør den til en markant modell i sin klasse.
+Hongqi E-HS9 Premium har imponerende kraft med en maksimal effekt på 405 kW (551 hk / 543 bhp) og et kommanderende totalt dreiemoment på 670 Nm (494 lb-ft). Denne høyytelsesmaskinen kan sprinte fra 0 til 100 km/t på bare 4,9 sekunder, og den når en topphastighet på 200 km/t (124 mph), noe som gjør den til en utmerket i sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 99,0 kWh og en netto brukbar kapasitet på 95,3 kWh, som gir en buffer på 3,7 kWh (3,7%) for batteribeskyttelse. Med en nominell spenning på 410 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Batteriet med høy kapasitet har en brutto kapasitet på 99,0 kWh og en netto brukbar kapasitet på 95,3 kWh, som gir en 3,7 kWh buffer (3,7%) for batteribeskyttelse. Med en nominell spenning på 410 volt, klassifiseres systemet som et 400-volts batterisystem, i tråd med bransjestandarder.
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 465 km, med et energiforbruk på 20,5 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, er kjørelengden 465 km (289 miles), med et energiforbruk på 20,5 kWh/100 km (3,0 mi/kWh). For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Maksimal DC-ladehastighet er 135 kW. En full lading fra 0 - 100 % vil ta 80 minutter, mens et mer vanlig scenario på 10-80 % vil ta 38 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 68%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 94kW. Hver ladeøkt vil ta 36 minutter og 30 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 135 kW. Lading fra 0% til 100% tar omtrent 80 minutter, mens et mer typisk scenario fra 10% til 80% tar 38 minutter med en gjennomsnittlig ladehastighet på 105 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 8% til 68%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 94 kW, hvor hver ladeøkt tar omtrent 36 minutter og 30 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 32 kWh/100 km, ville turen ta omtrent 10 timer og 43 minutter. Denne reisen ville kreve to ladestopp fra 8% til 67%, med en total ladetid på 144 minutter.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 32 kWh/100 km, vil turen ta omtrent 10 timer og 43 minutter, og kreve fire ladestopp fra 8% til 67%, totalt 144 minutter ladetid.
 
-### Ombordlader
+### Innebygd lader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 8 timer og 39 minutter med en hjemmelader.
+Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 8 timer og 39 minutter ved bruk av et hjemmeoppsett.
 
-### Ladeport
+### Ladekontakt
 
-Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Ladeporten er plassert på [venstre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner hvor du parkerer sidelengs inn mot laderen. Kontakttypene varierer etter marked: denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. Se fullstendige spesifikasjoner for informasjon om alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivverk
+## Drivlinje
 
-Hongqi E-HS9 Premium har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Hongqi E-HS9 Premium har et firehjulsdrift-system drevet av to motorer, en på hver aksel. Motorene som brukes er [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
-### Hjuloppheng
+### Fjæring
 
--Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 200 mm.
+har stålfjæring med fast høyde og valgfri justerbar demping. Bakkeklaring med denne hjulopphenget er 200 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funksjonen på Hongqi E-HS9 Premium. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard på Hongqi E-HS9 Premium, og varierer styreutvekslingen basert på kjørehastighet for bedre kontroll og komfort.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
+Hongqi E-HS9 Premium er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak.
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) i denne modellen er primært tilrettelagt gjennom [**en-pedalskjøring**](../../../../technology/regen/#one-pedal-driving). I motsetning til noen modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling ikke tilgjengelig her.
+[Regenerativ bremsing](../../../../technology/regen/) i denne modellen skjer primært gjennom [**kjøring med én pedal**](../../../../technology/regen/#one-pedal-driving). I motsetning til enkelte andre modeller, er ikke [Automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive) eller frirulle tilgjengelig her.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
-Hongqi E-HS9 Premium, med dimensjoner på 5209 mm i lengde, 2010 mm i bredde og 1713 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Hongqi E-HS9 Premium er tilgjengelig i totalt 6 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
+Hongqi E-HS9 Premium, med dimensjoner på 5209 mm i lengde, 2010 mm i bredde og 1713 mm i høyde, tilhører store SUVer som tilbyr mest plass, kraft og kapasitet blant SUV-kategoriene, noe som gjør dem egnet for spesifikke sjåfører med unike behov. Hongqi E-HS9 Premium er tilgjengelig i totalt 6 lakkfarger, inkludert flere slående metallic-lakker.
 
-Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Hongqi E-HS9 Premium, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Hongqi E-HS9 Premium tilbyr flere hjulalternativer i ulike størrelser, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
 - 265/45 dekk på 21" felger
 - 275/40 dekk på 22" felger
 
-Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+Smalere hjul forbedrer forbruket og gir lengre rekkevidde, mens bredere hjul gir bedre veigrep og håndtering.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' er en standard-funksjon for sidedørene. Løfteporten er elektrisk drevet og har kick-sensor som standard.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate). Myk lukking er en standard funksjon for sidedørene. Bakluken er elektrisk og har bevegelsessensor som standard.
 
-Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør at bilens interiør føles romsligere og lysere , som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
+Det er kun ett takalternativ for denne modellen. Standardtaket har et panoramatak. Glasset strekker seg over mesteparten av taket, og passasjerene kan åpne den fremre delen. Dette glasset får bilens interiør til å føles mer romslig og lyst, noe som kan forbedre stemningen og komforten for passasjerene. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/exterior_1_st.jpg" title="Hongqi E-HS9 Premium" width="3000" height="1757"  >}}
 
@@ -101,52 +101,52 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 
 ### Seter
 
-Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
+Seteoppsettet er syv seter med to foran, tre seter i andre rad og to seter på tredje rad.
 
 #### Forseter
 
-Hongqi E-HS9 Premium Long Range tilbyr kun én type forsete.
+Hongqi E-HS9 Premium tilbyr bare én type forsete.
 
-Følgende funksjoner er tilgjengelige på **standard** setet.
+Følgende funksjoner er tilgjengelig på **standard** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
+- Høydejusterbar hodestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
-#### Seter på andre rad
+#### Andre seterad
 
-Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+Andre seterad har en standard treseter-benk med 60:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (standard for ytre seter)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
+- Høydejusterbar hodestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)
 
-#### Seter på tredje rad
+#### Tredje seterad
 
-Den tredje raden har en to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
+Tredje rad har en toseters benk med 50:50 deling. Også her kan du felle ned setene når de ikke er i bruk for å skape større bagasjeplass.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem.
+Det er ett klimasystem tilgjengelig:
 
-- **6-soners klimasystem:** Støtter forskjellige temperaturer i seks soner: fører, passasjer og to soner, både i 2. og 3. rad.
+- **6-sone klimasystem:** Støtter forskjellige temperaturer i seks soner: Fører, passasjer, og to soner, både i 2. og 3. rad.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
-Hongqi E-HS9 Premium inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+Hongqi E-HS9 Premium inkluderer flere funksjoner for å øke komfort og bekvemmelighet:
 
 - **Elektrisk justerbart ratt**
-- **Trådløs lading av telefon**
+- **Trådløs telefonlading**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -154,30 +154,30 @@ Hongqi E-HS9 Premium inkluderer flere funksjoner for å forbedre komfort og bekv
 
 ## Brukergrensesnitt og kontroll
 
-Hongqi E-HS9 Premium har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I midten av dashbordet er en infotainmentskjerm, og i midtkonsollen er det en skjerm for klimasystemet. For passasjeren er det infotainmentskjerm.
+Hongqi E-HS9 Premium har flere integrerte skjermer. Bak rattet er det et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments). I midten av dashbordet er det en infotainmentskjerm, og i midtkonsollen er det en skjerm for klimasystemet. For passasjeren er det en infotainmentskjerm.
 
 Viktige skjermdetaljer:
 
 - -skjermen bak rattet integrert i dashbordet er 16,2 tommer stor
-- touch-skjermen i dashbordets sentrum er 16,2 tommer stor
-- touch-skjermen foran passasjeren i dashbordet er 16,2 tommer stor
-- touch-skjermen i midten av midtkonsollen er 10,2 tommer stor
+- touch-skjermen i midten av dashbordet er 16,2 tommer stor
+- touch-skjermen foran passasjeren integrert i dashbordet er 16,2 tommer stor
+- touch-skjermen midt i midtkonsollen er 10,2 tommer stor
 
-Modellen er ikke tilgjengelig med head-up display.
+Modellen har ikke head-up display.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/screens_1_st.jpg" title="Hongqi E-HS9 Premium" width="3000" height="1800"  >}}
 
 ### Ratt
 
-Hongqi E-HS9 Premium er utstyrt med en enkelt type ratt:
+Hongqi E-HS9 Premium er utstyrt med én type ratt:
 
-- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært ratt:** Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikk og styre andre viktige funksjoner.
 
 ### Speil
 
-Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+Både utvendige og innvendige speil bruker konvensjonell speilteknologi for å gi klar sikt over området bak kjøretøyet.
 
-Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
+Denne modellen har et valgfritt stemmekontrollsystem. Stemmekontrollen lar deg styre noen funksjoner gjennom talekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -185,21 +185,21 @@ Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg k
 
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Med en standard innebygd navigasjonssystem har du all hjelpen du trenger for å nå destinasjonen din enkelt.
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Hongqi E-HS9 Premium.
+Hongqi E-HS9 Premium kommer med ett lydsystem:
 
 - **Hongqi sound system:** Har 12 høyttalere.
 
-Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinger som standard.
+I tillegg har modellen 1 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinger som standard.
 
 ## Lys
 
-Standard frontlykter bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å dempe små områder foran.
+Hongqi E-HS9 Premium kommer med avanserte LED Matrix frontlykter. Dette adaptive systemet deler den tradisjonelle frontlyktsstrålen inn i flere mindre stråler, som lar lyskontrolleren selektivt skru dem av og på for å unngå å blende andre sjåfører. For økt sikkerhet inkluderer frontlyktene også svinglys som lyser opp siden når du svinger.
 
-Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+Baklysene bruker LED-teknologi, som sikrer både god synlighet og energieffektivitet.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/headlights_1_st.jpg" title="Hongqi E-HS9 Premium" width="851" height="686"  >}}
 
@@ -207,37 +207,37 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 ## Avanserte førerassistentsystemer
 
-Hongqi E-HS9 Premium inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
+Hongqi E-HS9 Premium har en rekke standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet for å øke sikkerhet og komfort.
 
 ### Sikkerhetssystemer
 
-[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Hongqi E-HS9 Premium, dette systemet forhindrer hjulene i å låse seg under bremsing.
+[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Hongqi E-HS9 Premium, dette systemet hindrer hjulene i å låse seg under bremsing.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Hongqi E-HS9 Premium, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Hongqi E-HS9 Premium, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
-[**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Hongqi E-HS9 Premium, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
+[**Filholderassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Hongqi E-HS9 Premium, dette systemet hjelper med å hindre kjøretøyet i å drive ut av filen. Den inkluderer også et [**Filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler føreren hvis kjøretøyet beveger seg ut av filen.
 
-[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfri på Hongqi E-HS9 Premium, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+[**Kryssende trafikkvarsling foran (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Valgfritt på Hongqi E-HS9 Premium, dette førerassistentsystemet hjelper førere med å oppdage møtende trafikk når de krysser et veikryss eller svinger til venstre eller høyre fra stillestående posisjon.
 
-[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Hongqi E-HS9 Premium, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Kryssende trafikkvarsling bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Hongqi E-HS9 Premium, dette systemet bruker sensorer for å oppdage kjøretøy som nærmer seg fra siden når man rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfri på Hongqi E-HS9 Premium, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfritt på Hongqi E-HS9 Premium, dette førerassistentsystemet hjelper førere med å unngå eller redusere frontkollisjoner.
 
-[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Hongqi E-HS9 Premium, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+[**Automatisk nødbrems (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Hongqi E-HS9 Premium, dette systemet aktiverer bremsene automatisk for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfri på Hongqi E-HS9 Premium, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
+[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfritt på Hongqi E-HS9 Premium, dette systemet hjelper til med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Hongqi E-HS9 Premium, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåking (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Hongqi E-HS9 Premium, dette sideassistentsystemet hjelper med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 
 Med standard  nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Filsentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
-## Sikkerhets- og tilgangsteknologier
+## Sikkerhet og adgangsteknologi
 
 Hongqi E-HS9 Premium er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
@@ -247,11 +247,11 @@ Hongqi E-HS9 Premium er utstyrt med avanserte sikkerhetsfunksjoner for å beskyt
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastekapasitet og slepeevne
+## Laste- og tilhengerkapasitet
 
-Bagasjerommet tilbyr en lastekapasitet på 225 liter. Med tredje seterad nedfelt, utvides dette til 622 liter. På taket kan du laste opptil 100 kg. Valgfrie takrails er tilgjengelige for enkel montering av en takboks eller takstativ.
+Bagasjerommet har en lastekapasitet på 225 liter (7,9 CU FT). Med tredje seterad nedfelt øker dette til 622 liter (22,0 CU FT). På taket kan du laste opptil 100 kg (220,5 lbs). Takskinner er tilgjengelig som tilvalg for enkel montering av takboks eller takstativ.
 
-Kjøretøyets maksimale vekt er 3205 kg, med en basisvekt på 2660 kg. Dette gir en maksimal lastekapasitet på 545 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 3205 kg (7066 lbs), med en egenvekt på 2660 kg (5864 lbs). Dette tillater en maksimal last på 545 kg (1202 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet.
 
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1500 kg, mens for en ubremset tilhenger er det 750 kg.
+Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med brems er 1500 kg (3307 lbs), og for tilhenger uten brems er det 750 kg (1653 lbs).
 {{< pagenavigation b_url="../" b_title="Hongqi E-HS9" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -1,5 +1,5 @@
 ---
-title: Citroën elektriske modeller
+title: Citroën elbilmodeller
 linktitle: "Citroën"
 description: "Citroën is a French automotive brand that was founded in 1919 by André Citroën. It is known for its innovative and distinctive designs, such as the Traction Avant, the 2CV, the DS, and the CX. Citroën is also a pioneer in mass production, front-wheel drive, hydropneumatic suspension, and aerodynamics. Citroën is part of the Stellantis group, which was formed in 2021 by the merger of PSA and FCA"
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Citroën ë-C3 er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="ë-c3/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ë-c3/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Citroën ë-C3 er en crossover tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Citroën ë-C3 Aircross er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="ë-c3_aircross/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ë-c3_aircross/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -58,7 +58,7 @@ Citroën ë-C3 Aircross er en crossover tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Citroën ë-C4 er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="ë-c4/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ë-c4/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

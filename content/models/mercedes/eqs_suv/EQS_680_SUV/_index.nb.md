@@ -1,7 +1,7 @@
 ---
 title: Mercedes-Maybach EQS 680 SUV
 linktitle: "EQS 680 SUV"
-description: "Mercedes-Maybach EQS 680 SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 612 km. EVKX.net har alle detaljene."
+description: "Mercedes-Maybach EQS 680 SUV er en elektrisk luksus-SUV med en WLTP rekkevidde på opptil 612 km (380 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,68 +11,68 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/main_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2120"  >}}
 
-Vi har delt vår beskrivelse av Mercedes-Maybach EQS 680 SUV i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering. Klikk på lenkene nedenfor for å hoppe til ulike områder eller les videre for hele artikkelen. I tillegg tilbyr vi en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [nettanmeldelser](reviews/). Våre seksjoner inkluderer:
 
-- [Ytelse](#ytelse)
-- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivverk (fjæring, bremser, styring)](#drivverk)
-- [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interiør)
-- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
-- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
+- [Ytelse](#section-performance)
+- [Batteri, rekkevidde og lading](#section-battery)
+- [Drivlinje (fjæring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (lakkfarger, hjul ++)](#section-exterior)
+- [Interiør (seter++)](#section-interior)
+- [Brukergrensesnitt og kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lys](#section-lights)
+- [Avanserte førerassistentsystemer](#section-adas)
+- [Lastkapasitet og tilhengerevne](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ytelse
 
-Mercedes-Maybach EQS 680 SUV imponerer med en imponerende kraft på 484 kW (658 hk) og et betydelig dreiemoment på 950 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,4 sekunder og har en toppfart på 210 km/t, noe som gjør den til en markant modell i sin klasse.
+Mercedes-Maybach EQS 680 SUV har imponerende kraft med en maksimal effekt på 484 kW (658 hk / 649 bhp) og et kommanderende totalt dreiemoment på 950 Nm (701 lb-ft). Denne høyytelsesmaskinen kan sprinte fra 0 til 100 km/t på bare 4,4 sekunder, og den når en topphastighet på 210 km/t (131 mph), noe som gjør den til en utmerket i sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 125,0 kWh og en netto brukbar kapasitet på 118,0 kWh, som gir en buffer på 7,0 kWh (5,6%) for batteribeskyttelse. Med en nominell spenning på 396 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet med høy kapasitet har en brutto kapasitet på 125,0 kWh og en netto brukbar kapasitet på 118,0 kWh, som gir en 7,0 kWh buffer (5,6%) for batteribeskyttelse. Med en nominell spenning på 396 volt, klassifiseres systemet som et 400-volts batterisystem, i tråd med bransjestandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 612 og 560 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 19,3 kWh/100 km for basismodellen og 21,1 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, varierer kjørelengden mellom 612 til 560 km (380-348 miles), avhengig av spesifikk konfigurasjon og valg, som for eksempel hjulstørrelse. Større hjul kan øke energiforbruket og følgelig redusere total rekkevidde. Bilens energiforbruk er oppgitt til 19,3 kWh/100 km for basismodellen og 21,1 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Maksimal DC-ladehastighet er 200 kW. En full lading fra 0 - 100 % vil ta 91 minutter, mens et mer vanlig scenario på 10-80 % vil ta 33 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 55%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 142kW. Hver ladeøkt vil ta 27 minutter og 59 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 200 kW. Lading fra 0% til 100% tar omtrent 91 minutter, mens et mer typisk scenario fra 10% til 80% tar 33 minutter med en gjennomsnittlig ladehastighet på 150 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 1% til 55%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 142 kW, hvor hver ladeøkt tar omtrent 27 minutter og 59 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 28,5 kWh/100 km, ville turen ta omtrent 9 timer og 32 minutter. Denne reisen ville kreve to ladestopp fra 1% til 49%, med en total ladetid på 72 minutter.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 28,5 kWh/100 km, vil turen ta omtrent 9 timer og 32 minutter, og kreve tre ladestopp fra 1% til 49%, totalt 72 minutter ladetid.
 
-### Ombordlader
+### Innebygd lader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 10 timer og 43 minutter med en hjemmelader.
+Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 10 timer og 43 minutter ved bruk av et hjemmeoppsett.
 
-### Ladeport
+### Ladekontakt
 
-Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Ladeporten er plassert på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner hvor du må rygge inn til laderen. Kontakttypene varierer etter marked: denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. Se fullstendige spesifikasjoner for informasjon om alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivverk
+## Drivlinje
 
-Mercedes-Maybach EQS 680 SUV har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Mercedes-Maybach EQS 680 SUV har et firehjulsdrift-system drevet av to motorer, en på hver aksel. Motorene som brukes er [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
-### Hjuloppheng
+### Fjæring
 
-Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 181 mm, og maksimum er 206 mm.
+Fjæringen er helautomatisk på for- og bakaksel, slik at høyde og demping kan justeres både manuelt og automatisk. Minimum bakkeklaring er 181 mm, og maksimum er 206 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funksjonen på Mercedes-Maybach EQS 680 SUV. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som en standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
+Dynamisk styring er en standard på Mercedes-Maybach EQS 680 SUV, og varierer styreutvekslingen basert på kjørehastighet for bedre kontroll og komfort. I tillegg er firehjulsstyring tilgjengelig som en standard funksjon. Firehjulsstyring reduserer svingradius ved lav hastighet.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 415mm, og de bakre skivene er 378mm.
+Mercedes-Maybach EQS 680 SUV er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak. Skivene foran måler 415 mm, mens skivene bak er 378 mm.
 
 ### Regenerativ bremsing
 
-Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modellen tilbyr flere moduser for å forbedre effektiviteten og kjøreopplevelsen. Det mest effektive alternativet er [**Automatisk Regenereringsmodus**](../../../../technology/regen/#automatic-regen-adaptive), hvor kjøretøyet seiler når det er mulig og bruker regenerativ bremsing for å redusere hastigheten etter behov. <br /><br />**Manuell regenerering** er en annen modus, hvor regenerativ bremsing kontrolleres ved å trykke på bremsepedalen. Bremsesystemet blander inn fysiske bremser bare når det er nødvendig. <br /><br/> Et annet alternativ er [**Regen på Akseleratorpedal**](../../../../technology/regen/#one-pedal-driving)-modus, hvor regenerativ bremsing aktiveres når føreren slipper akseleratorpedalen. Dette systemet lar kjøretøyet sakke ned og gjenvinne energi uten at føreren trenger å trykke på bremsepedalen, en funksjon som ofte refereres til som **enpedals kjøring**. Du kan velge mellom to stoppmodi for en-pedalskjøring. **Hold-modus** stopper kjøretøyet helt ved hjelp av friksjonsbremser, og **Roll-modus** lar kjøretøyet rulle til det stopper naturlig.
+[Regenerativ bremsing](../../../../technology/regen/) i denne modellen tilbyr flere moduser for å øke effektiviteten og kjøreopplevelsen. Det mest effektive alternativet er [**Automatisk regenereringsmodus**](../../../../technology/regen/#automatic-regen-adaptive), hvor bilen ruller når det er mulig og bruker regenerativ bremsing for å redusere farten ved behov. <br /><br />**Manuell regenerering** er en annen modus, hvor regenerativ bremsing styres ved å trykke på bremsepedalen. Bremsesystemet blander inn fysiske bremser kun når det er nødvendig. <br /><br/> Et annet alternativ er [**Regenerering på gasspedalen**](../../../../technology/regen/#one-pedal-driving) hvor regenerativ bremsing aktiveres når føreren letter på gasspedalen. Dette systemet lar kjøretøyet bremse ned og gjenvinne energi uten at føreren trenger å trykke på bremsepedalen, en funksjon som ofte kalles **kjøring med én pedal**. Du kan velge mellom to stoppemodi for kjøring med én pedal. **Hold-modus** bringer kjøretøyet til fullstendig stopp ved hjelp av friksjonsbremser, og **Rulle-modus** lar kjøretøyet rulle til det stopper naturlig.
 
 Den maksimale regenerative effekten er 300 kW.
 
@@ -80,20 +80,20 @@ Den maksimale regenerative effekten er 300 kW.
 
 ## Eksteriør
 
-Mercedes-Maybach EQS 680 SUV, med dimensjoner på 5125 mm i lengde, 2034 mm i bredde og 1721 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Mercedes-Maybach EQS 680 SUV tilbyr et utvalg av 9 lakkfarger, inkludert ensfargede og metalliske alternativer. Ved siden av standardpaletten er det eksklusive farger tilgjengelig fra 'MANUFAKTUR'-paletten
+Mercedes-Maybach EQS 680 SUV, med dimensjoner på 5125 mm i lengde, 2034 mm i bredde og 1721 mm i høyde, tilhører store SUVer som tilbyr mest plass, kraft og kapasitet blant SUV-kategoriene, noe som gjør dem egnet for spesifikke sjåfører med unike behov. Mercedes-Maybach EQS 680 SUV tilbyr et utvalg på 9 lakkfarger, inkludert solide og metallic-lakker. Ved siden av standardpaletten er eksklusive farger tilgjengelige fra 'MANUFAKTUR'-paletten.
 
-Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
+Du kan også velge mellom flere stilalternativer for å gjøre bilen din mer unik.
 
-Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Mercedes-Maybach EQS 680 SUV, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Mercedes-Maybach EQS 680 SUV tilbyr flere hjulalternativer i ulike størrelser, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
 - 265/45 dekk på 21" felger
 - 265/40 dekk på 22" felger foran og 295/40 dekk på 22" felger bak
 
-Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+Smalere hjul forbedrer forbruket og gir lengre rekkevidde, mens bredere hjul gir bedre veigrep og håndtering.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Løfteporten er elektrisk drevet og har kick-sensor som standard.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate). Bakluken er elektrisk og har bevegelsessensor som standard.
 
-Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad. Dette glasset gjør bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
+Det er to ulike takalternativer å velge mellom. Standardtaket er et vanlig tak. Som tilvalg kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad, og passasjerene kan åpne den fremre delen. Dette glasset får bilens interiør til å føles mer romslig og lyst, noe som kan forbedre stemningen og komforten for passasjerene. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/exterior_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
@@ -105,40 +105,40 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 ### Seter
 
-I tillegg tilbyr modellen en tradisjonell fem-seters layout eller en valgfri syv-seter layout.
+Mercedes-Maybach EQS 680 SUV er tilgjengelig i standard femseterskonfigurasjon, med valgfritt syvseters oppsett for økt fleksibilitet.
 
 #### Forseter
 
-Mercedes-Maybach EQS 680 SUV Long Range tilbyr kun én type forsete.
+Mercedes-Maybach EQS 680 SUV tilbyr bare én type forsete.
 
-Følgende funksjoner er tilgjengelige på **multicontour** setet.
+Følgende funksjoner er tilgjengelig på **multicontour** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- høydejusterbar hodestøtte
-- lengdejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
+- Høydejusterbar hodestøtte
+- Lengdejusterbar hodestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
-- [massasje](../../../../technology/seats/adjustment/#massage)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Justerbar sidestøtte rygg](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation) (valgfritt)
+- [Massasje](../../../../technology/seats/adjustment/#massage)
 
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
 
-#### Seter på andre rad
+#### Andre seterad
 
-For den andre raden har denne modellen doble [executive-seter](../../../../technology/seats/types/#twin-executive-seter). I tillegg er følgende funksjoner tilgjengelige.
+For andre seterad har denne modellen [doble executive-seter](../../../../technology/seats/types/#twin-executive-seats). Andre funksjoner inkluderer:
 
-- høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massasje](../../../../technology/seats/adjustment/#massage)
-- [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest) (standard for passasjersete)
+- Høydejusterbar hodestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating) (valgfritt)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Justerbar sidestøtte rygg](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
+- [Massasje](../../../../technology/seats/adjustment/#massage)
+- [Fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest) (standard for passasjersete)
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
@@ -148,19 +148,19 @@ For den andre raden har denne modellen doble [executive-seter](../../../../techn
 
 To klimasystemalternativer er tilgjengelige:
 
-- **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
-- **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
+- **2-sone klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
+- **4-sone klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
 
-En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
-Mercedes-Maybach EQS 680 SUV inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+Mercedes-Maybach EQS 680 SUV inkluderer flere funksjoner for å øke komfort og bekvemmelighet:
 
 - **Elektrisk justerbart ratt**
-- **Trådløs lading av telefon**
+- **Trådløs telefonlading**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -168,31 +168,31 @@ Mercedes-Maybach EQS 680 SUV inkluderer flere funksjoner for å forbedre komfort
 
 ## Brukergrensesnitt og kontroll
 
-Mercedes-Maybach EQS 680 SUV har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet.
+Mercedes-Maybach EQS 680 SUV har flere integrerte skjermer. Bak rattet er det et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passenger-screen) foran passasjersetet.
 
 Viktige skjermdetaljer:
 
 - -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor
-- touch-skjermen øverst på midtkonsollen er 17,7 tommer stor
-- -skjermen foran passasjeren i dashbordet er 12,3 tommer stor
+- touch-skjermen øverst i midtkonsollen er 17,7 tommer stor
+- -skjermen foran passasjeren integrert i dashbordet er 12,3 tommer stor
 
-Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri system som projiserer hastighet og annen viktig førerinformasjon på frontruten.
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/screens_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
 ### Ratt
 
-Mercedes-Maybach EQS 680 SUV er utstyrt med en enkelt type ratt:
+Mercedes-Maybach EQS 680 SUV er utstyrt med én type ratt:
 
-- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært ratt:** Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikk og styre andre viktige funksjoner.
 
 ### Speil
 
-Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+Både utvendige og innvendige speil bruker konvensjonell speilteknologi for å gi klar sikt over området bak kjøretøyet.
 
-Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
+Denne modellen har et valgfritt stemmekontrollsystem. Stemmekontrollen lar deg styre noen funksjoner gjennom talekommandoer.
 
-Denne modellen har også et valgfritt bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner.
+Denne modellen har også et valgfritt gestekontrollsystem som lar deg styre spesifikke funksjoner.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -200,26 +200,26 @@ Denne modellen har også et valgfritt bevegelseskontrollsystem som lar deg kontr
 
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Med en standard innebygd navigasjonssystem har du all hjelpen du trenger for å nå destinasjonen din enkelt.
 
-### Telefonspeiling
+### Telefonspeling
 
-I tillegg støtter Mercedes-Maybach EQS 680 SUV Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+Mercedes-Maybach EQS 680 SUV støtter Android Auto og Apple CarPlay, som lar deg speile telefonskjermen på bilens skjerm. Denne funksjonaliteten gjør at du kan kjøre apper som Google Maps eller Waze direkte fra telefonen.
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Mercedes-Maybach EQS 680 SUV.
+Du kan velge mellom to lydsystemer for Mercedes-Maybach EQS 680 SUV:
 
-- Med Advanced Soundsystem får du ni høyttalere med en maksimal systemeffekt på 225 watt.
-- Med Burmester Surround Soundsystem får du 13 høyttalere med en maksimal systemeffekt på 590 watt.
+- **Advanced Soundsystem:** Har ni høyttalere og leverer en maksimal effekt på 225 watt.
+- **Burmester Surround Soundsystem:** Har 13 høyttalere og leverer en maksimal effekt på 590 watt.
 
-Modellen har 4 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
+I tillegg har modellen 4 USB-C-tilkoblinger som standard. Som tilvalg kan du få ytterligere 2 USB-C-tilkoblinger.
 
 ## Lys
 
-Standard frontlykter bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å dempe små områder foran.
+Mercedes-Maybach EQS 680 SUV kommer med avanserte LED Matrix frontlykter. Dette adaptive systemet deler den tradisjonelle frontlyktsstrålen inn i flere mindre stråler, som lar lyskontrolleren selektivt skru dem av og på for å unngå å blende andre sjåfører. For økt sikkerhet inkluderer frontlyktene også svinglys som lyser opp siden når du svinger.
 
-Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+Baklysene bruker LED-teknologi, som sikrer både god synlighet og energieffektivitet.
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/headlights_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
@@ -227,44 +227,44 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 ## Avanserte førerassistentsystemer
 
-Mercedes-Maybach EQS 680 SUV inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
+Mercedes-Maybach EQS 680 SUV har en rekke standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet for å øke sikkerhet og komfort.
 
 ### Sikkerhetssystemer
 
-[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Mercedes-Maybach EQS 680 SUV, dette systemet forhindrer hjulene i å låse seg under bremsing.
+[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Mercedes-Maybach EQS 680 SUV, dette systemet hindrer hjulene i å låse seg under bremsing.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Mercedes-Maybach EQS 680 SUV, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Mercedes-Maybach EQS 680 SUV, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
-[**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Mercedes-Maybach EQS 680 SUV, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
+[**Filholderassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Mercedes-Maybach EQS 680 SUV, dette systemet hjelper med å hindre kjøretøyet i å drive ut av filen. Den inkluderer også et [**Filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler føreren hvis kjøretøyet beveger seg ut av filen.
 
-[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfri på Mercedes-Maybach EQS 680 SUV, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+[**Kryssende trafikkvarsling foran (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Valgfritt på Mercedes-Maybach EQS 680 SUV, dette førerassistentsystemet hjelper førere med å oppdage møtende trafikk når de krysser et veikryss eller svinger til venstre eller høyre fra stillestående posisjon.
 
-[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfri på Mercedes-Maybach EQS 680 SUV, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfritt på Mercedes-Maybach EQS 680 SUV, dette førerassistentsystemet hjelper førere med å unngå eller redusere frontkollisjoner.
 
-[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Mercedes-Maybach EQS 680 SUV, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+[**Automatisk nødbrems (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Mercedes-Maybach EQS 680 SUV, dette systemet aktiverer bremsene automatisk for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfri på Mercedes-Maybach EQS 680 SUV, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
+[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfritt på Mercedes-Maybach EQS 680 SUV, dette systemet hjelper til med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på Mercedes-Maybach EQS 680 SUV, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåking (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfritt på Mercedes-Maybach EQS 680 SUV, dette sideassistentsystemet hjelper med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 
-Mercedes-Maybach EQS 680 SUV tilbyr [kjøreautomatisering på nivå 1, 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
+Mercedes-Maybach EQS 680 SUV tilbyr [kjøreautomatisering på nivå 1, 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
 
-Med Driver Assistance Package nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med Driver Assistance Package nivå 1-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
+- [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfritt)
 
-Med det valgfrie Driver Assistance Package Plus nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
+Med det valgfrie Driver Assistance Package Plus nivå 2-systemet får du ytterligere kjøreautomatiseringsfunksjoner i tillegg til de som er nevnt ovenfor:
 
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Filsentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-Med det valgfrie DRIVE PILOT nivå 3-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
+Med det valgfrie DRIVE PILOT nivå 3-systemet får du ytterligere kjøreautomatiseringsfunksjoner i tillegg til de som er nevnt ovenfor:
 
-- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Automatisk filskifte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-## Sikkerhets- og tilgangsteknologier
+## Sikkerhet og adgangsteknologi
 
 Mercedes-Maybach EQS 680 SUV er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
@@ -272,15 +272,15 @@ Mercedes-Maybach EQS 680 SUV er utstyrt med avanserte sikkerhetsfunksjoner for �
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastekapasitet og slepeevne
+## Laste- og tilhengerkapasitet
 
-Bagasjerommet tilbyr en lastekapasitet på 440 liter. På taket kan du laste opptil 100 kg. Valgfrie takrails er tilgjengelige for enkel montering av en takboks eller takstativ.
+Bagasjerommet har en lastekapasitet på 440 liter (15,5 CU FT). På taket kan du laste opptil 100 kg (220,5 lbs). Takskinner er tilgjengelig som tilvalg for enkel montering av takboks eller takstativ.
 
-Kjøretøyets maksimale vekt er 3375 kg, med en basisvekt på 2735 kg. Dette gir en maksimal lastekapasitet på 640 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 3375 kg (7441 lbs), med en egenvekt på 2735 kg (6030 lbs). Dette tillater en maksimal last på 640 kg (1411 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet.
 
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1800 kg, mens for en ubremset tilhenger er det 750 kg.
+Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med brems er 1800 kg (3968 lbs), og for tilhenger uten brems er det 750 kg (1653 lbs).
 
-## Tilgjengelighet & pris
+## Tilgjengelighet og priser
 
 
 {{< pagenavigation b_url="../" b_title="Mercedes EQS SUV" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

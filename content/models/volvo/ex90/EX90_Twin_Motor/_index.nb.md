@@ -1,7 +1,7 @@
 ---
 title: Volvo EX90 Twin Motor
 linktitle: "EX90 Twin Motor"
-description: "Volvo EX90 Twin Motor er en helelektrisk SUV med en WLTP rekkevidde på opptil 580 km. EVKX.net har alle detaljene."
+description: "Volvo EX90 Twin Motor er en elektrisk SUV med en WLTP rekkevidde på opptil 580 km (361 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,83 +11,83 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/main_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2000"  >}}
 
-Vi har delt vår beskrivelse av Volvo EX90 Twin Motor i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering. Klikk på lenkene nedenfor for å hoppe til ulike områder eller les videre for hele artikkelen. I tillegg tilbyr vi en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [nettanmeldelser](reviews/). Våre seksjoner inkluderer:
 
-- [Ytelse](#ytelse)
-- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivverk (fjæring, bremser, styring)](#drivverk)
-- [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interiør)
-- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
-- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
+- [Ytelse](#section-performance)
+- [Batteri, rekkevidde og lading](#section-battery)
+- [Drivlinje (fjæring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (lakkfarger, hjul ++)](#section-exterior)
+- [Interiør (seter++)](#section-interior)
+- [Brukergrensesnitt og kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lys](#section-lights)
+- [Avanserte førerassistentsystemer](#section-adas)
+- [Lastkapasitet og tilhengerevne](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ytelse
 
-Volvo EX90 Twin Motor leverer solid ytelse med en maksimal effekt på 300 kW (408 hk) og et totalt dreiemoment på 770 Nm. Den kan akselerere fra 0 til 100 km/t på 5,9 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
+Volvo EX90 Twin Motor leverer solid ytelse med en maksimal effekt på 300 kW (408 hk / 402 bhp) og et totalt dreiemoment på 770 Nm (568 lb-ft). Den akselererer fra 0 til 100 km/t på 5,9 sekunder og når en topphastighet på 180 km/t (112 mph), noe som gjør den konkurransedyktig i sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 111,0 kWh og en netto brukbar kapasitet på 107,0 kWh, som gir en buffer på 4,0 kWh (3,6%) for batteribeskyttelse. Med en nominell spenning på 370 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet med høy kapasitet har en brutto kapasitet på 111,0 kWh og en netto brukbar kapasitet på 107,0 kWh, som gir en 4,0 kWh buffer (3,6%) for batteribeskyttelse. Med en nominell spenning på 370 volt, klassifiseres systemet som et 400-volts batterisystem, i tråd med bransjestandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 580 km, med et energiforbruk på 18,4 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, er kjørelengden 580 km (361 miles), med et energiforbruk på 18,4 kWh/100 km (3,4 mi/kWh). For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 70 minutter, mens et mer vanlig scenario på 10-80 % vil ta 33 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 53%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 134kW. Hver ladeøkt vil ta 23 minutter og 57 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 250 kW. Lading fra 0% til 100% tar omtrent 70 minutter, mens et mer typisk scenario fra 10% til 80% tar 33 minutter med en gjennomsnittlig ladehastighet på 137 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 5% til 53%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 134 kW, hvor hver ladeøkt tar omtrent 23 minutter og 57 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 28 kWh/100 km, ville turen ta omtrent 9 timer og 37 minutter. Denne reisen ville kreve to ladestopp fra 3% til 57%, med en total ladetid på 78 minutter.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 28 kWh/100 km, vil turen ta omtrent 9 timer og 37 minutter, og kreve tre ladestopp fra 3% til 57%, totalt 78 minutter ladetid.
 
-### Ombordlader
+### Innebygd lader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 9 timer og 43 minutter med en hjemmelader.
+Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 9 timer og 43 minutter ved bruk av et hjemmeoppsett.
 
-### Ladeport
+### Ladekontakt
 
-Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Ladeporten er plassert på [venstre bakside](../../../../technology/charging/connectors/#rear-side), som gjør det enkelt å bruke ladestasjoner hvor du må rygge inn til laderen. Kontakttypene varierer etter marked: denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. Se fullstendige spesifikasjoner for informasjon om alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivverk
+## Drivlinje
 
-Volvo EX90 Twin Motor har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
+Volvo EX90 Twin Motor har et firehjulsdrift-system drevet av to motorer, en på hver aksel.
 
-### Hjuloppheng
+### Fjæring
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 188 mm, og maksimum er 248 mm.
+Forhjulsopphenget er [doble triangelarmer](../../../../technology/suspension/#double-wishbone), og bakhjulsopphenget er [Multilink](../../../../technology/suspension/#multilink). Det bruker luftfjæring og hydrauliske dempere. Fjæringen er helautomatisk på for- og bakaksel, slik at høyde og demping kan justeres både manuelt og automatisk. Minimum bakkeklaring er 188 mm, og maksimum er 248 mm.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 400mm, og de bakre skivene er 390mm.
+Volvo EX90 Twin Motor er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak. Skivene foran måler 400 mm, mens skivene bak er 390 mm.
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to modi. Du kan bruke [en-pedalskjøring](../../../../technology/regen/#one-pedal-driving) eller du kan frihjule og bruke de [blandede bremsene](../../../../technology/regen/#manual-regen-using-brake-pedal) til å regenerere. Systemet stopper bilen helt ved hjelp av friksjonsbremser.
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [kjøring med én pedal](../../../../technology/regen/#one-pedal-driving) eller du kan frirulle og bruke [kombinerte bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) for å regenerere. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
-Volvo EX90 Twin Motor, med dimensjoner på 5037 mm i lengde, 1964 mm i bredde og 1744 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Volvo EX90 Twin Motor er tilgjengelig i totalt 8 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
+Volvo EX90 Twin Motor, med dimensjoner på 5037 mm i lengde, 1964 mm i bredde og 1744 mm i høyde, tilhører store SUVer som tilbyr mest plass, kraft og kapasitet blant SUV-kategoriene, noe som gjør dem egnet for spesifikke sjåfører med unike behov. Volvo EX90 Twin Motor er tilgjengelig i totalt 8 lakkfarger, inkludert flere slående metallic-lakker.
 
-Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volvo EX90 Twin Motor, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Volvo EX90 Twin Motor tilbyr flere hjulalternativer i ulike størrelser, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
 - 265/45 dekk på 21" felger foran og 295/45 dekk på 21" felger bak
 - 265/40 dekk på 22" felger foran og 295/40 dekk på 22" felger bak
 
-Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+Smalere hjul forbedrer forbruket og gir lengre rekkevidde, mens bredere hjul gir bedre veigrep og håndtering.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate). 'Soft Close' er en standard-funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-type bakluke](../../../../technology/doors/#hatcback-style-liftgate). Myk lukking er en standard funksjon for sidedørene.
 
-Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
+Det er kun ett takalternativ for denne modellen. Standardtaket har et stort panoramatak som strekker seg over mesteparten av området fra front til bak. Dette glasset får bilens interiør til å føles mer romslig og lyst, noe som kan forbedre stemningen og komforten for passasjerene. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
+I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, som gir bedre privatliv og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/exterior_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2212"  >}}
 
@@ -101,62 +101,62 @@ Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
-Volvo EX90 Twin Motor har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+Volvo EX90 Twin Motor har plass til fem passasjerer med to forseter og en treseters benk bak.
 
 #### Forseter
 
-Volvo EX90 Twin Motor Long Range tilbyr kun én type forsete.
+Volvo EX90 Twin Motor tilbyr bare én type forsete.
 
-Følgende funksjoner er tilgjengelige på **standard** setet.
+Følgende funksjoner er tilgjengelig på **standard** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massasje](../../../../technology/seats/adjustment/#massage)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
+- [Varme](../../../../technology/seats/adjustment/#heating)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
+- [Massasje](../../../../technology/seats/adjustment/#massage)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
-- White [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Gray [ullpolstring](../../../../technology/seats/materials/#wool)
+- White [stofftrekk](../../../../technology/seats/materials/#fabric)
+- Gray [stofftrekk](../../../../technology/seats/materials/#fabric)
+- Black [stofftrekk](../../../../technology/seats/materials/#fabric)
+- Gray [ulltrekk](../../../../technology/seats/materials/#wool)
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
-#### Seter på andre rad
+#### Andre seterad
 
-Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+Andre seterad har en standard treseter-benk med 40:60 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (standard for ytre seter)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
+- [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
-#### Seter på tredje rad
+#### Tredje seterad
 
-Den tredje raden har en valgfri to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
+Tredje rad har en valgfri toseters benk med 50:50 deling. Også her kan du felle ned setene når de ikke er i bruk for å skape større bagasjeplass.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem.
+Det er ett klimasystem tilgjengelig:
 
-- **5-soners klimasystem:** Støtter forskjellige temperaturer i fem soner. Fører, passasjer og to soner på 2. rad og en i 3. rad.
+- **5-sone klimasystem:** Støtter forskjellige temperaturer i fem soner. Fører, passasjer, to soner i 2. rad og én i 3. rad.
 
-En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
-Volvo EX90 Twin Motor inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+Volvo EX90 Twin Motor inkluderer flere funksjoner for å øke komfort og bekvemmelighet:
 
 - **Elektrisk justerbart ratt**
-- **Trådløs lading av telefon**
+- **Trådløs telefonlading**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -164,26 +164,26 @@ Volvo EX90 Twin Motor inkluderer flere funksjoner for å forbedre komfort og bek
 
 ## Brukergrensesnitt og kontroll
 
-Volvo EX90 Twin Motor har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
+Volvo EX90 Twin Motor har flere integrerte skjermer. Bak rattet er det et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) øverst.
 
 Viktige skjermdetaljer:
 
 - -skjermen bak rattet integrert i dashbordet er 9,0 tommer stor
-- touch-skjermen øverst på midtkonsollen er 14,5 tommer stor
+- touch-skjermen øverst i midtkonsollen er 14,5 tommer stor
 
-Et head-up display er en standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en standard system som projiserer hastighet og annen viktig førerinformasjon på frontruten.
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/screens_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
 ### Ratt
 
-Volvo EX90 Twin Motor er utstyrt med en enkelt type ratt:
+Volvo EX90 Twin Motor er utstyrt med én type ratt:
 
-- **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært ratt:** Dette rattet har integrert oppvarming for ekstra komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikk og styre andre viktige funksjoner.
 
 ### Speil
 
-Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+Både utvendige og innvendige speil bruker konvensjonell speilteknologi for å gi klar sikt over området bak kjøretøyet.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -191,21 +191,21 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Volvo EX90 Twin Motor.
+Du kan velge mellom to lydsystemer for Volvo EX90 Twin Motor:
 
-- Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt.
-- Med Bowers & Wilkins får du 25 høyttalere med en maksimal systemeffekt på 1610 watt.
+- **High Performance:** Har åtte høyttalere og leverer en maksimal effekt på 200 watt.
+- **Bowers & Wilkins:** Har 25 høyttalere og leverer en maksimal effekt på 1610 watt.
 
-Modellen har 4 USB-C-tilkoblinger som standard.
+I tillegg har modellen 4 USB-C-tilkoblinger som standard.
 
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Volvo EX90 Twin Motor.
 
-- **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
-- **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
+- **Standard frontlykter:** Disse bruker avansert LED-teknologi som gir lyst og effektivt lys.
+- **LED Matrix frontlykter:** Tilgjengelig som tilvalg, dette adaptive systemet deler den tradisjonelle frontlyktsstrålen inn i dusinvis av mindre stråler som lyskontrolleren kan skru av og på individuelt, og optimaliserer belysningen ved å dimme spesifikke små områder foran.
 
-Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+Baklysene bruker LED-teknologi, som sikrer både god synlighet og energieffektivitet.
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/headlights_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
@@ -213,30 +213,30 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 ## Avanserte førerassistentsystemer
 
-Volvo EX90 Twin Motor inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
+Volvo EX90 Twin Motor har en rekke standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet for å øke sikkerhet og komfort.
 
-[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funksjon som hjelper sjåfører med å forutse kjøreforhold og spare energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funksjon som hjelper førere med å forutse kjøreforhold og spare energi.
 
 ### Sikkerhetssystemer
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Volvo EX90 Twin Motor, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Volvo EX90 Twin Motor, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
-[**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Volvo EX90 Twin Motor, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
+[**Filholderassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Volvo EX90 Twin Motor, dette systemet hjelper med å hindre kjøretøyet i å drive ut av filen. Den inkluderer også et [**Filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler føreren hvis kjøretøyet beveger seg ut av filen.
 
-[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Volvo EX90 Twin Motor, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Kryssende trafikkvarsling bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Volvo EX90 Twin Motor, dette systemet bruker sensorer for å oppdage kjøretøy som nærmer seg fra siden når man rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Volvo EX90 Twin Motor, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Volvo EX90 Twin Motor, dette førerassistentsystemet hjelper førere med å unngå eller redusere frontkollisjoner.
 
-[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Volvo EX90 Twin Motor, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+[**Automatisk nødbrems (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Volvo EX90 Twin Motor, dette systemet aktiverer bremsene automatisk for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
 ### Kjøreautomatisering
 
 Med standard Pilot Assist nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Filsentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-## Sikkerhets- og tilgangsteknologier
+## Sikkerhet og adgangsteknologi
 
 Volvo EX90 Twin Motor er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
@@ -246,11 +246,11 @@ Volvo EX90 Twin Motor er utstyrt med avanserte sikkerhetsfunksjoner for å besky
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastekapasitet og slepeevne
+## Laste- og tilhengerkapasitet
 
-Bagasjerommet tilbyr en lastekapasitet på 311 liter. Med baksetene nedfelt, utvides dette til 1411 liter. På taket kan du laste opptil 100 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 37 liter.
+Bagasjerommet har en lastekapasitet på 311 liter (11,0 CU FT). Med baksetet nedfelt øker dette til 1411 liter (49,8 CU FT). På taket kan du laste opptil 100 kg (220,5 lbs). I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 37 liter (1,3 CU FT).
 
-Kjøretøyets maksimale vekt er 3380 kg, med en basisvekt på 2748 kg. Dette gir en maksimal lastekapasitet på 632 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 3380 kg (7452 lbs), med en egenvekt på 2748 kg (6058 lbs). Dette tillater en maksimal last på 632 kg (1393 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet.
 
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2200 kg, mens for en ubremset tilhenger er det 750 kg.
+Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med brems er 2200 kg (4850 lbs), og for tilhenger uten brems er det 750 kg (1653 lbs).
 {{< pagenavigation b_url="../" b_title="Volvo EX90" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

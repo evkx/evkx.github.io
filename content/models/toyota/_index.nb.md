@@ -1,5 +1,5 @@
 ---
-title: Toyota elektriske modeller
+title: Toyota elbilmodeller
 linktitle: "Toyota"
 description: "Toyota is one of the largest automobile manufacturers in the world, producing about 10 million vehicles per year. Historycally Toyota has been negative to EV, but launched it first all-electric model in 2022. "
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Toyota bZ4X er en SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="bz4x/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="bz4x/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

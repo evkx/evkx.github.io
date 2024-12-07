@@ -1,5 +1,5 @@
 ---
-title: Audi elektriske modeller
+title: Audi elbilmodeller
 linktitle: "Audi"
 description: "Audi er en tysk bilprodusent som er en del av Volkswagen Group. Den er kjent for sine førsteklasses og sporty kjøretøyer, samt slagordet 'Vorsprung durch Technik', som betyr 'Progress through Technology'."
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi A6 e-tron er en premium sedan /stasjonsvogn tilgjengelig i 8 varianter.
+Audi A6 e-tron er en premium sedan/stasjonsvogn tilgjengelig i 8 varianter.
 </p>
-	<a href="a6_e-tron/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="a6_e-tron/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -41,9 +41,9 @@ Audi A6 e-tron er en premium sedan /stasjonsvogn tilgjengelig i 8 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi e-tron er en luksus SUV/Coupe SUV tilgjengelig i 6 varianter.
+Audi e-tron er en luksus SUV/SUV-kupé tilgjengelig i 6 varianter.
 </p>
-	<a href="e-tron/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="e-tron/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -56,9 +56,9 @@ Audi e-tron er en luksus SUV/Coupe SUV tilgjengelig i 6 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi e-tron GT er en luksus sedan tilgjengelig i 5 varianter.
+Audi e-tron GT er en luksussedan tilgjengelig i 5 varianter.
 </p>
-	<a href="e-tron_gt/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="e-tron_gt/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -71,9 +71,9 @@ Audi e-tron GT er en luksus sedan tilgjengelig i 5 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi Q4 e-tron er en premium SUV/Coupe SUV tilgjengelig i 15 varianter.
+Audi Q4 e-tron er en premium SUV/SUV-kupé tilgjengelig i 15 varianter.
 </p>
-	<a href="q4_e-tron/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="q4_e-tron/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -86,9 +86,9 @@ Audi Q4 e-tron er en premium SUV/Coupe SUV tilgjengelig i 15 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi Q6 e-tron er en premium SUV/Coupe SUV tilgjengelig i 9 varianter.
+Audi Q6 e-tron er en premium SUV/SUV-kupé tilgjengelig i 9 varianter.
 </p>
-	<a href="q6_e-tron/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="q6_e-tron/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -101,9 +101,9 @@ Audi Q6 e-tron er en premium SUV/Coupe SUV tilgjengelig i 9 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi Q8 e-tron er en luksus SUV/Coupe SUV tilgjengelig i 7 varianter.
+Audi Q8 e-tron er en luksus SUV/SUV-kupé tilgjengelig i 7 varianter.
 </p>
-	<a href="q8_e-tron/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="q8_e-tron/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

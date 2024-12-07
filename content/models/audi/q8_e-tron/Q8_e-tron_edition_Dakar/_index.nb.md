@@ -1,7 +1,7 @@
 ---
 title: Audi Q8 e-tron edition Dakar
 linktitle: "Q8 e-tron edition Dakar"
-description: "Audi Q8 e-tron edition Dakar er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 487 km. EVKX.net har alle detaljene."
+description: "Audi Q8 e-tron edition Dakar er en elektrisk luksus-SUV med en WLTP rekkevidde på opptil 487 km (303 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,107 +11,107 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/main_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="1999"  >}}
 
-Vi har delt vår beskrivelse av Audi Q8 e-tron edition Dakar i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering. Klikk på lenkene nedenfor for å hoppe til ulike områder eller les videre for hele artikkelen. I tillegg tilbyr vi en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [nettanmeldelser](reviews/). Våre seksjoner inkluderer:
 
-- [Ytelse](#ytelse)
-- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivverk (fjæring, bremser, styring)](#drivverk)
-- [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interiør)
-- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
-- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
+- [Ytelse](#section-performance)
+- [Batteri, rekkevidde og lading](#section-battery)
+- [Drivlinje (fjæring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (lakkfarger, hjul ++)](#section-exterior)
+- [Interiør (seter++)](#section-interior)
+- [Brukergrensesnitt og kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lys](#section-lights)
+- [Avanserte førerassistentsystemer](#section-adas)
+- [Lastkapasitet og tilhengerevne](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ytelse
 
-Med overboost når Audi Q8 e-tron edition Dakar en maksimal effekt på 300 kW (408 hk). Uten overboost leverer den 265 kW (360 hk). Maksimalt dreiemoment er 664 Nm. Den kan akselerere fra 0 til 100 km/t på 5,8 sekunder og når en topphastighet på 200 km/t, noe som viser dens solide ytelse.
+Med overboost når Audi Q8 e-tron edition Dakar en maksimal effekt på 300 kW (408 hk / 402 bhp). Uten overboost leverer den 265 kW (360 hk / 355 bhp). Det maksimale dreiemomentet er 664 Nm (490 lb-ft). Den akselererer fra 0 til 100 km/t på 5,8 sekunder og når en topphastighet på 200 km/t (124 mph), noe som viser dens solide ytelse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 114,0 kWh og en netto brukbar kapasitet på 106,0 kWh, som gir en buffer på 8,0 kWh (7,0%) for batteribeskyttelse. Med en nominell spenning på 396 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet med høy kapasitet har en brutto kapasitet på 114,0 kWh og en netto brukbar kapasitet på 106,0 kWh, som gir en 8,0 kWh buffer (7,0%) for batteribeskyttelse. Med en nominell spenning på 396 volt, klassifiseres systemet som et 400-volts batterisystem, i tråd med bransjestandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 487 km, med et energiforbruk på 21,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, er kjørelengden 487 km (303 miles), med et energiforbruk på 21,8 kWh/100 km (2,9 mi/kWh). For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 67 minutter, mens et mer vanlig scenario på 10-80 % vil ta 33 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 73%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 120kW. Hver ladeøkt vil ta 37 minutter og 36 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 170 kW. Lading fra 0% til 100% tar omtrent 67 minutter, mens et mer typisk scenario fra 10% til 80% tar 33 minutter med en gjennomsnittlig ladehastighet på 137 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 4% til 73%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 120 kW, hvor hver ladeøkt tar omtrent 37 minutter og 36 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 27 kWh/100 km, ville turen ta omtrent 9 timer og 43 minutter. Denne reisen ville kreve to ladestopp fra 0% til 78%, med en total ladetid på 83 minutter.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 27 kWh/100 km, vil turen ta omtrent 9 timer og 43 minutter, og kreve to ladestopp fra 0% til 78%, totalt 83 minutter ladetid.
 
-### Ombordlader
+### Innebygd lader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 9 timer og 38 minutter med en hjemmelader. For raskere lading kan du velge en valgfri ombordlader som støtter opptil 22 kW. Med denne oppgraderingen kan du oppnå full lading fra 0 til 100% på bare omtrent 4 timer og 49 minutter hjemme.
+Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 9 timer og 38 minutter ved bruk av et hjemmeoppsett. En valgfri 22 kW innebygd lader reduserer full ladetid til omtrent 4 timer og 49 minutter.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/charging_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
-### Ladeport
+### Ladekontakt
 
-Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. En andre port er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne ekstra porten gir deg flere parkeringsmuligheter for AC-lading. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**J1772**](../../../../technology/charging/connectors/#j1772) for Nord-Amerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullstendige spesifikasjoner for alle markeder.
+Ladeporten er plassert på [venstre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner hvor du parkerer sidelengs inn mot laderen. Kontakttypene varierer etter marked: denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. Se fullstendige spesifikasjoner for informasjon om alle markeder. En ekstra ladeport er plassert på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne ekstra porten gir deg flere parkeringsmuligheter for AC-lading. Kontakttypene varierer mellom ulike markeder. Denne modellen bruker [**J1772**](../../../../technology/charging/connectors/#j1772) i Nord-Amerika og [**TYPE2**](../../../../technology/charging/connectors/#type-2) i Europa. Se fullstendige spesifikasjoner for informasjon om alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivverk
+## Drivlinje
 
-Audi Q8 e-tron edition Dakar har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+Audi Q8 e-tron edition Dakar har et firehjulsdrift-system drevet av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
 
-### Hjuloppheng
+### Fjæring
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 174 mm, og maksimum er 271 mm.
+Forhjulsopphenget er [doble triangelarmer](../../../../technology/suspension/#double-wishbone), og bakhjulsopphenget er [Multilink](../../../../technology/suspension/#multilink). Det bruker luftfjæring og hydrauliske dempere. Fjæringen er helautomatisk på for- og bakaksel, slik at høyde og demping kan justeres både manuelt og automatisk. Minimum bakkeklaring er 174 mm, og maksimum er 271 mm.
 
-Du kan bestille Audi Q8 e-tron edition Dakar med en alternativ Adaptive Air Suspension Sport hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 152 mm, og maksimum er 248 mm.
+Du kan bestille Audi Q8 e-tron edition Dakar med et alternativt Adaptive Air Suspension Sport fjæringssystem. Forhjulsopphenget er [doble triangelarmer](../../../../technology/suspension/#double-wishbone), og bakhjulsopphenget er [Multilink](../../../../technology/suspension/#multilink). Det bruker luftfjæring og hydrauliske dempere. Fjæringen er helautomatisk på for- og bakaksel, slik at høyde og demping kan justeres både manuelt og automatisk. Minimum bakkeklaring er 152 mm, og maksimum er 248 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funksjonen på Audi Q8 e-tron edition Dakar. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard på Audi Q8 e-tron edition Dakar, og varierer styreutvekslingen basert på kjørehastighet for bedre kontroll og komfort.
 
 ### Kjøremoduser
 
-Audi Q8 e-tron edition Dakar lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 7 moduser:
+Audi Q8 e-tron edition Dakar lar brukeren velge ulike [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens håndtering. Føreren kan velge mellom 7 moduser:
 
-- Dynamic: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
-- Efficiency: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
-- Comfort: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
-- Allroad: Balansert styring, høy fjæringshøyde med balansert gass og demping.
-- Offroad: Balansert styring, maks fjæringshøyde med balansert gass og demping.
-- Auto: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping.
-- Custom: Egendefinert styring, fjæring og gassrespons.
+- Dynamic: Dynamisk styring, lav fjæring med dynamisk gasspådrag og fjæring.
+- Efficiency: Balansert styring, lav fjæring med effektivt gasspådrag og balansert fjæring.
+- Comfort: Balansert styring, normal fjæringshøyde med effektivt gasspådrag og komfortabel fjæringsdemping.
+- Allroad: Balansert styring, høy fjæringshøyde med balansert gasspådrag og demping.
+- Offroad: Balansert styring, maksimal fjæringshøyde med balansert gasspådrag og demping.
+- Auto: Balansert styring, adaptiv fjæringshøyde med balansert gasspådrag og adaptiv fjæringsdemping.
+- Custom: Brukerdefinerte innstillinger for styring, fjæring og gasspådrag.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 375mm, og de bakre skivene er 350mm.
+Audi Q8 e-tron edition Dakar er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak. Skivene foran måler 375 mm, mens skivene bak er 350 mm.
 
 ### Regenerativ bremsing
 
-Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modellen tilbyr flere moduser for å forbedre effektiviteten og kjøreopplevelsen. Det mest effektive alternativet er [**Automatisk Regenereringsmodus**](../../../../technology/regen/#automatic-regen-adaptive), hvor kjøretøyet seiler når det er mulig og bruker regenerativ bremsing for å redusere hastigheten etter behov. <br /><br />**Manuell regenerering** er en annen modus, hvor regenerativ bremsing kontrolleres ved å trykke på bremsepedalen. Bremsesystemet blander inn fysiske bremser bare når det er nødvendig. <br /><br/> Et annet alternativ er [**Regen på Akseleratorpedal**](../../../../technology/regen/#one-pedal-driving)-modus, hvor regenerativ bremsing aktiveres når føreren slipper akseleratorpedalen. Dette systemet lar kjøretøyet sakke ned og gjenvinne energi uten at føreren trenger å trykke på bremsepedalen, en funksjon som ofte refereres til som **enpedals kjøring**. Det anses imidlertid ikke som full en-pedalskjøring siden kjøretøyet ved lave hastigheter vil fortsette å rulle til det stopper av seg selv.
+[Regenerativ bremsing](../../../../technology/regen/) i denne modellen tilbyr flere moduser for å øke effektiviteten og kjøreopplevelsen. Det mest effektive alternativet er [**Automatisk regenereringsmodus**](../../../../technology/regen/#automatic-regen-adaptive), hvor bilen ruller når det er mulig og bruker regenerativ bremsing for å redusere farten ved behov. <br /><br />**Manuell regenerering** er en annen modus, hvor regenerativ bremsing styres ved å trykke på bremsepedalen. Bremsesystemet blander inn fysiske bremser kun når det er nødvendig. <br /><br/> Et annet alternativ er [**Regenerering på gasspedalen**](../../../../technology/regen/#one-pedal-driving) hvor regenerativ bremsing aktiveres når føreren letter på gasspedalen. Dette systemet lar kjøretøyet bremse ned og gjenvinne energi uten at føreren trenger å trykke på bremsepedalen, en funksjon som ofte kalles **kjøring med én pedal**. Dette regnes imidlertid ikke som fullstendig énpedalkjøring siden bilen ved lave hastigheter vil fortsette å rulle til den stopper av seg selv.
 
-I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det finnes tre nivåer av regenerativ bremsing å velge mellom, noe som gir deg mulighet til å tilpasse kjøreopplevelsen etter dine preferanser.
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten av gasspedalen. Det er tre nivåer å velge mellom, slik at du kan tilpasse kjøreopplevelsen etter eget ønske.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
-Audi Q8 e-tron edition Dakar, med dimensjoner på 4901 mm i lengde, 1935 mm i bredde og 1629 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Audi Q8 e-tron edition Dakar tilbyr et utvalg av 3 lakkfarger, inkludert ensfargede og metalliske alternativer. Ved siden av standardpaletten er det eksklusive farger tilgjengelig fra 'Audi exclusive'-paletten
+Audi Q8 e-tron edition Dakar, med dimensjoner på 4901 mm i lengde, 1935 mm i bredde og 1629 mm i høyde, tilhører mellomstore SUVer som tilbyr en kombinasjon av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for en bred gruppe sjåfører med ulike behov. Audi Q8 e-tron edition Dakar tilbyr et utvalg på 3 lakkfarger, inkludert solide og metallic-lakker. Ved siden av standardpaletten er eksklusive farger tilgjengelige fra 'Audi exclusive'-paletten.
 
-Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
+Du kan også velge mellom flere stilalternativer for å gjøre bilen din mer unik.
 
-Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Audi Q8 e-tron edition Dakar, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Audi Q8 e-tron edition Dakar tilbyr flere hjulalternativer i ulike størrelser, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
 - 265/60 dekk på 18" felger
 - 255/55 dekk på 19" felger
 
-Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+Smalere hjul forbedrer forbruket og gir lengre rekkevidde, mens bredere hjul gir bedre veigrep og håndtering.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate). 'Soft Close' er en valgfri-funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-type bakluke](../../../../technology/doors/#hatcback-style-liftgate). Myk lukking er en valgfri funksjon for sidedørene.
 
-Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
+Det er to ulike takalternativer å velge mellom. Standardtaket er et vanlig tak. Som tilvalg kan du bestille denne modellen med panoramatak. Glasset strekker seg over mesteparten av taket, og passasjerene kan åpne den fremre delen. Dette glasset får bilens interiør til å føles mer romslig og lyst, noe som kan forbedre stemningen og komforten for passasjerene. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-Rutene fra B-stolpen og baksiden er tonet. Som et alternativ er dobbeltglass sidevinduer tilgjengelig for å redusere kabinstøy, noe som forbedrer den totale kjøreopplevelsen.
+Vinduene fra B-stolpen og bakover er tonede, noe som gir bedre privatliv og reduserer blending og varme fra solen, og gjør interiøret mer komfortabelt for passasjerene. Som tilvalg er det tilgjengelig doble sidevinduer som reduserer støy i kupeen og forbedrer kjøreopplevelsen.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="1999"  >}}
 
@@ -123,82 +123,82 @@ Rutene fra B-stolpen og baksiden er tonet. Som et alternativ er dobbeltglass sid
 
 ### Seter
 
-Audi Q8 e-tron edition Dakar har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+Audi Q8 e-tron edition Dakar har plass til fem passasjerer med to forseter og en treseters benk bak.
 
 #### Forseter
 
-For første rad tilbyr Audi Q8 e-tron edition Dakar fem forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
+Første seterad tilbyr fem setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
-Følgende funksjoner er tilgjengelige på **standard** setet.
+Følgende funksjoner er tilgjengelig på **standard** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
-- høydejusterbar hodestøtte
-- lengdejusterbar hodestøtte (valgfri)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
+- Høydejusterbar hodestøtte
+- Lengdejusterbar hodestøtte (valgfritt)
+- [Varme](../../../../technology/seats/adjustment/#heating) (valgfritt)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
-Følgende funksjoner er tilgjengelige på **sport** setet.
+Følgende funksjoner er tilgjengelig på **sport** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
-- høydejusterbar hodestøtte
-- lengdejusterbar hodestøtte (valgfri)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
+- Høydejusterbar hodestøtte
+- Lengdejusterbar hodestøtte (valgfritt)
+- [Varme](../../../../technology/seats/adjustment/#heating) (valgfritt)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
-Følgende funksjoner er tilgjengelige på **s-line sport** setet.
+Følgende funksjoner er tilgjengelig på **s-line sport** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
-- høydejusterbar hodestøtte
-- lengdejusterbar hodestøtte (valgfri)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
+- Høydejusterbar hodestøtte
+- Lengdejusterbar hodestøtte (valgfritt)
+- [Varme](../../../../technology/seats/adjustment/#heating) (valgfritt)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
-Følgende funksjoner er tilgjengelige på **s sport** setet.
+Følgende funksjoner er tilgjengelig på **s sport** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
+- [Varme](../../../../technology/seats/adjustment/#heating) (valgfritt)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
-Følgende funksjoner er tilgjengelige på **multicontour** setet.
+Følgende funksjoner er tilgjengelig på **multicontour** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- høydejusterbar hodestøtte
-- lengdejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
+- Høydejusterbar hodestøtte
+- Lengdejusterbar hodestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
-- [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Justerbar sidestøtte rygg](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
+- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation) (valgfritt)
+- [Massasje](../../../../technology/seats/adjustment/#massage) (valgfritt)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/frontseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
-#### Seter på andre rad
+#### Andre seterad
 
-Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+Andre seterad har en standard treseter-benk med 40:20:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
-- høydejusterbar hodestøtte
+- Høydejusterbar hodestøtte
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/secondrowseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
-### Interiørlagring
+### Innvendig oppbevaring
 
-- **Koppholdere:** To koppholdere er plassert i den fremre midtkonsollen, med ytterligere to i bakre armlene.
-- **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjeren, ideelt for oppbevaring av nødvendige gjenstander.
+- **Koppholdere:** To koppholdere er plassert i midtkonsollen foran, med ytterligere to i armlenet bak.
+- **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjersetet, ideelt for oppbevaring av nødvendige gjenstander.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -206,20 +206,20 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 
 To klimasystemalternativer er tilgjengelige:
 
-- **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
-- **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
+- **2-sone klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
+- **4-sone klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
 
-En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
-Audi Q8 e-tron edition Dakar inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+Audi Q8 e-tron edition Dakar inkluderer flere funksjoner for å øke komfort og bekvemmelighet:
 
 - **Elektrisk justerbart ratt**
-- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
-- **Trådløs lading av telefon**
+- **Easy Entry-funksjon:** Flytter førersetet for å gjøre det enklere å komme inn i bilen.
+- **Trådløs telefonlading**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -227,27 +227,27 @@ Audi Q8 e-tron edition Dakar inkluderer flere funksjoner for å forbedre komfort
 
 ## Brukergrensesnitt og kontroll
 
-Audi Q8 e-tron edition Dakar har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er to forskjellige [infotainment-skjermer](../../../../technology/userinterface/screens/#infotainment-screen).
+Audi Q8 e-tron edition Dakar har flere integrerte skjermer. Bak rattet er det et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen er det to ulike [infotainmentskjermer](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Viktige skjermdetaljer:
 
 - -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor
-- touch-skjermen øverst på midtkonsollen er 10,1 tommer stor
-- touch-skjermen nederst på midtkonsollen er 8,6 tommer stor
+- touch-skjermen øverst i midtkonsollen er 10,1 tommer stor
+- touch-skjermen nederst i midtkonsollen er 8,6 tommer stor
 
-Et head-up display er en standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en standard system som projiserer hastighet og annen viktig førerinformasjon på frontruten.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/screens_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
 ### Ratt
 
-Audi Q8 e-tron edition Dakar er utstyrt med en enkelt type ratt:
+Audi Q8 e-tron edition Dakar er utstyrt med én type ratt:
 
-- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært ratt:** Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikk og styre andre viktige funksjoner.
 
 ### Speil
 
-For de utvendige speilene kan du velge mellom kamerabaserte speil med innvendige skjermer eller tradisjonelle speil. Det innvendige speilet er et standardspeil.
+For sidespeilene kan du velge mellom kamerabaserte speil med innvendige skjermer eller tradisjonelle speil. Det innvendige speilet er et standard speil.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -255,41 +255,41 @@ For de utvendige speilene kan du velge mellom kamerabaserte speil med innvendige
 
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Med en standard innebygd navigasjonssystem har du all hjelpen du trenger for å nå destinasjonen din enkelt.
 
-### Telefonspeiling
+### Telefonspeling
 
-I tillegg støtter Audi Q8 e-tron edition Dakar Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+Audi Q8 e-tron edition Dakar støtter Android Auto og Apple CarPlay, som lar deg speile telefonskjermen på bilens skjerm. Denne funksjonaliteten gjør at du kan kjøre apper som Google Maps eller Waze direkte fra telefonen.
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Audi Q8 e-tron edition Dakar.
+Du kan velge mellom to lydsystemer for Audi Q8 e-tron edition Dakar:
 
-- Med Audi Sound system får du ti høyttalere med en maksimal systemeffekt på 180 watt.
-- Med Bang & Olufsen Sound System får du 16 høyttalere med en maksimal systemeffekt på 700 watt.
+- **Audi Sound system:** Har ti høyttalere og leverer en maksimal effekt på 180 watt.
+- **Bang & Olufsen Sound System:** Har 16 høyttalere og leverer en maksimal effekt på 700 watt.
 
-Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
+I tillegg har modellen 2 USB-C-tilkoblinger som standard. Som tilvalg kan du få ytterligere 2 USB-C-tilkoblinger.
 
 ## Mobilapp
 
-Audi Q8 e-tron edition Dakar kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+Audi Q8 e-tron edition Dakar kommer med en dedikert mobilapp, tilgjengelig for både Android og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt på avstand. Appen tilbyr en rekke funksjoner designet for å forbedre kjøreopplevelsen din:
 
-- **Finn kjøretøyet ditt**: Sjekk enkelt den nåværende plasseringen til bilen din.
-- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
-- **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
-- **Planlagt lading**: Planlegg og tidsbestem ladeøkter før turene dine.
-- **Juster ladegrense**: Angi ønsket ladetilstand for å starte eller stoppe lading etter behov.
-- **Ruteplanlegging**: Planlegg ruten din og send den direkte til bilens navigasjonssystem.
-- **Kjørelogg**: Gå gjennom detaljer om dine tidligere turer.
+- **Finn bilen din:** Enkelt sjekk bilens nåværende posisjon.
+- **Forkondisjonering:** Forhåndsvarm eller avkjøl bilen før du starter reisen for optimal komfort.
+- **Lås og lås opp:** Lås eller lås opp bildørene sikkert med et tastetrykk.
+- **Planlagt lading:** Planlegg og tidsinnstill ladeøkter før reisene dine.
+- **Juster lademål:** Angi ønsket ladenivå for å starte eller stoppe lading etter behov.
+- **Ruteplanlegging:** Planlegg ruten og send den direkte til bilens navigasjonssystem.
+- **Kjørehistorikk:** Se detaljer om tidligere turer.
 
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Audi Q8 e-tron edition Dakar.
 
-- Standard frontlykter bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å dempe små områder foran.
-- Frontlykter basert på LED Digital Matrix-teknologi er tilgjengelige som et alternativ.
+- Audi Q8 e-tron edition Dakar kommer med avanserte LED Matrix frontlykter. Dette adaptive systemet deler den tradisjonelle frontlyktsstrålen inn i flere mindre stråler, som lar lyskontrolleren selektivt skru dem av og på for å unngå å blende andre sjåfører. For økt sikkerhet inkluderer frontlyktene også svinglys som lyser opp siden når du svinger.
+- Frontlykter basert på LED Digital Matrix-teknologi er tilgjengelig som tilvalg.
 
-Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+Baklysene bruker LED-teknologi, som sikrer både god synlighet og energieffektivitet.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/headlights_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2000"  >}}
 
@@ -297,72 +297,72 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 ## Avanserte førerassistentsystemer
 
-Audi Q8 e-tron edition Dakar inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
+Audi Q8 e-tron edition Dakar har en rekke standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet for å øke sikkerhet og komfort.
 
-[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funksjon som hjelper sjåfører med å forutse kjøreforhold og spare energi.
+[**Effektivitetsassistent**](../../../../technology/driverassistance/efficencyassist/): En Standard funksjon som hjelper førere med å forutse kjøreforhold og spare energi.
 
 ### Sikkerhetssystemer
 
-[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Audi Q8 e-tron edition Dakar, dette systemet forhindrer hjulene i å låse seg under bremsing.
+[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Audi Q8 e-tron edition Dakar, dette systemet hindrer hjulene i å låse seg under bremsing.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Audi Q8 e-tron edition Dakar, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Audi Q8 e-tron edition Dakar, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
-[**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Audi Q8 e-tron edition Dakar, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
+[**Filholderassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Audi Q8 e-tron edition Dakar, dette systemet hjelper med å hindre kjøretøyet i å drive ut av filen. Den inkluderer også et [**Filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler føreren hvis kjøretøyet beveger seg ut av filen.
 
-[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfri på Audi Q8 e-tron edition Dakar, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+[**Kryssende trafikkvarsling foran (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Valgfritt på Audi Q8 e-tron edition Dakar, dette førerassistentsystemet hjelper førere med å oppdage møtende trafikk når de krysser et veikryss eller svinger til venstre eller høyre fra stillestående posisjon.
 
-[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valgfri på Audi Q8 e-tron edition Dakar, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Kryssende trafikkvarsling bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valgfritt på Audi Q8 e-tron edition Dakar, dette systemet bruker sensorer for å oppdage kjøretøy som nærmer seg fra siden når man rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfri på Audi Q8 e-tron edition Dakar, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfritt på Audi Q8 e-tron edition Dakar, dette førerassistentsystemet hjelper førere med å unngå eller redusere frontkollisjoner.
 
-[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Audi Q8 e-tron edition Dakar, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+[**Automatisk nødbrems (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Audi Q8 e-tron edition Dakar, dette systemet aktiverer bremsene automatisk for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfri på Audi Q8 e-tron edition Dakar, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
+[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfritt på Audi Q8 e-tron edition Dakar, dette systemet hjelper til med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på Audi Q8 e-tron edition Dakar, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåking (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfritt på Audi Q8 e-tron edition Dakar, dette sideassistentsystemet hjelper med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 
-Audi Q8 e-tron edition Dakar tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
+Audi Q8 e-tron edition Dakar tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
 
-Med  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med  nivå 1-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- Fartsbegrenser.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
+- Cruisekontroll.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfritt)
 
-Med det valgfrie Assistantpackage Tour nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor:
+Med det valgfrie Assistantpackage Tour nivå 2-systemet får du ytterligere kjøreautomatiseringsfunksjoner i tillegg til de som er nevnt ovenfor:
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Filsentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-### Sensorer & Kameraer
+### Sensorer og kameraer
 
-Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
-Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+Denne modellen bruker kameraer, radar og ultralydsensorer for sine førerassistentsystemer.
+Opp til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
-## Sikkerhets- og tilgangsteknologier
+## Sikkerhet og adgangsteknologi
 
 Audi Q8 e-tron edition Dakar er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
 - **Nøkkelfri adgang og start:** Med standard nøkkelfri start og valgfri nøkkelfri adgang kan du låse opp og starte kjøretøyet sømløst uten å ta nøkkelen ut av lommen eller vesken.
-- **Telefon som nøkkelfunksjonalitet:** Den valgfrie telefon som nøkkelteknologien lar deg bruke smarttelefonen som en digital nøkkel, og gir bekvemmelighet og fleksibilitet for å låse opp og starte kjøretøyet.
-- **Alarmsystem:** Et valgfritt integrert alarmsystem overvåker uautorisert tilgang eller tukling, og gir varsler for å bidra til å avskrekke innbrudd og forbedre kjøretøyets sikkerhet.
+- **Telefon-som-nøkkel-funksjonalitet:** Den valgfrie telefon-som-nøkkel-teknologien lar deg bruke smarttelefonen din som en digital nøkkel, og gir økt bekvemmelighet og fleksibilitet for å låse opp og starte kjøretøyet.
+- **Alarmsystem:** Et valgfritt integrert alarmsystem overvåker mot uautorisert inntrengning eller sabotasje, og varsler for å forhindre innbrudd og øke kjøretøyets sikkerhet.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastekapasitet og slepeevne
+## Laste- og tilhengerkapasitet
 
-Bagasjerommet tilbyr en lastekapasitet på 660 liter. Med baksetene nedfelt, utvides dette til 1725 liter. På taket kan du laste opptil 75 kg.
+Bagasjerommet har en lastekapasitet på 660 liter (23,3 CU FT). Med baksetet nedfelt øker dette til 1725 liter (60,9 CU FT). På taket kan du laste opptil 75 kg (165,3 lbs).
 
-Kjøretøyets maksimale vekt er 3170 kg, med en basisvekt på 2520 kg. Dette gir en maksimal lastekapasitet på 650 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 3170 kg (6989 lbs), med en egenvekt på 2520 kg (5556 lbs). Dette tillater en maksimal last på 650 kg (1433 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet.
 
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1800 kg, mens for en ubremset tilhenger er det 750 kg.
+Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med brems er 1800 kg (3968 lbs), og for tilhenger uten brems er det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/trunk_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
-## Tilgjengelighet & pris
+## Tilgjengelighet og priser
 
-Audi Q8 e-tron edition Dakar hadde sin verdenspremiere den 03.01.2024, med leveranser som startet i May 2024. Denne modellen er tilgjengelig i Nord-Amerika, Kina, Europa og Midtøsten.
+Audi Q8 e-tron edition Dakar hadde sin verdenspremiere 03.01.2024, med leveringer som startet i May 2024. Denne modellen er tilgjengelig i Nord-Amerika, Kina, Europa og Midtøsten.
 {{< pagenavigation b_url="../" b_title="Audi Q8 e-tron" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

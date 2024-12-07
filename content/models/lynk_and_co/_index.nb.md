@@ -1,5 +1,5 @@
 ---
-title: Lynk & Co elektriske modeller
+title: Lynk & Co elbilmodeller
 linktitle: "Lynk & Co"
 description: "Lynk & Co is more than a car company; it’s a mobility provider committed to flexibility as its core principle. With a diverse range of car ownership options – from subscription to lease to purchase – Lynk & Co is at the forefront of the car-sharing movement. The brand combines vibrant, innovative design with pioneering connectivity solutions, offering consumers a forward-thinking driving experience."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Lynk & Co 02 er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="02/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="02/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

@@ -1,14 +1,14 @@
 ---
-title: Nio EL6 ladekurve og ladeytelse
+title: Nio EL6 ladekurve og ytelse
 linktitle: "Ladekurve"
-description: "Nedenfor er ladekurven for Nio EL6, som illustrerer ladehastigheten ved forskjellige batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeprestasjonen."
+description: "Under er ladekurven for Nio EL6, som viser ladehastigheten ved ulike batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeytelsen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen for de forskjellige batteripakkene.
+Denne modellen er tilgjengelig med flere batterier. Under finner du ytelsen for de ulike batteripakkene.
 
 ### 100 kWh 100kWh
 
@@ -30,7 +30,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 	<tbody>
 		<tr>
 			<td>
-				Gjennomsnittlig ladehastighet 0 - 100%
+				Gjennomsnittlig ladehastighet 0-100%
 			</td>
 			<td>
 				70,2 kW
@@ -62,7 +62,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 		</tr>
 		<tr>
 			<td>
-				Maks C-Rate
+				Maks C-rate
 			</td>
 			<td>
 				1,27
@@ -70,7 +70,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 		</tr>
 		<tr>
 			<td>
-				Gjennomsnittlig C-Rate
+				Gjennomsnittlig C-rate
 			</td>
 			<td>
 				0,90
@@ -86,7 +86,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 		</tr>
 		<tr>
 			<td>
-				Optimal ladehastighet inkludert 5 minutters tap
+				Optimal ladehastighet inkludert 5 minutter tap
 			</td>
 			<td>
 				84,4kW
@@ -94,7 +94,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 		</tr>
 		<tr>
 			<td>
-				Optimal ladestopp tid
+				Optimal ladestopp-tid
 			</td>
 			<td>
 				27m52s
@@ -119,7 +119,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 	<tbody>
 		<tr>
 			<td>
-				Ladetid 0-100%
+				Ladetid 0 - 100%
 			</td>
 			<td>
 				1 h 16 m 57 s
@@ -224,7 +224,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 </div>
 
 
-Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
+Ladekurven over er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kalde eller varme temperaturer kan imidlertid påvirke kurven betydelig. Denne kurven er også basert på å starte lading ved lav ladestand. Derfor kan tilkobling ved høyere nivå påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -233,7 +233,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Ladenivå
 			</th>
 			<th>
 				Hastighet
@@ -1685,7 +1685,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 	<tbody>
 		<tr>
 			<td>
-				Gjennomsnittlig ladehastighet 0 - 100%
+				Gjennomsnittlig ladehastighet 0-100%
 			</td>
 			<td>
 				64,0 kW
@@ -1717,7 +1717,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 		</tr>
 		<tr>
 			<td>
-				Maks C-Rate
+				Maks C-rate
 			</td>
 			<td>
 				1,45
@@ -1725,7 +1725,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 		</tr>
 		<tr>
 			<td>
-				Gjennomsnittlig C-Rate
+				Gjennomsnittlig C-rate
 			</td>
 			<td>
 				1,08
@@ -1741,7 +1741,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 		</tr>
 		<tr>
 			<td>
-				Optimal ladehastighet inkludert 5 minutters tap
+				Optimal ladehastighet inkludert 5 minutter tap
 			</td>
 			<td>
 				75,3kW
@@ -1749,7 +1749,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 		</tr>
 		<tr>
 			<td>
-				Optimal ladestopp tid
+				Optimal ladestopp-tid
 			</td>
 			<td>
 				38m39s
@@ -1774,7 +1774,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 	<tbody>
 		<tr>
 			<td>
-				Ladetid 0-100%
+				Ladetid 0 - 100%
 			</td>
 			<td>
 				1 h 6 m 7 s
@@ -1879,7 +1879,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 </div>
 
 
-Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
+Ladekurven over er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kalde eller varme temperaturer kan imidlertid påvirke kurven betydelig. Denne kurven er også basert på å starte lading ved lav ladestand. Derfor kan tilkobling ved høyere nivå påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -1888,7 +1888,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Ladenivå
 			</th>
 			<th>
 				Hastighet

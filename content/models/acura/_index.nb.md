@@ -1,5 +1,5 @@
 ---
-title: Acura elektriske modeller
+title: Acura elbilmodeller
 linktitle: "Acura"
 description: "Acura er luksus- og ytelsesdivisjonen til den japanske bilprodusenten Honda, hovedsakelig basert i Nord-Amerika. Merket ble lansert i 1986 og markedsfører luksus- og ytelsesbiler. Acura selger biler i USA, Canada, Mexico, Panama og Kuwait."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Acura ZDX er en SUV tilgjengelig i 3 varianter.
 </p>
-	<a href="zdx/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="zdx/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

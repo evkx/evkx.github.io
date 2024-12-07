@@ -1,7 +1,7 @@
 ---
 title: Onvo L60 AWD
 linktitle: "L60 AWD"
-description: "Onvo L60 AWD er en helelektrisk coupe-SUV med en CLTC rekkevidde på opptil 700 km. EVKX.net har alle detaljene."
+description: "Onvo L60 AWD er en elektrisk SUV-kupé med en CLTC rekkevidde på opptil 700 km (435 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,107 +11,107 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/main_1_st.jpg" title="Onvo L60 AWD" width="2232" height="1360"  >}}
 
-Vi har delt vår beskrivelse av Onvo L60 AWD i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering. Klikk på lenkene nedenfor for å hoppe til ulike områder eller les videre for hele artikkelen. I tillegg tilbyr vi en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [nettanmeldelser](reviews/). Våre seksjoner inkluderer:
 
-- [Ytelse](#ytelse)
-- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivverk (fjæring, bremser, styring)](#drivverk)
-- [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interiør)
-- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
-- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
+- [Ytelse](#section-performance)
+- [Batteri, rekkevidde og lading](#section-battery)
+- [Drivlinje (fjæring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (lakkfarger, hjul ++)](#section-exterior)
+- [Interiør (seter++)](#section-interior)
+- [Brukergrensesnitt og kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lys](#section-lights)
+- [Avanserte førerassistentsystemer](#section-adas)
+- [Lastkapasitet og tilhengerevne](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ytelse
 
-Onvo L60 AWD leverer solid ytelse med en maksimal effekt på 340 kW (462 hk) og et totalt dreiemoment på 440 Nm. Den kan akselerere fra 0 til 100 km/t på 4,6 sekunder og når en topphastighet på 203 km/t, noe som gjør den konkurransedyktig i sin klasse.
+Onvo L60 AWD leverer solid ytelse med en maksimal effekt på 340 kW (462 hk / 456 bhp) og et totalt dreiemoment på 440 Nm (325 lb-ft). Den akselererer fra 0 til 100 km/t på 4,6 sekunder og når en topphastighet på 203 km/t (126 mph), noe som gjør den konkurransedyktig i sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
-Onvo L60 AWD har to batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading.
+Onvo L60 AWD er tilgjengelig med to batterialternativer, som hver tilbyr ulike spesifikasjoner og ytelsesmålinger.
 
 ### 85kWh
 
-Høykapasitetsbatteriet har en brutto kapasitet på 85,0 kWh og en netto brukbar kapasitet på 90,0 kWh, som gir en buffer på -5,0 kWh (-5,9%) for batteribeskyttelse. Ved å operere med en nominell spenning på 792 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet med høy kapasitet har en brutto kapasitet på 85,0 kWh og en netto brukbar kapasitet på 90,0 kWh, som gir en -5,0 kWh buffer (-5,9%) for batteribeskyttelse. Med en driftsspenning på 792 volt, kvalifiserer det som et 800-volts batterisystem. Denne høye spenningen er avgjørende for systemets ladeegenskaper. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 700 km (435 miles). Forbruket er 12,9kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+Kjørelengden, ifølge [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standarden, er 700 km (435 miles). Energiforbruket er 12,9 kWh/100 km basert på CLTC standardtest. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 38 minutter, mens et mer vanlig scenario på 10-80 % vil ta 21 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 77%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 153kW. Hver ladeøkt vil ta 27 minutter og 44 sekunder. Denne effektive ladekapasiteten gjør Onvo L60 AWD til et praktisk valg for langdistansereiser.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 250 kW. Lading fra 0% til 100% tar omtrent 38 minutter, mens et mer typisk scenario fra 10% til 80% tar 21 minutter med en gjennomsnittlig ladehastighet på 183 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 1% til 77%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 153 kW, hvor hver ladeøkt tar omtrent 27 minutter og 44 sekunder. Denne effektive ladekapasiteten gjør Onvo L60 AWD til et praktisk alternativ for langdistansekjøring.
 
 ### 60kWh
 
-Høykapasitetsbatteriet har en brutto kapasitet på 60,6 kWh og en netto brukbar kapasitet på 59,0 kWh, som gir en buffer på 1,6 kWh (2,6%) for batteribeskyttelse. Ved å operere med en nominell spenning på 685 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet med høy kapasitet har en brutto kapasitet på 60,6 kWh og en netto brukbar kapasitet på 59,0 kWh, som gir en 1,6 kWh buffer (2,6%) for batteribeskyttelse. Med en driftsspenning på 685 volt, kvalifiserer det som et 800-volts batterisystem. Denne høye spenningen er avgjørende for systemets ladeegenskaper. Litium-ion-batteriet bruker [LFP-teknologi](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), som gir både fordeler og ulemper sammenlignet med typiske NCA/NMC-batterier.
 
-[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 525 km (326 miles). Forbruket er 12,9kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+Kjørelengden, ifølge [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standarden, er 525 km (326 miles). Energiforbruket er 12,9 kWh/100 km basert på CLTC standardtest. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 48 minutter, mens et mer vanlig scenario på 10-80 % vil ta 25 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 76%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 83kW. Hver ladeøkt vil ta 30 minutter og 53 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 150 kW. Lading fra 0% til 100% tar omtrent 48 minutter, mens et mer typisk scenario fra 10% til 80% tar 25 minutter med en gjennomsnittlig ladehastighet på 99 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 6% til 76%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 83 kW, hvor hver ladeøkt tar omtrent 30 minutter og 53 sekunder.
 
-### Ombordlader
+### Innebygd lader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 8 timer og 10 minutter med en hjemmelader.
+Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 8 timer og 10 minutter ved bruk av et hjemmeoppsett.
 
-### Ladeport
+### Ladekontakt
 
-Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen.
+Ladeporten er plassert på [venstre bakside](../../../../technology/charging/connectors/#rear-side), som gjør det enkelt å bruke ladestasjoner hvor du må rygge inn til laderen.
 
 ### Toveis lading
 
-Denne modellen støtter V2L (Vehicle 2 Load), som betyr at du kan drive elektrisk utstyr som krever opptil 3,3 kW strøm, inkludert lading av andre kjøretøy.
+Denne modellen støtter V2L (Vehicle to Load), som lar deg drive elektrisk utstyr som krever opptil 3,3 kW strøm, inkludert muligheten til å lade andre kjøretøy.
 
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/battery_1_st.jpg" title="Onvo L60 AWD" width="1005" height="1080"  >}}
 
-### Batteribytte
+### Batteribytting
 
-Denne modellen støtter batteribytte. Batteribytte betyr at du kan kjøre til en unik batteribyttestasjon og få batteriet erstattet med et nytt batteri med 90 % SOC. Batteribyttet tar 7 minutter.
+Denne modellen støtter batteribytting. Batteribytting betyr at du kan kjøre til en spesiell batteribyttestasjon og få batteriet erstattet med et nytt batteri med 90% lading. Batteribyttet tar 7 minutter.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivverk
+## Drivlinje
 
-Onvo L60 AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
+Onvo L60 AWD har et firehjulsdrift-system drevet av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/) på bakakselen.
 
-### Hjuloppheng
+### Fjæring
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 175 mm.
+Forhjulsopphenget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og bakhjulsopphenget er [Multilink](../../../../technology/suspension/#multilink). Standardfjæringen inkluderer stålfjærer og hydrauliske dempere. har fast høyde og demping på fjæringen. Bakkeklaring med denne hjulopphenget er 175 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funksjonen på Onvo L60 AWD. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard på Onvo L60 AWD, og varierer styreutvekslingen basert på kjørehastighet for bedre kontroll og komfort.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
+Onvo L60 AWD er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak.
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) i denne modellen er primært tilrettelagt gjennom [**en-pedalskjøring**](../../../../technology/regen/#one-pedal-driving). I motsetning til noen modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling ikke tilgjengelig her. Ved lave hastigheter vil en-pedalskjøringsmodus holde bilen sakte fremover.
+[Regenerativ bremsing](../../../../technology/regen/) i denne modellen skjer primært gjennom [**kjøring med én pedal**](../../../../technology/regen/#one-pedal-driving). I motsetning til enkelte andre modeller, er ikke [Automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive) eller frirulle tilgjengelig her. Ved lave hastigheter vil kjøring med én pedal holde bilen krypende fremover.
 
-I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det finnes tre nivåer av regenerativ bremsing å velge mellom, noe som gir deg mulighet til å tilpasse kjøreopplevelsen etter dine preferanser.
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten av gasspedalen. Det er tre nivåer å velge mellom, slik at du kan tilpasse kjøreopplevelsen etter eget ønske.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
-Onvo L60 AWD, med dimensjoner på 4828 mm i lengde, 1930 mm i bredde og 1616 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Onvo L60 AWD er tilgjengelig i totalt 7 ensfargede lakkfarger.
+Onvo L60 AWD, med dimensjoner på 4828 mm i lengde, 1930 mm i bredde og 1616 mm i høyde, tilhører mellomstore SUVer som tilbyr en kombinasjon av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for en bred gruppe sjåfører med ulike behov. Onvo L60 AWD er tilgjengelig i totalt 7 solide lakkfarger.
 
-Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Onvo L60 AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Onvo L60 AWD tilbyr flere hjulalternativer i ulike størrelser, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
 - 245/50 dekk på 19" felger
 - 245/45 dekk på 20" felger
 
-Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+Smalere hjul forbedrer forbruket og gir lengre rekkevidde, mens bredere hjul gir bedre veigrep og håndtering.
 
-Bilen har fire [rammeløse dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate). 'Soft Close' er en standard-funksjon for sidedørene. Løfteporten er elektrisk drevet og har kick-sensor som standard.
+Bilen har fire [rammeløse dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate). Myk lukking er en standard funksjon for sidedørene. Bakluken er elektrisk og har bevegelsessensor som standard.
 
-Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panoramaglastak som strekker seg fra front til bak, noe som forbedrer interiørets romslige og lyse følelse og dermed forbedrer stemningen og komforten til passasjerene. Dette glasset er tonet for å beskytte mot varme fra solen.
+Det er kun ett takalternativ for denne modellen. Standardtaket inkluderer et stort panoramaglasstak som strekker seg fra front til bak, noe som forbedrer interiørets romslige og lyse følelse, og dermed forbedrer stemningen og komforten for passasjerene. Dette glasset er tonet for å beskytte mot varme fra solen.
 
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/exterior_1_st.jpg" title="Onvo L60 AWD" width="1280" height="720"  >}}
 
@@ -121,46 +121,46 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 
 ## Interiør
 
-Interiøret i Onvo L60 AWD er minimalistisk, med materialer av høy kvalitet i flere områder i stedet for hard plast. Den todelte midtkonsollen skiller fører og passasjer, og tilbyr praktiske oppbevaringsmuligheter og forbedret funksjonalitet. Du kan velge mellom flere interiørdesign.
+Interiøret i Onvo L60 AWD er minimalistisk, med materialer av høy kvalitet flere steder istedenfor hard plast. Midtkonsollen i to nivåer skiller fører og passasjer, og gir praktiske oppbevaringsmuligheter og økt funksjonalitet. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
-Onvo L60 AWD har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+Onvo L60 AWD har plass til fem passasjerer med to forseter og en treseters benk bak.
 
 #### Forseter
 
-Onvo L60 AWD Long Range tilbyr kun én type forsete.
+Onvo L60 AWD tilbyr bare én type forsete.
 
-Følgende funksjoner er tilgjengelige på **standard** setet.
+Følgende funksjoner er tilgjengelig på **standard** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
+- [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)
+- Høydejusterbar hodestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support) (standard for passasjersete)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
+- [Massasje](../../../../technology/seats/adjustment/#massage) (valgfritt)
+- [Benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support) (standard for passasjersete)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
-- Brown [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Beige [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Lilac [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Brown [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
+- Beige [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
+- Black [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
+- Lilac [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/frontseats_1_st.jpg" title="Onvo L60 AWD" width="2232" height="1360"  >}}
 
-#### Seter på andre rad
+#### Andre seterad
 
-Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+Andre seterad har en standard treseter-benk med 40:60 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (standard for ytre seter)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
+- Høydejusterbar hodestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/secondrowseats_1_st.jpg" title="Onvo L60 AWD" width="1536" height="864"  >}}
 
@@ -168,20 +168,20 @@ Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan fol
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem.
+Det er ett klimasystem tilgjengelig:
 
-- **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
+- **3-sone klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
 
-En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
-Onvo L60 AWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+Onvo L60 AWD inkluderer flere funksjoner for å øke komfort og bekvemmelighet:
 
 - **Elektrisk justerbart ratt**
-- **Trådløs lading av telefon**
+- **Trådløs telefonlading**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -189,59 +189,59 @@ Onvo L60 AWD inkluderer flere funksjoner for å forbedre komfort og bekvemmeligh
 
 ## Brukergrensesnitt og kontroll
 
-Kontrollgrensesnittet for denne elbilmodellen er fokusert rundt skjerminteraksjon og har kun begrenset funksjonalitet tilgjengelig på knapper og spaker. For noen kan dette føre til en mindre enn ideell brukeropplevelse og brukervennlighet.
+Kontrollgrensesnittet for Onvo L60 AWD er primært fokusert på skjerminteraksjon, med begrenset funksjonalitet tilgjengelig via fysiske knapper og spaker. Dette designet kan resultere i en mindre enn ideell brukeropplevelse for enkelte brukere.
 
-Onvo L60 AWD har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
+Onvo L60 AWD har én enkelt skjerm for føreren. I midten av dashbordet er det en enkelt [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) som fungerer som hovedskjerm for både kjøretøyinformasjon og underholdningsfunksjoner.
 
 Viktige skjermdetaljer:
 
-- touch-skjermen i dashbordets sentrum er 17,2 tommer stor
+- touch-skjermen på midten av dashbordet er 17,2 tommer stor
 
-Et head-up display er en standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en standard system som projiserer hastighet og annen viktig førerinformasjon på frontruten.
 
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/screens_1_st.jpg" title="Onvo L60 AWD" width="2048" height="1429"  >}}
 
 ### Ratt
 
-Onvo L60 AWD er utstyrt med en enkelt type ratt:
+Onvo L60 AWD er utstyrt med én type ratt:
 
-- **Ovalt Ratt:** Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det inkluderer også to multifunksjonelle rullehjul, som gir deg muligheten til å kontrollere infotainmentsystemet, justere volumet, bytte musikksport og håndtere andre viktige funksjoner enkelt.
+- **Ovalt ratt:** Dette rattet har integrert oppvarming for ekstra komfort i kaldt vær. Det har også to multifunksjonelle rullehjul som lar deg kontrollere infotainmentsystemet, justere volumet, bytte musikk og styre andre viktige funksjoner enkelt.
 
 ### Speil
 
-Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+Både utvendige og innvendige speil bruker konvensjonell speilteknologi for å gi klar sikt over området bak kjøretøyet.
 
-Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
+Denne modellen kommer med stemmekontroll som standard, som lar deg styre ulike funksjoner gjennom talekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
-Onvo L60 AWD har et infotainmentsystem kalt NIO SkyOS, designet for å gi et brukervennlig grensesnitt med en rekke funksjoner og tjenester for å forbedre kjøreopplevelsen. Dette systemet inkluderer ulike apper og tjenester, som navigasjon, musikkstrømming og kjøretøyinnstillinger, alt tilgjengelig via berøringsskjermen. Det støtter også over-the-air oppdateringer, som sikrer at kjøretøyet forblir oppdatert med de nyeste funksjonene og forbedringene.
+Onvo L60 AWD har et infotainmentsystem kalt NIO SkyOS, designet for å gi et brukervennlig grensesnitt med mange funksjoner som forbedrer kjøreopplevelsen. Dette systemet inkluderer ulike apper og tjenester som navigasjon, musikkstrømming og bilinnstillinger, alt tilgjengelig via berøringsskjermen. Det støtter også programvareoppdateringer over nettet, slik at bilen alltid har de nyeste funksjonene og forbedringene.
 
 ### Navigasjonssystem
 
-Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon, noe som sikrer en effektiv og stressfri reise.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon som sikrer en effektiv og stressfri reise.
 
-### App store
+### App-butikk
 
-Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper for å kjøre direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
+Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper som kjører direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer etter marked, men inkluderer populære alternativer som:
 
-- **Spotify:** Strøm millioner av sanger, spillelister og podcaster direkte fra bilens infotainmentsystem, og tilbyr uendelige underholdningsalternativer under kjøringen.
+- **Spotify:** Strøm millioner av sanger, spillelister og podkaster direkte fra bilens infotainmentsystem, som gir endeløse underholdningsmuligheter for kjøreturen.
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Onvo L60 AWD.
+Onvo L60 AWD kommer med ett lydsystem:
 
-- Med Onvo Surround System får du 18 høyttalere med en maksimal systemeffekt på 1020 watt.
+- **Onvo Surround System:** Har 18 høyttalere og leverer en maksimal effekt på 1020 watt.
 
-Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+I tillegg har modellen 2 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 
 ## Lys
 
-**Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
+**Standard frontlykter:** Disse bruker avansert LED-teknologi som gir lyst og effektivt lys.
 
-Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+Baklysene bruker LED-teknologi, som sikrer både god synlighet og energieffektivitet.
 
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/headlights_1_st.jpg" title="Onvo L60 AWD" width="1320" height="916"  >}}
 
@@ -249,72 +249,72 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 ## Avanserte førerassistentsystemer
 
-Onvo L60 AWD inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
+Onvo L60 AWD har en rekke standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet for å øke sikkerhet og komfort.
 
 ### Sikkerhetssystemer
 
-[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Onvo L60 AWD, dette systemet forhindrer hjulene i å låse seg under bremsing.
+[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Onvo L60 AWD, dette systemet hindrer hjulene i å låse seg under bremsing.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Onvo L60 AWD, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Onvo L60 AWD, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
-[**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Onvo L60 AWD, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
+[**Filholderassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Onvo L60 AWD, dette systemet hjelper med å hindre kjøretøyet i å drive ut av filen. Den inkluderer også et [**Filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler føreren hvis kjøretøyet beveger seg ut av filen.
 
-[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfri på Onvo L60 AWD, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+[**Kryssende trafikkvarsling foran (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Valgfritt på Onvo L60 AWD, dette førerassistentsystemet hjelper førere med å oppdage møtende trafikk når de krysser et veikryss eller svinger til venstre eller høyre fra stillestående posisjon.
 
-[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Onvo L60 AWD, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Kryssende trafikkvarsling bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Onvo L60 AWD, dette systemet bruker sensorer for å oppdage kjøretøy som nærmer seg fra siden når man rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfri på Onvo L60 AWD, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfritt på Onvo L60 AWD, dette førerassistentsystemet hjelper førere med å unngå eller redusere frontkollisjoner.
 
-[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Onvo L60 AWD, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+[**Automatisk nødbrems (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Onvo L60 AWD, dette systemet aktiverer bremsene automatisk for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfri på Onvo L60 AWD, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
+[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfritt på Onvo L60 AWD, dette systemet hjelper til med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Onvo L60 AWD, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåking (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Onvo L60 AWD, dette sideassistentsystemet hjelper med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 
 Med standard Onvo Self Driving nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
+- [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfritt)
 
-### Sensorer & Kameraer
+### Sensorer og kameraer
 
-Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
-Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), ti [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+Denne modellen bruker kameraer, radar og ultralydsensorer for sine førerassistentsystemer.
+Opp til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), ti [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
-## Sikkerhets- og tilgangsteknologier
+## Sikkerhet og adgangsteknologi
 
 Onvo L60 AWD er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
 - **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
-- **Telefon som nøkkelfunksjonalitet:** Med telefon som nøkkelteknologi kan du bruke smarttelefonen som en digital nøkkel for å låse opp og starte kjøretøyet, og gi en ekstra lag av bekvemmelighet og fleksibilitet.
+- **Telefon-som-nøkkel-funksjonalitet:** Med telefon-som-nøkkel-teknologi kan du bruke smarttelefonen din som en digital nøkkel for å låse opp og starte kjøretøyet, noe som gir et ekstra lag med bekvemmelighet og fleksibilitet.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastekapasitet og slepeevne
+## Laste- og tilhengerkapasitet
 
-Bagasjerommet tilbyr en lastekapasitet på 495 liter. Med baksetene nedfelt, utvides dette til 1505 liter.
+Bagasjerommet har en lastekapasitet på 495 liter (17,5 CU FT). Med baksetet nedfelt øker dette til 1505 liter (53,1 CU FT).
 
-Kjøretøyets maksimale vekt er 2400 kg, med en basisvekt på 1955 kg. Dette gir en maksimal lastekapasitet på 445 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 445 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
+Kjøretøyets maksimale vekt er 2400 kg (5291 lbs), med en egenvekt på 1955 kg (4310 lbs). Dette tillater en maksimal last på 445 kg (981 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet. 445kg regnes som lavt for denne typen bil og kan begrense hvor mye du kan ta med i tillegg til passasjerer.
 
-Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
+Denne modellen er ikke tilgjengelig med tilhengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 
-## Tilgjengelighet & pris
+## Tilgjengelighet og priser
 
-Onvo L60 AWD hadde sin verdenspremiere den 19.09.2024, med leveranser som startet i November 2024.
+Onvo L60 AWD hadde sin verdenspremiere 19.09.2024, med leveringer som startet i November 2024.
 
 ### Priser
 
-Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
+Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er startprisene for utvalgte land:
 
 - 235 900,00 yuan (Kina)
 
-## Alternative Modeller
+## Alternative modeller
 
-I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Onvo L60 AWD som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til Onvo L60 AWD som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
 - [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
 - [XPENG G6 AWD Performance](/models/xpeng/g6/g6_awd_performance/)

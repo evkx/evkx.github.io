@@ -1,5 +1,5 @@
 ---
-title: Chevrolet elektriske modeller
+title: Chevrolet elbilmodeller
 linktitle: "Chevrolet"
 description: "Chevrolet is one of the leading automakers in the electric vehicle (EV) market, with a vision to create a world with zero crashes, zero emissions, and zero congestion. The company is committed to providing EVs for everyone, from compact cars to full-size trucks, with a range of models that suit different needs and preferences."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Chevrolet Blazer EV er en SUV tilgjengelig i 3 varianter.
 </p>
-	<a href="blazer_ev/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="blazer_ev/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Chevrolet Blazer EV er en SUV tilgjengelig i 3 varianter.
             <div class="col col-12 col-md-6"><p>
 Chevrolet Equinox EV er en SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="equinox_ev/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="equinox_ev/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -56,9 +56,9 @@ Chevrolet Equinox EV er en SUV tilgjengelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Chevrolet Silverado EV er en pick-up som er tilgjengelig i 3 varianter.
+Chevrolet Silverado EV er en pickup tilgjengelig i 3 varianter.
 </p>
-	<a href="silverado_ev/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="silverado_ev/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

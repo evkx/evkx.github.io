@@ -1,5 +1,5 @@
 ---
-title: Peugot elektriske modeller
+title: Peugot elbilmodeller
 linktitle: "Peugot"
 description: "Peugeot is a French brand of automobiles that was founded in 1810 as a steel foundry that later produced hand tools, kitchen equipment, bicycles and cars. Peugeot is known for its lion logo, which was registered in 1858 by Émile Peugeot. Peugeot is part of the Stellantis group, which was formed in 2021 by the merger of PSA Peugeot Citroën and Fiat Chrysler Automobiles."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Peugot 2008 er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="2008/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="2008/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Peugot 2008 er en crossover tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Peugot 208 er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="208/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="208/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -56,9 +56,9 @@ Peugot 208 er en crossover tilgjengelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Peugot 3008 er en Coupe SUV tilgjengelig i 2 varianter.
+Peugot 3008 er en SUV-kupé tilgjengelig i 2 varianter.
 </p>
-	<a href="3008/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="3008/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -71,9 +71,9 @@ Peugot 3008 er en Coupe SUV tilgjengelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Peugot 308 er en hatcback /stasjonsvogn tilgjengelig i 2 varianter.
+Peugot 308 er en kombi/stasjonsvogn tilgjengelig i 2 varianter.
 </p>
-	<a href="308/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="308/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -88,7 +88,7 @@ Peugot 308 er en hatcback /stasjonsvogn tilgjengelig i 2 varianter.
             <div class="col col-12 col-md-6"><p>
 Peugot 5008 er en SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="5008/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="5008/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

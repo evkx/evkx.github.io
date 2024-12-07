@@ -1,5 +1,5 @@
 ---
-title: Jeep elektriske modeller
+title: Jeep elbilmodeller
 linktitle: "Jeep"
 description: "Jeep is a brand of American automobiles that is known for its off-road and SUV vehicles. Jeep is planning to electrify its entire lineup by 2025 and is expecting 50% of its US sales to be fully electric by 2030."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Jeep Avenger er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="avenger/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="avenger/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

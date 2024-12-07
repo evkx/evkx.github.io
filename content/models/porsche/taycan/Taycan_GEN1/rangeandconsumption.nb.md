@@ -1,5 +1,5 @@
 ---
-title: Porsche Taycan (GEN1) rekkevidde & forbruk
+title: Porsche Taycan (GEN1) rekkevidde og forbruk
 linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Porsche Taycan (GEN1)."
 weight: 2
@@ -9,16 +9,16 @@ navicon: bi-file-earmark-bar-graph
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 
-Rekkevidden vil variere avhengig av flere faktorer. Som hvor fort du kjører, temperaturen, våt eller tørr vei, og utstyrt utstyr. På denne siden finner du et diagram og tabeller med standard testsyklusresultater som WLTP og EPA og estimert rekkevidde i den virkelige verden i forskjellige miljøer.
+Rekkevidden vil variere avhengig av flere faktorer. Som hvor fort du kjører, temperaturen, vått eller tørt føre, og hvilket utstyr som er montert. På denne siden finner du et diagram og tabeller med resultatene fra standardtestsykluser som WLTP og EPA, samt estimert rekkevidde i ulike reelle forhold.
 
-Rekkevidden vil variere avhengig av flere faktorer. Som hvor fort du kjører, temperaturen, våt eller tørr vei, og utstyrt utstyr. På denne siden finner du et diagram og tabeller med standard testsyklusresultater som WLTP og EPA og estimert rekkevidde i den virkelige verden i forskjellige miljøer.
+Rekkevidden vil variere avhengig av flere faktorer. Som hvor fort du kjører, temperaturen, vått eller tørt føre, og hvilket utstyr som er montert. På denne siden finner du et diagram og tabeller med resultatene fra standardtestsykluser som WLTP og EPA, samt estimert rekkevidde i ulike reelle forhold.
 
 <img class="img-fluid" alt="Charge curve" src="/images//models/porsche/taycan/taycan_gen1/range_1.svg"/>
 <a href="/images/models/porsche/taycan/taycan_gen1/range_1.svg">Full screen</a>
 
 ### Offisielle testsyklusresultater
 
-Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC slått av. Klikk på koblingene i tabellen for mer detaljer om testprosedyrer.
+Under er de offisielt oppgitte rekkevidder. Testene utføres med varmeapparat/AC avslått. Klikk på lenkene i tabellen for mer informasjon om testprosedyrene.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -38,7 +38,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP rekkevidde grunnleggende utstyrsnivå
+					WLTP-rekkevidde basismodell
 				</a>
 			</td>
 			<td>
@@ -51,7 +51,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP rekkevidde maks utstyrsniv
+					WLTP-rekkevidde toppmodell
 				</a>
 			</td>
 			<td>
@@ -65,9 +65,9 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 </table>
 </div>
 
-### Offisielle testsyklusresultater med ekstra oppvarming
+### Offisielle testsyklusresultater med oppvarming
 
-Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/varm dag påvirker den offisielle rekkevidden.
+Tabellen under viser hvordan varme/kjøling på en kald/varm dag påvirker den offisielle rekkevidden.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -79,14 +79,14 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				Rekkevidde
 			</th>
 			<th>
-				Rekkeviddereduksjon
+				Reduksjon i rekkevidde
 			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				WLTP rekkevidde grunnleggende utstyrsnivå med 2KW AC
+				WLTP-rekkevidde basismodell med 2 kW klimaanlegg
 			</td>
 			<td>
 				 342km / 213 mi 
@@ -97,7 +97,7 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 		</tr>
 		<tr>
 			<td>
-				WLTP rekkevidde maks utstyrsniv med 2KW AC
+				WLTP-rekkevidde toppmodell med 2 kW klimaanlegg
 			</td>
 			<td>
 				291 km / 181 mi
@@ -110,9 +110,9 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 </table>
 </div>
 
-### Rekkeviddeanslag fra den virkelige verden
+### Estimater for reell rekkevidde
 
-Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under perfekte forhold og under forhold som krever luftkondisjonering for å varme opp eller kjøle ned kjøretøy. Se vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å se hvordan rekkevidden påvirkes i den virkelige verden.
+Tabellen under viser noen estimerte eksempler fra virkeligheten under ideelle forhold og under forhold som krever klimaanlegg for å varme eller kjøle kjøretøyet. Se vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å se hvordan rekkevidden påvirkes i virkeligheten.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -131,7 +131,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 	<tbody>
 		<tr>
 			<td>
-				120 kmt/75 mph under perfekte forhold
+				120 km/t / 75 mph under ideelle forhold
 			</td>
 			<td>
 				323 km / 201 mi
@@ -142,7 +142,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 		</tr>
 		<tr>
 			<td>
-				120 kmt /75mph med 2KW oppvarming
+				120 km/t / 75 mph med 2 kW oppvarming
 			</td>
 			<td>
 				300 km /186mi
@@ -160,7 +160,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 
 ### Offisielle testsyklusresultater
 
-Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC slått av. Klikk på koblingene i tabellen for mer detaljer om testprosedyrer.
+Under er de offisielt oppgitte rekkevidder. Testene utføres med varmeapparat/AC avslått. Klikk på lenkene i tabellen for mer informasjon om testprosedyrene.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -180,7 +180,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP rekkevidde grunnleggende utstyrsnivå
+					WLTP-rekkevidde basismodell
 				</a>
 			</td>
 			<td>
@@ -193,7 +193,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP rekkevidde maks utstyrsniv
+					WLTP-rekkevidde toppmodell
 				</a>
 			</td>
 			<td>
@@ -207,9 +207,9 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 </table>
 </div>
 
-### Offisielle testsyklusresultater med ekstra oppvarming
+### Offisielle testsyklusresultater med oppvarming
 
-Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/varm dag påvirker den offisielle rekkevidden.
+Tabellen under viser hvordan varme/kjøling på en kald/varm dag påvirker den offisielle rekkevidden.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -221,7 +221,7 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				Rekkevidde
 			</th>
 			<th>
-				Rekkeviddereduksjon
+				Reduksjon i rekkevidde
 			</th>
 		</tr>
 	</thead>
@@ -230,9 +230,9 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 </table>
 </div>
 
-### Rekkeviddeanslag fra den virkelige verden
+### Estimater for reell rekkevidde
 
-Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under perfekte forhold og under forhold som krever luftkondisjonering for å varme opp eller kjøle ned kjøretøy. Se vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å se hvordan rekkevidden påvirkes i den virkelige verden.
+Tabellen under viser noen estimerte eksempler fra virkeligheten under ideelle forhold og under forhold som krever klimaanlegg for å varme eller kjøle kjøretøyet. Se vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å se hvordan rekkevidden påvirkes i virkeligheten.
 
 <div class="table-responsive">
 <table class="table table-striped border">

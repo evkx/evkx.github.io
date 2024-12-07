@@ -1,5 +1,5 @@
 ---
-title: KGM elektriske modeller
+title: KGM elbilmodeller
 linktitle: "KGM"
 description: "Korean Global Motors (KGM) is an automobile manufacturer based in South Korea. Known for its diverse range of vehicles, including electric and hybrid models, KGM has made notable contributions to the global automotive market. The company emphasizes innovative design and advanced engineering, aligning with industry trends towards sustainability and technology integration. KGM continues to be a significant presence in the automotive sector, both domestically and internationally."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 KGM Torres er en SUV tilgjengelig i 1 varianter.
 </p>
-	<a href="torres/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="torres/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

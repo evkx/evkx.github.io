@@ -1,7 +1,7 @@
 ---
-title: Porsche Macan 4S galleri
-linktitle: "Galleri"
-description: "Se nedenfor for vårt store Porsche Macan 4S bildegalleri. Klikk på bildene for høyoppløselige versjoner."
+title: Porsche Macan 4S bildegalleri
+linktitle: "Bildegalleri"
+description: "Se under for vårt store bildegalleri av Porsche Macan 4S. Klikk på bildene for høyoppløselige versjoner."
 weight: 5
 hidden: true
 navicon: bi-images
@@ -212,6 +212,6 @@ lightbox.init();
 <strong><i class="bi-arrow-left"></i> Spesifikasjoner </strong>
 </a>
 <a href="../reviews/" class="text-decoration-none text-black float-end">
-<strong>Tester <i class="bi-arrow-right"></i></strong>
+<strong>Anmeldelser <i class="bi-arrow-right"></i></strong>
 </a>
 </div>

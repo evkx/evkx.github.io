@@ -1,7 +1,7 @@
 ---
 title: VOYAH Courage AWD
 linktitle: "Courage AWD"
-description: "VOYAH Courage AWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 440 km. EVKX.net har alle detaljene."
+description: "VOYAH Courage AWD er en elektrisk SUV med en WLTP rekkevidde på opptil 440 km (274 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,97 +11,97 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/voyah/courage/courage_awd/main_1_st.jpg" title="VOYAH Courage AWD" width="3000" height="1695"  >}}
 
-Vi har delt vår beskrivelse av VOYAH Courage AWD i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering. Klikk på lenkene nedenfor for å hoppe til ulike områder eller les videre for hele artikkelen. I tillegg tilbyr vi en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [nettanmeldelser](reviews/). Våre seksjoner inkluderer:
 
-- [Ytelse](#ytelse)
-- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivverk (fjæring, bremser, styring)](#drivverk)
-- [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interiør)
-- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
-- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
+- [Ytelse](#section-performance)
+- [Batteri, rekkevidde og lading](#section-battery)
+- [Drivlinje (fjæring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (lakkfarger, hjul ++)](#section-exterior)
+- [Interiør (seter++)](#section-interior)
+- [Brukergrensesnitt og kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lys](#section-lights)
+- [Avanserte førerassistentsystemer](#section-adas)
+- [Lastkapasitet og tilhengerevne](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ytelse
 
-VOYAH Courage AWD leverer solid ytelse med en maksimal effekt på 320 kW (435 hk) og et totalt dreiemoment på 620 Nm. Den kan akselerere fra 0 til 100 km/t på 4,9 sekunder og når en topphastighet på 204 km/t, noe som gjør den konkurransedyktig i sin klasse.
+VOYAH Courage AWD leverer solid ytelse med en maksimal effekt på 320 kW (435 hk / 429 bhp) og et totalt dreiemoment på 620 Nm (458 lb-ft). Den akselererer fra 0 til 100 km/t på 4,9 sekunder og når en topphastighet på 204 km/t (127 mph), noe som gjør den konkurransedyktig i sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 77,0 kWh og en netto brukbar kapasitet på 76,0 kWh, som gir en buffer på 1,0 kWh (1,3%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet med høy kapasitet har en brutto kapasitet på 77,0 kWh og en netto brukbar kapasitet på 76,0 kWh, som gir en 1,0 kWh buffer (1,3%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volts batterisystem, i tråd med bransjestandarder. Litium-ion-batteriet bruker [LFP-teknologi](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), som gir både fordeler og ulemper sammenlignet med typiske NCA/NMC-batterier.
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 440 km, med et energiforbruk på 17,3 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, er kjørelengden 440 km (274 miles), med et energiforbruk på 17,3 kWh/100 km (3,6 mi/kWh). For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Maksimal DC-ladehastighet er 100 kW. En full lading fra 0 - 100 % vil ta 73 minutter, mens et mer vanlig scenario på 10-80 % vil ta 38 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 74%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 74kW. Hver ladeøkt vil ta 44 minutter og 23 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 100 kW. Lading fra 0% til 100% tar omtrent 73 minutter, mens et mer typisk scenario fra 10% til 80% tar 38 minutter med en gjennomsnittlig ladehastighet på 83 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 2% til 74%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 74 kW, hvor hver ladeøkt tar omtrent 44 minutter og 23 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 23 kWh/100 km, ville turen ta omtrent 10 timer og 25 minutter. Denne reisen ville kreve to ladestopp fra 5% til 73%, med en total ladetid på 126 minutter.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 23 kWh/100 km, vil turen ta omtrent 10 timer og 25 minutter, og kreve tre ladestopp fra 5% til 73%, totalt 126 minutter ladetid.
 
-### Ombordlader
+### Innebygd lader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 6 timer og 54 minutter med en hjemmelader.
+Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 6 timer og 54 minutter ved bruk av et hjemmeoppsett.
 
-### Ladeport
+### Ladekontakt
 
-Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen.
+Ladeporten er plassert på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner hvor du må rygge inn til laderen.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivverk
+## Drivlinje
 
-VOYAH Courage AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+VOYAH Courage AWD har et firehjulsdrift-system drevet av to motorer, en på hver aksel. Motorene som brukes er [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
-### Hjuloppheng
+### Fjæring
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere.
+Forhjulsopphenget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og bakhjulsopphenget er [Multilink](../../../../technology/suspension/#multilink). Standardfjæringen inkluderer stålfjærer og hydrauliske dempere.
 
 ### Styring
 
-Dynamisk styring er en standard-funksjonen på VOYAH Courage AWD. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard på VOYAH Courage AWD, og varierer styreutvekslingen basert på kjørehastighet for bedre kontroll og komfort.
 
 ### Kjøremoduser
 
-VOYAH Courage AWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 6 moduser:
+VOYAH Courage AWD lar brukeren velge ulike [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens håndtering. Føreren kan velge mellom 6 moduser:
 
 - Performance: Dynamisk styring, fjæring og gasspådrag.
-- Eco: Balansert styring, med effektiv gasspådrag, og balansert fjæring.
-- Comfort: Balansert gasspådrag og styring, komfort fjæringsdemping.
-- Outing: Balansert gasspådrag og styring, komfort fjæringsdemping.
-- Snow: Balansert styring, gass og demping.
+- Eco: Balansert styring, med effektiv gasspådrag og balansert fjæring.
+- Comfort: Balansert gasspådrag og styring, komfortabel fjæringsdemping.
+- Outing: Balansert gasspådrag og styring, komfortabel fjæringsdemping.
+- Snow: Balansert styring, gasspådrag og demping.
 - Individual: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 350mm, og de bakre skivene er 350mm.
+VOYAH Courage AWD er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak. Skivene foran måler 350 mm, mens skivene bak er 350 mm.
 
 ### Regenerativ bremsing
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. Imidlertid blir [regenerativ bremsing](../../../../technology/regen/) muliggjort gjennom [**enpedals kjøring**](../../../../technology/regen/#one-pedal-driving) kombinert med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Du kan velge mellom to stoppmodi for en-pedalskjøring. <ul><li>**Roll-modus** lar kjøretøyet rulle til det stopper naturlig</li><li>**Creep-modus** beveger bilen sakte fremover</li></ul>
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. [Regenerativ bremsing](../../../../technology/regen/) skjer via [**kjøring med én pedal**](../../../../technology/regen/#one-pedal-driving) kombinert med [**kombinerte bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Du kan velge mellom to stoppemodi for kjøring med én pedal. <ul><li>**Rulle-modus** lar kjøretøyet rulle til det stopper naturlig</li><li>**Kryp-modus** lar bilen bevege seg sakte fremover</li></ul>
 
-Hvis du løfter foten helt bort, er regenereringen på et fast nivå. Dette kan ikke justeres.
+Hvis du løfter foten helt av gasspedalen er regenereringen på ett fast nivå. Dette kan ikke justeres.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
-VOYAH Courage AWD, med dimensjoner på 4725 mm i lengde, 1900 mm i bredde og 1653 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. VOYAH Courage AWD er tilgjengelig i totalt 7 lakkfarger, inkludert flere iøynefallende metalliske alternativer. Noen av disse lakkalternativene inkluderer to-tonet lakk hvor taket og den øvre delen av karosseriet er malt i en annen farge, noe som gir et karakteristisk og stilfullt utseende
+VOYAH Courage AWD, med dimensjoner på 4725 mm i lengde, 1900 mm i bredde og 1653 mm i høyde, tilhører kategorien kompakte SUVer, også kjent som C-SUVer. Disse tilbyr en balanse mellom praktisk bruk og manøvrerbarhet fra mindre kjøretøy og plassen og allsidigheten til større SUVer. VOYAH Courage AWD er tilgjengelig i totalt 7 lakkfarger, inkludert flere slående metallic-lakker. Noen av disse fargevalene inkluderer tolags-lakk hvor taket og øvre del av karosseriet er lakkert i en annen farge, som gir et særpreget og stilig utseende.
 
-Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på VOYAH Courage AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på VOYAH Courage AWD, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
 - 255/45 dekk på 20" felger
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Løfteporten er elektrisk drevet og har kick-sensor som standard.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate). Bakluken er elektrisk og har bevegelsessensor som standard.
 
-Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør at bilens interiør føles romsligere og lysere , som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
+Det er kun ett takalternativ for denne modellen. Standardtaket har et panoramatak. Glasset strekker seg over mesteparten av taket, og passasjerene kan åpne den fremre delen. Dette glasset får bilens interiør til å føles mer romslig og lyst, noe som kan forbedre stemningen og komforten for passasjerene. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-Rutene fra B-stolpen og baksiden er tonet.
+Vinduene fra B-stolpen og bakover er tonede, noe som gir bedre privatliv og reduserer blending og varme fra solen, og gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/voyah/courage/courage_awd/exterior_1_st.jpg" title="VOYAH Courage AWD" width="1920" height="1003"  >}}
 
@@ -111,44 +111,44 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Interiøret i VOYAH Courage AWD er minimalistisk, med materialer av høy kvalitet i flere områder i stedet for hard plast. Den todelte midtkonsollen skiller fører og passasjer, og tilbyr praktiske oppbevaringsmuligheter og forbedret funksjonalitet. Du kan velge mellom flere interiørdesign.
+Interiøret i VOYAH Courage AWD er minimalistisk, med materialer av høy kvalitet flere steder istedenfor hard plast. Midtkonsollen i to nivåer skiller fører og passasjer, og gir praktiske oppbevaringsmuligheter og økt funksjonalitet. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
-VOYAH Courage AWD har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+VOYAH Courage AWD har plass til fem passasjerer med to forseter og en treseters benk bak.
 
 #### Forseter
 
-VOYAH Courage AWD Long Range tilbyr kun én type forsete.
+VOYAH Courage AWD tilbyr bare én type forsete.
 
-Følgende funksjoner er tilgjengelige på **standard** setet.
+Følgende funksjoner er tilgjengelig på **standard** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
+- [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)
+- Høydejusterbar hodestøtte
+- [Varme](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgjengelig for passasjer)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massasje](../../../../technology/seats/adjustment/#massage)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
+- [Massasje](../../../../technology/seats/adjustment/#massage)
 
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
-- White/Beige [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- White [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- White/Beige [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
+- Black [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
+- White [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/voyah/courage/courage_awd/frontseats_1_st.jpg" title="VOYAH Courage AWD" width="3000" height="2250"  >}}
 
-#### Seter på andre rad
+#### Andre seterad
 
-Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+Andre seterad har en standard treseter-benk med 40:60 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment)
-- høydejusterbar hodestøtte
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment)
+- Høydejusterbar hodestøtte
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/voyah/courage/courage_awd/secondrowseats_1_st.jpg" title="VOYAH Courage AWD" width="1280" height="853"  >}}
 
@@ -156,20 +156,20 @@ Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan fol
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem.
+Det er ett klimasystem tilgjengelig:
 
-- **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
+- **2-sone klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
-VOYAH Courage AWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+VOYAH Courage AWD inkluderer flere funksjoner for å øke komfort og bekvemmelighet:
 
-- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
-- **Trådløs lading av telefon**
+- **Easy Entry-funksjon:** Flytter førersetet for å gjøre det enklere å komme inn i bilen.
+- **Trådløs telefonlading**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -177,32 +177,32 @@ VOYAH Courage AWD inkluderer flere funksjoner for å forbedre komfort og bekvemm
 
 ## Brukergrensesnitt og kontroll
 
-Kontrollgrensesnittet for denne elbilmodellen inkluderer en intuitiv kombinasjon av knapper, hendler og skjermer, som gir en sømløs og brukervennlig opplevelse.
+Kontrollgrensesnittet for VOYAH Courage AWD kombinerer knapper, spaker og skjermer for en sømløs og brukervennlig opplevelse.
 
-VOYAH Courage AWD har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
+VOYAH Courage AWD har to skjermer med informasjon for fører og passasjerer. Bak rattet er det et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen, og på toppen av dashbordet er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Viktige skjermdetaljer:
 
 - -skjermen på rattstammen er 6,0 tommer stor
-- touch-skjermen i dashbordets sentrum er 15,4 tommer stor
+- touch-skjermen på midten av dashbordet er 15,4 tommer stor
 
-Modellen er ikke tilgjengelig med head-up display.
+Modellen har ikke head-up display.
 
 {{< sitefiguresized thumb="models/voyah/courage/courage_awd/screens_1_st.jpg" title="VOYAH Courage AWD" width="1920" height="1080"  >}}
 
 ### Ratt
 
-VOYAH Courage AWD er utstyrt med en enkelt type ratt:
+VOYAH Courage AWD er utstyrt med én type ratt:
 
-- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært ratt:** Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikk og styre andre viktige funksjoner.
 
 ### Speil
 
-Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+Både utvendige og innvendige speil bruker konvensjonell speilteknologi for å gi klar sikt over området bak kjøretøyet.
 
-Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
+Denne modellen kommer med stemmekontroll som standard, som lar deg styre ulike funksjoner gjennom talekommandoer.
 
-Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med hendene.
+Et gestekontrollsystem som lar deg styre spesifikke funksjoner ved hjelp av hendene.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -210,33 +210,33 @@ Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med he
 
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Med en standard innebygd navigasjonssystem har du all hjelpen du trenger for å nå destinasjonen din enkelt.
 
-### Telefonspeiling
+### Telefonspeling
 
-I tillegg støtter VOYAH Courage AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+VOYAH Courage AWD støtter Android Auto og Apple CarPlay, som lar deg speile telefonskjermen på bilens skjerm. Denne funksjonaliteten gjør at du kan kjøre apper som Google Maps eller Waze direkte fra telefonen.
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for VOYAH Courage AWD.
+VOYAH Courage AWD kommer med ett lydsystem:
 
-- Med DYNAUDIO HIFI Sound system får du fem høyttalere med en maksimal systemeffekt på 100 watt.
+- **DYNAUDIO HIFI Sound system:** Har fem høyttalere og leverer en maksimal effekt på 100 watt.
 
-Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinger som standard.
+I tillegg har modellen 1 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinger som standard.
 
 ## Mobilapp
 
-VOYAH Courage AWD kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+VOYAH Courage AWD kommer med en dedikert mobilapp, tilgjengelig for både Android og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt på avstand. Appen tilbyr en rekke funksjoner designet for å forbedre kjøreopplevelsen din:
 
-- **Finn kjøretøyet ditt**: Sjekk enkelt den nåværende plasseringen til bilen din.
-- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
-- **Juster ladegrense**: Angi ønsket ladetilstand for å starte eller stoppe lading etter behov.
+- **Finn bilen din:** Enkelt sjekk bilens nåværende posisjon.
+- **Forkondisjonering:** Forhåndsvarm eller avkjøl bilen før du starter reisen for optimal komfort.
+- **Juster lademål:** Angi ønsket ladenivå for å starte eller stoppe lading etter behov.
 
 ## Lys
 
-**Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
+**Standard frontlykter:** Disse bruker avansert LED-teknologi som gir lyst og effektivt lys.
 
-Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+Baklysene bruker LED-teknologi, som sikrer både god synlighet og energieffektivitet.
 
 {{< sitefiguresized thumb="models/voyah/courage/courage_awd/headlights_1_st.jpg" title="VOYAH Courage AWD" width="1200" height="675"  >}}
 
@@ -244,71 +244,71 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 ## Avanserte førerassistentsystemer
 
-VOYAH Courage AWD inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
+VOYAH Courage AWD har en rekke standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet for å øke sikkerhet og komfort.
 
 ### Sikkerhetssystemer
 
-[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på VOYAH Courage AWD, dette systemet forhindrer hjulene i å låse seg under bremsing.
+[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på VOYAH Courage AWD, dette systemet hindrer hjulene i å låse seg under bremsing.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på VOYAH Courage AWD, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på VOYAH Courage AWD, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
-[**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på VOYAH Courage AWD, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
+[**Filholderassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på VOYAH Courage AWD, dette systemet hjelper med å hindre kjøretøyet i å drive ut av filen. Den inkluderer også et [**Filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler føreren hvis kjøretøyet beveger seg ut av filen.
 
-[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på VOYAH Courage AWD, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Kryssende trafikkvarsling bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på VOYAH Courage AWD, dette systemet bruker sensorer for å oppdage kjøretøy som nærmer seg fra siden når man rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på VOYAH Courage AWD, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på VOYAH Courage AWD, dette førerassistentsystemet hjelper førere med å unngå eller redusere frontkollisjoner.
 
-[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på VOYAH Courage AWD, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+[**Automatisk nødbrems (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på VOYAH Courage AWD, dette systemet aktiverer bremsene automatisk for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på VOYAH Courage AWD, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåking (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på VOYAH Courage AWD, dette sideassistentsystemet hjelper med å oppdage trafikk i blindsoner.
 
-[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på VOYAH Courage AWD, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
+[**Utstigningsvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på VOYAH Courage AWD, dette systemet varsler passasjerer mot å åpne dører hvis det er risiko for å treffe noe.
 
 ### Kjøreautomatisering
 
 Med standard  nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
-- [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+- [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Filsentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk filskifte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-### Sensorer & Kameraer
+### Sensorer og kameraer
 
-Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
-Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+Denne modellen bruker kameraer, radar og ultralydsensorer for sine førerassistentsystemer.
+Opp til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
-## Sikkerhets- og tilgangsteknologier
+## Sikkerhet og adgangsteknologi
 
 VOYAH Courage AWD er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
 - **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
-- **Parkeringsovervåking:** Ved hjelp av sitt kamerasystem overvåker kjøretøyet aktivt omgivelsene mens det er parkert, og gir økt beskyttelse gjennom kontinuerlig overvåking.
+- **Parkeringsovervåkning:** Ved hjelp av kamerasystemet overvåker kjøretøyet aktivt omgivelsene mens det er parkert, og gir forbedret beskyttelse gjennom kontinuerlig overvåkning.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastekapasitet og slepeevne
+## Laste- og tilhengerkapasitet
 
-Bagasjerommet tilbyr en lastekapasitet på 527 liter. Med baksetene nedfelt, utvides dette til 1400 liter. På taket kan du laste opptil 75 kg. Takrails er standard for enkel montering av en takboks eller takstativ. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 72 liter.
+Bagasjerommet har en lastekapasitet på 527 liter (18,6 CU FT). Med baksetet nedfelt øker dette til 1400 liter (49,4 CU FT). På taket kan du laste opptil 75 kg (165,3 lbs). Takskinner er standard for enkel montering av takboks eller takstativ. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 72 liter (2,5 CU FT).
 
-Kjøretøyets maksimale vekt er 2602 kg, med en basisvekt på 2227 kg. Dette gir en maksimal lastekapasitet på 375 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 375 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
+Kjøretøyets maksimale vekt er 2602 kg (5736 lbs), med en egenvekt på 2227 kg (4910 lbs). Dette tillater en maksimal last på 375 kg (827 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet. 375kg regnes som lavt for denne typen bil og kan begrense hvor mye du kan ta med i tillegg til passasjerer.
 
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1700 kg, mens for en ubremset tilhenger er det 750 kg.
+Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med brems er 1700 kg (3748 lbs), og for tilhenger uten brems er det 750 kg (1653 lbs).
 
-## Tilgjengelighet & pris
+## Tilgjengelighet og priser
 
-VOYAH Courage AWD hadde sin verdenspremiere den 01.10.2024, med leveranser som startet i March 2025.
+VOYAH Courage AWD hadde sin verdenspremiere 01.10.2024, med leveringer som startet i March 2025.
 
 ### Priser
 
-Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
+Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er startprisene for utvalgte land:
 
-- 449 900,00 NOK (Norge)
+- 449 900,00 kr (Norge)
 
-## Alternative Modeller
+## Alternative modeller
 
-I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til VOYAH Courage AWD som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til VOYAH Courage AWD som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
 - [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
 - [XPENG G6 AWD Performance](/models/xpeng/g6/g6_awd_performance/)

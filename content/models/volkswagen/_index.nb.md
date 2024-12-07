@@ -1,5 +1,5 @@
 ---
-title: Volkswagen elektriske modeller
+title: Volkswagen elbilmodeller
 linktitle: "Volkswagen"
 description: "Volkswagen’s product portfolio is focused on electric mobility. The last purely combustion-driven platform will be developed in 2026. After that, only electric vehicles will be developed. Even with today’s current power mix in the EU, battery-powered drive systems offer the best balance for the climate out of all drive concepts and this will continue to improve over the years to come. "
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID. Buzz er en MPV tilgjengelig i 4 varianter.
+Volkswagen ID. Buzz er en flerbruksbil tilgjengelig i 4 varianter.
 </p>
-	<a href="id._buzz/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="id._buzz/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -41,9 +41,9 @@ Volkswagen ID. Buzz er en MPV tilgjengelig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen Id. UNYX er en Coupe SUV tilgjengelig i 1 varianter.
+Volkswagen Id. UNYX er en SUV-kupé tilgjengelig i 1 varianter.
 </p>
-	<a href="id._unyx/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="id._unyx/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -56,9 +56,9 @@ Volkswagen Id. UNYX er en Coupe SUV tilgjengelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.3 er en hatcback tilgjengelig i 5 varianter.
+Volkswagen ID.3 er en kombi tilgjengelig i 5 varianter.
 </p>
-	<a href="id.3/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="id.3/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -73,7 +73,7 @@ Volkswagen ID.3 er en hatcback tilgjengelig i 5 varianter.
             <div class="col col-12 col-md-6"><p>
 Volkswagen ID.4 er en SUV tilgjengelig i 8 varianter.
 </p>
-	<a href="id.4/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="id.4/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -86,9 +86,9 @@ Volkswagen ID.4 er en SUV tilgjengelig i 8 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.5 er en Coupe SUV tilgjengelig i 4 varianter.
+Volkswagen ID.5 er en SUV-kupé tilgjengelig i 4 varianter.
 </p>
-	<a href="id.5/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="id.5/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -101,9 +101,9 @@ Volkswagen ID.5 er en Coupe SUV tilgjengelig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.7 er en sedan /stasjonsvogn tilgjengelig i 6 varianter.
+Volkswagen ID.7 er en sedan/stasjonsvogn tilgjengelig i 6 varianter.
 </p>
-	<a href="id.7/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="id.7/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

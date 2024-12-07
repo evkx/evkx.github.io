@@ -1,12 +1,12 @@
 ---
-title: Volkswagen ID. Buzz Pro LWB tester
-linktitle: "Tester"
-description: "EVKX.net hjelper deg å finne de beste testene og omtalene av denne modellen."
+title: Volkswagen ID. Buzz Pro LWB anmeldelser
+linktitle: "Anmeldelser"
+description: "EVKX.net hjelper deg å finne de beste anmeldelsene for denne modellen."
 weight: 6
 hidden: true
 navicon: bi-person-video2
 ---
-Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
+Vi samler anmeldelser fra våre [favoritt nettanmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The US Spec Volkswagen ID. Buzz Is Finally Here! The LWB Is Freaking Awesome & Worth The Wait</h3>
@@ -31,7 +31,7 @@ Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evr
 </div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i>Galleri  </strong>
+<strong><i class="bi-arrow-left"></i>Bildegalleri  </strong>
 </a>
 <a href="../" class="text-decoration-none text-black float-end">
 <strong>Volkswagen ID. Buzz Pro LWB <i class="bi-arrow-right"></i></strong>

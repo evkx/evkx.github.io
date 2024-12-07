@@ -1,5 +1,5 @@
 ---
-title: Alfa Romeo elektriske modeller
+title: Alfa Romeo elbilmodeller
 linktitle: "Alfa Romeo"
 description: " Alfa Romeo, the Italian luxury car manufacturer, is embracing electrification with a clear strategy. By 2027, Alfa Romeo plans to transform its lineup to be fully electric."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Alfa Romeo Junior er en crossover tilgjengelig i 2 varianter.
 </p>
-	<a href="junior/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="junior/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

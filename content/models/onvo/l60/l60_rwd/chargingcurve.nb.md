@@ -1,14 +1,14 @@
 ---
-title: Onvo L60 RWD ladekurve og ladeytelse
+title: Onvo L60 RWD ladekurve og ytelse
 linktitle: "Ladekurve"
-description: "Nedenfor er ladekurven for Onvo L60 RWD, som illustrerer ladehastigheten ved forskjellige batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeprestasjonen."
+description: "Under er ladekurven for Onvo L60 RWD, som viser ladehastigheten ved ulike batterinivåer. I tillegg gir grafer for rekkevidde og tid omfattende detaljer om ladeytelsen."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen for de forskjellige batteripakkene.
+Denne modellen er tilgjengelig med flere batterier. Under finner du ytelsen for de ulike batteripakkene.
 
 ### 85 kWh 85kWh
 
@@ -18,7 +18,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 
 
 <div class="alert alert-primary" role="alert">
-Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladeprestasjonen til lignende batteripakker.
+Ladekurven for denne modellen er utledet fra produsentdata og innsikt i ladeytelsen til lignende batteripakker.
 </div>
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -33,7 +33,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 	<tbody>
 		<tr>
 			<td>
-				Gjennomsnittlig ladehastighet 0 - 100%
+				Gjennomsnittlig ladehastighet 0-100%
 			</td>
 			<td>
 				143,9 kW
@@ -65,7 +65,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 		</tr>
 		<tr>
 			<td>
-				Maks C-Rate
+				Maks C-rate
 			</td>
 			<td>
 				3,08
@@ -73,7 +73,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 		</tr>
 		<tr>
 			<td>
-				Gjennomsnittlig C-Rate
+				Gjennomsnittlig C-rate
 			</td>
 			<td>
 				2,17
@@ -89,7 +89,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 		</tr>
 		<tr>
 			<td>
-				Optimal ladehastighet inkludert 5 minutters tap
+				Optimal ladehastighet inkludert 5 minutter tap
 			</td>
 			<td>
 				153,5kW
@@ -97,7 +97,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 		</tr>
 		<tr>
 			<td>
-				Optimal ladestopp tid
+				Optimal ladestopp-tid
 			</td>
 			<td>
 				27m44s
@@ -122,7 +122,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 	<tbody>
 		<tr>
 			<td>
-				Ladetid 0-100%
+				Ladetid 0 - 100%
 			</td>
 			<td>
 				 37 m 31 s
@@ -227,7 +227,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 </div>
 
 
-Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
+Ladekurven over er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kalde eller varme temperaturer kan imidlertid påvirke kurven betydelig. Denne kurven er også basert på å starte lading ved lav ladestand. Derfor kan tilkobling ved høyere nivå påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -236,7 +236,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Ladenivå
 			</th>
 			<th>
 				Hastighet
@@ -1676,7 +1676,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 
 
 <div class="alert alert-primary" role="alert">
-Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladeprestasjonen til lignende batteripakker.
+Ladekurven for denne modellen er utledet fra produsentdata og innsikt i ladeytelsen til lignende batteripakker.
 </div>
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -1691,7 +1691,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 	<tbody>
 		<tr>
 			<td>
-				Gjennomsnittlig ladehastighet 0 - 100%
+				Gjennomsnittlig ladehastighet 0-100%
 			</td>
 			<td>
 				74,3 kW
@@ -1723,7 +1723,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 		</tr>
 		<tr>
 			<td>
-				Maks C-Rate
+				Maks C-rate
 			</td>
 			<td>
 				2,08
@@ -1731,7 +1731,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 		</tr>
 		<tr>
 			<td>
-				Gjennomsnittlig C-Rate
+				Gjennomsnittlig C-rate
 			</td>
 			<td>
 				1,54
@@ -1747,7 +1747,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 		</tr>
 		<tr>
 			<td>
-				Optimal ladehastighet inkludert 5 minutters tap
+				Optimal ladehastighet inkludert 5 minutter tap
 			</td>
 			<td>
 				82,9kW
@@ -1755,7 +1755,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 		</tr>
 		<tr>
 			<td>
-				Optimal ladestopp tid
+				Optimal ladestopp-tid
 			</td>
 			<td>
 				30m53s
@@ -1780,7 +1780,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 	<tbody>
 		<tr>
 			<td>
-				Ladetid 0-100%
+				Ladetid 0 - 100%
 			</td>
 			<td>
 				 47 m 39 s
@@ -1885,7 +1885,7 @@ Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladepres
 </div>
 
 
-Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
+Ladekurven over er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kalde eller varme temperaturer kan imidlertid påvirke kurven betydelig. Denne kurven er også basert på å starte lading ved lav ladestand. Derfor kan tilkobling ved høyere nivå påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -1894,7 +1894,7 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 	<thead>
 		<tr>
 			<th>
-				SOC
+				Ladenivå
 			</th>
 			<th>
 				Hastighet

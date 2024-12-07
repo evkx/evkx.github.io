@@ -1,7 +1,7 @@
 ---
 title: Acura ZDX A-Spec AWD
 linktitle: "ZDX A-Spec AWD"
-description: "Acura ZDX A-Spec AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 489 km. EVKX.net har alle detaljene."
+description: "Acura ZDX A-Spec AWD er en elektrisk SUV med en EPA rekkevidde på opptil 489 km (304 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,97 +11,97 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_a-spec_awd/main_1_st.jpg" title="Acura ZDX A-Spec AWD" width="3000" height="1758"  >}}
 
-Vi har delt vår beskrivelse av Acura ZDX A-Spec AWD i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering. Klikk på lenkene nedenfor for å hoppe til ulike områder eller les videre for hele artikkelen. I tillegg tilbyr vi en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [nettanmeldelser](reviews/). Våre seksjoner inkluderer:
 
-- [Ytelse](#ytelse)
-- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivverk (fjæring, bremser, styring)](#drivverk)
-- [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interiør)
-- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
-- [Infotainment](#infotainment)
-- [Lys](#lys)
-- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
-- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
+- [Ytelse](#section-performance)
+- [Batteri, rekkevidde og lading](#section-battery)
+- [Drivlinje (fjæring, bremser, styring)](#section-drivetrain)
+- [Eksteriør (lakkfarger, hjul ++)](#section-exterior)
+- [Interiør (seter++)](#section-interior)
+- [Brukergrensesnitt og kontroll](#section-ui)
+- [Infotainment](#section-infotainment)
+- [Lys](#section-lights)
+- [Avanserte førerassistentsystemer](#section-adas)
+- [Lastkapasitet og tilhengerevne](#section-transportation)
 
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ytelse
 
-Acura ZDX A-Spec AWD leverer solid ytelse med en maksimal effekt på 365 kW (496 hk) og et totalt dreiemoment på 592 Nm. Den kan akselerere fra 0 til 100 km/t på 6 sekunder og når en topphastighet på 210 km/t, noe som gjør den konkurransedyktig i sin klasse.
+Acura ZDX A-Spec AWD leverer solid ytelse med en maksimal effekt på 365 kW (496 hk / 490 bhp) og et totalt dreiemoment på 592 Nm (437 lb-ft). Den akselererer fra 0 til 100 km/t på 6 sekunder og når en topphastighet på 210 km/t (131 mph), noe som gjør den konkurransedyktig i sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 112,5 kWh og en netto brukbar kapasitet på 107,5 kWh, som gir en buffer på 5,0 kWh (4,4%) for batteribeskyttelse. Med en nominell spenning på 355,2 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Batteriet med høy kapasitet har en brutto kapasitet på 112,5 kWh og en netto brukbar kapasitet på 107,5 kWh, som gir en 5,0 kWh buffer (4,4%) for batteribeskyttelse. Med en nominell spenning på 355,2 volt, klassifiseres systemet som et 400-volts batterisystem, i tråd med bransjestandarder.
 
-I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 489 km med en energiforbrukshastighet på 22,0 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden, har bilen en rekkevidde på 304 miles (489 km) med et energiforbruk på 2,8 miles per kWh. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Maksimal DC-ladehastighet er 190 kW. En full lading fra 0 - 100 % vil ta 190 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 119kW. Hver ladeøkt vil ta 31 minutter og 50 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 190 kW. Lading fra 0% til 100% tar omtrent 190 minutter, mens et mer typisk scenario fra 10% til 80% tar 34 minutter med en gjennomsnittlig ladehastighet på 133 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 8% til 65%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 119 kW, hvor hver ladeøkt tar omtrent 31 minutter og 50 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 9 timer og 33 minutter. Denne reisen ville kreve to ladestopp fra 6% til 73%, med en total ladetid på 73 minutter.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 25 kWh/100 km, vil turen ta omtrent 9 timer og 33 minutter, og kreve to ladestopp fra 6% til 73%, totalt 73 minutter ladetid.
 
-### Ombordlader
+### Innebygd lader
 
-Den standard ombordladeren støtter opptil 11,5 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 9 timer og 20 minutter med en hjemmelader.
+Den standard innebygde laderen støtter opptil 11,5 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 9 timer og 20 minutter ved bruk av et hjemmeoppsett.
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_a-spec_awd/charging_1_st.jpg" title="Acura ZDX A-Spec AWD" width="3000" height="2250"  >}}
 
-### Ladeport
+### Ladekontakt
 
-Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen.
+Ladeporten er plassert på [venstre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner hvor du parkerer sidelengs inn mot laderen.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Drivverk
+## Drivlinje
 
-Acura ZDX A-Spec AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Acura ZDX A-Spec AWD har et firehjulsdrift-system drevet av to motorer, en på hver aksel. Motorene som brukes er [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
-### Hjuloppheng
+### Fjæring
 
-Standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 178 mm.
+Standard har fast høyde og demping på fjæringen. Bakkeklaring med denne hjulopphenget er 178 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funksjonen på Acura ZDX A-Spec AWD. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard på Acura ZDX A-Spec AWD, og varierer styreutvekslingen basert på kjørehastighet for bedre kontroll og komfort.
 
 ### Kjøremoduser
 
-Acura ZDX A-Spec AWD lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
+Acura ZDX A-Spec AWD lar brukeren velge ulike [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens håndtering. Føreren kan velge mellom 4 moduser:
 
-- Normal: Balansert styring, med effektiv gasspådrag, og balansert fjæring.
+- Normal: Balansert styring, med effektiv gasspådrag og balansert fjæring.
 - Sport: Dynamisk styring, fjæring og gasspådrag.
-- Snow: Balansert styring, gass og demping.
+- Snow: Balansert styring, gasspådrag og demping.
 - Individual: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 320mm, og de bakre skivene er 345mm.
+Acura ZDX A-Spec AWD er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak. Skivene foran måler 320 mm, mens skivene bak er 345 mm.
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to modi. Du kan bruke [en-pedalskjøring](../../../../technology/regen/#one-pedal-driving) eller du kan frihjule og bruke de [blandede bremsene](../../../../technology/regen/#manual-regen-using-brake-pedal) til å regenerere. Systemet stopper bilen helt ved hjelp av friksjonsbremser.
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [kjøring med én pedal](../../../../technology/regen/#one-pedal-driving) eller du kan frirulle og bruke [kombinerte bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) for å regenerere. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser.
 
-I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det finnes to nivåer av regenerativ bremsing å velge mellom, noe som gir deg mulighet til å tilpasse kjøreopplevelsen etter dine preferanser.
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten av gasspedalen. Det er to nivåer å velge mellom, slik at du kan tilpasse kjøreopplevelsen etter eget ønske.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
-Acura ZDX A-Spec AWD, med dimensjoner på 5022 mm i lengde, 1956 mm i bredde og 1636 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Acura ZDX A-Spec AWD er tilgjengelig i totalt 5 lakkfarger, alle inkluderer metalliske og perlemorsalternativer.
+Acura ZDX A-Spec AWD, med dimensjoner på 5022 mm i lengde, 1956 mm i bredde og 1636 mm i høyde, tilhører store SUVer som tilbyr mest plass, kraft og kapasitet blant SUV-kategoriene, noe som gjør dem egnet for spesifikke sjåfører med unike behov. Acura ZDX A-Spec AWD er tilgjengelig i totalt 5 lakkfarger, alle inkluderer metallic- og perlemoreffekt.
 
-Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Acura ZDX A-Spec AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Acura ZDX A-Spec AWD, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
 - 265/50 dekk på 20" felger
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Bakluken er elektrisk drevet.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate). Bakluken er elektrisk.
 
-Det er bare ett tak for denne modellen. Standardtaket har et panoramatak som kan åpnes. Glasset har to paneler. Ett over første og andre rad, og passasjerene kan åpne frontdelen. Det har et elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
+Det er kun ett takalternativ for denne modellen. Standardtaket har et panoramatak som kan åpnes. Glasset har to paneler. Ett over første og andre rad, og passasjerene kan åpne den fremre delen. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-Rutene fra B-stolpen og baksiden er tonet.
+Vinduene fra B-stolpen og bakover er tonede, noe som gir bedre privatliv og reduserer blending og varme fra solen, og gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_a-spec_awd/exterior_1_st.jpg" title="Acura ZDX A-Spec AWD" width="3000" height="2000"  >}}
 
@@ -111,76 +111,76 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Acura ZDX A-Spec AWD har en förarfokuserad interiör som förbättrar cockpitkänslan med högkvalitativa material i flera områden istället för hård plast. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet. Du kan velge mellom flere interiørdesign.
+Interiøret i Acura ZDX A-Spec AWD bærer preg av å være førerfokusert, med en tydelig cockpit-følelse og materialer av høy kvalitet flere steder istedenfor hard plast. Et fremtredende element er midtkonsollen i to nivåer, som skiller fører og passasjer samtidig som den gir praktisk oppbevaring og økt funksjonalitet. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
-Acura ZDX A-Spec AWD har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+Acura ZDX A-Spec AWD har plass til fem passasjerer med to forseter og en treseters benk bak.
 
 #### Forseter
 
-Acura ZDX A-Spec AWD Long Range tilbyr kun én type forsete.
+Acura ZDX A-Spec AWD tilbyr bare én type forsete.
 
-Følgende funksjoner er tilgjengelige på **12-way** setet.
+Følgende funksjoner er tilgjengelig på **12-way** setet:
 
-- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- høydejusterbar hodestøtte (manuelt justerbar)
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
+- [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)
+- Høydejusterbar hodestøtte (manuelt justerbart)
+- [Varme](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgjengelig for passasjer)
-- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+Tilgjengelig i:
 
-- Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Black/Beige [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Black/Red [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Black [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
+- Black/Beige [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
+- Black/Red [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_a-spec_awd/frontseats_1_st.jpg" title="Acura ZDX A-Spec AWD" width="3000" height="1997"  >}}
 
-#### Seter på andre rad
+#### Andre seterad
 
-Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+Andre seterad har en standard treseter-benk med 60:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- høydejusterbar hodestøtte (manuelt justerbar)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
+- Høydejusterbar hodestøtte (manuelt justerbart)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
-### Interiørlagring
+### Innvendig oppbevaring
 
-Acura ZDX A-Spec AWD gir rikelige interiørlagringsløsninger for å forbedre bekvemmelighet og organisering:
+Acura ZDX A-Spec AWD har mange innvendige oppbevaringsløsninger for å øke bekvemmelighet og organisering:
 
-- **Koppholdere:** To koppholdere er plassert i den fremre midtkonsollen, med ytterligere to i bakre armlene.
-- **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjeren, ideelt for oppbevaring av nødvendige gjenstander.
+- **Koppholdere:** To koppholdere er plassert i midtkonsollen foran, med ytterligere to i armlenet bak.
+- **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjersetet, ideelt for oppbevaring av nødvendige gjenstander.
 
-### Interiørbelysning
+### Innvendig belysning
 
-Acura ZDX A-Spec AWD tilbyr et utvalg av interiørbelysningsalternativer designet for å skape en behagelig atmosfære og forbedre synligheten.
+Acura ZDX A-Spec AWD tilbyr flere innvendige belysningsalternativer designet for å skape en behagelig atmosfære og forbedre sikten.
 
-- **Flerfarget Ambient Belysning:** Denne funksjonen strekker seg over dashbordet og dørpanelene, og gir en harmonisk og innbydende atmosfære. Du kan tilpasse fargene etter humøret eller preferansen din, og legge til et personlig preg på kjøreopplevelsen din.
+- **Flerfarget stemningsbelysning:** Denne funksjonen strekker seg over dashbordet og dørpanelene, og skaper en harmonisk og innbydende atmosfære. Du kan tilpasse fargene etter humør eller preferanse, og sette ditt personlige preg på kjøreopplevelsen.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem.
+Det er ett klimasystem tilgjengelig:
 
-- **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
+- **2-sone klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Komfortfunksjoner
 
-Acura ZDX A-Spec AWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+Acura ZDX A-Spec AWD inkluderer flere funksjoner for å øke komfort og bekvemmelighet:
 
 - **Elektrisk justerbart ratt**
-- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
-- **Trådløs lading av telefon**
+- **Easy Entry-funksjon:** Flytter førersetet for å gjøre det enklere å komme inn i bilen.
+- **Trådløs telefonlading**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -188,77 +188,77 @@ Acura ZDX A-Spec AWD inkluderer flere funksjoner for å forbedre komfort og bekv
 
 ## Brukergrensesnitt og kontroll
 
-Kontrollgrensesnittet for denne elbilmodellen inkluderer en intuitiv kombinasjon av knapper, hendler og skjermer, som gir en sømløs og brukervennlig opplevelse.
+Kontrollgrensesnittet for Acura ZDX A-Spec AWD kombinerer knapper, spaker og skjermer for en sømløs og brukervennlig opplevelse.
 
-Acura ZDX A-Spec AWD har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
+Acura ZDX A-Spec AWD har flere integrerte skjermer. Bak rattet er det et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) øverst.
 
 Viktige skjermdetaljer:
 
 - -skjermen bak rattet integrert i dashbordet er 11,0 tommer stor
-- touch-skjermen øverst på midtkonsollen er 11,3 tommer stor
+- touch-skjermen øverst i midtkonsollen er 11,3 tommer stor
 
-Modellen er ikke tilgjengelig med head-up display.
+Modellen har ikke head-up display.
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_a-spec_awd/screens_1_st.jpg" title="Acura ZDX A-Spec AWD" width="3000" height="1687"  >}}
 
 ### Ratt
 
-Acura ZDX A-Spec AWD er utstyrt med en enkelt type ratt:
+Acura ZDX A-Spec AWD er utstyrt med én type ratt:
 
-- **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det inkluderer også fysiske knapper og rullehjul, som gir deg muligheten til å kontrollere infotainmentsystemet, justere volumet, bytte musikksport og håndtere andre viktige funksjoner enkelt.
+- **Sirkulært ratt:** Dette rattet har integrert oppvarming for ekstra komfort i kaldt vær. Det har også fysiske knapper og rullehjul som lar deg kontrollere infotainmentsystemet, justere volumet, bytte musikk og styre andre viktige funksjoner enkelt.
 
 ### Speil
 
-Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+Både utvendige og innvendige speil bruker konvensjonell speilteknologi for å gi klar sikt over området bak kjøretøyet.
 
-Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
+Denne modellen kommer med stemmekontroll som standard, som lar deg styre ulike funksjoner gjennom talekommandoer.
 
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
-Acura ZDX A-Spec AWD har et avansert infotainmentsystem bygget på Android Automotive OS, en plattform fra Google spesielt designet for bilens dashbord. For å forbedre dette robuste systemet har Acura integrert sin egen suite av applikasjoner, som gir sømløs navigasjon, omfattende bilinnstillinger og mye mer.
+Acura ZDX A-Spec AWD har et avansert infotainmentsystem bygget på Android Automotive OS, en plattform fra Google spesielt designet for bildashbord. For å forbedre dette robuste systemet har Acura integrert sine egne applikasjoner, som gir sømløs navigasjon, omfattende bilinnstillinger og mye mer.
 
 ### Navigasjonssystem
 
-Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon, noe som sikrer en effektiv og stressfri reise.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon som sikrer en effektiv og stressfri reise.
 
-### App store
+### App-butikk
 
-Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper for å kjøre direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
+Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper som kjører direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer etter marked, men inkluderer populære alternativer som:
 
-- **Spotify:** Strøm millioner av sanger, spillelister og podcaster direkte fra bilens infotainmentsystem, og tilbyr uendelige underholdningsalternativer under kjøringen.
-- **Waze:** Få sanntids trafikkoppdateringer, navigasjon og veiinformasjon for å hjelpe deg med å nå målet ditt raskt og trygt.
+- **Spotify:** Strøm millioner av sanger, spillelister og podkaster direkte fra bilens infotainmentsystem, som gir endeløse underholdningsmuligheter for kjøreturen.
+- **Waze:** Få sanntidsoppdateringer om trafikk, navigasjon og veiinformasjon for å hjelpe deg med å nå destinasjonen raskt og trygt.
 
-### Telefonspeiling
+### Telefonspeling
 
-I tillegg støtter Acura ZDX A-Spec AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+Acura ZDX A-Spec AWD støtter Android Auto og Apple CarPlay, som lar deg speile telefonskjermen på bilens skjerm. Denne funksjonaliteten gjør at du kan kjøre apper som Google Maps eller Waze direkte fra telefonen.
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Acura ZDX A-Spec AWD.
+Acura ZDX A-Spec AWD kommer med ett lydsystem:
 
 - **Bang & Olufsen sound system:** Har 18 høyttalere.
 
-Modellen har 4 USB-C-tilkoblinger som standard.
+I tillegg har modellen 4 USB-C-tilkoblinger som standard.
 
 ## Mobilapp
 
-Acura ZDX A-Spec AWD kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+Acura ZDX A-Spec AWD kommer med en dedikert mobilapp, tilgjengelig for både Android og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt på avstand. Appen tilbyr en rekke funksjoner designet for å forbedre kjøreopplevelsen din:
 
-- **Finn kjøretøyet ditt**: Sjekk enkelt den nåværende plasseringen til bilen din.
-- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
-- **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
-- **Planlagt lading**: Planlegg og tidsbestem ladeøkter før turene dine.
-- **Juster ladegrense**: Angi ønsket ladetilstand for å starte eller stoppe lading etter behov.
-- **Finn bilen din**: Aktiver hornet eller lysene for å finne bilen din i travle områder.
-- **Ruteplanlegging**: Planlegg ruten din og send den direkte til bilens navigasjonssystem.
+- **Finn bilen din:** Enkelt sjekk bilens nåværende posisjon.
+- **Forkondisjonering:** Forhåndsvarm eller avkjøl bilen før du starter reisen for optimal komfort.
+- **Lås og lås opp:** Lås eller lås opp bildørene sikkert med et tastetrykk.
+- **Planlagt lading:** Planlegg og tidsinnstill ladeøkter før reisene dine.
+- **Juster lademål:** Angi ønsket ladenivå for å starte eller stoppe lading etter behov.
+- **Finn bilen din:** Aktiver horn eller lys for å finne bilen din i tett parkerte områder.
+- **Ruteplanlegging:** Planlegg ruten og send den direkte til bilens navigasjonssystem.
 
 ## Lys
 
-**Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
+**Standard frontlykter:** Disse bruker avansert LED-teknologi som gir lyst og effektivt lys.
 
-Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+Baklysene bruker LED-teknologi, som sikrer både god synlighet og energieffektivitet.
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_a-spec_awd/headlights_1_st.jpg" title="Acura ZDX A-Spec AWD" width="3000" height="2000"  >}}
 
@@ -266,87 +266,87 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 ## Avanserte førerassistentsystemer
 
-Acura ZDX A-Spec AWD inkluderer flere [avanserte førerassistanse systemer](../../../../technology/driverassistance/) (ADAS) som standard og som tilvalg for å forbedre sikkerhet og komfort.
+Acura ZDX A-Spec AWD har en rekke standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) designet for å øke sikkerhet og komfort.
 
 ### Sikkerhetssystemer
 
-[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Acura ZDX A-Spec AWD, dette systemet forhindrer hjulene i å låse seg under bremsing.
+[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Acura ZDX A-Spec AWD, dette systemet hindrer hjulene i å låse seg under bremsing.
 
-[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Acura ZDX A-Spec AWD, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
+[**Elektronisk stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Acura ZDX A-Spec AWD, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
-[**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Acura ZDX A-Spec AWD, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
+[**Filholderassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Acura ZDX A-Spec AWD, dette systemet hjelper med å hindre kjøretøyet i å drive ut av filen. Den inkluderer også et [**Filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler føreren hvis kjøretøyet beveger seg ut av filen.
 
-[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Acura ZDX A-Spec AWD, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+[**Kryssende trafikkvarsling foran (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på Acura ZDX A-Spec AWD, dette førerassistentsystemet hjelper førere med å oppdage møtende trafikk når de krysser et veikryss eller svinger til venstre eller høyre fra stillestående posisjon.
 
-[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Acura ZDX A-Spec AWD, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Kryssende trafikkvarsling bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Acura ZDX A-Spec AWD, dette systemet bruker sensorer for å oppdage kjøretøy som nærmer seg fra siden når man rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Acura ZDX A-Spec AWD, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Frontkollisjonsvarsling (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Acura ZDX A-Spec AWD, dette førerassistentsystemet hjelper førere med å unngå eller redusere frontkollisjoner.
 
-[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Acura ZDX A-Spec AWD, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+[**Automatisk nødbrems (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Acura ZDX A-Spec AWD, dette systemet aktiverer bremsene automatisk for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Acura ZDX A-Spec AWD, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåking (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Acura ZDX A-Spec AWD, dette sideassistentsystemet hjelper med å oppdage trafikk i blindsoner.
 
-[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Acura ZDX A-Spec AWD, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
+[**Utstigningsvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Acura ZDX A-Spec AWD, dette systemet varsler passasjerer mot å åpne dører hvis det er risiko for å treffe noe.
 
 ### Kjøreautomatisering
 
-Acura ZDX A-Spec AWD tilbyr [kjøreautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
+Acura ZDX A-Spec AWD tilbyr [kjøreautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
 
-Med AcuraWatch™ 360+ nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med AcuraWatch™ 360+ nivå 1-system får du følgende kjøreautomatiseringsfunksjoner.
 
-- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
-### Sensorer & Kameraer
+### Sensorer og kameraer
 
-Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
-Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), to [kameraer](../../../../technology/sensorsandcameras/cameras/) og åtte [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+Denne modellen bruker kameraer, radar og ultralydsensorer for sine førerassistentsystemer.
+Opp til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), to [kameraer](../../../../technology/sensorsandcameras/cameras/), og åtte [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
 ## Sikkerhet
 
-Acura ZDX A-Spec AWD er utstyrt med flere kollisjonsputer for å sikre beskyttelse av passasjerene i tilfelle en kollisjon. Kollisjonsputesystemet inkluderer:
+Acura ZDX A-Spec AWD er utstyrt med flere kollisjonsputer for å sikre beskyttelse av passasjerene ved en kollisjon. Kollisjonsputesystemet inkluderer:
 
-- Frontkollisjonsputer for fører og forsetepassasjer
-- Sidegardinkollisjonsputer for både første og andre rad
-- Sidekollisjonsputer for fører og forsetepassasjer
-- Kne-kollisjonsputer for fører og forsetepassasjer
+- Frontkollisjonsputer for fører og passasjer
+- Sidekollisjonsgardiner for både første og andre seterad
+- Sidekollisjonsputer for fører og passasjer
+- Knekollisjonsputer for fører og passasjer
 
-I tillegg er setebeltene i første og andre rad utstyrt med forstrammere som strammes automatisk under en kollisjon for å minimere skaderisikoen.
+I tillegg er både første og andre seterad utstyrt med beltestrammere som strammes automatisk ved en kollisjon for å minimere skaderisikoen.
 
-## Sikkerhets- og tilgangsteknologier
+## Sikkerhet og adgangsteknologi
 
 Acura ZDX A-Spec AWD er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
 - **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
-- **Alarmsystem:** Et integrert alarmsystem overvåker uautorisert tilgang eller tukling, og gir varsler for å bidra til å avskrekke innbrudd og holde kjøretøyet ditt sikkert.
+- **Alarmsystem:** Et integrert alarmsystem overvåker mot uautorisert inntrengning eller sabotasje, og varsler for å forhindre innbrudd og holde kjøretøyet ditt sikkert.
 
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-transportation" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
-## Lastekapasitet og slepeevne
+## Laste- og tilhengerkapasitet
 
-Bagasjerommet tilbyr en lastekapasitet på 813 liter. Med baksetene nedfelt, utvides dette til 1756 liter. På taket kan du laste opptil 70 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
+Bagasjerommet har en lastekapasitet på 813 liter (28,7 CU FT). Med baksetet nedfelt øker dette til 1756 liter (62,0 CU FT). På taket kan du laste opptil 70 kg (154,3 lbs). Takskinner er standard for enkel montering av takboks eller takstativ.
 
-Kjøretøyets maksimale vekt er 3150 kg, med en basisvekt på 2678 kg. Dette gir en maksimal lastekapasitet på 472 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 472 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
+Kjøretøyets maksimale vekt er 3150 kg (6945 lbs), med en egenvekt på 2678 kg (5904 lbs). Dette tillater en maksimal last på 472 kg (1041 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet. 472kg regnes som lavt for denne typen bil og kan begrense hvor mye du kan ta med i tillegg til passasjerer.
 
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1588 kg, mens for en ubremset tilhenger er det 750 kg.
+Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med brems er 1588 kg (3501 lbs), og for tilhenger uten brems er det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_a-spec_awd/trunk_1_st.jpg" title="Acura ZDX A-Spec AWD" width="3000" height="2000"  >}}
 
-## Tilgjengelighet & pris
+## Tilgjengelighet og priser
 
-Acura ZDX A-Spec AWD hadde sin verdenspremiere den 18.08.2023, med leveranser som startet i March 2024. Vær oppmerksom på at denne modellen kun er tilgjengelig i Nord-Amerika.
+Acura ZDX A-Spec AWD hadde sin verdenspremiere 18.08.2023, med leveringer som startet i March 2024. Vær oppmerksom på at denne modellen kun er tilgjengelig i Nord-Amerika.
 
 ### Priser
 
-Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
+Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er startprisene for utvalgte land:
 
 - $68 500,00 (USA)
 
-## Alternative Modeller
+## Alternative modeller
 
-I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Acura ZDX A-Spec AWD som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til Acura ZDX A-Spec AWD som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
 - [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron/)
 - [Mercedes EQE 500 4MATIC SUV](/models/mercedes/eqe_suv/eqe_500_4matic_suv/)

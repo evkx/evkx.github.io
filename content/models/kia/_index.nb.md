@@ -1,5 +1,5 @@
 ---
-title: Kia elektriske modeller
+title: Kia elbilmodeller
 linktitle: "Kia"
 description: "Kia, en sørkoreansk bilprodusent grunnlagt i 1944, har utviklet seg til en global leder kjent for innovasjon og kvalitet. Med et sterkt fokus på elektrisk mobilitet utvider Kia sitt utvalg av elbiler, med mål om bærekraft og banebrytende teknologi. Merkets engasjement for tilgjengelige, miljøvennlige kjøretøy posisjonerer det som en nøkkelaktør i elbilmarkedet."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Kia EV3 er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="ev3/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ev3/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -41,9 +41,9 @@ Kia EV3 er en crossover tilgjengelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Kia EV6 er en Coupe SUV tilgjengelig i 6 varianter.
+Kia EV6 er en SUV-kupé tilgjengelig i 6 varianter.
 </p>
-	<a href="ev6/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ev6/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -58,7 +58,7 @@ Kia EV6 er en Coupe SUV tilgjengelig i 6 varianter.
             <div class="col col-12 col-md-6"><p>
 Kia EV9 er en SUV tilgjengelig i 5 varianter.
 </p>
-	<a href="ev9/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ev9/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -73,7 +73,7 @@ Kia EV9 er en SUV tilgjengelig i 5 varianter.
             <div class="col col-12 col-md-6"><p>
 Kia Niro er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="niro/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="niro/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

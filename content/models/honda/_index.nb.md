@@ -1,5 +1,5 @@
 ---
-title: Honda elektriske modeller
+title: Honda elbilmodeller
 linktitle: "Honda"
 description: "Honda is a Japanese multinational conglomerate that manufactures automobiles, motorcycles, and power equipment. It is the world's largest motorcycle manufacturer and one of the largest automobile manufacturers. Honda also has a luxury brand called Acura, which it launched in 1986 as the first Japanese luxury brand."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Honda e:Ny1 er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="e_ny1/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="e_ny1/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Honda e:Ny1 er en crossover tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Honda Prologue er en SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="prologue/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="prologue/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Onvo elektriske modeller
+title: Onvo elbilmodeller
 linktitle: "Onvo"
 description: "Onvo is Nio's second electric vehicle (EV) brand, officially launched in May 2024. The brand is designed to target the mainstream family market, with a focus on offering high-quality, smart EVs at more accessible price points compared to Nio’s luxury lineup. The name 'Onvo' stands for 'On Voyage' symbolizing a journey towards happiness, especially with family."
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Onvo L60 er en Coupe SUV tilgjengelig i 2 varianter.
+Onvo L60 er en SUV-kupé tilgjengelig i 2 varianter.
 </p>
-	<a href="l60/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="l60/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

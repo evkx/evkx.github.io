@@ -1,5 +1,5 @@
 ---
-title: Tesla elektriske modeller
+title: Tesla elbilmodeller
 linktitle: "Tesla"
 description: "Tesla, Inc., founded by Elon Musk in 2003, is a leading American electric vehicle (EV) and clean energy company headquartered in Palo Alto, California. Tesla's mission is to accelerate the world's transition to sustainable energy through the production of electric vehicles, renewable energy solutions, and energy storage systems. "
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Cybertruck er en pick-up som er tilgjengelig i 2 varianter.
+Tesla Cybertruck er en pickup tilgjengelig i 2 varianter.
 </p>
-	<a href="cybertruck/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="cybertruck/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Tesla Cybertruck er en pick-up som er tilgjengelig i 2 varianter.
             <div class="col col-12 col-md-6"><p>
 Tesla Model 3 er en sedan tilgjengelig i 7 varianter.
 </p>
-	<a href="model_3/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="model_3/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -58,7 +58,7 @@ Tesla Model 3 er en sedan tilgjengelig i 7 varianter.
             <div class="col col-12 col-md-6"><p>
 Tesla Model S er en sedan tilgjengelig i 3 varianter.
 </p>
-	<a href="model_s/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="model_s/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -73,7 +73,7 @@ Tesla Model S er en sedan tilgjengelig i 3 varianter.
             <div class="col col-12 col-md-6"><p>
 Tesla Model X er en SUV tilgjengelig i 3 varianter.
 </p>
-	<a href="model_x/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="model_x/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -86,9 +86,9 @@ Tesla Model X er en SUV tilgjengelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Model Y er en Coupe SUV tilgjengelig i 4 varianter.
+Tesla Model Y er en SUV-kupé tilgjengelig i 4 varianter.
 </p>
-	<a href="model_y/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="model_y/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

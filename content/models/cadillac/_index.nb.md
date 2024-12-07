@@ -1,5 +1,5 @@
 ---
-title: Cadillac elektriske modeller
+title: Cadillac elbilmodeller
 linktitle: "Cadillac"
 description: "Cadillac, en pioner innen amerikanske luksusbiler siden 1902, blander arv med innovasjon. Som General Motors' premium merke driver Cadillac nå et dristig skifte mot elektrifisering. Med en forpliktelse til en helelektrisk serie innen 2030, fokuserer merket på avansert teknologi, bærekraft og opprettholdelse av sin karakteristiske luksusapell."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Cadillac ESCALADE er en SUV tilgjengelig i 1 varianter.
 </p>
-	<a href="escalade/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="escalade/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Cadillac ESCALADE er en SUV tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Cadillac LYRIQ er en SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="lyriq/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="lyriq/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -58,7 +58,7 @@ Cadillac LYRIQ er en SUV tilgjengelig i 2 varianter.
             <div class="col col-12 col-md-6"><p>
 Cadillac OPTIQ er en SUV tilgjengelig i 1 varianter.
 </p>
-	<a href="optiq/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="optiq/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -73,7 +73,7 @@ Cadillac OPTIQ er en SUV tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Cadillac VISTIQ er en SUV tilgjengelig i 1 varianter.
 </p>
-	<a href="vistiq/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="vistiq/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

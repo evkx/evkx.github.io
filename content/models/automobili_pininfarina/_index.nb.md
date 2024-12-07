@@ -1,5 +1,5 @@
 ---
-title: Automobili Pininfarina elektriske modeller
+title: Automobili Pininfarina elbilmodeller
 linktitle: "Automobili Pininfarina"
 description: "Automobili Pininfarina is based in operational headquarters in Munich, Germany, with a team of experienced automotive executives from luxury and premium car brands."
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Automobili Pininfarina Battista er en luksus hyperbil tilgjengelig i 1 varianter.
+Automobili Pininfarina Battista er en luksus-hyperbil tilgjengelig i 1 varianter.
 </p>
-	<a href="battista/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="battista/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

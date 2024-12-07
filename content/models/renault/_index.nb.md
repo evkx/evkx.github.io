@@ -1,5 +1,5 @@
 ---
-title: Renault elektriske modeller
+title: Renault elbilmodeller
 linktitle: "Renault"
 description: "Renault is a French car manufacturer that has a strong focus on electric vehicles (EVs). Renault has been a pioneer in the EV market since it launched the first mass-produced electric car, the ZOE, in 2012."
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Renault 5 er en hatcback tilgjengelig i 1 varianter.
+Renault 5 er en kombi tilgjengelig i 1 varianter.
 </p>
-	<a href="5/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="5/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Renault 5 er en hatcback tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Renault Megane er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="megane/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="megane/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -58,7 +58,7 @@ Renault Megane er en crossover tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Renault Scenic er en crossover tilgjengelig i 2 varianter.
 </p>
-	<a href="scenic/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="scenic/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

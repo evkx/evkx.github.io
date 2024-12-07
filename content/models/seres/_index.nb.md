@@ -1,5 +1,5 @@
 ---
-title: Seres elektriske modeller
+title: Seres elbilmodeller
 linktitle: "Seres"
 description: "Seres is a global electric vehicle manufacturer that was established by the Sokon Group in Silicon Valley, USA. Seres produces electric vehicles with advanced technology, impressive performance, and intelligent features. "
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Seres 5 er en Coupe SUV tilgjengelig i 1 varianter.
+Seres 5 er en SUV-kupé tilgjengelig i 1 varianter.
 </p>
-	<a href="5/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="5/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

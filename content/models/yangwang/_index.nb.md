@@ -1,5 +1,5 @@
 ---
-title: YangWang elektriske modeller
+title: YangWang elbilmodeller
 linktitle: "YangWang"
 description: "Yangwang is a Chinese luxury electric car brand owned by BYD Auto and marketed by Shenzhen Yangwang Auto Sales Co., Ltd. The brand was introduced in January 2023 and targets the high-end market segment with its innovative technology and design."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 YangWang U9 er en premium superbil tilgjengelig i 1 varianter.
 </p>
-	<a href="u9/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="u9/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Ford elektriske modeller
+title: Ford elbilmodeller
 linktitle: "Ford"
 description: "Ford is one of the world's leading automakers, with a history of innovation and excellence that spans more than a century. Ford is also committed to leading the transition to a more sustainable and electrified future, with a range of hybrid and electric vehicles (EVs) that offer performance, efficiency, technology and convenience."
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Ford Capri er en Coupe SUV tilgjengelig i 2 varianter.
+Ford Capri er en SUV-kupé tilgjengelig i 2 varianter.
 </p>
-	<a href="capri/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="capri/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Ford Capri er en Coupe SUV tilgjengelig i 2 varianter.
             <div class="col col-12 col-md-6"><p>
 Ford Explorer er en crossover tilgjengelig i 3 varianter.
 </p>
-	<a href="explorer/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="explorer/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -56,9 +56,9 @@ Ford Explorer er en crossover tilgjengelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Ford F150 Lightning er en pick-up som er tilgjengelig i 2 varianter.
+Ford F150 Lightning er en pickup tilgjengelig i 2 varianter.
 </p>
-	<a href="f150_lightning/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="f150_lightning/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -71,9 +71,9 @@ Ford F150 Lightning er en pick-up som er tilgjengelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Ford Mustang Mach-E er en Coupe SUV tilgjengelig i 5 varianter.
+Ford Mustang Mach-E er en SUV-kupé tilgjengelig i 5 varianter.
 </p>
-	<a href="mustang_mach-e/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="mustang_mach-e/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -88,7 +88,7 @@ Ford Mustang Mach-E er en Coupe SUV tilgjengelig i 5 varianter.
             <div class="col col-12 col-md-6"><p>
 Ford Puma er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="puma/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="puma/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

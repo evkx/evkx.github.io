@@ -1,5 +1,5 @@
 ---
-title: Lucid elektriske modeller
+title: Lucid elbilmodeller
 linktitle: "Lucid"
 description: "Lucid Motors, grunnlagt i 2007, er en amerikansk elbilprodusent kjent for sine luksus EV-er, spesielt Lucid Air sedanen. Det kombinerer avansert teknologi, høy ytelse og miljøbevisste design med fokus på innovasjon."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Lucid Air er en sedan tilgjengelig i 5 varianter.
 </p>
-	<a href="air/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="air/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Lucid Air er en sedan tilgjengelig i 5 varianter.
             <div class="col col-12 col-md-6"><p>
 Lucid Gravity er en SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="gravity/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="gravity/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

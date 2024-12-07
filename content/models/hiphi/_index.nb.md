@@ -1,5 +1,5 @@
 ---
-title: HiPhi elektriske modeller
+title: HiPhi elbilmodeller
 linktitle: "HiPhi"
 description: "HiPhi is a premium electric vehicle brand of Human Horizons, a Chinese technology and mobility company."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 HiPhi X er en luksus-SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="x/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="x/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ HiPhi X er en luksus-SUV tilgjengelig i 2 varianter.
             <div class="col col-12 col-md-6"><p>
 HiPhi Y er en premium SUV tilgjengelig i 1 varianter.
 </p>
-	<a href="y/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="y/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -56,9 +56,9 @@ HiPhi Y er en premium SUV tilgjengelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-HiPhi Z er en luksus sedan tilgjengelig i 2 varianter.
+HiPhi Z er en luksussedan tilgjengelig i 2 varianter.
 </p>
-	<a href="z/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="z/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

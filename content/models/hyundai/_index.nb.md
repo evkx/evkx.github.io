@@ -1,5 +1,5 @@
 ---
-title: Hyundai elektriske modeller
+title: Hyundai elbilmodeller
 linktitle: "Hyundai"
 description: "Hyundai Motor Company, grunnlagt i 1967 i Sør-Korea, er en global bilprodusent kjent for rimelige, pålitelige kjøretøy og en sterk forpliktelse til elektriske kjøretøy, med mål om karbonnøytralitet innen 2045."
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Hyundai INSTER er en hatcback tilgjengelig i 2 varianter.
+Hyundai INSTER er en kombi tilgjengelig i 2 varianter.
 </p>
-	<a href="inster/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="inster/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Hyundai INSTER er en hatcback tilgjengelig i 2 varianter.
             <div class="col col-12 col-md-6"><p>
 Hyundai Ioniq 5 er en SUV tilgjengelig i 5 varianter.
 </p>
-	<a href="ioniq_5/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ioniq_5/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -58,7 +58,7 @@ Hyundai Ioniq 5 er en SUV tilgjengelig i 5 varianter.
             <div class="col col-12 col-md-6"><p>
 Hyundai Ioniq 6 er en sedan tilgjengelig i 2 varianter.
 </p>
-	<a href="ioniq_6/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ioniq_6/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -73,7 +73,7 @@ Hyundai Ioniq 6 er en sedan tilgjengelig i 2 varianter.
             <div class="col col-12 col-md-6"><p>
 Hyundai IONIQ 9 er en SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="ioniq_9/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="ioniq_9/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -88,7 +88,7 @@ Hyundai IONIQ 9 er en SUV tilgjengelig i 2 varianter.
             <div class="col col-12 col-md-6"><p>
 Hyundai Kona er en crossover tilgjengelig i 2 varianter.
 </p>
-	<a href="kona/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="kona/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

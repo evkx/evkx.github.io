@@ -1,5 +1,5 @@
 ---
-title: BYD elektriske modeller
+title: BYD elbilmodeller
 linktitle: "BYD"
 description: "BYD is a multinational high-tech company dedicated to technological innovations for a better life. BYD operates in four industries, including automotive, electronics, new energy and rail. "
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 BYD Atto 3 er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="atto_3/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="atto_3/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ BYD Atto 3 er en crossover tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 BYD Dolphin er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="dolphin/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="dolphin/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -58,7 +58,7 @@ BYD Dolphin er en crossover tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 BYD Han er en sedan tilgjengelig i 1 varianter.
 </p>
-	<a href="han/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="han/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -71,9 +71,9 @@ BYD Han er en sedan tilgjengelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Seagull er en hatcback tilgjengelig i 1 varianter.
+BYD Seagull er en kombi tilgjengelig i 1 varianter.
 </p>
-	<a href="seagull/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="seagull/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -88,7 +88,7 @@ BYD Seagull er en hatcback tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 BYD Seal er en sedan tilgjengelig i 2 varianter.
 </p>
-	<a href="seal/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="seal/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -103,7 +103,7 @@ BYD Seal er en sedan tilgjengelig i 2 varianter.
             <div class="col col-12 col-md-6"><p>
 BYD Seal U er en SUV tilgjengelig i 1 varianter.
 </p>
-	<a href="seal_u/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="seal_u/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -116,9 +116,9 @@ BYD Seal U er en SUV tilgjengelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Sealion 7 er en Coupe SUV tilgjengelig i 1 varianter.
+BYD Sealion 7 er en SUV-kupé tilgjengelig i 1 varianter.
 </p>
-	<a href="sealion_7/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="sealion_7/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -133,7 +133,7 @@ BYD Sealion 7 er en Coupe SUV tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 BYD Tang er en SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="tang/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="tang/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

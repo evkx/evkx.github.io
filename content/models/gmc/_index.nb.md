@@ -1,5 +1,5 @@
 ---
-title: GMC elektriske modeller
+title: GMC elbilmodeller
 linktitle: "GMC"
 description: "GMC is a division of General Motors that specializes in trucks, SUVs and crossovers. GMC stands for General Motors Truck Company and was founded in 1911. GMC is known for its professional grade vehicles that combine capability, luxury and technology."
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-GMC Hummer EV er en pick-up/SUV som er tilgjengelig i 3 varianter.
+GMC Hummer EV er en pickup/SUV tilgjengelig i 3 varianter.
 </p>
-	<a href="hummer_ev/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="hummer_ev/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -41,9 +41,9 @@ GMC Hummer EV er en pick-up/SUV som er tilgjengelig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-GMC Sierra EV er en pick-up som er tilgjengelig i 1 varianter.
+GMC Sierra EV er en pickup tilgjengelig i 1 varianter.
 </p>
-	<a href="sierra_ev/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="sierra_ev/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

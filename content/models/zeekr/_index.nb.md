@@ -1,5 +1,5 @@
 ---
-title: Zeekr elektriske modeller
+title: Zeekr elbilmodeller
 linktitle: "Zeekr"
 description: "Zeekr is a new luxury electric vehicle (EV) brand launched by Geely Automobile in 2021. The brand aims to compete with Tesla and other high-end EV makers in China and beyond. Zeekr's EV strategy is based on four pillars design, technology, performance and customer experience."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Zeekr 001 er en stasjonsvogn tilgjengelig i 4 varianter.
 </p>
-	<a href="001/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="001/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Zeekr 001 er en stasjonsvogn tilgjengelig i 4 varianter.
             <div class="col col-12 col-md-6"><p>
 Zeekr 007 er en sedan tilgjengelig i 1 varianter.
 </p>
-	<a href="007/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="007/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -56,9 +56,9 @@ Zeekr 007 er en sedan tilgjengelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Zeekr 009 er en premium MPV tilgjengelig i 1 varianter.
+Zeekr 009 er en premium flerbruksbil tilgjengelig i 1 varianter.
 </p>
-	<a href="009/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="009/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -73,7 +73,7 @@ Zeekr 009 er en premium MPV tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Zeekr 7X er en SUV tilgjengelig i 2 varianter.
 </p>
-	<a href="7x/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="7x/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -86,9 +86,9 @@ Zeekr 7X er en SUV tilgjengelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Zeekr MIX er en MPV tilgjengelig i 1 varianter.
+Zeekr MIX er en flerbruksbil tilgjengelig i 1 varianter.
 </p>
-	<a href="mix/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="mix/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -103,7 +103,7 @@ Zeekr MIX er en MPV tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Zeekr X er en crossover tilgjengelig i 2 varianter.
 </p>
-	<a href="x/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="x/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

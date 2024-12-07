@@ -1,7 +1,7 @@
 ---
-title: Honda Prologue FWD galleri
-linktitle: "Galleri"
-description: "Se nedenfor for vårt store Honda Prologue FWD bildegalleri. Klikk på bildene for høyoppløselige versjoner."
+title: Honda Prologue FWD bildegalleri
+linktitle: "Bildegalleri"
+description: "Se under for vårt store bildegalleri av Honda Prologue FWD. Klikk på bildene for høyoppløselige versjoner."
 weight: 5
 hidden: true
 navicon: bi-images
@@ -167,6 +167,6 @@ lightbox.init();
 <strong><i class="bi-arrow-left"></i> Spesifikasjoner </strong>
 </a>
 <a href="../reviews/" class="text-decoration-none text-black float-end">
-<strong>Tester <i class="bi-arrow-right"></i></strong>
+<strong>Anmeldelser <i class="bi-arrow-right"></i></strong>
 </a>
 </div>

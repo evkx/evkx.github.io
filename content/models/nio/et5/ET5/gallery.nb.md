@@ -1,7 +1,7 @@
 ---
-title: Nio ET5 galleri
-linktitle: "Galleri"
-description: "Se nedenfor for vårt store Nio ET5 bildegalleri. Klikk på bildene for høyoppløselige versjoner."
+title: Nio ET5 bildegalleri
+linktitle: "Bildegalleri"
+description: "Se under for vårt store bildegalleri av Nio ET5. Klikk på bildene for høyoppløselige versjoner."
 weight: 5
 hidden: true
 navicon: bi-images
@@ -59,6 +59,6 @@ lightbox.init();
 <strong><i class="bi-arrow-left"></i> Spesifikasjoner </strong>
 </a>
 <a href="../reviews/" class="text-decoration-none text-black float-end">
-<strong>Tester <i class="bi-arrow-right"></i></strong>
+<strong>Anmeldelser <i class="bi-arrow-right"></i></strong>
 </a>
 </div>

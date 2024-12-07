@@ -1,5 +1,5 @@
 ---
-title: Skoda elektriske modeller
+title: Skoda elbilmodeller
 linktitle: "Skoda"
 description: "Škoda Auto, en tsjekkisk bilprodusent grunnlagt i 1895, er kjent for sine pålitelige og rimelige kjøretøyer. Nå et datterselskap av Volkswagen Group, kombinerer Škoda praktisk ingeniørarbeid med innovativt design."
 weight: 30
@@ -26,9 +26,9 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-SKODA Elroq er en Coupe SUV tilgjengelig i 4 varianter.
+SKODA Elroq er en SUV-kupé tilgjengelig i 4 varianter.
 </p>
-	<a href="elroq/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="elroq/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -41,9 +41,9 @@ SKODA Elroq er en Coupe SUV tilgjengelig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-SKODA Enyaq iV er en SUV/Coupe SUV tilgjengelig i 12 varianter.
+SKODA Enyaq iV er en SUV/SUV-kupé tilgjengelig i 12 varianter.
 </p>
-	<a href="enyaq_iv/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="enyaq_iv/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

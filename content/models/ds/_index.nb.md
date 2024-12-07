@@ -1,5 +1,5 @@
 ---
-title: DS elektriske modeller
+title: DS elbilmodeller
 linktitle: "DS"
 description: "DS is a premium automobile marque that was founded and developed from French manufacturer Citroën. DS was first announced in 2009 as a sub-brand of Citroën, applied to certain models that had distinctive design and features."
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 DS 3 er en crossover tilgjengelig i 1 varianter.
 </p>
-	<a href="3/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="3/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>

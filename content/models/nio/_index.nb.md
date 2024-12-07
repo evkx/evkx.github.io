@@ -1,5 +1,5 @@
 ---
-title: Nio elektriske modeller
+title: Nio elbilmodeller
 linktitle: "Nio"
 description: "Nio Inc  is a Chinese multinational automobile manufacturer headquartered in Shanghai, specializing in designing and developing electric vehicles. The company develops battery-swapping stations for its vehicles, as an alternative to conventional charging stations. "
 weight: 30
@@ -28,7 +28,7 @@ weight: 30
             <div class="col col-12 col-md-6"><p>
 Nio EL6 er en SUV tilgjengelig i 1 varianter.
 </p>
-	<a href="el6/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="el6/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -43,7 +43,7 @@ Nio EL6 er en SUV tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Nio EL7 er en SUV tilgjengelig i 1 varianter.
 </p>
-	<a href="el7/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="el7/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -58,7 +58,7 @@ Nio EL7 er en SUV tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Nio EL8 er en SUV tilgjengelig i 1 varianter.
 </p>
-	<a href="el8/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="el8/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -73,7 +73,7 @@ Nio EL8 er en SUV tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Nio ES8 er en SUV tilgjengelig i 1 varianter.
 </p>
-	<a href="es8/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="es8/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -86,9 +86,9 @@ Nio ES8 er en SUV tilgjengelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Nio ET5 er en sedan /stasjonsvogn tilgjengelig i 2 varianter.
+Nio ET5 er en sedan/stasjonsvogn tilgjengelig i 2 varianter.
 </p>
-	<a href="et5/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="et5/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -103,7 +103,7 @@ Nio ET5 er en sedan /stasjonsvogn tilgjengelig i 2 varianter.
             <div class="col col-12 col-md-6"><p>
 Nio ET7 er en sedan tilgjengelig i 1 varianter.
 </p>
-	<a href="et7/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="et7/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
@@ -118,7 +118,7 @@ Nio ET7 er en sedan tilgjengelig i 1 varianter.
             <div class="col col-12 col-md-6"><p>
 Nio ET9 er en premium sedan tilgjengelig i 1 varianter.
 </p>
-	<a href="et9/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+	<a href="et9/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>
 	</div>
 </div>
