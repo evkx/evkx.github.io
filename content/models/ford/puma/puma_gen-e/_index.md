@@ -30,21 +30,21 @@ The Ford Puma Gen-E offers modest performance with a maximum power of 123.5 kW (
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 43.6 kWh and a net usable capacity of 46.0 kWh, providing a -2.4 kWh buffer (-5.5%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+The high-capacity battery has a gross capacity of 46.0 kWh and a net usable capacity of 43.6 kWh, providing a 2.4 kWh buffer (5.2%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 376 to 347 km (234-216 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.2 kWh/100 km for the base model and 13.3 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 376 to 347 km (234-216 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 11.6 kWh/100 km for the base model and 12.6 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 65 minutes, while a more typical scenario from 10% to 80% takes 25 minutes with an average charging speed of 77 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 66%. This results in an effective charging speed, including time lost, of 67 kW, with each charging session taking about 24 minutes and 21 seconds.
+The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 62 minutes, while a more typical scenario from 10% to 80% takes 24 minutes with an average charging speed of 75 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 67%. This results in an effective charging speed, including time lost, of 65 kW, with each charging session taking about 24 minutes and 10 seconds.
 
-In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 23 kWh/100 km, the trip would take about 11 hours and 7 minutes, requiring eight charging stops from 8% to 58%, totaling 167 minutes of charging time.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 23 kWh/100 km, the trip would take about 11 hours and 14 minutes, requiring seven charging stops from 6% to 68%, totaling 175 minutes of charging time.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 4 hours and 10 minutes using a home setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 3 hours and 57 minutes using a home setup.
 
 ### Charge Port
 
-Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. This model uses the [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) connector for the chargeport.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,6 +56,10 @@ The Ford Puma Gen-E has a front-wheel drive system supported by one motor on the
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has a fixed height and damping. The ground clearance with this suspension is 129 mm.
 
+### Steering
+
+Dynamic steering is a standard on the Ford Puma Gen-E, varying the steering ratio based on driving speed for enhanced control and comfort.
+
 ### Drive Modes
 
 The Ford Puma Gen-E lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
@@ -66,6 +70,8 @@ The Ford Puma Gen-E lets the user select different [drive modes](../../../../tec
 - Slippery: Balanced steering and throttle.
 
 ### Brakes
+
+The Ford Puma Gen-E is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -87,7 +93,7 @@ Narrower wheels improve consumption and provide a longer range, while wider whee
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 
-There is only one roof option for this model.
+There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an manual curtain that occupants can use to protect against the sun.
 
 The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
@@ -218,6 +224,8 @@ The Ford Puma Gen-E features a range of standard and optional [advanced driver a
 
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Ford Puma Gen-E, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Ford Puma Gen-E, this side assist system helps to detect traffic in blind spots.
+
 ### Driving Automation
 
 The Ford Puma Gen-E offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
@@ -256,5 +264,23 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model made its world premiere on 03.12.2024, with deliveries anticipated to begin in April 2025.
+This model made its world premiere on 03.12.2024, with deliveries anticipated to begin in April 2025. Please note that this model is available exclusively in Europe.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- 329 000,00 NOK (Norway)
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Ford Puma Gen-E that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [SKODA Elroq 50](/models/skoda/elroq/elroq_50/)
+- [Alfa Romeo Junior](/models/alfa_romeo/junior/junior/)
+- [BYD Atto 3](/models/byd/atto_3/atto_3/)
+- [Lexus UX 300e](/models/lexus/ux/ux_300e/)
+
+<a href="https://db.evkx.net/evcompare?evs=833418%2cc02442%2c35592e%2c248300%2c79a088" target="_blank">Explore a detailed comparison of these models.</a>
+
 {{< pagenavigation b_url="../" b_title="Ford Puma" f_url="rangeandconsumption/" f_title="Range" >}}

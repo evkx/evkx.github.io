@@ -30,21 +30,21 @@ Le Ford Puma Gen-E offre des performances modestes avec une puissance maximale d
 
 ## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 43,6 kWh et une capacité nette utilisable de 46,0 kWh, offrant une marge de sécurité de -2,4 kWh (-5,5%) pour la protection de la batterie. Cette batterie Lithium-Ion utilise la [technologie NMC (Nickel Manganèse Cobalt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+La batterie haute capacité a une capacité brute de 46,0 kWh et une capacité nette utilisable de 43,6 kWh, offrant une marge de sécurité de 2,4 kWh (5,2%) pour la protection de la batterie. Cette batterie Lithium-Ion utilise la [technologie NMC (Nickel Manganèse Cobalt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule varie entre 376 et 347 km (234-216 miles), en fonction de la configuration spécifique et des options, telles que la taille des roues. Des roues plus grandes peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 12,2 kWh/100 km pour le modèle de base et à 13,3 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule varie entre 376 et 347 km (234-216 miles), en fonction de la configuration spécifique et des options, telles que la taille des roues. Des roues plus grandes peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 11,6 kWh/100 km pour le modèle de base et à 12,6 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 100 kW. La charge de 0% à 100% prend environ 65 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 25 minutes avec une vitesse de charge moyenne de 77 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 7% à 66%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 67 kW, chaque session de charge prenant environ 24 minutes et 21 secondes.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 100 kW. La charge de 0% à 100% prend environ 62 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 24 minutes avec une vitesse de charge moyenne de 75 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 7% à 67%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 65 kW, chaque session de charge prenant environ 24 minutes et 10 secondes.
 
-Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 23 kWh/100 km, le voyage prendrait environ 11 heures et 7 minutes, nécessitant huit arrêts de charge de 8% à 58%, totalisant 167 minutes de temps de charge.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 23 kWh/100 km, le voyage prendrait environ 11 heures et 14 minutes, nécessitant sept arrêts de charge de 6% à 68%, totalisant 175 minutes de temps de charge.
 
 ### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 4 heures et 10 minutes avec une installation domestique.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 3 heures et 57 minutes avec une installation domestique.
 
 ### Port de Charge
 
-Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
+Le port de charge est situé sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side), facilitant l'utilisation des stations de charge où vous devez reculer vers le chargeur. Ce modèle utilise le connecteur [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) pour le port de charge.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,6 +56,10 @@ Le Ford Puma Gen-E dispose d'un système de traction avant soutenu par un moteur
 
 La suspension avant est à [jambes de force MacPherson](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). La suspension standard comprend des ressorts en acier et des amortisseurs hydrauliques. La suspension du standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 129 mm.
 
+### Direction
+
+La direction dynamique est un standard sur le Ford Puma Gen-E, variant le rapport de direction en fonction de la vitesse de conduite pour un contrôle et un confort accrus.
+
 ### Modes de Conduite
 
 Le Ford Puma Gen-E permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la maniabilité de la voiture. Le conducteur peut choisir entre 4 modes :
@@ -66,6 +70,8 @@ Le Ford Puma Gen-E permet à l'utilisateur de sélectionner différents [modes d
 - Slippery : Direction et accélérateur équilibrés.
 
 ### Freins
+
+Le Ford Puma Gen-E est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière.
 
 ### Freinage Régénératif
 
@@ -87,7 +93,7 @@ Des roues plus étroites améliorent la consommation et offrent une plus grande 
 
 La voiture a quatre [portes régulières](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre.
 
-Il n'y a qu'une seule option de toit pour ce modèle.
+Il y a deux options de toit différentes à sélectionner. Le toit standard est simplement un toit régulier. En option, vous pouvez commander ce modèle avec un toit panoramique. Le verre a deux panneaux. Un au-dessus des première et deuxième rangées, et les occupants peuvent ouvrir la partie avant. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Les deux panneaux de verre ont un rideau manuel que les occupants peuvent utiliser pour se protéger du soleil.
 
 Les vitres à partir du montant B et vers l'arrière sont teintées, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
@@ -218,6 +224,8 @@ Le Ford Puma Gen-E dispose d'une gamme de systèmes [d'assistance avancée au co
 
 [**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Ford Puma Gen-E, ce système applique automatiquement les freins pour prévenir ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
+[**Surveillance des angles morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optionnel sur le Ford Puma Gen-E, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+
 ### Automatisation de la conduite
 
 Le Ford Puma Gen-E offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
@@ -256,5 +264,23 @@ Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autor
 
 ## Disponibilité et Tarification
 
-Ce modèle a fait sa première mondiale le 03.12.2024, avec des livraisons prévues pour commencer en April 2025.
+Ce modèle a fait sa première mondiale le 03.12.2024, avec des livraisons prévues pour commencer en April 2025. Veuillez noter que ce modèle est disponible exclusivement en Europe.
+
+### Tarification
+
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+
+- 329 000,00 NOK (Norvège)
+
+## Modèles Alternatifs
+
+Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Ford Puma Gen-E qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
+
+- [SKODA Elroq 50](/models/skoda/elroq/elroq_50/)
+- [Alfa Romeo Junior](/models/alfa_romeo/junior/junior/)
+- [BYD Atto 3](/models/byd/atto_3/atto_3/)
+- [Lexus UX 300e](/models/lexus/ux/ux_300e/)
+
+<a href="https://db.evkx.net/evcompare?evs=833418%2cc02442%2c35592e%2c248300%2c79a088" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
+
 {{< pagenavigation b_url="../" b_title="Ford Puma" f_url="rangeandconsumption/" f_title="Autonomie" >}}

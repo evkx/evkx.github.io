@@ -30,21 +30,21 @@ Ford Puma Gen-E tilbyder beskedne præstationer med en maksimal effekt på 123,5
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 43,6 kWh og en nettoanvendelig kapacitet på 46,0 kWh, hvilket giver en buffer på -2,4 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 46,0 kWh og en nettoanvendelig kapacitet på 43,6 kWh, hvilket giver en buffer på 2,4 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 376 og 347 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 12,2 kWh/100 km for basismodellen og 13,3 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 376 og 347 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 11,6 kWh/100 km for basismodellen og 12,6 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 65 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 25 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 66%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 67kW. Hver opladningssession ville tage 24 minutter og 21 sekunder.
+Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 62 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 24 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 67%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 65kW. Hver opladningssession ville tage 24 minutter og 10 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 23 kWh/100 km, ville turen tage cirka 11 timer og 7 minutter. Denne rejse ville kræve to opladningsstop fra 8% til 58%, med en samlet opladningstid på 167 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 23 kWh/100 km, ville turen tage cirka 11 timer og 14 minutter. Denne rejse ville kræve to opladningsstop fra 6% til 68%, med en samlet opladningstid på 175 minutter
 
 ### Ombordlader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 4 timer og 10 minutter ved brug af en hjemmeoplader.
+Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 3 timer og 57 minutter ved brug af en hjemmeoplader.
 
 ### Ladeport
 
-Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Denne model bruger [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) stikket til ladestikket.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,6 +56,10 @@ Ford Puma Gen-E har et forhjulstræksystem understøttet af en motor på foraksl
 
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 129 mm.
 
+### Styring
+
+Dynamisk styring er en standard-funktion på Ford Puma Gen-E. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+
 ### Køretilstande
 
 Ford Puma Gen-E lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
@@ -66,6 +70,8 @@ Ford Puma Gen-E lader brugeren vælge forskellige [drive modes](../../../../tech
 - Slippery: Afbalanceret styring og speeder.
 
 ### Bremser
+
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
 ### Regenerativ bremsning
 
@@ -87,7 +93,7 @@ Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens br
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet.
 
-Der er kun ét tag til denne model.
+Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som en mulighed kan du bestille denne model med et panoramatag. Glasset har to paneler. Et over første og andet række, og passagererne kan åbne den forreste del. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre passagerens humør og komfort. Begge glaspaneler har et manuelt gardin, som passagererne kan bruge til at beskytte mod solen.
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
@@ -218,6 +224,8 @@ Den Ford Puma Gen-E inkluderer flere standard- og valgfri [avancerede førerassi
 
 [**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Ford Puma Gen-E, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
 
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfrit på Ford Puma Gen-E, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+
 ### Køreautomatisering
 
 Ford Puma Gen-E tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
@@ -256,5 +264,23 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 03.12.2024, og leveringer forventes at starte om April 2025.
+Denne model havde verdenspremiere den 03.12.2024, og leveringer forventes at starte om April 2025. Denne model er kun tilgængelig i Europa.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- 329 000,00 NOK (Norge)
+
+## Alternative Modeller
+
+I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Ford Puma Gen-E, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+
+- [SKODA Elroq 50](/models/skoda/elroq/elroq_50/)
+- [Alfa Romeo Junior](/models/alfa_romeo/junior/junior/)
+- [BYD Atto 3](/models/byd/atto_3/atto_3/)
+- [Lexus UX 300e](/models/lexus/ux/ux_300e/)
+
+<a href="https://db.evkx.net/evcompare?evs=833418%2cc02442%2c35592e%2c248300%2c79a088" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="Ford Puma" f_url="rangeandconsumption/" f_title="Range" >}}

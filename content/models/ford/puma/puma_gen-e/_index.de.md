@@ -30,21 +30,21 @@ Der Ford Puma Gen-E bietet eine bescheidene Leistung mit einer maximalen Leistun
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 43,6 kWh und eine nutzbare Nettokapazität von 46,0 kWh, was einen Puffer von -2,4 kWh (-5,5%) zum Schutz der Batterie bietet. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 46,0 kWh und eine nutzbare Nettokapazität von 43,6 kWh, was einen Puffer von 2,4 kWh (5,2%) zum Schutz der Batterie bietet. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 376 und 347 km (234-216 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 12,2 kWh/100 km für das Basismodell und 13,3 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 376 und 347 km (234-216 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 11,6 kWh/100 km für das Basismodell und 12,6 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 100 kW. Das Laden von 0% auf 100% dauert etwa 65 Minuten, während ein typischer Ladevorgang von 10% auf 80% 25 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 77 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 7% und 66%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 67 kW, wobei jede Ladesitzung etwa 24 Minuten und 21 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 100 kW. Das Laden von 0% auf 100% dauert etwa 62 Minuten, während ein typischer Ladevorgang von 10% auf 80% 24 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 75 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 7% und 67%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 65 kW, wobei jede Ladesitzung etwa 24 Minuten und 10 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 23 kWh/100 km, würde die Fahrt etwa 11 Stunden und 7 Minuten dauern. Diese Reise würde acht Ladestopps von 8% auf 58% erfordern, mit einer gesamten Ladezeit von 167 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 23 kWh/100 km, würde die Fahrt etwa 11 Stunden und 14 Minuten dauern. Diese Reise würde sieben Ladestopps von 6% auf 68% erfordern, mit einer gesamten Ladezeit von 175 Minuten.
 
 ### Bordladegerät
 
-Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 4 Stunden und 10 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 3 Stunden und 57 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
-Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
+Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technology/charging/connectors/#rear-side), was das Laden an Stationen erleichtert, bei denen Sie rückwärts zum Ladegerät fahren müssen. Dieses Modell verwendet den [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) Stecker für den Ladeanschluss.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,6 +56,10 @@ Der Ford Puma Gen-E hat ein Frontantriebssystem, das von einem Motor an der Vord
 
 Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die standard Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 129 mm.
 
+### Lenkung
+
+Die dynamische Lenkung ist eine standard im Ford Puma Gen-E, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
+
 ### Fahrmodi
 
 Der Ford Puma Gen-E ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
@@ -66,6 +70,8 @@ Der Ford Puma Gen-E ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../.
 - Slippery: Ausgewogene Lenkung und Gas.
 
 ### Bremsen
+
+Der Ford Puma Gen-E ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
 
 ### Rekuperatives Bremsen
 
@@ -87,7 +93,7 @@ Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, w
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#boot-lid) für den Kofferraum.
 
-Es gibt nur eine Dachoption für dieses Modell.
+Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach ein normales Dach. Optional können Sie dieses Modell mit einem Panoramadach bestellen. Das Glas hat zwei Paneele. Eines über der ersten und der zweiten Reihe, und die Insassen können den vorderen Teil öffnen. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Beide Glasplatten haben einen manuellen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 
 Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
@@ -218,6 +224,8 @@ Der Ford Puma Gen-E verfügt über eine Reihe von standardmäßigen und optional
 
 [**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im Ford Puma Gen-E, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
 
+[**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Optional im Ford Puma Gen-E, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
+
 ### Fahrautomatisierung
 
 Der Ford Puma Gen-E bietet [Fahrautomatisierung
@@ -256,5 +264,23 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 
 ## Verfügbarkeit & Preise
 
-Dieses Modell feierte seine Weltpremiere am 03.12.2024, mit erwarteten Lieferungen ab April 2025.
+Dieses Modell feierte seine Weltpremiere am 03.12.2024, mit erwarteten Lieferungen ab April 2025. Bitte beachten Sie, dass dieses Modell ausschließlich in Europa erhältlich ist.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- 329 000,00 NOK (Norwegen)
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Ford Puma Gen-E identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [SKODA Elroq 50](/models/skoda/elroq/elroq_50/)
+- [Alfa Romeo Junior](/models/alfa_romeo/junior/junior/)
+- [BYD Atto 3](/models/byd/atto_3/atto_3/)
+- [Lexus UX 300e](/models/lexus/ux/ux_300e/)
+
+<a href="https://db.evkx.net/evcompare?evs=833418%2cc02442%2c35592e%2c248300%2c79a088" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+
 {{< pagenavigation b_url="../" b_title="Ford Puma" f_url="rangeandconsumption/" f_title="Reichweite" >}}

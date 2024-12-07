@@ -30,21 +30,21 @@ Ford Puma Gen-E tilbyr beskjedne ytelser med en maksimal effekt på 123,5 kW (16
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 43,6 kWh og en netto brukbar kapasitet på 46,0 kWh, som gir en buffer på -2,4 kWh (-5,5%) for batteribeskyttelse. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 46,0 kWh og en netto brukbar kapasitet på 43,6 kWh, som gir en buffer på 2,4 kWh (5,2%) for batteribeskyttelse. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 376 og 347 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 12,2 kWh/100 km for basismodellen og 13,3 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 376 og 347 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 11,6 kWh/100 km for basismodellen og 12,6 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 100 kW. En full lading fra 0 - 100 % vil ta 65 minutter, mens et mer vanlig scenario på 10-80 % vil ta 25 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 66%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 67kW. Hver ladeøkt vil ta 24 minutter og 21 sekunder.
+Maksimal DC-ladehastighet er 100 kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 24 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 67%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 65kW. Hver ladeøkt vil ta 24 minutter og 10 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 23 kWh/100 km, ville turen ta omtrent 11 timer og 7 minutter. Denne reisen ville kreve to ladestopp fra 8% til 58%, med en total ladetid på 167 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 23 kWh/100 km, ville turen ta omtrent 11 timer og 14 minutter. Denne reisen ville kreve to ladestopp fra 6% til 68%, med en total ladetid på 175 minutter.
 
 ### Ombordlader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 4 timer og 10 minutter med en hjemmelader.
+Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 3 timer og 57 minutter med en hjemmelader.
 
 ### Ladeport
 
-Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Denne modellen bruker [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) kontakten for ladeporten.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -56,6 +56,10 @@ Ford Puma Gen-E har et forhjulsdriftssystem støttet av én motor på forakselen
 
 Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 129 mm.
 
+### Styring
+
+Dynamisk styring er en standard-funksjonen på Ford Puma Gen-E. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+
 ### Kjøremoduser
 
 Ford Puma Gen-E lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
@@ -66,6 +70,8 @@ Ford Puma Gen-E lar brukeren velge forskjellige [kjøremoduser](../../../../tech
 - Slippery: Balansert styring og gasspedal.
 
 ### Bremser
+
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
 
 ### Regenerativ bremsing
 
@@ -87,7 +93,7 @@ Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil g
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.
 
-Det er bare ett tak for denne modellen.
+Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som et alternativ kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad, og passasjerene kan åpne den fremre delen. Dette glasset gjør bilens interiør mer romslig og lyst, noe som kan forbedre passasjerens humør og komfort. Begge glasspanelene har et manuelt gardin som passasjerene kan bruke for å beskytte mot solen.
 
 Rutene fra B-stolpen og baksiden er tonet.
 
@@ -218,6 +224,8 @@ Ford Puma Gen-E inkluderer flere [avanserte førerassistanse systemer](../../../
 
 [**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Ford Puma Gen-E, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
+[**Blindsoneovervåkning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på Ford Puma Gen-E, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+
 ### Kjøreautomatisering
 
 Ford Puma Gen-E tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
@@ -256,5 +264,23 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde sin verdenspremiere den 03.12.2024, med forventede leveranser som starter i April 2025.
+Denne modellen hadde sin verdenspremiere den 03.12.2024, med forventede leveranser som starter i April 2025. Vær oppmerksom på at denne modellen kun er tilgjengelig i Europa.
+
+### Priser
+
+Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
+
+- 329 000,00 NOK (Norge)
+
+## Alternative Modeller
+
+I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Ford Puma Gen-E som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+
+- [SKODA Elroq 50](/models/skoda/elroq/elroq_50/)
+- [Alfa Romeo Junior](/models/alfa_romeo/junior/junior/)
+- [BYD Atto 3](/models/byd/atto_3/atto_3/)
+- [Lexus UX 300e](/models/lexus/ux/ux_300e/)
+
+<a href="https://db.evkx.net/evcompare?evs=833418%2cc02442%2c35592e%2c248300%2c79a088" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
+
 {{< pagenavigation b_url="../" b_title="Ford Puma" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}
