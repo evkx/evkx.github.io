@@ -184,7 +184,7 @@ El Fiat Grande Panda es compatible con Android Auto y Apple CarPlay, lo que le p
 
 Puede elegir entre dos sistemas de sonido para el Fiat Grande Panda:
 
-- **:** Cuenta con dos altavoces.
+- **standard:** Cuenta con dos altavoces.
 - **Max Sound system:** Cuenta con dos altavoces.
 
 Además, el modelo incluye 2 conexiones USB-C como estándar. Como opción, puede obtener 2 conexiones USB-C adicionales.

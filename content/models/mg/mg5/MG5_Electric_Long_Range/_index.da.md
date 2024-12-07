@@ -165,7 +165,7 @@ Yderligere understøtter MG MG5 Electric Long Range Android Auto og Apple CarPla
 
 Én type lydsystem er tilgængelig for MG MG5 Electric Long Range.
 
-- **:** Har seks højttalere.
+- **standard:** Har seks højttalere.
 
 Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelser som standard.
 

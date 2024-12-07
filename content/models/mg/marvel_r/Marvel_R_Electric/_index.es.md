@@ -165,7 +165,7 @@ El MG Marvel R Electric es compatible con Android Auto y Apple CarPlay, lo que l
 
 El MG Marvel R Electric viene equipado con una opción de sistema de sonido:
 
-- **:** Cuenta con NULL altavoces.
+- **standard:** Cuenta con NULL altavoces.
 
 El modelo tiene 4 conexiones USB-A como estándar.
 

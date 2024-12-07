@@ -162,7 +162,7 @@ El MG MG4 Electric Standard es compatible con Android Auto y Apple CarPlay, lo q
 
 El MG MG4 Electric Standard viene equipado con una opción de sistema de sonido:
 
-- **:** Cuenta con NULL altavoces.
+- **standard:** Cuenta con NULL altavoces.
 
 Además, el modelo incluye 1 conexiones USB-C como estándar. El modelo tiene 1 conexiones USB-A como estándar.
 

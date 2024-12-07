@@ -163,7 +163,7 @@ The Alfa Romeo Junior Veloce supports Android Auto and Apple CarPlay, allowing y
 
 The Alfa Romeo Junior Veloce comes equipped with one sound system option:
 
-- **:** Features NULL speakers.
+- **standard:** Features NULL speakers.
 
 ## Lights
 

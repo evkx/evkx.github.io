@@ -150,7 +150,7 @@ Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie ve
 
 Der XPENG G3i ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über NULL Lautsprecher.
+- **standard:** Verfügt über NULL Lautsprecher.
 
 Das Modell verfügt standardmäßig über 4 USB-A-Anschlüsse.
 

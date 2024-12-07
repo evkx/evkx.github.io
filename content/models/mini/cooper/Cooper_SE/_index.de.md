@@ -149,7 +149,7 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 Der Mini Cooper SE ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über NULL Lautsprecher.
+- **standard:** Verfügt über NULL Lautsprecher.
 
 ## Lichter
 

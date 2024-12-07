@@ -161,7 +161,7 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 Én type lydsystem er tilgængelig for XPENG X9 AWD Performance.
 
-- **:** Har NULL højttalere.
+- **standard:** Har NULL højttalere.
 
 ## Lys
 

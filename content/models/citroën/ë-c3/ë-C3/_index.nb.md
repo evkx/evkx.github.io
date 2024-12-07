@@ -198,7 +198,7 @@ I tillegg støtter Citroën ë-C3 Android Auto og Apple CarPlay. Denne funksjona
 
 Du kan velge mellom to lydsystemer på Citroën ë-C3.
 
-- **:** Har to høyttalere.
+- **standard:** Har to høyttalere.
 - **Max Sound system:** Har to høyttalere.
 
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.

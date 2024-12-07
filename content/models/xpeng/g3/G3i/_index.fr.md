@@ -150,7 +150,7 @@ Ce modèle est équipé de la commande vocale de série, vous permettant de gér
 
 Le XPENG G3i est équipé d'une seule option de système audio :
 
-- ** :** Dispose de NULL haut-parleurs.
+- **standard :** Dispose de NULL haut-parleurs.
 
 Le modèle dispose de 4 connexions USB-A de série.
 

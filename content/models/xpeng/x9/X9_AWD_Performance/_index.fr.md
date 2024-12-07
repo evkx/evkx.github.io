@@ -161,7 +161,7 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 Le XPENG X9 AWD Performance est équipé d'une seule option de système audio :
 
-- ** :** Dispose de NULL haut-parleurs.
+- **standard :** Dispose de NULL haut-parleurs.
 
 ## Éclairage
 

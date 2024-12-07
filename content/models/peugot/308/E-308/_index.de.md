@@ -170,7 +170,7 @@ Der Peugot E-308 unterstützt Android Auto und Apple CarPlay, sodass Sie den Bil
 
 Der Peugot E-308 ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über NULL Lautsprecher.
+- **standard:** Verfügt über NULL Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 3 USB-C-Anschlüsse.
 

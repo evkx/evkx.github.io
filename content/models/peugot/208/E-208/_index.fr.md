@@ -163,7 +163,7 @@ Le Peugot E-208 prend en charge Android Auto et Apple CarPlay, vous permettant d
 
 Le Peugot E-208 est équipé d'une seule option de système audio :
 
-- ** :** Dispose de NULL haut-parleurs.
+- **standard :** Dispose de NULL haut-parleurs.
 
 ## Éclairage
 

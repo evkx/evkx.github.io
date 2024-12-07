@@ -165,7 +165,7 @@ I tillegg støtter Opel Mokka Electric Android Auto og Apple CarPlay. Denne funk
 
 Én type lydsystem er tilgjengelig for Opel Mokka Electric.
 
-- **:** Har NULL høyttalere.
+- **standard:** Har NULL høyttalere.
 
 ## Lys
 

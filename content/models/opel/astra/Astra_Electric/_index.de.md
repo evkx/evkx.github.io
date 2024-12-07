@@ -169,7 +169,7 @@ Der Opel Astra Electric unterstützt Android Auto und Apple CarPlay, sodass Sie 
 
 Der Opel Astra Electric ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über NULL Lautsprecher.
+- **standard:** Verfügt über NULL Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 3 USB-C-Anschlüsse.
 

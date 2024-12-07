@@ -163,7 +163,7 @@ I tillegg støtter Alfa Romeo Junior Android Auto og Apple CarPlay. Denne funksj
 
 Én type lydsystem er tilgjengelig for Alfa Romeo Junior.
 
-- **:** Har NULL høyttalere.
+- **standard:** Har NULL høyttalere.
 
 ## Lys
 

@@ -158,7 +158,7 @@ El Citroën ë-C4 X es compatible con Android Auto y Apple CarPlay, lo que le pe
 
 El Citroën ë-C4 X viene equipado con una opción de sistema de sonido:
 
-- **:** Cuenta con NULL altavoces.
+- **standard:** Cuenta con NULL altavoces.
 
 ## Luces
 

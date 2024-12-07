@@ -149,7 +149,7 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 El Mini Cooper SE viene equipado con una opción de sistema de sonido:
 
-- **:** Cuenta con NULL altavoces.
+- **standard:** Cuenta con NULL altavoces.
 
 ## Luces
 

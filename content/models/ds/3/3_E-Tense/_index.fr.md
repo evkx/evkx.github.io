@@ -162,7 +162,7 @@ Le DS 3 E-Tense prend en charge Android Auto et Apple CarPlay, vous permettant d
 
 Le DS 3 E-Tense est équipé d'une seule option de système audio :
 
-- ** :** Dispose de NULL haut-parleurs.
+- **standard :** Dispose de NULL haut-parleurs.
 
 ## Éclairage
 

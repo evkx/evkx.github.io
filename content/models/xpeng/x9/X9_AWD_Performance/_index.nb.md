@@ -161,7 +161,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 Én type lydsystem er tilgjengelig for XPENG X9 AWD Performance.
 
-- **:** Har NULL høyttalere.
+- **standard:** Har NULL høyttalere.
 
 ## Lys
 

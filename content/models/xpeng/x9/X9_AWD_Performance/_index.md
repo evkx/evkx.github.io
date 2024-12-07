@@ -161,7 +161,7 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 The XPENG X9 AWD Performance comes equipped with one sound system option:
 
-- **:** Features NULL speakers.
+- **standard:** Features NULL speakers.
 
 ## Lights
 

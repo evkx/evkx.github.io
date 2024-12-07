@@ -162,7 +162,7 @@ Yderligere understøtter MG MG4 Electric Long Range Android Auto og Apple CarPla
 
 Én type lydsystem er tilgængelig for MG MG4 Electric Long Range.
 
-- **:** Har NULL højttalere.
+- **standard:** Har NULL højttalere.
 
 Modellen har 1 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

@@ -185,7 +185,7 @@ Le Ford Puma Gen-E prend en charge Android Auto et Apple CarPlay, vous permettan
 Vous pouvez choisir entre deux systèmes audio pour le Ford Puma Gen-E :
 
 - **Ford Sound System :** Dispose de six haut-parleurs.
-- ** B&O Premium Audio System :** Dispose de dix haut-parleurs.
+- **B&O Premium Audio System :** Dispose de dix haut-parleurs.
 
 De plus, le modèle comprend 4 connexions USB-C de série.
 

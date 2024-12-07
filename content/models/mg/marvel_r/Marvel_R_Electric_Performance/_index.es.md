@@ -165,7 +165,7 @@ El MG Marvel R Electric Performance es compatible con Android Auto y Apple CarPl
 
 El MG Marvel R Electric Performance viene equipado con una opción de sistema de sonido:
 
-- **:** Cuenta con NULL altavoces.
+- **standard:** Cuenta con NULL altavoces.
 
 El modelo tiene 4 conexiones USB-A como estándar.
 

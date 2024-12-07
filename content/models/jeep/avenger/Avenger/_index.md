@@ -160,7 +160,7 @@ The Jeep Avenger supports Android Auto and Apple CarPlay, allowing you to mirror
 
 The Jeep Avenger comes equipped with one sound system option:
 
-- **:** Features NULL speakers.
+- **standard:** Features NULL speakers.
 
 ## Lights
 

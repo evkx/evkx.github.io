@@ -165,7 +165,7 @@ Dessutom stöder Fiat 600e Android Auto och Apple CarPlay. Denna funktion gör a
 
 En typ av ljudsystem är tillgänglig för Fiat 600e.
 
-- **:** Har NULL högtalare.
+- **standard:** Har NULL högtalare.
 
 Modellen har 3 USB-A-anslutningar som standard.
 

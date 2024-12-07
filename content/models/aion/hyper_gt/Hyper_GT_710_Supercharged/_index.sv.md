@@ -158,7 +158,7 @@ Både de yttre och inre speglarna använder traditionell spegelteknik för att g
 
 En typ av ljudsystem är tillgänglig för Aion Hyper GT 710 Supercharged.
 
-- **:** Har 23 högtalare.
+- **standard:** Har 23 högtalare.
 
 Modellen har 1 USB-C-anslutningar som standard.
 

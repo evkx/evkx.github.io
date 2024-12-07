@@ -165,7 +165,7 @@ The Fiat 600e supports Android Auto and Apple CarPlay, allowing you to mirror yo
 
 The Fiat 600e comes equipped with one sound system option:
 
-- **:** Features NULL speakers.
+- **standard:** Features NULL speakers.
 
 The model has 3 USB-A connections as standard.
 

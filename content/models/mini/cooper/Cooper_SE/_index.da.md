@@ -149,7 +149,7 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 Én type lydsystem er tilgængelig for Mini Cooper SE.
 
-- **:** Har NULL højttalere.
+- **standard:** Har NULL højttalere.
 
 ## Lys
 

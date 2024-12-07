@@ -161,7 +161,7 @@ I tillegg støtter Dacia Spring 65HP Android Auto og Apple CarPlay. Denne funksj
 
 Én type lydsystem er tilgjengelig for Dacia Spring 65HP.
 
-- **:** Har NULL høyttalere.
+- **standard:** Har NULL høyttalere.
 
 Modellen har 2 USB-C-tilkoblinger som standard.
 

@@ -165,7 +165,7 @@ El Fiat 600e es compatible con Android Auto y Apple CarPlay, lo que le permite r
 
 El Fiat 600e viene equipado con una opción de sistema de sonido:
 
-- **:** Cuenta con NULL altavoces.
+- **standard:** Cuenta con NULL altavoces.
 
 El modelo tiene 3 conexiones USB-A como estándar.
 

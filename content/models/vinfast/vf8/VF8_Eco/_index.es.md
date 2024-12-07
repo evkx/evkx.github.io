@@ -177,7 +177,7 @@ El VinFast VF8 Eco es compatible con Android Auto y Apple CarPlay, lo que le per
 
 El VinFast VF8 Eco viene equipado con una opción de sistema de sonido:
 
-- **:** Cuenta con 11 altavoces.
+- **standard:** Cuenta con 11 altavoces.
 
 Además, el modelo incluye 1 conexiones USB-C como estándar. El modelo tiene 4 conexiones USB-A como estándar.
 

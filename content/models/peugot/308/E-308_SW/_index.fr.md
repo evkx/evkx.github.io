@@ -166,7 +166,7 @@ Le Peugot E-308 SW prend en charge Android Auto et Apple CarPlay, vous permettan
 
 Le Peugot E-308 SW est équipé d'une seule option de système audio :
 
-- ** :** Dispose de NULL haut-parleurs.
+- **standard :** Dispose de NULL haut-parleurs.
 
 De plus, le modèle comprend 3 connexions USB-C de série.
 

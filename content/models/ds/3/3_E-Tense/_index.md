@@ -162,7 +162,7 @@ The DS 3 E-Tense supports Android Auto and Apple CarPlay, allowing you to mirror
 
 The DS 3 E-Tense comes equipped with one sound system option:
 
-- **:** Features NULL speakers.
+- **standard:** Features NULL speakers.
 
 ## Lights
 

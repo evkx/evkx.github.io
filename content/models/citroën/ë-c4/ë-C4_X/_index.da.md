@@ -158,7 +158,7 @@ Yderligere understøtter Citroën ë-C4 X Android Auto og Apple CarPlay. Denne f
 
 Én type lydsystem er tilgængelig for Citroën ë-C4 X.
 
-- **:** Har NULL højttalere.
+- **standard:** Har NULL højttalere.
 
 ## Lys
 

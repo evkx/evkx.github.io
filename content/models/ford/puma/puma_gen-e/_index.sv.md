@@ -185,7 +185,7 @@ Dessutom stöder Ford Puma Gen-E Android Auto och Apple CarPlay. Denna funktion 
 Du kan välja mellan två ljudsystem på Ford Puma Gen-E.
 
 - **Ford Sound System:** Har sex högtalare.
-- ** B&O Premium Audio System:** Har tio högtalare.
+- **B&O Premium Audio System:** Har tio högtalare.
 
 Modellen har 4 USB-C-anslutningar som standard.
 

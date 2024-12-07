@@ -160,7 +160,7 @@ El Jeep Avenger es compatible con Android Auto y Apple CarPlay, lo que le permit
 
 El Jeep Avenger viene equipado con una opción de sistema de sonido:
 
-- **:** Cuenta con NULL altavoces.
+- **standard:** Cuenta con NULL altavoces.
 
 ## Luces
 

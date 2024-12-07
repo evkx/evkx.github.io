@@ -161,7 +161,7 @@ Le Peugot E-2008 prend en charge Android Auto et Apple CarPlay, vous permettant 
 
 Le Peugot E-2008 est équipé d'une seule option de système audio :
 
-- ** :** Dispose de NULL haut-parleurs.
+- **standard :** Dispose de NULL haut-parleurs.
 
 ## Éclairage
 

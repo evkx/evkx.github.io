@@ -161,7 +161,7 @@ I tillegg støtter Peugot E-2008 Android Auto og Apple CarPlay. Denne funksjonal
 
 Én type lydsystem er tilgjengelig for Peugot E-2008.
 
-- **:** Har NULL høyttalere.
+- **standard:** Har NULL høyttalere.
 
 ## Lys
 

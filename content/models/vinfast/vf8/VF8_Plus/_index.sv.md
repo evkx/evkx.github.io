@@ -183,7 +183,7 @@ Dessutom stöder VinFast VF8 Plus Android Auto och Apple CarPlay. Denna funktion
 
 En typ av ljudsystem är tillgänglig för VinFast VF8 Plus.
 
-- **:** Har 11 högtalare.
+- **standard:** Har 11 högtalare.
 
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 4 USB-A-anslutningar som standard.
 

@@ -162,7 +162,7 @@ The MG MG4 Electric Extended Range supports Android Auto and Apple CarPlay, allo
 
 The MG MG4 Electric Extended Range comes equipped with one sound system option:
 
-- **:** Features NULL speakers.
+- **standard:** Features NULL speakers.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

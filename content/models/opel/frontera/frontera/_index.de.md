@@ -190,7 +190,7 @@ Der Opel Frontera unterstützt Android Auto und Apple CarPlay, sodass Sie den Bi
 
 Sie können zwischen zwei Soundsystemen für den Opel Frontera wählen:
 
-- **:** Verfügt über zwei Lautsprecher.
+- **standard:** Verfügt über zwei Lautsprecher.
 - **Max Sound system:** Verfügt über zwei Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Optional können Sie zusätzliche 2 USB-C-Anschlüsse erhalten.

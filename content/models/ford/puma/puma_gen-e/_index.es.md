@@ -185,7 +185,7 @@ El Ford Puma Gen-E es compatible con Android Auto y Apple CarPlay, lo que le per
 Puede elegir entre dos sistemas de sonido para el Ford Puma Gen-E:
 
 - **Ford Sound System:** Cuenta con seis altavoces.
-- ** B&O Premium Audio System:** Cuenta con diez altavoces.
+- **B&O Premium Audio System:** Cuenta con diez altavoces.
 
 Además, el modelo incluye 4 conexiones USB-C como estándar.
 

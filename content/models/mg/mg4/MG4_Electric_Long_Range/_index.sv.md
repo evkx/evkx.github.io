@@ -162,7 +162,7 @@ Dessutom stöder MG MG4 Electric Long Range Android Auto och Apple CarPlay. Denn
 
 En typ av ljudsystem är tillgänglig för MG MG4 Electric Long Range.
 
-- **:** Har NULL högtalare.
+- **standard:** Har NULL högtalare.
 
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

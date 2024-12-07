@@ -200,7 +200,7 @@ I tillegg støtter Citroën ë-C3 Aircross Android Auto og Apple CarPlay. Denne 
 
 Du kan velge mellom to lydsystemer på Citroën ë-C3 Aircross.
 
-- **:** Har to høyttalere.
+- **standard:** Har to høyttalere.
 - **Max Sound system:** Har to høyttalere.
 
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.

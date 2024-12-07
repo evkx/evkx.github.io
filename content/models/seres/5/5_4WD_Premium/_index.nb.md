@@ -167,7 +167,7 @@ I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du tre
 
 Én type lydsystem er tilgjengelig for Seres 5 4WD Premium.
 
-- **:** Har 11 høyttalere.
+- **standard:** Har 11 høyttalere.
 
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
 

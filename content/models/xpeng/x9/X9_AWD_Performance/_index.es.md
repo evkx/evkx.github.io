@@ -161,7 +161,7 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 El XPENG X9 AWD Performance viene equipado con una opción de sistema de sonido:
 
-- **:** Cuenta con NULL altavoces.
+- **standard:** Cuenta con NULL altavoces.
 
 ## Luces
 

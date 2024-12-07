@@ -171,7 +171,7 @@ Der Lancia Ypsilon unterstützt Android Auto und Apple CarPlay, sodass Sie den B
 
 Der Lancia Ypsilon ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über NULL Lautsprecher.
+- **standard:** Verfügt über NULL Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 3 USB-C-Anschlüsse.
 

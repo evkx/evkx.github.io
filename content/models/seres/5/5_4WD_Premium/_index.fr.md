@@ -167,7 +167,7 @@ Avec le système de navigation embarqué un standard, vous avez toute l'assistan
 
 Le Seres 5 4WD Premium est équipé d'une seule option de système audio :
 
-- ** :** Dispose de 11 haut-parleurs.
+- **standard :** Dispose de 11 haut-parleurs.
 
 De plus, le modèle comprend 2 connexions USB-C de série. Le modèle dispose de 2 connexions USB-A de série.
 

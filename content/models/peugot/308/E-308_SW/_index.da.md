@@ -166,7 +166,7 @@ Yderligere understøtter Peugot E-308 SW Android Auto og Apple CarPlay. Denne fu
 
 Én type lydsystem er tilgængelig for Peugot E-308 SW.
 
-- **:** Har NULL højttalere.
+- **standard:** Har NULL højttalere.
 
 Modellen har 3 USB-C-forbindelser som standard.
 

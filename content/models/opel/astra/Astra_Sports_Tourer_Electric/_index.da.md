@@ -165,7 +165,7 @@ Yderligere understøtter Opel Astra Sports Tourer Electric Android Auto og Apple
 
 Én type lydsystem er tilgængelig for Opel Astra Sports Tourer Electric.
 
-- **:** Har NULL højttalere.
+- **standard:** Har NULL højttalere.
 
 Modellen har 3 USB-C-forbindelser som standard.
 

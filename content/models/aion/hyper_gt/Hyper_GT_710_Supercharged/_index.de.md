@@ -158,7 +158,7 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 Der Aion Hyper GT 710 Supercharged ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über 23 Lautsprecher.
+- **standard:** Verfügt über 23 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 1 USB-C-Anschlüsse.
 

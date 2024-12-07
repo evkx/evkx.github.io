@@ -200,7 +200,7 @@ Le Citroën ë-C3 Aircross prend en charge Android Auto et Apple CarPlay, vous p
 
 Vous pouvez choisir entre deux systèmes audio pour le Citroën ë-C3 Aircross :
 
-- ** :** Dispose de deux haut-parleurs.
+- **standard :** Dispose de deux haut-parleurs.
 - **Max Sound system :** Dispose de deux haut-parleurs.
 
 De plus, le modèle comprend 2 connexions USB-C de série. En option, vous pouvez obtenir des connexions USB-C supplémentaires 2.

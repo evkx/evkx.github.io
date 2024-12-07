@@ -166,7 +166,7 @@ El Peugot E-308 SW es compatible con Android Auto y Apple CarPlay, lo que le per
 
 El Peugot E-308 SW viene equipado con una opción de sistema de sonido:
 
-- **:** Cuenta con NULL altavoces.
+- **standard:** Cuenta con NULL altavoces.
 
 Además, el modelo incluye 3 conexiones USB-C como estándar.
 

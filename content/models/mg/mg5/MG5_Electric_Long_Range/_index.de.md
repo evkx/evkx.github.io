@@ -165,7 +165,7 @@ Der MG MG5 Electric Long Range unterstützt Android Auto und Apple CarPlay, soda
 
 Der MG MG5 Electric Long Range ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über sechs Lautsprecher.
+- **standard:** Verfügt über sechs Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 2 USB-A-Anschlüsse.
 

@@ -162,7 +162,7 @@ I tillegg støtter DS 3 E-Tense Android Auto og Apple CarPlay. Denne funksjonali
 
 Én type lydsystem er tilgjengelig for DS 3 E-Tense.
 
-- **:** Har NULL høyttalere.
+- **standard:** Har NULL høyttalere.
 
 ## Lys
 

@@ -165,7 +165,7 @@ Le Opel Astra Sports Tourer Electric prend en charge Android Auto et Apple CarPl
 
 Le Opel Astra Sports Tourer Electric est équipé d'une seule option de système audio :
 
-- ** :** Dispose de NULL haut-parleurs.
+- **standard :** Dispose de NULL haut-parleurs.
 
 De plus, le modèle comprend 3 connexions USB-C de série.
 

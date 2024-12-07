@@ -165,7 +165,7 @@ The MG MG5 Electric Standard Range supports Android Auto and Apple CarPlay, allo
 
 The MG MG5 Electric Standard Range comes equipped with one sound system option:
 
-- **:** Features six speakers.
+- **standard:** Features six speakers.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 

@@ -183,7 +183,7 @@ Le VinFast VF8 Plus prend en charge Android Auto et Apple CarPlay, vous permetta
 
 Le VinFast VF8 Plus est équipé d'une seule option de système audio :
 
-- ** :** Dispose de 11 haut-parleurs.
+- **standard :** Dispose de 11 haut-parleurs.
 
 De plus, le modèle comprend 1 connexions USB-C de série. Le modèle dispose de 4 connexions USB-A de série.
 

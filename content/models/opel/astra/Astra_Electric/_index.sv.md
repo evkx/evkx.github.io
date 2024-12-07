@@ -169,7 +169,7 @@ Dessutom stöder Opel Astra Electric Android Auto och Apple CarPlay. Denna funkt
 
 En typ av ljudsystem är tillgänglig för Opel Astra Electric.
 
-- **:** Har NULL högtalare.
+- **standard:** Har NULL högtalare.
 
 Modellen har 3 USB-C-anslutningar som standard.
 

@@ -161,7 +161,7 @@ Le Dacia Spring 65HP prend en charge Android Auto et Apple CarPlay, vous permett
 
 Le Dacia Spring 65HP est équipé d'une seule option de système audio :
 
-- ** :** Dispose de NULL haut-parleurs.
+- **standard :** Dispose de NULL haut-parleurs.
 
 De plus, le modèle comprend 2 connexions USB-C de série.
 

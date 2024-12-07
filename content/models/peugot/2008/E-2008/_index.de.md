@@ -161,7 +161,7 @@ Der Peugot E-2008 unterstützt Android Auto und Apple CarPlay, sodass Sie den Bi
 
 Der Peugot E-2008 ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über NULL Lautsprecher.
+- **standard:** Verfügt über NULL Lautsprecher.
 
 ## Lichter
 

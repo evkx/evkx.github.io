@@ -165,7 +165,7 @@ I tillegg støtter MG Marvel R Electric Performance Android Auto og Apple CarPla
 
 Én type lydsystem er tilgjengelig for MG Marvel R Electric Performance.
 
-- **:** Har NULL høyttalere.
+- **standard:** Har NULL høyttalere.
 
 Modellen har 4 USB-A-tilkoblinger som standard.
 

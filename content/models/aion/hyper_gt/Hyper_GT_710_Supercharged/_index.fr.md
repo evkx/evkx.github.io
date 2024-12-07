@@ -158,7 +158,7 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 Le Aion Hyper GT 710 Supercharged est équipé d'une seule option de système audio :
 
-- ** :** Dispose de 23 haut-parleurs.
+- **standard :** Dispose de 23 haut-parleurs.
 
 De plus, le modèle comprend 1 connexions USB-C de série.
 

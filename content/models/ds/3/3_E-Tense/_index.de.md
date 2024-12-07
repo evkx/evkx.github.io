@@ -162,7 +162,7 @@ Der DS 3 E-Tense unterstützt Android Auto und Apple CarPlay, sodass Sie den Bil
 
 Der DS 3 E-Tense ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über NULL Lautsprecher.
+- **standard:** Verfügt über NULL Lautsprecher.
 
 ## Lichter
 

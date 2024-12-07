@@ -165,7 +165,7 @@ I tillegg støtter MG Marvel R Electric Android Auto og Apple CarPlay. Denne fun
 
 Én type lydsystem er tilgjengelig for MG Marvel R Electric.
 
-- **:** Har NULL høyttalere.
+- **standard:** Har NULL høyttalere.
 
 Modellen har 4 USB-A-tilkoblinger som standard.
 

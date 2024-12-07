@@ -167,7 +167,7 @@ Con el sistema de navegación en el coche una característica estándar, tiene t
 
 El Seres 5 4WD Premium viene equipado con una opción de sistema de sonido:
 
-- **:** Cuenta con 11 altavoces.
+- **standard:** Cuenta con 11 altavoces.
 
 Además, el modelo incluye 2 conexiones USB-C como estándar. El modelo tiene 2 conexiones USB-A como estándar.
 

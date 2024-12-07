@@ -164,7 +164,7 @@ The MG MG4 Electric XPOWER supports Android Auto and Apple CarPlay, allowing you
 
 The MG MG4 Electric XPOWER comes equipped with one sound system option:
 
-- **:** Features NULL speakers.
+- **standard:** Features NULL speakers.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
