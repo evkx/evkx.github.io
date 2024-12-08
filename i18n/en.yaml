@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-84ccaeac
+  translation: BYD Dolphin 44.9kWh is an all-electric crossover with a WLTP range of up to 340 km (211 miles). EVKX.net has all the details.
+
 - id: frontpage-description-26e1035f
   translation: Maserati GranTurismo Folgore is an all-electric luxury coupe with a WLTP range of up to 501 km (311 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-422c1513
   translation: Hyundai Ioniq 5 Long Range AWD is an all-electric SUV with a WLTP range of up to 546 km (339 miles). EVKX.net has all the details.
-
-- id: frontpage-description-540acf6b
-  translation: Lucid Gravity Grand Touring is an all-electric SUV with a EPA range of up to 708 km (440 miles). EVKX.net has all the details.
 

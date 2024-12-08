@@ -273,6 +273,8 @@ Das maximale Gewicht des Fahrzeugs beträgt 2750 kg (6063 lbs) bei einem Leergew
 
 Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhänger zu ziehen, müssen Sie andere Modelle in Betracht ziehen.
 
+{{< sitefiguresized thumb="models/maserati/granturismo/granturismo_folgore/trunk_1_st.jpg" title="Maserati GranTurismo Folgore" width="3000" height="2000"  >}}
+
 ## Verfügbarkeit & Preise
 
 

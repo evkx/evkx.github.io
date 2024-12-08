@@ -273,6 +273,8 @@ Le poids maximal du véhicule est de 2750 kg (6063 lbs), avec un poids de base d
 
 Ce modèle n'est pas disponible avec une barre de remorquage. Donc, pour tirer une remorque, vous devez regarder d'autres modèles.
 
+{{< sitefiguresized thumb="models/maserati/granturismo/granturismo_folgore/trunk_1_st.jpg" title="Maserati GranTurismo Folgore" width="3000" height="2000"  >}}
+
 ## Disponibilité et Tarification
 
 

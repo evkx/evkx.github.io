@@ -273,6 +273,8 @@ Fordonets maximala vikt är 2750 kg (6063 lbs), med en tjänstevikt på 2260 kg 
 
 Denna modell kan inte utrustas med dragkrok. För att dra släp måste du titta på andra modeller.
 
+{{< sitefiguresized thumb="models/maserati/granturismo/granturismo_folgore/trunk_1_st.jpg" title="Maserati GranTurismo Folgore" width="3000" height="2000"  >}}
+
 ## Tillgänglighet och priser
 
 

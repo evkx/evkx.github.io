@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-84ccaeac
+  translation: BYD Dolphin 44.9kWh er en elektrisk crossover med en WLTP rækkevidde på op til 340 km (211 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-26e1035f
   translation: Maserati GranTurismo Folgore er en elektrisk luksus-coupé med en WLTP rækkevidde på op til 501 km (311 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-422c1513
   translation: Hyundai Ioniq 5 Long Range AWD er en elektrisk SUV med en WLTP rækkevidde på op til 546 km (339 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-540acf6b
-  translation: Lucid Gravity Grand Touring er en elektrisk SUV med en EPA rækkevidde på op til 708 km (440 miles). EVKX.net har alle detaljerne.
 

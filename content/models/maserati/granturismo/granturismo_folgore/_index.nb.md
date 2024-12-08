@@ -273,6 +273,8 @@ Kjøretøyets maksimale vekt er 2750 kg (6063 lbs), med en egenvekt på 2260 kg 
 
 Denne modellen er ikke tilgjengelig med tilhengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 
+{{< sitefiguresized thumb="models/maserati/granturismo/granturismo_folgore/trunk_1_st.jpg" title="Maserati GranTurismo Folgore" width="3000" height="2000"  >}}
+
 ## Tilgjengelighet og priser
 
 

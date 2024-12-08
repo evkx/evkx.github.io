@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-84ccaeac
+  translation: BYD Dolphin 44.9kWh ist ein vollelektrisches Crossover mit einer Reichweite von bis zu 340 km (211 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-26e1035f
   translation: Maserati GranTurismo Folgore ist ein vollelektrisches Luxus-Coupé mit einer Reichweite von bis zu 501 km (311 Meilen). EVKX.net hat alle Details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-422c1513
   translation: Hyundai Ioniq 5 Long Range AWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 546 km (339 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-540acf6b
-  translation: Lucid Gravity Grand Touring ist ein vollelektrisches SUV mit einer Reichweite von bis zu 708 km (440 Meilen). EVKX.net hat alle Details.
 

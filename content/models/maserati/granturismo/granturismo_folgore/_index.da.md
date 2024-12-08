@@ -273,6 +273,8 @@ Køretøjets maksimale vægt er 2750 kg (6063 lbs), med en egenvægt på 2260 kg
 
 Denne model fås ikke med anhængertræk. Så hvis du skal trække en trailer, må du kigge på andre modeller.
 
+{{< sitefiguresized thumb="models/maserati/granturismo/granturismo_folgore/trunk_1_st.jpg" title="Maserati GranTurismo Folgore" width="3000" height="2000"  >}}
+
 ## Tilgængelighed & Priser
 
 

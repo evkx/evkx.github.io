@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons des critiques de nos [critiques en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Polestar 3 vs Porsche Macan vs Audi Q6 E-Tron | WHICH SHOULD YOU BUY?</h3>
+<p>Kris Rifa: 08.12.2024</p>
+
+{{< youtube yQDqMJsCEss >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Porsche Macan Electric - The things YOU need to know! | Charging, Range, Noise, 0-100</h3>
 <p>It's Only Electric: 06.12.2024</p>
 

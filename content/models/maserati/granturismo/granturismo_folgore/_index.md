@@ -273,6 +273,8 @@ The vehicle’s maximum weight is 2750 kg (6063 lbs), with a base weight of 2260
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
+{{< sitefiguresized thumb="models/maserati/granturismo/granturismo_folgore/trunk_1_st.jpg" title="Maserati GranTurismo Folgore" width="3000" height="2000"  >}}
+
 ## Availability & Pricing
 
 

@@ -9,13 +9,6 @@ navicon: bi-person-video2
 Vi samler anmeldelser fra våre [favoritt nettanmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>What's the best CHEAP electric car? MG4 vs BYD Dolphin vs Citroen e-C3 review! | What Car?</h3>
-<p>What Car?: 07.12.2024</p>
-
-{{< youtube H5e235Me8DI >}}
-
-</div>
-<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The BYD Dolphin Is A Better Chevy Bolt Sold In Europe & China! My Quick Test Drive</h3>
 <p>Out of Spec Reviews: 19.07.2024</p>
 

@@ -18,12 +18,48 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/details_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/details_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/details_1_xst.jpg" alt="Maserati GranTurismo Folgore" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/details_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/details_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/details_2_xst.jpg" alt="Maserati GranTurismo Folgore" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/details_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/details_3.jpg"
+data-pswp-width="3000"
+data-pswp-height="2154" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/details_3_xst.jpg" alt="Maserati GranTurismo Folgore" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/dynamic_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/dynamic_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/dynamic_1_xst.jpg" alt="Maserati GranTurismo Folgore" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/dynamic_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/dynamic_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/dynamic_2_xst.jpg" alt="Maserati GranTurismo Folgore" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -72,6 +108,24 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/exterior_6.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/exterior_6.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/exterior_6_xst.jpg" alt="Maserati GranTurismo Folgore" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/exterior_7.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/exterior_7.jpg"
+data-pswp-width="3000"
+data-pswp-height="1670" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/exterior_7_xst.jpg" alt="Maserati GranTurismo Folgore" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/frontseats_1.jpg"
 data-pswp-width="3000"
@@ -87,6 +141,15 @@ data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/headlights_1_xst.jpg" alt="Maserati GranTurismo Folgore" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/hood_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/hood_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/hood_1_xst.jpg" alt="Maserati GranTurismo Folgore" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -213,6 +276,24 @@ data-pswp-width="3000"
 data-pswp-height="1139" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/steeringwheel_2_xst.jpg" alt="Maserati GranTurismo Folgore" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/trunk_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/trunk_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/trunk_1_xst.jpg" alt="Maserati GranTurismo Folgore" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/wheels_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/wheels_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/maserati/granturismo/granturismo_folgore/wheels_1_xst.jpg" alt="Maserati GranTurismo Folgore" class="img-fluid " />
 		</a>
 	</div>
 </div>

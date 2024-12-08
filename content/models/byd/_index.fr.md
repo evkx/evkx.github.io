@@ -41,7 +41,7 @@ BYD Atto 3 est un crossover disponible en 1 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Dolphin est un crossover disponible en 1 variantes.
+BYD Dolphin est un crossover disponible en 2 variantes.
 </p>
 	<a href="dolphin/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

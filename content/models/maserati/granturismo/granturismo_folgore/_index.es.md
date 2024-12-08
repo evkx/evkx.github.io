@@ -273,6 +273,8 @@ El peso máximo del vehículo es de 2750 kg (6063 libras), con un peso base de 2
 
 Este modelo no está disponible con un enganche de remolque. Por lo tanto, para tirar de un remolque, debe buscar otros modelos.
 
+{{< sitefiguresized thumb="models/maserati/granturismo/granturismo_folgore/trunk_1_st.jpg" title="Maserati GranTurismo Folgore" width="3000" height="2000"  >}}
+
 ## Disponibilidad y Precios
 
 
