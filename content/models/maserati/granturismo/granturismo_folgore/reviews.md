@@ -9,10 +9,10 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>I Drive The Electric Maserati GranCabrio Folgore For The First Time! A $200,000 EV Convertible</h3>
-<p>Out of Spec Reviews: 04.09.2024</p>
+<h3>Test av Maserati GranTurismo Folgore - verdens første elektriske GT</h3>
+<p>Norsk elbilforening: 03.12.2024</p>
 
-{{< youtube np7A73Nqxr8 >}}
+{{< youtube Q2Xqo-v3Z_Q >}}
 
 </div>
 <div class="mt-3 mb-3">

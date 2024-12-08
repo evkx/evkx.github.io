@@ -38,7 +38,7 @@ Det højkapacitets batteri har en brutto kapacitet på 92,2 kWh og en netto kapa
 
 Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierer køretøjets rækkevidde mellem 501 og 426 km (311-265 miles), afhængigt af den specifikke konfiguration og tilvalg som f.eks. hjulstørrelse. Større hjul kan øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 16,6 kWh/100 km for basismodellen og 19,5 kWh/100 km for topmodellen under WLTP testcyklussen. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 150 kW. Opladning fra 0% til 100% tager cirka 40 minutter, mens et mere typisk scenario fra 10% til 80% tager 22 minutter med en gennemsnitlig ladehastighed på 161 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 1% til 55%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 161 kW, hvor hver opladningssession tager cirka 17 minutter og 45 sekunder. Denne effektive opladningskapacitet gør Maserati GranTurismo Folgore til et bekvemt valg til langdistancekørsel.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 270 kW. Opladning fra 0% til 100% tager cirka 40 minutter, mens et mere typisk scenario fra 10% til 80% tager 22 minutter med en gennemsnitlig ladehastighed på 161 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 1% til 55%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 161 kW, hvor hver opladningssession tager cirka 17 minutter og 45 sekunder. Denne effektive opladningskapacitet gør Maserati GranTurismo Folgore til et bekvemt valg til langdistancekørsel.
 
 I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 29 kWh/100 km, ville turen tage cirka 9 timer og 38 minutter, med fem opladningsstop fra 2% til 52%, i alt 78 minutters opladningstid.
 
@@ -95,8 +95,6 @@ Maserati GranTurismo Folgore, med dimensioner på 4959 mm i længde, 1957 mm i b
 Du kan vælge mellem flere hjuldesign, alle tilgængelige i samme størrelse, på Maserati GranTurismo Folgore, så du kan personliggøre din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
 - 265/35 dæk på 20" fælge foran og 295/40 dæk på 21" fælge bag
-
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate). Du kan vælge at få bagklappen elektrisk betjent som ekstraudstyr. Du kan også få bagklappen med fodsensor, der gør det muligt at åbne den ved blot at sparke foden under bagklappen.
 
 Der er to forskellige tagmuligheder at vælge imellem. Standardtaget er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset strækker sig over det meste af taget, og passagererne kan åbne den forreste del. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Det har et elektrisk gardin, som passagererne kan bruge til beskyttelse mod solen.
 

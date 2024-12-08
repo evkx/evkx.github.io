@@ -16,6 +16,13 @@ Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Charging the LFP battery of the MG4 Standard 51 kWh</h3>
+<p>Battery Life: 13.02.2024</p>
+
+{{< youtube zGrsMy-o37o >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Can A Cheap EV Be GOOD? | MG4 Review </h3>
 <p>Autotrader: 03.12.2022</p>
 
@@ -34,6 +41,13 @@ Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../
 <p>Autogefühl: 11.10.2022</p>
 
 {{< youtube S3qoijtAD-w >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW MG4 review – the CHEAPEST and BEST electric car you can buy? | What Car?</h3>
+<p>What Car?: 26.08.2022</p>
+
+{{< youtube TEWkrLCV6DQ >}}
 
 </div>
 <div class="mt-3 mb-3">

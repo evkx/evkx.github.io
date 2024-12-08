@@ -227,4 +227,7 @@ Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autor
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/trunk_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2001"  >}}
 
+## Disponibilité et Tarification
+
+Le MG MG4 Electric Long Range a eu sa première mondiale le 13.06.2022, avec des livraisons commençant en September 2022.
 {{< pagenavigation b_url="../" b_title="MG MG4" f_url="rangeandconsumption/" f_title="Autonomie" >}}

@@ -227,4 +227,7 @@ Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/trunk_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2001"  >}}
 
+## Tilgjengelighet og priser
+
+MG MG4 Electric Long Range hadde sin verdenspremiere 13.06.2022, med leveringer som startet i September 2022.
 {{< pagenavigation b_url="../" b_title="MG MG4" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

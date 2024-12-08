@@ -227,4 +227,7 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/trunk_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2001"  >}}
 
+## Verfügbarkeit & Preise
+
+Der MG MG4 Electric Long Range feierte seine Weltpremiere am 13.06.2022, mit Lieferungen ab September 2022.
 {{< pagenavigation b_url="../" b_title="MG MG4" f_url="rangeandconsumption/" f_title="Reichweite" >}}

@@ -182,7 +182,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
-				150 kW
+				270 kW
 			</td>
 		</tr>
 		<tr>

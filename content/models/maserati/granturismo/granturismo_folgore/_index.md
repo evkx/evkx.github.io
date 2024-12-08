@@ -38,7 +38,7 @@ The high-capacity battery has a gross capacity of 92.2 kWh and a net usable capa
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 501 to 426 km (311-265 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.6 kWh/100 km for the base model and 19.5 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 40 minutes, while a more typical scenario from 10% to 80% takes 22 minutes with an average charging speed of 161 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 55%. This results in an effective charging speed, including time lost, of 161 kW, with each charging session taking about 17 minutes and 45 seconds. This efficient charging capability makes the Maserati GranTurismo Folgore a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 40 minutes, while a more typical scenario from 10% to 80% takes 22 minutes with an average charging speed of 161 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 55%. This results in an effective charging speed, including time lost, of 161 kW, with each charging session taking about 17 minutes and 45 seconds. This efficient charging capability makes the Maserati GranTurismo Folgore a convenient option for long-distance travel.
 
 In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 29 kWh/100 km, the trip would take about 9 hours and 38 minutes, requiring five charging stops from 2% to 52%, totaling 78 minutes of charging time.
 
@@ -95,8 +95,6 @@ The Maserati GranTurismo Folgore, with dimensions of 4959 mm in length, 1957 mm 
 You can select from multiple wheel designs, all available in the same size, on the Maserati GranTurismo Folgore, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
 - 265/35 tires on 20" rims front and 295/40 tires on 21" rims rear
-
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). You can choose an option to have the liftgate electrically powered. You can also have the liftgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate.
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 

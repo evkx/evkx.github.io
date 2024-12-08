@@ -227,4 +227,7 @@ Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for e
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/trunk_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 
+## Tilgængelighed & Priser
+
+
 {{< pagenavigation b_url="../" b_title="MG MG4" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

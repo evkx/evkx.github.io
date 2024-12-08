@@ -28,7 +28,7 @@ Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering
 
 ## Ytelse
 
-MG MG4 Electric Standard tilbyr beskjeden ytelse med en maksimal effekt på 150 kW (204 hk / 201 bhp) og et totalt dreiemoment på 250 Nm (184 lb-ft). Den akselererer fra 0 til 100 km/t på 7,9 sekunder og har en topphastighet på 160 km/t (99 mph), mer på linje med tradisjonelle forbrenningsmotorer.
+MG MG4 Electric Standard tilbyr beskjeden ytelse med en maksimal effekt på 125 kW (170 hk / 168 bhp) og et totalt dreiemoment på 250 Nm (184 lb-ft). Den akselererer fra 0 til 100 km/t på 7,9 sekunder og har en topphastighet på 160 km/t (99 mph), mer på linje med tradisjonelle forbrenningsmotorer.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -38,19 +38,19 @@ Batteriet med høy kapasitet har en brutto kapasitet på 51,0 kWh og en netto br
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, er kjørelengden 350 km (218 miles), med et energiforbruk på 14,5 kWh/100 km (4,3 mi/kWh). For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 135 kW. Lading fra 0% til 100% tar omtrent 83 minutter, mens et mer typisk scenario fra 10% til 80% tar 36 minutter med en gjennomsnittlig ladehastighet på 59 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 3% til 60%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 59 kW, hvor hver ladeøkt tar omtrent 29 minutter og 18 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 87 kW. Lading fra 0% til 100% tar omtrent 83 minutter, mens et mer typisk scenario fra 10% til 80% tar 36 minutter med en gjennomsnittlig ladehastighet på 59 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 3% til 60%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 59 kW, hvor hver ladeøkt tar omtrent 29 minutter og 18 sekunder.
 
 I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 21 kWh/100 km, vil turen ta omtrent 11 timer og 3 minutter, og kreve seks ladestopp fra 3% til 56%, totalt 164 minutter ladetid.
 
 ### Innebygd lader
 
-Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 4 timer og 37 minutter ved bruk av et hjemmeoppsett.
+Den standard innebygde laderen støtter opptil 6,6 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 7 timer og 41 minutter ved bruk av et hjemmeoppsett.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/charging_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2249"  >}}
 
 ### Ladekontakt
 
-Ladeporten er plassert på [venstre bakside](../../../../technology/charging/connectors/#rear-side), som gjør det enkelt å bruke ladestasjoner hvor du må rygge inn til laderen. Kontakttypene varierer etter marked: denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. Se fullstendige spesifikasjoner for informasjon om alle markeder.
+Ladeporten er plassert på [venstre bakside](../../../../technology/charging/connectors/#rear-side), som gjør det enkelt å bruke ladestasjoner hvor du må rygge inn til laderen.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -64,19 +64,25 @@ MG MG4 Electric Standard har et bakhjulsdrift-system med én motor på bakaksele
 
 Forhjulsopphenget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og bakhjulsopphenget er [Multilink](../../../../technology/suspension/#multilink). Standardfjæringen inkluderer stålfjærer og hydrauliske dempere. har fast høyde og demping på fjæringen. Bakkeklaring med denne hjulopphenget er 150 mm.
 
+### Styring
+
+Dynamisk styring er en standard på MG MG4 Electric Standard, og varierer styreutvekslingen basert på kjørehastighet for bedre kontroll og komfort.
+
 ### Bremser
 
 MG MG4 Electric Standard er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak.
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) i denne modellen tilbyr flere moduser for å øke effektiviteten og kjøreopplevelsen. Det mest effektive alternativet er [**Automatisk regenereringsmodus**](../../../../technology/regen/#automatic-regen-adaptive), hvor bilen ruller når det er mulig og bruker regenerativ bremsing for å redusere farten ved behov. <br /><br />**Manuell regenerering** er en annen modus, hvor regenerativ bremsing styres ved å trykke på bremsepedalen. Bremsesystemet blander inn fysiske bremser kun når det er nødvendig. <br /><br/> Et annet alternativ er [**Regenerering på gasspedalen**](../../../../technology/regen/#one-pedal-driving) hvor regenerativ bremsing aktiveres når føreren letter på gasspedalen. Dette systemet lar kjøretøyet bremse ned og gjenvinne energi uten at føreren trenger å trykke på bremsepedalen, en funksjon som ofte kalles **kjøring med én pedal**.
+[Regenerativ bremsing](../../../../technology/regen/) i denne modellen tilbyr flere moduser for å øke effektiviteten og kjøreopplevelsen. Det mest effektive alternativet er [**Automatisk regenereringsmodus**](../../../../technology/regen/#automatic-regen-adaptive), hvor bilen ruller når det er mulig og bruker regenerativ bremsing for å redusere farten ved behov. <br /><br />**Manuell regenerering** er en annen modus, hvor regenerativ bremsing styres ved å trykke på bremsepedalen. Bremsesystemet blander inn fysiske bremser kun når det er nødvendig. <br /><br/> Et annet alternativ er [**Regenerering på gasspedalen**](../../../../technology/regen/#one-pedal-driving) hvor regenerativ bremsing aktiveres når føreren letter på gasspedalen. Dette systemet lar kjøretøyet bremse ned og gjenvinne energi uten at føreren trenger å trykke på bremsepedalen, en funksjon som ofte kalles **kjøring med én pedal**. Dette regnes imidlertid ikke som fullstendig énpedalkjøring siden bilen ved lave hastigheter vil fortsette å rulle til den stopper av seg selv.
+
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten av gasspedalen. Det er fire nivåer å velge mellom, slik at du kan tilpasse kjøreopplevelsen etter eget ønske.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
-MG MG4 Electric Standard, med dimensjoner på 4287 mm i lengde, 1836 mm i bredde og 1504 mm i høyde, tilhører B-SUV segmentet. Også kjent som kompakte SUVer eller crossovere, kombinerer disse bilene den kompakte størrelsen og manøvrerbarheten til B-segment biler med høyere kjøreposisjon, økt bagasjeplass og robust styling fra en SUV. MG MG4 Electric Standard er tilgjengelig i totalt 7 lakkfarger, inkludert flere slående metallic-lakker.
+MG MG4 Electric Standard, med dimensjoner på 4287 mm i lengde, 1836 mm i bredde og 1504 mm i høyde, tilhører B-SUV segmentet. Også kjent som kompakte SUVer eller crossovere, kombinerer disse bilene den kompakte størrelsen og manøvrerbarheten til B-segment biler med høyere kjøreposisjon, økt bagasjeplass og robust styling fra en SUV. MG MG4 Electric Standard er tilgjengelig i totalt 7 lakkfarger, inkludert både solide og metallic-lakker.
 
 MG MG4 Electric Standard tilbyr flere hjulalternativer i ulike størrelser, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
@@ -90,7 +96,7 @@ Det er kun ett takalternativ for denne modellen. Som tilvalg kan du bestille den
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer.
+Interiøret i MG MG4 Electric Standard er designet med et minimalistisk uttrykk, med materialer av middels kvalitet gjennomgående. Den svevende midtkonsollen skaper et åpent rom mellom passasjer og fører, og gir praktiske oppbevaringsmuligheter.
 
 ### Seter
 
@@ -102,20 +108,22 @@ MG MG4 Electric Standard tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
 
-- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
-- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
-- [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbart)
+- Høydejusterbar hodestøtte (manuelt justerbart)
 
 Tilgjengelig i:
 
 - Black [stofftrekk](../../../../technology/seats/materials/#fabric)
-- Gray [stoff/kunstskinn-trekk](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/frontseats_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2000"  >}}
 
 #### Andre seterad
 
-Andre seterad har en standard treseter-benk med  deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
+Andre seterad har en standard treseter-benk med 60:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
+
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/secondrowseats_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}
 
@@ -219,10 +227,31 @@ MG MG4 Electric Standard er utstyrt med grunnleggende sikkerhetsfunksjoner for �
 
 ## Laste- og tilhengerkapasitet
 
-Kjøretøyets maksimale vekt er 2133 kg (4702 lbs), med en egenvekt på 1715 kg (3781 lbs). Dette tillater en maksimal last på 418 kg (922 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet.
+Bagasjerommet har en lastekapasitet på 363 liter (12,8 CU FT). Med baksetet nedfelt øker dette til 1177 liter (41,6 CU FT).
+
+Kjøretøyets maksimale vekt er 2103 kg (4636 lbs), med en egenvekt på 1655 kg (3649 lbs). Dette tillater en maksimal last på 448 kg (988 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet.
 
 Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med brems er 500 kg (1102 lbs), og for tilhenger uten brems er det 500 kg (1102 lbs).
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/trunk_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}
+
+## Tilgjengelighet og priser
+
+MG MG4 Electric Standard hadde sin verdenspremiere 13.06.2022, med leveringer som startet i September 2022.
+
+### Priser
+
+Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er startprisene for utvalgte land:
+
+- £26 995,00 (Storbritannia)
+
+## Alternative modeller
+
+I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til MG MG4 Electric Standard som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+
+- [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
+- [BYD Dolphin 60.4kWh](/models/byd/dolphin/dolphin_60.4kwh/)
+
+<a href="https://db.evkx.net/evcompare?evs=b5aa4e%2c90b31f%2c2e862b" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 
 {{< pagenavigation b_url="../" b_title="MG MG4" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}
