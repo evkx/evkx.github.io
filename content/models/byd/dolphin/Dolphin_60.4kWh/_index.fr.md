@@ -60,7 +60,7 @@ Le BYD Dolphin 60.4kWh dispose d'un système de traction avant soutenu par un mo
 
 ### Suspension
 
-La suspension du  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 130 mm.
+La suspension avant est à [jambes de force MacPherson](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). La suspension standard comprend des ressorts en acier et des amortisseurs hydrauliques. La suspension du  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 130 mm.
 
 ### Direction
 
@@ -99,6 +99,8 @@ Les vitres à partir du montant B et vers l'arrière sont teintées, ce qui amé
 <a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Intérieur
+
+L'intérieur du BYD Dolphin 60.4kWh est conçu avec une esthétique minimaliste, avec des matériaux de qualité moyenne utilisés partout. La console centrale à deux niveaux sépare le conducteur et le passager, offrant des options de rangement pratiques et une fonctionnalité améliorée.
 
 ### Sièges
 
@@ -159,21 +161,14 @@ Le BYD Dolphin 60.4kWh comprend plusieurs fonctionnalités pour améliorer le co
 
 ## Interface Utilisateur et Contrôle
 
-Deux configurations d'écran différentes sont disponibles sur le BYD Dolphin 60.4kWh.
+L'interface de contrôle du BYD Dolphin 60.4kWh est principalement axée sur l'interaction avec l'écran, avec une fonctionnalité limitée disponible via des boutons physiques et des manettes. Ce design peut entraîner une expérience utilisateur et une convivialité moins idéales pour certains utilisateurs.
 
-La configuration standard a la configuration suivante. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+Le BYD Dolphin 60.4kWh dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Détails clés de l'écran :
 
 - L'écran  derrière le volant monté dans le tableau de bord mesure 5,0 pouces.
 - L'écran touch au centre du tableau de bord mesure 12,8 pouces.
-
-La configuration optionnelle Design a la configuration suivante. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
-Détails clés de l'écran :
-
-- L'écran  derrière le volant monté dans le tableau de bord mesure 5,0 pouces.
-- L'écran touch au centre du tableau de bord mesure 15,6 pouces.
 
 Le modèle n'inclut pas d'affichage tête haute.
 
@@ -283,5 +278,15 @@ Le poids maximal du véhicule est de 2068 kg (4559 lbs), avec un poids de base d
 Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autorisé pour une remorque freinée est de 0 kg (0 lbs), tandis que pour une remorque non freinée, il est de 0 kg (0 lbs).
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
+
+## Modèles Alternatifs
+
+Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au BYD Dolphin 60.4kWh qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
+
+- [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
+- [Ford Puma Gen-E](/models/ford/puma/puma_gen-e/)
+- [MG MG4 Electric Standard](/models/mg/mg4/mg4_electric_standard/)
+
+<a href="https://db.evkx.net/evcompare?evs=2e862b%2c90b31f%2c833418%2cb5aa4e" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 
 {{< pagenavigation b_url="../" b_title="BYD Dolphin" f_url="rangeandconsumption/" f_title="Autonomie" >}}

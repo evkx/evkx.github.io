@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for BYD Dolphin 44.9kWh.
 				Peak power
 			</td>
 			<td>
-				150 KW (204 hp /201 bhp)
+				70 KW (95 hp /94 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BYD Dolphin 44.9kWh.
 				Electrical torque output
 			</td>
 			<td>
-				310 nm (229 lb-ft)
+				180 nm (133 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -295,6 +295,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Track width front
+			</td>
+			<td>
+				1530 mm (60,2")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width rear
+			</td>
+			<td>
+				1530 mm (60,2")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Turning circle
 			</td>
 			<td>
@@ -493,6 +509,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type front</a>
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type rear</a>
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -1026,7 +1058,39 @@ This model is available with a seat configuration with five seats.
 				Available screen layouts
 			</td>
 			<td>
-				2
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/userinterface/screens/">Digital driver display</a>
+			</td>
+			<td>
+				Yes, 5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/userinterface/screens/">Infotainment screen</a>
+			</td>
+			<td>
+				Yes, 12,8"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/userinterface/screens/">Front passenger Infotainment screen</a>
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/userinterface/screens/">Rear passenger Infotainment screen</a>
+			</td>
+			<td>
+				Not available
 			</td>
 		</tr>
 	</tbody>

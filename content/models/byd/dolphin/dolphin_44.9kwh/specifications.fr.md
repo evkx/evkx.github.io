@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BYD Dolph
 				Puissance de pointe
 			</td>
 			<td>
-				150 KW (204 ch)
+				70 KW (95 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BYD Dolph
 				Couple de sortie électrique
 			</td>
 			<td>
-				310 nm
+				180 nm
 			</td>
 		</tr>
 		<tr>
@@ -295,6 +295,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Largeur de la voie avant
+			</td>
+			<td>
+				1530 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Largeur de voie arrière
+			</td>
+			<td>
+				1530 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Cercle de tournage
 			</td>
 			<td>
@@ -493,6 +509,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				Ressort hélicoïdal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension avant
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension arrière
+			</td>
+			<td>
+				Multi-liens
 			</td>
 		</tr>
 	</tbody>
@@ -1026,7 +1058,39 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Dispositions d'écran disponibles
 			</td>
 			<td>
-				2
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Affichage numérique du pilote
+			</td>
+			<td>
+				Oui, 5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Écran d'infodivertissement
+			</td>
+			<td>
+				Oui, 12,8"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Écran d'infodivertissement du passager avant
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Écran d'infodivertissement passager arrière
+			</td>
+			<td>
+				Non disponible
 			</td>
 		</tr>
 	</tbody>

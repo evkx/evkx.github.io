@@ -295,6 +295,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Sporbredde foran
+			</td>
+			<td>
+				1530 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde bagtil
+			</td>
+			<td>
+				1530 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vendecirkel
 			</td>
 			<td>
@@ -493,6 +509,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				Spiralfjeder
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ophængstype foran
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type bag
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -1026,7 +1058,39 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Tilgængelige skærmlayouts
 			</td>
 			<td>
-				2
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital drivervisning
+			</td>
+			<td>
+				Ja, 5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskærm
+			</td>
+			<td>
+				Ja, 12,8"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Forreste passagerinfotainmentskærm
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bagstpassager Infotainmentskærm
+			</td>
+			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>

@@ -295,6 +295,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Ancho de vía frontal
+			</td>
+			<td>
+				1530 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho de vía trasera
+			</td>
+			<td>
+				1530 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Círculo de giro
 			</td>
 			<td>
@@ -493,6 +509,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				Resorte helicoidal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión delantera
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión trasera
+			</td>
+			<td>
+				Multienlace
 			</td>
 		</tr>
 	</tbody>
@@ -1026,7 +1058,39 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Diseños de pantalla disponibles
 			</td>
 			<td>
-				2
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pantalla del controlador digital
+			</td>
+			<td>
+				Sí, 5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pantalla de infoentretenimiento
+			</td>
+			<td>
+				Sí, 12,8"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pantalla de infoentretenimiento del pasajero delantero
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pantalla de infoentretenimiento del pasajero trasero
+			</td>
+			<td>
+				No disponible
 			</td>
 		</tr>
 	</tbody>

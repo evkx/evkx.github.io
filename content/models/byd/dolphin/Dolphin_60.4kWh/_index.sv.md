@@ -60,7 +60,7 @@ BYD Dolphin 60.4kWh har ett framhjulsdrivet system med en motor på framaxeln. M
 
 ### Fjädring
 
-s fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 130 mm.
+Framhjulsupphängningen är av typen [MacPherson](../../../../technology/suspension/#macpherson-strut), och bakhjulsupphängningen är [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. s fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 130 mm.
 
 ### Styrning
 
@@ -99,6 +99,8 @@ Rutorna från B-stolpen och bakåt är tonade, vilket ökar integriteten och min
 <a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiör
+
+Interiören i BYD Dolphin 60.4kWh är designad med en minimalistisk estetik, med material av medelhög kvalitet genomgående. Den delade mittkonsolen separerar förare och passagerare och erbjuder praktiska förvaringsmöjligheter och förbättrad funktionalitet.
 
 ### Säten
 
@@ -159,21 +161,14 @@ I BYD Dolphin 60.4kWh ingår flera funktioner för att öka komfort och bekväml
 
 ## Användargränssnitt och kontroll
 
-Två olika skärmuppsättningar finns tillgängliga för BYD Dolphin 60.4kWh.
+Kontrollgränssnittet för BYD Dolphin 60.4kWh är primärt fokuserat på skärminteraktion, med begränsad funktionalitet tillgänglig via fysiska knappar och rattspakar. Denna design kan resultera i en mindre optimal användarupplevelse för vissa användare.
 
-Standardlayouten har följande konfiguration. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och på höger sida finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen).
+BYD Dolphin 60.4kWh har två skärmar med information för förare och passagerare. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och på höger sida finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Viktiga skärmdetaljer:
 
 - -skärmen bakom ratten monterad i instrumentbrädan är 5,0 tum stor
 - touch-skärmen på instrumentbrädans mitt är 12,8 tum stor
-
-Den valfria Design layouten har följande konfiguration. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och på höger sida finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen).
-
-Viktiga skärmdetaljer:
-
-- -skärmen bakom ratten monterad i instrumentbrädan är 5,0 tum stor
-- touch-skärmen på instrumentbrädans mitt är 15,6 tum stor
 
 Modellen har ingen head-up display.
 
@@ -283,5 +278,15 @@ Fordonets maximala vikt är 2068 kg (4559 lbs), med en tjänstevikt på 1658 kg 
 Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 0 kg (0 lbs), medan för obromsad släpvagn är det 0 kg (0 lbs).
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
+
+## Alternativa modeller
+
+På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternativ till BYD Dolphin 60.4kWh som är värda att överväga baserat på funktioner, specifikationer och prissättning. Även om dessa modeller kanske inte är exakta matchningar, kan en jämförelse hjälpa dig att fatta ett mer välgrundat köpbeslut:
+
+- [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
+- [Ford Puma Gen-E](/models/ford/puma/puma_gen-e/)
+- [MG MG4 Electric Standard](/models/mg/mg4/mg4_electric_standard/)
+
+<a href="https://db.evkx.net/evcompare?evs=2e862b%2c90b31f%2c833418%2cb5aa4e" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="BYD Dolphin" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

@@ -28,7 +28,7 @@ Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering
 
 ## Ytelse
 
-BYD Dolphin 44.9kWh tilbyr beskjeden ytelse med en maksimal effekt på 150 kW (204 hk / 201 bhp) og et totalt dreiemoment på 310 Nm (229 lb-ft). Den akselererer fra 0 til 100 km/t på 7 sekunder og har en topphastighet på 160 km/t (99 mph), mer på linje med tradisjonelle forbrenningsmotorer.
+BYD Dolphin 44.9kWh kWh gir grunnleggende ytelse med en maksimal effekt på 70 kW (95 hk / 94 bhp) og et totalt dreiemoment på 180 Nm (133 lb-ft). Den akselererer fra 0 til 100 km/t på 7 sekunder og når en topphastighet på 160 km/t (99 mph), som er mer sammenlignbart med innstegsmodeller med tradisjonell forbrenningsmotor.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -60,7 +60,7 @@ BYD Dolphin 44.9kWh har et forhjulsdrift-system med én motor på forakselen. Mo
 
 ### Fjæring
 
-har fast høyde og demping på fjæringen. Bakkeklaring med denne hjulopphenget er 130 mm.
+Forhjulsopphenget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og bakhjulsopphenget er [Multilink](../../../../technology/suspension/#multilink). Standardfjæringen inkluderer stålfjærer og hydrauliske dempere. har fast høyde og demping på fjæringen. Bakkeklaring med denne hjulopphenget er 130 mm.
 
 ### Styring
 
@@ -99,6 +99,8 @@ Vinduene fra B-stolpen og bakover er tonede, noe som gir bedre privatliv og redu
 <a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interiør
+
+Interiøret i BYD Dolphin 44.9kWh er designet med et minimalistisk uttrykk, med materialer av middels kvalitet gjennomgående. Midtkonsollen i to nivåer skiller fører og passasjer, og gir praktiske oppbevaringsmuligheter og økt funksjonalitet.
 
 ### Seter
 
@@ -151,7 +153,6 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkludert, s
 BYD Dolphin 44.9kWh inkluderer flere funksjoner for å øke komfort og bekvemmelighet:
 
 - **Elektrisk justerbart ratt**
-- **Trådløs telefonlading**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -159,21 +160,14 @@ BYD Dolphin 44.9kWh inkluderer flere funksjoner for å øke komfort og bekvemmel
 
 ## Brukergrensesnitt og kontroll
 
-To ulike skjermoppsett er tilgjengelige på BYD Dolphin 44.9kWh.
+Kontrollgrensesnittet for BYD Dolphin 44.9kWh er primært fokusert på skjerminteraksjon, med begrenset funksjonalitet tilgjengelig via fysiske knapper og spaker. Dette designet kan resultere i en mindre enn ideell brukeropplevelse for enkelte brukere.
 
-Standardoppsettet har følgende konfigurasjon. Bak rattet er det et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og på høyre side er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen).
+BYD Dolphin 44.9kWh har to skjermer med informasjon for fører og passasjerer. Bak rattet er det et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og på høyre side er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Viktige skjermdetaljer:
 
 - -skjermen bak rattet montert i dashbordet er 5,0 tommer stor
 - touch-skjermen på midten av dashbordet er 12,8 tommer stor
-
-Det valgfrie Design oppsettet har følgende konfigurasjon. Bak rattet er det et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og på høyre side er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen).
-
-Viktige skjermdetaljer:
-
-- -skjermen bak rattet montert i dashbordet er 5,0 tommer stor
-- touch-skjermen på midten av dashbordet er 15,6 tommer stor
 
 Modellen har ikke head-up display.
 
@@ -283,5 +277,15 @@ Kjøretøyets maksimale vekt er 2068 kg (4559 lbs), med en egenvekt på 1658 kg 
 Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med brems er 0 kg (0 lbs), og for tilhenger uten brems er det 0 kg (0 lbs).
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/trunk_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1776"  >}}
+
+## Alternative modeller
+
+I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til BYD Dolphin 44.9kWh som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+
+- [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
+- [Ford Puma Gen-E](/models/ford/puma/puma_gen-e/)
+- [MG MG4 Electric Standard](/models/mg/mg4/mg4_electric_standard/)
+
+<a href="https://db.evkx.net/evcompare?evs=de3043%2c90b31f%2c833418%2cb5aa4e" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 
 {{< pagenavigation b_url="../" b_title="BYD Dolphin" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -28,7 +28,7 @@ Hemos organizado este artículo en secciones específicas para una navegación m
 
 ## Rendimiento
 
-El BYD Dolphin 44.9kWh ofrece un rendimiento modesto con una potencia máxima de 150 kW (204 hp / 201 bhp) y un par total de 310 Nm (229 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 7 segundos y alcanza una velocidad máxima de 160 km/h (99 mph), alineándose más con los vehículos tradicionales de motor de combustión interna.
+El BYD Dolphin 44.9kWh kWh ofrece un rendimiento básico con una potencia máxima de 70 kW (95 hp / 94 bhp) y un par total de 180 Nm (133 lb-ft). Acelera de 0 a 100 km/h (0 a 62 mph) en 7 segundos y alcanza una velocidad máxima de 160 km/h (99 mph), comparable a los vehículos tradicionales de motor de combustión interna de nivel básico.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -60,7 +60,7 @@ El BYD Dolphin 44.9kWh tiene un sistema de tracción delantera soportado por un 
 
 ### Suspensión
 
-La suspensión del  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 130 mm.
+La suspensión delantera es de [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). La suspensión estándar incluye resortes de acero y amortiguadores hidráulicos. La suspensión del  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 130 mm.
 
 ### Dirección
 
@@ -99,6 +99,8 @@ Las ventanas desde el pilar B hacia atrás están tintadas, lo que mejora la pri
 <a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
+
+El interior del BYD Dolphin 44.9kWh está diseñado con una estética minimalista, con materiales de calidad media en todo el vehículo. La consola central de dos niveles separa al conductor y al pasajero, ofreciendo opciones de almacenamiento convenientes y funcionalidad mejorada.
 
 ### Asientos
 
@@ -151,7 +153,6 @@ Se incluye una [bomba de calor](../../../../technology/hvac/#heat-pump) estánda
 El BYD Dolphin 44.9kWh incluye varias características para mejorar la comodidad y conveniencia:
 
 - **Volante Ajustable Eléctricamente**
-- **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -159,21 +160,14 @@ El BYD Dolphin 44.9kWh incluye varias características para mejorar la comodidad
 
 ## Interfaz de Usuario y Control
 
-Hay dos configuraciones de pantalla diferentes disponibles en el BYD Dolphin 44.9kWh.
+La interfaz de control del BYD Dolphin 44.9kWh se centra principalmente en la interacción con la pantalla, con funcionalidad limitada disponible a través de botones físicos y palancas. Este diseño puede resultar en una experiencia de usuario y usabilidad menos que ideal para algunos usuarios.
 
-La configuración estándar tiene la siguiente configuración. Detrás del volante hay un [panel de instrumentos digital](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
+El BYD Dolphin 44.9kWh tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [panel de instrumentos digital](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Detalles clave de la pantalla:
 
 - La pantalla  detrás del volante montado en el tablero mide 5,0 pulgadas.
 - La pantalla touch en el centro del tablero mide 12,8 pulgadas.
-
-La configuración opcional Design tiene la siguiente configuración. Detrás del volante hay un [panel de instrumentos digital](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
-
-Detalles clave de la pantalla:
-
-- La pantalla  detrás del volante montado en el tablero mide 5,0 pulgadas.
-- La pantalla touch en el centro del tablero mide 15,6 pulgadas.
 
 El modelo no incluye una pantalla frontal.
 
@@ -283,5 +277,15 @@ El peso máximo del vehículo es de 2068 kg (4559 libras), con un peso base de 1
 Se puede agregar un enganche de remolque al vehículo. El peso máximo permitido para un remolque con freno es de 0 kg (0 lbs), mientras que para un remolque sin freno, es de 0 kg (0 lbs).
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/trunk_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1776"  >}}
+
+## Modelos Alternativos
+
+En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varias alternativas al BYD Dolphin 44.9kWh que vale la pena considerar en función de las características, especificaciones y precios. Aunque estos modelos pueden no ser coincidencias exactas, compararlos podría ayudarlo a tomar una decisión de compra más informada:
+
+- [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
+- [Ford Puma Gen-E](/models/ford/puma/puma_gen-e/)
+- [MG MG4 Electric Standard](/models/mg/mg4/mg4_electric_standard/)
+
+<a href="https://db.evkx.net/evcompare?evs=de3043%2c90b31f%2c833418%2cb5aa4e" target="_blank">Explore una comparación detallada de estos modelos.</a>
 
 {{< pagenavigation b_url="../" b_title="BYD Dolphin" f_url="rangeandconsumption/" f_title="Autonomía" >}}

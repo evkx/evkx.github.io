@@ -295,6 +295,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Spurweite vorne
+			</td>
+			<td>
+				1530 mm (60,2")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spurweite hinten
+			</td>
+			<td>
+				1530 mm (60,2")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wendekreis
 			</td>
 			<td>
@@ -493,6 +509,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				Schraubenfeder
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Federungstyp vorne
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Federungstyp hinten
+			</td>
+			<td>
+				Mehrlenker
 			</td>
 		</tr>
 	</tbody>
@@ -1026,7 +1058,39 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verfügbare Bildschirmlayouts
 			</td>
 			<td>
-				2
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digitales Fahrerdisplay
+			</td>
+			<td>
+				Ja, 5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainment-Bildschirm
+			</td>
+			<td>
+				Ja, 12,8"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainment-Bildschirm für den Beifahrer
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainment-Bildschirm für die Rücksitze
+			</td>
+			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 	</tbody>

@@ -60,7 +60,7 @@ The BYD Dolphin 60.4kWh has a front-wheel drive system supported by one motor on
 
 ### Suspension
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 130 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 130 mm.
 
 ### Steering
 
@@ -99,6 +99,8 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 <a id="section-interior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interior
+
+The interior of the BYD Dolphin 60.4kWh is designed with a minimalistic aesthetic, featuring medium-quality materials throughout. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality.
 
 ### Seats
 
@@ -159,21 +161,14 @@ The BYD Dolphin 60.4kWh includes several features to enhance comfort and conveni
 
 ## User Interface and Control
 
-Two different screen setups are available on the BYD Dolphin 60.4kWh.
+The control interface for the BYD Dolphin 60.4kWh is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
 
-The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
+The BYD Dolphin 60.4kWh has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Key screen details:
 
 - The  screen behind the steering wheel mounted into the dashboard is 5.0 inches large
 - The touch screen on the dashboard's center is 12.8 inches large
-
-The optional Design layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
-Key screen details:
-
-- The  screen behind the steering wheel mounted into the dashboard is 5.0 inches large
-- The touch screen on the dashboard's center is 15.6 inches large
 
 The model does not include a head-up display.
 
@@ -283,5 +278,15 @@ The vehicle’s maximum weight is 2068 kg (4559 lbs), with a base weight of 1658
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 0 kg (0 lbs), while for an unbraked trailer, it is 0 kg (0 lbs).
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the BYD Dolphin 60.4kWh that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
+- [Ford Puma Gen-E](/models/ford/puma/puma_gen-e/)
+- [MG MG4 Electric Standard](/models/mg/mg4/mg4_electric_standard/)
+
+<a href="https://db.evkx.net/evcompare?evs=2e862b%2c90b31f%2c833418%2cb5aa4e" target="_blank">Explore a detailed comparison of these models.</a>
 
 {{< pagenavigation b_url="../" b_title="BYD Dolphin" f_url="rangeandconsumption/" f_title="Range" >}}
