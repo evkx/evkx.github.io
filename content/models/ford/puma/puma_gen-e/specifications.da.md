@@ -239,6 +239,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Højde
+			</td>
+			<td>
+				1555 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Bredde ekskl. spejle
 			</td>
 			<td>
@@ -324,6 +332,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				452 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Masser taglast
+			</td>
+			<td>
+				75 kg
 			</td>
 		</tr>
 		<tr>

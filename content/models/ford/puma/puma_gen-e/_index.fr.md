@@ -89,7 +89,7 @@ Si vous retirez complètement le pied, la régénération est à un niveau fixe.
 
 ## Extérieur
 
-Le Ford Puma Gen-E, avec des dimensions de 4214 mm de longueur, 1805 mm de largeur et  mm de hauteur, appartient au segment des B-SUV, également appelés SUV sous-compacts ou crossovers, offrant une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite surélevée, l'espace de chargement accru et le style robuste d'un SUV. Le Ford Puma Gen-E est disponible en un total de 10 couleurs de peinture, y compris des options unies et métalliques. Certaines de ces options de peinture incluent des peintures bicolores où le toit est peint dans une couleur différente, offrant un look distinctif et élégant.
+Le Ford Puma Gen-E, avec des dimensions de 4214 mm de longueur, 1805 mm de largeur et 1555 mm de hauteur, appartient au segment des B-SUV, également appelés SUV sous-compacts ou crossovers, offrant une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite surélevée, l'espace de chargement accru et le style robuste d'un SUV. Le Ford Puma Gen-E est disponible en un total de 10 couleurs de peinture, y compris des options unies et métalliques. Certaines de ces options de peinture incluent des peintures bicolores où le toit est peint dans une couleur différente, offrant un look distinctif et élégant.
 
 Le Ford Puma Gen-E offre plusieurs options de roues de différentes tailles, vous permettant de personnaliser votre véhicule selon votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
@@ -128,6 +128,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **** :
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - Appuie-tête réglable en hauteur (réglable manuellement)
+- [Chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable manuellement)
 
 Disponible en :
@@ -157,6 +158,8 @@ Le Ford Puma Gen-E offre de nombreuses solutions de rangement intérieur pour am
 Il y a un système de climatisation disponible :
 
 - **Système de climatisation à 1 zone :** Permet de contrôler une seule zone partagée pour toute la voiture.
+
+Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport aux modèles avec une pompe à chaleur.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -189,7 +192,7 @@ Le modèle n'inclut pas d'affichage tête haute.
 
 Le Ford Puma Gen-E est équipé d'un seul type de volant :
 
-- **Volant Circulaire :** Ce volant dispose d'un fond et d'un sommet plats, offrant un look et une sensation sportive. Il comprend également des boutons physiques et des interrupteurs à bascule, offrant un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
+- **Volant Circulaire:** Ce volant présente un bas et un haut plats, offrant un look et une sensation sportifs. Il comprend également des boutons physiques et des interrupteurs à bascule, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité. Un chauffage intégré en option est disponible pour plus de confort par temps froid.
 
 ### Rétroviseurs
 
@@ -224,8 +227,8 @@ De plus, le modèle comprend 4 connexions USB-C de série.
 
 Vous pouvez choisir entre deux types de phares pour le Ford Puma Gen-E.
 
-- **Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace.
-- **Phares à LED Matrix :** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant l'éclairage en désactivant des zones spécifiques devant.
+- **Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace. Pour une sécurité accrue, les phares comprennent également des feux de virage qui éclairent le côté lors des virages.
+- **Phares à LED Matrix :** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut activer ou désactiver individuellement. Cela optimise l'éclairage en atténuant sélectivement des zones spécifiques pour éviter d'éblouir le trafic venant en sens inverse. Pour une sécurité accrue, il comprend des feux de virage qui éclairent le côté lors des virages.
 
 Les feux arrière utilisent la technologie LED, assurant à la fois une haute visibilité et une efficacité énergétique.
 
@@ -265,12 +268,19 @@ Avec le système optionnel Intelligent Adaptive Cruise Control niveau 2, vous ob
 
 - [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au maintien de voie (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et ralentit si nécessaire dans le trafic. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
-- [**Changement de voie automatique (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Capteurs et caméras
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
 Jusqu'à trois [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+
+## Sécurité
+
+Le Ford Puma Gen-E est équipé de plusieurs airbags pour assurer la protection des occupants en cas de collision. Le système d'airbags comprend :
+
+- Airbags frontaux pour le conducteur et le passager avant
+- Airbags rideaux latéraux pour les première et deuxième rangées
+- Airbags latéraux pour le conducteur et le passager avant
 
 ## Technologies de sécurité et d'accès
 
@@ -284,7 +294,7 @@ Le Ford Puma Gen-E est équipé de fonctionnalités de sécurité avancées pour
 
 ## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 574 litres (20,3 CU FT). Avec le siège arrière rabattu, cela s'étend à 1283 litres (45,3 CU FT). De plus, il y a un frunk (coffre avant) avec une capacité de rangement de 43 litres (1,5 CU FT).
+Le coffre offre une capacité de chargement de 574 litres (20,3 CU FT). Avec le siège arrière rabattu, cela s'étend à 1283 litres (45,3 CU FT). Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). De plus, il y a un frunk (coffre avant) avec une capacité de rangement de 43 litres (1,5 CU FT).
 
 Le poids maximal du véhicule est de 2015 kg (4442 lbs), avec un poids de base de 1563 kg (3446 lbs). Cela permet une charge maximale de 452 kg (996 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
 

@@ -239,6 +239,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Hauteur
+			</td>
+			<td>
+				1555 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Largeur hors miroirs
 			</td>
 			<td>
@@ -324,6 +332,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				452 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Faire du chargement sur le toit
+			</td>
+			<td>
+				75 kg
 			</td>
 		</tr>
 		<tr>

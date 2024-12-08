@@ -239,6 +239,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Höhe
+			</td>
+			<td>
+				1555 mm (61,2")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Breite ohne Spiegel
 			</td>
 			<td>
@@ -324,6 +332,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				452 kg (996 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximale Dachlast
+			</td>
+			<td>
+				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>

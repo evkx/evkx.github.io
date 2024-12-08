@@ -239,6 +239,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Höjd
+			</td>
+			<td>
+				1555 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Bredd exklusive speglar
 			</td>
 			<td>
@@ -324,6 +332,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				452 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tillåten taklast
+			</td>
+			<td>
+				75 kg
 			</td>
 		</tr>
 		<tr>

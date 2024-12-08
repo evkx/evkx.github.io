@@ -89,7 +89,7 @@ If you lift away the foot completely the regen is at one fixed level. This can't
 
 ## Exterior
 
-The Ford Puma Gen-E, with dimensions of 4214 mm in length, 1805 mm in width, and  mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Ford Puma Gen-E is available in a total of 10 paint colors, including both solid and metallic options. Some of these paint options include two-tone paints where the roof is painted in a different color, providing a distinctive and stylish look.
+The Ford Puma Gen-E, with dimensions of 4214 mm in length, 1805 mm in width, and 1555 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Ford Puma Gen-E is available in a total of 10 paint colors, including both solid and metallic options. Some of these paint options include two-tone paints where the roof is painted in a different color, providing a distinctive and stylish look.
 
 The Ford Puma Gen-E offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
@@ -128,6 +128,7 @@ The following functionalities are available on the **** seat:
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - Height adjustable headrest (manually adjustable)
+- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (manually adjustable)
 
 Available in:
@@ -157,6 +158,8 @@ The Ford Puma Gen-E provides ample interior storage solutions to enhance conveni
 There is one climate system available:
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
+
+This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -189,7 +192,7 @@ The model does not include a head-up display.
 
 The Ford Puma Gen-E is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel features a flat bottom and top, providing a sporty look and feel. It also includes physical buttons and toggle switches, providing intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features a flat bottom and top, providing a sporty look and feel. It also includes physical buttons and toggle switches, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease. Optional integrated heating is available for added comfort during cold weather.
 
 ### Mirrors
 
@@ -224,8 +227,8 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 You can choose between two types of headlights for the Ford Puma Gen-E.
 
-- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
-- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
+- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
+- **LED Matrix Headlights:** Available as an upgrade, this adaptive system divides the traditional headlight beam into dozens of smaller rays that the light controller can activate or deactivate individually. This optimizes lighting by selectively dimming specific areas to avoid dazzling oncoming traffic. For enhanced safety, it includes corner lights that illuminate the side when turning.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
@@ -265,12 +268,19 @@ With the optional Intelligent Adaptive Cruise Control level 2 system, you get ad
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
-- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
 Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
+## Safety
+
+The Ford Puma Gen-E is equipped with multiple airbags to ensure occupant protection in the event of a collision. The airbag system includes:
+
+- Front airbags for the driver and front passenger
+- Side curtain airbags for both the first and second rows
+- Side airbags for the driver and front passenger
 
 ## Security and Access Technologies
 
@@ -284,7 +294,7 @@ The Ford Puma Gen-E is equipped with advanced security features to protect you a
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 574 liters (20.3 CU FT). With the rear seat folded down, this expands to 1283 liters (45.3 CU FT). Additionally, there is a frunk (front trunk) with a storage capacity of 43 liters (1.5 CU FT).
+The trunk offers a cargo capacity of 574 liters (20.3 CU FT). With the rear seat folded down, this expands to 1283 liters (45.3 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 43 liters (1.5 CU FT).
 
 The vehicle’s maximum weight is 2015 kg (4442 lbs), with a base weight of 1563 kg (3446 lbs). This allows for a maximum load of 452 kg (996 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

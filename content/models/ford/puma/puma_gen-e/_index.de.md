@@ -89,7 +89,7 @@ Wenn Sie den Fuß vollständig vom Pedal nehmen, ist die Regeneration auf einem 
 
 ## Exterieur
 
-Der Ford Puma Gen-E, mit Abmessungen von 4214 mm Länge, 1805 mm Breite und  mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Der Ford Puma Gen-E ist in insgesamt 10 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach in einer anderen Farbe lackiert ist, was für ein markantes und stilvolles Aussehen sorgt.
+Der Ford Puma Gen-E, mit Abmessungen von 4214 mm Länge, 1805 mm Breite und 1555 mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Der Ford Puma Gen-E ist in insgesamt 10 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach in einer anderen Farbe lackiert ist, was für ein markantes und stilvolles Aussehen sorgt.
 
 Der Ford Puma Gen-E bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -128,6 +128,7 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze (manuell verstellbar)
+- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (manuell verstellbar)
 
 Verfügbar in:
@@ -157,6 +158,8 @@ Der Ford Puma Gen-E bietet zahlreiche Innenraumaufbewahrungslösungen, um Komfor
 Es gibt ein Klimasystem verfügbar:
 
 - **1-Zonen-Klimasystem:** Unterstützt nur die Steuerung einer gemeinsamen Zone für das gesamte Auto.
+
+Dieses Modell hat keine [Wärmepumpe](../../../../technology/hvac/#heat-pump). Dies kann den Verbrauch bei kaltem Wetter im Vergleich zu Modellen mit Wärmepumpe erhöhen.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -189,7 +192,7 @@ Das Modell verfügt nicht über ein Head-up-Display.
 
 Der Ford Puma Gen-E ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad hat eine flache Unter- und Oberseite, was ein sportliches Aussehen und Gefühl vermittelt. Es enthält auch physische Tasten und Kippschalter, die eine intuitive Steuerung des Infotainmentsystems ermöglichen, sodass Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad hat einen flachen Boden und eine flache Oberseite, was ein sportliches Aussehen und Gefühl vermittelt. Es enthält auch physische Tasten und Kippschalter, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen problemlos verwalten können. Optional ist eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter verfügbar.
 
 ### Spiegel
 
@@ -224,8 +227,8 @@ Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
 
 Sie können zwischen zwei Scheinwerfertypen für den Ford Puma Gen-E wählen.
 
-- **Standard-Scheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung.
-- **LED-Matrix-Scheinwerfer:** Diese adaptive System ist optional erhältlich und teilt den traditionellen einzelnen Scheinwerferstrahl in Dutzende kleinerer Strahlen auf, die der Lichtcontroller einzeln ein- und ausschalten kann, um die Beleuchtung zu optimieren, indem bestimmte kleine Bereiche vor dem Fahrzeug nicht beleuchtet werden.
+- **Standardscheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
+- **LED-Matrix-Scheinwerfer:** Diese adaptive System ist als Upgrade erhältlich und teilt den traditionellen Scheinwerferstrahl in Dutzende kleinerer Strahlen auf, die der Lichtcontroller einzeln aktivieren oder deaktivieren kann. Dies optimiert die Beleuchtung, indem bestimmte Bereiche selektiv gedimmt werden, um entgegenkommenden Verkehr nicht zu blenden. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
@@ -265,12 +268,19 @@ Mit dem optionalen Intelligent Adaptive Cruise Control Level 2 System erhalten S
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
-- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensoren & Kameras
 
 Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
 Bis zu drei [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+
+## Sicherheit
+
+Der Ford Puma Gen-E ist mit mehreren Airbags ausgestattet, um den Insassenschutz im Falle eines Unfalls zu gewährleisten. Das Airbagsystem umfasst:
+
+- Frontairbags für Fahrer und Beifahrer
+- Seitliche Vorhangairbags für die erste und zweite Reihe
+- Seitenairbags für Fahrer und Beifahrer
 
 ## Sicherheits- und Zugangstechnologien
 
@@ -284,7 +294,7 @@ Der Ford Puma Gen-E ist mit fortschrittlichen Sicherheitsfunktionen ausgestattet
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 574 Litern (20,3 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1283 Liter (45,3 CU FT). Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 43 Litern (1,5 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 574 Litern (20,3 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1283 Liter (45,3 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 43 Litern (1,5 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 2015 kg (4442 lbs) bei einem Leergewicht von 1563 kg (3446 lbs). Dies ermöglicht eine maximale Zuladung von 452 kg (996 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 

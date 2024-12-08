@@ -239,6 +239,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Høyde
+			</td>
+			<td>
+				1555 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Bredde uten speil
 			</td>
 			<td>
@@ -324,6 +332,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				452 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks taklast
+			</td>
+			<td>
+				75 kg
 			</td>
 		</tr>
 		<tr>

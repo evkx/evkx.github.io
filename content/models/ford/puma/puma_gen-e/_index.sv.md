@@ -89,7 +89,7 @@ Om du lyfter foten helt är regenereringen på en fast nivå. Detta kan inte jus
 
 ## Exteriör
 
-Ford Puma Gen-E, med måtten 4214 mm i längd, 1805 mm i bredd och  mm i höjd, tillhör B-SUV-segmentet, även känt som kompakta SUV:ar eller crossovers. De kombinerar den kompakta storleken och manövrerbarheten från B-segmentets bilar med högre körposition, ökat lastutrymme och robust SUV-styling. Ford Puma Gen-E finns tillgänglig i totalt 10 lackfärger, inklusive både solida och metallic-alternativ. Några av dessa lackfärger inkluderar tvåtonsmålning där taket är målat i en annan färg, vilket ger ett distinkt och stilfullt utseende.
+Ford Puma Gen-E, med måtten 4214 mm i längd, 1805 mm i bredd och 1555 mm i höjd, tillhör B-SUV-segmentet, även känt som kompakta SUV:ar eller crossovers. De kombinerar den kompakta storleken och manövrerbarheten från B-segmentets bilar med högre körposition, ökat lastutrymme och robust SUV-styling. Ford Puma Gen-E finns tillgänglig i totalt 10 lackfärger, inklusive både solida och metallic-alternativ. Några av dessa lackfärger inkluderar tvåtonsmålning där taket är målat i en annan färg, vilket ger ett distinkt och stilfullt utseende.
 
 Ford Puma Gen-E erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
@@ -128,6 +128,7 @@ Följande funktioner finns tillgängliga på **** sätet:
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - Höjdjusterbart nackstöd (manuellt justerbar)
+- [Sätesvärme](../../../../technology/seats/adjustment/#heating) (tillval)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (manuellt justerbar)
 
 Finns tillgänglig i:
@@ -157,6 +158,8 @@ Ford Puma Gen-E erbjuder gott om förvaringslösningar i kupén för att öka be
 Det finns ett klimatsystem tillgängligt:
 
 - **1-zons klimatsystem:** Stöder endast en gemensam klimatzon för hela bilen.
+
+Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med modeller med värmepump.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -189,7 +192,7 @@ Modellen har ingen head-up display.
 
 Ford Puma Gen-E är utrustad med endast en typ av ratt:
 
-- **Rund ratt:** Denna ratt har en platt under- och ovansida som ger ett sportigt utseende och känsla. Den har också fysiska knappar och vippkontakter som ger intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
+- **Cirkulär Ratt:** Denna ratt har en platt botten och topp, vilket ger ett sportigt utseende och känsla. Den inkluderar också fysiska knappar och vippströmbrytare, vilket gör att du kan kontrollera infotainmentsystemet, justera volymen, byta musikspår och hantera andra viktiga funktioner med lätthet. Valfri integrerad uppvärmning finns tillgänglig för extra komfort under kallt väder.
 
 ### Speglar
 
@@ -224,8 +227,8 @@ Dessutom har modellen 4 USB-C-anslutningar som standard.
 
 Du kan välja mellan två olika typer av strålkastare för Ford Puma Gen-E.
 
-- **Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
-- **LED Matrix-strålkastare:** Som tillval finns detta adaptiva system som delar upp den traditionella strålkastarljusstrålen i dussintals mindre strålar som ljuskontrollern kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
+- **Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning. För ökad säkerhet har strålkastarna också kurvljus som lyser upp sidan vid svängar.
+- **LED Matrix-strålkastare:** Som uppgradering finns detta adaptiva system som delar upp strålkastarljuset i dussintals mindre strålar som ljuskontrollern kan aktivera eller inaktivera individuellt. Detta optimerar belysningen genom att selektivt dimma specifika områden för att undvika att blända mötande trafik. För ökad säkerhet inkluderar det kurvljus som lyser upp sidan vid svängar.
 
 Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
@@ -265,12 +268,19 @@ Med det valfria Intelligent Adaptive Cruise Control nivå 2-systemet får du ytt
 
 - [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
-- [**Automatiskt körfältsbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameror
 
 Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
 Upp till tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+
+## Säkerhet
+
+Ford Puma Gen-E är utrustad med flera krockkuddar för att säkerställa passagerarskydd vid en kollision. Krockkuddesystemet inkluderar:
+
+- Frontkrockkuddar för förare och passagerare
+- Sidokrockgardiner för både första och andra raden
+- Sidokrockkuddar för förare och passagerare
 
 ## Säkerhets- och åtkomstteknologier
 
@@ -284,7 +294,7 @@ Ford Puma Gen-E är utrustad med avancerade säkerhetsfunktioner för att skydda
 
 ## Lastkapacitet och dragförmåga
 
-Bagageutrymmet har en lastkapacitet på 574 liter (20,3 kubikfot). Med baksätet nedfällt ökar detta till 1283 liter (45,3 kubikfot). Dessutom finns det en frunk (främre bagageutrymme) med en lagringskapacitet på 43 liter (1,5 CU FT).
+Bagageutrymmet har en lastkapacitet på 574 liter (20,3 kubikfot). Med baksätet nedfällt ökar detta till 1283 liter (45,3 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs). Dessutom finns det en frunk (främre bagageutrymme) med en lagringskapacitet på 43 liter (1,5 CU FT).
 
 Fordonets maximala vikt är 2015 kg (4442 lbs), med en tjänstevikt på 1563 kg (3446 lbs). Detta möjliggör en maximal last på 452 kg (996 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 

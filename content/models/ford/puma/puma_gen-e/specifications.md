@@ -239,6 +239,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Height
+			</td>
+			<td>
+				1555 mm (61,2")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Width excluding mirrors
 			</td>
 			<td>
@@ -324,6 +332,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				452 kg (996 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/roofcargo/">Maks roof cargo</a>
+			</td>
+			<td>
+				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>

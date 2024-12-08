@@ -89,7 +89,7 @@ Hvis du fjerner foden helt, er regenereringen på ét fast niveau. Dette kan ikk
 
 ## Eksteriør
 
-Ford Puma Gen-E, med dimensioner på 4214 mm i længde, 1805 mm i bredde og  mm i højde, tilhører B-SUV segmentet, også kendt som kompakte SUV'er eller crossovers, der kombinerer B-segment bilers kompakte størrelse og manøvredygtighed med en højere køreposition, øget bagagerumsplads og robust styling fra en SUV. Ford Puma Gen-E fås i alt i 10 lakfarver, inklusive både almindelige og metalliske muligheder. Nogle af disse lakvalg inkluderer totonede farver, hvor taget er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt udseende.
+Ford Puma Gen-E, med dimensioner på 4214 mm i længde, 1805 mm i bredde og 1555 mm i højde, tilhører B-SUV segmentet, også kendt som kompakte SUV'er eller crossovers, der kombinerer B-segment bilers kompakte størrelse og manøvredygtighed med en højere køreposition, øget bagagerumsplads og robust styling fra en SUV. Ford Puma Gen-E fås i alt i 10 lakfarver, inklusive både almindelige og metalliske muligheder. Nogle af disse lakvalg inkluderer totonede farver, hvor taget er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt udseende.
 
 Ford Puma Gen-E tilbyder flere hjulmuligheder i forskellige størrelser, så du kan tilpasse din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
@@ -128,6 +128,7 @@ Følgende funktioner er tilgængelige på **** sædet:
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - Højdejusterbar nakkestøtte (manuelt justerbar)
+- [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (manuelt justerbar)
 
 Fås med:
@@ -157,6 +158,8 @@ Ford Puma Gen-E tilbyder rigelige opbevaringsløsninger i kabinen for at øge be
 Der er ét klimasystem tilgængeligt:
 
 - **1-zone klimaanlæg:** Understøtter kun styring af én fælles zone for hele bilen.
+
+Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr sammenlignet med modeller med varmepumpe.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -189,7 +192,7 @@ Modellen inkluderer ikke et head-up display.
 
 Ford Puma Gen-E er udstyret med én type rat:
 
-- **Cirkulært rat:** Dette rat har flad bund og top, hvilket giver et sportsligt look og følelse. Det har også fysiske knapper og vippekontakter, der giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
+- **Cirkulært Rat:** Dette rat har en flad bund og top, hvilket giver et sporty udseende og følelse. Det inkluderer også fysiske knapper og vippekontakter, der giver dig mulighed for at styre infotainmentsystemet, justere lydstyrken, skifte musiknumre og administrere andre vigtige funktioner med lethed. Valgfri integreret opvarmning er tilgængelig for ekstra komfort i koldt vejr.
 
 ### Spejle
 
@@ -224,8 +227,8 @@ Derudover inkluderer modellen 4 USB-C tilslutninger som standard.
 
 Du kan vælge mellem to typer forlygter til Ford Puma Gen-E.
 
-- **Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
-- **LED Matrix-forlygter:** Som ekstraudstyr fås dette adaptive system, der opdeler den traditionelle enkeltstråle i snesevis af mindre stråler, som lyskontrolenheden kan tænde og slukke individuelt og dermed optimere belysningen ved at slukke for specifikke små områder foran.
+- **Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning. For øget sikkerhed inkluderer forlygterne også kurvelys, der oplyser siden ved drejning.
+- **LED Matrix-forlygter:** Som ekstraudstyr fås dette adaptive system, der opdeler den traditionelle lysstråle i snesevis af mindre stråler, som lyskontrolenheden kan aktivere eller deaktivere individuelt. Dette optimerer belysningen ved selektivt at dæmpe specifikke områder for at undgå at blænde modkørende trafik. For øget sikkerhed inkluderer det kurvelys, der oplyser siden ved drejning.
 
 Baglygterne bruger LED-teknologi, hvilket sikrer både høj synlighed og energieffektivitet.
 
@@ -265,12 +268,19 @@ Med det valgfrie Intelligent Adaptive Cruise Control niveau 2-system får du yde
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
-- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameraer
 
 Denne model bruger kameraer, radar og ultrasoniske sensorer til sine førerassistentsystemer.
 Op til tre [radar-sensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+
+## Sikkerhed
+
+Ford Puma Gen-E er udstyret med flere airbags for at sikre beskyttelse af passagererne i tilfælde af en kollision. Airbagsystemet omfatter:
+
+- Frontairbags til fører og forsædepassager
+- Gardinairbags til både første og anden række
+- Sideairbags til fører og forsædepassager
 
 ## Sikkerheds- og adgangsteknologier
 
@@ -284,7 +294,7 @@ Ford Puma Gen-E er udstyret med avancerede sikkerhedsfunktioner for at beskytte 
 
 ## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastkapacitet på 574 liter (20,3 CU FT). Med bagsædet lagt ned udvides dette til 1283 liter (45,3 CU FT). Derudover er der et frunk (front-bagagerum) med en opbevaringskapacitet på 43 liter (1,5 CU FT).
+Bagagerummet har en lastkapacitet på 574 liter (20,3 CU FT). Med bagsædet lagt ned udvides dette til 1283 liter (45,3 CU FT). På taget kan du laste op til 75 kg (165,3 lbs). Derudover er der et frunk (front-bagagerum) med en opbevaringskapacitet på 43 liter (1,5 CU FT).
 
 Køretøjets maksimale vægt er 2015 kg (4442 lbs), med en egenvægt på 1563 kg (3446 lbs). Dette giver en maksimal last på 452 kg (996 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 

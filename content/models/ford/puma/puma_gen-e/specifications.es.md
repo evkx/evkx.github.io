@@ -239,6 +239,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Altura
+			</td>
+			<td>
+				1555 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Ancho excluyendo espejos
 			</td>
 			<td>
@@ -324,6 +332,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				452 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hace carga en el techo
+			</td>
+			<td>
+				75 kg
 			</td>
 		</tr>
 		<tr>
