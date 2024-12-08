@@ -44,7 +44,7 @@ In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed 
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 6 hours and 4 minutes using a home setup.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 4 hours and 4 minutes using a home setup.
 
 ### Charge Port
 
@@ -60,7 +60,7 @@ The BYD Dolphin 44.9kWh has a front-wheel drive system supported by one motor on
 
 ### Suspension
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 175 mm.
+The  suspension has a fixed height and damping. The ground clearance with this suspension is 130 mm.
 
 ### Steering
 
@@ -112,6 +112,7 @@ The following functionalities are available on the **standard** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable for driver, not available for passenger)
 - Height adjustable headrest
 - Length adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -119,6 +120,7 @@ The following functionalities are available on the **standard** seat:
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
 Available in:
 
@@ -127,6 +129,8 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
+
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/secondrowseats_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1623"  >}}
 
@@ -193,6 +197,10 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
+### Phone Mirroring
+
+The BYD Dolphin 44.9kWh supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
+
 ### Sound System
 
 The BYD Dolphin 44.9kWh comes equipped with one sound system option:
@@ -223,7 +231,7 @@ The BYD Dolphin 44.9kWh features a range of standard and optional [advanced driv
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the BYD Dolphin 44.9kWh, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Optional on the BYD Dolphin 44.9kWh, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the BYD Dolphin 44.9kWh, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the BYD Dolphin 44.9kWh, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
@@ -235,6 +243,8 @@ The BYD Dolphin 44.9kWh features a range of standard and optional [advanced driv
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the BYD Dolphin 44.9kWh, this side assist system helps to detect traffic in blind spots.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard on the BYD Dolphin 44.9kWh, this system that alerts occupants against opening doors if there is a risk of hitting something.
+
 ### Driving Automation
 
 The BYD Dolphin 44.9kWh offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
@@ -242,6 +252,17 @@ The BYD Dolphin 44.9kWh offers [driving automation at level 1](../../../../techn
 With the  level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+## Safety
+
+The BYD Dolphin 44.9kWh is equipped with multiple airbags to ensure occupant protection in the event of a collision. The airbag system includes:
+
+- Front airbags for the driver and front passenger
+- Side curtain airbags for both the first and second rows
+- Side airbags for the driver and front passenger
+- A front center airbag to prevent the driver and front passenger from colliding with each other during a side impact
+
+Additionally, the front seatbelts are equipped with pretensioners that tighten automatically during a collision to minimize injury risk.
 
 ## Security and Access Technologies
 

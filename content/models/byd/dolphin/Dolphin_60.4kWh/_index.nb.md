@@ -60,7 +60,7 @@ BYD Dolphin 60.4kWh har et forhjulsdrift-system med én motor på forakselen. Mo
 
 ### Fjæring
 
-har fast høyde og demping på fjæringen. Bakkeklaring med denne hjulopphenget er 175 mm.
+har fast høyde og demping på fjæringen. Bakkeklaring med denne hjulopphenget er 130 mm.
 
 ### Styring
 
@@ -112,6 +112,7 @@ Følgende funksjoner er tilgjengelig på **standard** setet:
 
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart for fører, ikke tilgjengelig for passasjer)
 - Høydejusterbar hodestøtte
 - Lengdejusterbar hodestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)
@@ -119,6 +120,7 @@ Følgende funksjoner er tilgjengelig på **standard** setet:
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
 - [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passasjersete)
 
 Tilgjengelig i:
 
@@ -127,6 +129,8 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med 60:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
+
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/secondrowseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1623"  >}}
 
@@ -193,6 +197,10 @@ Både utvendige og innvendige speil bruker konvensjonell speilteknologi for å g
 
 Med en standard innebygd navigasjonssystem har du all hjelpen du trenger for å nå destinasjonen din enkelt.
 
+### Telefonspeling
+
+BYD Dolphin 60.4kWh støtter Android Auto og Apple CarPlay, som lar deg speile telefonskjermen på bilens skjerm. Denne funksjonaliteten gjør at du kan kjøre apper som Google Maps eller Waze direkte fra telefonen.
+
 ### Lydsystem
 
 BYD Dolphin 60.4kWh kommer med ett lydsystem:
@@ -223,7 +231,7 @@ BYD Dolphin 60.4kWh har en rekke standard og valgfrie [avanserte førerassistent
 
 [**Filholderassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på BYD Dolphin 60.4kWh, dette systemet hjelper med å hindre kjøretøyet i å drive ut av filen. Den inkluderer også et [**Filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler føreren hvis kjøretøyet beveger seg ut av filen.
 
-[**Kryssende trafikkvarsling foran (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Valgfritt på BYD Dolphin 60.4kWh, dette førerassistentsystemet hjelper førere med å oppdage møtende trafikk når de krysser et veikryss eller svinger til venstre eller høyre fra stillestående posisjon.
+[**Kryssende trafikkvarsling foran (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på BYD Dolphin 60.4kWh, dette førerassistentsystemet hjelper førere med å oppdage møtende trafikk når de krysser et veikryss eller svinger til venstre eller høyre fra stillestående posisjon.
 
 [**Kryssende trafikkvarsling bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på BYD Dolphin 60.4kWh, dette systemet bruker sensorer for å oppdage kjøretøy som nærmer seg fra siden når man rygger ut av en parkeringsplass eller innkjørsel.
 
@@ -235,6 +243,8 @@ BYD Dolphin 60.4kWh har en rekke standard og valgfrie [avanserte førerassistent
 
 [**Blindsoneovervåking (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på BYD Dolphin 60.4kWh, dette sideassistentsystemet hjelper med å oppdage trafikk i blindsoner.
 
+[**Utstigningsvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på BYD Dolphin 60.4kWh, dette systemet varsler passasjerer mot å åpne dører hvis det er risiko for å treffe noe.
+
 ### Kjøreautomatisering
 
 BYD Dolphin 60.4kWh tilbyr [kjøreautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
@@ -242,6 +252,17 @@ BYD Dolphin 60.4kWh tilbyr [kjøreautomatisering på nivå 1](../../../../techno
 Med  nivå 1-system får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+## Sikkerhet
+
+BYD Dolphin 60.4kWh er utstyrt med flere kollisjonsputer for å sikre beskyttelse av passasjerene ved en kollisjon. Kollisjonsputesystemet inkluderer:
+
+- Frontkollisjonsputer for fører og passasjer
+- Sidekollisjonsgardiner for både første og andre seterad
+- Sidekollisjonsputer for fører og passasjer
+- En sentral frontkollisjonspute for å hindre at fører og passasjer kolliderer med hverandre ved sidekollisjon
+
+I tillegg er forsetenes belter utstyrt med beltestrammere som strammes automatisk ved en kollisjon for å minimere skaderisikoen.
 
 ## Sikkerhet og adgangsteknologi
 

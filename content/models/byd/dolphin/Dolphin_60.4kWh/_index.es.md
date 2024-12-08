@@ -60,7 +60,7 @@ El BYD Dolphin 60.4kWh tiene un sistema de tracción delantera soportado por un 
 
 ### Suspensión
 
-La suspensión del  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 175 mm.
+La suspensión del  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 130 mm.
 
 ### Dirección
 
@@ -112,6 +112,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**:
 
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico para el conductor, no disponible para el pasajero)
 - Reposacabezas ajustable en altura
 - Reposacabezas ajustable en longitud
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
@@ -119,6 +120,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**:
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
 - [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para el asiento del pasajero)
 
 Disponible en:
 
@@ -127,6 +129,8 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división 60:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
+
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/secondrowseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1623"  >}}
 
@@ -193,6 +197,10 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 Con el sistema de navegación en el coche una característica estándar, tiene toda la asistencia que necesita para llegar a su destino sin esfuerzo.
 
+### Espejo de Teléfono
+
+El BYD Dolphin 60.4kWh es compatible con Android Auto y Apple CarPlay, lo que le permite reflejar la pantalla de su teléfono en la pantalla del coche. Esta funcionalidad le permite ejecutar aplicaciones como Google Maps o Waze directamente desde su teléfono.
+
 ### Sistema de Sonido
 
 El BYD Dolphin 60.4kWh viene equipado con una opción de sistema de sonido:
@@ -223,7 +231,7 @@ El BYD Dolphin 60.4kWh cuenta con una gama de sistemas [avanzados de asistencia 
 
 [**Asistencia de Mantenimiento de Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el BYD Dolphin 60.4kWh, este sistema ayuda a evitar que el vehículo se desvíe de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se desvía del carril.
 
-[**Asistencia de Tráfico Cruzado Frontal (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Opcional en el BYD Dolphin 60.4kWh, este sistema de asistencia al conductor ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
+[**Asistencia de Tráfico Cruzado Frontal (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el BYD Dolphin 60.4kWh, este sistema de asistencia al conductor ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
 
 [**Alerta de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el BYD Dolphin 60.4kWh, este sistema utiliza sensores para detectar vehículos que se aproximan desde el lado al retroceder de un espacio de estacionamiento o entrada.
 
@@ -235,6 +243,8 @@ El BYD Dolphin 60.4kWh cuenta con una gama de sistemas [avanzados de asistencia 
 
 [**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Estándar en el BYD Dolphin 60.4kWh, este sistema de asistencia lateral ayuda a detectar el tráfico en los puntos ciegos.
 
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el BYD Dolphin 60.4kWh, este sistema alerta a los ocupantes contra la apertura de puertas si hay riesgo de golpear algo.
+
 ### Automatización de la Conducción
 
 El BYD Dolphin 60.4kWh ofrece [automatización de la conducción en nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
@@ -242,6 +252,17 @@ El BYD Dolphin 60.4kWh ofrece [automatización de la conducción en nivel 1](../
 Con el sistema  de nivel 1, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+## Seguridad
+
+El BYD Dolphin 60.4kWh está equipado con múltiples airbags para garantizar la protección de los ocupantes en caso de colisión. El sistema de airbags incluye:
+
+- Airbags frontales para el conductor y el pasajero delantero
+- Airbags de cortina lateral para las filas primera y segunda
+- Airbags laterales para el conductor y el pasajero delantero
+- Un airbag central delantero para evitar que el conductor y el pasajero delantero colisionen entre sí durante un impacto lateral
+
+Además, los cinturones de seguridad delanteros están equipados con pretensores que se tensan automáticamente durante una colisión para minimizar el riesgo de lesiones.
 
 ## Tecnologías de Seguridad y Acceso
 

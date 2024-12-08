@@ -44,7 +44,7 @@ I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukni
 
 ### Inbyggd laddare
 
-Den standard inbyggda laddaren stöder upp till 7,4 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 6 timmar och 4 minuter vid hemmaladdning.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 4 timmar och 4 minuter vid hemmaladdning.
 
 ### Laddningsport
 
@@ -60,7 +60,7 @@ BYD Dolphin 44.9kWh har ett framhjulsdrivet system med en motor på framaxeln. M
 
 ### Fjädring
 
-s fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 175 mm.
+s fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 130 mm.
 
 ### Styrning
 
@@ -112,6 +112,7 @@ Följande funktioner finns tillgängliga på **standard** sätet:
 
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar för förare, ej tillgänglig för passagerare)
 - Höjdjusterbart nackstöd
 - Längsjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
@@ -119,6 +120,7 @@ Följande funktioner finns tillgängliga på **standard** sätet:
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
 - [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
 Finns tillgänglig i:
 
@@ -127,6 +129,8 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med 60:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
+
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttersäten)
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/secondrowseats_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1623"  >}}
 
@@ -193,6 +197,10 @@ Både ytter- och innerbackspeglarna använder konventionell spegelteknik för at
 
 Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
 
+### Telefonspegling
+
+BYD Dolphin 44.9kWh stödjer Android Auto och Apple CarPlay, vilket låter dig spegla din telefons skärm på bilens display. Detta gör det möjligt att köra appar som Google Maps eller Waze direkt från din telefon.
+
 ### Ljudsystem
 
 BYD Dolphin 44.9kWh levereras med ett ljudsystemalternativ:
@@ -223,7 +231,7 @@ BYD Dolphin 44.9kWh har ett utbud av standard och tillvalda [avancerade föraras
 
 [**Körfältsassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på BYD Dolphin 44.9kWh, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Den inkluderar också ett [**Körfilsvarningssystem**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet avviker från körfältet.
 
-[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Tillval på BYD Dolphin 44.9kWh, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
+[**Främre korsningsassistent (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard på BYD Dolphin 44.9kWh, ett förarassistanssystem som hjälper förare upptäcka mötande trafik vid korsningar eller när man svänger vänster eller höger från stillastående läge.
 
 [**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på BYD Dolphin 44.9kWh, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
@@ -235,6 +243,8 @@ BYD Dolphin 44.9kWh har ett utbud av standard och tillvalda [avancerade föraras
 
 [**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på BYD Dolphin 44.9kWh, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
+[**Utstigningsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på BYD Dolphin 44.9kWh, detta system varnar passagerare mot att öppna dörrar om det finns risk för kollision.
+
 ### Körautomation
 
 BYD Dolphin 44.9kWh erbjuder [körautomation på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
@@ -242,6 +252,17 @@ BYD Dolphin 44.9kWh erbjuder [körautomation på nivå 1](../../../../technology
 Med  nivå 1-systemet får du följande körautomationsfunktioner.
 
 - [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+## Säkerhet
+
+BYD Dolphin 44.9kWh är utrustad med flera krockkuddar för att säkerställa passagerarskydd vid en kollision. Krockkuddesystemet inkluderar:
+
+- Frontkrockkuddar för förare och passagerare
+- Sidokrockgardiner för både första och andra raden
+- Sidokrockkuddar för förare och passagerare
+- En mittkrockkudde fram för att förhindra att förare och passagerare kolliderar med varandra vid en sidokrock
+
+Dessutom är framsätets säkerhetsbälten utrustade med bältesförsträckare som automatiskt spänns vid en kollision för att minimera skaderisken.
 
 ## Säkerhets- och åtkomstteknologier
 

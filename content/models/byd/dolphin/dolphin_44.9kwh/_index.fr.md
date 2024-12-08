@@ -44,7 +44,7 @@ Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un t
 
 ### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 7,4 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 6 heures et 4 minutes avec une installation domestique.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 4 heures et 4 minutes avec une installation domestique.
 
 ### Port de Charge
 
@@ -60,7 +60,7 @@ Le BYD Dolphin 44.9kWh dispose d'un système de traction avant soutenu par un mo
 
 ### Suspension
 
-La suspension du  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 175 mm.
+La suspension du  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 130 mm.
 
 ### Direction
 
@@ -112,6 +112,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement pour le conducteur, non disponible pour le passager)
 - Appuie-tête réglable en hauteur
 - Appuie-tête réglable en longueur
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
@@ -119,6 +120,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour le siège passager)
 
 Disponible en :
 
@@ -127,6 +129,8 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition 60:40, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
+
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/secondrowseats_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1623"  >}}
 
@@ -193,6 +197,10 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 Avec le système de navigation embarqué un standard, vous avez toute l'assistance nécessaire pour atteindre votre destination sans effort.
 
+### Miroir de Téléphone
+
+Le BYD Dolphin 44.9kWh prend en charge Android Auto et Apple CarPlay, vous permettant de refléter l'écran de votre téléphone sur l'écran de la voiture. Cette fonctionnalité vous permet d'utiliser des applications comme Google Maps ou Waze directement depuis votre téléphone.
+
 ### Système Audio
 
 Le BYD Dolphin 44.9kWh est équipé d'une seule option de système audio :
@@ -223,7 +231,7 @@ Le BYD Dolphin 44.9kWh dispose d'une gamme de systèmes [d'assistance avancée a
 
 [**Assistance au maintien de voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le BYD Dolphin 44.9kWh, ce système aide à empêcher le véhicule de dériver hors de sa voie. Il comprend également un système [**d'alerte de franchissement de ligne**](../../../../technology/driverassistance/lanedeparturewarning/) pour avertir le conducteur si le véhicule dévie de sa voie.
 
-[**Assistance au trafic transversal avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Optionnel sur le BYD Dolphin 44.9kWh, ce système d'assistance aide les conducteurs à détecter le trafic venant en sens inverse lorsqu'ils traversent une intersection ou tournent à gauche ou à droite depuis une position arrêtée.
+[**Assistance au trafic transversal avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard sur le BYD Dolphin 44.9kWh, ce système d'assistance aide les conducteurs à détecter le trafic venant en sens inverse lorsqu'ils traversent une intersection ou tournent à gauche ou à droite depuis une position arrêtée.
 
 [**Alerte de trafic transversal arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le BYD Dolphin 44.9kWh, ce système utilise des capteurs pour détecter les véhicules approchant de côté lors de la marche arrière d'une place de stationnement ou d'une allée.
 
@@ -235,6 +243,8 @@ Le BYD Dolphin 44.9kWh dispose d'une gamme de systèmes [d'assistance avancée a
 
 [**Surveillance des angles morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le BYD Dolphin 44.9kWh, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
+[**Avertissement de sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le BYD Dolphin 44.9kWh, ce système avertit les occupants contre l'ouverture des portes s'il y a un risque de heurter quelque chose.
+
 ### Automatisation de la conduite
 
 Le BYD Dolphin 44.9kWh offre [l'automatisation de la conduite au niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
@@ -242,6 +252,17 @@ Le BYD Dolphin 44.9kWh offre [l'automatisation de la conduite au niveau 1](../..
 Avec le système  niveau 1, vous obtenez les fonctionnalités d'automatisation de la conduite suivantes.
 
 - [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+## Sécurité
+
+Le BYD Dolphin 44.9kWh est équipé de plusieurs airbags pour assurer la protection des occupants en cas de collision. Le système d'airbags comprend :
+
+- Airbags frontaux pour le conducteur et le passager avant
+- Airbags rideaux latéraux pour les première et deuxième rangées
+- Airbags latéraux pour le conducteur et le passager avant
+- Un airbag central avant pour empêcher le conducteur et le passager avant de se heurter lors d'un impact latéral
+
+De plus, les ceintures de sécurité avant sont équipées de prétensionneurs qui se resserrent automatiquement en cas de collision pour minimiser le risque de blessure.
 
 ## Technologies de sécurité et d'accès
 
