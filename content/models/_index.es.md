@@ -518,7 +518,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Maserati</h2>
 	<p>
-	Maserati tiene 2 modelos con un total de 2 variantes.
+	Maserati tiene 3 modelos con un total de 3 variantes.
 	</p>
 	<a href="maserati/" class="btn btn-outline-primary" role="button">Ir al resumen de modelos EV de Maserati</a>
 </div>

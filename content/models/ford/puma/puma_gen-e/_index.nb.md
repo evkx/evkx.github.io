@@ -89,7 +89,7 @@ Hvis du løfter foten helt av gasspedalen er regenereringen på ett fast nivå. 
 
 ## Eksteriør
 
-Ford Puma Gen-E, med dimensjoner på 4214 mm i lengde, 1805 mm i bredde og  mm i høyde, tilhører B-SUV segmentet. Også kjent som kompakte SUVer eller crossovere, kombinerer disse bilene den kompakte størrelsen og manøvrerbarheten til B-segment biler med høyere kjøreposisjon, økt bagasjeplass og robust styling fra en SUV. Ford Puma Gen-E er tilgjengelig i totalt 6 solide lakkfarger.
+Ford Puma Gen-E, med dimensjoner på 4214 mm i lengde, 1805 mm i bredde og  mm i høyde, tilhører B-SUV segmentet. Også kjent som kompakte SUVer eller crossovere, kombinerer disse bilene den kompakte størrelsen og manøvrerbarheten til B-segment biler med høyere kjøreposisjon, økt bagasjeplass og robust styling fra en SUV. Ford Puma Gen-E er tilgjengelig i totalt 10 lakkfarger, inkludert både solide og metallic-lakker. Noen av disse fargevalene inkluderer tolags-lakk hvor taket er lakkert i en annen farge, som gir et særpreget og stilig utseende.
 
 Ford Puma Gen-E tilbyr flere hjulalternativer i ulike størrelser, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
@@ -99,7 +99,7 @@ Ford Puma Gen-E tilbyr flere hjulalternativer i ulike størrelser, slik at du ka
 
 Smalere hjul forbedrer forbruket og gir lengre rekkevidde, mens bredere hjul gir bedre veigrep og håndtering.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) til bagasjerommet.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate). Du kan velge en elektrisk bakluke som tilleggsutstyr. Du kan også få bakluken med bevegelsessensor, som gjør det mulig å åpne den ved å bare sparke foten under bakluken.
 
 Det er to ulike takalternativer å velge mellom. Standardtaket er et vanlig tak. Som tilvalg kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad, og passasjerene kan åpne den fremre delen. Dette glasset får bilens interiør til å føles mer romslig og lyst, noe som kan forbedre stemningen og komforten for passasjerene. Begge glasspanelene har en manuell gardin som passasjerene kan bruke for å beskytte mot solen.
 
@@ -113,7 +113,7 @@ Vinduene fra B-stolpen og bakover er tonede, noe som gir bedre privatliv og redu
 
 ## Interiør
 
-Interiøret i Ford Puma Gen-E er funksjonelt, med materialer av middels kvalitet flere steder istedenfor hard plast. Et fremtredende element er midtkonsollen i to nivåer, som skiller fører og passasjer samtidig som den gir praktisk oppbevaring og økt funksjonalitet. Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
+Interiøret i Ford Puma Gen-E er funksjonelt, med materialer av middels kvalitet flere steder istedenfor hard plast. Et fremtredende element er midtkonsollen i to nivåer, som skiller fører og passasjer samtidig som den gir praktisk oppbevaring og økt funksjonalitet. Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
@@ -139,6 +139,7 @@ Tilgjengelig i:
 
 Andre seterad har en standard treseter-benk med  deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
+- Høydejusterbar hodestøtte (manuelt justerbart)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
 ### Innvendig oppbevaring
@@ -171,6 +172,8 @@ Ford Puma Gen-E inkluderer flere funksjoner for å øke komfort og bekvemmelighe
 
 ## Brukergrensesnitt og kontroll
 
+Kontrollgrensesnittet for Ford Puma Gen-E er primært fokusert på skjerminteraksjon, med begrenset funksjonalitet tilgjengelig via fysiske knapper og spaker. Dette designet kan resultere i en mindre enn ideell brukeropplevelse for enkelte brukere.
+
 Ford Puma Gen-E har flere integrerte skjermer. Bak rattet er det et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) øverst.
 
 Viktige skjermdetaljer:
@@ -192,9 +195,13 @@ Ford Puma Gen-E er utstyrt med én type ratt:
 
 Både utvendige og innvendige speil bruker konvensjonell speilteknologi for å gi klar sikt over området bak kjøretøyet.
 
+Denne modellen kommer med stemmekontroll som standard, som lar deg styre ulike funksjoner gjennom talekommandoer.
+
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
+
+Ford Puma Gen-E har SYNC 4-infotainmentsystemet, designet for å gi en sømløs og intuitiv brukeropplevelse. SYNC 4-systemet integrerer ulike funksjoner, inkludert navigasjon, media, kommunikasjon og kjøretøyinnstillinger, i et sentralt grensesnitt for enkel tilgang. Systemet er utstyrt med en høyoppløselig berøringsskjerm som gir rask og praktisk kontroll over kjøretøyets funksjoner. I tillegg støtter SYNC 4-systemet trådløse oppdateringer for å sikre at de nyeste programvareforbedringene og funksjonene alltid er tilgjengelige for føreren.
 
 ### Navigasjonssystem
 
@@ -250,19 +257,20 @@ Ford Puma Gen-E har en rekke standard og valgfrie [avanserte førerassistentsyst
 
 Ford Puma Gen-E tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
 
-Med  nivå 1-system får du følgende kjøreautomatiseringsfunksjoner.
+Med Cruise control nivå 1-system får du følgende kjøreautomatiseringsfunksjoner.
 
 - Cruisekontroll.
 
-Med det valgfrie  nivå 2-systemet får du ytterligere kjøreautomatiseringsfunksjoner i tillegg til de som er nevnt ovenfor:
+Med det valgfrie Intelligent Adaptive Cruise Control nivå 2-systemet får du ytterligere kjøreautomatiseringsfunksjoner i tillegg til de som er nevnt ovenfor:
 
 - [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filsentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk filskifte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer og kameraer
 
 Denne modellen bruker kameraer, radar og ultralydsensorer for sine førerassistentsystemer.
-Opp til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og seks [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+Opp til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
 ## Sikkerhet og adgangsteknologi
 

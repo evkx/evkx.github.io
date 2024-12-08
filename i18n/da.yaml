@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-26e1035f
+  translation: Maserati GranTurismo Folgore er en elektrisk luksus-coupé med en WLTP rækkevidde på op til 501 km (311 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-c559d2d4
   translation: Ford Puma Gen-E er en elektrisk crossover med en WLTP rækkevidde på op til 376 km (234 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-540acf6b
   translation: Lucid Gravity Grand Touring er en elektrisk SUV med en EPA rækkevidde på op til 708 km (440 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-ec69525c
-  translation: Alpine A290 GT er en elektrisk hatchback med en WLTP rækkevidde på op til 400 km (249 miles). EVKX.net har alle detaljerne.
 

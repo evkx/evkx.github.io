@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-26e1035f
+  translation: Maserati GranTurismo Folgore es un cupé eléctrico de lujo con una autonomía WLTP de hasta 501 km (311 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-c559d2d4
   translation: Ford Puma Gen-E es un crossover eléctrico con una autonomía WLTP de hasta 376 km (234 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-540acf6b
   translation: Lucid Gravity Grand Touring es un SUV eléctrico con una autonomía EPA de hasta 708 km (440 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-ec69525c
-  translation: Alpine A290 GT es un hatchback eléctrico con una autonomía WLTP de hasta 400 km (249 millas). EVKX.net tiene todos los detalles.
 

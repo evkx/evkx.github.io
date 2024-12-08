@@ -89,7 +89,7 @@ If you lift away the foot completely the regen is at one fixed level. This can't
 
 ## Exterior
 
-The Ford Puma Gen-E, with dimensions of 4214 mm in length, 1805 mm in width, and  mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Ford Puma Gen-E is available in a total of 6 solid paint colors.
+The Ford Puma Gen-E, with dimensions of 4214 mm in length, 1805 mm in width, and  mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Ford Puma Gen-E is available in a total of 10 paint colors, including both solid and metallic options. Some of these paint options include two-tone paints where the roof is painted in a different color, providing a distinctive and stylish look.
 
 The Ford Puma Gen-E offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
@@ -99,7 +99,7 @@ The Ford Puma Gen-E offers multiple wheel options in different sizes, allowing y
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
-The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). You can choose an option to have the liftgate electrically powered. You can also have the liftgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate.
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an manual curtain that occupants can use to protect against the sun.
 
@@ -113,7 +113,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-The interior of the Ford Puma Gen-E is functional, featuring medium-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
+The interior of the Ford Puma Gen-E is functional, featuring medium-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. There is one seat type you can select in different materials.
 
 ### Seats
 
@@ -139,6 +139,7 @@ Available in:
 
 The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
+- Height adjustable headrest (manually adjustable)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 ### Interior Storage
@@ -171,6 +172,8 @@ The Ford Puma Gen-E includes several features to enhance comfort and convenience
 
 ## User Interface and Control
 
+The control interface for the Ford Puma Gen-E is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
+
 The Ford Puma Gen-E has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
 
 Key screen details:
@@ -192,9 +195,13 @@ The Ford Puma Gen-E is equipped with a single type of steering wheel:
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
+
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
+
+The Ford Puma Gen-E features the SYNC 4 infotainment system, designed to provide a seamless and intuitive user experience. The SYNC 4 system integrates various functions, including navigation, media, communication, and vehicle settings, into a central interface for easy access. The system is equipped with a high-resolution touchscreen display that allows for quick and convenient control of the vehicle's features. Additionally, the SYNC 4 system supports over-the-air updates to ensure the latest software enhancements and features are always available to the driver.
 
 ### Navigation System
 
@@ -250,19 +257,20 @@ The Ford Puma Gen-E features a range of standard and optional [advanced driver a
 
 The Ford Puma Gen-E offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the  level 1 system, you get the following driving automation features.
+With the Cruise control level 1 system, you get the following driving automation features.
 
 - Cruise control.
 
-With the optional  level 2 system, you get additional driving automation features to the ones listed above:
+With the optional Intelligent Adaptive Cruise Control level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
-Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and six [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 ## Security and Access Technologies
 

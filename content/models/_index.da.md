@@ -515,7 +515,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller rul ned for
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Maserati</h2>
 	<p>
-	Maserati har 2 modeller med i alt 2 varianter.
+	Maserati har 3 modeller med i alt 3 varianter.
 	</p>
 	<a href="maserati/" class="btn btn-outline-primary" role="button">Gå til Maserati EV-model oversigt</a>
 </div>

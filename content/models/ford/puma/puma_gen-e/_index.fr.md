@@ -89,7 +89,7 @@ Si vous retirez complètement le pied, la régénération est à un niveau fixe.
 
 ## Extérieur
 
-Le Ford Puma Gen-E, avec des dimensions de 4214 mm de longueur, 1805 mm de largeur et  mm de hauteur, appartient au segment des B-SUV, également appelés SUV sous-compacts ou crossovers, offrant une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite surélevée, l'espace de chargement accru et le style robuste d'un SUV. Le Ford Puma Gen-E est disponible en un total de 6 couleurs de peinture unies.
+Le Ford Puma Gen-E, avec des dimensions de 4214 mm de longueur, 1805 mm de largeur et  mm de hauteur, appartient au segment des B-SUV, également appelés SUV sous-compacts ou crossovers, offrant une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite surélevée, l'espace de chargement accru et le style robuste d'un SUV. Le Ford Puma Gen-E est disponible en un total de 10 couleurs de peinture, y compris des options unies et métalliques. Certaines de ces options de peinture incluent des peintures bicolores où le toit est peint dans une couleur différente, offrant un look distinctif et élégant.
 
 Le Ford Puma Gen-E offre plusieurs options de roues de différentes tailles, vous permettant de personnaliser votre véhicule selon votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
@@ -99,7 +99,7 @@ Le Ford Puma Gen-E offre plusieurs options de roues de différentes tailles, vou
 
 Des roues plus étroites améliorent la consommation et offrent une plus grande autonomie, tandis que des roues plus larges offrent une meilleure traction et maniabilité.
 
-La voiture a quatre [portes régulières](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre.
+La voiture a quatre [portes régulières](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate). Vous pouvez choisir une option pour avoir le hayon électriquement motorisé. Vous pouvez également avoir le hayon avec un capteur de coup de pied, ce qui permet de l'ouvrir simplement en donnant un coup de pied sous le hayon.
 
 Il y a deux options de toit différentes à sélectionner. Le toit standard est simplement un toit régulier. En option, vous pouvez commander ce modèle avec un toit panoramique. Le verre a deux panneaux. Un au-dessus des première et deuxième rangées, et les occupants peuvent ouvrir la partie avant. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Les deux panneaux de verre ont un rideau manuel que les occupants peuvent utiliser pour se protéger du soleil.
 
@@ -113,7 +113,7 @@ Les vitres à partir du montant B et vers l'arrière sont teintées, ce qui amé
 
 ## Intérieur
 
-L'intérieur du Ford Puma Gen-E est fonctionnel, avec des matériaux de qualité moyenne dans plusieurs zones au lieu de plastique dur. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée. Vous pouvez choisir entre différents types de matériaux de sièges et styles d'intérieur. Vous pouvez choisir entre plusieurs designs d'intérieur.
+L'intérieur du Ford Puma Gen-E est fonctionnel, avec des matériaux de qualité moyenne dans plusieurs zones au lieu de plastique dur. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée. Il y a un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges
 
@@ -139,6 +139,7 @@ Disponible en :
 
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition , permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
+- Appuie-tête réglable en hauteur (réglable manuellement)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 
 ### Rangement intérieur
@@ -171,6 +172,8 @@ Le Ford Puma Gen-E comprend plusieurs fonctionnalités pour améliorer le confor
 
 ## Interface Utilisateur et Contrôle
 
+L'interface de contrôle du Ford Puma Gen-E est principalement axée sur l'interaction avec l'écran, avec une fonctionnalité limitée disponible via des boutons physiques et des manettes. Ce design peut entraîner une expérience utilisateur et une convivialité moins idéales pour certains utilisateurs.
+
 Le Ford Puma Gen-E dispose de plusieurs écrans intégrés. Derrière le volant se trouve un [tableau de bord numérique](../../../../technology/userinterface/screens/#digital-instruments), et dans la console centrale, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
 
 Détails clés de l'écran :
@@ -192,9 +195,13 @@ Le Ford Puma Gen-E est équipé d'un seul type de volant :
 
 Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour fournir une vue claire de la zone derrière le véhicule.
 
+Ce modèle est équipé de la commande vocale de série, vous permettant de gérer diverses fonctions par des commandes vocales.
+
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infodivertissement
+
+Le Ford Puma Gen-E est équipé du système d'infodivertissement SYNC 4, conçu pour offrir une expérience utilisateur fluide et intuitive. Le système SYNC 4 intègre diverses fonctions, notamment la navigation, les médias, la communication et les réglages du véhicule, dans une interface centrale pour un accès facile. Le système est équipé d'un écran tactile haute résolution qui permet un contrôle rapide et pratique des fonctionnalités du véhicule. De plus, le système SYNC 4 prend en charge les mises à jour sans fil pour garantir que les dernières améliorations et fonctionnalités logicielles sont toujours disponibles pour le conducteur.
 
 ### Système de Navigation
 
@@ -250,19 +257,20 @@ Le Ford Puma Gen-E dispose d'une gamme de systèmes [d'assistance avancée au co
 
 Le Ford Puma Gen-E offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
-Avec le système  niveau 1, vous obtenez les fonctionnalités d'automatisation de la conduite suivantes.
+Avec le système Cruise control niveau 1, vous obtenez les fonctionnalités d'automatisation de la conduite suivantes.
 
 - Régulateur de vitesse.
 
-Avec le système optionnel  niveau 2, vous obtenez des fonctionnalités d'automatisation de la conduite supplémentaires en plus de celles énumérées ci-dessus :
+Avec le système optionnel Intelligent Adaptive Cruise Control niveau 2, vous obtenez des fonctionnalités d'automatisation de la conduite supplémentaires en plus de celles énumérées ci-dessus :
 
 - [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au maintien de voie (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et ralentit si nécessaire dans le trafic. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
+- [**Changement de voie automatique (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Capteurs et caméras
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
-Jusqu'à trois [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et six [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+Jusqu'à trois [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 ## Technologies de sécurité et d'accès
 
