@@ -47,7 +47,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für BYD Dolphin 44.9kW
 				Höchstgeschwindigkeit
 			</td>
 			<td>
-				160 km/h (99 mph)
+				150 km/h (93 mph)
 			</td>
 		</tr>
 		<tr>
@@ -311,6 +311,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Böschungswinkel vorne
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Böschungswinkel hinten
+			</td>
+			<td>
+				23
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wendekreis
 			</td>
 			<td>
@@ -339,7 +355,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				1658 kg (3655 lbs)
+				1506 kg (3320 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +363,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Gesamtgewicht
 			</td>
 			<td>
-				2068 kg (4559 lbs)
+				1916 kg (4224 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -524,7 +540,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Federungstyp hinten
 			</td>
 			<td>
-				Mehrlenker
+				TorsionBeam
 			</td>
 		</tr>
 	</tbody>
@@ -588,7 +604,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +612,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Speicher
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -612,7 +628,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Längenverstellbare Kopfstütze
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -620,7 +636,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellbare Oberschenkelstütze
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -660,7 +676,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Elektrische Lendenwirbelstütze
 			</td>
 			<td>
-				Standard elektrische Funktion
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -668,7 +684,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzbelüftung
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

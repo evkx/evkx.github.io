@@ -28,7 +28,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der BYD Dolphin 44.9kWh kWh bietet eine grundlegende Leistung mit einer maximalen Leistung von 70 kW (95 PS / 94 bhp) und einem Gesamtdrehmoment von 180 Nm (133 lb-ft). Er beschleunigt in 7 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 160 km/h (99 mph), was ihn eher mit Einstiegsfahrzeugen mit herkömmlichen Verbrennungsmotoren vergleichbar macht.
+Der BYD Dolphin 44.9kWh kWh bietet eine grundlegende Leistung mit einer maximalen Leistung von 70 kW (95 PS / 94 bhp) und einem Gesamtdrehmoment von 180 Nm (133 lb-ft). Er beschleunigt in 7 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 150 km/h (93 mph), was ihn eher mit Einstiegsfahrzeugen mit herkömmlichen Verbrennungsmotoren vergleichbar macht.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -44,7 +44,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 4 Stunden und 4 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 7 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 6 Stunden und 24 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -60,11 +60,20 @@ Der BYD Dolphin 44.9kWh hat ein Frontantriebssystem, das von einem Motor an der 
 
 ### Federung
 
-Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 130 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Torsionsbalken](../../../../technology/suspension/#torsion-beam). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 130 mm.
 
 ### Lenkung
 
 Die dynamische Lenkung ist eine standard im BYD Dolphin 44.9kWh, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
+
+### Fahrmodi
+
+Der BYD Dolphin 44.9kWh ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
+
+- Eco: Ausgewogene Lenkung und effizientes Gas.
+- Normal: Ausgewogene Lenkung und Gas.
+- Sport: Ausgewogene Lenkung und Gas.
+- Sport: Ausgewogene Lenkung und Gas.
 
 ### Bremsen
 
@@ -74,21 +83,21 @@ Der BYD Dolphin 44.9kWh ist mit [Gusseisenscheibenbremsen](../../../../technolog
 
 [**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht.
 
-Die maximale regenerative Leistung beträgt 200 kW.
+Die maximale regenerative Leistung beträgt 100 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exterieur
 
-Der BYD Dolphin 44.9kWh, mit Abmessungen von 4290 mm Länge, 1770 mm Breite und 1570 mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Der BYD Dolphin 44.9kWh ist in insgesamt 4 Unilackfarben erhältlich.
+Der BYD Dolphin 44.9kWh, mit Abmessungen von 4290 mm Länge, 1770 mm Breite und 1570 mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Der BYD Dolphin 44.9kWh ist in insgesamt 6 Unilackfarben erhältlich.
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den BYD Dolphin 44.9kWh erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
-- 235/50 Reifen auf 17" Felgen
+- 195/60 Reifen auf 15" Felgen
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
 
-Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein großes Panoramadach, das sich von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
+Es gibt nur eine Dachoption für dieses Modell. Das Standarddach ist einfach ein normales Dach.
 
 Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
@@ -116,15 +125,12 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar für Fahrer, nicht verfügbar für Beifahrer)
 - Höhenverstellbare Kopfstütze
-- Längenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
-- [Speicher](../../../../technology/seats/adjustment/#seat-memory)
-- [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
-- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für Beifahrersitz)
 
 Verfügbar in:
+
+- Black/Gray [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/frontseats_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1579"  >}}
 
@@ -177,7 +183,7 @@ Das Modell verfügt nicht über ein Head-up-Display.
 
 Der BYD Dolphin 44.9kWh ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad hat einen flachen Boden, was ein sportliches Aussehen und Gefühl vermittelt. Es enthält auch physische Tasten und Scrollräder, die eine intuitive Steuerung des Infotainmentsystems ermöglichen, sodass Sie die Lautstärke leicht anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
 
 ### Spiegel
 
@@ -199,9 +205,9 @@ Der BYD Dolphin 44.9kWh unterstützt Android Auto und Apple CarPlay, sodass Sie 
 
 Der BYD Dolphin 44.9kWh ist mit einer Soundsystemoption ausgestattet:
 
-- **Dirac:** Verfügt über acht Lautsprecher.
+- **Dirac:** Verfügt über sechs Lautsprecher.
 
-Zusätzlich verfügt das Modell standardmäßig über 3 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
+Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
 
 ## Lichter
 
@@ -247,6 +253,11 @@ Mit dem  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktione
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu eins [Kameras](../../../../technology/sensorsandcameras/cameras/) und drei [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+
 ## Sicherheit
 
 Der BYD Dolphin 44.9kWh ist mit mehreren Airbags ausgestattet, um den Insassenschutz im Falle eines Unfalls zu gewährleisten. Das Airbagsystem umfasst:
@@ -272,11 +283,13 @@ Der BYD Dolphin 44.9kWh ist mit fortschrittlichen Sicherheitsfunktionen ausgesta
 
 Der Kofferraum bietet ein Ladevolumen von 345 Litern (12,2 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1310 Liter (46,3 CU FT). Auf dem Dach können Sie bis zu 50 kg (110,2 lbs) laden.
 
-Das maximale Gewicht des Fahrzeugs beträgt 2068 kg (4559 lbs) bei einem Leergewicht von 1658 kg (3655 lbs). Dies ermöglicht eine maximale Zuladung von 410 kg (904 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
+Das maximale Gewicht des Fahrzeugs beträgt 1916 kg (4224 lbs) bei einem Leergewicht von 1506 kg (3320 lbs). Dies ermöglicht eine maximale Zuladung von 410 kg (904 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
-Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 0 kg (0 lbs), während es für einen ungebremsten Anhänger 0 kg (0 lbs) beträgt.
+Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhänger zu ziehen, müssen Sie andere Modelle in Betracht ziehen.
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/trunk_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1776"  >}}
+
+## Verfügbarkeit & Preise
 
 ## Alternative Modelle
 

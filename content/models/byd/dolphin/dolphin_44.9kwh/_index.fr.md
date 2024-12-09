@@ -28,7 +28,7 @@ Nous avons organisé cet article en sections spécifiques pour une navigation pl
 
 ## Performance
 
-Le BYD Dolphin 44.9kWh kWh offre des performances de base avec une puissance maximale de 70 kW (95 ch / 94 bhp) et un couple total de 180 Nm (133 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 7 secondes et atteint une vitesse maximale de 160 km/h (99 mph), ce qui est plus comparable aux véhicules à moteur à combustion interne d'entrée de gamme.
+Le BYD Dolphin 44.9kWh kWh offre des performances de base avec une puissance maximale de 70 kW (95 ch / 94 bhp) et un couple total de 180 Nm (133 lb-pi). Il accélère de 0 à 100 km/h (0 à 62 mph) en 7 secondes et atteint une vitesse maximale de 150 km/h (93 mph), ce qui est plus comparable aux véhicules à moteur à combustion interne d'entrée de gamme.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -44,7 +44,7 @@ Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un t
 
 ### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 4 heures et 4 minutes avec une installation domestique.
+Le chargeur embarqué standard prend en charge jusqu'à 7 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 6 heures et 24 minutes avec une installation domestique.
 
 ### Port de Charge
 
@@ -60,11 +60,20 @@ Le BYD Dolphin 44.9kWh dispose d'un système de traction avant soutenu par un mo
 
 ### Suspension
 
-La suspension avant est à [jambes de force MacPherson](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). La suspension standard comprend des ressorts en acier et des amortisseurs hydrauliques. La suspension du  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 130 mm.
+La suspension avant est à [jambes de force MacPherson](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est à [essieu de torsion](../../../../technology/suspension/#torsion-beam). La suspension standard comprend des ressorts en acier et des amortisseurs hydrauliques. La suspension du  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 130 mm.
 
 ### Direction
 
 La direction dynamique est un standard sur le BYD Dolphin 44.9kWh, variant le rapport de direction en fonction de la vitesse de conduite pour un contrôle et un confort accrus.
+
+### Modes de Conduite
+
+Le BYD Dolphin 44.9kWh permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la maniabilité de la voiture. Le conducteur peut choisir entre 4 modes :
+
+- Eco : Direction et accélérateur efficaces équilibrés.
+- Normal : Direction et accélérateur équilibrés.
+- Sport : Direction et accélérateur équilibrés.
+- Sport : Direction et accélérateur équilibrés.
 
 ### Freins
 
@@ -74,21 +83,21 @@ Le BYD Dolphin 44.9kWh est équipé de [freins à disque en fonte](../../../../t
 
 [**Régénération automatique**](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible sur ce modèle. Cependant, le [freinage régénératif](../../../../technology/regen/) est facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving) combinée avec les [**freins mixtes**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
-La puissance régénérative maximale est de 200 kW.
+La puissance régénérative maximale est de 100 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Extérieur
 
-Le BYD Dolphin 44.9kWh, avec des dimensions de 4290 mm de longueur, 1770 mm de largeur et 1570 mm de hauteur, appartient au segment des B-SUV, également appelés SUV sous-compacts ou crossovers, offrant une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite surélevée, l'espace de chargement accru et le style robuste d'un SUV. Le BYD Dolphin 44.9kWh est disponible en un total de 4 couleurs de peinture unies.
+Le BYD Dolphin 44.9kWh, avec des dimensions de 4290 mm de longueur, 1770 mm de largeur et 1570 mm de hauteur, appartient au segment des B-SUV, également appelés SUV sous-compacts ou crossovers, offrant une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite surélevée, l'espace de chargement accru et le style robuste d'un SUV. Le BYD Dolphin 44.9kWh est disponible en un total de 6 couleurs de peinture unies.
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur le BYD Dolphin 44.9kWh, vous permettant de personnaliser votre véhicule pour correspondre à votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
-- 235/50 pneus sur des jantes de 17"
+- 195/60 pneus sur des jantes de 15"
 
 La voiture a quatre [portes régulières](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate).
 
-Il n'y a qu'une seule option de toit pour ce modèle. Le toit standard a un grand toit panoramique s'étendant de l'avant à l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
+Il n'y a qu'une seule option de toit pour ce modèle. Le toit standard est simplement un toit régulier.
 
 Les vitres à partir du montant B et vers l'arrière sont teintées, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
@@ -116,15 +125,12 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement pour le conducteur, non disponible pour le passager)
 - Appuie-tête réglable en hauteur
-- Appuie-tête réglable en longueur
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
-- [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
-- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
-- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour le siège passager)
 
 Disponible en :
+
+- Black/Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/frontseats_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1579"  >}}
 
@@ -177,7 +183,7 @@ Le modèle n'inclut pas d'affichage tête haute.
 
 Le BYD Dolphin 44.9kWh est équipé d'un seul type de volant :
 
-- **Volant Circulaire :** Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
+- **Volant Circulaire:** Ce volant présente un fond plat, offrant un look et une sensation sportifs. Il comprend également des boutons physiques et des molettes de défilement, offrant un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
 
 ### Rétroviseurs
 
@@ -199,9 +205,9 @@ Le BYD Dolphin 44.9kWh prend en charge Android Auto et Apple CarPlay, vous perme
 
 Le BYD Dolphin 44.9kWh est équipé d'une seule option de système audio :
 
-- **Dirac :** Dispose de huit haut-parleurs.
+- **Dirac :** Dispose de six haut-parleurs.
 
-De plus, le modèle comprend 3 connexions USB-C de série. Le modèle dispose de 1 connexions USB-A de série.
+De plus, le modèle comprend 4 connexions USB-C de série.
 
 ## Éclairage
 
@@ -247,6 +253,11 @@ Avec le système  niveau 1, vous obtenez les fonctionnalités d'automatisation d
 
 - [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
+### Capteurs et caméras
+
+Ce modèle utilise des caméras et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
+Jusqu'à un [caméras](../../../../technology/sensorsandcameras/cameras/) et trois [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+
 ## Sécurité
 
 Le BYD Dolphin 44.9kWh est équipé de plusieurs airbags pour assurer la protection des occupants en cas de collision. Le système d'airbags comprend :
@@ -272,11 +283,13 @@ Le BYD Dolphin 44.9kWh est équipé de fonctionnalités de sécurité avancées 
 
 Le coffre offre une capacité de chargement de 345 litres (12,2 CU FT). Avec le siège arrière rabattu, cela s'étend à 1310 litres (46,3 CU FT). Sur le toit, vous pouvez charger jusqu'à 50 kg (110,2 lbs).
 
-Le poids maximal du véhicule est de 2068 kg (4559 lbs), avec un poids de base de 1658 kg (3655 lbs). Cela permet une charge maximale de 410 kg (904 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
+Le poids maximal du véhicule est de 1916 kg (4224 lbs), avec un poids de base de 1506 kg (3320 lbs). Cela permet une charge maximale de 410 kg (904 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale.
 
-Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autorisé pour une remorque freinée est de 0 kg (0 lbs), tandis que pour une remorque non freinée, il est de 0 kg (0 lbs).
+Ce modèle n'est pas disponible avec une barre de remorquage. Donc, pour tirer une remorque, vous devez regarder d'autres modèles.
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/trunk_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1776"  >}}
+
+## Disponibilité et Tarification
 
 ## Modèles Alternatifs
 

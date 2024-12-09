@@ -66,6 +66,15 @@ La suspensión delantera es de [MacPherson Strut](../../../../technology/suspens
 
 La dirección dinámica es una característica estándar en el BYD Dolphin 60.4kWh, variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados.
 
+### Modos de Conducción
+
+El BYD Dolphin 60.4kWh permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
+
+- Eco: Dirección y aceleración eficientes.
+- Normal: Dirección y aceleración equilibradas.
+- Sport: Dirección y aceleración equilibradas.
+- Sport: Dirección y aceleración equilibradas.
+
 ### Frenos
 
 El BYD Dolphin 60.4kWh está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera.
@@ -74,13 +83,13 @@ El BYD Dolphin 60.4kWh está equipado con [frenos de disco de hierro fundido](..
 
 [**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinada con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
-La potencia máxima de regeneración es de 200 kW.
+La potencia máxima de regeneración es de 100 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exterior
 
-El BYD Dolphin 60.4kWh, con dimensiones de 4290 mm de longitud, 1770 mm de ancho y 1570 mm de altura, pertenece al segmento de coches B-SUV, también conocidos como SUV subcompactos o crossovers, que ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El BYD Dolphin 60.4kWh está disponible en un total de 4 colores de pintura sólidos.
+El BYD Dolphin 60.4kWh, con dimensiones de 4290 mm de longitud, 1770 mm de ancho y 1570 mm de altura, pertenece al segmento de coches B-SUV, también conocidos como SUV subcompactos o crossovers, que ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El BYD Dolphin 60.4kWh está disponible en un total de 6 colores de pintura sólidos.
 
 Puede seleccionar entre varios diseños de ruedas, todos disponibles en el mismo tamaño, en el BYD Dolphin 60.4kWh, lo que le permite personalizar su vehículo para que coincida con su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
@@ -116,15 +125,12 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**:
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico para el conductor, no disponible para el pasajero)
 - Reposacabezas ajustable en altura
-- Reposacabezas ajustable en longitud
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
-- [Memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
-- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [Ventilación](../../../../technology/seats/adjustment/#ventilation)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para el asiento del pasajero)
 
 Disponible en:
+
+- Black/Gray [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/frontseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1579"  >}}
 
@@ -178,7 +184,7 @@ El modelo no incluye una pantalla frontal.
 
 El BYD Dolphin 60.4kWh está equipado con un solo tipo de volante:
 
-- **Volante Circular:** Este volante proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
+- **Volante Circular:** Este volante presenta una parte inferior plana, proporcionando un aspecto y sensación deportivos. También incluye botones físicos y ruedas de desplazamiento, proporcionando un control intuitivo sobre el sistema de infoentretenimiento, permitiéndole ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
 
 ### Espejos
 
@@ -200,9 +206,9 @@ El BYD Dolphin 60.4kWh es compatible con Android Auto y Apple CarPlay, lo que le
 
 El BYD Dolphin 60.4kWh viene equipado con una opción de sistema de sonido:
 
-- **Dirac:** Cuenta con ocho altavoces.
+- **Dirac:** Cuenta con seis altavoces.
 
-Además, el modelo incluye 3 conexiones USB-C como estándar. El modelo tiene 1 conexiones USB-A como estándar.
+Además, el modelo incluye 4 conexiones USB-C como estándar.
 
 ## Luces
 
@@ -248,6 +254,11 @@ Con el sistema  de nivel 1, obtienes las siguientes características de automati
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta uno [cámaras](../../../../technology/sensorsandcameras/cameras/) y tres [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorean los alrededores del vehículo.
+
 ## Seguridad
 
 El BYD Dolphin 60.4kWh está equipado con múltiples airbags para garantizar la protección de los ocupantes en caso de colisión. El sistema de airbags incluye:
@@ -275,9 +286,11 @@ El maletero ofrece una capacidad de carga de 345 litros (12,2 pies cúbicos). Co
 
 El peso máximo del vehículo es de 2068 kg (4559 libras), con un peso base de 1658 kg (3655 libras). Esto permite una carga máxima de 410 kg (904 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Se puede agregar un enganche de remolque al vehículo. El peso máximo permitido para un remolque con freno es de 0 kg (0 lbs), mientras que para un remolque sin freno, es de 0 kg (0 lbs).
+Este modelo no está disponible con un enganche de remolque. Por lo tanto, para tirar de un remolque, debe buscar otros modelos.
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
+
+## Disponibilidad y Precios
 
 ## Modelos Alternativos
 

@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for BYD Dolphin 44.9kWh.
 				Top speed
 			</td>
 			<td>
-				160 kph (99 mph)
+				150 kph (93 mph)
 			</td>
 		</tr>
 		<tr>
@@ -311,6 +311,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Approach Angle
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Departure Angle
+			</td>
+			<td>
+				23
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Turning circle
 			</td>
 			<td>
@@ -339,7 +355,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				1658 kg (3655 lbs)
+				1506 kg (3320 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +363,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2068 kg (4559 lbs)
+				1916 kg (4224 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -524,7 +540,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Suspension type rear</a>
 			</td>
 			<td>
-				Multi-link
+				TorsionBeam
 			</td>
 		</tr>
 	</tbody>
@@ -588,7 +604,7 @@ This model is available with a seat configuration with five seats.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +612,7 @@ This model is available with a seat configuration with five seats.
 				Memory
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -612,7 +628,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -620,7 +636,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -660,7 +676,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Standard electric feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -668,7 +684,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>

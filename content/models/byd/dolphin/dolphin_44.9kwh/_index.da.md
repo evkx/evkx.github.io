@@ -28,7 +28,7 @@ Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. 
 
 ## Ydelse
 
-BYD Dolphin 44.9kWh kWh giver grundlæggende ydeevne med en maksimal effekt på 70 kW (95 hk / 94 bhp) og et samlet drejningsmoment på 180 Nm (133 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 7 sekunder og når en tophastighed på 160 km/t (99 mph), hvilket er mere sammenligneligt med indgangsniveau traditionelle forbrændingsmotorer.
+BYD Dolphin 44.9kWh kWh giver grundlæggende ydeevne med en maksimal effekt på 70 kW (95 hk / 94 bhp) og et samlet drejningsmoment på 180 Nm (133 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 7 sekunder og når en tophastighed på 150 km/t (93 mph), hvilket er mere sammenligneligt med indgangsniveau traditionelle forbrændingsmotorer.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -44,7 +44,7 @@ I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbr
 
 ### Indbygget oplader
 
-Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 4 timer og 4 minutter ved brug af en hjemmeinstallation.
+Den standard indbyggede oplader understøtter op til 7 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 6 timer og 24 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 
@@ -60,11 +60,20 @@ BYD Dolphin 44.9kWh har et forhjulstræksystem understøttet af én motor på fo
 
 ### Affjedring
 
-Forhjulsophænget er [MacPherson fjederben](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere. affjedringen har fast højde og dæmpning. Frihøjden med denne affjedring er 130 mm.
+Forhjulsophænget er [MacPherson fjederben](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [torsionsstang](../../../../technology/suspension/#torsion-beam). Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere. affjedringen har fast højde og dæmpning. Frihøjden med denne affjedring er 130 mm.
 
 ### Styring
 
 Dynamisk styring er standard på BYD Dolphin 44.9kWh, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort.
+
+### Køretilstande
+
+BYD Dolphin 44.9kWh lader brugeren vælge forskellige [køretilstande](../../../../technology/drivemodes/) som påvirker bilens håndtering. Føreren kan vælge mellem 4 tilstande:
+
+- Eco: Afbalanceret styring og effektiv gaspedal.
+- Normal: Afbalanceret styring og gaspedal.
+- Sport: Afbalanceret styring og gaspedal.
+- Sport: Afbalanceret styring og gaspedal.
 
 ### Bremser
 
@@ -74,21 +83,21 @@ BYD Dolphin 44.9kWh er udstyret med [støbejerns-skivebremser](../../../../techn
 
 [**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog er [regenerativ bremsning](../../../../technology/regen/) muliggjort gennem [**én-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
-Den maksimale regenerative effekt er 200 kW.
+Den maksimale regenerative effekt er 100 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
-BYD Dolphin 44.9kWh, med dimensioner på 4290 mm i længde, 1770 mm i bredde og 1570 mm i højde, tilhører B-SUV segmentet, også kendt som kompakte SUV'er eller crossovers, der kombinerer B-segment bilers kompakte størrelse og manøvredygtighed med en højere køreposition, øget bagagerumsplads og robust styling fra en SUV. BYD Dolphin 44.9kWh fås i alt i 4 almindelige lakfarver.
+BYD Dolphin 44.9kWh, med dimensioner på 4290 mm i længde, 1770 mm i bredde og 1570 mm i højde, tilhører B-SUV segmentet, også kendt som kompakte SUV'er eller crossovers, der kombinerer B-segment bilers kompakte størrelse og manøvredygtighed med en højere køreposition, øget bagagerumsplads og robust styling fra en SUV. BYD Dolphin 44.9kWh fås i alt i 6 almindelige lakfarver.
 
 Du kan vælge mellem flere hjuldesign, alle tilgængelige i samme størrelse, på BYD Dolphin 44.9kWh, så du kan personliggøre din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 235/50 dæk på 17" fælge
+- 195/60 dæk på 15" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate).
 
-Der er kun én tagmulighed for denne model. Standardtaget har et stort panoramatag, der strækker sig fra for til bag. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Det har et elektrisk gardin, som passagererne kan bruge til beskyttelse mod solen.
+Der er kun én tagmulighed for denne model. Standardtaget er bare et almindeligt tag.
 
 Ruderne fra B-søjlen og bagud er tonede, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
 
@@ -116,15 +125,12 @@ Følgende funktioner er tilgængelige på **standard** sædet:
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar for fører, ikke tilgængelig for passager)
 - Højdejusterbar nakkestøtte
-- Længdejusterbar nakkestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)
-- [Memory](../../../../technology/seats/adjustment/#seat-memory)
-- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passagersæde)
 
 Fås med:
+
+- Black/Gray [kunstlæderbetræk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/frontseats_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1579"  >}}
 
@@ -177,7 +183,7 @@ Modellen inkluderer ikke et head-up display.
 
 BYD Dolphin 44.9kWh er udstyret med én type rat:
 
-- **Cirkulært rat:** Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
+- **Cirkulært Rat:** Dette rat har en flad bund, hvilket giver et sporty udseende og følelse. Det inkluderer også fysiske knapper og rullehjul, der giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og administrere andre vigtige funktioner.
 
 ### Spejle
 
@@ -199,9 +205,9 @@ BYD Dolphin 44.9kWh understøtter Android Auto og Apple CarPlay, så du kan spej
 
 BYD Dolphin 44.9kWh kommer med ét lydsystem:
 
-- **Dirac:** Har otte højttalere.
+- **Dirac:** Har seks højttalere.
 
-Derudover inkluderer modellen 3 USB-C tilslutninger som standard. Modellen har 1 USB-A tilslutninger som standard.
+Derudover inkluderer modellen 4 USB-C tilslutninger som standard.
 
 ## Lygter
 
@@ -247,6 +253,11 @@ Med  niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
+### Sensorer & Kameraer
+
+Denne model bruger kameraer og ultralydssensorer til sine førerassistentsystemer.
+Op til en [kameraer](../../../../technology/sensorsandcameras/cameras/) og tre [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+
 ## Sikkerhed
 
 BYD Dolphin 44.9kWh er udstyret med flere airbags for at sikre beskyttelse af passagererne i tilfælde af en kollision. Airbagsystemet omfatter:
@@ -272,11 +283,13 @@ BYD Dolphin 44.9kWh er udstyret med avancerede sikkerhedsfunktioner for at besky
 
 Bagagerummet har en lastkapacitet på 345 liter (12,2 CU FT). Med bagsædet lagt ned udvides dette til 1310 liter (46,3 CU FT). På taget kan du laste op til 50 kg (110,2 lbs).
 
-Køretøjets maksimale vægt er 2068 kg (4559 lbs), med en egenvægt på 1658 kg (3655 lbs). Dette giver en maksimal last på 410 kg (904 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
+Køretøjets maksimale vægt er 1916 kg (4224 lbs), med en egenvægt på 1506 kg (3320 lbs). Dette giver en maksimal last på 410 kg (904 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne.
 
-Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for en bremset trailer er 0 kg (0 lbs), mens det for en ubremset trailer er 0 kg (0 lbs).
+Denne model fås ikke med anhængertræk. Så hvis du skal trække en trailer, må du kigge på andre modeller.
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/trunk_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1776"  >}}
+
+## Tilgængelighed & Priser
 
 ## Alternative modeller
 
