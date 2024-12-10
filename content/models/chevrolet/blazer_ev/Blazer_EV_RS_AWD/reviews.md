@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Chevy Blazer Is One Of The Worst Charging EV's But It's Still Usable!</h3>
+<p>Out of Spec Testing: 10.12.2024</p>
+
+{{< youtube p45aqO50nqY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Chevy Blazer EV AWD Needs A Bigger Battery! 70-MPH Highway Range Test In The Lowest Range Variant</h3>
 <p>Out of Spec Testing: 05.12.2024</p>
 

@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2025 Lucid Gravity First Drive: Not Just an Air SUV | Motortrend</h3>
+<p>MotorTrend Channel: 10.12.2024</p>
+
+{{< youtube x77w2XUre8Y >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I Drive The Lucid Gravity For The First Time!</h3>
+<p>Out of Spec Reviews: 10.12.2024</p>
+
+{{< youtube meKg2g0A0Eo >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>My First Look At The Lucid Gravity! The Electric SUV w/ Impressive Range, Space, & Luxury</h3>
 <p>Out of Spec Reviews: 17.11.2023</p>
 

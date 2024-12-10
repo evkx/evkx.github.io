@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>This Sci-Fi Minivan Is The Cure To Boring SUVs!</h3>
+<p>Fully Charged Show: 10.12.2024</p>
+
+{{< youtube RRuvZVLG2KQ >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The Best EV You Can&#39;t Buy</h3>
 <p>Auto Focus: 18.11.2024</p>
 
