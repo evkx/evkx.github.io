@@ -83,11 +83,11 @@ Der Lucid Gravity Grand Touring ermöglicht es dem Benutzer, verschiedene [Fahrm
 
 ### Bremsen
 
-Der Lucid Gravity Grand Touring ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 386 mm, während die hinteren Scheiben 381 mm groß sind.
+Der Lucid Gravity Grand Touring ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 390 mm, während die hinteren Scheiben 388 mm groß sind.
 
 ### Rekuperatives Bremsen
 
-[**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht. Dieses Modell bietet drei Stoppmodi für das Ein-Pedal-Fahren: <ul><li>Der **Haltemodus** bringt das Fahrzeug mit Reibungsbremsen vollständig zum Stillstand</li><li>Der **Rollmodus** lässt das Fahrzeug rollen, bis es von selbst zum Stillstand kommt</li><li>Der **Kriechmodus** bewegt das Fahrzeug bei niedriger Geschwindigkeit vorwärts</li></ul>
+[Regenerative Bremsung](../../../../technology/regen/) in diesem Modell wird hauptsächlich durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) ermöglicht. Im Gegensatz zu einigen Modellen sind [Automatische Regeneration](../../../../technology/regen/#automatic-regen-adaptive) oder Rollen hier nicht verfügbar. Dieses Modell bietet drei Stoppmodi für das Ein-Pedal-Fahren: <ul><li>Der **Haltemodus** bringt das Fahrzeug mit Reibungsbremsen vollständig zum Stillstand</li><li>Der **Rollmodus** lässt das Fahrzeug rollen, bis es von selbst zum Stillstand kommt</li><li>Der **Kriechmodus** bewegt das Fahrzeug bei niedriger Geschwindigkeit vorwärts</li></ul>
 
 Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen zwei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 

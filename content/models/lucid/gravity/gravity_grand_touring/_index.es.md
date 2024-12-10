@@ -83,11 +83,11 @@ El Lucid Gravity Grand Touring permite al usuario seleccionar diferentes [modos 
 
 ### Frenos
 
-El Lucid Gravity Grand Touring está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera. Los discos delanteros miden 386 mm, mientras que los discos traseros son de 381 mm.
+El Lucid Gravity Grand Touring está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera. Los discos delanteros miden 390 mm, mientras que los discos traseros son de 388 mm.
 
 ### Frenado Regenerativo
 
-[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinada con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal). Este modelo ofrece tres modos de parada para la conducción con un solo pedal: <ul><li>**Modo Hold** detiene el vehículo completamente utilizando frenos de fricción</li><li>**Modo Roll** permite que el vehículo ruede hasta detenerse naturalmente</li><li>**Modo Creep** mueve el coche hacia adelante a baja velocidad</li></ul>
+El [frenado regenerativo](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o el deslizamiento no están disponibles aquí. Este modelo ofrece tres modos de parada para la conducción con un solo pedal: <ul><li>**Modo Hold** detiene el vehículo completamente utilizando frenos de fricción</li><li>**Modo Roll** permite que el vehículo ruede hasta detenerse naturalmente</li><li>**Modo Creep** mueve el coche hacia adelante a baja velocidad</li></ul>
 
 Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 

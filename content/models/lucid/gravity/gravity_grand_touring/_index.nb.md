@@ -83,11 +83,11 @@ Lucid Gravity Grand Touring lar brukeren velge ulike [kjøremoduser](../../../..
 
 ### Bremser
 
-Lucid Gravity Grand Touring er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak. Skivene foran måler 386 mm, mens skivene bak er 381 mm.
+Lucid Gravity Grand Touring er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak. Skivene foran måler 390 mm, mens skivene bak er 388 mm.
 
 ### Regenerativ bremsing
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. [Regenerativ bremsing](../../../../technology/regen/) skjer via [**kjøring med én pedal**](../../../../technology/regen/#one-pedal-driving) kombinert med [**kombinerte bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Denne modellen tilbyr tre stoppemodi for kjøring med én pedal: <ul><li>**Hold-modus** bringer kjøretøyet til fullstendig stopp ved hjelp av friksjonsbremser</li><li>**Rulle-modus** lar kjøretøyet rulle til det stopper naturlig</li><li>**Kryp-modus** lar bilen bevege seg sakte fremover</li></ul>
+[Regenerativ bremsing](../../../../technology/regen/) i denne modellen skjer primært gjennom [**kjøring med én pedal**](../../../../technology/regen/#one-pedal-driving). I motsetning til enkelte andre modeller, er ikke [Automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive) eller frirulle tilgjengelig her. Denne modellen tilbyr tre stoppemodi for kjøring med én pedal: <ul><li>**Hold-modus** bringer kjøretøyet til fullstendig stopp ved hjelp av friksjonsbremser</li><li>**Rulle-modus** lar kjøretøyet rulle til det stopper naturlig</li><li>**Kryp-modus** lar bilen bevege seg sakte fremover</li></ul>
 
 I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten av gasspedalen. Det er to nivåer å velge mellom, slik at du kan tilpasse kjøreopplevelsen etter eget ønske.
 

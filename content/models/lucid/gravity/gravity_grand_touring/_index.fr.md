@@ -83,11 +83,11 @@ Le Lucid Gravity Grand Touring permet à l'utilisateur de sélectionner différe
 
 ### Freins
 
-Le Lucid Gravity Grand Touring est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière. Les disques avant mesurent 386 mm, tandis que les disques arrière sont de 381 mm.
+Le Lucid Gravity Grand Touring est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière. Les disques avant mesurent 390 mm, tandis que les disques arrière sont de 388 mm.
 
 ### Freinage Régénératif
 
-[**Régénération automatique**](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible sur ce modèle. Cependant, le [freinage régénératif](../../../../technology/regen/) est facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving) combinée avec les [**freins mixtes**](../../../../technology/regen/#manual-regen-using-brake-pedal). Ce modèle offre trois modes d'arrêt pour la conduite à une pédale : <ul><li>**Mode Hold** arrête complètement le véhicule en utilisant les freins à friction</li><li>**Mode Roll** permet au véhicule de rouler jusqu'à ce qu'il s'arrête naturellement</li><li>**Mode Creep** fait avancer la voiture à basse vitesse</li></ul>
+Le [freinage régénératif](../../../../technology/regen/) sur ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou le roulage ne sont pas disponibles ici. Ce modèle offre trois modes d'arrêt pour la conduite à une pédale : <ul><li>**Mode Hold** arrête complètement le véhicule en utilisant les freins à friction</li><li>**Mode Roll** permet au véhicule de rouler jusqu'à ce qu'il s'arrête naturellement</li><li>**Mode Creep** fait avancer la voiture à basse vitesse</li></ul>
 
 De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous retirez votre pied de l'accélérateur. Il y a deux niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 

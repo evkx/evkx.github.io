@@ -1,7 +1,7 @@
 ---
 title: BYD EV models
 linktitle: "BYD"
-description: "BYD is a multinational high-tech company dedicated to technological innovations for a better life. BYD operates in four industries, including automotive, electronics, new energy and rail. "
+description: "BYD (Build Your Dreams) is a Chinese automotive and technology giant founded in **1995** in Shenzhen. Initially a leader in rechargeable batteries, BYD entered the auto market in **2003**, rapidly becoming a global pioneer in electric vehicles (EVs). Known for innovations like the **Blade Battery** and its advanced **e-Platform 3.0**, BYD combines efficiency, safety, and affordability. With a growing global presence spanning **China, Europe, Southeast Asia**, and **Latin America**, BYD produces EVs, buses, and energy solutions, driving the shift toward **sustainable mobility**. Key models include the **BYD Dolphin**, **Seal**, and luxury offerings under **Yangwang**."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
@@ -139,4 +139,16 @@ BYD Tang is a SUV available in 2 variants.
 </div>
         </div>
     </div>
-</div></div>
+</div><div class="accordion-item">
+    <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
+            About the brand
+        </button>
+    </h2>
+    <div id="module-company" class="accordion-collapse collapse">
+        <div class="accordion-body">
+{{% insert "content/models/byd/company.md" %}}
+</div>
+</div>
+</div>
+</div>

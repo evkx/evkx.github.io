@@ -83,11 +83,11 @@ Lucid Gravity Grand Touring lader brugeren vælge forskellige [køretilstande](.
 
 ### Bremser
 
-Lucid Gravity Grand Touring er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag. De forreste skiver måler 386 mm, mens de bageste skiver er 381 mm.
+Lucid Gravity Grand Touring er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag. De forreste skiver måler 390 mm, mens de bageste skiver er 388 mm.
 
 ### Regenerativ bremsning
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog er [regenerativ bremsning](../../../../technology/regen/) muliggjort gennem [**én-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Denne model tilbyder tre stoptilstande for én-pedal kørsel: <ul><li>**Hold tilstand** bringer køretøjet til et komplet stop ved hjælp af friktionsbremser</li><li>**Rul tilstand** lader køretøjet rulle indtil det stopper naturligt</li><li>**Kryb tilstand** får bilen til at bevæge sig fremad ved lav hastighed</li></ul>
+[Regenerativ bremsning](../../../../technology/regen/) i denne model er primært muliggjort gennem [**én-pedal kørsel**](../../../../technology/regen/#one-pedal-driving). I modsætning til nogle modeller er [Automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive) eller friløb ikke tilgængelig her. Denne model tilbyder tre stoptilstande for én-pedal kørsel: <ul><li>**Hold tilstand** bringer køretøjet til et komplet stop ved hjælp af friktionsbremser</li><li>**Rul tilstand** lader køretøjet rulle indtil det stopper naturligt</li><li>**Kryb tilstand** får bilen til at bevæge sig fremad ved lav hastighed</li></ul>
 
 Derudover kan du justere styrken af den regenerative bremsning når du løfter foden fra speederen. Der er to niveauer af regenerativ bremsning at vælge imellem, så du kan tilpasse køreoplevelsen efter dine præferencer.
 

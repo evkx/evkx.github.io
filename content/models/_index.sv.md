@@ -279,6 +279,9 @@ Klicka på logotyperna nedan för att gå direkt till märkessidan, eller scroll
 	<a href="byd/"><img src="https://media.evkx.net/multimedia/models/byd/brandevs_st.jpg" class="img-fluid mb-2" alt="BYD" ></a>
 	<h2>BYD</h2>
 	<p>
+		BYD (Build Your Dreams) är en kinesisk bil- och teknologijätte grundad **1995** i Shenzhen. Ursprungligen en ledare inom uppladdningsbara batterier, gick BYD in på bilmarknaden **2003** och blev snabbt en global pionjär inom elfordon (EVs). Känd för innovationer som **Blade Battery** och dess avancerade **e-Platform 3.0**, kombinerar BYD effektivitet, säkerhet och överkomlighet. Med en växande global närvaro som sträcker sig över **Kina, Europa, Sydostasien** och **Latinamerika**, producerar BYD elfordon, bussar och energilösningar och driver skiftet mot **hållbar mobilitet**. Viktiga modeller inkluderar **BYD Dolphin**, **Seal** och lyxerbjudanden under **Yangwang**.
+	</p>
+	<p>
 	BYD har 8 modeller med totalt 12 varianter.
 	</p>
 	<a href="byd/" class="btn btn-outline-primary" role="button">Gå till BYD översikt över elbilsmodeller</a>

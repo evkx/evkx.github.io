@@ -291,7 +291,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	<a href="byd/"><img src="https://media.evkx.net/multimedia/models/byd/brandevs_st.jpg" class="img-fluid mb-2" alt="BYD" ></a>
 	<h2>BYD</h2>
 	<p>
-		BYD is a multinational high-tech company dedicated to technological innovations for a better life. BYD operates in four industries, including automotive, electronics, new energy and rail. 
+		BYD (Build Your Dreams) is a Chinese automotive and technology giant founded in **1995** in Shenzhen. Initially a leader in rechargeable batteries, BYD entered the auto market in **2003**, rapidly becoming a global pioneer in electric vehicles (EVs). Known for innovations like the **Blade Battery** and its advanced **e-Platform 3.0**, BYD combines efficiency, safety, and affordability. With a growing global presence spanning **China, Europe, Southeast Asia**, and **Latin America**, BYD produces EVs, buses, and energy solutions, driving the shift toward **sustainable mobility**. Key models include the **BYD Dolphin**, **Seal**, and luxury offerings under **Yangwang**.
 	</p>
 	<p>
 	BYD has 8 models with total 12 variants.

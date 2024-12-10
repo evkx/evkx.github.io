@@ -83,11 +83,11 @@ The Lucid Gravity Grand Touring lets the user select different [drive modes](../
 
 ### Brakes
 
-The Lucid Gravity Grand Touring is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 386 mm, while the rear discs are 381 mm.
+The Lucid Gravity Grand Touring is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 390 mm, while the rear discs are 388 mm.
 
 ### Regenerative Braking
 
-[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). This model offers three stopping modes for one-pedal driving: <ul><li>**Hold mode** brings the vehicle to a complete stop using friction brakes</li><li>**Roll mode** allows the vehicle to roll until it stops naturally</li><li>**Creep mode** moves the car forward at low speed</li></ul>
+[Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. This model offers three stopping modes for one-pedal driving: <ul><li>**Hold mode** brings the vehicle to a complete stop using friction brakes</li><li>**Roll mode** allows the vehicle to roll until it stops naturally</li><li>**Creep mode** moves the car forward at low speed</li></ul>
 
 Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are two levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
