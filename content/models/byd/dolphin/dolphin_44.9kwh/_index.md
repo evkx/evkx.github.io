@@ -1,7 +1,7 @@
 ---
 title: BYD Dolphin 44.9kWh
 linktitle: "Dolphin 44.9kWh"
-description: "BYD Dolphin 44.9kWh is an all-electric crossover with a WLTP range of up to 340 km (211 miles). EVKX.net has all the details."
+description: "BYD Dolphin 44.9kWh is an all-electric hatchback with a WLTP range of up to 340 km (211 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -50,6 +50,10 @@ The standard onboard charger supports up to 7 kW for Level 1 and Level 2 AC char
 
 The charge port is conveniently located on the [right front side](../../../../technology/charging/connectors/#front-side), facilitating easy access at charging stations where you park parallel to the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
+### Bidirectional Charging
+
+This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 2.2 kW of power, including the ability to charge other vehicles.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -60,7 +64,7 @@ The BYD Dolphin 44.9kWh has a front-wheel drive system supported by one motor on
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 130 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has a fixed height and damping. The ground clearance with this suspension is 130 mm.
 
 ### Steering
 
@@ -77,7 +81,7 @@ The BYD Dolphin 44.9kWh lets the user select different [drive modes](../../../..
 
 ### Brakes
 
-The BYD Dolphin 44.9kWh is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
+The BYD Dolphin 44.9kWh is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 276 mm, while the rear discs are 262 mm.
 
 ### Regenerative Braking
 
@@ -89,7 +93,7 @@ The maximum regenerative power is 100 kW.
 
 ## Exterior
 
-The BYD Dolphin 44.9kWh, with dimensions of 4290 mm in length, 1770 mm in width, and 1570 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The BYD Dolphin 44.9kWh is available in a total of 6 solid paint colors.
+The BYD Dolphin 44.9kWh, with dimensions of 4290 mm in length, 1770 mm in width, and 1570 mm in height, falls into the C-segment cars, also known as compact cars, strike a balance between size, performance, and affordability, making them versatile for a variety of drivers. The BYD Dolphin 44.9kWh is available in a total of 6 solid paint colors.
 
 You can select from multiple wheel designs, all available in the same size, on the BYD Dolphin 44.9kWh, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
@@ -290,6 +294,8 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/trunk_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1776"  >}}
 
 ## Availability & Pricing
+
+The BYD Dolphin 44.9kWh had its world premiere on 13.08.2021, with deliveries starting in January 2022.
 
 ## Alternative Models
 

@@ -34,18 +34,18 @@ Lucid Gravity Grand Touring levererar en hisnande maxeffekt på 618 KW (840 hk/8
 
 ## Batteri, räckvidd och laddning
 
-Batteriet med hög kapacitet har en bruttokapacitet på 119,0 kWh och en nettoanvändbar kapacitet på 118,0 kWh, vilket ger en 1,0 kWh buffert (0,8%) för batteriskydd. Med en driftspänning på 800 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter.
+Batteriet med hög kapacitet har en bruttokapacitet på 121,0 kWh och en nettoanvändbar kapacitet på 120,0 kWh, vilket ger en 1,0 kWh buffert (0,8%) för batteriskydd. Med en driftspänning på 800 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter.
 
 Den [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) beräknade räckvidden varierar mellan 450 till 440 miles (724-708 km), beroende på fordonets konfiguration och tillval. Till exempel kan större hjul öka energiförbrukningen och minska den totala räckvidden.
 Energiförbrukningsnivåerna är 3,8 mi/kWh för basmodellen och 3,7 mi/kWh för toppversionen, enligt EPA standardtestet. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Fordonet stöder snabbladdning med likström med en maximal effekt på  kW. Laddning från 0% till 100% tar ungefär 74 minuter, medan ett mer typiskt scenario från 10% till 80% tar 29 minuter med en genomsnittlig laddningshastighet på 171 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 0% till 45%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 175 kW, där varje laddningssession tar cirka 18 minuter och 12 sekunder. Denna effektiva laddningsförmåga gör Lucid Gravity Grand Touring till ett bekvämt alternativ för långdistansresor.
+Fordonet stöder snabbladdning med likström med en maximal effekt på  kW. Laddning från 0% till 100% tar ungefär 75 minuter, medan ett mer typiskt scenario från 10% till 80% tar 30 minuter med en genomsnittlig laddningshastighet på 171 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 0% till 45%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 176 kW, där varje laddningssession tar cirka 18 minuter och 25 sekunder. Denna effektiva laddningsförmåga gör Lucid Gravity Grand Touring till ett bekvämt alternativ för långdistansresor.
 
-I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 21 kWh/100 km, skulle resan ta ungefär 8 timmar och 51 minuter, med två laddningsstopp från 0% till 39%, totalt 32 minuters laddtid.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 21 kWh/100 km, skulle resan ta ungefär 8 timmar och 51 minuter, med två laddningsstopp från 0% till 38%, totalt 31 minuters laddtid.
 
 ### Inbyggd laddare
 
-Den standard inbyggda laddaren stöder upp till 22 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 5 timmar och 21 minuter vid hemmaladdning.
+Den standard inbyggda laddaren stöder upp till 22 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 5 timmar och 27 minuter vid hemmaladdning.
 
 ### Laddningsport
 

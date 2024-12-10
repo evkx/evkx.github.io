@@ -34,18 +34,18 @@ Lucid Gravity Grand Touring leverer en imponerende maksimal effekt på 618 KW (8
 
 ## Batteri, rekkevidde og lading
 
-Batteriet med høy kapasitet har en brutto kapasitet på 119,0 kWh og en netto brukbar kapasitet på 118,0 kWh, som gir en 1,0 kWh buffer (0,8%) for batteribeskyttelse. Med en driftsspenning på 800 volt, kvalifiserer det som et 800-volts batterisystem. Denne høye spenningen er avgjørende for systemets ladeegenskaper.
+Batteriet med høy kapasitet har en brutto kapasitet på 121,0 kWh og en netto brukbar kapasitet på 120,0 kWh, som gir en 1,0 kWh buffer (0,8%) for batteribeskyttelse. Med en driftsspenning på 800 volt, kvalifiserer det som et 800-volts batterisystem. Denne høye spenningen er avgjørende for systemets ladeegenskaper.
 
 [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimert rekkevidde varierer mellom 450 til 440 miles (724-708 km), avhengig av bilens konfigurasjon og valg. For eksempel kan større hjul øke energiforbruket og redusere total rekkevidde.
 Energiforbruksratene er 3,8 mi/kWh for basismodellen og 3,7 mi/kWh for toppversjonen, ifølge EPA standardtest. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på  kW. Lading fra 0% til 100% tar omtrent 74 minutter, mens et mer typisk scenario fra 10% til 80% tar 29 minutter med en gjennomsnittlig ladehastighet på 171 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 0% til 45%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 175 kW, hvor hver ladeøkt tar omtrent 18 minutter og 12 sekunder. Denne effektive ladekapasiteten gjør Lucid Gravity Grand Touring til et praktisk alternativ for langdistansekjøring.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på  kW. Lading fra 0% til 100% tar omtrent 75 minutter, mens et mer typisk scenario fra 10% til 80% tar 30 minutter med en gjennomsnittlig ladehastighet på 171 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 0% til 45%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 176 kW, hvor hver ladeøkt tar omtrent 18 minutter og 25 sekunder. Denne effektive ladekapasiteten gjør Lucid Gravity Grand Touring til et praktisk alternativ for langdistansekjøring.
 
-I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 21 kWh/100 km, vil turen ta omtrent 8 timer og 51 minutter, og kreve to ladestopp fra 0% til 39%, totalt 32 minutter ladetid.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 21 kWh/100 km, vil turen ta omtrent 8 timer og 51 minutter, og kreve to ladestopp fra 0% til 38%, totalt 31 minutter ladetid.
 
 ### Innebygd lader
 
-Den standard innebygde laderen støtter opptil 22 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 5 timer og 21 minutter ved bruk av et hjemmeoppsett.
+Den standard innebygde laderen støtter opptil 22 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 5 timer og 27 minutter ved bruk av et hjemmeoppsett.
 
 ### Ladekontakt
 

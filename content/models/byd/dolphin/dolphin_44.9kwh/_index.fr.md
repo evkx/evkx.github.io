@@ -1,7 +1,7 @@
 ---
 title: BYD Dolphin 44.9kWh
 linktitle: "Dolphin 44.9kWh"
-description: "BYD Dolphin 44.9kWh est un crossover entièrement électrique avec une autonomie de WLTP allant jusqu'à 340 km (211 miles). EVKX.net a tous les détails."
+description: "BYD Dolphin 44.9kWh est une citadine entièrement électrique avec une autonomie de WLTP allant jusqu'à 340 km (211 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -50,6 +50,10 @@ Le chargeur embarqué standard prend en charge jusqu'à 7 kW pour la charge AC d
 
 Le port de charge est situé sur le [côté avant droit](../../../../technology/charging/connectors/#front-side), facilitant l'accès aux stations de charge où vous vous garez parallèlement au chargeur. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
+### Charge bidirectionnelle
+
+Ce modèle prend en charge le V2L (Vehicle to Load), vous permettant d'alimenter des équipements électriques nécessitant jusqu'à 2,2 kW de puissance, y compris la possibilité de charger d'autres véhicules.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -60,7 +64,7 @@ Le BYD Dolphin 44.9kWh dispose d'un système de traction avant soutenu par un mo
 
 ### Suspension
 
-La suspension avant est à [jambes de force MacPherson](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est à [essieu de torsion](../../../../technology/suspension/#torsion-beam). La suspension standard comprend des ressorts en acier et des amortisseurs hydrauliques. La suspension du  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 130 mm.
+La suspension avant est à [jambes de force MacPherson](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est à [essieu de torsion](../../../../technology/suspension/#torsion-beam). La suspension standard comprend des ressorts en acier et des amortisseurs hydrauliques. La suspension du standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 130 mm.
 
 ### Direction
 
@@ -77,7 +81,7 @@ Le BYD Dolphin 44.9kWh permet à l'utilisateur de sélectionner différents [mod
 
 ### Freins
 
-Le BYD Dolphin 44.9kWh est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière.
+Le BYD Dolphin 44.9kWh est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière. Les disques avant mesurent 276 mm, tandis que les disques arrière sont de 262 mm.
 
 ### Freinage Régénératif
 
@@ -89,7 +93,7 @@ La puissance régénérative maximale est de 100 kW.
 
 ## Extérieur
 
-Le BYD Dolphin 44.9kWh, avec des dimensions de 4290 mm de longueur, 1770 mm de largeur et 1570 mm de hauteur, appartient au segment des B-SUV, également appelés SUV sous-compacts ou crossovers, offrant une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite surélevée, l'espace de chargement accru et le style robuste d'un SUV. Le BYD Dolphin 44.9kWh est disponible en un total de 6 couleurs de peinture unies.
+Le BYD Dolphin 44.9kWh, avec des dimensions de 4290 mm de longueur, 1770 mm de largeur et 1570 mm de hauteur, appartient au segment C, également connu sous le nom de voitures compactes, qui offrent un équilibre entre taille, performance et accessibilité, les rendant polyvalentes pour une variété de conducteurs. Le BYD Dolphin 44.9kWh est disponible en un total de 6 couleurs de peinture unies.
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur le BYD Dolphin 44.9kWh, vous permettant de personnaliser votre véhicule pour correspondre à votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
@@ -290,6 +294,8 @@ Ce modèle n'est pas disponible avec une barre de remorquage. Donc, pour tirer u
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/trunk_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1776"  >}}
 
 ## Disponibilité et Tarification
+
+Le BYD Dolphin 44.9kWh a eu sa première mondiale le 13.08.2021, avec des livraisons commençant en January 2022.
 
 ## Modèles Alternatifs
 

@@ -34,18 +34,18 @@ Der Lucid Gravity Grand Touring liefert eine atemberaubende maximale Leistung vo
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 119,0 kWh und eine nutzbare Nettokapazität von 118,0 kWh, was einen Puffer von 1,0 kWh (0,8%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 800 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 121,0 kWh und eine nutzbare Nettokapazität von 120,0 kWh, was einen Puffer von 1,0 kWh (0,8%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 800 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
 
 Die [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) geschätzte Reichweite variiert zwischen 450 und 440 Meilen (724-708 km), abhängig von der Konfiguration und den Optionen des Fahrzeugs. Zum Beispiel können größere Räder den Energieverbrauch erhöhen und die Gesamtreichweite verringern.
 Die Energieverbrauchswerte betragen 3,8 mi/kWh für das Basismodell und 3,7 mi/kWh für die Spitzenversion nach dem EPA-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von  kW. Das Laden von 0% auf 100% dauert etwa 74 Minuten, während ein typischer Ladevorgang von 10% auf 80% 29 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 171 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 0% und 45%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 175 kW, wobei jede Ladesitzung etwa 18 Minuten und 12 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Lucid Gravity Grand Touring zu einer bequemen Option für Langstreckenreisen.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von  kW. Das Laden von 0% auf 100% dauert etwa 75 Minuten, während ein typischer Ladevorgang von 10% auf 80% 30 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 171 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 0% und 45%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 176 kW, wobei jede Ladesitzung etwa 18 Minuten und 25 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Lucid Gravity Grand Touring zu einer bequemen Option für Langstreckenreisen.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 21 kWh/100 km, würde die Fahrt etwa 8 Stunden und 51 Minuten dauern. Diese Reise würde zwei Ladestopps von 0% auf 39% erfordern, mit einer gesamten Ladezeit von 32 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 21 kWh/100 km, würde die Fahrt etwa 8 Stunden und 51 Minuten dauern. Diese Reise würde zwei Ladestopps von 0% auf 38% erfordern, mit einer gesamten Ladezeit von 31 Minuten.
 
 ### Bordladegerät
 
-Das Standard-Bordladegerät unterstützt bis zu 22 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 5 Stunden und 21 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 22 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 5 Stunden und 27 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 

@@ -134,7 +134,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				119 kWh
+				121 kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				118 kWh
+				120 kWh
 			</td>
 		</tr>
 		<tr>

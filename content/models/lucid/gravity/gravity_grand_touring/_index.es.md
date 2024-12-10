@@ -34,18 +34,18 @@ El Lucid Gravity Grand Touring ofrece una impresionante potencia máxima de 618 
 
 ## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 119,0 kWh y una capacidad neta utilizable de 118,0 kWh, proporcionando un buffer de 1,0 kWh (0,8%) para la protección de la batería. Operando a un voltaje nominal de 800 voltios, califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
+La batería de alta capacidad tiene una capacidad bruta de 121,0 kWh y una capacidad neta utilizable de 120,0 kWh, proporcionando un buffer de 1,0 kWh (0,8%) para la protección de la batería. Operando a un voltaje nominal de 800 voltios, califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
 La autonomía estimada por la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental) varía entre 450 a 440 millas (724-708 km), dependiendo de la configuración y las opciones del vehículo. Por ejemplo, las ruedas más grandes pueden aumentar el consumo de energía y reducir la autonomía general.
 Las tasas de consumo de energía son 3,8 mi/kWh para el modelo base y 3,7 mi/kWh para la versión de gama alta, según la prueba estándar EPA. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-El vehículo admite carga rápida DC con una potencia máxima de  kW. Cargar del 0% al 100% toma aproximadamente 74 minutos, mientras que un escenario más típico del 10% al 80% toma 29 minutos con una velocidad de carga promedio de 171 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 0% al 45%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 175 kW, con cada sesión de carga tomando aproximadamente 18 minutos y 12 segundos. Esta capacidad de carga eficiente hace que el Lucid Gravity Grand Touring sea una opción conveniente para viajes de larga distancia.
+El vehículo admite carga rápida DC con una potencia máxima de  kW. Cargar del 0% al 100% toma aproximadamente 75 minutos, mientras que un escenario más típico del 10% al 80% toma 30 minutos con una velocidad de carga promedio de 171 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 0% al 45%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 176 kW, con cada sesión de carga tomando aproximadamente 18 minutos y 25 segundos. Esta capacidad de carga eficiente hace que el Lucid Gravity Grand Touring sea una opción conveniente para viajes de larga distancia.
 
-En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 21 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 51 minutos, requiriendo dos paradas de carga del 0% al 39%, totalizando 32 minutos de tiempo de carga.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 21 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 51 minutos, requiriendo dos paradas de carga del 0% al 38%, totalizando 31 minutos de tiempo de carga.
 
 ### Cargador a Bordo
 
-El cargador a bordo estándar admite hasta 22 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 5 horas y 21 minutos usando una configuración doméstica.
+El cargador a bordo estándar admite hasta 22 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 5 horas y 27 minutos usando una configuración doméstica.
 
 ### Puerto de Carga
 

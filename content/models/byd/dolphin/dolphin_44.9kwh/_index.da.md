@@ -1,7 +1,7 @@
 ---
 title: BYD Dolphin 44.9kWh
 linktitle: "Dolphin 44.9kWh"
-description: "BYD Dolphin 44.9kWh er en elektrisk crossover med en WLTP rækkevidde på op til 340 km (211 miles). EVKX.net har alle detaljerne."
+description: "BYD Dolphin 44.9kWh er en elektrisk hatchback med en WLTP rækkevidde på op til 340 km (211 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -50,6 +50,10 @@ Den standard indbyggede oplader understøtter op til 7 kW for Level 1 og Level 2
 
 Ladeporten er bekvemt placeret på [højre frontside](../../../../technology/charging/connectors/#front-side), hvilket letter adgangen ved ladestationer hvor du parkerer parallelt med laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
+### Tovejs opladning
+
+Denne model understøtter V2L (Vehicle to Load), som gør det muligt at forsyne elektrisk udstyr med op til 2,2 kW strøm, inklusive muligheden for at oplade andre køretøjer.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -60,7 +64,7 @@ BYD Dolphin 44.9kWh har et forhjulstræksystem understøttet af én motor på fo
 
 ### Affjedring
 
-Forhjulsophænget er [MacPherson fjederben](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [torsionsstang](../../../../technology/suspension/#torsion-beam). Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere. affjedringen har fast højde og dæmpning. Frihøjden med denne affjedring er 130 mm.
+Forhjulsophænget er [MacPherson fjederben](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [torsionsstang](../../../../technology/suspension/#torsion-beam). Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere. standard affjedringen har fast højde og dæmpning. Frihøjden med denne affjedring er 130 mm.
 
 ### Styring
 
@@ -77,7 +81,7 @@ BYD Dolphin 44.9kWh lader brugeren vælge forskellige [køretilstande](../../../
 
 ### Bremser
 
-BYD Dolphin 44.9kWh er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag.
+BYD Dolphin 44.9kWh er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag. De forreste skiver måler 276 mm, mens de bageste skiver er 262 mm.
 
 ### Regenerativ bremsning
 
@@ -89,7 +93,7 @@ Den maksimale regenerative effekt er 100 kW.
 
 ## Eksteriør
 
-BYD Dolphin 44.9kWh, med dimensioner på 4290 mm i længde, 1770 mm i bredde og 1570 mm i højde, tilhører B-SUV segmentet, også kendt som kompakte SUV'er eller crossovers, der kombinerer B-segment bilers kompakte størrelse og manøvredygtighed med en højere køreposition, øget bagagerumsplads og robust styling fra en SUV. BYD Dolphin 44.9kWh fås i alt i 6 almindelige lakfarver.
+BYD Dolphin 44.9kWh, med dimensioner på 4290 mm i længde, 1770 mm i bredde og 1570 mm i højde, tilhører C-segment biler, også kendt som kompaktbiler, der balancerer størrelse, ydeevne og pris, hvilket gør dem alsidige for mange forskellige bilister. BYD Dolphin 44.9kWh fås i alt i 6 almindelige lakfarver.
 
 Du kan vælge mellem flere hjuldesign, alle tilgængelige i samme størrelse, på BYD Dolphin 44.9kWh, så du kan personliggøre din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
@@ -290,6 +294,8 @@ Denne model fås ikke med anhængertræk. Så hvis du skal trække en trailer, m
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/trunk_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1776"  >}}
 
 ## Tilgængelighed & Priser
+
+BYD Dolphin 44.9kWh havde sin verdenspremiere den 13.08.2021, og leveringerne startede i January 2022.
 
 ## Alternative modeller
 

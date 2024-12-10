@@ -1,7 +1,7 @@
 ---
 title: BYD Dolphin 60.4kWh
 linktitle: "Dolphin 60.4kWh"
-description: "BYD Dolphin 60.4kWh er en elektrisk crossover med en WLTP rekkevidde på opptil 427 km (265 miles). EVKX.net har alle detaljene."
+description: "BYD Dolphin 60.4kWh er en elektrisk kombi med en WLTP rekkevidde på opptil 427 km (265 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -50,6 +50,10 @@ Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-l
 
 Ladeporten er praktisk plassert på [høyre frontside](../../../../technology/charging/connectors/#front-side), som gjør det enkelt å bruke ladestasjoner hvor du parkerer parallelt med laderen. Kontakttypene varierer etter marked: denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. Se fullstendige spesifikasjoner for informasjon om alle markeder.
 
+### Toveis lading
+
+Denne modellen støtter V2L (Vehicle to Load), som lar deg drive elektrisk utstyr som krever opptil 2,2 kW strøm, inkludert muligheten til å lade andre kjøretøy.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -60,7 +64,7 @@ BYD Dolphin 60.4kWh har et forhjulsdrift-system med én motor på forakselen. Mo
 
 ### Fjæring
 
-Forhjulsopphenget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og bakhjulsopphenget er [Multilink](../../../../technology/suspension/#multilink). Standardfjæringen inkluderer stålfjærer og hydrauliske dempere. har fast høyde og demping på fjæringen. Bakkeklaring med denne hjulopphenget er 130 mm.
+Forhjulsopphenget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og bakhjulsopphenget er [Multilink](../../../../technology/suspension/#multilink). Standardfjæringen inkluderer stålfjærer og hydrauliske dempere. standard har fast høyde og demping på fjæringen. Bakkeklaring med denne hjulopphenget er 130 mm.
 
 ### Styring
 
@@ -89,7 +93,7 @@ Den maksimale regenerative effekten er 100 kW.
 
 ## Eksteriør
 
-BYD Dolphin 60.4kWh, med dimensjoner på 4290 mm i lengde, 1770 mm i bredde og 1570 mm i høyde, tilhører B-SUV segmentet. Også kjent som kompakte SUVer eller crossovere, kombinerer disse bilene den kompakte størrelsen og manøvrerbarheten til B-segment biler med høyere kjøreposisjon, økt bagasjeplass og robust styling fra en SUV. BYD Dolphin 60.4kWh er tilgjengelig i totalt 6 solide lakkfarger.
+BYD Dolphin 60.4kWh, med dimensjoner på 4290 mm i lengde, 1770 mm i bredde og 1570 mm i høyde, tilhører C-segmentet. Også kjent som kompaktbiler, gir disse en balanse mellom størrelse, ytelse og pris, noe som gjør dem allsidige for mange sjåfører. BYD Dolphin 60.4kWh er tilgjengelig i totalt 6 solide lakkfarger.
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på BYD Dolphin 60.4kWh, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
@@ -291,6 +295,8 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. Så for å trekke tilhen
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
 
 ## Tilgjengelighet og priser
+
+BYD Dolphin 60.4kWh hadde sin verdenspremiere 13.08.2021, med leveringer som startet i January 2022.
 
 ## Alternative modeller
 

@@ -1,7 +1,7 @@
 ---
 title: BYD Dolphin 60.4kWh
 linktitle: "Dolphin 60.4kWh"
-description: "BYD Dolphin 60.4kWh ist ein vollelektrisches Crossover mit einer Reichweite von bis zu 427 km (265 Meilen). EVKX.net hat alle Details."
+description: "BYD Dolphin 60.4kWh ist ein vollelektrisches Schrägheck mit einer Reichweite von bis zu 427 km (265 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -50,6 +50,10 @@ Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 A
 
 Der Ladeanschluss befindet sich bequem an der [rechten Vorderseite](../../../../technology/charging/connectors/#front-side), was den Zugang an Ladestationen erleichtert, bei denen Sie parallel zum Ladegerät parken. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
 
+### Bidirektionales Laden
+
+Dieses Modell unterstützt V2L (Vehicle 2 Load), was bedeutet, dass Sie elektrische Geräte mit bis zu 2,2 kW Leistung betreiben können, einschließlich des Ladens anderer Fahrzeuge.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -60,7 +64,7 @@ Der BYD Dolphin 60.4kWh hat ein Frontantriebssystem, das von einem Motor an der 
 
 ### Federung
 
-Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 130 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die standard Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 130 mm.
 
 ### Lenkung
 
@@ -89,7 +93,7 @@ Die maximale regenerative Leistung beträgt 100 kW.
 
 ## Exterieur
 
-Der BYD Dolphin 60.4kWh, mit Abmessungen von 4290 mm Länge, 1770 mm Breite und 1570 mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Der BYD Dolphin 60.4kWh ist in insgesamt 6 Unilackfarben erhältlich.
+Der BYD Dolphin 60.4kWh, mit Abmessungen von 4290 mm Länge, 1770 mm Breite und 1570 mm Höhe, fällt in die C-Segment-Autos, auch als Kompaktwagen bekannt, bieten eine Balance zwischen Größe, Leistung und Erschwinglichkeit, was sie vielseitig für eine Vielzahl von Fahrern macht. Der BYD Dolphin 60.4kWh ist in insgesamt 6 Unilackfarben erhältlich.
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den BYD Dolphin 60.4kWh erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -291,6 +295,8 @@ Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhän
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
 
 ## Verfügbarkeit & Preise
+
+Der BYD Dolphin 60.4kWh feierte seine Weltpremiere am 13.08.2021, mit Lieferungen ab January 2022.
 
 ## Alternative Modelle
 

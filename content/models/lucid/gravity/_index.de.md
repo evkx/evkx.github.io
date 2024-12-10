@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="gravity_grand_touring/"><img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_grand_touring/main_1_xst.jpeg" class="img-fluid" width="400px" height="267px" alt="Gravity Grand Touring" ></a>
-<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 119 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 121 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

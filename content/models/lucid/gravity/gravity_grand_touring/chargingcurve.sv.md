@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Max C-värde
 			</td>
 			<td>
-				2,67
+				2,63
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Genomsnittlig C-värde
 			</td>
 			<td>
-				1,54
+				1,51
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal laddningshastighet inklusive 5 minuters förlust
 			</td>
 			<td>
-				175,1kW
+				175,9kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal laddningstid
 			</td>
 			<td>
-				18m12s
+				18m25s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Laddningstid 0-100%
 			</td>
 			<td>
-				1 h 14 m 6 s
+				1 h 15 m 22 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-100%
 			</td>
 			<td>
-				1 h 11 m 30 s
+				1 h 12 m 43 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-80%
 			</td>
 			<td>
-				 29 m 1 s
+				 29 m 30 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,7 +169,7 @@ navicon: bi-battery-charging
 				Räckvidd per minut 0-100%
 			</td>
 			<td>
-				9,8 km (6,1 mi)
+				9,6 km (6,0 mi)
 			</td>
 			<td>
 				?
@@ -186,7 +186,7 @@ navicon: bi-battery-charging
 				Räckvidd per minut 10-100%
 			</td>
 			<td>
-				9,1 km (5,7 mi)
+				8,9 km (5,5 mi)
 			</td>
 			<td>
 				?
@@ -203,7 +203,7 @@ navicon: bi-battery-charging
 				Räckvidd per minut 10-80%
 			</td>
 			<td>
-				17,5 km (10,9 mi)
+				17,1 km (10,6 mi)
 			</td>
 			<td>
 				?
@@ -282,7 +282,7 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				275 kW
 			</td>
 			<td>
-				 0 m 34 s
+				 0 m 35 s
 			</td>
 			<td>
 				2,4 kWh
@@ -296,10 +296,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				284 kW
 			</td>
 			<td>
-				 0 m 50 s
+				 0 m 51 s
 			</td>
 			<td>
-				3,5 kWh
+				3,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -310,10 +310,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				294 kW
 			</td>
 			<td>
-				 1 m 6 s
+				 1 m 7 s
 			</td>
 			<td>
-				4,7 kWh
+				4,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -324,10 +324,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				298 kW
 			</td>
 			<td>
-				 1 m 22 s
+				 1 m 23 s
 			</td>
 			<td>
-				5,9 kWh
+				6,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -338,10 +338,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				305 kW
 			</td>
 			<td>
-				 1 m 37 s
+				 1 m 38 s
 			</td>
 			<td>
-				7,1 kWh
+				7,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -352,10 +352,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				306 kW
 			</td>
 			<td>
-				 1 m 52 s
+				 1 m 54 s
 			</td>
 			<td>
-				8,3 kWh
+				8,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,10 +366,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				312 kW
 			</td>
 			<td>
-				 2 m 7 s
+				 2 m 9 s
 			</td>
 			<td>
-				9,4 kWh
+				9,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -380,10 +380,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				318 kW
 			</td>
 			<td>
-				 2 m 21 s
+				 2 m 23 s
 			</td>
 			<td>
-				10,6 kWh
+				10,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -394,10 +394,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				318 kW
 			</td>
 			<td>
-				 2 m 35 s
+				 2 m 38 s
 			</td>
 			<td>
-				11,8 kWh
+				12,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -408,10 +408,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				316 kW
 			</td>
 			<td>
-				 2 m 50 s
+				 2 m 53 s
 			</td>
 			<td>
-				13,0 kWh
+				13,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -422,10 +422,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				314 kW
 			</td>
 			<td>
-				 3 m 4 s
+				 3 m 7 s
 			</td>
 			<td>
-				14,2 kWh
+				14,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -436,10 +436,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				312 kW
 			</td>
 			<td>
-				 3 m 19 s
+				 3 m 22 s
 			</td>
 			<td>
-				15,3 kWh
+				15,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -450,10 +450,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				308 kW
 			</td>
 			<td>
-				 3 m 34 s
+				 3 m 37 s
 			</td>
 			<td>
-				16,5 kWh
+				16,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -464,10 +464,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				307 kW
 			</td>
 			<td>
-				 3 m 48 s
+				 3 m 52 s
 			</td>
 			<td>
-				17,7 kWh
+				18,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -478,10 +478,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				305 kW
 			</td>
 			<td>
-				 4 m 3 s
+				 4 m 8 s
 			</td>
 			<td>
-				18,9 kWh
+				19,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -492,10 +492,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				301 kW
 			</td>
 			<td>
-				 4 m 18 s
+				 4 m 23 s
 			</td>
 			<td>
-				20,1 kWh
+				20,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -506,10 +506,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				297 kW
 			</td>
 			<td>
-				 4 m 34 s
+				 4 m 38 s
 			</td>
 			<td>
-				21,2 kWh
+				21,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -520,10 +520,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				293 kW
 			</td>
 			<td>
-				 4 m 49 s
+				 4 m 54 s
 			</td>
 			<td>
-				22,4 kWh
+				22,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -534,10 +534,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				288 kW
 			</td>
 			<td>
-				 5 m 5 s
+				 5 m 10 s
 			</td>
 			<td>
-				23,6 kWh
+				24,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -548,10 +548,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				284 kW
 			</td>
 			<td>
-				 5 m 21 s
+				 5 m 26 s
 			</td>
 			<td>
-				24,8 kWh
+				25,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -562,10 +562,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				280 kW
 			</td>
 			<td>
-				 5 m 37 s
+				 5 m 43 s
 			</td>
 			<td>
-				26,0 kWh
+				26,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -576,10 +576,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				277 kW
 			</td>
 			<td>
-				 5 m 54 s
+				 6 m 0 s
 			</td>
 			<td>
-				27,1 kWh
+				27,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -590,10 +590,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				272 kW
 			</td>
 			<td>
-				 6 m 10 s
+				 6 m 16 s
 			</td>
 			<td>
-				28,3 kWh
+				28,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -604,10 +604,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				268 kW
 			</td>
 			<td>
-				 6 m 27 s
+				 6 m 34 s
 			</td>
 			<td>
-				29,5 kWh
+				30,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -618,10 +618,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				265 kW
 			</td>
 			<td>
-				 6 m 44 s
+				 6 m 51 s
 			</td>
 			<td>
-				30,7 kWh
+				31,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -632,10 +632,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				260 kW
 			</td>
 			<td>
-				 7 m 2 s
+				 7 m 9 s
 			</td>
 			<td>
-				31,9 kWh
+				32,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -646,10 +646,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				257 kW
 			</td>
 			<td>
-				 7 m 19 s
+				 7 m 27 s
 			</td>
 			<td>
-				33,0 kWh
+				33,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -660,10 +660,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				254 kW
 			</td>
 			<td>
-				 7 m 37 s
+				 7 m 45 s
 			</td>
 			<td>
-				34,2 kWh
+				34,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -674,10 +674,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				250 kW
 			</td>
 			<td>
-				 7 m 55 s
+				 8 m 3 s
 			</td>
 			<td>
-				35,4 kWh
+				36,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -688,10 +688,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				246 kW
 			</td>
 			<td>
-				 8 m 14 s
+				 8 m 22 s
 			</td>
 			<td>
-				36,6 kWh
+				37,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -702,10 +702,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				241 kW
 			</td>
 			<td>
-				 8 m 32 s
+				 8 m 41 s
 			</td>
 			<td>
-				37,8 kWh
+				38,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -716,10 +716,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				237 kW
 			</td>
 			<td>
-				 8 m 52 s
+				 9 m 1 s
 			</td>
 			<td>
-				38,9 kWh
+				39,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -730,10 +730,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				233 kW
 			</td>
 			<td>
-				 9 m 11 s
+				 9 m 20 s
 			</td>
 			<td>
-				40,1 kWh
+				40,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -744,10 +744,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				228 kW
 			</td>
 			<td>
-				 9 m 31 s
+				 9 m 41 s
 			</td>
 			<td>
-				41,3 kWh
+				42,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -758,10 +758,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				225 kW
 			</td>
 			<td>
-				 9 m 51 s
+				 10 m 1 s
 			</td>
 			<td>
-				42,5 kWh
+				43,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -772,10 +772,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				221 kW
 			</td>
 			<td>
-				 10 m 11 s
+				 10 m 22 s
 			</td>
 			<td>
-				43,7 kWh
+				44,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -786,10 +786,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				217 kW
 			</td>
 			<td>
-				 10 m 32 s
+				 10 m 43 s
 			</td>
 			<td>
-				44,8 kWh
+				45,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -800,10 +800,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				211 kW
 			</td>
 			<td>
-				 10 m 54 s
+				 11 m 5 s
 			</td>
 			<td>
-				46,0 kWh
+				46,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -814,10 +814,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				208 kW
 			</td>
 			<td>
-				 11 m 15 s
+				 11 m 27 s
 			</td>
 			<td>
-				47,2 kWh
+				48,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -828,10 +828,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				205 kW
 			</td>
 			<td>
-				 11 m 38 s
+				 11 m 49 s
 			</td>
 			<td>
-				48,4 kWh
+				49,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -842,10 +842,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				200 kW
 			</td>
 			<td>
-				 12 m 0 s
+				 12 m 12 s
 			</td>
 			<td>
-				49,6 kWh
+				50,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -856,10 +856,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				193 kW
 			</td>
 			<td>
-				 12 m 23 s
+				 12 m 36 s
 			</td>
 			<td>
-				50,7 kWh
+				51,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -870,10 +870,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				192 kW
 			</td>
 			<td>
-				 12 m 47 s
+				 13 m 0 s
 			</td>
 			<td>
-				51,9 kWh
+				52,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -884,10 +884,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				188 kW
 			</td>
 			<td>
-				 13 m 11 s
+				 13 m 25 s
 			</td>
 			<td>
-				53,1 kWh
+				54,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -898,10 +898,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				182 kW
 			</td>
 			<td>
-				 13 m 36 s
+				 13 m 50 s
 			</td>
 			<td>
-				54,3 kWh
+				55,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -912,10 +912,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				180 kW
 			</td>
 			<td>
-				 14 m 1 s
+				 14 m 15 s
 			</td>
 			<td>
-				55,5 kWh
+				56,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -926,10 +926,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				175 kW
 			</td>
 			<td>
-				 14 m 27 s
+				 14 m 42 s
 			</td>
 			<td>
-				56,6 kWh
+				57,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -940,10 +940,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				172 kW
 			</td>
 			<td>
-				 14 m 53 s
+				 15 m 8 s
 			</td>
 			<td>
-				57,8 kWh
+				58,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -954,10 +954,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				170 kW
 			</td>
 			<td>
-				 15 m 20 s
+				 15 m 35 s
 			</td>
 			<td>
-				59,0 kWh
+				60,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -968,10 +968,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				161 kW
 			</td>
 			<td>
-				 15 m 47 s
+				 16 m 4 s
 			</td>
 			<td>
-				60,2 kWh
+				61,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -982,10 +982,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				160 kW
 			</td>
 			<td>
-				 16 m 16 s
+				 16 m 32 s
 			</td>
 			<td>
-				61,4 kWh
+				62,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -996,10 +996,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				155 kW
 			</td>
 			<td>
-				 16 m 45 s
+				 17 m 2 s
 			</td>
 			<td>
-				62,5 kWh
+				63,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1010,10 +1010,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				152 kW
 			</td>
 			<td>
-				 17 m 15 s
+				 17 m 32 s
 			</td>
 			<td>
-				63,7 kWh
+				64,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1024,10 +1024,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				150 kW
 			</td>
 			<td>
-				 17 m 45 s
+				 18 m 3 s
 			</td>
 			<td>
-				64,9 kWh
+				66,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1038,10 +1038,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				147 kW
 			</td>
 			<td>
-				 18 m 16 s
+				 18 m 34 s
 			</td>
 			<td>
-				66,1 kWh
+				67,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1052,10 +1052,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				141 kW
 			</td>
 			<td>
-				 18 m 47 s
+				 19 m 7 s
 			</td>
 			<td>
-				67,3 kWh
+				68,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1066,10 +1066,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				138 kW
 			</td>
 			<td>
-				 19 m 20 s
+				 19 m 40 s
 			</td>
 			<td>
-				68,4 kWh
+				69,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1080,10 +1080,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				134 kW
 			</td>
 			<td>
-				 19 m 54 s
+				 20 m 14 s
 			</td>
 			<td>
-				69,6 kWh
+				70,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1094,10 +1094,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				134 kW
 			</td>
 			<td>
-				 20 m 28 s
+				 20 m 49 s
 			</td>
 			<td>
-				70,8 kWh
+				72,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1108,10 +1108,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				135 kW
 			</td>
 			<td>
-				 21 m 2 s
+				 21 m 23 s
 			</td>
 			<td>
-				72,0 kWh
+				73,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1122,10 +1122,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				139 kW
 			</td>
 			<td>
-				 21 m 35 s
+				 21 m 57 s
 			</td>
 			<td>
-				73,2 kWh
+				74,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1136,10 +1136,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				140 kW
 			</td>
 			<td>
-				 22 m 8 s
+				 22 m 30 s
 			</td>
 			<td>
-				74,3 kWh
+				75,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1150,10 +1150,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				142 kW
 			</td>
 			<td>
-				 22 m 40 s
+				 23 m 3 s
 			</td>
 			<td>
-				75,5 kWh
+				76,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1164,10 +1164,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				141 kW
 			</td>
 			<td>
-				 23 m 13 s
+				 23 m 36 s
 			</td>
 			<td>
-				76,7 kWh
+				78,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1178,10 +1178,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				142 kW
 			</td>
 			<td>
-				 23 m 45 s
+				 24 m 9 s
 			</td>
 			<td>
-				77,9 kWh
+				79,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1192,10 +1192,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				140 kW
 			</td>
 			<td>
-				 24 m 17 s
+				 24 m 42 s
 			</td>
 			<td>
-				79,1 kWh
+				80,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1206,10 +1206,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				140 kW
 			</td>
 			<td>
-				 24 m 50 s
+				 25 m 15 s
 			</td>
 			<td>
-				80,2 kWh
+				81,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1220,10 +1220,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				140 kW
 			</td>
 			<td>
-				 25 m 23 s
+				 25 m 48 s
 			</td>
 			<td>
-				81,4 kWh
+				82,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1234,10 +1234,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				140 kW
 			</td>
 			<td>
-				 25 m 55 s
+				 26 m 21 s
 			</td>
 			<td>
-				82,6 kWh
+				84,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1248,10 +1248,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				140 kW
 			</td>
 			<td>
-				 26 m 28 s
+				 26 m 55 s
 			</td>
 			<td>
-				83,8 kWh
+				85,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1262,10 +1262,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				141 kW
 			</td>
 			<td>
-				 27 m 0 s
+				 27 m 28 s
 			</td>
 			<td>
-				85,0 kWh
+				86,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1276,10 +1276,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				141 kW
 			</td>
 			<td>
-				 27 m 33 s
+				 28 m 1 s
 			</td>
 			<td>
-				86,1 kWh
+				87,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1290,10 +1290,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				141 kW
 			</td>
 			<td>
-				 28 m 5 s
+				 28 m 34 s
 			</td>
 			<td>
-				87,3 kWh
+				88,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1304,10 +1304,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				141 kW
 			</td>
 			<td>
-				 28 m 37 s
+				 29 m 7 s
 			</td>
 			<td>
-				88,5 kWh
+				90,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1318,10 +1318,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				141 kW
 			</td>
 			<td>
-				 29 m 10 s
+				 29 m 40 s
 			</td>
 			<td>
-				89,7 kWh
+				91,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1332,10 +1332,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				135 kW
 			</td>
 			<td>
-				 29 m 43 s
+				 30 m 13 s
 			</td>
 			<td>
-				90,9 kWh
+				92,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1346,10 +1346,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				125 kW
 			</td>
 			<td>
-				 30 m 18 s
+				 30 m 49 s
 			</td>
 			<td>
-				92,0 kWh
+				93,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1360,10 +1360,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				115 kW
 			</td>
 			<td>
-				 30 m 56 s
+				 31 m 28 s
 			</td>
 			<td>
-				93,2 kWh
+				94,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1374,10 +1374,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				112 kW
 			</td>
 			<td>
-				 31 m 36 s
+				 32 m 9 s
 			</td>
 			<td>
-				94,4 kWh
+				96,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1388,10 +1388,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				105 kW
 			</td>
 			<td>
-				 32 m 18 s
+				 32 m 51 s
 			</td>
 			<td>
-				95,6 kWh
+				97,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1402,10 +1402,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				97 kW
 			</td>
 			<td>
-				 33 m 4 s
+				 33 m 37 s
 			</td>
 			<td>
-				96,8 kWh
+				98,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1416,10 +1416,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				89 kW
 			</td>
 			<td>
-				 33 m 53 s
+				 34 m 27 s
 			</td>
 			<td>
-				97,9 kWh
+				99,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1430,10 +1430,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				82 kW
 			</td>
 			<td>
-				 34 m 46 s
+				 35 m 22 s
 			</td>
 			<td>
-				99,1 kWh
+				100,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1444,10 +1444,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				81 kW
 			</td>
 			<td>
-				 35 m 42 s
+				 36 m 19 s
 			</td>
 			<td>
-				100,3 kWh
+				102,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1458,10 +1458,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				80 kW
 			</td>
 			<td>
-				 36 m 39 s
+				 37 m 16 s
 			</td>
 			<td>
-				101,5 kWh
+				103,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1472,10 +1472,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				80 kW
 			</td>
 			<td>
-				 37 m 36 s
+				 38 m 14 s
 			</td>
 			<td>
-				102,7 kWh
+				104,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1486,10 +1486,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				79 kW
 			</td>
 			<td>
-				 38 m 34 s
+				 39 m 13 s
 			</td>
 			<td>
-				103,8 kWh
+				105,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1500,10 +1500,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				77 kW
 			</td>
 			<td>
-				 39 m 32 s
+				 40 m 12 s
 			</td>
 			<td>
-				105,0 kWh
+				106,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1514,10 +1514,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				77 kW
 			</td>
 			<td>
-				 40 m 31 s
+				 41 m 13 s
 			</td>
 			<td>
-				106,2 kWh
+				108,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1528,10 +1528,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				74 kW
 			</td>
 			<td>
-				 41 m 32 s
+				 42 m 14 s
 			</td>
 			<td>
-				107,4 kWh
+				109,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1542,10 +1542,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				67 kW
 			</td>
 			<td>
-				 42 m 37 s
+				 43 m 20 s
 			</td>
 			<td>
-				108,6 kWh
+				110,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1556,10 +1556,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				58 kW
 			</td>
 			<td>
-				 43 m 50 s
+				 44 m 34 s
 			</td>
 			<td>
-				109,7 kWh
+				111,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1570,10 +1570,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				48 kW
 			</td>
 			<td>
-				 45 m 16 s
+				 46 m 2 s
 			</td>
 			<td>
-				110,9 kWh
+				112,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1584,10 +1584,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				38 kW
 			</td>
 			<td>
-				 47 m 2 s
+				 47 m 50 s
 			</td>
 			<td>
-				112,1 kWh
+				114,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1598,10 +1598,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				29 kW
 			</td>
 			<td>
-				 49 m 19 s
+				 50 m 9 s
 			</td>
 			<td>
-				113,3 kWh
+				115,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1612,10 +1612,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				22 kW
 			</td>
 			<td>
-				 52 m 18 s
+				 53 m 11 s
 			</td>
 			<td>
-				114,5 kWh
+				116,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1626,10 +1626,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				16 kW
 			</td>
 			<td>
-				 56 m 18 s
+				 57 m 15 s
 			</td>
 			<td>
-				115,6 kWh
+				117,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1640,10 +1640,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				9 kW
 			</td>
 			<td>
-				1 h 2 m 24 s
+				1 h 3 m 27 s
 			</td>
 			<td>
-				116,8 kWh
+				118,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1654,10 +1654,10 @@ Lucid Gravity Grand Touring har batteriuppvärmning, vilket gör det lättare at
 				4 kW
 			</td>
 			<td>
-				1 h 14 m 6 s
+				1 h 15 m 22 s
 			</td>
 			<td>
-				118,0 kWh
+				120,0 kWh
 			</td>
 		</tr>
 	</tbody>

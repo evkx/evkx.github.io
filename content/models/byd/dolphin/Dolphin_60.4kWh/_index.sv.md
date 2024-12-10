@@ -1,7 +1,7 @@
 ---
 title: BYD Dolphin 60.4kWh
 linktitle: "Dolphin 60.4kWh"
-description: "BYD Dolphin 60.4kWh är en elektrisk crossover med en WLTP-räckvidd på upp till 427 km (265 miles). EVKX.net har alla detaljer."
+description: "BYD Dolphin 60.4kWh är en elektrisk halvkombi med en WLTP-räckvidd på upp till 427 km (265 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -50,6 +50,10 @@ Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 A
 
 Laddningsporten är bekvämt placerad på [höger framsida](../../../../technology/charging/connectors/#front-side), vilket underlättar åtkomst vid laddstationer där du parkerar parallellt med laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
 
+### Dubbelriktad laddning
+
+Denna modell stödjer V2L (Vehicle to Load), vilket låter dig driva elektrisk utrustning som kräver upp till 2,2 kW effekt, inklusive möjligheten att ladda andra fordon.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -60,7 +64,7 @@ BYD Dolphin 60.4kWh har ett framhjulsdrivet system med en motor på framaxeln. M
 
 ### Fjädring
 
-Framhjulsupphängningen är av typen [MacPherson](../../../../technology/suspension/#macpherson-strut), och bakhjulsupphängningen är [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. s fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 130 mm.
+Framhjulsupphängningen är av typen [MacPherson](../../../../technology/suspension/#macpherson-strut), och bakhjulsupphängningen är [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. standards fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 130 mm.
 
 ### Styrning
 
@@ -89,7 +93,7 @@ Den maximala regenerativa effekten är 100 kW.
 
 ## Exteriör
 
-BYD Dolphin 60.4kWh, med måtten 4290 mm i längd, 1770 mm i bredd och 1570 mm i höjd, tillhör B-SUV-segmentet, även känt som kompakta SUV:ar eller crossovers. De kombinerar den kompakta storleken och manövrerbarheten från B-segmentets bilar med högre körposition, ökat lastutrymme och robust SUV-styling. BYD Dolphin 60.4kWh finns tillgänglig i totalt 6 solida lackfärger.
+BYD Dolphin 60.4kWh, med måtten 4290 mm i längd, 1770 mm i bredd och 1570 mm i höjd, tillhör C-segmentet, även känt som kompaktbilar. Dessa erbjuder en balans mellan storlek, prestanda och prisvärdhet, vilket gör dem mångsidiga för olika förare. BYD Dolphin 60.4kWh finns tillgänglig i totalt 6 solida lackfärger.
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på BYD Dolphin 60.4kWh, vilket låter dig personifiera ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
@@ -291,6 +295,8 @@ Denna modell kan inte utrustas med dragkrok. För att dra släp måste du titta 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
 
 ## Tillgänglighet och priser
+
+BYD Dolphin 60.4kWh hade sin världspremiär den 13.08.2021, och leveranserna startade January 2022.
 
 ## Alternativa modeller
 

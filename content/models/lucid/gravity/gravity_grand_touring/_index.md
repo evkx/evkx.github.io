@@ -34,18 +34,18 @@ The Lucid Gravity Grand Touring delivers a jaw-dropping maximum power of 618 KW 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 119.0 kWh and a net usable capacity of 118.0 kWh, providing a 1.0 kWh buffer (0.8%) for battery protection. Operating at a nominal voltage of 800 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 121.0 kWh and a net usable capacity of 120.0 kWh, providing a 1.0 kWh buffer (0.8%) for battery protection. Operating at a nominal voltage of 800 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 450 to 440 miles (724-708 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range.
 The energy consumption rates are 3.8 mi/kWh for the base model and 3.7 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 74 minutes, while a more typical scenario from 10% to 80% takes 29 minutes with an average charging speed of 171 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 175 kW, with each charging session taking about 18 minutes and 12 seconds. This efficient charging capability makes the Lucid Gravity Grand Touring a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 75 minutes, while a more typical scenario from 10% to 80% takes 30 minutes with an average charging speed of 171 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 176 kW, with each charging session taking about 18 minutes and 25 seconds. This efficient charging capability makes the Lucid Gravity Grand Touring a convenient option for long-distance travel.
 
-In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 21 kWh/100 km, the trip would take about 8 hours and 51 minutes, requiring two charging stops from 0% to 39%, totaling 32 minutes of charging time.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 21 kWh/100 km, the trip would take about 8 hours and 51 minutes, requiring two charging stops from 0% to 38%, totaling 31 minutes of charging time.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 5 hours and 21 minutes using a home setup.
+The standard onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 5 hours and 27 minutes using a home setup.
 
 ### Charge Port
 

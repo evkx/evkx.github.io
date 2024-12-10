@@ -3,7 +3,7 @@
     <g>
         <path d="M 1090 1102 L 40 1102 L 40 47" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 40 902 L 1090 902" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="1 3" pointer-events="stroke"/>
-       <path d="M 40  1100 42  1090 45  1080 48  1070 51  1060 53  1050 56  1040 58  1030 61  1020 63  1010 65  1000 68  990 70  980 73  970 75  960 78  950 80  940 83  930 85  920 88  910 90  900 93  890 96  880 99  870 101  860 104  850 107  840 110  830 113  820 116  810 119  800 122  790 125  780 128  770 131  760 135  750 138  740 141  730 145  720 149  710 152  700 156  690 160  680 163  670 167  660 171  650 176  640 180  630 184  620 188  610 193  600 197  590 202  580 207  570 212  560 217  550 222  540 227  530 233  520 239  510 244  500 250  490 255  480 261  470 266  460 272  450 277  440 282  430 288  420 293  410 299  400 304  390 310  380 315  370 320  360 326  350 331  340 337  330 343  320 349  310 356  300 363  290 370  280 378  270 387  260 397  250 406  240 416  230 425  220 435  210 445  200 455  190 466  180 478  170 492  160 510  150 533  140 563  130 603  120 664  110 781  100 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1083" y="882" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+       <path d="M 40  1100 42  1090 45  1080 48  1070 51  1060 53  1050 56  1040 59  1030 61  1020 63  1010 66  1000 68  990 71  980 73  970 76  960 78  950 81  940 83  930 86  920 89  910 91  900 94  890 97  880 100  870 102  860 105  850 108  840 111  830 114  820 117  810 120  800 123  790 126  780 130  770 133  760 136  750 140  740 143  730 147  720 150  710 154  700 158  690 162  680 166  670 170  660 174  650 178  640 182  630 187  620 191  610 195  600 200  590 205  580 210  570 215  560 220  550 225  540 231  530 236  520 242  510 248  500 253  490 259  480 265  470 270  460 276  450 281  440 287  430 292  420 298  410 303  400 309  390 314  380 320  370 325  360 331  350 336  340 342  330 348  320 354  310 361  300 368  290 376  280 384  270 393  260 403  250 412  240 422  230 432  220 442  210 452  200 462  190 473  180 485  170 500  160 518  150 541  140 571  130 612  120 674  110 793  100 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1083" y="882" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -348,13 +348,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1118px; height: 1px; padding-top: 1147px; margin-left: 61px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
-                                EVKX.net - Charging time for Lucid Gravity Grand Touring 119 kWh
+                                EVKX.net - Charging time for Lucid Gravity Grand Touring 121 kWh
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="620" y="1156" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
-                    EVKX.net - Charging time for Lucid Gravity Grand Touring 119 kWh
+                    EVKX.net - Charging time for Lucid Gravity Grand Touring 121 kWh
                 </text>
             </switch>
         </g>

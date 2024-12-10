@@ -1,7 +1,7 @@
 ---
 title: BYD Dolphin 60.4kWh
 linktitle: "Dolphin 60.4kWh"
-description: "BYD Dolphin 60.4kWh es un crossover eléctrico con una autonomía WLTP de hasta 427 km (265 millas). EVKX.net tiene todos los detalles."
+description: "BYD Dolphin 60.4kWh es un hatchback eléctrico con una autonomía WLTP de hasta 427 km (265 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -50,6 +50,10 @@ El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nive
 
 El puerto de carga está convenientemente ubicado en el [lado delantero derecho](../../../../technology/charging/connectors/#front-side), facilitando el acceso en estaciones de carga donde estaciona paralelo al cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
 
+### Carga Bidireccional
+
+Este modelo admite V2L (Vehículo a Carga), lo que le permite alimentar equipos eléctricos que requieren hasta 2,2 kW de potencia, incluida la capacidad de cargar otros vehículos.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -60,7 +64,7 @@ El BYD Dolphin 60.4kWh tiene un sistema de tracción delantera soportado por un 
 
 ### Suspensión
 
-La suspensión delantera es de [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). La suspensión estándar incluye resortes de acero y amortiguadores hidráulicos. La suspensión del  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 130 mm.
+La suspensión delantera es de [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). La suspensión estándar incluye resortes de acero y amortiguadores hidráulicos. La suspensión del standard tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 130 mm.
 
 ### Dirección
 
@@ -89,7 +93,7 @@ La potencia máxima de regeneración es de 100 kW.
 
 ## Exterior
 
-El BYD Dolphin 60.4kWh, con dimensiones de 4290 mm de longitud, 1770 mm de ancho y 1570 mm de altura, pertenece al segmento de coches B-SUV, también conocidos como SUV subcompactos o crossovers, que ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El BYD Dolphin 60.4kWh está disponible en un total de 6 colores de pintura sólidos.
+El BYD Dolphin 60.4kWh, con dimensiones de 4290 mm de longitud, 1770 mm de ancho y 1570 mm de altura, pertenece al segmento de coches C, también conocidos como coches compactos, que equilibran el tamaño, el rendimiento y la asequibilidad, haciéndolos versátiles para una variedad de conductores. El BYD Dolphin 60.4kWh está disponible en un total de 6 colores de pintura sólidos.
 
 Puede seleccionar entre varios diseños de ruedas, todos disponibles en el mismo tamaño, en el BYD Dolphin 60.4kWh, lo que le permite personalizar su vehículo para que coincida con su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
@@ -291,6 +295,8 @@ Este modelo no está disponible con un enganche de remolque. Por lo tanto, para 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
 
 ## Disponibilidad y Precios
+
+El BYD Dolphin 60.4kWh tuvo su estreno mundial el 13.08.2021, con entregas comenzando en January 2022.
 
 ## Modelos Alternativos
 
