@@ -41,7 +41,7 @@ BYD Atto 3 er en crossover, der fås i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Dolphin er en hatchback, der fås i 2 varianter.
+BYD Dolphin er en hatchback, der fås i 3 varianter.
 </p>
 	<a href="dolphin/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

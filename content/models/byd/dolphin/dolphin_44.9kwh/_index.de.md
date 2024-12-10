@@ -28,7 +28,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der BYD Dolphin 44.9kWh kWh bietet eine grundlegende Leistung mit einer maximalen Leistung von 70 kW (95 PS / 94 bhp) und einem Gesamtdrehmoment von 180 Nm (133 lb-ft). Er beschleunigt in 7 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 150 km/h (93 mph), was ihn eher mit Einstiegsfahrzeugen mit herkömmlichen Verbrennungsmotoren vergleichbar macht.
+Der BYD Dolphin 44.9kWh kWh bietet eine grundlegende Leistung mit einer maximalen Leistung von 70 kW (95 PS / 94 bhp) und einem Gesamtdrehmoment von 180 Nm (133 lb-ft). Er beschleunigt in 12,3 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 150 km/h (93 mph), was ihn eher mit Einstiegsfahrzeugen mit herkömmlichen Verbrennungsmotoren vergleichbar macht.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -38,7 +38,7 @@ Die Hochkapazitätsbatterie hat eine Bruttokapazität von 46,0 kWh und eine nutz
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 340 km (211 Meilen) mit einem Energieverbrauch von 13,2 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 88 kW. Das Laden von 0% auf 100% dauert etwa 53 Minuten, während ein typischer Ladevorgang von 10% auf 80% 31 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 61 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 0% und 43%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 55 kW, wobei jede Ladesitzung etwa 21 Minuten und 60 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 65 kW. Das Laden von 0% auf 100% dauert etwa 53 Minuten, während ein typischer Ladevorgang von 10% auf 80% 31 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 61 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 0% und 43%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 55 kW, wobei jede Ladesitzung etwa 21 Minuten und 60 Sekunden dauert.
 
 In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 22 kWh/100 km, würde die Fahrt etwa 11 Stunden und 32 Minuten dauern. Diese Reise würde zehn Ladestopps von 3% auf 42% erfordern, mit einer gesamten Ladezeit von 193 Minuten.
 
@@ -97,7 +97,7 @@ Der BYD Dolphin 44.9kWh, mit Abmessungen von 4290 mm Länge, 1770 mm Breite und 
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den BYD Dolphin 44.9kWh erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
-- 195/60 Reifen auf 15" Felgen
+- 195/60 Reifen auf 16" Felgen
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
 

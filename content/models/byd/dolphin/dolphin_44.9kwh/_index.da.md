@@ -28,7 +28,7 @@ Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. 
 
 ## Ydelse
 
-BYD Dolphin 44.9kWh kWh giver grundlæggende ydeevne med en maksimal effekt på 70 kW (95 hk / 94 bhp) og et samlet drejningsmoment på 180 Nm (133 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 7 sekunder og når en tophastighed på 150 km/t (93 mph), hvilket er mere sammenligneligt med indgangsniveau traditionelle forbrændingsmotorer.
+BYD Dolphin 44.9kWh kWh giver grundlæggende ydeevne med en maksimal effekt på 70 kW (95 hk / 94 bhp) og et samlet drejningsmoment på 180 Nm (133 lb-ft). Den accelererer fra 0 til 100 km/t (0 til 62 mph) på 12,3 sekunder og når en tophastighed på 150 km/t (93 mph), hvilket er mere sammenligneligt med indgangsniveau traditionelle forbrændingsmotorer.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -38,7 +38,7 @@ Det højkapacitets batteri har en brutto kapacitet på 46,0 kWh og en netto kapa
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er køretøjets rækkevidde 340 km (211 miles), med et energiforbrug på 13,2 kWh/100 km (3 mi/kWh). For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 88 kW. Opladning fra 0% til 100% tager cirka 53 minutter, mens et mere typisk scenario fra 10% til 80% tager 31 minutter med en gennemsnitlig ladehastighed på 61 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 0% til 43%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 55 kW, hvor hver opladningssession tager cirka 21 minutter og 60 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 65 kW. Opladning fra 0% til 100% tager cirka 53 minutter, mens et mere typisk scenario fra 10% til 80% tager 31 minutter med en gennemsnitlig ladehastighed på 61 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 0% til 43%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 55 kW, hvor hver opladningssession tager cirka 21 minutter og 60 sekunder.
 
 I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 11 timer og 32 minutter, med ti opladningsstop fra 3% til 42%, i alt 193 minutters opladningstid.
 
@@ -97,7 +97,7 @@ BYD Dolphin 44.9kWh, med dimensioner på 4290 mm i længde, 1770 mm i bredde og 
 
 Du kan vælge mellem flere hjuldesign, alle tilgængelige i samme størrelse, på BYD Dolphin 44.9kWh, så du kan personliggøre din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
-- 195/60 dæk på 15" fælge
+- 195/60 dæk på 16" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate).
 

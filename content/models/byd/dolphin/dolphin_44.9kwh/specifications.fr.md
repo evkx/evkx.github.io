@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BYD Dolph
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				7 s
+				12,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -142,7 +142,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge CC maximale
 			</td>
 			<td>
-				88 kW
+				65 kW
 			</td>
 		</tr>
 		<tr>

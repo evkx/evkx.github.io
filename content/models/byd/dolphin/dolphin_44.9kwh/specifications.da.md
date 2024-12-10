@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for BYD Dolphin 44.9kW
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				7 s
+				12,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -142,7 +142,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				88 kW
+				65 kW
 			</td>
 		</tr>
 		<tr>

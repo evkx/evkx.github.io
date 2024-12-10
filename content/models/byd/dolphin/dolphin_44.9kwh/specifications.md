@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for BYD Dolphin 44.9kWh.
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				7 s
+				12,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -142,7 +142,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
-				88 kW
+				65 kW
 			</td>
 		</tr>
 		<tr>

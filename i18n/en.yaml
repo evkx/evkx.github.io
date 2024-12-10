@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-c8a83f84
+  translation: BYD Dolphin 44.9kWh Boost is an all-electric hatchback with a WLTP range of up to 315 km (196 miles). EVKX.net has all the details.
+
 - id: frontpage-description-84ccaeac
   translation: BYD Dolphin 44.9kWh is an all-electric hatchback with a WLTP range of up to 340 km (211 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-6277a297
   translation: Porsche Taycan GTS is an all-electric luxury sedan with a WLTP range of up to 628 km (390 miles). EVKX.net has all the details.
-
-- id: frontpage-description-422c1513
-  translation: Hyundai Ioniq 5 Long Range AWD is an all-electric SUV with a WLTP range of up to 546 km (339 miles). EVKX.net has all the details.
 

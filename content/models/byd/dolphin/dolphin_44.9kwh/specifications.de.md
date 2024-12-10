@@ -55,7 +55,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für BYD Dolphin 44.9kW
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				7 s
+				12,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -142,7 +142,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale DC-Ladegeschwindigkeit
 			</td>
 			<td>
-				88 kW
+				65 kW
 			</td>
 		</tr>
 		<tr>

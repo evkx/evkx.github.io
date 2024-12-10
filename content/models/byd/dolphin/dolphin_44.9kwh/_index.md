@@ -28,7 +28,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The BYD Dolphin 44.9kWh kWh provides basic performance with a maximum power of 70 kW (95 hp / 94 bhp) and a total torque of 180 Nm (133 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7 seconds and reaches a top speed of 150 km/h (93 mph), which is more comparable to entry-level traditional internal combustion engine vehicles.
+The BYD Dolphin 44.9kWh kWh provides basic performance with a maximum power of 70 kW (95 hp / 94 bhp) and a total torque of 180 Nm (133 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 12.3 seconds and reaches a top speed of 150 km/h (93 mph), which is more comparable to entry-level traditional internal combustion engine vehicles.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -38,7 +38,7 @@ The high-capacity battery has a gross capacity of 46.0 kWh and a net usable capa
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 340 km (211 miles), with an energy consumption rate of 13.2 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 88 kW. Charging from 0% to 100% takes approximately 53 minutes, while a more typical scenario from 10% to 80% takes 31 minutes with an average charging speed of 61 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 43%. This results in an effective charging speed, including time lost, of 55 kW, with each charging session taking about 21 minutes and 60 seconds.
+The vehicle supports fast DC charging with a maximum power of 65 kW. Charging from 0% to 100% takes approximately 53 minutes, while a more typical scenario from 10% to 80% takes 31 minutes with an average charging speed of 61 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 43%. This results in an effective charging speed, including time lost, of 55 kW, with each charging session taking about 21 minutes and 60 seconds.
 
 In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 22 kWh/100 km, the trip would take about 11 hours and 32 minutes, requiring ten charging stops from 3% to 42%, totaling 193 minutes of charging time.
 
@@ -97,7 +97,7 @@ The BYD Dolphin 44.9kWh, with dimensions of 4290 mm in length, 1770 mm in width,
 
 You can select from multiple wheel designs, all available in the same size, on the BYD Dolphin 44.9kWh, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-- 195/60 tires on 15" rims
+- 195/60 tires on 16" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

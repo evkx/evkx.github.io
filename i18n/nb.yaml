@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-c8a83f84
+  translation: BYD Dolphin 44.9kWh Boost er en elektrisk kombi med en WLTP rekkevidde på opptil 315 km (196 miles). EVKX.net har alle detaljene.
+
 - id: frontpage-description-84ccaeac
   translation: BYD Dolphin 44.9kWh er en elektrisk kombi med en WLTP rekkevidde på opptil 340 km (211 miles). EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-6277a297
   translation: Porsche Taycan GTS er en elektrisk luksussedan med en WLTP rekkevidde på opptil 628 km (390 miles). EVKX.net har alle detaljene.
-
-- id: frontpage-description-422c1513
-  translation: Hyundai Ioniq 5 Long Range AWD er en elektrisk SUV med en WLTP rekkevidde på opptil 546 km (339 miles). EVKX.net har alle detaljene.
 

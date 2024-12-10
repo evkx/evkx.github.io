@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-c8a83f84
+  translation: BYD Dolphin 44.9kWh Boost est une citadine entièrement électrique avec une autonomie de WLTP allant jusqu'à 315 km (196 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-84ccaeac
   translation: BYD Dolphin 44.9kWh est une citadine entièrement électrique avec une autonomie de WLTP allant jusqu'à 340 km (211 miles). EVKX.net a tous les détails.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-6277a297
   translation: Porsche Taycan GTS est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 628 km (390 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-422c1513
-  translation: Hyundai Ioniq 5 Long Range AWD est un SUV entièrement électrique avec une autonomie de WLTP allant jusqu'à 546 km (339 miles). EVKX.net a tous les détails.
 
