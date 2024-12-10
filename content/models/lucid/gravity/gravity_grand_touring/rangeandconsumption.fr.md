@@ -40,10 +40,10 @@ Vous trouverez ci-dessous les autonomies officiellement évaluées. Les tests so
 				</a>
 			</td>
 			<td>
-				708 km / 440 mi
+				724 km / 450 mi
 			</td>
 			<td>
-				16,7 kWh/100km / 3,7 mi/kWh
+				16,3 kWh/100km / 3,8 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -87,10 +87,10 @@ Le tableau ci-dessous montre comment l'activation du chauffage/de la climatisati
 				Autonomie EPA version de base avec climatisation 2 kW
 			</td>
 			<td>
-				563 km / 350 mi
+				573 km / 356 mi
 			</td>
 			<td>
-				-20,5%
+				-20,9%
 			</td>
 		</tr>
 		<tr>

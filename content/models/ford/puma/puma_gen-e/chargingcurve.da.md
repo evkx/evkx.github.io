@@ -226,6 +226,9 @@ Ladekurven for denne model er udledt af producentdata og indsigt i ladeydelsen a
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperature)**. Kolde eller varme temperaturer kan dog påvirke kurven betydeligt. Denne kurve er også baseret på start af opladning ved lav batteristatus. Derfor kan tilslutning ved højere niveau påvirke kurven positivt eller negativt. Læs mere om hvad der påvirker ladehastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
 
 
+Ford Puma Gen-E har batterivarmer, hvilket gør det lettere at oplade ved optimal batteritemperatur.
+
+
 {{<evkxdisplayaddarticle />}}
 <div class="table-responsive">
 <table class="table table-striped border">

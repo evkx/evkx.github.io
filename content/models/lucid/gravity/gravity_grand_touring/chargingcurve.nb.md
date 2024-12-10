@@ -169,7 +169,7 @@ navicon: bi-battery-charging
 				Rekkevidde per minutt 0-100%
 			</td>
 			<td>
-				9,5 km (5,9 mi)
+				9,8 km (6,1 mi)
 			</td>
 			<td>
 				?
@@ -186,7 +186,7 @@ navicon: bi-battery-charging
 				Rekkevidde per minutt 10-100%
 			</td>
 			<td>
-				8,9 km (5,5 mi)
+				9,1 km (5,7 mi)
 			</td>
 			<td>
 				?
@@ -203,7 +203,7 @@ navicon: bi-battery-charging
 				Rekkevidde per minutt 10-80%
 			</td>
 			<td>
-				17,0 km (10,6 mi)
+				17,5 km (10,9 mi)
 			</td>
 			<td>
 				?

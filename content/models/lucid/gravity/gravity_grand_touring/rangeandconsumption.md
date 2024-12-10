@@ -40,10 +40,10 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				</a>
 			</td>
 			<td>
-				708 km / 440 mi
+				724 km / 450 mi
 			</td>
 			<td>
-				16,7 kWh/100km / 3,7 mi/kWh
+				16,3 kWh/100km / 3,8 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -87,10 +87,10 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				EPA range basic trim with 2KW AC
 			</td>
 			<td>
-				563 km / 350 mi
+				573 km / 356 mi
 			</td>
 			<td>
-				-20,5%
+				-20,9%
 			</td>
 		</tr>
 		<tr>

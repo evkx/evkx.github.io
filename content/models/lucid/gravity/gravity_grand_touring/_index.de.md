@@ -1,7 +1,7 @@
 ---
 title: Lucid Gravity Grand Touring
 linktitle: "Gravity Grand Touring"
-description: "Lucid Gravity Grand Touring ist ein vollelektrisches SUV mit einer Reichweite von bis zu 708 km (440 Meilen). EVKX.net hat alle Details."
+description: "Lucid Gravity Grand Touring ist ein vollelektrisches SUV mit einer Reichweite von bis zu 724 km (450 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -36,7 +36,8 @@ Der Lucid Gravity Grand Touring liefert eine atemberaubende maximale Leistung vo
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 119,0 kWh und eine nutzbare Nettokapazität von 118,0 kWh, was einen Puffer von 1,0 kWh (0,8%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 800 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
 
-Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 440 Meilen (708 km) mit einem Energieverbrauch von 3,7 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Die [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) geschätzte Reichweite variiert zwischen 450 und 440 Meilen (724-708 km), abhängig von der Konfiguration und den Optionen des Fahrzeugs. Zum Beispiel können größere Räder den Energieverbrauch erhöhen und die Gesamtreichweite verringern.
+Die Energieverbrauchswerte betragen 3,8 mi/kWh für das Basismodell und 3,7 mi/kWh für die Spitzenversion nach dem EPA-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von  kW. Das Laden von 0% auf 100% dauert etwa 74 Minuten, während ein typischer Ladevorgang von 10% auf 80% 29 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 171 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 0% und 45%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 175 kW, wobei jede Ladesitzung etwa 18 Minuten und 12 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Lucid Gravity Grand Touring zu einer bequemen Option für Langstreckenreisen.
 
@@ -72,13 +73,23 @@ Sie können Lucid Gravity Grand Touring mit einer alternativen  Federung bestell
 
 Die dynamische Lenkung ist eine standard im Lucid Gravity Grand Touring, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern. Zusätzlich ist die Hinterradlenkung als eine optionale Funktion verfügbar. Die Hinterradlenkung reduziert den Wendekreis bei langsamer Fahrt.
 
+### Fahrmodi
+
+Der Lucid Gravity Grand Touring ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 3 Modi wählen:
+
+- Sprint: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Smooth: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
+- Swift: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung.
+
 ### Bremsen
 
 Der Lucid Gravity Grand Touring ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 386 mm, während die hinteren Scheiben 381 mm groß sind.
 
 ### Rekuperatives Bremsen
 
-[Regenerative Bremsung](../../../../technology/regen/) in diesem Modell wird hauptsächlich durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) ermöglicht. Im Gegensatz zu einigen Modellen sind [Automatische Regeneration](../../../../technology/regen/#automatic-regen-adaptive) oder Rollen hier nicht verfügbar. Das System stoppt das Fahrzeug vollständig mit Reibungsbremsen.
+[**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht. Dieses Modell bietet drei Stoppmodi für das Ein-Pedal-Fahren: <ul><li>Der **Haltemodus** bringt das Fahrzeug mit Reibungsbremsen vollständig zum Stillstand</li><li>Der **Rollmodus** lässt das Fahrzeug rollen, bis es von selbst zum Stillstand kommt</li><li>Der **Kriechmodus** bewegt das Fahrzeug bei niedriger Geschwindigkeit vorwärts</li></ul>
+
+Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen zwei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -94,7 +105,7 @@ Der Lucid Gravity Grand Touring bietet mehrere Radoptionen in verschiedenen Grö
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Soft-Close ist eine eine standard-Funktion für die Seitentüren. Die Heckklappe ist elektrisch betrieben.
+Das Auto hat vier [rahmenlose Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Soft-Close ist eine eine standard-Funktion für die Seitentüren. Die Heckklappe ist elektrisch betrieben.
 
 Es gibt nur eine Dachoption für dieses Modell. Die Windschutzscheibe ist panoramisch und erstreckt sich über die erste Reihe. Zusätzlich gibt es ein Glasdach über der zweiten Reihe. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Das Glas ist getönt, um vor der Hitze der Sonne zu schützen. Optional sind doppelt verglaste Seitenfenster erhältlich, die den Kabinenlärm reduzieren und das Fahrerlebnis insgesamt verbessern.
 

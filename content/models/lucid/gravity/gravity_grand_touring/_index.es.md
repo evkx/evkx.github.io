@@ -1,7 +1,7 @@
 ---
 title: Lucid Gravity Grand Touring
 linktitle: "Gravity Grand Touring"
-description: "Lucid Gravity Grand Touring es un SUV eléctrico con una autonomía EPA de hasta 708 km (440 millas). EVKX.net tiene todos los detalles."
+description: "Lucid Gravity Grand Touring es un SUV eléctrico con una autonomía EPA de hasta 724 km (450 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -36,7 +36,8 @@ El Lucid Gravity Grand Touring ofrece una impresionante potencia máxima de 618 
 
 La batería de alta capacidad tiene una capacidad bruta de 119,0 kWh y una capacidad neta utilizable de 118,0 kWh, proporcionando un buffer de 1,0 kWh (0,8%) para la protección de la batería. Operando a un voltaje nominal de 800 voltios, califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
-Según el estándar [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 440 millas (708 km) con una tasa de consumo de energía de 3,7 millas por kWh. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
+La autonomía estimada por la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental) varía entre 450 a 440 millas (724-708 km), dependiendo de la configuración y las opciones del vehículo. Por ejemplo, las ruedas más grandes pueden aumentar el consumo de energía y reducir la autonomía general.
+Las tasas de consumo de energía son 3,8 mi/kWh para el modelo base y 3,7 mi/kWh para la versión de gama alta, según la prueba estándar EPA. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
 El vehículo admite carga rápida DC con una potencia máxima de  kW. Cargar del 0% al 100% toma aproximadamente 74 minutos, mientras que un escenario más típico del 10% al 80% toma 29 minutos con una velocidad de carga promedio de 171 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 0% al 45%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 175 kW, con cada sesión de carga tomando aproximadamente 18 minutos y 12 segundos. Esta capacidad de carga eficiente hace que el Lucid Gravity Grand Touring sea una opción conveniente para viajes de larga distancia.
 
@@ -72,13 +73,23 @@ Puede pedir el Lucid Gravity Grand Touring con una suspensión  alternativa. La 
 
 La dirección dinámica es una característica estándar en el Lucid Gravity Grand Touring, variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados. Además, la dirección en las ruedas traseras está disponible como una característica una opción. La dirección en las ruedas traseras reduce el círculo de giro cuando se va despacio.
 
+### Modos de Conducción
+
+El Lucid Gravity Grand Touring permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 3 modos:
+
+- Sprint: Dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
+- Smooth: Dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
+- Swift: Dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación de suspensión cómoda.
+
 ### Frenos
 
 El Lucid Gravity Grand Touring está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera. Los discos delanteros miden 386 mm, mientras que los discos traseros son de 381 mm.
 
 ### Frenado Regenerativo
 
-El [frenado regenerativo](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o el deslizamiento no están disponibles aquí. El sistema detiene el coche completamente utilizando frenos de fricción.
+[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinada con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal). Este modelo ofrece tres modos de parada para la conducción con un solo pedal: <ul><li>**Modo Hold** detiene el vehículo completamente utilizando frenos de fricción</li><li>**Modo Roll** permite que el vehículo ruede hasta detenerse naturalmente</li><li>**Modo Creep** mueve el coche hacia adelante a baja velocidad</li></ul>
+
+Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -94,7 +105,7 @@ El Lucid Gravity Grand Touring ofrece múltiples opciones de ruedas en diferente
 
 Las ruedas más estrechas mejoran el consumo y proporcionan una mayor autonomía, mientras que las ruedas más anchas ofrecen mejor tracción y manejo.
 
-El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate). El cierre suave es una función una característica estándar para las puertas laterales. El portón trasero es de apertura eléctrica.
+El coche tiene cuatro [puertas sin marco](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate). El cierre suave es una función una característica estándar para las puertas laterales. El portón trasero es de apertura eléctrica.
 
 Solo hay una opción de techo para este modelo. El parabrisas es panorámico y se extiende sobre la primera fila. Además, hay un panel de vidrio sobre la segunda fila. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tintado para proteger contra el calor del sol. Como opción, están disponibles ventanas laterales de doble acristalamiento para reducir el ruido en la cabina, mejorando la experiencia de conducción.
 

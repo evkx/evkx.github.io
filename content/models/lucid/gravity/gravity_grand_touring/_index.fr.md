@@ -1,7 +1,7 @@
 ---
 title: Lucid Gravity Grand Touring
 linktitle: "Gravity Grand Touring"
-description: "Lucid Gravity Grand Touring est un SUV entièrement électrique avec une autonomie de EPA allant jusqu'à 708 km (440 miles). EVKX.net a tous les détails."
+description: "Lucid Gravity Grand Touring est un SUV entièrement électrique avec une autonomie de EPA allant jusqu'à 724 km (450 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -36,7 +36,8 @@ Le Lucid Gravity Grand Touring délivre une puissance maximale impressionnante d
 
 La batterie haute capacité a une capacité brute de 119,0 kWh et une capacité nette utilisable de 118,0 kWh, offrant une marge de sécurité de 1,0 kWh (0,8%) pour la protection de la batterie. Fonctionnant à une tension nominale de 800 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
 
-Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 440 miles (708 km) avec un taux de consommation d'énergie de 3,7 miles par kWh. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
+Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), l'autonomie estimée varie entre 450 et 440 miles (724-708 km), en fonction de la configuration et des options du véhicule. Par exemple, des roues plus grandes peuvent augmenter la consommation d'énergie et réduire l'autonomie globale.
+Les taux de consommation d'énergie sont de 3,8 mi/kWh pour le modèle de base et de 3,7 mi/kWh pour la version haut de gamme, selon le test standard EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
 Le véhicule prend en charge la charge rapide DC avec une puissance maximale de  kW. La charge de 0% à 100% prend environ 74 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 29 minutes avec une vitesse de charge moyenne de 171 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 0% à 45%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 175 kW, chaque session de charge prenant environ 18 minutes et 12 secondes. Cette capacité de charge efficace fait du Lucid Gravity Grand Touring une option pratique pour les longs trajets.
 
@@ -72,13 +73,23 @@ Vous pouvez commander le Lucid Gravity Grand Touring avec une suspension alterna
 
 La direction dynamique est un standard sur le Lucid Gravity Grand Touring, variant le rapport de direction en fonction de la vitesse de conduite pour un contrôle et un confort accrus. De plus, la direction des roues arrière est disponible en tant que une option fonctionnalité. La direction des roues arrière réduit le cercle de braquage à basse vitesse.
 
+### Modes de Conduite
+
+Le Lucid Gravity Grand Touring permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la maniabilité de la voiture. Le conducteur peut choisir entre 3 modes :
+
+- Sprint : Direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Smooth : Direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
+- Swift : Direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
+
 ### Freins
 
 Le Lucid Gravity Grand Touring est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière. Les disques avant mesurent 386 mm, tandis que les disques arrière sont de 381 mm.
 
 ### Freinage Régénératif
 
-Le [freinage régénératif](../../../../technology/regen/) sur ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou le roulage ne sont pas disponibles ici. Le système arrête complètement la voiture en utilisant les freins à friction.
+[**Régénération automatique**](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible sur ce modèle. Cependant, le [freinage régénératif](../../../../technology/regen/) est facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving) combinée avec les [**freins mixtes**](../../../../technology/regen/#manual-regen-using-brake-pedal). Ce modèle offre trois modes d'arrêt pour la conduite à une pédale : <ul><li>**Mode Hold** arrête complètement le véhicule en utilisant les freins à friction</li><li>**Mode Roll** permet au véhicule de rouler jusqu'à ce qu'il s'arrête naturellement</li><li>**Mode Creep** fait avancer la voiture à basse vitesse</li></ul>
+
+De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous retirez votre pied de l'accélérateur. Il y a deux niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -94,7 +105,7 @@ Le Lucid Gravity Grand Touring offre plusieurs options de roues de différentes 
 
 Des roues plus étroites améliorent la consommation et offrent une plus grande autonomie, tandis que des roues plus larges offrent une meilleure traction et maniabilité.
 
-La voiture a quatre [portes régulières](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate). La fermeture douce est un standard fonction pour les portes latérales. Le hayon est électriquement motorisé.
+La voiture a quatre [portes sans cadre](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate). La fermeture douce est un standard fonction pour les portes latérales. Le hayon est électriquement motorisé.
 
 Il n'y a qu'une seule option de toit pour ce modèle. Le pare-brise est panoramique et s'étend sur la première rangée. De plus, il y a un panneau de verre sur la deuxième rangée. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Le verre est teinté pour se protéger de la chaleur du soleil. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
 

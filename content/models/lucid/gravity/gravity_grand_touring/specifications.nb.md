@@ -80,7 +80,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				EPA-rekkevidde
+				EPA rekkevidde for minimum utstyrsnivå
+			</td>
+			<td>
+				450 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim EPA-forbruk
+			</td>
+			<td>
+				3,8 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topputstyrt EPA-rekkevidde
 			</td>
 			<td>
 				440 mi
@@ -88,7 +104,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				EPA-forbruk
+				Topputstyrt EPA-forbruk
 			</td>
 			<td>
 				3,7 mi/kWh
@@ -1269,7 +1285,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Apple Carplay-støtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>

@@ -1,7 +1,7 @@
 ---
 title: Lucid Gravity Grand Touring
 linktitle: "Gravity Grand Touring"
-description: "Lucid Gravity Grand Touring is an all-electric SUV with a EPA range of up to 708 km (440 miles). EVKX.net has all the details."
+description: "Lucid Gravity Grand Touring is an all-electric SUV with a EPA range of up to 724 km (450 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -36,7 +36,8 @@ The Lucid Gravity Grand Touring delivers a jaw-dropping maximum power of 618 KW 
 
 The high-capacity battery has a gross capacity of 119.0 kWh and a net usable capacity of 118.0 kWh, providing a 1.0 kWh buffer (0.8%) for battery protection. Operating at a nominal voltage of 800 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
-According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 440 miles (708 km) with an energy consumption rate of 3.7 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 450 to 440 miles (724-708 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range.
+The energy consumption rates are 3.8 mi/kWh for the base model and 3.7 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 74 minutes, while a more typical scenario from 10% to 80% takes 29 minutes with an average charging speed of 171 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 175 kW, with each charging session taking about 18 minutes and 12 seconds. This efficient charging capability makes the Lucid Gravity Grand Touring a convenient option for long-distance travel.
 
@@ -72,13 +73,23 @@ You can order Lucid Gravity Grand Touring with an alternative  suspension. The f
 
 Dynamic steering is a standard on the Lucid Gravity Grand Touring, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as an optional feature. Rear wheel steering reduces the turning circle when going slow.
 
+### Drive Modes
+
+The Lucid Gravity Grand Touring lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
+
+- Sprint: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Smooth: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Swift: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+
 ### Brakes
 
 The Lucid Gravity Grand Touring is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 386 mm, while the rear discs are 381 mm.
 
 ### Regenerative Braking
 
-[Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. The system stops the car completely using friction brakes.
+[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). This model offers three stopping modes for one-pedal driving: <ul><li>**Hold mode** brings the vehicle to a complete stop using friction brakes</li><li>**Roll mode** allows the vehicle to roll until it stops naturally</li><li>**Creep mode** moves the car forward at low speed</li></ul>
+
+Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are two levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -94,7 +105,7 @@ The Lucid Gravity Grand Touring offers multiple wheel options in different sizes
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is a standard function for the side doors. The tailgate is electrically powered.
+The car has four [frameless doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is a standard function for the side doors. The tailgate is electrically powered.
 
 There is only one roof option for this model. The windshield is panoramic going back over the first row. In addition there is glasspanel over the second row. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
 

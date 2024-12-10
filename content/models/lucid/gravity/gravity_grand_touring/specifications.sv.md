@@ -80,7 +80,23 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				EPA räckvidd
+				EPA-räckvidd för lägsta utrustningsnivå
+			</td>
+			<td>
+				450 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim EPA-förbrukning
+			</td>
+			<td>
+				3,8 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-räckvidd för topptrim
 			</td>
 			<td>
 				440 mi
@@ -88,7 +104,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				EPA förbrukning
+				Top Trim EPA Consumption
 			</td>
 			<td>
 				3,7 mi/kWh
@@ -1269,7 +1285,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				Apple Carplay Support
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

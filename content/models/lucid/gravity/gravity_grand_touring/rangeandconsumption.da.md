@@ -40,10 +40,10 @@ Herunder er de officielt vurderede rækkevidder. Testene udføres med varme/AC s
 				</a>
 			</td>
 			<td>
-				708 km / 440 mi
+				724 km / 450 mi
 			</td>
 			<td>
-				16,7 kWh/100km / 3,7 mi/kWh
+				16,3 kWh/100km / 3,8 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -87,10 +87,10 @@ Tabellen nedenfor viser, hvordan det påvirker den officielle rækkevidde at tæ
 				EPA rækkevidde basis trim med 2kW AC
 			</td>
 			<td>
-				563 km / 350 mi
+				573 km / 356 mi
 			</td>
 			<td>
-				-20,5%
+				-20,9%
 			</td>
 		</tr>
 		<tr>

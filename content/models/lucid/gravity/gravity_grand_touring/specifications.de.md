@@ -80,7 +80,23 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 	<tbody>
 		<tr>
 			<td>
-				EPA-Reichweite
+				EPA-Reichweite der Basisausstattung
+			</td>
+			<td>
+				450 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-Verbrauch der Basisausstattung
+			</td>
+			<td>
+				3,8 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-Reichweite der Top-Ausstattung
 			</td>
 			<td>
 				440 mi
@@ -88,7 +104,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				EPA-Verbrauch
+				EPA-Verbrauch der Top-Ausstattung
 			</td>
 			<td>
 				3,7 mi/kWh
@@ -1269,7 +1285,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Apple Carplay Unterstützung
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>

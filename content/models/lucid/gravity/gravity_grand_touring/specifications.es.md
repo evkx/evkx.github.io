@@ -80,7 +80,23 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 	<tbody>
 		<tr>
 			<td>
-				rango EPA
+				Rango EPA de equipamiento básico
+			</td>
+			<td>
+				450 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo EPA de ajuste básico
+			</td>
+			<td>
+				3,8 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Gama EPA de acabado superior
 			</td>
 			<td>
 				440 mi
@@ -88,7 +104,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Consumo EPA
+				Consumo EPA de ajuste superior
 			</td>
 			<td>
 				3,7 mi/kWh
@@ -1269,7 +1285,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Soporte Apple Carplay
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

@@ -223,6 +223,14 @@ Puede elegir entre dos sistemas de sonido para el Ford Puma Gen-E:
 
 Además, el modelo incluye 4 conexiones USB-C como estándar.
 
+## Aplicación Móvil
+
+El Ford Puma Gen-E viene con una aplicación móvil dedicada, disponible tanto para dispositivos Android como iOS, que le permite gestionar y monitorear su vehículo de forma remota. La aplicación ofrece una amplia gama de características diseñadas para mejorar su experiencia de conducción:
+
+- **Localizar Su Vehículo:** Compruebe fácilmente la ubicación actual de su coche.
+- **Preacondicionamiento:** Precaliente o enfríe su coche antes de comenzar su viaje para un confort óptimo.
+- **Bloquear y Desbloquear:** Bloquee o desbloquee de forma segura las puertas de su coche con un toque.
+
 ## Luces
 
 Puede elegir entre dos tipos de faros delanteros para el Ford Puma Gen-E.

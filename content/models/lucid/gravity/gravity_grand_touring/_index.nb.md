@@ -1,7 +1,7 @@
 ---
 title: Lucid Gravity Grand Touring
 linktitle: "Gravity Grand Touring"
-description: "Lucid Gravity Grand Touring er en elektrisk SUV med en EPA rekkevidde på opptil 708 km (440 miles). EVKX.net har alle detaljene."
+description: "Lucid Gravity Grand Touring er en elektrisk SUV med en EPA rekkevidde på opptil 724 km (450 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -36,7 +36,8 @@ Lucid Gravity Grand Touring leverer en imponerende maksimal effekt på 618 KW (8
 
 Batteriet med høy kapasitet har en brutto kapasitet på 119,0 kWh og en netto brukbar kapasitet på 118,0 kWh, som gir en 1,0 kWh buffer (0,8%) for batteribeskyttelse. Med en driftsspenning på 800 volt, kvalifiserer det som et 800-volts batterisystem. Denne høye spenningen er avgjørende for systemets ladeegenskaper.
 
-Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden, har bilen en rekkevidde på 440 miles (708 km) med et energiforbruk på 3,7 miles per kWh. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
+[EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimert rekkevidde varierer mellom 450 til 440 miles (724-708 km), avhengig av bilens konfigurasjon og valg. For eksempel kan større hjul øke energiforbruket og redusere total rekkevidde.
+Energiforbruksratene er 3,8 mi/kWh for basismodellen og 3,7 mi/kWh for toppversjonen, ifølge EPA standardtest. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
 Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på  kW. Lading fra 0% til 100% tar omtrent 74 minutter, mens et mer typisk scenario fra 10% til 80% tar 29 minutter med en gjennomsnittlig ladehastighet på 171 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 0% til 45%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 175 kW, hvor hver ladeøkt tar omtrent 18 minutter og 12 sekunder. Denne effektive ladekapasiteten gjør Lucid Gravity Grand Touring til et praktisk alternativ for langdistansekjøring.
 
@@ -72,13 +73,23 @@ Du kan bestille Lucid Gravity Grand Touring med et alternativt  fjæringssystem.
 
 Dynamisk styring er en standard på Lucid Gravity Grand Touring, og varierer styreutvekslingen basert på kjørehastighet for bedre kontroll og komfort. I tillegg er firehjulsstyring tilgjengelig som en valgfri funksjon. Firehjulsstyring reduserer svingradius ved lav hastighet.
 
+### Kjøremoduser
+
+Lucid Gravity Grand Touring lar brukeren velge ulike [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens håndtering. Føreren kan velge mellom 3 moduser:
+
+- Sprint: Dynamisk styring, lav fjæring med dynamisk gasspådrag og fjæring.
+- Smooth: Balansert styring, lav fjæring med effektivt gasspådrag og balansert fjæring.
+- Swift: Balansert styring, normal fjæringshøyde med effektivt gasspådrag og komfortabel fjæringsdemping.
+
 ### Bremser
 
 Lucid Gravity Grand Touring er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak. Skivene foran måler 386 mm, mens skivene bak er 381 mm.
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) i denne modellen skjer primært gjennom [**kjøring med én pedal**](../../../../technology/regen/#one-pedal-driving). I motsetning til enkelte andre modeller, er ikke [Automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive) eller frirulle tilgjengelig her. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. [Regenerativ bremsing](../../../../technology/regen/) skjer via [**kjøring med én pedal**](../../../../technology/regen/#one-pedal-driving) kombinert med [**kombinerte bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Denne modellen tilbyr tre stoppemodi for kjøring med én pedal: <ul><li>**Hold-modus** bringer kjøretøyet til fullstendig stopp ved hjelp av friksjonsbremser</li><li>**Rulle-modus** lar kjøretøyet rulle til det stopper naturlig</li><li>**Kryp-modus** lar bilen bevege seg sakte fremover</li></ul>
+
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten av gasspedalen. Det er to nivåer å velge mellom, slik at du kan tilpasse kjøreopplevelsen etter eget ønske.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -94,7 +105,7 @@ Lucid Gravity Grand Touring tilbyr flere hjulalternativer i ulike størrelser, s
 
 Smalere hjul forbedrer forbruket og gir lengre rekkevidde, mens bredere hjul gir bedre veigrep og håndtering.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate). Myk lukking er en standard funksjon for sidedørene. Bakluken er elektrisk.
+Bilen har fire [rammeløse dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate). Myk lukking er en standard funksjon for sidedørene. Bakluken er elektrisk.
 
 Det er kun ett takalternativ for denne modellen. Frontruten er panoramisk og strekker seg bakover over første rad. I tillegg er det glasspanel over andre rad. Dette glasset får bilens interiør til å føles mer romslig og lyst, noe som kan forbedre stemningen og komforten for passasjerene. Glasset er tonet for å beskytte mot varme fra solen. Som tilvalg er det tilgjengelig doble sidevinduer som reduserer støy i kupeen og forbedrer kjøreopplevelsen.
 

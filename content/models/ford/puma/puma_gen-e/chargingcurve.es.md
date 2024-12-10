@@ -226,6 +226,9 @@ La curva de carga para este modelo se deriva de datos del fabricante y conocimie
 La curva de carga anterior es en **[condiciones óptimas](../../../../../technology/battery/charging/#temperature)**. Sin embargo, las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en comenzar a cargar con un nivel bajo de carga. Por lo tanto, enchufar a un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)
 
 
+Ford Puma Gen-E tiene calefacción de batería, lo que facilita la carga a una temperatura óptima de la batería.
+
+
 {{<evkxdisplayaddarticle />}}
 <div class="table-responsive">
 <table class="table table-striped border">

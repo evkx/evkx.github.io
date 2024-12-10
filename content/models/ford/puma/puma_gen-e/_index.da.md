@@ -223,6 +223,14 @@ Du kan vælge mellem to lydsystemer til Ford Puma Gen-E:
 
 Derudover inkluderer modellen 4 USB-C tilslutninger som standard.
 
+## Mobil App
+
+Ford Puma Gen-E kommer med en dedikeret mobilapp, tilgængelig til både Android og iOS-enheder, så du kan styre og overvåge din bil på afstand. Appen tilbyder en bred vifte af funktioner designet til at forbedre din køreoplevelse:
+
+- **Find din bil:** Se nemt bilens aktuelle placering.
+- **Forkonditionering:** Forvarm eller afkøl din bil, før du starter din rejse, for optimal komfort.
+- **Lås og lås op:** Lås eller lås dine bildøre op sikkert med et tryk.
+
 ## Lygter
 
 Du kan vælge mellem to typer forlygter til Ford Puma Gen-E.

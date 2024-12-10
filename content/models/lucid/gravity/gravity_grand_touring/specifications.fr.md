@@ -80,7 +80,23 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 	<tbody>
 		<tr>
 			<td>
-				Gamme EPA
+				Gamme EPA de finition de base
+			</td>
+			<td>
+				450 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consommation EPA de base
+			</td>
+			<td>
+				3,8 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Gamme haut de gamme EPA
 			</td>
 			<td>
 				440 mi
@@ -88,7 +104,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Consommation EPA
+				Consommation EPA de garniture supérieure
 			</td>
 			<td>
 				3,7 mi/kWh
@@ -1269,7 +1285,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Support Apple Carplay
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

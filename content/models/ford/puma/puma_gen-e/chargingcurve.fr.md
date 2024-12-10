@@ -226,6 +226,9 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant, les températures froides ou chaudes peuvent affecter considérablement la courbe. Cette courbe est également basée sur le début de la charge à un faible niveau de charge. Par conséquent, se brancher à un niveau plus élevé peut affecter la courbe positivement ou négativement. Lisez plus sur ce qui affecte la vitesse de charge dans notre [article sur la charge.](../../../../../technology/battery/charging/)
 
 
+Ford Puma Gen-E dispose d'un chauffage de batterie, facilitant la charge à une température optimale de la batterie.
+
+
 {{<evkxdisplayaddarticle />}}
 <div class="table-responsive">
 <table class="table table-striped border">
