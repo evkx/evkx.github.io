@@ -279,7 +279,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="byd/"><img src="https://media.evkx.net/multimedia/models/byd/brandevs_st.jpg" class="img-fluid mb-2" alt="BYD" ></a>
 	<h2>BYD</h2>
 	<p>
-		BYD (Build Your Dreams) es un gigante automotriz y tecnológico chino fundado en **1995** en Shenzhen. Inicialmente líder en baterías recargables, BYD ingresó al mercado automotriz en **2003**, convirtiéndose rápidamente en un pionero global en vehículos eléctricos (EVs). Conocido por innovaciones como la **Blade Battery** y su avanzada **e-Platform 3.0**, BYD combina eficiencia, seguridad y asequibilidad. Con una creciente presencia global que abarca **China, Europa, el sudeste asiático** y **América Latina**, BYD produce vehículos eléctricos, autobuses y soluciones energéticas, impulsando el cambio hacia la **movilidad sostenible**. Los modelos clave incluyen el **BYD Dolphin**, **Seal** y las ofertas de lujo bajo **Yangwang**.
+		BYD (Build Your Dreams) es un gigante automotriz y tecnológico chino fundado en 1995 en Shenzhen. Inicialmente líder en baterías recargables, BYD ingresó al mercado automotriz en 2003, convirtiéndose rápidamente en un pionero global en vehículos eléctricos (EVs). Conocido por innovaciones como la Blade Battery y su avanzada e-Platform 3.0, BYD combina eficiencia, seguridad y asequibilidad. Con una creciente presencia global que abarca China, Europa, el sudeste asiático y América Latina, BYD produce vehículos eléctricos, autobuses y soluciones energéticas, impulsando el cambio hacia la movilidad sostenible. Los modelos clave incluyen el BYD Dolphin, Seal y las ofertas de lujo bajo Yangwang.
 	</p>
 	<p>
 	BYD tiene 8 modelos con un total de 12 variantes.

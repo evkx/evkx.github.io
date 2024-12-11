@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 0-100%
 			</td>
 			<td>
-				51,0 kW
+				40,7 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-100%
 			</td>
 			<td>
-				49,5 kW
+				39,4 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-90%
 			</td>
 			<td>
-				56,9 kW
+				45,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Genomsnittlig laddningshastighet 10-80%
 			</td>
 			<td>
-				61,4 kW
+				49,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Max C-värde
 			</td>
 			<td>
-				1,91
+				1,52
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Genomsnittlig C-värde
 			</td>
 			<td>
-				1,36
+				1,09
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimalt laddningsområde
 			</td>
 			<td>
-				0% - 43%
+				1% - 43%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimal laddningshastighet inklusive 5 minuters förlust
 			</td>
 			<td>
-				55,2kW
+				46,5kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimal laddningstid
 			</td>
 			<td>
-				21m60s
+				24m21s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Laddningstid 0-100%
 			</td>
 			<td>
-				 52 m 48 s
+				1 h 6 m 11 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-100%
 			</td>
 			<td>
-				 49 m 1 s
+				1 h 1 m 27 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Laddningstid 10-80%
 			</td>
 			<td>
-				 30 m 43 s
+				 38 m 26 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,18 +172,35 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				6,4 km (4,0 mi)
+				5,1 km (3,2 mi)
 			</td>
 			<td>
-				4,0 km (2,5 mi)
+				3,2 km (2,0 mi)
 			</td>
 			<td>
-				3,9 km (2,4 mi)
+				3,1 km (1,9 mi)
 			</td>
 		</tr>
 		<tr>
 			<td>
 				Räckvidd per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,0 km (3,1 mi)
+			</td>
+			<td>
+				3,1 km (1,9 mi)
+			</td>
+			<td>
+				3,0 km (1,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-80%
 			</td>
 			<td>
 				?
@@ -196,23 +213,6 @@ navicon: bi-battery-charging
 			</td>
 			<td>
 				3,7 km (2,3 mi)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Räckvidd per minut 10-80%
-			</td>
-			<td>
-				?
-			</td>
-			<td>
-				7,7 km (4,8 mi)
-			</td>
-			<td>
-				4,9 km (3,0 mi)
-			</td>
-			<td>
-				4,7 km (2,9 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -248,7 +248,7 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				0%
 			</td>
 			<td>
-				60 kW
+				48 kW
 			</td>
 			<td>
 				 0 m 0 s
@@ -262,10 +262,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				1%
 			</td>
 			<td>
-				64 kW
+				51 kW
 			</td>
 			<td>
-				 0 m 27 s
+				 0 m 34 s
 			</td>
 			<td>
 				0,4 kWh
@@ -276,10 +276,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				2%
 			</td>
 			<td>
-				68 kW
+				55 kW
 			</td>
 			<td>
-				 0 m 54 s
+				 1 m 7 s
 			</td>
 			<td>
 				0,9 kWh
@@ -290,10 +290,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				3%
 			</td>
 			<td>
-				73 kW
+				58 kW
 			</td>
 			<td>
-				 1 m 18 s
+				 1 m 38 s
 			</td>
 			<td>
 				1,3 kWh
@@ -304,10 +304,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				4%
 			</td>
 			<td>
-				77 kW
+				61 kW
 			</td>
 			<td>
-				 1 m 42 s
+				 2 m 7 s
 			</td>
 			<td>
 				1,8 kWh
@@ -318,10 +318,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				5%
 			</td>
 			<td>
-				81 kW
+				65 kW
 			</td>
 			<td>
-				 2 m 4 s
+				 2 m 35 s
 			</td>
 			<td>
 				2,2 kWh
@@ -332,10 +332,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				6%
 			</td>
 			<td>
-				85 kW
+				68 kW
 			</td>
 			<td>
-				 2 m 25 s
+				 3 m 1 s
 			</td>
 			<td>
 				2,7 kWh
@@ -346,10 +346,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				7%
 			</td>
 			<td>
-				85 kW
+				68 kW
 			</td>
 			<td>
-				 2 m 45 s
+				 3 m 27 s
 			</td>
 			<td>
 				3,1 kWh
@@ -360,10 +360,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				8%
 			</td>
 			<td>
-				85 kW
+				68 kW
 			</td>
 			<td>
-				 3 m 6 s
+				 3 m 52 s
 			</td>
 			<td>
 				3,6 kWh
@@ -374,10 +374,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				9%
 			</td>
 			<td>
-				85 kW
+				68 kW
 			</td>
 			<td>
-				 3 m 26 s
+				 4 m 18 s
 			</td>
 			<td>
 				4,0 kWh
@@ -388,10 +388,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				10%
 			</td>
 			<td>
-				85 kW
+				68 kW
 			</td>
 			<td>
-				 3 m 47 s
+				 4 m 43 s
 			</td>
 			<td>
 				4,5 kWh
@@ -402,10 +402,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				11%
 			</td>
 			<td>
-				86 kW
+				69 kW
 			</td>
 			<td>
-				 4 m 7 s
+				 5 m 9 s
 			</td>
 			<td>
 				4,9 kWh
@@ -416,10 +416,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				12%
 			</td>
 			<td>
-				86 kW
+				69 kW
 			</td>
 			<td>
-				 4 m 27 s
+				 5 m 34 s
 			</td>
 			<td>
 				5,4 kWh
@@ -430,10 +430,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				13%
 			</td>
 			<td>
-				86 kW
+				69 kW
 			</td>
 			<td>
-				 4 m 47 s
+				 5 m 59 s
 			</td>
 			<td>
 				5,8 kWh
@@ -444,10 +444,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				14%
 			</td>
 			<td>
-				86 kW
+				69 kW
 			</td>
 			<td>
-				 5 m 7 s
+				 6 m 24 s
 			</td>
 			<td>
 				6,3 kWh
@@ -458,10 +458,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				15%
 			</td>
 			<td>
-				86 kW
+				69 kW
 			</td>
 			<td>
-				 5 m 28 s
+				 6 m 49 s
 			</td>
 			<td>
 				6,7 kWh
@@ -472,10 +472,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				16%
 			</td>
 			<td>
-				86 kW
+				69 kW
 			</td>
 			<td>
-				 5 m 48 s
+				 7 m 15 s
 			</td>
 			<td>
 				7,2 kWh
@@ -486,10 +486,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				17%
 			</td>
 			<td>
-				87 kW
+				70 kW
 			</td>
 			<td>
-				 6 m 8 s
+				 7 m 40 s
 			</td>
 			<td>
 				7,6 kWh
@@ -500,10 +500,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				18%
 			</td>
 			<td>
-				87 kW
+				70 kW
 			</td>
 			<td>
-				 6 m 28 s
+				 8 m 4 s
 			</td>
 			<td>
 				8,1 kWh
@@ -514,10 +514,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				19%
 			</td>
 			<td>
-				87 kW
+				70 kW
 			</td>
 			<td>
-				 6 m 48 s
+				 8 m 29 s
 			</td>
 			<td>
 				8,5 kWh
@@ -528,10 +528,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				20%
 			</td>
 			<td>
-				87 kW
+				70 kW
 			</td>
 			<td>
-				 7 m 8 s
+				 8 m 54 s
 			</td>
 			<td>
 				9,0 kWh
@@ -542,10 +542,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				21%
 			</td>
 			<td>
-				87 kW
+				70 kW
 			</td>
 			<td>
-				 7 m 28 s
+				 9 m 19 s
 			</td>
 			<td>
 				9,4 kWh
@@ -556,10 +556,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				22%
 			</td>
 			<td>
-				87 kW
+				70 kW
 			</td>
 			<td>
-				 7 m 48 s
+				 9 m 44 s
 			</td>
 			<td>
 				9,9 kWh
@@ -570,10 +570,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				23%
 			</td>
 			<td>
-				87 kW
+				70 kW
 			</td>
 			<td>
-				 8 m 8 s
+				 10 m 9 s
 			</td>
 			<td>
 				10,3 kWh
@@ -584,10 +584,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				24%
 			</td>
 			<td>
-				87 kW
+				70 kW
 			</td>
 			<td>
-				 8 m 28 s
+				 10 m 33 s
 			</td>
 			<td>
 				10,8 kWh
@@ -598,10 +598,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				25%
 			</td>
 			<td>
-				87 kW
+				70 kW
 			</td>
 			<td>
-				 8 m 48 s
+				 10 m 58 s
 			</td>
 			<td>
 				11,2 kWh
@@ -612,10 +612,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				26%
 			</td>
 			<td>
-				87 kW
+				70 kW
 			</td>
 			<td>
-				 9 m 8 s
+				 11 m 23 s
 			</td>
 			<td>
 				11,7 kWh
@@ -626,10 +626,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				27%
 			</td>
 			<td>
-				87 kW
+				70 kW
 			</td>
 			<td>
-				 9 m 28 s
+				 11 m 48 s
 			</td>
 			<td>
 				12,1 kWh
@@ -640,10 +640,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				28%
 			</td>
 			<td>
-				87 kW
+				70 kW
 			</td>
 			<td>
-				 9 m 48 s
+				 12 m 13 s
 			</td>
 			<td>
 				12,6 kWh
@@ -654,10 +654,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				29%
 			</td>
 			<td>
-				87 kW
+				70 kW
 			</td>
 			<td>
-				 10 m 8 s
+				 12 m 38 s
 			</td>
 			<td>
 				13,0 kWh
@@ -668,10 +668,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				30%
 			</td>
 			<td>
-				87 kW
+				70 kW
 			</td>
 			<td>
-				 10 m 28 s
+				 13 m 2 s
 			</td>
 			<td>
 				13,5 kWh
@@ -682,10 +682,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				31%
 			</td>
 			<td>
-				86 kW
+				69 kW
 			</td>
 			<td>
-				 10 m 48 s
+				 13 m 27 s
 			</td>
 			<td>
 				13,9 kWh
@@ -696,10 +696,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				32%
 			</td>
 			<td>
-				51 kW
+				41 kW
 			</td>
 			<td>
-				 11 m 13 s
+				 13 m 59 s
 			</td>
 			<td>
 				14,4 kWh
@@ -710,10 +710,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				33%
 			</td>
 			<td>
-				51 kW
+				41 kW
 			</td>
 			<td>
-				 11 m 47 s
+				 14 m 41 s
 			</td>
 			<td>
 				14,8 kWh
@@ -724,10 +724,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				34%
 			</td>
 			<td>
-				51 kW
+				41 kW
 			</td>
 			<td>
-				 12 m 21 s
+				 15 m 24 s
 			</td>
 			<td>
 				15,3 kWh
@@ -738,10 +738,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				35%
 			</td>
 			<td>
-				51 kW
+				41 kW
 			</td>
 			<td>
-				 12 m 55 s
+				 16 m 6 s
 			</td>
 			<td>
 				15,7 kWh
@@ -752,10 +752,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				36%
 			</td>
 			<td>
-				52 kW
+				42 kW
 			</td>
 			<td>
-				 13 m 29 s
+				 16 m 48 s
 			</td>
 			<td>
 				16,2 kWh
@@ -766,10 +766,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				37%
 			</td>
 			<td>
-				87 kW
+				70 kW
 			</td>
 			<td>
-				 13 m 54 s
+				 17 m 19 s
 			</td>
 			<td>
 				16,6 kWh
@@ -780,10 +780,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				38%
 			</td>
 			<td>
-				88 kW
+				70 kW
 			</td>
 			<td>
-				 14 m 14 s
+				 17 m 44 s
 			</td>
 			<td>
 				17,1 kWh
@@ -794,10 +794,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				39%
 			</td>
 			<td>
-				88 kW
+				70 kW
 			</td>
 			<td>
-				 14 m 34 s
+				 18 m 9 s
 			</td>
 			<td>
 				17,5 kWh
@@ -808,10 +808,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				40%
 			</td>
 			<td>
-				88 kW
+				70 kW
 			</td>
 			<td>
-				 14 m 54 s
+				 18 m 34 s
 			</td>
 			<td>
 				18,0 kWh
@@ -822,10 +822,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				41%
 			</td>
 			<td>
-				86 kW
+				69 kW
 			</td>
 			<td>
-				 15 m 14 s
+				 18 m 59 s
 			</td>
 			<td>
 				18,4 kWh
@@ -836,10 +836,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				42%
 			</td>
 			<td>
-				86 kW
+				69 kW
 			</td>
 			<td>
-				 15 m 34 s
+				 19 m 24 s
 			</td>
 			<td>
 				18,9 kWh
@@ -850,10 +850,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				43%
 			</td>
 			<td>
-				51 kW
+				41 kW
 			</td>
 			<td>
-				 15 m 59 s
+				 19 m 55 s
 			</td>
 			<td>
 				19,3 kWh
@@ -864,10 +864,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				44%
 			</td>
 			<td>
-				51 kW
+				41 kW
 			</td>
 			<td>
-				 16 m 33 s
+				 20 m 38 s
 			</td>
 			<td>
 				19,8 kWh
@@ -878,10 +878,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				45%
 			</td>
 			<td>
-				51 kW
+				41 kW
 			</td>
 			<td>
-				 17 m 7 s
+				 21 m 20 s
 			</td>
 			<td>
 				20,2 kWh
@@ -892,10 +892,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				46%
 			</td>
 			<td>
-				51 kW
+				41 kW
 			</td>
 			<td>
-				 17 m 41 s
+				 22 m 3 s
 			</td>
 			<td>
 				20,7 kWh
@@ -906,10 +906,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				47%
 			</td>
 			<td>
-				51 kW
+				41 kW
 			</td>
 			<td>
-				 18 m 15 s
+				 22 m 45 s
 			</td>
 			<td>
 				21,1 kWh
@@ -920,10 +920,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				48%
 			</td>
 			<td>
-				69 kW
+				55 kW
 			</td>
 			<td>
-				 18 m 44 s
+				 23 m 21 s
 			</td>
 			<td>
 				21,6 kWh
@@ -934,10 +934,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				49%
 			</td>
 			<td>
-				58 kW
+				46 kW
 			</td>
 			<td>
-				 19 m 12 s
+				 23 m 56 s
 			</td>
 			<td>
 				22,0 kWh
@@ -948,10 +948,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				50%
 			</td>
 			<td>
-				58 kW
+				46 kW
 			</td>
 			<td>
-				 19 m 42 s
+				 24 m 33 s
 			</td>
 			<td>
 				22,4 kWh
@@ -962,10 +962,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				51%
 			</td>
 			<td>
-				58 kW
+				46 kW
 			</td>
 			<td>
-				 20 m 12 s
+				 25 m 11 s
 			</td>
 			<td>
 				22,9 kWh
@@ -976,10 +976,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				52%
 			</td>
 			<td>
-				58 kW
+				46 kW
 			</td>
 			<td>
-				 20 m 42 s
+				 25 m 49 s
 			</td>
 			<td>
 				23,3 kWh
@@ -990,10 +990,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				53%
 			</td>
 			<td>
-				58 kW
+				46 kW
 			</td>
 			<td>
-				 21 m 12 s
+				 26 m 27 s
 			</td>
 			<td>
 				23,8 kWh
@@ -1004,10 +1004,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				54%
 			</td>
 			<td>
-				58 kW
+				46 kW
 			</td>
 			<td>
-				 21 m 42 s
+				 27 m 5 s
 			</td>
 			<td>
 				24,2 kWh
@@ -1018,10 +1018,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				55%
 			</td>
 			<td>
-				58 kW
+				46 kW
 			</td>
 			<td>
-				 22 m 12 s
+				 27 m 42 s
 			</td>
 			<td>
 				24,7 kWh
@@ -1032,10 +1032,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				56%
 			</td>
 			<td>
-				58 kW
+				46 kW
 			</td>
 			<td>
-				 22 m 42 s
+				 28 m 20 s
 			</td>
 			<td>
 				25,1 kWh
@@ -1046,10 +1046,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				57%
 			</td>
 			<td>
-				58 kW
+				46 kW
 			</td>
 			<td>
-				 23 m 12 s
+				 28 m 58 s
 			</td>
 			<td>
 				25,6 kWh
@@ -1060,10 +1060,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				58%
 			</td>
 			<td>
-				58 kW
+				46 kW
 			</td>
 			<td>
-				 23 m 41 s
+				 29 m 36 s
 			</td>
 			<td>
 				26,0 kWh
@@ -1074,10 +1074,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				59%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 24 m 11 s
+				 30 m 13 s
 			</td>
 			<td>
 				26,5 kWh
@@ -1088,10 +1088,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				60%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 24 m 41 s
+				 30 m 50 s
 			</td>
 			<td>
 				26,9 kWh
@@ -1102,10 +1102,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				61%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 25 m 10 s
+				 31 m 27 s
 			</td>
 			<td>
 				27,4 kWh
@@ -1116,10 +1116,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				62%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 25 m 40 s
+				 32 m 4 s
 			</td>
 			<td>
 				27,8 kWh
@@ -1130,10 +1130,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				63%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 26 m 9 s
+				 32 m 41 s
 			</td>
 			<td>
 				28,3 kWh
@@ -1144,10 +1144,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				64%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 26 m 38 s
+				 33 m 18 s
 			</td>
 			<td>
 				28,7 kWh
@@ -1158,10 +1158,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				65%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 27 m 8 s
+				 33 m 55 s
 			</td>
 			<td>
 				29,2 kWh
@@ -1172,10 +1172,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				66%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 27 m 37 s
+				 34 m 32 s
 			</td>
 			<td>
 				29,6 kWh
@@ -1186,10 +1186,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				67%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 28 m 7 s
+				 35 m 9 s
 			</td>
 			<td>
 				30,1 kWh
@@ -1200,10 +1200,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				68%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 28 m 36 s
+				 35 m 46 s
 			</td>
 			<td>
 				30,5 kWh
@@ -1214,10 +1214,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				69%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 29 m 6 s
+				 36 m 23 s
 			</td>
 			<td>
 				31,0 kWh
@@ -1228,10 +1228,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				70%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 29 m 35 s
+				 37 m 0 s
 			</td>
 			<td>
 				31,4 kWh
@@ -1242,10 +1242,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				71%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 30 m 5 s
+				 37 m 37 s
 			</td>
 			<td>
 				31,9 kWh
@@ -1256,10 +1256,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				72%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 30 m 34 s
+				 38 m 14 s
 			</td>
 			<td>
 				32,3 kWh
@@ -1270,10 +1270,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				73%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 31 m 4 s
+				 38 m 51 s
 			</td>
 			<td>
 				32,8 kWh
@@ -1284,10 +1284,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				74%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 31 m 33 s
+				 39 m 28 s
 			</td>
 			<td>
 				33,2 kWh
@@ -1298,10 +1298,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				75%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 32 m 3 s
+				 40 m 5 s
 			</td>
 			<td>
 				33,7 kWh
@@ -1312,10 +1312,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				76%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 32 m 32 s
+				 40 m 42 s
 			</td>
 			<td>
 				34,1 kWh
@@ -1326,10 +1326,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				77%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 33 m 1 s
+				 41 m 19 s
 			</td>
 			<td>
 				34,6 kWh
@@ -1340,10 +1340,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				78%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 33 m 31 s
+				 41 m 56 s
 			</td>
 			<td>
 				35,0 kWh
@@ -1354,10 +1354,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				79%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 34 m 0 s
+				 42 m 33 s
 			</td>
 			<td>
 				35,5 kWh
@@ -1368,10 +1368,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				80%
 			</td>
 			<td>
-				59 kW
+				47 kW
 			</td>
 			<td>
-				 34 m 30 s
+				 43 m 10 s
 			</td>
 			<td>
 				35,9 kWh
@@ -1382,10 +1382,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				81%
 			</td>
 			<td>
-				58 kW
+				46 kW
 			</td>
 			<td>
-				 35 m 0 s
+				 43 m 47 s
 			</td>
 			<td>
 				36,4 kWh
@@ -1396,10 +1396,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				82%
 			</td>
 			<td>
-				58 kW
+				46 kW
 			</td>
 			<td>
-				 35 m 29 s
+				 44 m 25 s
 			</td>
 			<td>
 				36,8 kWh
@@ -1410,10 +1410,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				83%
 			</td>
 			<td>
-				58 kW
+				46 kW
 			</td>
 			<td>
-				 35 m 59 s
+				 45 m 3 s
 			</td>
 			<td>
 				37,3 kWh
@@ -1424,10 +1424,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				84%
 			</td>
 			<td>
-				52 kW
+				42 kW
 			</td>
 			<td>
-				 36 m 31 s
+				 45 m 42 s
 			</td>
 			<td>
 				37,7 kWh
@@ -1438,10 +1438,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				85%
 			</td>
 			<td>
-				32 kW
+				26 kW
 			</td>
 			<td>
-				 37 m 12 s
+				 46 m 33 s
 			</td>
 			<td>
 				38,2 kWh
@@ -1452,10 +1452,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				86%
 			</td>
 			<td>
-				32 kW
+				26 kW
 			</td>
 			<td>
-				 38 m 7 s
+				 47 m 40 s
 			</td>
 			<td>
 				38,6 kWh
@@ -1466,10 +1466,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				87%
 			</td>
 			<td>
-				33 kW
+				26 kW
 			</td>
 			<td>
-				 39 m 0 s
+				 48 m 47 s
 			</td>
 			<td>
 				39,1 kWh
@@ -1480,10 +1480,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				88%
 			</td>
 			<td>
-				33 kW
+				26 kW
 			</td>
 			<td>
-				 39 m 53 s
+				 49 m 54 s
 			</td>
 			<td>
 				39,5 kWh
@@ -1494,10 +1494,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				89%
 			</td>
 			<td>
-				33 kW
+				26 kW
 			</td>
 			<td>
-				 40 m 46 s
+				 51 m 1 s
 			</td>
 			<td>
 				40,0 kWh
@@ -1508,10 +1508,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				90%
 			</td>
 			<td>
-				33 kW
+				26 kW
 			</td>
 			<td>
-				 41 m 38 s
+				 52 m 7 s
 			</td>
 			<td>
 				40,4 kWh
@@ -1522,10 +1522,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				91%
 			</td>
 			<td>
-				32 kW
+				25 kW
 			</td>
 			<td>
-				 42 m 32 s
+				 53 m 16 s
 			</td>
 			<td>
 				40,9 kWh
@@ -1536,10 +1536,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				92%
 			</td>
 			<td>
-				30 kW
+				24 kW
 			</td>
 			<td>
-				 43 m 28 s
+				 54 m 27 s
 			</td>
 			<td>
 				41,3 kWh
@@ -1550,10 +1550,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				93%
 			</td>
 			<td>
-				29 kW
+				23 kW
 			</td>
 			<td>
-				 44 m 26 s
+				 55 m 40 s
 			</td>
 			<td>
 				41,8 kWh
@@ -1564,10 +1564,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				94%
 			</td>
 			<td>
-				28 kW
+				22 kW
 			</td>
 			<td>
-				 45 m 27 s
+				 56 m 58 s
 			</td>
 			<td>
 				42,2 kWh
@@ -1578,10 +1578,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				95%
 			</td>
 			<td>
-				27 kW
+				21 kW
 			</td>
 			<td>
-				 46 m 31 s
+				 58 m 19 s
 			</td>
 			<td>
 				42,7 kWh
@@ -1592,10 +1592,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				96%
 			</td>
 			<td>
-				25 kW
+				20 kW
 			</td>
 			<td>
-				 47 m 39 s
+				 59 m 43 s
 			</td>
 			<td>
 				43,1 kWh
@@ -1606,10 +1606,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				97%
 			</td>
 			<td>
-				24 kW
+				19 kW
 			</td>
 			<td>
-				 48 m 50 s
+				1 h 1 m 12 s
 			</td>
 			<td>
 				43,6 kWh
@@ -1620,10 +1620,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				98%
 			</td>
 			<td>
-				23 kW
+				18 kW
 			</td>
 			<td>
-				 50 m 4 s
+				1 h 2 m 46 s
 			</td>
 			<td>
 				44,0 kWh
@@ -1634,10 +1634,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				99%
 			</td>
 			<td>
-				21 kW
+				17 kW
 			</td>
 			<td>
-				 51 m 23 s
+				1 h 4 m 26 s
 			</td>
 			<td>
 				44,5 kWh
@@ -1648,10 +1648,10 @@ Ovanstående laddningskurva gäller vid **[optimala förhållanden](../../../../
 				100%
 			</td>
 			<td>
-				20 kW
+				16 kW
 			</td>
 			<td>
-				 52 m 48 s
+				1 h 6 m 11 s
 			</td>
 			<td>
 				44,9 kWh

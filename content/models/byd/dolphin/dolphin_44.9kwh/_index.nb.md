@@ -38,9 +38,9 @@ Batteriet med høy kapasitet har en brutto kapasitet på 46,0 kWh og en netto br
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, er kjørelengden 340 km (211 miles), med et energiforbruk på 13,2 kWh/100 km (4,7 mi/kWh). For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 65 kW. Lading fra 0% til 100% tar omtrent 53 minutter, mens et mer typisk scenario fra 10% til 80% tar 31 minutter med en gjennomsnittlig ladehastighet på 61 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 0% til 43%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 55 kW, hvor hver ladeøkt tar omtrent 21 minutter og 60 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 65 kW. Lading fra 0% til 100% tar omtrent 66 minutter, mens et mer typisk scenario fra 10% til 80% tar 38 minutter med en gjennomsnittlig ladehastighet på 49 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 1% til 43%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 46 kW, hvor hver ladeøkt tar omtrent 24 minutter og 21 sekunder.
 
-I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 22 kWh/100 km, vil turen ta omtrent 11 timer og 32 minutter, og kreve ti ladestopp fra 3% til 42%, totalt 193 minutter ladetid.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 22 kWh/100 km, vil turen ta omtrent 12 timer og 7 minutter, og kreve ti ladestopp fra 3% til 42%, totalt 228 minutter ladetid.
 
 ### Innebygd lader
 
@@ -85,7 +85,9 @@ BYD Dolphin 44.9kWh er utstyrt med [støpejernsskivebremser](../../../../technol
 
 ### Regenerativ bremsing
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. [Regenerativ bremsing](../../../../technology/regen/) skjer via [**kjøring med én pedal**](../../../../technology/regen/#one-pedal-driving) kombinert med [**kombinerte bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. [Regenerativ bremsing](../../../../technology/regen/) skjer via [**kjøring med én pedal**](../../../../technology/regen/#one-pedal-driving) kombinert med [**kombinerte bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Dette regnes imidlertid ikke som fullstendig énpedalkjøring siden bilen ved lave hastigheter vil fortsette å rulle til den stopper av seg selv.
+
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten av gasspedalen. Det er to nivåer å velge mellom, slik at du kan tilpasse kjøreopplevelsen etter eget ønske.
 
 Den maksimale regenerative effekten er 100 kW.
 

@@ -230,6 +230,8 @@ El Ford Puma Gen-E viene con una aplicación móvil dedicada, disponible tanto p
 - **Localizar Su Vehículo:** Compruebe fácilmente la ubicación actual de su coche.
 - **Preacondicionamiento:** Precaliente o enfríe su coche antes de comenzar su viaje para un confort óptimo.
 - **Bloquear y Desbloquear:** Bloquee o desbloquee de forma segura las puertas de su coche con un toque.
+- **Programación de Carga:** Planifique y programe sesiones de carga antes de sus viajes.
+- **Ajustar Objetivo de Carga:** Establezca su nivel de carga deseado para iniciar o detener la carga según sea necesario.
 
 ## Luces
 

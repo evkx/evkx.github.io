@@ -1,7 +1,7 @@
 ---
 title: BYD elbilsmodeller
 linktitle: "BYD"
-description: "BYD (Build Your Dreams) är en kinesisk bil- och teknologijätte grundad **1995** i Shenzhen. Ursprungligen en ledare inom uppladdningsbara batterier, gick BYD in på bilmarknaden **2003** och blev snabbt en global pionjär inom elfordon (EVs). Känd för innovationer som **Blade Battery** och dess avancerade **e-Platform 3.0**, kombinerar BYD effektivitet, säkerhet och överkomlighet. Med en växande global närvaro som sträcker sig över **Kina, Europa, Sydostasien** och **Latinamerika**, producerar BYD elfordon, bussar och energilösningar och driver skiftet mot **hållbar mobilitet**. Viktiga modeller inkluderar **BYD Dolphin**, **Seal** och lyxerbjudanden under **Yangwang**."
+description: "BYD (Build Your Dreams) är en kinesisk bil- och teknologijätte grundad 1995 i Shenzhen. Ursprungligen en ledare inom uppladdningsbara batterier, gick BYD in på bilmarknaden 2003 och blev snabbt en global pionjär inom elfordon (EVs). Känd för innovationer som Blade Battery och dess avancerade e-Platform 3.0, kombinerar BYD effektivitet, säkerhet och överkomlighet. Med en växande global närvaro som sträcker sig över Kina, Europa, Sydostasien och Latinamerika, producerar BYD elfordon, bussar och energilösningar och driver skiftet mot hållbar mobilitet. Viktiga modeller inkluderar BYD Dolphin, Seal och lyxerbjudanden under Yangwang."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->

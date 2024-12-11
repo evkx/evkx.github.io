@@ -230,6 +230,8 @@ Ford Puma Gen-E kommer med en dedikert mobilapp, tilgjengelig for både Android 
 - **Finn bilen din:** Enkelt sjekk bilens nåværende posisjon.
 - **Forkondisjonering:** Forhåndsvarm eller avkjøl bilen før du starter reisen for optimal komfort.
 - **Lås og lås opp:** Lås eller lås opp bildørene sikkert med et tastetrykk.
+- **Planlagt lading:** Planlegg og tidsinnstill ladeøkter før reisene dine.
+- **Juster lademål:** Angi ønsket ladenivå for å starte eller stoppe lading etter behov.
 
 ## Lys
 

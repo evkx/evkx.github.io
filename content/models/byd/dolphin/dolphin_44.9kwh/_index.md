@@ -38,9 +38,9 @@ The high-capacity battery has a gross capacity of 46.0 kWh and a net usable capa
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 340 km (211 miles), with an energy consumption rate of 13.2 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 65 kW. Charging from 0% to 100% takes approximately 53 minutes, while a more typical scenario from 10% to 80% takes 31 minutes with an average charging speed of 61 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 43%. This results in an effective charging speed, including time lost, of 55 kW, with each charging session taking about 21 minutes and 60 seconds.
+The vehicle supports fast DC charging with a maximum power of 65 kW. Charging from 0% to 100% takes approximately 66 minutes, while a more typical scenario from 10% to 80% takes 38 minutes with an average charging speed of 49 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 43%. This results in an effective charging speed, including time lost, of 46 kW, with each charging session taking about 24 minutes and 21 seconds.
 
-In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 22 kWh/100 km, the trip would take about 11 hours and 32 minutes, requiring ten charging stops from 3% to 42%, totaling 193 minutes of charging time.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 22 kWh/100 km, the trip would take about 12 hours and 7 minutes, requiring ten charging stops from 3% to 42%, totaling 228 minutes of charging time.
 
 ### Onboard Charger
 
@@ -85,7 +85,9 @@ The BYD Dolphin 44.9kWh is equipped with [cast-iron disc brakes](../../../../tec
 
 ### Regenerative Braking
 
-[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
+
+Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are two levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
 The maximum regenerative power is 100 kW.
 

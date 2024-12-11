@@ -23,17 +23,17 @@ Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Dolphin acceleration, braking and noise test</h3>
+<p>Bjørn Nyland: 09.06.2024</p>
+
+{{< youtube DCnny9IVoc0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>BYD Dolphin interior review</h3>
 <p>Bjørn Nyland: 08.06.2024</p>
 
 {{< youtube VXZhS-q_jfg >}}
-
-</div>
-<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>BYD Dolphin range test</h3>
-<p>Bjørn Nyland: 07.06.2024</p>
-
-{{< youtube EDK2bTPoIns >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">

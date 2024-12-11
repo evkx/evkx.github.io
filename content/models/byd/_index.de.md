@@ -1,7 +1,7 @@
 ---
 title: BYD EV-Modelle
 linktitle: "BYD"
-description: "BYD (Build Your Dreams) ist ein chinesischer Automobil- und Technologieriese, der **1995** in Shenzhen gegründet wurde. Ursprünglich ein führendes Unternehmen für wiederaufladbare Batterien, trat BYD **2003** in den Automobilmarkt ein und wurde schnell zu einem globalen Pionier für Elektrofahrzeuge (EVs). Bekannt für Innovationen wie die **Blade Battery** und die fortschrittliche **e-Platform 3.0**, kombiniert BYD Effizienz, Sicherheit und Erschwinglichkeit. Mit einer wachsenden globalen Präsenz, die **China, Europa, Südostasien** und **Lateinamerika** umfasst, produziert BYD Elektrofahrzeuge, Busse und Energielösungen und treibt den Wandel hin zu **nachhaltiger Mobilität** voran. Wichtige Modelle sind der **BYD Dolphin**, **Seal** und Luxusangebote unter **Yangwang**."
+description: "BYD (Build Your Dreams) ist ein chinesischer Automobil- und Technologieriese, der 1995 in Shenzhen gegründet wurde. Ursprünglich ein führendes Unternehmen für wiederaufladbare Batterien, trat BYD 2003 in den Automobilmarkt ein und wurde schnell zu einem globalen Pionier für Elektrofahrzeuge (EVs). Bekannt für Innovationen wie die Blade Battery und die fortschrittliche e-Platform 3.0, kombiniert BYD Effizienz, Sicherheit und Erschwinglichkeit. Mit einer wachsenden globalen Präsenz, die China, Europa, Südostasien und Lateinamerika umfasst, produziert BYD Elektrofahrzeuge, Busse und Energielösungen und treibt den Wandel hin zu nachhaltiger Mobilität voran. Wichtige Modelle sind der BYD Dolphin, Seal und Luxusangebote unter Yangwang."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->

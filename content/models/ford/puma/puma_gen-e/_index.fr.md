@@ -230,6 +230,8 @@ Le Ford Puma Gen-E est livré avec une application mobile dédiée, disponible p
 - **Localiser votre véhicule :** Vérifiez facilement l'emplacement actuel de votre voiture.
 - **Préconditionnement :** Préchauffez ou rafraîchissez votre voiture avant de commencer votre voyage pour un confort optimal.
 - **Verrouiller & Déverrouiller :** Verrouillez ou déverrouillez les portes de votre voiture en un seul clic.
+- **Planification de la charge :** Planifiez et programmez des sessions de charge avant vos trajets.
+- **Ajuster la cible de charge :** Définissez votre niveau de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
 
 ## Éclairage
 

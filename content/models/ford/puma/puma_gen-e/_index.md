@@ -230,6 +230,8 @@ The Ford Puma Gen-E comes with a dedicated mobile app, available for both Androi
 - **Locate Your Vehicle:** Easily check the current location of your car.
 - **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
 - **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Scheduled Charging:** Plan and schedule charging sessions ahead of your trips.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
 
 ## Lights
 

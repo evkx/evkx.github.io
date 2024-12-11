@@ -38,9 +38,9 @@ Batteriet med hög kapacitet har en bruttokapacitet på 46,0 kWh och en nettoanv
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 315 km (196 miles), med en energiförbrukning på 14,3 kWh/100 km (3 mi/kWh). För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Fordonet stöder snabbladdning med likström med en maximal effekt på 65 kW. Laddning från 0% till 100% tar ungefär 53 minuter, medan ett mer typiskt scenario från 10% till 80% tar 31 minuter med en genomsnittlig laddningshastighet på 61 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 0% till 43%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 55 kW, där varje laddningssession tar cirka 21 minuter och 60 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 65 kW. Laddning från 0% till 100% tar ungefär 66 minuter, medan ett mer typiskt scenario från 10% till 80% tar 38 minuter med en genomsnittlig laddningshastighet på 49 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 43%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 46 kW, där varje laddningssession tar cirka 24 minuter och 21 sekunder.
 
-I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 11 timmar och 32 minuter, med tio laddningsstopp från 3% till 42%, totalt 193 minuters laddtid.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 12 timmar och 7 minuter, med tio laddningsstopp från 3% till 42%, totalt 228 minuters laddtid.
 
 ### Inbyggd laddare
 
@@ -85,7 +85,9 @@ BYD Dolphin 44.9kWh Boost är utrustad med [gjutjärnsskivbromsar](../../../../t
 
 ### Regenerativ bromsning
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Däremot erbjuds [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalkörning**](../../../../technology/regen/#one-pedal-driving) i kombination med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Däremot erbjuds [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalkörning**](../../../../technology/regen/#one-pedal-driving) i kombination med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal). Det anses dock inte vara fullständig enpedalkörning eftersom fordonet vid låga hastigheter fortsätter att rulla tills det stannar av sig själv.
+
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket låter dig anpassa körupplevelsen efter dina preferenser.
 
 Den maximala regenerativa effekten är 100 kW.
 

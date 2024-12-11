@@ -38,9 +38,9 @@ La batería de alta capacidad tiene una capacidad bruta de 46,0 kWh y una capaci
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo es de 315 km (196 millas), con una tasa de consumo de energía de 14,3 kWh/100 km (3 mi/kWh). Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-El vehículo admite carga rápida DC con una potencia máxima de 65 kW. Cargar del 0% al 100% toma aproximadamente 53 minutos, mientras que un escenario más típico del 10% al 80% toma 31 minutos con una velocidad de carga promedio de 61 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 0% al 43%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 55 kW, con cada sesión de carga tomando aproximadamente 21 minutos y 60 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 65 kW. Cargar del 0% al 100% toma aproximadamente 66 minutos, mientras que un escenario más típico del 10% al 80% toma 38 minutos con una velocidad de carga promedio de 49 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 1% al 43%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 46 kW, con cada sesión de carga tomando aproximadamente 24 minutos y 21 segundos.
 
-En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 22 kWh/100 km, el viaje tomaría aproximadamente 11 horas y 32 minutos, requiriendo diez paradas de carga del 3% al 42%, totalizando 193 minutos de tiempo de carga.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 22 kWh/100 km, el viaje tomaría aproximadamente 12 horas y 7 minutos, requiriendo diez paradas de carga del 3% al 42%, totalizando 228 minutos de tiempo de carga.
 
 ### Cargador a Bordo
 
@@ -85,7 +85,9 @@ El BYD Dolphin 44.9kWh Boost está equipado con [frenos de disco de hierro fundi
 
 ### Frenado Regenerativo
 
-[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinada con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinada con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal). Sin embargo, no se considera una conducción completa con un solo pedal ya que, a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí solo.
+
+Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 
 La potencia máxima de regeneración es de 100 kW.
 
