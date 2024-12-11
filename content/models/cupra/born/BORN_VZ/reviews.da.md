@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi samler anmeldelser fra vores [foretrukne online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Charging the NEW Cupra Born VZ (79kWh) from 9-90% at Ionity</h3>
+<p>Battery Life: 11.12.2024</p>
+
+{{< youtube QzzfcZQt0GA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The new Cupra Born 2024 is just better</h3>
 <p>Battery Life: 29.11.2024</p>
 

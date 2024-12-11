@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons des critiques de nos [critiques en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Kia EV3 vs Skoda Elroq vs Mini Aceman review | Road trip costs compared! | What Car? | What Car?</h3>
+<p>What Car?: 11.12.2024</p>
+
+{{< youtube Wp7oS9wFfME >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>FIRST LOOK: Škoda Elroq. Seen and driven. Better than the Enyaq?</h3>
 <p>Electrifying: 01.10.2024</p>
 

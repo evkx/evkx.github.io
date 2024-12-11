@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi samlar recensioner från våra [favoritrecensenter online](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Opel Frontera review | Hybrid and electric both tested!</h3>
+<p>Nobby On Cars: 11.12.2024</p>
+
+{{< youtube MMeT8eM35_Q >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The German Dacia Duster? All-new Opel Frontera / Vauxhall Frontera driving REVIEW</h3>
 <p>Autogefühl: 06.12.2024</p>
 

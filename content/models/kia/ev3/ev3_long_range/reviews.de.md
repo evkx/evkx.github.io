@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Kia EV3 vs Skoda Elroq vs Mini Aceman review | Road trip costs compared! | What Car? | What Car?</h3>
+<p>What Car?: 11.12.2024</p>
+
+{{< youtube Wp7oS9wFfME >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Kia EV3 prøvekjørt i Portugal</h3>
 <p>Nybiltester: 23.11.2024</p>
 

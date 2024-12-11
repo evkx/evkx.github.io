@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Lucid Air Touring Has A Surprising Result In Our Road Trip 10% Challenge, Twice!</h3>
+<p>Out of Spec Testing: 11.12.2024</p>
+
+{{< youtube hgUrYF6yUko >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Lucid Air 3 Month &amp; 15,000mi Review! What We Love &amp; Hate, Testing Results - The Best Luxury EV</h3>
 <p>Out of Spec Reviews: 30.11.2024</p>
 

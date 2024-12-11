@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Porsche Macan 4 | 610km (381mi) LONG TRIP TEST (Cold Weather)</h3>
+<p>Kris Rifa: 11.12.2024</p>
+
+{{< youtube r9e3NlF3DP4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Polestar 3 vs Porsche Macan vs Audi Q6 E-Tron | WHICH SHOULD YOU BUY?</h3>
 <p>Kris Rifa: 08.12.2024</p>
 
