@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080" >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000" >}}
 EVKX.net vill ha de mest kompletta specifikationerna för Kia EV6 GT. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Kia EV6 GT, gå till [chargeinfo](../chargecurve/) för Kia EV6 GT med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
@@ -31,7 +31,15 @@ EVKX.net vill ha de mest kompletta specifikationerna för Kia EV6 GT. Klicka på
 				Max effekt
 			</td>
 			<td>
-				430 KW (585 hk)
+				447 KW (608 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max effekt med boost
+			</td>
+			<td>
+				478 KW (650 hk)
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +61,14 @@ EVKX.net vill ha de mest kompletta specifikationerna för Kia EV6 GT. Klicka på
 		<tr>
 			<td>
 				0-100 km/h (0-62 mph)
+			</td>
+			<td>
+				3,5 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
 				3,5 s
@@ -83,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd
 			</td>
 			<td>
-				424 km
+				450 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				17,5 kWh/100km
+				17,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +142,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				77,4 kWh
+				84 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +150,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				74 kWh
+				80 kWh
 			</td>
 		</tr>
 		<tr>

@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 GT
 linktitle: "EV6 GT"
-description: "Kia EV6 GT är en elektrisk coupéSUV med en WLTP-räckvidd på upp till 424 km (264 miles). EVKX.net har alla detaljer."
+description: "Kia EV6 GT är en elektrisk coupéSUV med en WLTP-räckvidd på upp till 450 km (280 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000"  >}}
 
 Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
@@ -28,25 +28,25 @@ Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Kl
 
 ## Prestanda
 
-Kia EV6 GT levererar imponerande kraft med en maxeffekt på 430 kW (585 hk / 577 bhp) och ett kraftfullt totalt vridmoment på 740 Nm (546 lb-ft). Denna högpresterande maskin kan spurta från 0 till 100 km/h på endast 3,5 sekunder, och den når en toppfart på 260 km/h (162 mph), vilket gör den till en utmärkande bil i sin klass.
+Kia EV6 GT levererar imponerande kraft med en maxeffekt på 447 kW (608 hk / 599 bhp) och ett kraftfullt totalt vridmoment på 740 Nm (546 lb-ft). Denna högpresterande maskin kan spurta från 0 till 100 km/h på endast 3,5 sekunder, och den når en toppfart på 260 km/h (162 mph), vilket gör den till en utmärkande bil i sin klass.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, räckvidd och laddning
 
-Batteriet med hög kapacitet har en bruttokapacitet på 77,4 kWh och en nettoanvändbar kapacitet på 74,0 kWh, vilket ger en 3,4 kWh buffert (4,4%) för batteriskydd. Med en driftspänning på 697 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter.
+Batteriet med hög kapacitet har en bruttokapacitet på 84,0 kWh och en nettoanvändbar kapacitet på 80,0 kWh, vilket ger en 4,0 kWh buffert (4,8%) för batteriskydd. Med en driftspänning på 697 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter.
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 424 km (264 miles), med en energiförbrukning på 17,5 kWh/100 km (3 mi/kWh). För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 450 km (280 miles), med en energiförbrukning på 17,8 kWh/100 km (3 mi/kWh). För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Fordonet stöder snabbladdning med likström med en maximal effekt på 233 kW. Laddning från 0% till 100% tar ungefär 39 minuter, medan ett mer typiskt scenario från 10% till 80% tar 17 minuter med en genomsnittlig laddningshastighet på 188 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 76%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 149 kW, där varje laddningssession tar cirka 22 minuter och 20 sekunder. Denna effektiva laddningsförmåga gör Kia EV6 GT till ett bekvämt alternativ för långdistansresor.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 233 kW. Laddning från 0% till 100% tar ungefär 42 minuter, medan ett mer typiskt scenario från 10% till 80% tar 18 minuter med en genomsnittlig laddningshastighet på 188 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 75%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 152 kW, där varje laddningssession tar cirka 23 minuter och 26 sekunder. Denna effektiva laddningsförmåga gör Kia EV6 GT till ett bekvämt alternativ för långdistansresor.
 
-I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 25,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 33 minuter, med tre laddningsstopp från 1% till 83%, totalt 74 minuters laddtid.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 25,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 29 minuter, med tre laddningsstopp från 1% till 74%, totalt 69 minuters laddtid.
 
 ### Inbyggd laddare
 
-Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 6 timmar och 43 minuter vid hemmaladdning.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 7 timmar och 16 minuter vid hemmaladdning.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/charging_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/charging_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000"  >}}
 
 ### Laddningsport
 
@@ -86,7 +86,7 @@ Det finns bara ett takalternativ för denna modell. Standardtaket har ett soltak
 
 Du kan även beställa bilen med tonade rutor från B-stolpen och bakåt, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="3000" height="2168"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -116,7 +116,7 @@ Finns tillgänglig i:
 
 - Gray [mikrofiber/konstläderklädsel](../../../../technology/seats/materials/#microfiber)
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000"  >}}
 
 #### Andra radens säten
 
@@ -124,8 +124,6 @@ Andra raden har en standard tresätesoffa med 60:40 delning, vilket möjliggör 
 
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (standard för yttersäten)
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/secondrowseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -159,8 +157,6 @@ Viktiga skärmdetaljer:
 - touch-skärmen på höger sida av den delade ramen är 12,3 tum stor
 
 En head-up display är ett tillval system som projicerar hastighet och annan viktig förarinformation på vindrutan.
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/screens_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 ### Ratt
 
@@ -199,7 +195,7 @@ Dessutom har modellen 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-an
 
 Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/headlights_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/headlights_1_st.jpg" title="Kia EV6 GT" width="3000" height="2024"  >}}
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -247,7 +243,4 @@ Bagageutrymmet har en lastkapacitet på 480 liter (17,0 kubikfot). Med baksätet
 Fordonets maximala vikt är 2610 kg (5754 lbs), med en tjänstevikt på 2125 kg (4685 lbs). Detta möjliggör en maximal last på 485 kg (1069 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten. 485kg anses lågt för denna typ av bil och kan begränsa hur mycket last du kan ta med utöver passagerare.
 
 Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 1600 kg (3527 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/trunk_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
-
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 GT
 linktitle: "EV6 GT"
-description: "Kia EV6 GT er en elektrisk SUV-kupé med en WLTP rekkevidde på opptil 424 km (264 miles). EVKX.net har alle detaljene."
+description: "Kia EV6 GT er en elektrisk SUV-kupé med en WLTP rekkevidde på opptil 450 km (280 miles). EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000"  >}}
 
 Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering. Klikk på lenkene nedenfor for å hoppe til ulike områder eller les videre for hele artikkelen. I tillegg tilbyr vi en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [nettanmeldelser](reviews/). Våre seksjoner inkluderer:
 
@@ -28,25 +28,25 @@ Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering
 
 ## Ytelse
 
-Kia EV6 GT har imponerende kraft med en maksimal effekt på 430 kW (585 hk / 577 bhp) og et kommanderende totalt dreiemoment på 740 Nm (546 lb-ft). Denne høyytelsesmaskinen kan sprinte fra 0 til 100 km/t på bare 3,5 sekunder, og den når en topphastighet på 260 km/t (162 mph), noe som gjør den til en utmerket i sin klasse.
+Kia EV6 GT har imponerende kraft med en maksimal effekt på 447 kW (608 hk / 599 bhp) og et kommanderende totalt dreiemoment på 740 Nm (546 lb-ft). Denne høyytelsesmaskinen kan sprinte fra 0 til 100 km/t på bare 3,5 sekunder, og den når en topphastighet på 260 km/t (162 mph), noe som gjør den til en utmerket i sin klasse.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batteri, rekkevidde og lading
 
-Batteriet med høy kapasitet har en brutto kapasitet på 77,4 kWh og en netto brukbar kapasitet på 74,0 kWh, som gir en 3,4 kWh buffer (4,4%) for batteribeskyttelse. Med en driftsspenning på 697 volt, kvalifiserer det som et 800-volts batterisystem. Denne høye spenningen er avgjørende for systemets ladeegenskaper.
+Batteriet med høy kapasitet har en brutto kapasitet på 84,0 kWh og en netto brukbar kapasitet på 80,0 kWh, som gir en 4,0 kWh buffer (4,8%) for batteribeskyttelse. Med en driftsspenning på 697 volt, kvalifiserer det som et 800-volts batterisystem. Denne høye spenningen er avgjørende for systemets ladeegenskaper.
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, er kjørelengden 424 km (264 miles), med et energiforbruk på 17,5 kWh/100 km (3,6 mi/kWh). For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, er kjørelengden 450 km (280 miles), med et energiforbruk på 17,8 kWh/100 km (3,5 mi/kWh). For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 233 kW. Lading fra 0% til 100% tar omtrent 39 minutter, mens et mer typisk scenario fra 10% til 80% tar 17 minutter med en gjennomsnittlig ladehastighet på 188 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 1% til 76%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 149 kW, hvor hver ladeøkt tar omtrent 22 minutter og 20 sekunder. Denne effektive ladekapasiteten gjør Kia EV6 GT til et praktisk alternativ for langdistansekjøring.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 233 kW. Lading fra 0% til 100% tar omtrent 42 minutter, mens et mer typisk scenario fra 10% til 80% tar 18 minutter med en gjennomsnittlig ladehastighet på 188 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 1% til 75%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 152 kW, hvor hver ladeøkt tar omtrent 23 minutter og 26 sekunder. Denne effektive ladekapasiteten gjør Kia EV6 GT til et praktisk alternativ for langdistansekjøring.
 
-I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 25,5 kWh/100 km, vil turen ta omtrent 9 timer og 33 minutter, og kreve tre ladestopp fra 1% til 83%, totalt 74 minutter ladetid.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 25,5 kWh/100 km, vil turen ta omtrent 9 timer og 29 minutter, og kreve tre ladestopp fra 1% til 74%, totalt 69 minutter ladetid.
 
 ### Innebygd lader
 
-Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 6 timer og 43 minutter ved bruk av et hjemmeoppsett.
+Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 7 timer og 16 minutter ved bruk av et hjemmeoppsett.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/charging_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/charging_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000"  >}}
 
 ### Ladekontakt
 
@@ -86,7 +86,7 @@ Det er kun ett takalternativ for denne modellen. Standardtaket har et soltak. Gl
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, som gir bedre privatliv og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="3000" height="2168"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -116,7 +116,7 @@ Tilgjengelig i:
 
 - Gray [mikrofiber/kunstskinn-trekk](../../../../technology/seats/materials/#microfiber)
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000"  >}}
 
 #### Andre seterad
 
@@ -124,8 +124,6 @@ Andre seterad har en standard treseter-benk med 60:40 deling, som lar hver del f
 
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/secondrowseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -159,8 +157,6 @@ Viktige skjermdetaljer:
 - touch-skjermen på høyre side av den felles rammen er 12,3 tommer stor
 
 Et head-up display er en valgfri system som projiserer hastighet og annen viktig førerinformasjon på frontruten.
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/screens_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 ### Ratt
 
@@ -199,7 +195,7 @@ I tillegg har modellen 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-t
 
 Baklysene bruker LED-teknologi, som sikrer både god synlighet og energieffektivitet.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/headlights_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/headlights_1_st.jpg" title="Kia EV6 GT" width="3000" height="2024"  >}}
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -247,7 +243,4 @@ Bagasjerommet har en lastekapasitet på 480 liter (17,0 CU FT). Med baksetet ned
 Kjøretøyets maksimale vekt er 2610 kg (5754 lbs), med en egenvekt på 2125 kg (4685 lbs). Dette tillater en maksimal last på 485 kg (1069 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet. 485kg regnes som lavt for denne typen bil og kan begrense hvor mye du kan ta med i tillegg til passasjerer.
 
 Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med brems er 1600 kg (3527 lbs), og for tilhenger uten brems er det 750 kg (1653 lbs).
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/trunk_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
-
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

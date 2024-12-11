@@ -452,7 +452,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller rul ned for
 		Kia, en sydkoreansk bilproducent grundlagt i 1944, har udviklet sig til en global leder kendt for innovation og kvalitet. Med et stærkt fokus på elektrisk mobilitet udvider Kia sit EV-sortiment med henblik på bæredygtighed og avanceret teknologi. Mærkets engagement i tilgængelige, miljøvenlige køretøjer positionerer det som en nøglespiller på EV-markedet.
 	</p>
 	<p>
-	Kia har 4 modeller med i alt 13 varianter.
+	Kia har 4 modeller med i alt 14 varianter.
 	</p>
 	<a href="kia/" class="btn btn-outline-primary" role="button">Gå til Kia EV-model oversigt</a>
 </div>

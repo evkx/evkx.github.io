@@ -40,10 +40,10 @@ Vous trouverez ci-dessous les autonomies officiellement évaluées. Les tests so
 				</a>
 			</td>
 			<td>
-				424 km / 263 mi
+				450 km / 280 mi
 			</td>
 			<td>
-				17,45kWh/100km / 3,6 mi/kWh
+				17,78kWh/100km / 3,5 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Vous trouverez ci-dessous les autonomies officiellement évaluées. Les tests so
 				</a>
 			</td>
 			<td>
-				424 km / 263 mi
+				450 km / 280 mi
 			</td>
 			<td>
-				17,45 kWh/100km / 3,6 mi/kWh
+				17,78 kWh/100km / 3,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Le tableau ci-dessous montre comment l'activation du chauffage/de la climatisati
 				Autonomie WLTP version de base avec climatisation 2 kW
 			</td>
 			<td>
-				 340km / 211 mi 
+				 362km / 225 mi 
 			</td>
 			<td>
-				-19,8%
+				-19,6%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Le tableau ci-dessous montre comment l'activation du chauffage/de la climatisati
 				Autonomie WLTP version haut de gamme avec climatisation 2 kW
 			</td>
 			<td>
-				340 km / 211 mi
+				362 km / 225 mi
 			</td>
 			<td>
-				-19,8%
+				-19,6%
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ Le tableau ci-dessous montre quelques exemples estimés en conditions réelles e
 				90 km/h / 56 mph en conditions parfaites
 			</td>
 			<td>
-				400km / 249 mi
+				432km / 268 mi
 			</td>
 			<td>
 				18,5 kWh/100km / 3,4 mi/kWh
@@ -143,7 +143,7 @@ Le tableau ci-dessous montre quelques exemples estimés en conditions réelles e
 				90 km/h / 56 mph avec chauffage 2 kW
 			</td>
 			<td>
-				367km /222mi
+				396km /240mi
 			</td>
 			<td>
 				20,7 kWh/100km /3,0 mi/kWh 
@@ -154,7 +154,7 @@ Le tableau ci-dessous montre quelques exemples estimés en conditions réelles e
 				120 km/h / 75 mph en conditions parfaites
 			</td>
 			<td>
-				290 km / 180 mi
+				314 km / 195 mi
 			</td>
 			<td>
 				25,5 kWh/100km / 2,4 mi/kWh
@@ -165,7 +165,7 @@ Le tableau ci-dessous montre quelques exemples estimés en conditions réelles e
 				120 km/h / 75 mph avec chauffage 2 kW
 			</td>
 			<td>
-				272 km /169mi
+				295 km /183mi
 			</td>
 			<td>
 				27,2 kWh/100km /2,3 mi/kWh

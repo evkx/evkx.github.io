@@ -512,7 +512,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Kia, a South Korean automaker founded in 1944, has evolved into a global leader known for innovation and quality. With a strong focus on electric mobility, Kia is expanding its EV lineup, aiming for sustainability and cutting-edge technology. The brand's commitment to accessible, eco-friendly vehicles positions it as a key player in the EV market.
 	</p>
 	<p>
-	Kia has 4 models with total 13 variants.
+	Kia has 4 models with total 14 variants.
 	</p>
 	<a href="kia/" class="btn btn-outline-primary" role="button">Go to Kia EV-model overview</a>
 </div>

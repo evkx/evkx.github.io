@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080" >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000" >}}
 EVKX.net busca tener las especificaciones más completas para Kia EV6 GT. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Kia EV6 GT, visite [chargeinfo](../chargecurve/) para Kia EV6 GT con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
@@ -31,7 +31,15 @@ EVKX.net busca tener las especificaciones más completas para Kia EV6 GT. Haga c
 				Potencia máxima
 			</td>
 			<td>
-				430 KW (585 hp)
+				447 KW (608 hp)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Potencia máxima con impulso
+			</td>
+			<td>
+				478 KW (650 hp)
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +61,14 @@ EVKX.net busca tener las especificaciones más completas para Kia EV6 GT. Haga c
 		<tr>
 			<td>
 				0-100 km/h (0-62 mph)
+			</td>
+			<td>
+				3,5 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
 				3,5 s
@@ -83,7 +99,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP
 			</td>
 			<td>
-				424 km
+				450 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +107,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP
 			</td>
 			<td>
-				17,5 kWh/100km
+				17,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +142,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				77,4 kWh
+				84 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +150,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				74 kWh
+				80 kWh
 			</td>
 		</tr>
 		<tr>

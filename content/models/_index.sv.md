@@ -455,7 +455,7 @@ Klicka på logotyperna nedan för att gå direkt till märkessidan, eller scroll
 		Kia, en sydkoreansk biltillverkare grundad 1944, har utvecklats till en global ledare känd för innovation och kvalitet. Med starkt fokus på elektrisk mobilitet utökar Kia sitt utbud av elbilar, med målet att uppnå hållbarhet och banbrytande teknik. Märkets engagemang för tillgängliga, miljövänliga fordon positionerar det som en nyckelaktör på elbilsmarknaden.
 	</p>
 	<p>
-	Kia har 4 modeller med totalt 13 varianter.
+	Kia har 4 modeller med totalt 14 varianter.
 	</p>
 	<a href="kia/" class="btn btn-outline-primary" role="button">Gå till Kia översikt över elbilsmodeller</a>
 </div>

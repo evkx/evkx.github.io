@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080" >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV6 GT. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Kia EV6 GT, gå til [chargeinfo](../chargecurve/) for Kia EV6 GT med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +31,15 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV6 GT. Klikk p
 				Maks effekt
 			</td>
 			<td>
-				430 KW (585 hk)
+				447 KW (608 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks effekt med boost
+			</td>
+			<td>
+				478 KW (650 hk)
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +61,14 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV6 GT. Klikk p
 		<tr>
 			<td>
 				0-100 km/t (0-62 mph)
+			</td>
+			<td>
+				3,5 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
 				3,5 s
@@ -83,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-rekkevidde
 			</td>
 			<td>
-				424 km
+				450 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +107,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				17,5 kWh/100km
+				17,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +142,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				77,4 kWh
+				84 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +150,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				74 kWh
+				80 kWh
 			</td>
 		</tr>
 		<tr>

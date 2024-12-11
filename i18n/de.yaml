@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-85591985
+  translation: Kia EV6 GT ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 450 km (280 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-c8a83f84
   translation: BYD Dolphin 44.9kWh Boost ist ein vollelektrisches Schrägheck mit einer Reichweite von bis zu 315 km (196 Meilen). EVKX.net hat alle Details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-153939db
   translation: BYD Sealion 7 Excellence ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 502 km (312 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-6277a297
-  translation: Porsche Taycan GTS ist eine vollelektrische Luxus-Limousine mit einer Reichweite von bis zu 628 km (390 Meilen). EVKX.net hat alle Details.
 

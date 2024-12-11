@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 GT
 linktitle: "EV6 GT"
-description: "Kia EV6 GT es un SUV cupé eléctrico con una autonomía WLTP de hasta 424 km (264 millas). EVKX.net tiene todos los detalles."
+description: "Kia EV6 GT es un SUV cupé eléctrico con una autonomía WLTP de hasta 450 km (280 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000"  >}}
 
 Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
@@ -28,25 +28,25 @@ Hemos organizado este artículo en secciones específicas para una navegación m
 
 ## Rendimiento
 
-El Kia EV6 GT ofrece una impresionante potencia máxima de 430 kW (585 hp / 577 bhp) y un par total de 740 Nm (546 lb-ft). Este vehículo de alto rendimiento puede acelerar de 0 a 100 km/h (0 a 62 mph) en solo 3,5 segundos y alcanza una velocidad máxima de 260 km/h (162 mph), destacándose en su clase.
+El Kia EV6 GT ofrece una impresionante potencia máxima de 447 kW (608 hp / 599 bhp) y un par total de 740 Nm (546 lb-ft). Este vehículo de alto rendimiento puede acelerar de 0 a 100 km/h (0 a 62 mph) en solo 3,5 segundos y alcanza una velocidad máxima de 260 km/h (162 mph), destacándose en su clase.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 77,4 kWh y una capacidad neta utilizable de 74,0 kWh, proporcionando un buffer de 3,4 kWh (4,4%) para la protección de la batería. Operando a un voltaje nominal de 697 voltios, califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
+La batería de alta capacidad tiene una capacidad bruta de 84,0 kWh y una capacidad neta utilizable de 80,0 kWh, proporcionando un buffer de 4,0 kWh (4,8%) para la protección de la batería. Operando a un voltaje nominal de 697 voltios, califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
-Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo es de 424 km (264 millas), con una tasa de consumo de energía de 17,5 kWh/100 km (3 mi/kWh). Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo es de 450 km (280 millas), con una tasa de consumo de energía de 17,8 kWh/100 km (3 mi/kWh). Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-El vehículo admite carga rápida DC con una potencia máxima de 233 kW. Cargar del 0% al 100% toma aproximadamente 39 minutos, mientras que un escenario más típico del 10% al 80% toma 17 minutos con una velocidad de carga promedio de 188 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 1% al 76%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 149 kW, con cada sesión de carga tomando aproximadamente 22 minutos y 20 segundos. Esta capacidad de carga eficiente hace que el Kia EV6 GT sea una opción conveniente para viajes de larga distancia.
+El vehículo admite carga rápida DC con una potencia máxima de 233 kW. Cargar del 0% al 100% toma aproximadamente 42 minutos, mientras que un escenario más típico del 10% al 80% toma 18 minutos con una velocidad de carga promedio de 188 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 1% al 75%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 152 kW, con cada sesión de carga tomando aproximadamente 23 minutos y 26 segundos. Esta capacidad de carga eficiente hace que el Kia EV6 GT sea una opción conveniente para viajes de larga distancia.
 
-En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 25,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 33 minutos, requiriendo tres paradas de carga del 1% al 83%, totalizando 74 minutos de tiempo de carga.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 25,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 29 minutos, requiriendo tres paradas de carga del 1% al 74%, totalizando 69 minutos de tiempo de carga.
 
 ### Cargador a Bordo
 
-El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 6 horas y 43 minutos usando una configuración doméstica.
+El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 7 horas y 16 minutos usando una configuración doméstica.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/charging_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/charging_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000"  >}}
 
 ### Puerto de Carga
 
@@ -86,7 +86,7 @@ Solo hay una opción de techo para este modelo. El techo estándar tiene un tech
 
 Además, puede pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="3000" height="2168"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -116,7 +116,7 @@ Disponible en:
 
 - Gray [tapicería de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000"  >}}
 
 #### Asientos de la Segunda Fila
 
@@ -124,8 +124,6 @@ La segunda fila cuenta con un banco estándar de tres asientos con una división
 
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (estándar para los asientos exteriores)
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/secondrowseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -159,8 +157,6 @@ Detalles clave de la pantalla:
 - La pantalla touch en la parte derecha del marco compartido mide 12,3 pulgadas.
 
 Un sistema de visualización frontal es una opción que proyecta la velocidad y otra información importante del conductor en el parabrisas.
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/screens_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 ### Volante
 
@@ -199,7 +195,7 @@ Además, el modelo incluye 4 conexiones USB-C como estándar. El modelo tiene 1 
 
 Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/headlights_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/headlights_1_st.jpg" title="Kia EV6 GT" width="3000" height="2024"  >}}
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -247,7 +243,4 @@ El maletero ofrece una capacidad de carga de 480 litros (17,0 pies cúbicos). Co
 El peso máximo del vehículo es de 2610 kg (5754 libras), con un peso base de 2125 kg (4685 libras). Esto permite una carga máxima de 485 kg (1069 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 485 kg se considera bajo para este tipo de coche y podría restringir la cantidad de cosas que puede llevar además de los pasajeros.
 
 Se puede agregar un enganche de remolque al vehículo. El peso máximo permitido para un remolque con freno es de 1600 kg (3527 lbs), mientras que para un remolque sin freno, es de 750 kg (1653 lbs).
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/trunk_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
-
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Autonomía" >}}

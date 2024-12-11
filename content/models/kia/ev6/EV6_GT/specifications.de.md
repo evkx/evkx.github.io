@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080" >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000" >}}
 EVKX.net strebt an, die vollständigsten Spezifikationen für Kia EV6 GT zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Kia EV6 GT, besuchen Sie die [Ladeinformationen](../chargecurve/) für Kia EV6 GT mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
@@ -31,7 +31,15 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Kia EV6 GT zu habe
 				Spitzenleistung
 			</td>
 			<td>
-				430 KW (585 PS /577 bhp)
+				447 KW (608 PS /599 bhp)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spitzenleistung mit Boost
+			</td>
+			<td>
+				478 KW (650 PS /641 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +61,14 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Kia EV6 GT zu habe
 		<tr>
 			<td>
 				0-100 km/h (0-62 mph)
+			</td>
+			<td>
+				3,5 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/h (0-62 mph) mit Boost
 			</td>
 			<td>
 				3,5 s
@@ -83,7 +99,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Reichweite
 			</td>
 			<td>
-				424 km
+				450 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +107,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch
 			</td>
 			<td>
-				17,5 kWh/100km
+				17,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +142,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bruttokapazität der Batterie
 			</td>
 			<td>
-				77,4 kWh
+				84 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +150,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nettokapazität der Batterie
 			</td>
 			<td>
-				74 kWh
+				80 kWh
 			</td>
 		</tr>
 		<tr>

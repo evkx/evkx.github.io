@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 GT
 linktitle: "EV6 GT"
-description: "Kia EV6 GT ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 424 km (264 Meilen). EVKX.net hat alle Details."
+description: "Kia EV6 GT ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 450 km (280 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000"  >}}
 
 Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu erleichtern. Klicken Sie auf die untenstehenden Links, um zu verschiedenen Bereichen zu springen, oder lesen Sie den gesamten Artikel. Wir haben auch eine Übersicht über die [vollständigen Spezifikationen](specifications/), eine [Bildergalerie](gallery/), detaillierte Informationen zur [Ladeleistung](chargingcurve/) und einige [Online-Bewertungen](reviews/). Unsere Abschnitte:
 
@@ -28,25 +28,25 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der Kia EV6 GT bietet eine beeindruckende Leistung mit einer maximalen Leistung von 430 kW (585 PS / 577 bhp) und einem beachtlichen Gesamtdrehmoment von 740 Nm (546 lb-ft). Diese Hochleistungsmaschine kann in nur 3,5 Sekunden von 0 auf 100 km/h (0 auf 62 mph) sprinten und erreicht eine Höchstgeschwindigkeit von 260 km/h (162 mph), was sie zu einem herausragenden Fahrzeug in ihrer Klasse macht.
+Der Kia EV6 GT bietet eine beeindruckende Leistung mit einer maximalen Leistung von 447 kW (608 PS / 599 bhp) und einem beachtlichen Gesamtdrehmoment von 740 Nm (546 lb-ft). Diese Hochleistungsmaschine kann in nur 3,5 Sekunden von 0 auf 100 km/h (0 auf 62 mph) sprinten und erreicht eine Höchstgeschwindigkeit von 260 km/h (162 mph), was sie zu einem herausragenden Fahrzeug in ihrer Klasse macht.
 
 <a id="section-battery" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 77,4 kWh und eine nutzbare Nettokapazität von 74,0 kWh, was einen Puffer von 3,4 kWh (4,4%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 697 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 84,0 kWh und eine nutzbare Nettokapazität von 80,0 kWh, was einen Puffer von 4,0 kWh (4,8%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 697 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 424 km (264 Meilen) mit einem Energieverbrauch von 17,5 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 450 km (280 Meilen) mit einem Energieverbrauch von 17,8 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 233 kW. Das Laden von 0% auf 100% dauert etwa 39 Minuten, während ein typischer Ladevorgang von 10% auf 80% 17 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 188 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 76%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 149 kW, wobei jede Ladesitzung etwa 22 Minuten und 20 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Kia EV6 GT zu einer bequemen Option für Langstreckenreisen.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 233 kW. Das Laden von 0% auf 100% dauert etwa 42 Minuten, während ein typischer Ladevorgang von 10% auf 80% 18 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 188 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 75%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 152 kW, wobei jede Ladesitzung etwa 23 Minuten und 26 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Kia EV6 GT zu einer bequemen Option für Langstreckenreisen.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 25,5 kWh/100 km, würde die Fahrt etwa 9 Stunden und 33 Minuten dauern. Diese Reise würde drei Ladestopps von 1% auf 83% erfordern, mit einer gesamten Ladezeit von 74 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 25,5 kWh/100 km, würde die Fahrt etwa 9 Stunden und 29 Minuten dauern. Diese Reise würde drei Ladestopps von 1% auf 74% erfordern, mit einer gesamten Ladezeit von 69 Minuten.
 
 ### Bordladegerät
 
-Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 6 Stunden und 43 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 16 Minuten vollständig von 0 auf 100% aufzuladen.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/charging_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/charging_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000"  >}}
 
 ### Ladeanschluss
 
@@ -86,7 +86,7 @@ Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein Schiebe
 
 Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hinten bestellen, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="3000" height="2168"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -116,7 +116,7 @@ Verfügbar in:
 
 - Gray [Mikrofaser/Kunstleder-Polsterung](../../../../technology/seats/materials/#microfiber)
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000"  >}}
 
 #### Rücksitzreihe
 
@@ -124,8 +124,6 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Spl
 
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/secondrowseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -159,8 +157,6 @@ Wichtige Bildschirmdetails:
 - Der touch-Bildschirm auf der rechten Seite des gemeinsamen Rahmens ist 12,3 Zoll groß.
 
 Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und andere wichtige Fahrerinformationen auf die Windschutzscheibe projiziert.
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/screens_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 ### Lenkrad
 
@@ -199,7 +195,7 @@ Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse. Das M
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/headlights_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/headlights_1_st.jpg" title="Kia EV6 GT" width="3000" height="2024"  >}}
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -247,7 +243,4 @@ Der Kofferraum bietet ein Ladevolumen von 480 Litern (17,0 CU FT). Mit umgeklapp
 Das maximale Gewicht des Fahrzeugs beträgt 2610 kg (5754 lbs) bei einem Leergewicht von 2125 kg (4685 lbs). Dies ermöglicht eine maximale Zuladung von 485 kg (1069 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 485 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1600 kg (3527 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/trunk_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
-
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Reichweite" >}}

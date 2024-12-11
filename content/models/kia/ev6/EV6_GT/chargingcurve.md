@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Max C-Rate
 			</td>
 			<td>
-				3.02
+				2.79
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Average C-Rate
 			</td>
 			<td>
-				2.29
+				2.11
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Optimum charging area
 			</td>
 			<td>
-				1% - 76%
+				1% - 75%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Optimum charging speed included 5 minutes loss
 			</td>
 			<td>
-				149.1kW
+				151.6kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Optimum charge stop time
 			</td>
 			<td>
-				22m20s
+				23m26s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Charging time 0 - 100%
 			</td>
 			<td>
-				 38 m 42 s
+				 41 m 51 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Charging time 10-100%
 			</td>
 			<td>
-				 36 m 21 s
+				 39 m 18 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Charging time 10-80%
 			</td>
 			<td>
-				 16 m 34 s
+				 17 m 54 s
 			</td>
 		</tr>
 	</tbody>
@@ -172,7 +172,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				11,0 km (6,8 mi)
+				10,8 km (6,7 mi)
 			</td>
 			<td>
 				?
@@ -189,7 +189,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				10,5 km (6,5 mi)
+				10,3 km (6,4 mi)
 			</td>
 			<td>
 				?
@@ -206,7 +206,7 @@ navicon: bi-battery-charging
 				?
 			</td>
 			<td>
-				17,9 km (11,1 mi)
+				17,6 km (10,9 mi)
 			</td>
 			<td>
 				?
@@ -268,10 +268,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				205 kW
 			</td>
 			<td>
-				 0 m 22 s
+				 0 m 24 s
 			</td>
 			<td>
-				0.7 kWh
+				0.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,10 +282,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				213 kW
 			</td>
 			<td>
-				 0 m 36 s
+				 0 m 39 s
 			</td>
 			<td>
-				1.5 kWh
+				1.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -296,10 +296,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				215 kW
 			</td>
 			<td>
-				 0 m 49 s
+				 0 m 53 s
 			</td>
 			<td>
-				2.2 kWh
+				2.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -310,10 +310,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				215 kW
 			</td>
 			<td>
-				 1 m 2 s
+				 1 m 7 s
 			</td>
 			<td>
-				3.0 kWh
+				3.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -324,10 +324,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				217 kW
 			</td>
 			<td>
-				 1 m 16 s
+				 1 m 22 s
 			</td>
 			<td>
-				3.7 kWh
+				4.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -338,10 +338,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				218 kW
 			</td>
 			<td>
-				 1 m 29 s
+				 1 m 36 s
 			</td>
 			<td>
-				4.4 kWh
+				4.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -352,10 +352,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				219 kW
 			</td>
 			<td>
-				 1 m 42 s
+				 1 m 50 s
 			</td>
 			<td>
-				5.2 kWh
+				5.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,10 +366,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				219 kW
 			</td>
 			<td>
-				 1 m 55 s
+				 2 m 4 s
 			</td>
 			<td>
-				5.9 kWh
+				6.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -380,10 +380,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				220 kW
 			</td>
 			<td>
-				 2 m 8 s
+				 2 m 18 s
 			</td>
 			<td>
-				6.7 kWh
+				7.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -394,10 +394,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				221 kW
 			</td>
 			<td>
-				 2 m 21 s
+				 2 m 33 s
 			</td>
 			<td>
-				7.4 kWh
+				8.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -408,10 +408,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				221 kW
 			</td>
 			<td>
-				 2 m 34 s
+				 2 m 47 s
 			</td>
 			<td>
-				8.1 kWh
+				8.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -422,10 +422,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				222 kW
 			</td>
 			<td>
-				 2 m 47 s
+				 3 m 1 s
 			</td>
 			<td>
-				8.9 kWh
+				9.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -436,10 +436,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				222 kW
 			</td>
 			<td>
-				 3 m 0 s
+				 3 m 14 s
 			</td>
 			<td>
-				9.6 kWh
+				10.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -450,10 +450,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				223 kW
 			</td>
 			<td>
-				 3 m 13 s
+				 3 m 28 s
 			</td>
 			<td>
-				10.4 kWh
+				11.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -464,10 +464,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				223 kW
 			</td>
 			<td>
-				 3 m 26 s
+				 3 m 42 s
 			</td>
 			<td>
-				11.1 kWh
+				12.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -478,10 +478,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				222 kW
 			</td>
 			<td>
-				 3 m 38 s
+				 3 m 56 s
 			</td>
 			<td>
-				11.8 kWh
+				12.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -492,10 +492,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				223 kW
 			</td>
 			<td>
-				 3 m 51 s
+				 4 m 10 s
 			</td>
 			<td>
-				12.6 kWh
+				13.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -506,10 +506,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				224 kW
 			</td>
 			<td>
-				 4 m 4 s
+				 4 m 24 s
 			</td>
 			<td>
-				13.3 kWh
+				14.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -520,10 +520,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				224 kW
 			</td>
 			<td>
-				 4 m 17 s
+				 4 m 38 s
 			</td>
 			<td>
-				14.1 kWh
+				15.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -534,10 +534,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				224 kW
 			</td>
 			<td>
-				 4 m 30 s
+				 4 m 52 s
 			</td>
 			<td>
-				14.8 kWh
+				16.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -548,10 +548,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				224 kW
 			</td>
 			<td>
-				 4 m 42 s
+				 5 m 5 s
 			</td>
 			<td>
-				15.5 kWh
+				16.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -562,10 +562,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				224 kW
 			</td>
 			<td>
-				 4 m 55 s
+				 5 m 19 s
 			</td>
 			<td>
-				16.3 kWh
+				17.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -576,10 +576,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				225 kW
 			</td>
 			<td>
-				 5 m 8 s
+				 5 m 33 s
 			</td>
 			<td>
-				17.0 kWh
+				18.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -590,10 +590,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				225 kW
 			</td>
 			<td>
-				 5 m 21 s
+				 5 m 47 s
 			</td>
 			<td>
-				17.8 kWh
+				19.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -604,10 +604,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				225 kW
 			</td>
 			<td>
-				 5 m 34 s
+				 6 m 1 s
 			</td>
 			<td>
-				18.5 kWh
+				20.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -618,10 +618,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				225 kW
 			</td>
 			<td>
-				 5 m 46 s
+				 6 m 14 s
 			</td>
 			<td>
-				19.2 kWh
+				20.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -632,10 +632,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				226 kW
 			</td>
 			<td>
-				 5 m 59 s
+				 6 m 28 s
 			</td>
 			<td>
-				20.0 kWh
+				21.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -646,10 +646,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				225 kW
 			</td>
 			<td>
-				 6 m 12 s
+				 6 m 42 s
 			</td>
 			<td>
-				20.7 kWh
+				22.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -660,10 +660,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				226 kW
 			</td>
 			<td>
-				 6 m 24 s
+				 6 m 56 s
 			</td>
 			<td>
-				21.5 kWh
+				23.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -674,10 +674,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				226 kW
 			</td>
 			<td>
-				 6 m 37 s
+				 7 m 9 s
 			</td>
 			<td>
-				22.2 kWh
+				24.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -688,10 +688,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				226 kW
 			</td>
 			<td>
-				 6 m 50 s
+				 7 m 23 s
 			</td>
 			<td>
-				22.9 kWh
+				24.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -702,10 +702,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				227 kW
 			</td>
 			<td>
-				 7 m 2 s
+				 7 m 37 s
 			</td>
 			<td>
-				23.7 kWh
+				25.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -716,10 +716,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				227 kW
 			</td>
 			<td>
-				 7 m 15 s
+				 7 m 50 s
 			</td>
 			<td>
-				24.4 kWh
+				26.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -730,10 +730,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				227 kW
 			</td>
 			<td>
-				 7 m 28 s
+				 8 m 4 s
 			</td>
 			<td>
-				25.2 kWh
+				27.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -744,10 +744,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				227 kW
 			</td>
 			<td>
-				 7 m 40 s
+				 8 m 18 s
 			</td>
 			<td>
-				25.9 kWh
+				28.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -758,10 +758,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				230 kW
 			</td>
 			<td>
-				 7 m 53 s
+				 8 m 31 s
 			</td>
 			<td>
-				26.6 kWh
+				28.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -772,10 +772,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				230 kW
 			</td>
 			<td>
-				 8 m 5 s
+				 8 m 45 s
 			</td>
 			<td>
-				27.4 kWh
+				29.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -786,10 +786,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				230 kW
 			</td>
 			<td>
-				 8 m 18 s
+				 8 m 58 s
 			</td>
 			<td>
-				28.1 kWh
+				30.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -800,10 +800,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				230 kW
 			</td>
 			<td>
-				 8 m 30 s
+				 9 m 11 s
 			</td>
 			<td>
-				28.9 kWh
+				31.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -814,10 +814,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				232 kW
 			</td>
 			<td>
-				 8 m 42 s
+				 9 m 25 s
 			</td>
 			<td>
-				29.6 kWh
+				32.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -828,10 +828,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				231 kW
 			</td>
 			<td>
-				 8 m 55 s
+				 9 m 38 s
 			</td>
 			<td>
-				30.3 kWh
+				32.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -842,10 +842,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				232 kW
 			</td>
 			<td>
-				 9 m 7 s
+				 9 m 52 s
 			</td>
 			<td>
-				31.1 kWh
+				33.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -856,10 +856,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				233 kW
 			</td>
 			<td>
-				 9 m 20 s
+				 10 m 5 s
 			</td>
 			<td>
-				31.8 kWh
+				34.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -870,10 +870,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				233 kW
 			</td>
 			<td>
-				 9 m 32 s
+				 10 m 18 s
 			</td>
 			<td>
-				32.6 kWh
+				35.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -884,10 +884,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				233 kW
 			</td>
 			<td>
-				 9 m 44 s
+				 10 m 32 s
 			</td>
 			<td>
-				33.3 kWh
+				36.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -898,10 +898,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				234 kW
 			</td>
 			<td>
-				 9 m 56 s
+				 10 m 45 s
 			</td>
 			<td>
-				34.0 kWh
+				36.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -912,10 +912,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				210 kW
 			</td>
 			<td>
-				 10 m 9 s
+				 10 m 59 s
 			</td>
 			<td>
-				34.8 kWh
+				37.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -926,10 +926,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				186 kW
 			</td>
 			<td>
-				 10 m 24 s
+				 11 m 14 s
 			</td>
 			<td>
-				35.5 kWh
+				38.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -940,10 +940,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				186 kW
 			</td>
 			<td>
-				 10 m 39 s
+				 11 m 31 s
 			</td>
 			<td>
-				36.3 kWh
+				39.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -954,10 +954,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				186 kW
 			</td>
 			<td>
-				 10 m 55 s
+				 11 m 48 s
 			</td>
 			<td>
-				37.0 kWh
+				40.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -968,10 +968,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				186 kW
 			</td>
 			<td>
-				 11 m 10 s
+				 12 m 4 s
 			</td>
 			<td>
-				37.7 kWh
+				40.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -982,10 +982,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				187 kW
 			</td>
 			<td>
-				 11 m 25 s
+				 12 m 21 s
 			</td>
 			<td>
-				38.5 kWh
+				41.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -996,10 +996,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				187 kW
 			</td>
 			<td>
-				 11 m 41 s
+				 12 m 38 s
 			</td>
 			<td>
-				39.2 kWh
+				42.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1010,10 +1010,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				188 kW
 			</td>
 			<td>
-				 11 m 56 s
+				 12 m 54 s
 			</td>
 			<td>
-				40.0 kWh
+				43.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1024,10 +1024,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				188 kW
 			</td>
 			<td>
-				 12 m 11 s
+				 13 m 11 s
 			</td>
 			<td>
-				40.7 kWh
+				44.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1038,10 +1038,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				189 kW
 			</td>
 			<td>
-				 12 m 26 s
+				 13 m 27 s
 			</td>
 			<td>
-				41.4 kWh
+				44.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1052,10 +1052,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				180 kW
 			</td>
 			<td>
-				 12 m 42 s
+				 13 m 44 s
 			</td>
 			<td>
-				42.2 kWh
+				45.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1066,10 +1066,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				182 kW
 			</td>
 			<td>
-				 12 m 58 s
+				 14 m 1 s
 			</td>
 			<td>
-				42.9 kWh
+				46.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1080,10 +1080,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				184 kW
 			</td>
 			<td>
-				 13 m 13 s
+				 14 m 18 s
 			</td>
 			<td>
-				43.7 kWh
+				47.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1094,10 +1094,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				185 kW
 			</td>
 			<td>
-				 13 m 29 s
+				 14 m 35 s
 			</td>
 			<td>
-				44.4 kWh
+				48.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1108,10 +1108,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				187 kW
 			</td>
 			<td>
-				 13 m 44 s
+				 14 m 51 s
 			</td>
 			<td>
-				45.1 kWh
+				48.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1122,10 +1122,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				189 kW
 			</td>
 			<td>
-				 14 m 0 s
+				 15 m 8 s
 			</td>
 			<td>
-				45.9 kWh
+				49.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1136,10 +1136,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				189 kW
 			</td>
 			<td>
-				 14 m 15 s
+				 15 m 24 s
 			</td>
 			<td>
-				46.6 kWh
+				50.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1150,10 +1150,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				190 kW
 			</td>
 			<td>
-				 14 m 30 s
+				 15 m 40 s
 			</td>
 			<td>
-				47.4 kWh
+				51.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1164,10 +1164,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				190 kW
 			</td>
 			<td>
-				 14 m 45 s
+				 15 m 57 s
 			</td>
 			<td>
-				48.1 kWh
+				52.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1178,10 +1178,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				191 kW
 			</td>
 			<td>
-				 15 m 0 s
+				 16 m 13 s
 			</td>
 			<td>
-				48.8 kWh
+				52.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1192,10 +1192,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				192 kW
 			</td>
 			<td>
-				 15 m 15 s
+				 16 m 29 s
 			</td>
 			<td>
-				49.6 kWh
+				53.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1206,10 +1206,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				193 kW
 			</td>
 			<td>
-				 15 m 30 s
+				 16 m 45 s
 			</td>
 			<td>
-				50.3 kWh
+				54.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1220,10 +1220,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				184 kW
 			</td>
 			<td>
-				 15 m 45 s
+				 17 m 2 s
 			</td>
 			<td>
-				51.1 kWh
+				55.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1234,10 +1234,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				184 kW
 			</td>
 			<td>
-				 16 m 1 s
+				 17 m 18 s
 			</td>
 			<td>
-				51.8 kWh
+				56.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1248,10 +1248,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				168 kW
 			</td>
 			<td>
-				 16 m 17 s
+				 17 m 36 s
 			</td>
 			<td>
-				52.5 kWh
+				56.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1262,10 +1262,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				168 kW
 			</td>
 			<td>
-				 16 m 34 s
+				 17 m 54 s
 			</td>
 			<td>
-				53.3 kWh
+				57.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1276,10 +1276,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				168 kW
 			</td>
 			<td>
-				 16 m 51 s
+				 18 m 13 s
 			</td>
 			<td>
-				54.0 kWh
+				58.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1290,10 +1290,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				169 kW
 			</td>
 			<td>
-				 17 m 8 s
+				 18 m 31 s
 			</td>
 			<td>
-				54.8 kWh
+				59.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1304,10 +1304,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				169 kW
 			</td>
 			<td>
-				 17 m 25 s
+				 18 m 50 s
 			</td>
 			<td>
-				55.5 kWh
+				60.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1318,10 +1318,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				157 kW
 			</td>
 			<td>
-				 17 m 42 s
+				 19 m 9 s
 			</td>
 			<td>
-				56.2 kWh
+				60.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1332,10 +1332,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				158 kW
 			</td>
 			<td>
-				 18 m 1 s
+				 19 m 28 s
 			</td>
 			<td>
-				57.0 kWh
+				61.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1346,10 +1346,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				158 kW
 			</td>
 			<td>
-				 18 m 19 s
+				 19 m 48 s
 			</td>
 			<td>
-				57.7 kWh
+				62.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1360,10 +1360,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				157 kW
 			</td>
 			<td>
-				 18 m 37 s
+				 20 m 8 s
 			</td>
 			<td>
-				58.5 kWh
+				63.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1374,10 +1374,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				158 kW
 			</td>
 			<td>
-				 18 m 55 s
+				 20 m 27 s
 			</td>
 			<td>
-				59.2 kWh
+				64.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1388,10 +1388,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				157 kW
 			</td>
 			<td>
-				 19 m 13 s
+				 20 m 47 s
 			</td>
 			<td>
-				59.9 kWh
+				64.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1402,10 +1402,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				140 kW
 			</td>
 			<td>
-				 19 m 33 s
+				 21 m 8 s
 			</td>
 			<td>
-				60.7 kWh
+				65.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1416,10 +1416,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				122 kW
 			</td>
 			<td>
-				 19 m 55 s
+				 21 m 32 s
 			</td>
 			<td>
-				61.4 kWh
+				66.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1430,10 +1430,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				122 kW
 			</td>
 			<td>
-				 20 m 18 s
+				 21 m 57 s
 			</td>
 			<td>
-				62.2 kWh
+				67.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1444,10 +1444,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				122 kW
 			</td>
 			<td>
-				 20 m 42 s
+				 22 m 22 s
 			</td>
 			<td>
-				62.9 kWh
+				68.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1458,10 +1458,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				97 kW
 			</td>
 			<td>
-				 21 m 8 s
+				 22 m 51 s
 			</td>
 			<td>
-				63.6 kWh
+				68.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1472,10 +1472,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				82 kW
 			</td>
 			<td>
-				 21 m 40 s
+				 23 m 25 s
 			</td>
 			<td>
-				64.4 kWh
+				69.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1486,10 +1486,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				73 kW
 			</td>
 			<td>
-				 22 m 17 s
+				 24 m 5 s
 			</td>
 			<td>
-				65.1 kWh
+				70.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1500,10 +1500,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				68 kW
 			</td>
 			<td>
-				 22 m 57 s
+				 24 m 49 s
 			</td>
 			<td>
-				65.9 kWh
+				71.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1514,10 +1514,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				63 kW
 			</td>
 			<td>
-				 23 m 41 s
+				 25 m 36 s
 			</td>
 			<td>
-				66.6 kWh
+				72.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1528,10 +1528,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				59 kW
 			</td>
 			<td>
-				 24 m 28 s
+				 26 m 27 s
 			</td>
 			<td>
-				67.3 kWh
+				72.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1542,10 +1542,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				53 kW
 			</td>
 			<td>
-				 25 m 19 s
+				 27 m 22 s
 			</td>
 			<td>
-				68.1 kWh
+				73.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1556,10 +1556,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				50 kW
 			</td>
 			<td>
-				 26 m 15 s
+				 28 m 23 s
 			</td>
 			<td>
-				68.8 kWh
+				74.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1570,10 +1570,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				44 kW
 			</td>
 			<td>
-				 27 m 16 s
+				 29 m 28 s
 			</td>
 			<td>
-				69.6 kWh
+				75.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1584,10 +1584,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				40 kW
 			</td>
 			<td>
-				 28 m 24 s
+				 30 m 42 s
 			</td>
 			<td>
-				70.3 kWh
+				76.0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1598,10 +1598,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				36 kW
 			</td>
 			<td>
-				 29 m 39 s
+				 32 m 4 s
 			</td>
 			<td>
-				71.0 kWh
+				76.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1612,10 +1612,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				31 kW
 			</td>
 			<td>
-				 31 m 5 s
+				 33 m 36 s
 			</td>
 			<td>
-				71.8 kWh
+				77.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1626,10 +1626,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				23 kW
 			</td>
 			<td>
-				 32 m 51 s
+				 35 m 31 s
 			</td>
 			<td>
-				72.5 kWh
+				78.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1640,10 +1640,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				16 kW
 			</td>
 			<td>
-				 35 m 18 s
+				 38 m 10 s
 			</td>
 			<td>
-				73.3 kWh
+				79.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1654,10 +1654,10 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 				12 kW
 			</td>
 			<td>
-				 38 m 42 s
+				 41 m 51 s
 			</td>
 			<td>
-				74.0 kWh
+				80.0 kWh
 			</td>
 		</tr>
 	</tbody>

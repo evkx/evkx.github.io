@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080" >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Kia EV6 GT. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Kia EV6 GT, visit the [chargeinfo](../chargecurve/) for Kia EV6 GT with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +31,15 @@ EVKX.net seeks to have the most complete specifications for Kia EV6 GT. Click on
 				Peak power
 			</td>
 			<td>
-				430 KW (585 hp /577 bhp)
+				447 KW (608 hp /599 bhp)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peak power with  boost
+			</td>
+			<td>
+				478 KW (650 hp /641 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +61,14 @@ EVKX.net seeks to have the most complete specifications for Kia EV6 GT. Click on
 		<tr>
 			<td>
 				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				3,5 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
 				3,5 s
@@ -83,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP range</a>
 			</td>
 			<td>
-				424 km
+				450 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				17,5 kWh/100km
+				17,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +142,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				77,4 kWh
+				84 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +150,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				74 kWh
+				80 kWh
 			</td>
 		</tr>
 		<tr>
