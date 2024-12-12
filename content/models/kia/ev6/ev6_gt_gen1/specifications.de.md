@@ -250,7 +250,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Länge
 			</td>
 			<td>
-				4680 mm (184,3")
+				4695 mm (184,8")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Höhe
 			</td>
 			<td>
-				1550 mm (61,0")
+				1545 mm (60,8")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Breite ohne Spiegel
 			</td>
 			<td>
-				1880 mm (74,0")
+				1890 mm (74,4")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Luftwiderstandsbeiwert
 			</td>
 			<td>
-				0,28
+				0,3
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2125 kg (4685 lbs)
+				2175 kg (4795 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				485 kg (1069 lbs)
+				435 kg (959 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Anhängergewicht gebremst
 			</td>
 			<td>
-				1600 kg (3527 lbs)
+				1800 kg (3968 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -468,7 +468,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				178 mm (7,0")
+				170 mm (6,7")
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +476,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Minimale Bodenfreiheit
 			</td>
 			<td>
-				178 mm (7,0")
+				170 mm (6,7")
 			</td>
 		</tr>
 		<tr>
@@ -511,6 +511,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Schraubenfeder
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Federungstyp vorne
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Federungstyp hinten
+			</td>
+			<td>
+				Mehrlenker
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -519,6 +535,9 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 
 ### Vordersitze
+
+
+#### Bucket
 
 <table class="table table-striped border">
 	<thead>
@@ -545,7 +564,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitztiefenverstellung
 			</td>
 			<td>
-				Standard elektrische Funktion
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +572,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Unbekannt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +580,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellung des Rückenlehnenwinkels
 			</td>
 			<td>
-				Standard elektrische Funktion
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +588,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -577,7 +596,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Speicher
 			</td>
 			<td>
-				Standard Fahrer, nicht verfügbar für Beifahrer
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -585,7 +604,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Höhenverstellbare Kopfstütze
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -625,7 +644,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Fußstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -633,7 +652,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +660,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Elektrische Lendenwirbelstütze
 			</td>
 			<td>
-				Optionale elektrische Funktion
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -649,7 +668,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzbelüftung
 			</td>
 			<td>
-				Optionale Ausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -657,7 +676,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Massagefunktion
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 	</tbody>
@@ -690,7 +709,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Höhenverstellbare Kopfstütze
 			</td>
 			<td>
-				Unbekannt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -698,7 +717,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Längenverstellbare Kopfstütze
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -706,7 +725,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellbare Oberschenkelstütze
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -754,7 +773,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzbelüftung
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +781,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Massagefunktion
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 	</tbody>
@@ -803,6 +822,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Müdigkeitswarnung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -834,6 +854,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Hintere Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -841,6 +862,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Vordere Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -848,6 +870,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Seitliche Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -894,6 +917,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Unfallvermeidung bei Linksabbiegen
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -901,6 +925,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Warnung vor Kollisionen
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -916,6 +941,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Temperaturwarnung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -931,6 +957,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Effizienzassistent
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1058,64 +1085,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				Nicht verfügbar
-			</td>
-		</tr>
-	</tbody>
-</table>
-		<tr>
-			<td>
-				Anzahl der verfügbaren Soundsysteme
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-
-### Standard
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spezifikation
-			</th>
-			<th>
-				Wert
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Anzahl der Lautsprecher
-			</td>
-			<td>
-				6
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Meridian Premium Sound System
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spezifikation
-			</th>
-			<th>
-				Wert
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Anzahl der Lautsprecher
-			</td>
-			<td>
-				14
 			</td>
 		</tr>
 	</tbody>

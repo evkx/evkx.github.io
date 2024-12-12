@@ -24,6 +24,12 @@ We've organized this article into specific sections for easier navigation. Click
 - [Advanced driver-assistance systems](#section-adas)
 - [Cargo Capacity and Towing Ability](#section-transportation)
 
+<div class="alert alert-secondary" role="alert">
+
+This model has been replaced by [Kia EV6 GT](/models/kia/ev6/ev6_gt/).
+
+</div>
+
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
@@ -52,6 +58,10 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
+### Bidirectional Charging
+
+This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 3.6 kW of power, including the ability to charge other vehicles.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -62,19 +72,27 @@ The Kia EV6 GT (GEN1) features an all-wheel drive system powered by two motors, 
 
 ### Suspension
 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers.
+
+### Steering
+
+Dynamic steering is a standard on the Kia EV6 GT (GEN1), varying the steering ratio based on driving speed for enhanced control and comfort.
+
 ### Brakes
+
+The Kia EV6 GT (GEN1) is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 380 mm, while the rear discs are 360 mm.
 
 ### Regenerative Braking
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen.
 
-The maximum regenerative power is 150 kW.
+The maximum regenerative power is 320 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exterior
 
-The Kia EV6 GT (GEN1), with dimensions of 4680 mm in length, 1880 mm in width, and 1550 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. You can choose between 8 different paint colors when ordering this model.
+The Kia EV6 GT (GEN1), with dimensions of 4695 mm in length, 1890 mm in width, and 1545 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Kia EV6 GT (GEN1) offers a selection of 9 paint colors, featuring solid, metallic, pearlescent, and matte options.
 
 You can select from multiple wheel designs, all available in the same size, on the Kia EV6 GT (GEN1), allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
@@ -84,7 +102,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 
 There is only one roof option for this model. The standard roof has a sunroof. The glass extends over only the front row, and occupants can open it. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt_gen1/exterior_1_st.jpg" title="Kia EV6 GT (GEN1)" width="1920" height="1080"  >}}
 
@@ -94,6 +112,8 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
+The interior of the Kia EV6 GT (GEN1) is functional, featuring high-quality materials in several areas instead of hard plastic. It includes a floating center console that creates an open space between the passenger and driver, providing convenient storage options. The overall design prioritizes practicality and ease of use.
+
 ### Seats
 
 The Kia EV6 GT (GEN1) accommodates five passengers with two front seats and a three-seat bench in the rear.
@@ -102,19 +122,12 @@ The Kia EV6 GT (GEN1) accommodates five passengers with two front seats and a th
 
 The Kia EV6 GT (GEN1) offers a single type of front seat.
 
-The following functionalities are available on the **** seat:
+The following functionalities are available on the **Bucket** seat:
 
-- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
-- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
-- Height adjustable headrest
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
-- [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for driver, not available for passenger)
-- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable as an option)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
-
-Available in:
-
-- Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt_gen1/frontseats_1_st.jpg" title="Kia EV6 GT (GEN1)" width="1920" height="1080"  >}}
 
@@ -123,7 +136,9 @@ Available in:
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
+- Height adjustable headrest (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt_gen1/secondrowseats_1_st.jpg" title="Kia EV6 GT (GEN1)" width="1920" height="1080"  >}}
 
@@ -135,7 +150,7 @@ There is one climate system available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
+A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -150,6 +165,8 @@ The Kia EV6 GT (GEN1) includes several features to enhance comfort and convenien
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## User Interface and Control
+
+The control interface for the Kia EV6 GT (GEN1) is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
 
 The Kia EV6 GT (GEN1) has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -186,9 +203,8 @@ The Kia EV6 GT (GEN1) supports Android Auto and Apple CarPlay, allowing you to m
 
 ### Sound System
 
-You can choose between two sound systems for the Kia EV6 GT (GEN1):
+The Kia EV6 GT (GEN1) comes equipped with one sound system option:
 
-- **Standard:** Features six speakers.
 - **Meridian Premium Sound System:** Features 14 speakers.
 
 Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
@@ -219,6 +235,8 @@ The Kia EV6 GT (GEN1) features a range of standard and optional [advanced driver
 
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Kia EV6 GT (GEN1), this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Kia EV6 GT (GEN1), this driver assist system helps drivers avoid or mitigate frontal collisions.
+
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Kia EV6 GT (GEN1), this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
 [**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard on the Kia EV6 GT (GEN1), this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
@@ -232,9 +250,16 @@ With the standard  level 2 system, you get the following driving automation feat
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
 ## Security and Access Technologies
 
 The Kia EV6 GT (GEN1) is equipped with essential security features to protect you and your vehicle, offering simplicity and reliability. These include:
+
+- **Alarm System:** An integrated alarm system monitors for unauthorized entry or tampering, providing alerts to help deter intrusions and keep your vehicle secure.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -244,10 +269,27 @@ The Kia EV6 GT (GEN1) is equipped with essential security features to protect yo
 
 The trunk offers a cargo capacity of 480 liters (17.0 CU FT). With the rear seat folded down, this expands to 1260 liters (44.5 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are standard for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 20 liters (0.7 CU FT).
 
-The vehicle’s maximum weight is 2610 kg (5754 lbs), with a base weight of 2125 kg (4685 lbs). This allows for a maximum load of 485 kg (1069 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 485kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The vehicle’s maximum weight is 2610 kg (5754 lbs), with a base weight of 2175 kg (4795 lbs). This allows for a maximum load of 435 kg (959 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 435kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
-A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1600 kg (3527 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1800 kg (3968 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt_gen1/trunk_1_st.jpg" title="Kia EV6 GT (GEN1)" width="1920" height="1080"  >}}
+
+## Availability & Pricing
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- 749 900,00 NOK (Norway)
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Kia EV6 GT (GEN1) that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
+- [Hyundai Ioniq 5 N](/models/hyundai/ioniq_5/ioniq_5_n/)
+
+<a href="https://db.evkx.net/evcompare?evs=731dd5%2c1ee65f%2cc6ae64" target="_blank">Explore a detailed comparison of these models.</a>
 
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4680 mm (184,3")
+				4695 mm (184,8")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1550 mm (61,0")
+				1545 mm (60,8")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1880 mm (74,0")
+				1890 mm (74,4")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,28
+				0,3
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2125 kg (4685 lbs)
+				2175 kg (4795 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				485 kg (1069 lbs)
+				435 kg (959 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
-				1600 kg (3527 lbs)
+				1800 kg (3968 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -468,7 +468,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				178 mm (7,0")
+				170 mm (6,7")
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +476,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				178 mm (7,0")
+				170 mm (6,7")
 			</td>
 		</tr>
 		<tr>
@@ -511,6 +511,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Coil Spring
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type front</a>
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type rear</a>
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -519,6 +535,9 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 This model is available with a seat configuration with five seats.
 
 ### Front seats
+
+
+#### Bucket
 
 <table class="table table-striped border">
 	<thead>
@@ -545,7 +564,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard electric feature
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +572,7 @@ This model is available with a seat configuration with five seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +580,7 @@ This model is available with a seat configuration with five seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Standard electric feature
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +588,7 @@ This model is available with a seat configuration with five seats.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -577,7 +596,112 @@ This model is available with a seat configuration with five seats.
 				Memory
 			</td>
 			<td>
-				Standard driver, not available passenger
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Massage function</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Second row seats
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="/technology/seats/types/">Seat type</a>
+			</td>
+			<td>
+				Three-seat bench
 			</td>
 		</tr>
 		<tr>
@@ -625,111 +749,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
-			</td>
-			<td>
-				Optional electric feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#features">Massage function</a>
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Second row seats
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				<a href="/technology/seats/types/">Seat type</a>
-			</td>
-			<td>
-				Three-seat bench
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
-			</td>
-			<td>
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
-			</td>
-			<td>
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
-			</td>
-			<td>
 				Not Available
 			</td>
 		</tr>
@@ -754,7 +773,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +781,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -803,6 +822,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/driverdrowsinessdetection/">Drowsiness Alert</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -834,6 +854,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -841,6 +862,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -848,6 +870,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -894,6 +917,7 @@ This model is available with a seat configuration with five seats.
 				Left turn crash avoidance
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -901,6 +925,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -916,6 +941,7 @@ This model is available with a seat configuration with five seats.
 				Temperature warning
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -931,6 +957,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -1058,64 +1085,6 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Not available
-			</td>
-		</tr>
-	</tbody>
-</table>
-		<tr>
-			<td>
-				Number of avaiable sound systems
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-
-### Standard
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Number of speakers
-			</td>
-			<td>
-				6
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Meridian Premium Sound System
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Number of speakers
-			</td>
-			<td>
-				14
 			</td>
 		</tr>
 	</tbody>

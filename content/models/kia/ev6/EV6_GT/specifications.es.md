@@ -266,7 +266,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4680 mm
+				4695 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1550 mm
+				1545 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1880 mm
+				1890 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Coeficiente de arrastre
 			</td>
 			<td>
-				0,28
+				0,3
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2125 kg
+				2175 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				485 kg
+				435 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				1600 kg
+				1800 kg
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +484,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				178 mm
+				170 mm
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +492,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				178 mm
+				170 mm
 			</td>
 		</tr>
 		<tr>
@@ -527,6 +527,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Resorte helicoidal
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión delantera
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión trasera
+			</td>
+			<td>
+				Multienlace
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -535,6 +551,9 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos delanteros
+
+
+#### Bucket
 
 <table class="table table-striped border">
 	<thead>
@@ -561,7 +580,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Función eléctrica estándar
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +588,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -577,7 +596,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Función eléctrica estándar
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -585,7 +604,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +612,112 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Memoria
 			</td>
 			<td>
-				Conductor estándar, no disponible para el pasajero
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas regulable en altura
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas de longitud ajustable
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Soporte para muslos ajustable
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del respaldo
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del cojín del asiento
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pasajeros con reposapiés
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Apoyapiernas del pasajero
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste lumbar eléctrico
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilación del asiento
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Función de masaje
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Asientos de la segunda fila
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Tipo de asiento
+			</td>
+			<td>
+				Banco de tres plazas
 			</td>
 		</tr>
 		<tr>
@@ -641,111 +765,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Apoyapiernas del pasajero
-			</td>
-			<td>
-				Desconocido
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ajuste lumbar eléctrico
-			</td>
-			<td>
-				Función eléctrica opcional
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ventilación del asiento
-			</td>
-			<td>
-				Función opcional
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Función de masaje
-			</td>
-			<td>
-				Desconocido
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Asientos de la segunda fila
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Especificación
-			</th>
-			<th>
-				Valor
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Tipo de asiento
-			</td>
-			<td>
-				Banco de tres plazas
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Reposacabezas regulable en altura
-			</td>
-			<td>
-				Desconocido
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Reposacabezas de longitud ajustable
-			</td>
-			<td>
-				Desconocido
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Soporte para muslos ajustable
-			</td>
-			<td>
-				Desconocido
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ajuste del refuerzo lateral del respaldo
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ajuste del refuerzo lateral del cojín del asiento
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Pasajeros con reposapiés
-			</td>
-			<td>
 				No disponible
 			</td>
 		</tr>
@@ -770,7 +789,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ventilación del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -778,7 +797,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -819,6 +838,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Alerta de somnolencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -850,6 +870,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento traseros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -857,6 +878,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento delanteros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -864,6 +886,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento laterales
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -910,6 +933,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Evitar accidentes al girar a la izquierda
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -917,6 +941,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Advertencia de colisión frontal
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -932,6 +957,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Advertencia de temperatura
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -947,6 +973,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de eficiencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1074,64 +1101,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				No disponible
-			</td>
-		</tr>
-	</tbody>
-</table>
-		<tr>
-			<td>
-				Número de sistemas de sonido disponibles
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-
-### Standard
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Especificación
-			</th>
-			<th>
-				Valor
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Número de altavoces
-			</td>
-			<td>
-				6
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Meridian Premium Sound System
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Especificación
-			</th>
-			<th>
-				Valor
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Número de altavoces
-			</td>
-			<td>
-				14
 			</td>
 		</tr>
 	</tbody>

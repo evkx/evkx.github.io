@@ -24,6 +24,12 @@ Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. 
 - [Avancerede førerassistentsystemer](#section-adas)
 - [Lastkapacitet og trækkraft](#section-transportation)
 
+<div class="alert alert-secondary" role="alert">
+
+Denne model er blevet erstattet af [Kia EV6 GT](/models/kia/ev6/ev6_gt/).
+
+</div>
+
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ydelse
@@ -52,6 +58,10 @@ Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 
 
 Ladeporten er placeret på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke ind til laderen. Stiktyper varierer efter marked: denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. For komplette specifikationer for alle markeder, se de fulde specifikationer.
 
+### Tovejs opladning
+
+Denne model understøtter V2L (Vehicle to Load), som gør det muligt at forsyne elektrisk udstyr med op til 3,6 kW strøm, inklusive muligheden for at oplade andre køretøjer.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -62,19 +72,27 @@ Kia EV6 GT (GEN1) har et firehjulstræksystem drevet af to motorer, én på hver
 
 ### Affjedring
 
+Forhjulsophænget er [MacPherson fjederben](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Standardaffjedringen inkluderer stålsfjedre og hydrauliske støddæmpere.
+
+### Styring
+
+Dynamisk styring er standard på Kia EV6 GT (GEN1), hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort.
+
 ### Bremser
+
+Kia EV6 GT (GEN1) er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag. De forreste skiver måler 380 mm, mens de bageste skiver er 360 mm.
 
 ### Regenerativ bremsning
 
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [én-pedal kørsel](../../../../technology/regen/#one-pedal-driving) eller du kan rulle og bruge de [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) til at regenerere.
 
-Den maksimale regenerative effekt er 150 kW.
+Den maksimale regenerative effekt er 320 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
 
-Kia EV6 GT (GEN1), med dimensioner på 4680 mm i længde, 1880 mm i bredde og 1550 mm i højde, tilhører kategorien Kompakt SUV, også kendt som C-SUV. Disse tilbyder en balance mellem mindre bilers praktiske egenskaber og manøvredygtighed og større SUV'ers plads og alsidighed. Du kan vælge mellem 8 forskellige lakfarver, når du bestiller denne model.
+Kia EV6 GT (GEN1), med dimensioner på 4695 mm i længde, 1890 mm i bredde og 1545 mm i højde, tilhører kategorien Kompakt SUV, også kendt som C-SUV. Disse tilbyder en balance mellem mindre bilers praktiske egenskaber og manøvredygtighed og større SUV'ers plads og alsidighed. Kia EV6 GT (GEN1) tilbyder et udvalg på 9 lakfarver, med almindelige, metalliske, perlemor og matte muligheder.
 
 Du kan vælge mellem flere hjuldesign, alle tilgængelige i samme størrelse, på Kia EV6 GT (GEN1), så du kan personliggøre din bil efter din stil og kørepræferencer. De tilgængelige dæk- og hjulkombinationer inkluderer:
 
@@ -84,7 +102,7 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 
 Der er kun én tagmulighed for denne model. Standardtaget har et soltag. Glasset strækker sig kun over forreste række, og passagererne kan åbne det. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Det har et elektrisk gardin, som passagererne kan bruge til beskyttelse mod solen.
 
-Derudover kan du bestille bilen med tonede ruder fra B-søjlen og bagud, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
+Ruderne fra B-søjlen og bagud er tonede, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt_gen1/exterior_1_st.jpg" title="Kia EV6 GT (GEN1)" width="1920" height="1080"  >}}
 
@@ -94,6 +112,8 @@ Derudover kan du bestille bilen med tonede ruder fra B-søjlen og bagud, hvilket
 
 ## Interiør
 
+Interiøret i Kia EV6 GT (GEN1) er funktionelt og har materialer af høj kvalitet i flere områder i stedet for hård plastik. Den har en svævende midterkonsol, der skaber et åbent rum mellem passager og fører, og giver praktiske opbevaringsmuligheder. Det overordnede design prioriterer praktisk anvendelighed og brugervenlighed.
+
 ### Sæder
 
 Kia EV6 GT (GEN1) har plads til fem passagerer med to forsæder og en trebænk bagtil.
@@ -102,19 +122,12 @@ Kia EV6 GT (GEN1) har plads til fem passagerer med to forsæder og en trebænk b
 
 Kia EV6 GT (GEN1) tilbyder én type forsæde.
 
-Følgende funktioner er tilgængelige på **** sædet:
+Følgende funktioner er tilgængelige på **Bucket** sædet:
 
-- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- Højdejusterbar nakkestøtte
+- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
+- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
-- [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
-- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som ekstraudstyr)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (ekstraudstyr)
-
-Fås med:
-
-- Gray [mikrofiber/kunstlæderbetræk](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt_gen1/frontseats_1_st.jpg" title="Kia EV6 GT (GEN1)" width="1920" height="1080"  >}}
 
@@ -123,7 +136,9 @@ Fås med:
 Anden række har en standard tresæders bænk med 60:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- Højdejusterbar nakkestøtte (manuelt justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt_gen1/secondrowseats_1_st.jpg" title="Kia EV6 GT (GEN1)" width="1920" height="1080"  >}}
 
@@ -135,7 +150,7 @@ Der er ét klimasystem tilgængeligt:
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydelig energi brugt til opvarmning i koldt vejr.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, hvilket kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -150,6 +165,8 @@ Kia EV6 GT (GEN1) inkluderer flere funktioner for at forbedre komfort og bekvemm
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brugergrænseflade og betjening
+
+Kontrolgrænsefladen for Kia EV6 GT (GEN1) er primært fokuseret på skærminteraktion, med begrænset funktionalitet tilgængelig via fysiske knapper og kontaktarme. Dette design kan resultere i en mindre end ideel brugeroplevelse for nogle brugere.
 
 Kia EV6 GT (GEN1) har to skærme med information til fører og passagerer. Bag rattet er der et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og på højre side er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -186,9 +203,8 @@ Kia EV6 GT (GEN1) understøtter Android Auto og Apple CarPlay, så du kan spejle
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer til Kia EV6 GT (GEN1):
+Kia EV6 GT (GEN1) kommer med ét lydsystem:
 
-- **Standard:** Har seks højttalere.
 - **Meridian Premium Sound System:** Har 14 højttalere.
 
 Derudover inkluderer modellen 4 USB-C tilslutninger som standard. Modellen har 1 USB-A tilslutninger som standard.
@@ -219,6 +235,8 @@ Kia EV6 GT (GEN1) har en række standard og valgfrie [avancerede førerassistent
 
 [**Advarsel om Krydsende Trafik Bag (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Kia EV6 GT (GEN1), dette system bruger sensorer til at opdage køretøjer, der nærmer sig fra siden, når man bakker ud af en parkeringsplads eller indkørsel.
 
+[**Advarsel om Frontal Kollision (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Kia EV6 GT (GEN1), dette førerassistentsystem hjælper førere med at undgå eller mindske frontale kollisioner.
+
 [**Automatisk Nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Kia EV6 GT (GEN1), dette system aktiverer automatisk bremserne for at forhindre eller reducere alvorligheden af en kollision, hvis føreren ikke reagerer i tide.
 
 [**Automatisk Nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Kia EV6 GT (GEN1), dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
@@ -232,9 +250,16 @@ Med det standard  niveau 2-system får du følgende køreautomatiseringsfunktion
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
 
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar og ultrasoniske sensorer til sine førerassistentsystemer.
+Op til fem [radar-sensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+
 ## Sikkerheds- og adgangsteknologier
 
 Kia EV6 GT (GEN1) er udstyret med grundlæggende sikkerhedsfunktioner for at beskytte dig og dit køretøj, og tilbyder enkelhed og pålidelighed. Disse omfatter:
+
+- **Alarmsystem:** Et integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at forhindre indbrud og holde dit køretøj sikkert.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -244,10 +269,27 @@ Kia EV6 GT (GEN1) er udstyret med grundlæggende sikkerhedsfunktioner for at bes
 
 Bagagerummet har en lastkapacitet på 480 liter (17,0 CU FT). Med bagsædet lagt ned udvides dette til 1260 liter (44,5 CU FT). På taget kan du laste op til 80 kg (176,4 lbs). Tagbøjler er standard for nem montering af tagboks eller lastbærer. Derudover er der et frunk (front-bagagerum) med en opbevaringskapacitet på 20 liter (0,7 CU FT).
 
-Køretøjets maksimale vægt er 2610 kg (5754 lbs), med en egenvægt på 2125 kg (4685 lbs). Dette giver en maksimal last på 485 kg (1069 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne. 485kg anses for at være lavt for denne type bil og kan begrænse hvor meget du kan medbringe ud over passagerer.
+Køretøjets maksimale vægt er 2610 kg (5754 lbs), med en egenvægt på 2175 kg (4795 lbs). Dette giver en maksimal last på 435 kg (959 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne. 435kg anses for at være lavt for denne type bil og kan begrænse hvor meget du kan medbringe ud over passagerer.
 
-Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for en bremset trailer er 1600 kg (3527 lbs), mens det for en ubremset trailer er 750 kg (1653 lbs).
+Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for en bremset trailer er 1800 kg (3968 lbs), mens det for en ubremset trailer er 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt_gen1/trunk_1_st.jpg" title="Kia EV6 GT (GEN1)" width="1920" height="1080"  >}}
+
+## Tilgængelighed & Priser
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Herunder er startpriserne for udvalgte lande:
+
+- 749 900,00 NOK (Norge)
+
+## Alternative modeller
+
+På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til Kia EV6 GT (GEN1), som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
+
+- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
+- [Hyundai Ioniq 5 N](/models/hyundai/ioniq_5/ioniq_5_n/)
+
+<a href="https://db.evkx.net/evcompare?evs=731dd5%2c1ee65f%2cc6ae64" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

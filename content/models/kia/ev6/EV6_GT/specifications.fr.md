@@ -266,7 +266,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4680 mm
+				4695 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1550 mm
+				1545 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1880 mm
+				1890 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Coefficient de traînée
 			</td>
 			<td>
-				0,28
+				0,3
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2125 kg
+				2175 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				485 kg
+				435 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				1600 kg
+				1800 kg
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +484,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				178 mm
+				170 mm
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +492,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				178 mm
+				170 mm
 			</td>
 		</tr>
 		<tr>
@@ -527,6 +527,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Ressort hélicoïdal
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Type de suspension avant
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension arrière
+			</td>
+			<td>
+				Multi-liens
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -535,6 +551,9 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 Ce modèle est disponible avec une configuration de sièges à cinq places.
 
 ### Sièges avant
+
+
+#### Bucket
 
 <table class="table table-striped border">
 	<thead>
@@ -561,7 +580,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Fonction électrique standard
+				Fonction standard
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +588,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonction standard
 			</td>
 		</tr>
 		<tr>
@@ -577,7 +596,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Fonction électrique standard
+				Fonction standard
 			</td>
 		</tr>
 		<tr>
@@ -585,7 +604,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +612,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Mémoire
 			</td>
 			<td>
-				Conducteur standard, non disponible pour le passager
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -601,7 +620,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Fonctionnalité standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +660,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -649,7 +668,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -657,7 +676,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Fonction électrique optionnelle
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +684,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Ventilation du siège
 			</td>
 			<td>
-				Fonctionnalité facultative
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +692,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -706,7 +725,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonction standard
 			</td>
 		</tr>
 		<tr>
@@ -714,7 +733,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -722,7 +741,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de cuisse réglable
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -770,7 +789,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Ventilation du siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -778,7 +797,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -819,6 +838,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Alerte de somnolence
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -850,6 +870,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs de stationnement arrière
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -857,6 +878,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs de stationnement avant
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -864,6 +886,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs de stationnement latéraux
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -910,6 +933,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Évitement d'un accident de virage à gauche
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -917,6 +941,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Avertissement de collision avant
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -932,6 +957,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Avertissement de température
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -947,6 +973,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide à l'efficacité
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1074,64 +1101,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				Non disponible
-			</td>
-		</tr>
-	</tbody>
-</table>
-		<tr>
-			<td>
-				Nombre de systèmes audio disponibles
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-
-### Standard
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spécification
-			</th>
-			<th>
-				Valeur
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Nombre de haut-parleurs
-			</td>
-			<td>
-				6
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Meridian Premium Sound System
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spécification
-			</th>
-			<th>
-				Valeur
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Nombre de haut-parleurs
-			</td>
-			<td>
-				14
 			</td>
 		</tr>
 	</tbody>

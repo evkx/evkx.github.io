@@ -52,6 +52,10 @@ Das Standard-Bordladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 A
 
 Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
 
+### Bidirektionales Laden
+
+Dieses Modell unterstützt V2L (Vehicle 2 Load), was bedeutet, dass Sie elektrische Geräte mit bis zu 3,6 kW Leistung betreiben können, einschließlich des Ladens anderer Fahrzeuge.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -62,19 +66,27 @@ Der Kia EV6 GT verfügt über ein Allradantriebssystem, das von zwei Motoren ang
 
 ### Federung
 
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer.
+
+### Lenkung
+
+Die dynamische Lenkung ist eine standard im Kia EV6 GT, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
+
 ### Bremsen
+
+Der Kia EV6 GT ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 380 mm, während die hinteren Scheiben 360 mm groß sind.
 
 ### Rekuperatives Bremsen
 
 [Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen.
 
-Die maximale regenerative Leistung beträgt 150 kW.
+Die maximale regenerative Leistung beträgt 320 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exterieur
 
-Der Kia EV6 GT, mit Abmessungen von 4680 mm Länge, 1880 mm Breite und 1550 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Sie können zwischen 8 verschiedenen Lackfarben wählen, wenn Sie dieses Modell bestellen.
+Der Kia EV6 GT, mit Abmessungen von 4695 mm Länge, 1890 mm Breite und 1545 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der Kia EV6 GT bietet eine Auswahl von 9 Lackfarben, darunter Unilack-, Metallic-, Perlmutt- und Matt-Optionen.
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den Kia EV6 GT erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -84,7 +96,7 @@ Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heck
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein Schiebedach. Das Glas erstreckt sich nur über die vordere Reihe und die Insassen können es öffnen. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 
-Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hinten bestellen, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
+Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="3000" height="2168"  >}}
 
@@ -102,19 +114,12 @@ Der Kia EV6 GT bietet Platz für fünf Passagiere mit zwei Vordersitzen und eine
 
 Der Kia EV6 GT bietet nur einen Typ von Vordersitz.
 
-Die folgenden Funktionen sind für den ****-Sitz verfügbar:
+Die folgenden Funktionen sind für den **Bucket**-Sitz verfügbar:
 
-- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
-- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
-- Höhenverstellbare Kopfstütze
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
-- [Speicher](../../../../technology/seats/adjustment/#seat-memory) (Standard für Fahrer, nicht verfügbar für Beifahrer)
-- [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar als Option)
-- [Belüftung](../../../../technology/seats/adjustment/#ventilation) (optional)
-
-Verfügbar in:
-
-- Gray [Mikrofaser/Kunstleder-Polsterung](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000"  >}}
 
@@ -123,7 +128,9 @@ Verfügbar in:
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
+- Höhenverstellbare Kopfstütze (manuell verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -133,7 +140,7 @@ Es gibt ein Klimasystem verfügbar:
 
 - **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
 
-Dieses Modell hat eine [Wärmepumpe](../../../../technology/hvac/#heat-pump) als Option. Diese Wärmepumpe kann erheblich Energie sparen, die zum Heizen bei kaltem Wetter verwendet wird.
+Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -182,9 +189,8 @@ Der Kia EV6 GT unterstützt Android Auto und Apple CarPlay, sodass Sie den Bilds
 
 ### Soundsystem
 
-Sie können zwischen zwei Soundsystemen für den Kia EV6 GT wählen:
+Der Kia EV6 GT ist mit einer Soundsystemoption ausgestattet:
 
-- **Standard:** Verfügt über sechs Lautsprecher.
 - **Meridian Premium Sound System:** Verfügt über 14 Lautsprecher.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
@@ -215,6 +221,8 @@ Der Kia EV6 GT verfügt über eine Reihe von standardmäßigen und optionalen [f
 
 [**Querverkehrswarnung hinten (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard im Kia EV6 GT, dieses System verwendet Sensoren, um herannahende Fahrzeuge von der Seite zu erkennen, wenn Sie aus einer Parklücke oder Einfahrt zurücksetzen.
 
+[**Vorwärtskollisionswarnung (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard im Kia EV6 GT, dieses Fahrerassistenzsystem hilft Fahrern, Frontalzusammenstöße zu vermeiden oder zu mildern.
+
 [**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im Kia EV6 GT, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
 
 [**Automatische Notlenkung (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard im Kia EV6 GT, dieses System hilft, Kollisionen zu vermeiden, indem es das Fahrzeug in einer Notlage automatisch lenkt.
@@ -228,9 +236,16 @@ Mit dem standardmäßigen  Level 2 System erhalten Sie die folgenden Fahrautomat
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+
 ## Sicherheits- und Zugangstechnologien
 
 Der Kia EV6 GT ist mit wesentlichen Sicherheitsfunktionen ausgestattet, um Sie und Ihr Fahrzeug zu schützen und Einfachheit und Zuverlässigkeit zu bieten. Diese umfassen:
+
+- **Alarmsystem:** Ein integriertes Alarmsystem überwacht unbefugtes Betreten oder Manipulation und gibt Warnungen aus, um Eindringlinge abzuschrecken und Ihr Fahrzeug zu sichern.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -240,7 +255,21 @@ Der Kia EV6 GT ist mit wesentlichen Sicherheitsfunktionen ausgestattet, um Sie u
 
 Der Kofferraum bietet ein Ladevolumen von 480 Litern (17,0 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1260 Liter (44,5 CU FT). Auf dem Dach können Sie bis zu 80 kg (176,4 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 20 Litern (0,7 CU FT).
 
-Das maximale Gewicht des Fahrzeugs beträgt 2610 kg (5754 lbs) bei einem Leergewicht von 2125 kg (4685 lbs). Dies ermöglicht eine maximale Zuladung von 485 kg (1069 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 485 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
+Das maximale Gewicht des Fahrzeugs beträgt 2610 kg (5754 lbs) bei einem Leergewicht von 2175 kg (4795 lbs). Dies ermöglicht eine maximale Zuladung von 435 kg (959 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 435 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 
-Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1600 kg (3527 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
+Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1800 kg (3968 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
+
+## Verfügbarkeit & Preise
+
+Dieses Modell feierte seine Weltpremiere am 11.12.2024, mit erwarteten Lieferungen ab May 2025.
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Kia EV6 GT identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
+- [Hyundai Ioniq 5 N](/models/hyundai/ioniq_5/ioniq_5_n/)
+
+<a href="https://db.evkx.net/evcompare?evs=7467a9%2c1ee65f%2cc6ae64" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Reichweite" >}}

@@ -52,6 +52,10 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC 
 
 L'emplacement du port de charge est sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des stations de charge où vous devez reculer vers le chargeur. Les types de connecteurs varient selon les marchés : ce modèle utilise [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europe. Pour des spécifications complètes pour tous les marchés, consultez les spécifications complètes.
 
+### Charge bidirectionnelle
+
+Ce modèle prend en charge le V2L (Vehicle to Load), vous permettant d'alimenter des équipements électriques nécessitant jusqu'à 3,6 kW de puissance, y compris la possibilité de charger d'autres véhicules.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -62,19 +66,27 @@ Le Kia EV6 GT dispose d'un système de traction intégrale alimenté par deux mo
 
 ### Suspension
 
+La suspension avant est à [jambes de force MacPherson](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). La suspension standard comprend des ressorts en acier et des amortisseurs hydrauliques.
+
+### Direction
+
+La direction dynamique est un standard sur le Kia EV6 GT, variant le rapport de direction en fonction de la vitesse de conduite pour un contrôle et un confort accrus.
+
 ### Freins
+
+Le Kia EV6 GT est équipé de [freins à disque en fonte](../../../../technology/brakes/#disc-brakes) à l'avant et à l'arrière. Les disques avant mesurent 380 mm, tandis que les disques arrière sont de 360 mm.
 
 ### Freinage Régénératif
 
 Le [freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer.
 
-La puissance régénérative maximale est de 150 kW.
+La puissance régénérative maximale est de 320 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Extérieur
 
-Le Kia EV6 GT, avec des dimensions de 4680 mm de longueur, 1880 mm de largeur et 1550 mm de hauteur, appartient à la catégorie des SUV compacts, également appelés C-SUV. Ceux-ci offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Vous pouvez choisir entre 8 couleurs de peinture différentes lors de la commande de ce modèle.
+Le Kia EV6 GT, avec des dimensions de 4695 mm de longueur, 1890 mm de largeur et 1545 mm de hauteur, appartient à la catégorie des SUV compacts, également appelés C-SUV. Ceux-ci offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Le Kia EV6 GT offre une sélection de 9 couleurs de peinture, avec des options unies, métalliques, nacrées et mates.
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur le Kia EV6 GT, vous permettant de personnaliser votre véhicule pour correspondre à votre style et vos préférences de conduite. Les combinaisons de pneus et de roues disponibles incluent :
 
@@ -84,7 +96,7 @@ La voiture a quatre [portes régulières](../../../../technology/doors/) et un [
 
 Il n'y a qu'une seule option de toit pour ce modèle. Le toit standard a un toit ouvrant. Le verre s'étend uniquement sur la première rangée, et les occupants peuvent l'ouvrir. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-De plus, vous pouvez commander la voiture avec des vitres teintées à partir du montant B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
+Les vitres à partir du montant B et vers l'arrière sont teintées, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="3000" height="2168"  >}}
 
@@ -102,19 +114,12 @@ Le Kia EV6 GT peut accueillir cinq passagers avec deux sièges à l'avant et une
 
 Le Kia EV6 GT propose un seul type de siège avant.
 
-Les fonctionnalités suivantes sont disponibles sur le siège **** :
+Les fonctionnalités suivantes sont disponibles sur le siège **Bucket** :
 
-- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
-- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
-- Appuie-tête réglable en hauteur
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
-- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (standard pour le conducteur, non disponible pour le passager)
-- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement en option)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
-
-Disponible en :
-
-- Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="3000" height="2000"  >}}
 
@@ -123,7 +128,9 @@ Disponible en :
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition 60:40, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
+- Appuie-tête réglable en hauteur (réglable manuellement)
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (standard pour les sièges extérieurs)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -133,7 +140,7 @@ Il y a un système de climatisation disponible :
 
 - **Système de climatisation à 2 zones :** Permet des températures différentes pour le conducteur et le passager.
 
-Ce modèle a une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur peut économiser une énergie significative utilisée pour le chauffage par temps froid.
+Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui peut économiser une énergie significative que le VE utiliserait autrement pour le chauffage par temps froid.
 
 <a id="section-comfort" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -182,9 +189,8 @@ Le Kia EV6 GT prend en charge Android Auto et Apple CarPlay, vous permettant de 
 
 ### Système Audio
 
-Vous pouvez choisir entre deux systèmes audio pour le Kia EV6 GT :
+Le Kia EV6 GT est équipé d'une seule option de système audio :
 
-- **Standard :** Dispose de six haut-parleurs.
 - **Meridian Premium Sound System :** Dispose de 14 haut-parleurs.
 
 De plus, le modèle comprend 4 connexions USB-C de série. Le modèle dispose de 1 connexions USB-A de série.
@@ -215,6 +221,8 @@ Le Kia EV6 GT dispose d'une gamme de systèmes [d'assistance avancée au conduct
 
 [**Alerte de trafic transversal arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le Kia EV6 GT, ce système utilise des capteurs pour détecter les véhicules approchant de côté lors de la marche arrière d'une place de stationnement ou d'une allée.
 
+[**Avertissement de collision avant (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le Kia EV6 GT, ce système d'assistance aide les conducteurs à éviter ou à atténuer les collisions frontales.
+
 [**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Kia EV6 GT, ce système applique automatiquement les freins pour prévenir ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
 [**Direction d'urgence automatique (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard sur le Kia EV6 GT, ce système aide à éviter les collisions en dirigeant automatiquement le véhicule en cas d'urgence.
@@ -228,9 +236,16 @@ Avec le système standard  niveau 2, vous obtenez les fonctionnalités d'automat
 - [**Régulateur de vitesse adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au maintien de voie (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et ralentit si nécessaire dans le trafic. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 
+### Capteurs et caméras
+
+Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+
 ## Technologies de sécurité et d'accès
 
 Le Kia EV6 GT est équipé de fonctionnalités de sécurité essentielles pour vous protéger, vous et votre véhicule, offrant simplicité et fiabilité. Celles-ci incluent :
+
+- **Système d'alarme :** Un système d'alarme intégré surveille les entrées non autorisées ou les manipulations, fournissant des alertes pour aider à dissuader les intrusions et à sécuriser votre véhicule.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -240,7 +255,21 @@ Le Kia EV6 GT est équipé de fonctionnalités de sécurité essentielles pour v
 
 Le coffre offre une capacité de chargement de 480 litres (17,0 CU FT). Avec le siège arrière rabattu, cela s'étend à 1260 litres (44,5 CU FT). Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Les rails de toit sont de série pour un montage facile d'une boîte de toit ou d'un porte-bagages. De plus, il y a un frunk (coffre avant) avec une capacité de rangement de 20 litres (0,7 CU FT).
 
-Le poids maximal du véhicule est de 2610 kg (5754 lbs), avec un poids de base de 2125 kg (4685 lbs). Cela permet une charge maximale de 485 kg (1069 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale. 485kg est considéré comme faible pour ce type de voiture et pourrait limiter la quantité de choses que vous pouvez apporter en plus des passagers.
+Le poids maximal du véhicule est de 2610 kg (5754 lbs), avec un poids de base de 2175 kg (4795 lbs). Cela permet une charge maximale de 435 kg (959 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale. 435kg est considéré comme faible pour ce type de voiture et pourrait limiter la quantité de choses que vous pouvez apporter en plus des passagers.
 
-Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1600 kg (3527 lbs), tandis que pour une remorque non freinée, il est de 750 kg (1653 lbs).
+Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1800 kg (3968 lbs), tandis que pour une remorque non freinée, il est de 750 kg (1653 lbs).
+
+## Disponibilité et Tarification
+
+Ce modèle a fait sa première mondiale le 11.12.2024, avec des livraisons prévues pour commencer en May 2025.
+
+## Modèles Alternatifs
+
+Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Kia EV6 GT qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
+
+- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
+- [Hyundai Ioniq 5 N](/models/hyundai/ioniq_5/ioniq_5_n/)
+
+<a href="https://db.evkx.net/evcompare?evs=7467a9%2c1ee65f%2cc6ae64" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
+
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Autonomie" >}}
