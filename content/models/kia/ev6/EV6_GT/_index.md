@@ -106,6 +106,8 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
+The interior of the Kia EV6 GT is functional, featuring high-quality materials in several areas instead of hard plastic. It includes a floating center console that creates an open space between the passenger and driver, providing convenient storage options. The overall design prioritizes practicality and ease of use.
+
 ### Seats
 
 The Kia EV6 GT accommodates five passengers with two front seats and a three-seat bench in the rear.
@@ -155,6 +157,8 @@ The Kia EV6 GT includes several features to enhance comfort and convenience:
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## User Interface and Control
+
+The control interface for the Kia EV6 GT is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
 
 The Kia EV6 GT has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 

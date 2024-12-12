@@ -106,6 +106,8 @@ Ruderne fra B-søjlen og bagud er tonede, hvilket øger privatlivets fred og red
 
 ## Interiør
 
+Interiøret i Kia EV6 GT er funktionelt og har materialer af høj kvalitet i flere områder i stedet for hård plastik. Den har en svævende midterkonsol, der skaber et åbent rum mellem passager og fører, og giver praktiske opbevaringsmuligheder. Det overordnede design prioriterer praktisk anvendelighed og brugervenlighed.
+
 ### Sæder
 
 Kia EV6 GT har plads til fem passagerer med to forsæder og en trebænk bagtil.
@@ -155,6 +157,8 @@ Kia EV6 GT inkluderer flere funktioner for at forbedre komfort og bekvemmelighed
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brugergrænseflade og betjening
+
+Kontrolgrænsefladen for Kia EV6 GT er primært fokuseret på skærminteraktion, med begrænset funktionalitet tilgængelig via fysiske knapper og kontaktarme. Dette design kan resultere i en mindre end ideel brugeroplevelse for nogle brugere.
 
 Kia EV6 GT har to skærme med information til fører og passagerer. Bag rattet er der et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og på højre side er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-screen).
 
