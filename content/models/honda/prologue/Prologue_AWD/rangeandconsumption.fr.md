@@ -43,7 +43,7 @@ Vous trouverez ci-dessous les autonomies officiellement évaluées. Les tests so
 				452 km / 281 mi
 			</td>
 			<td>
-				18,8 kWh/100km / 3,3 mi/kWh
+				20,1 kWh/100km / 3,1 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Vous trouverez ci-dessous les autonomies officiellement évaluées. Les tests so
 				439 km / 273 mi
 			</td>
 			<td>
-				19,4 kWh/100km / 3,2 mi/kWh
+				20,7 kWh/100km / 3,0 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Le tableau ci-dessous montre comment l'activation du chauffage/de la climatisati
 				Autonomie EPA version de base avec climatisation 2 kW
 			</td>
 			<td>
-				368 km / 229 mi
+				372 km / 231 mi
 			</td>
 			<td>
-				-18,6%
+				-17,7%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Le tableau ci-dessous montre comment l'activation du chauffage/de la climatisati
 				Autonomie EPA version haut de gamme avec climatisation 2 kW
 			</td>
 			<td>
-				359 km / 223 mi
+				363 km / 226 mi
 			</td>
 			<td>
-				-18,2%
+				-17,3%
 			</td>
 		</tr>
 	</tbody>
@@ -129,10 +129,54 @@ Le tableau ci-dessous montre quelques exemples estimés en conditions réelles e
 	<tbody>
 		<tr>
 			<td>
+				90 km/h / 56 mph en conditions parfaites
+			</td>
+			<td>
+				506km / 314 mi
+			</td>
+			<td>
+				18 kWh/100km / 3,5 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90 km/h / 56 mph avec chauffage 2 kW
+			</td>
+			<td>
+				463km /280mi
+			</td>
+			<td>
+				20,2 kWh/100km /3,1 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph / 112 km/h en conditions parfaites
+			</td>
+			<td>
+				396 km / 246 mi
+			</td>
+			<td>
+				23 kWh/100km / 2,7 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph / 112 km/h avec chauffage 2 kW
+			</td>
+			<td>
+				368km / 229mi
+			</td>
+			<td>
+				24,8 kWh/100km / 2,5 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
 				120 km/h / 75 mph en conditions parfaites
 			</td>
 			<td>
-				340 km / 211 mi
+				364 km / 226 mi
 			</td>
 			<td>
 				25 kWh/100km / 2,5 mi/kWh
@@ -143,7 +187,7 @@ Le tableau ci-dessous montre quelques exemples estimés en conditions réelles e
 				120 km/h / 75 mph avec chauffage 2 kW
 			</td>
 			<td>
-				319 km /198mi
+				341 km /212mi
 			</td>
 			<td>
 				26,7 kWh/100km /2,3 mi/kWh

@@ -353,5 +353,5 @@ Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autor
 
 ## Disponibilité et Tarification
 
-
+Ce modèle a eu sa première mondiale le 30.03.2021, et les livraisons ont commencé en August 2021. Ce modèle a maintenant été discontinué.
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Autonomie" >}}

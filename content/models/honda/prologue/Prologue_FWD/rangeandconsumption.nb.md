@@ -43,7 +43,7 @@ Under er de offisielt oppgitte rekkevidder. Testene utføres med varmeapparat/AC
 				476 km / 296 mi
 			</td>
 			<td>
-				17,9 kWh/100km / 3,5 mi/kWh
+				19,1 kWh/100km / 3,3 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Under er de offisielt oppgitte rekkevidder. Testene utføres med varmeapparat/AC
 				476 km / 296 mi
 			</td>
 			<td>
-				17,9 kWh/100km / 3,5 mi/kWh
+				19,1 kWh/100km / 3,3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Tabellen under viser hvordan varme/kjøling på en kald/varm dag påvirker den o
 				EPA rekkevidde basismodell med 2KW AC
 			</td>
 			<td>
-				384 km / 239 mi
+				389 km / 242 mi
 			</td>
 			<td>
-				-19,3%
+				-18,3%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Tabellen under viser hvordan varme/kjøling på en kald/varm dag påvirker den o
 				EPA rekkevidde toppmodell med 2KW AC
 			</td>
 			<td>
-				384 km / 239 mi
+				389 km / 242 mi
 			</td>
 			<td>
-				-19,3%
+				-18,3%
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ Tabellen under viser noen estimerte eksempler fra virkeligheten under ideelle fo
 				120 km/t / 75 mph under ideelle forhold
 			</td>
 			<td>
-				340 km / 211 mi
+				364 km / 226 mi
 			</td>
 			<td>
 				25 kWh/100km / 2,5 mi/kWh
@@ -143,7 +143,7 @@ Tabellen under viser noen estimerte eksempler fra virkeligheten under ideelle fo
 				120 km/t / 75 mph med 2 kW oppvarming
 			</td>
 			<td>
-				319 km /198mi
+				341 km /212mi
 			</td>
 			<td>
 				26,7 kWh/100km /2,3 mi/kWh

@@ -353,5 +353,5 @@ Se puede agregar un enganche de remolque al vehículo. El peso máximo permitido
 
 ## Disponibilidad y Precios
 
-
+Este modelo tuvo su estreno mundial el 30.03.2021, y las entregas comenzaron en August 2021. Este modelo ha sido descontinuado.
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Autonomía" >}}

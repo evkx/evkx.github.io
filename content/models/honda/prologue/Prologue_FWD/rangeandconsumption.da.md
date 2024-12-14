@@ -43,7 +43,7 @@ Herunder er de officielt vurderede rækkevidder. Testene udføres med varme/AC s
 				476 km / 296 mi
 			</td>
 			<td>
-				17,9 kWh/100km / 3,5 mi/kWh
+				19,1 kWh/100km / 3,3 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Herunder er de officielt vurderede rækkevidder. Testene udføres med varme/AC s
 				476 km / 296 mi
 			</td>
 			<td>
-				17,9 kWh/100km / 3,5 mi/kWh
+				19,1 kWh/100km / 3,3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Tabellen nedenfor viser, hvordan det påvirker den officielle rækkevidde at tæ
 				EPA rækkevidde basis trim med 2kW AC
 			</td>
 			<td>
-				384 km / 239 mi
+				389 km / 242 mi
 			</td>
 			<td>
-				-19,3%
+				-18,3%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Tabellen nedenfor viser, hvordan det påvirker den officielle rækkevidde at tæ
 				EPA rækkevidde top trim med 2kW AC
 			</td>
 			<td>
-				384 km / 239 mi
+				389 km / 242 mi
 			</td>
 			<td>
-				-19,3%
+				-18,3%
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden unde
 				120 km/t/75 mph perfekte forhold
 			</td>
 			<td>
-				340 km / 211 mi
+				364 km / 226 mi
 			</td>
 			<td>
 				25 kWh/100km / 2,5 mi/kWh
@@ -143,7 +143,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden unde
 				120 km/t/75 mph med 2 kW opvarmning
 			</td>
 			<td>
-				319 km /198mi
+				341 km /212mi
 			</td>
 			<td>
 				26,7 kWh/100km /2,3 mi/kWh

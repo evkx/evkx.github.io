@@ -353,5 +353,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-
+This model had a world premiere on 30.03.2021, and deliveries started in August 2021. This models has now been discontined.
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Range" >}}

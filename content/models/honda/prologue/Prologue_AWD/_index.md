@@ -34,24 +34,24 @@ The Honda Prologue AWD delivers a solid performance with a maximum power of 214 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 89.0 kWh and a net usable capacity of 85.0 kWh, providing a 4.0 kWh buffer (4.5%) for battery protection.
+The high-capacity battery has a gross capacity of 93.0 kWh and a net usable capacity of 91.0 kWh, providing a 2.0 kWh buffer (2.2%) for battery protection. With a nominal voltage of 296 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 281 to 273 miles (452-439 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range.
-The energy consumption rates are 3.3 mi/kWh for the base model and 3.2 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+The energy consumption rates are 3.1 mi/kWh for the base model and 3.0 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 68 minutes, while a more typical scenario from 10% to 80% takes 32 minutes with an average charging speed of 111 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 56%. This results in an effective charging speed, including time lost, of 101 kW, with each charging session taking about 25 minutes and 21 seconds.
+The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 77 minutes, while a more typical scenario from 10% to 80% takes 40 minutes with an average charging speed of 95 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 58%. This results in an effective charging speed, including time lost, of 100 kW, with each charging session taking about 28 minutes and 23 seconds.
 
-In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 25 kWh/100 km, the trip would take about 9 hours and 59 minutes, requiring four charging stops from 6% to 55%, totaling 99 minutes of charging time.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 25 kWh/100 km, the trip would take about 9 hours and 56 minutes, requiring four charging stops from 7% to 51%, totaling 97 minutes of charging time.
 
 ### Onboard Charger
 
-The standard onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 7 hours and 23 minutes using a home setup.
+The standard onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging, allowing a full charge from 0 to 100% in about 7 hours and 54 minutes using a home setup.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/charging_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
 ### Charge Port
 
-The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -63,11 +63,15 @@ The Honda Prologue AWD features an all-wheel drive system powered by two motors,
 
 ### Suspension
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm.
+The standard suspension has a fixed height and damping. The ground clearance with this suspension is 206 mm.
+
+### Steering
+
+Dynamic steering is a standard on the Honda Prologue AWD, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The Honda Prologue AWD is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 396 mm, while the rear discs are 343 mm.
+The Honda Prologue AWD is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 321 mm, while the rear discs are 345 mm.
 
 ### Regenerative Braking
 
@@ -81,11 +85,14 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Honda Prologue AWD, with dimensions of 4877 mm in length, 1989 mm in width, and 1634 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Honda Prologue AWD is available in a total of 7 paint colors, including solid, metallic, and pearlescent options.
 
-You can select from multiple wheel designs, all available in the same size, on the Honda Prologue AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+The Honda Prologue AWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+- 255/60 tires on 19" rims
 - 275/45 tires on 21" rims
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). The electric-powered liftgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
+
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). You can choose an option to have the liftgate electrically powered. You can also have the liftgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate.
 
 There are two different roof options to select from. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun. As an option, you can order this model with a panoramic roof that can be opened. The glass has two panels. One over the first and the second rows, and occupants can open the front part. It has an electric curtain that occupants can use to protect against the sun.
 
@@ -97,7 +104,7 @@ There are two different roof options to select from. The standard roof has a lar
 
 ## Interior
 
-You can choose between several interior designs.
+The Honda Prologue AWD boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between several interior designs.
 
 ### Seats
 
@@ -113,10 +120,10 @@ The following functionalities are available on the **** seat:
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
+- Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [Massage](../../../../technology/seats/adjustment/#massage)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 Available in:
 
@@ -124,11 +131,15 @@ Available in:
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
+{{< sitefiguresized thumb="models/honda/prologue/prologue_awd/frontseats_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
+
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
+- Height adjustable headrest
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/secondrowseats_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
@@ -153,6 +164,8 @@ The Honda Prologue AWD includes several features to enhance comfort and convenie
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## User Interface and Control
+
+The control interface for the Honda Prologue AWD combines buttons, stalks, and screens for a seamless and user-friendly experience.
 
 The Honda Prologue AWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
 
@@ -181,9 +194,18 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
+The Honda Prologue AWD features an advanced infotainment system built on Android Automotive OS with Google Automotive Services, offering a seamless integration of Google apps and services directly into the vehicle. This robust system includes built-in Google Maps for navigation, Google Assistant for voice commands, and access to a wide range of apps via the Google Play Store. Honda has further enhanced this platform by integrating their own suite of applications, providing comprehensive car settings and additional features tailored to the Honda driving experience.
+
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
+
+### App Store
+
+The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- **Waze:** Get real-time traffic updates, navigation, and road information to help you reach your destination quickly and safely.
 
 ### Phone Mirroring
 
@@ -202,6 +224,8 @@ Additionally, the model includes 5 USB-C connections as standard.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
+
+{{< sitefiguresized thumb="models/honda/prologue/prologue_awd/headlights_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -231,9 +255,14 @@ The Honda Prologue AWD features a range of standard and optional [advanced drive
 
 The Honda Prologue AWD offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the  level 1 system, you get the following driving automation features.
+With the Cruise Control level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and eight [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 ## Security and Access Technologies
 
@@ -247,10 +276,32 @@ The Honda Prologue AWD is equipped with advanced security features to protect yo
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 793 liters (28.0 CU FT). With the rear seat folded down, this expands to 1723 liters (60.8 CU FT).
+The trunk offers a cargo capacity of 793 liters (28.0 CU FT). With the rear seat folded down, this expands to 1723 liters (60.8 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
+
+The vehicle’s maximum weight is 2845 kg (6272 lbs), with a base weight of 2306 kg (5084 lbs). This allows for a maximum load of 539 kg (1188 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 680 kg (1499 lbs), while for an unbraked trailer, it is 680 kg (1499 lbs).
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/trunk_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2001"  >}}
+
+## Availability & Pricing
+
+The Honda Prologue AWD had its world premiere on 06.10.2022, with deliveries starting in March 2024. Please note that this model is available exclusively in North America.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- $58 335,00 (USA)
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Honda Prologue AWD that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Chevrolet Blazer EV RS AWD](/models/chevrolet/blazer_ev/blazer_ev_rs_awd/)
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+
+<a href="https://db.evkx.net/evcompare?evs=4e00cd%2c31cf92%2cad3cd5%2c0cb6ee" target="_blank">Explore a detailed comparison of these models.</a>
 
 {{< pagenavigation b_url="../" b_title="Honda Prologue" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -34,23 +34,23 @@ Honda Prologue FWD tilbyr beskjeden ytelse med en maksimal effekt på 158 kW (21
 
 ## Batteri, rekkevidde og lading
 
-Batteriet med høy kapasitet har en brutto kapasitet på 89,0 kWh og en netto brukbar kapasitet på 85,0 kWh, som gir en 4,0 kWh buffer (4,5%) for batteribeskyttelse.
+Batteriet med høy kapasitet har en brutto kapasitet på 93,0 kWh og en netto brukbar kapasitet på 91,0 kWh, som gir en 2,0 kWh buffer (2,2%) for batteribeskyttelse. Med en nominell spenning på 296 volt, klassifiseres systemet som et 400-volts batterisystem, i tråd med bransjestandarder.
 
-Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden, har bilen en rekkevidde på 296 miles (476 km) med et energiforbruk på 3,5 miles per kWh. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
+Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden, har bilen en rekkevidde på 296 miles (476 km) med et energiforbruk på 3,3 miles per kWh. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 150 kW. Lading fra 0% til 100% tar omtrent 68 minutter, mens et mer typisk scenario fra 10% til 80% tar 32 minutter med en gjennomsnittlig ladehastighet på 111 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 6% til 56%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 101 kW, hvor hver ladeøkt tar omtrent 25 minutter og 21 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 150 kW. Lading fra 0% til 100% tar omtrent 77 minutter, mens et mer typisk scenario fra 10% til 80% tar 40 minutter med en gjennomsnittlig ladehastighet på 95 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 6% til 58%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 100 kW, hvor hver ladeøkt tar omtrent 28 minutter og 23 sekunder.
 
-I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 25 kWh/100 km, vil turen ta omtrent 9 timer og 59 minutter, og kreve fire ladestopp fra 6% til 55%, totalt 99 minutter ladetid.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 25 kWh/100 km, vil turen ta omtrent 9 timer og 56 minutter, og kreve fire ladestopp fra 7% til 51%, totalt 97 minutter ladetid.
 
 ### Innebygd lader
 
-Den standard innebygde laderen støtter opptil 11,5 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 7 timer og 23 minutter ved bruk av et hjemmeoppsett.
+Den standard innebygde laderen støtter opptil 11,5 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 7 timer og 54 minutter ved bruk av et hjemmeoppsett.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/charging_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
 
 ### Ladekontakt
 
-Ladeporten er plassert på [venstre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner hvor du parkerer sidelengs inn mot laderen. Kontakttypene varierer etter marked: denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. Se fullstendige spesifikasjoner for informasjon om alle markeder.
+Ladeporten er plassert på [venstre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner hvor du parkerer sidelengs inn mot laderen.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -62,11 +62,15 @@ Honda Prologue FWD har et forhjulsdrift-system med én motor på forakselen. Mot
 
 ### Fjæring
 
-har fast høyde og demping på fjæringen. Bakkeklaring med denne hjulopphenget er 178 mm.
+standard har fast høyde og demping på fjæringen. Bakkeklaring med denne hjulopphenget er 201 mm.
+
+### Styring
+
+Dynamisk styring er en standard på Honda Prologue FWD, og varierer styreutvekslingen basert på kjørehastighet for bedre kontroll og komfort.
 
 ### Bremser
 
-Honda Prologue FWD er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak. Skivene foran måler 396 mm, mens skivene bak er 343 mm.
+Honda Prologue FWD er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak. Skivene foran måler 321 mm, mens skivene bak er 345 mm.
 
 ### Regenerativ bremsing
 
@@ -80,11 +84,14 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 Honda Prologue FWD, med dimensjoner på 4877 mm i lengde, 1989 mm i bredde og 1634 mm i høyde, tilhører mellomstore SUVer som tilbyr en kombinasjon av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for en bred gruppe sjåfører med ulike behov. Honda Prologue FWD er tilgjengelig i totalt 7 lakkfarger, inkludert solide, metallic- og perlemorslakker.
 
-Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Honda Prologue FWD, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
+Honda Prologue FWD tilbyr flere hjulalternativer i ulike størrelser, slik at du kan tilpasse kjøretøyet etter din stil og kjørepreferanser. De tilgjengelige dekk- og hjulkombinasjonene inkluderer:
 
+- 255/60 dekk på 19" felger
 - 275/45 dekk på 21" felger
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate). Den elektriske bakluken har bevegelsessensor som tilleggsutstyr, som gjør det mulig å åpne den ved å bare sparke foten under bakluken.
+Smalere hjul forbedrer forbruket og gir lengre rekkevidde, mens bredere hjul gir bedre veigrep og håndtering.
+
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate). Du kan velge en elektrisk bakluke som tilleggsutstyr. Du kan også få bakluken med bevegelsessensor, som gjør det mulig å åpne den ved å bare sparke foten under bakluken.
 
 Det er to ulike takalternativer å velge mellom. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset får bilens interiør til å føles mer romslig og lyst, noe som kan forbedre stemningen og komforten for passasjerene. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen. Som tilvalg kan du bestille denne modellen med et panoramatak som kan åpnes. Glasset har to paneler. Ett over første og andre rad, og passasjerene kan åpne den fremre delen. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
@@ -96,7 +103,7 @@ Det er to ulike takalternativer å velge mellom. Standardtaket har et stort pano
 
 ## Interiør
 
-Du kan velge mellom flere interiørdesign.
+Interiøret i Honda Prologue FWD bærer preg av å være førerfokusert, med en tydelig cockpit-følelse og materialer av høy kvalitet flere steder istedenfor hard plast. Et fremtredende element er midtkonsollen i to nivåer, som skiller fører og passasjer samtidig som den gir praktisk oppbevaring og økt funksjonalitet. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
@@ -112,10 +119,10 @@ Følgende funksjoner er tilgjengelig på **** setet:
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
 - [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)
+- Høydejusterbar hodestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
-- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
-- [Massasje](../../../../technology/seats/adjustment/#massage)
+- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation) (valgfritt)
 
 Tilgjengelig i:
 
@@ -123,11 +130,15 @@ Tilgjengelig i:
 - Gray [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
 - Brown [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
 
+{{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/frontseats_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
+
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med 60:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
+- Høydejusterbar hodestøtte
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/secondrowseats_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
 
@@ -152,6 +163,8 @@ Honda Prologue FWD inkluderer flere funksjoner for å øke komfort og bekvemmeli
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Brukergrensesnitt og kontroll
+
+Kontrollgrensesnittet for Honda Prologue FWD kombinerer knapper, spaker og skjermer for en sømløs og brukervennlig opplevelse.
 
 Honda Prologue FWD har flere integrerte skjermer. Bak rattet er det et [digitalt instrumentpanel](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) øverst.
 
@@ -180,9 +193,18 @@ Denne modellen kommer med stemmekontroll som standard, som lar deg styre ulike f
 
 ## Infotainment
 
+Honda Prologue FWD har et avansert infotainmentsystem bygget på Android Automotive OS med Google Automotive Services, som tilbyr sømløs integrasjon av Google-apper og -tjenester direkte i bilen. Dette robuste systemet inkluderer innebygd Google Maps for navigasjon, Google Assistant for talestyring og tilgang til et bredt utvalg apper via Google Play Store. Honda har ytterligere forbedret denne plattformen ved å integrere sine egne applikasjoner, som gir omfattende bilinnstillinger og tilleggsfunksjoner skreddersydd for Honda kjøreopplevelsen.
+
 ### Navigasjonssystem
 
-Med en standard innebygd navigasjonssystem har du all hjelpen du trenger for å nå destinasjonen din enkelt.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon som sikrer en effektiv og stressfri reise.
+
+### App-butikk
+
+Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper som kjører direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer etter marked, men inkluderer populære alternativer som:
+
+- **Spotify:** Strøm millioner av sanger, spillelister og podkaster direkte fra bilens infotainmentsystem, som gir endeløse underholdningsmuligheter for kjøreturen.
+- **Waze:** Få sanntidsoppdateringer om trafikk, navigasjon og veiinformasjon for å hjelpe deg med å nå destinasjonen raskt og trygt.
 
 ### Telefonspeling
 
@@ -201,6 +223,8 @@ I tillegg har modellen 5 USB-C-tilkoblinger som standard.
 **Standard frontlykter:** Disse bruker avansert LED-teknologi som gir lyst og effektivt lys.
 
 Baklysene bruker LED-teknologi, som sikrer både god synlighet og energieffektivitet.
+
+{{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/headlights_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -230,9 +254,14 @@ Honda Prologue FWD har en rekke standard og valgfrie [avanserte førerassistents
 
 Honda Prologue FWD tilbyr [kjøreautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
 
-Med  nivå 1-system får du følgende kjøreautomatiseringsfunksjoner.
+Med Cruise Control nivå 1-system får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensorer og kameraer
+
+Denne modellen bruker kameraer, radar og ultralydsensorer for sine førerassistentsystemer.
+Opp til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og åtte [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
 ## Sikkerhet og adgangsteknologi
 
@@ -246,10 +275,15 @@ Honda Prologue FWD er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte
 
 ## Laste- og tilhengerkapasitet
 
-Bagasjerommet har en lastekapasitet på 793 liter (28,0 CU FT). Med baksetet nedfelt øker dette til 1723 liter (60,8 CU FT).
+Bagasjerommet har en lastekapasitet på 793 liter (28,0 CU FT). Med baksetet nedfelt øker dette til 1723 liter (60,8 CU FT). På taket kan du laste opptil 75 kg (165,3 lbs). Takskinner er tilgjengelig som tilvalg for enkel montering av takboks eller takstativ.
+
+Kjøretøyets maksimale vekt er 2730 kg (6019 lbs), med en egenvekt på 2237 kg (4932 lbs). Dette tillater en maksimal last på 493 kg (1087 lbs), inkludert fører og passasjerer. Merk at noen tilvalg kan øke egenvekten og redusere maksimal lastekapasitet. 493kg regnes som lavt for denne typen bil og kan begrense hvor mye du kan ta med i tillegg til passasjerer.
 
 Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med brems er 680 kg (1499 lbs), og for tilhenger uten brems er det 680 kg (1499 lbs).
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/trunk_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2001"  >}}
 
+## Tilgjengelighet og priser
+
+Honda Prologue FWD hadde sin verdenspremiere 06.10.2022, med leveringer som startet i March 2024. Vær oppmerksom på at denne modellen kun er tilgjengelig i Nord-Amerika.
 {{< pagenavigation b_url="../" b_title="Honda Prologue" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

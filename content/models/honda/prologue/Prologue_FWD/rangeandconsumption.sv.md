@@ -43,7 +43,7 @@ Nedan visas de officiellt klassade räckvidderna. Testerna utförs med värme/AC
 				476 km / 296 mi
 			</td>
 			<td>
-				17,9 kWh/100km / 3,5 mi/kWh
+				19,1 kWh/100km / 3,3 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nedan visas de officiellt klassade räckvidderna. Testerna utförs med värme/AC
 				476 km / 296 mi
 			</td>
 			<td>
-				17,9 kWh/100km / 3,5 mi/kWh
+				19,1 kWh/100km / 3,3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Tabellen nedan visar hur påslagen värme/kylning en kall/varm dag påverkar den
 				EPA räckvidd basutrustning med 2kW AC
 			</td>
 			<td>
-				384 km / 239 mi
+				389 km / 242 mi
 			</td>
 			<td>
-				-19,3%
+				-18,3%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Tabellen nedan visar hur påslagen värme/kylning en kall/varm dag påverkar den
 				EPA räckvidd toppversion med 2kW AC
 			</td>
 			<td>
-				384 km / 239 mi
+				389 km / 242 mi
 			</td>
 			<td>
-				-19,3%
+				-18,3%
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ Tabellen nedan visar några uppskattade räckvidder i verklig körning under per
 				120km/h/75mph perfekta förhållanden
 			</td>
 			<td>
-				340 km / 211 mi
+				364 km / 226 mi
 			</td>
 			<td>
 				25 kWh/100km / 2,5 mi/kWh
@@ -143,7 +143,7 @@ Tabellen nedan visar några uppskattade räckvidder i verklig körning under per
 				120km/h/75mph med 2KW uppvärmning
 			</td>
 			<td>
-				319 km /198mi
+				341 km /212mi
 			</td>
 			<td>
 				26,7 kWh/100km /2,3 mi/kWh

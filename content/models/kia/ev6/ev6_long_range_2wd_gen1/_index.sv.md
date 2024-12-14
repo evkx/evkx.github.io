@@ -353,5 +353,5 @@ Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpv
 
 ## Tillgänglighet och priser
 
-
+Denna modell hade sin världspremiär den 30.03.2021, och leveranserna startade August 2021. Denna modell har nu utgått ur produktion.
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

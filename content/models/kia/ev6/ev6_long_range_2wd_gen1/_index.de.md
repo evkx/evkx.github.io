@@ -353,5 +353,5 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 
 ## Verfügbarkeit & Preise
 
-
+Dieses Modell hatte seine Weltpremiere am 30.03.2021, und die Lieferungen begannen im August 2021. Dieses Modell wurde nun eingestellt.
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Reichweite" >}}

@@ -29,7 +29,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 0 - 100%
 			</td>
 			<td>
-				75,5 kW
+				70,5 kW
 			</td>
 		</tr>
 		<tr>
@@ -37,7 +37,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-100%
 			</td>
 			<td>
-				74,6 kW
+				69,2 kW
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-90%
 			</td>
 			<td>
-				95,2 kW
+				85,1 kW
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ navicon: bi-battery-charging
 				Velocidad de carga promedio 10-80%
 			</td>
 			<td>
-				110,8 kW
+				95,0 kW
 			</td>
 		</tr>
 		<tr>
@@ -61,7 +61,7 @@ navicon: bi-battery-charging
 				Tasa C máxima
 			</td>
 			<td>
-				1,69
+				1,65
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ navicon: bi-battery-charging
 				Tasa C promedio
 			</td>
 			<td>
-				1,17
+				1,04
 			</td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@ navicon: bi-battery-charging
 				Área de carga óptima
 			</td>
 			<td>
-				6% - 56%
+				6% - 58%
 			</td>
 		</tr>
 		<tr>
@@ -85,7 +85,7 @@ navicon: bi-battery-charging
 				Velocidad de carga óptima incluyendo 5 minutos de pérdida
 			</td>
 			<td>
-				100,6kW
+				100,0kW
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@ navicon: bi-battery-charging
 				Tiempo óptimo de parada de carga
 			</td>
 			<td>
-				25m21s
+				28m23s
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 0 - 100%
 			</td>
 			<td>
-				1 h 7 m 34 s
+				1 h 17 m 24 s
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-100%
 			</td>
 			<td>
-				1 h 1 m 33 s
+				1 h 10 m 57 s
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ navicon: bi-battery-charging
 				Tiempo de carga 10-80%
 			</td>
 			<td>
-				 32 m 13 s
+				 40 m 13 s
 			</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ navicon: bi-battery-charging
 				Autonomía por minuto 0-100%
 			</td>
 			<td>
-				6,7 km (4,2 mi)
+				5,8 km (3,6 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				?
+				5,1 km (3,2 mi)
 			</td>
 			<td>
-				5,0 km (3,1 mi)
+				4,7 km (2,9 mi)
 			</td>
 		</tr>
 		<tr>
@@ -186,10 +186,7 @@ navicon: bi-battery-charging
 				Autonomía por minuto 10-100%
 			</td>
 			<td>
-				6,6 km (4,1 mi)
-			</td>
-			<td>
-				?
+				5,7 km (3,5 mi)
 			</td>
 			<td>
 				?
@@ -197,22 +194,25 @@ navicon: bi-battery-charging
 			<td>
 				5,0 km (3,1 mi)
 			</td>
+			<td>
+				4,6 km (2,9 mi)
+			</td>
 		</tr>
 		<tr>
 			<td>
 				Autonomía por minuto 10-80%
 			</td>
 			<td>
-				9,8 km (6,1 mi)
+				7,9 km (4,9 mi)
 			</td>
 			<td>
 				?
 			</td>
 			<td>
-				?
+				6,9 km (4,3 mi)
 			</td>
 			<td>
-				7,4 km (4,6 mi)
+				6,3 km (3,9 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -268,10 +268,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				60 kW
 			</td>
 			<td>
-				 0 m 59 s
+				 1 m 4 s
 			</td>
 			<td>
-				0,8 kWh
+				0,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,10 +282,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				70 kW
 			</td>
 			<td>
-				 1 m 50 s
+				 1 m 58 s
 			</td>
 			<td>
-				1,7 kWh
+				1,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -296,10 +296,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				80 kW
 			</td>
 			<td>
-				 2 m 34 s
+				 2 m 45 s
 			</td>
 			<td>
-				2,6 kWh
+				2,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -310,10 +310,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				90 kW
 			</td>
 			<td>
-				 3 m 13 s
+				 3 m 26 s
 			</td>
 			<td>
-				3,4 kWh
+				3,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -324,10 +324,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				100 kW
 			</td>
 			<td>
-				 3 m 47 s
+				 4 m 3 s
 			</td>
 			<td>
-				4,2 kWh
+				4,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -338,10 +338,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				110 kW
 			</td>
 			<td>
-				 4 m 18 s
+				 4 m 37 s
 			</td>
 			<td>
-				5,1 kWh
+				5,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -352,10 +352,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				120 kW
 			</td>
 			<td>
-				 4 m 47 s
+				 5 m 7 s
 			</td>
 			<td>
-				6,0 kWh
+				6,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,10 +366,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				130 kW
 			</td>
 			<td>
-				 5 m 13 s
+				 5 m 36 s
 			</td>
 			<td>
-				6,8 kWh
+				7,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -380,10 +380,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				140 kW
 			</td>
 			<td>
-				 5 m 38 s
+				 6 m 2 s
 			</td>
 			<td>
-				7,6 kWh
+				8,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -394,10 +394,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				150 kW
 			</td>
 			<td>
-				 6 m 0 s
+				 6 m 26 s
 			</td>
 			<td>
-				8,5 kWh
+				9,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -408,10 +408,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				150 kW
 			</td>
 			<td>
-				 6 m 22 s
+				 6 m 49 s
 			</td>
 			<td>
-				9,4 kWh
+				10,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -419,13 +419,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				12%
 			</td>
 			<td>
-				150 kW
+				151 kW
 			</td>
 			<td>
-				 6 m 44 s
+				 7 m 13 s
 			</td>
 			<td>
-				10,2 kWh
+				10,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -433,13 +433,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				13%
 			</td>
 			<td>
-				150 kW
+				151 kW
 			</td>
 			<td>
-				 7 m 6 s
+				 7 m 36 s
 			</td>
 			<td>
-				11,0 kWh
+				11,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -447,13 +447,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				14%
 			</td>
 			<td>
-				150 kW
+				152 kW
 			</td>
 			<td>
-				 7 m 28 s
+				 7 m 59 s
 			</td>
 			<td>
-				11,9 kWh
+				12,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -461,24 +461,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				15%
 			</td>
 			<td>
-				150 kW
+				152 kW
 			</td>
 			<td>
-				 7 m 50 s
-			</td>
-			<td>
-				12,8 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				16%
-			</td>
-			<td>
-				150 kW
-			</td>
-			<td>
-				 8 m 12 s
+				 8 m 23 s
 			</td>
 			<td>
 				13,6 kWh
@@ -486,16 +472,30 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 		</tr>
 		<tr>
 			<td>
+				16%
+			</td>
+			<td>
+				153 kW
+			</td>
+			<td>
+				 8 m 46 s
+			</td>
+			<td>
+				14,6 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
 				17%
 			</td>
 			<td>
-				150 kW
+				153 kW
 			</td>
 			<td>
-				 8 m 34 s
+				 9 m 9 s
 			</td>
 			<td>
-				14,4 kWh
+				15,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -503,13 +503,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				18%
 			</td>
 			<td>
-				150 kW
+				152 kW
 			</td>
 			<td>
-				 8 m 56 s
+				 9 m 32 s
 			</td>
 			<td>
-				15,3 kWh
+				16,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -517,13 +517,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				19%
 			</td>
 			<td>
-				150 kW
+				151 kW
 			</td>
 			<td>
-				 9 m 18 s
+				 9 m 55 s
 			</td>
 			<td>
-				16,2 kWh
+				17,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -534,10 +534,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				150 kW
 			</td>
 			<td>
-				 9 m 40 s
+				 10 m 18 s
 			</td>
 			<td>
-				17,0 kWh
+				18,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -545,13 +545,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				21%
 			</td>
 			<td>
-				150 kW
+				149 kW
 			</td>
 			<td>
-				 10 m 2 s
+				 10 m 42 s
 			</td>
 			<td>
-				17,8 kWh
+				19,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -559,13 +559,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				22%
 			</td>
 			<td>
-				150 kW
+				148 kW
 			</td>
 			<td>
-				 10 m 24 s
+				 11 m 6 s
 			</td>
 			<td>
-				18,7 kWh
+				20,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -573,13 +573,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				23%
 			</td>
 			<td>
-				150 kW
+				148 kW
 			</td>
 			<td>
-				 10 m 46 s
+				 11 m 29 s
 			</td>
 			<td>
-				19,6 kWh
+				20,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -587,13 +587,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				24%
 			</td>
 			<td>
-				150 kW
+				147 kW
 			</td>
 			<td>
-				 11 m 8 s
+				 11 m 53 s
 			</td>
 			<td>
-				20,4 kWh
+				21,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -601,13 +601,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				25%
 			</td>
 			<td>
-				150 kW
+				146 kW
 			</td>
 			<td>
-				 11 m 30 s
+				 12 m 17 s
 			</td>
 			<td>
-				21,2 kWh
+				22,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -615,13 +615,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				26%
 			</td>
 			<td>
-				150 kW
+				145 kW
 			</td>
 			<td>
-				 11 m 51 s
+				 12 m 42 s
 			</td>
 			<td>
-				22,1 kWh
+				23,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -629,38 +629,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				27%
 			</td>
 			<td>
-				150 kW
+				144 kW
 			</td>
 			<td>
-				 12 m 13 s
-			</td>
-			<td>
-				23,0 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				28%
-			</td>
-			<td>
-				150 kW
-			</td>
-			<td>
-				 12 m 35 s
-			</td>
-			<td>
-				23,8 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				29%
-			</td>
-			<td>
-				150 kW
-			</td>
-			<td>
-				 12 m 57 s
+				 13 m 6 s
 			</td>
 			<td>
 				24,6 kWh
@@ -668,13 +640,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 		</tr>
 		<tr>
 			<td>
-				30%
+				28%
 			</td>
 			<td>
-				150 kW
+				143 kW
 			</td>
 			<td>
-				 13 m 19 s
+				 13 m 31 s
 			</td>
 			<td>
 				25,5 kWh
@@ -682,13 +654,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 		</tr>
 		<tr>
 			<td>
-				31%
+				29%
 			</td>
 			<td>
-				150 kW
+				141 kW
 			</td>
 			<td>
-				 13 m 41 s
+				 13 m 55 s
 			</td>
 			<td>
 				26,4 kWh
@@ -696,16 +668,44 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 		</tr>
 		<tr>
 			<td>
+				30%
+			</td>
+			<td>
+				139 kW
+			</td>
+			<td>
+				 14 m 21 s
+			</td>
+			<td>
+				27,3 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				31%
+			</td>
+			<td>
+				137 kW
+			</td>
+			<td>
+				 14 m 46 s
+			</td>
+			<td>
+				28,2 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
 				32%
 			</td>
 			<td>
-				150 kW
+				135 kW
 			</td>
 			<td>
-				 14 m 3 s
+				 15 m 12 s
 			</td>
 			<td>
-				27,2 kWh
+				29,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -713,13 +713,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				33%
 			</td>
 			<td>
-				150 kW
+				133 kW
 			</td>
 			<td>
-				 14 m 25 s
+				 15 m 38 s
 			</td>
 			<td>
-				28,0 kWh
+				30,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -727,13 +727,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				34%
 			</td>
 			<td>
-				150 kW
+				131 kW
 			</td>
 			<td>
-				 14 m 47 s
+				 16 m 5 s
 			</td>
 			<td>
-				28,9 kWh
+				30,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -741,13 +741,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				35%
 			</td>
 			<td>
-				147 kW
+				129 kW
 			</td>
 			<td>
-				 15 m 9 s
+				 16 m 32 s
 			</td>
 			<td>
-				29,8 kWh
+				31,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -755,13 +755,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				36%
 			</td>
 			<td>
-				143 kW
+				127 kW
 			</td>
 			<td>
-				 15 m 32 s
+				 17 m 0 s
 			</td>
 			<td>
-				30,6 kWh
+				32,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -769,13 +769,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				37%
 			</td>
 			<td>
-				140 kW
+				125 kW
 			</td>
 			<td>
-				 15 m 55 s
+				 17 m 28 s
 			</td>
 			<td>
-				31,4 kWh
+				33,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -783,13 +783,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				38%
 			</td>
 			<td>
-				137 kW
+				123 kW
 			</td>
 			<td>
-				 16 m 19 s
+				 17 m 56 s
 			</td>
 			<td>
-				32,3 kWh
+				34,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -797,13 +797,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				39%
 			</td>
 			<td>
-				133 kW
+				122 kW
 			</td>
 			<td>
-				 16 m 43 s
+				 18 m 25 s
 			</td>
 			<td>
-				33,2 kWh
+				35,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -811,13 +811,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				40%
 			</td>
 			<td>
-				130 kW
+				121 kW
 			</td>
 			<td>
-				 17 m 8 s
+				 18 m 54 s
 			</td>
 			<td>
-				34,0 kWh
+				36,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -825,13 +825,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				41%
 			</td>
 			<td>
-				127 kW
+				121 kW
 			</td>
 			<td>
-				 17 m 34 s
+				 19 m 23 s
 			</td>
 			<td>
-				34,8 kWh
+				37,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -839,13 +839,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				42%
 			</td>
 			<td>
-				123 kW
+				120 kW
 			</td>
 			<td>
-				 18 m 0 s
+				 19 m 52 s
 			</td>
 			<td>
-				35,7 kWh
+				38,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -856,10 +856,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				120 kW
 			</td>
 			<td>
-				 18 m 27 s
+				 20 m 22 s
 			</td>
 			<td>
-				36,6 kWh
+				39,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -870,10 +870,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				119 kW
 			</td>
 			<td>
-				 18 m 55 s
+				 20 m 51 s
 			</td>
 			<td>
-				37,4 kWh
+				40,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -881,13 +881,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				45%
 			</td>
 			<td>
-				118 kW
+				119 kW
 			</td>
 			<td>
-				 19 m 22 s
+				 21 m 21 s
 			</td>
 			<td>
-				38,2 kWh
+				41,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -898,10 +898,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				118 kW
 			</td>
 			<td>
-				 19 m 50 s
+				 21 m 51 s
 			</td>
 			<td>
-				39,1 kWh
+				41,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -909,13 +909,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				47%
 			</td>
 			<td>
-				117 kW
+				118 kW
 			</td>
 			<td>
-				 20 m 18 s
+				 22 m 21 s
 			</td>
 			<td>
-				40,0 kWh
+				42,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -923,13 +923,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				48%
 			</td>
 			<td>
-				116 kW
+				117 kW
 			</td>
 			<td>
-				 20 m 47 s
+				 22 m 51 s
 			</td>
 			<td>
-				40,8 kWh
+				43,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -937,13 +937,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				49%
 			</td>
 			<td>
-				115 kW
+				117 kW
 			</td>
 			<td>
-				 21 m 15 s
+				 23 m 21 s
 			</td>
 			<td>
-				41,6 kWh
+				44,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -951,13 +951,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				50%
 			</td>
 			<td>
-				115 kW
+				116 kW
 			</td>
 			<td>
-				 21 m 44 s
+				 23 m 51 s
 			</td>
 			<td>
-				42,5 kWh
+				45,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -965,13 +965,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				51%
 			</td>
 			<td>
-				115 kW
+				116 kW
 			</td>
 			<td>
-				 22 m 12 s
+				 24 m 21 s
 			</td>
 			<td>
-				43,4 kWh
+				46,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -979,13 +979,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				52%
 			</td>
 			<td>
-				114 kW
+				115 kW
 			</td>
 			<td>
-				 22 m 41 s
+				 24 m 52 s
 			</td>
 			<td>
-				44,2 kWh
+				47,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -993,13 +993,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				53%
 			</td>
 			<td>
-				112 kW
+				114 kW
 			</td>
 			<td>
-				 23 m 10 s
+				 25 m 23 s
 			</td>
 			<td>
-				45,0 kWh
+				48,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1007,13 +1007,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				54%
 			</td>
 			<td>
-				111 kW
+				113 kW
 			</td>
 			<td>
-				 23 m 40 s
+				 25 m 54 s
 			</td>
 			<td>
-				45,9 kWh
+				49,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1021,13 +1021,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				55%
 			</td>
 			<td>
-				110 kW
+				113 kW
 			</td>
 			<td>
-				 24 m 10 s
+				 26 m 25 s
 			</td>
 			<td>
-				46,8 kWh
+				50,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1035,66 +1035,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				56%
 			</td>
 			<td>
-				108 kW
+				112 kW
 			</td>
 			<td>
-				 24 m 40 s
-			</td>
-			<td>
-				47,6 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				57%
-			</td>
-			<td>
-				107 kW
-			</td>
-			<td>
-				 25 m 11 s
-			</td>
-			<td>
-				48,4 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				58%
-			</td>
-			<td>
-				105 kW
-			</td>
-			<td>
-				 25 m 42 s
-			</td>
-			<td>
-				49,3 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				59%
-			</td>
-			<td>
-				104 kW
-			</td>
-			<td>
-				 26 m 13 s
-			</td>
-			<td>
-				50,2 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				60%
-			</td>
-			<td>
-				103 kW
-			</td>
-			<td>
-				 26 m 45 s
+				 26 m 56 s
 			</td>
 			<td>
 				51,0 kWh
@@ -1102,16 +1046,72 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 		</tr>
 		<tr>
 			<td>
+				57%
+			</td>
+			<td>
+				111 kW
+			</td>
+			<td>
+				 27 m 28 s
+			</td>
+			<td>
+				51,9 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				58%
+			</td>
+			<td>
+				110 kW
+			</td>
+			<td>
+				 28 m 0 s
+			</td>
+			<td>
+				52,8 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				59%
+			</td>
+			<td>
+				95 kW
+			</td>
+			<td>
+				 28 m 34 s
+			</td>
+			<td>
+				53,7 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				60%
+			</td>
+			<td>
+				79 kW
+			</td>
+			<td>
+				 29 m 15 s
+			</td>
+			<td>
+				54,6 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
 				61%
 			</td>
 			<td>
-				101 kW
+				64 kW
 			</td>
 			<td>
-				 27 m 17 s
+				 30 m 4 s
 			</td>
 			<td>
-				51,8 kWh
+				55,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1119,13 +1119,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				62%
 			</td>
 			<td>
-				100 kW
+				58 kW
 			</td>
 			<td>
-				 27 m 50 s
+				 31 m 2 s
 			</td>
 			<td>
-				52,7 kWh
+				56,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1133,13 +1133,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				63%
 			</td>
 			<td>
-				99 kW
+				57 kW
 			</td>
 			<td>
-				 28 m 23 s
+				 32 m 3 s
 			</td>
 			<td>
-				53,6 kWh
+				57,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1147,13 +1147,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				64%
 			</td>
 			<td>
-				99 kW
+				56 kW
 			</td>
 			<td>
-				 28 m 56 s
+				 33 m 5 s
 			</td>
 			<td>
-				54,4 kWh
+				58,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1161,13 +1161,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				65%
 			</td>
 			<td>
-				98 kW
+				55 kW
 			</td>
 			<td>
-				 29 m 29 s
+				 34 m 9 s
 			</td>
 			<td>
-				55,2 kWh
+				59,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1175,13 +1175,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				66%
 			</td>
 			<td>
-				98 kW
+				54 kW
 			</td>
 			<td>
-				 30 m 3 s
+				 35 m 13 s
 			</td>
 			<td>
-				56,1 kWh
+				60,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1189,13 +1189,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				67%
 			</td>
 			<td>
-				97 kW
+				59 kW
 			</td>
 			<td>
-				 30 m 37 s
+				 36 m 15 s
 			</td>
 			<td>
-				57,0 kWh
+				61,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1203,13 +1203,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				68%
 			</td>
 			<td>
-				97 kW
+				65 kW
 			</td>
 			<td>
-				 31 m 10 s
+				 37 m 12 s
 			</td>
 			<td>
-				57,8 kWh
+				61,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1217,13 +1217,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				69%
 			</td>
 			<td>
-				96 kW
+				70 kW
 			</td>
 			<td>
-				 31 m 45 s
+				 38 m 5 s
 			</td>
 			<td>
-				58,6 kWh
+				62,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1231,13 +1231,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				70%
 			</td>
 			<td>
-				96 kW
+				75 kW
 			</td>
 			<td>
-				 32 m 19 s
+				 38 m 54 s
 			</td>
 			<td>
-				59,5 kWh
+				63,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1245,80 +1245,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				71%
 			</td>
 			<td>
-				95 kW
+				76 kW
 			</td>
 			<td>
-				 32 m 53 s
-			</td>
-			<td>
-				60,4 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				72%
-			</td>
-			<td>
-				94 kW
-			</td>
-			<td>
-				 33 m 28 s
-			</td>
-			<td>
-				61,2 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				73%
-			</td>
-			<td>
-				94 kW
-			</td>
-			<td>
-				 34 m 3 s
-			</td>
-			<td>
-				62,0 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				74%
-			</td>
-			<td>
-				93 kW
-			</td>
-			<td>
-				 34 m 38 s
-			</td>
-			<td>
-				62,9 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				75%
-			</td>
-			<td>
-				93 kW
-			</td>
-			<td>
-				 35 m 14 s
-			</td>
-			<td>
-				63,8 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				76%
-			</td>
-			<td>
-				92 kW
-			</td>
-			<td>
-				 35 m 49 s
+				 39 m 40 s
 			</td>
 			<td>
 				64,6 kWh
@@ -1326,16 +1256,86 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 		</tr>
 		<tr>
 			<td>
+				72%
+			</td>
+			<td>
+				78 kW
+			</td>
+			<td>
+				 40 m 26 s
+			</td>
+			<td>
+				65,5 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				73%
+			</td>
+			<td>
+				79 kW
+			</td>
+			<td>
+				 41 m 11 s
+			</td>
+			<td>
+				66,4 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				74%
+			</td>
+			<td>
+				80 kW
+			</td>
+			<td>
+				 41 m 55 s
+			</td>
+			<td>
+				67,3 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				75%
+			</td>
+			<td>
+				79 kW
+			</td>
+			<td>
+				 42 m 40 s
+			</td>
+			<td>
+				68,2 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				76%
+			</td>
+			<td>
+				78 kW
+			</td>
+			<td>
+				 43 m 25 s
+			</td>
+			<td>
+				69,2 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
 				77%
 			</td>
 			<td>
-				92 kW
+				77 kW
 			</td>
 			<td>
-				 36 m 25 s
+				 44 m 10 s
 			</td>
 			<td>
-				65,4 kWh
+				70,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1343,13 +1343,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				78%
 			</td>
 			<td>
-				91 kW
+				73 kW
 			</td>
 			<td>
-				 37 m 1 s
+				 44 m 57 s
 			</td>
 			<td>
-				66,3 kWh
+				71,0 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1357,13 +1357,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				79%
 			</td>
 			<td>
-				91 kW
+				69 kW
 			</td>
 			<td>
-				 37 m 37 s
+				 45 m 47 s
 			</td>
 			<td>
-				67,2 kWh
+				71,9 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1371,13 +1371,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				80%
 			</td>
 			<td>
-				90 kW
+				65 kW
 			</td>
 			<td>
-				 38 m 14 s
+				 46 m 39 s
 			</td>
 			<td>
-				68,0 kWh
+				72,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1385,13 +1385,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				81%
 			</td>
 			<td>
-				60 kW
+				63 kW
 			</td>
 			<td>
-				 38 m 58 s
+				 47 m 34 s
 			</td>
 			<td>
-				68,8 kWh
+				73,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1399,13 +1399,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				82%
 			</td>
 			<td>
-				58 kW
+				61 kW
 			</td>
 			<td>
-				 39 m 53 s
+				 48 m 31 s
 			</td>
 			<td>
-				69,7 kWh
+				74,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1413,13 +1413,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				83%
 			</td>
 			<td>
-				56 kW
+				58 kW
 			</td>
 			<td>
-				 40 m 51 s
+				 49 m 31 s
 			</td>
 			<td>
-				70,6 kWh
+				75,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1427,13 +1427,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				84%
 			</td>
 			<td>
-				54 kW
+				56 kW
 			</td>
 			<td>
-				 41 m 51 s
+				 50 m 32 s
 			</td>
 			<td>
-				71,4 kWh
+				76,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1441,94 +1441,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				85%
 			</td>
 			<td>
-				52 kW
+				54 kW
 			</td>
 			<td>
-				 42 m 54 s
-			</td>
-			<td>
-				72,2 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				86%
-			</td>
-			<td>
-				49 kW
-			</td>
-			<td>
-				 43 m 59 s
-			</td>
-			<td>
-				73,1 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				87%
-			</td>
-			<td>
-				47 kW
-			</td>
-			<td>
-				 45 m 7 s
-			</td>
-			<td>
-				74,0 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				88%
-			</td>
-			<td>
-				45 kW
-			</td>
-			<td>
-				 46 m 18 s
-			</td>
-			<td>
-				74,8 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				89%
-			</td>
-			<td>
-				43 kW
-			</td>
-			<td>
-				 47 m 32 s
-			</td>
-			<td>
-				75,6 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				90%
-			</td>
-			<td>
-				41 kW
-			</td>
-			<td>
-				 48 m 51 s
-			</td>
-			<td>
-				76,5 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				91%
-			</td>
-			<td>
-				39 kW
-			</td>
-			<td>
-				 50 m 13 s
+				 51 m 37 s
 			</td>
 			<td>
 				77,4 kWh
@@ -1536,16 +1452,100 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 		</tr>
 		<tr>
 			<td>
+				86%
+			</td>
+			<td>
+				52 kW
+			</td>
+			<td>
+				 52 m 44 s
+			</td>
+			<td>
+				78,3 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				87%
+			</td>
+			<td>
+				49 kW
+			</td>
+			<td>
+				 53 m 54 s
+			</td>
+			<td>
+				79,2 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				88%
+			</td>
+			<td>
+				47 kW
+			</td>
+			<td>
+				 55 m 7 s
+			</td>
+			<td>
+				80,1 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				89%
+			</td>
+			<td>
+				45 kW
+			</td>
+			<td>
+				 56 m 24 s
+			</td>
+			<td>
+				81,0 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90%
+			</td>
+			<td>
+				43 kW
+			</td>
+			<td>
+				 57 m 44 s
+			</td>
+			<td>
+				81,9 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				91%
+			</td>
+			<td>
+				40 kW
+			</td>
+			<td>
+				 59 m 9 s
+			</td>
+			<td>
+				82,8 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
 				92%
 			</td>
 			<td>
-				37 kW
+				38 kW
 			</td>
 			<td>
-				 51 m 40 s
+				1 h 0 m 39 s
 			</td>
 			<td>
-				78,2 kWh
+				83,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1553,13 +1553,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				93%
 			</td>
 			<td>
-				35 kW
+				36 kW
 			</td>
 			<td>
-				 53 m 12 s
+				1 h 2 m 15 s
 			</td>
 			<td>
-				79,0 kWh
+				84,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1567,13 +1567,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				94%
 			</td>
 			<td>
-				33 kW
+				34 kW
 			</td>
 			<td>
-				 54 m 49 s
+				1 h 3 m 57 s
 			</td>
 			<td>
-				79,9 kWh
+				85,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1584,10 +1584,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				31 kW
 			</td>
 			<td>
-				 56 m 33 s
+				1 h 5 m 45 s
 			</td>
 			<td>
-				80,8 kWh
+				86,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1595,13 +1595,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				96%
 			</td>
 			<td>
-				28 kW
+				29 kW
 			</td>
 			<td>
-				 58 m 25 s
+				1 h 7 m 42 s
 			</td>
 			<td>
-				81,6 kWh
+				87,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1609,13 +1609,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				97%
 			</td>
 			<td>
-				26 kW
+				27 kW
 			</td>
 			<td>
-				1 h 0 m 25 s
+				1 h 9 m 49 s
 			</td>
 			<td>
-				82,4 kWh
+				88,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1623,13 +1623,13 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				98%
 			</td>
 			<td>
-				24 kW
+				25 kW
 			</td>
 			<td>
-				1 h 2 m 36 s
+				1 h 12 m 6 s
 			</td>
 			<td>
-				83,3 kWh
+				89,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1640,10 +1640,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				22 kW
 			</td>
 			<td>
-				1 h 4 m 58 s
+				1 h 14 m 37 s
 			</td>
 			<td>
-				84,2 kWh
+				90,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1654,10 +1654,10 @@ Honda Prologue AWD tiene calefacción de batería, lo que facilita la carga a un
 				20 kW
 			</td>
 			<td>
-				1 h 7 m 34 s
+				1 h 17 m 24 s
 			</td>
 			<td>
-				85,0 kWh
+				91,0 kWh
 			</td>
 		</tr>
 	</tbody>

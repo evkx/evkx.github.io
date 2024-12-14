@@ -353,5 +353,5 @@ Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for e
 
 ## Tilgængelighed & Priser
 
-
+Denne model havde sin verdenspremiere den 30.03.2021, og leveringerne startede i August 2021. Denne model er nu udgået.
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

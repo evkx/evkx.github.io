@@ -353,5 +353,5 @@ Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med
 
 ## Tilgjengelighet og priser
 
-
+Denne modellen hadde sin verdenspremiere 30.03.2021, og leveringene startet i August 2021. Denne modellen er nå utgått.
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}
