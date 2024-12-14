@@ -171,6 +171,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Antal moduler
+			</td>
+			<td>
+				32
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Pakkekonfiguration
 			</td>
 			<td>
@@ -183,6 +191,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				697
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>

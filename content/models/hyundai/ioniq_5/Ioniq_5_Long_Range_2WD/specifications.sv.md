@@ -171,6 +171,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Antal moduler
+			</td>
+			<td>
+				32
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Packkonfiguration
 			</td>
 			<td>
@@ -183,6 +191,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				697
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>

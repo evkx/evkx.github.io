@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Long Range 2WD
 linktitle: "EV6 Long Range 2WD"
-description: "Kia EV6 Long Range 2WD är en elektrisk coupéSUV med en WLTP-räckvidd på upp till 528 km (328 miles). EVKX.net har alla detaljer."
+description: "Kia EV6 Long Range 2WD är en elektrisk coupéSUV med en WLTP-räckvidd på upp till 582 km (362 miles). EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/main_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/main_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1687"  >}}
 
 Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Klicka på länkarna nedan för att hoppa till olika områden eller fortsätt läsa för hela artikeln. Dessutom erbjuder vi en översikt över [fullständiga specifikationer](specifications/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt inkluderar:
 
@@ -34,23 +34,25 @@ Kia EV6 Long Range 2WD erbjuder modest prestanda med en maxeffekt på 168 kW (22
 
 ## Batteri, räckvidd och laddning
 
-Batteriet med hög kapacitet har en bruttokapacitet på 77,4 kWh och en nettoanvändbar kapacitet på 74,0 kWh, vilket ger en 3,4 kWh buffert (4,4%) för batteriskydd. Med en driftspänning på 697 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter.
+Batteriet med hög kapacitet har en bruttokapacitet på 84,0 kWh och en nettoanvändbar kapacitet på 80,0 kWh, vilket ger en 4,0 kWh buffert (4,8%) för batteriskydd. Med en driftspänning på 697 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 528 till 504 km (328-313 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 14,0 kWh/100 km för basmodellen och 14,7 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 582 till 558 km (362-347 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 13,7 kWh/100 km för basmodellen och 14,3 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Fordonet stöder snabbladdning med likström med en maximal effekt på 233 kW. Laddning från 0% till 100% tar ungefär 39 minuter, medan ett mer typiskt scenario från 10% till 80% tar 17 minuter med en genomsnittlig laddningshastighet på 188 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 76%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 149 kW, där varje laddningssession tar cirka 22 minuter och 20 sekunder. Denna effektiva laddningsförmåga gör Kia EV6 Long Range 2WD till ett bekvämt alternativ för långdistansresor.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 260 kW. Laddning från 0% till 100% tar ungefär 76 minuter, medan ett mer typiskt scenario från 10% till 80% tar 20 minuter med en genomsnittlig laddningshastighet på 172 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 63%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 156 kW, där varje laddningssession tar cirka 19 minuter och 6 sekunder. Denna effektiva laddningsförmåga gör Kia EV6 Long Range 2WD till ett bekvämt alternativ för långdistansresor.
 
-I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 20 kWh/100 km, skulle resan ta ungefär 9 timmar och 12 minuter, med två laddningsstopp från 0% till 86%, totalt 52 minuters laddtid.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 23,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 20 minuter, med tre laddningsstopp från 1% till 66%, totalt 60 minuters laddtid.
 
 ### Inbyggd laddare
 
-Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 6 timmar och 43 minuter vid hemmaladdning.
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/charging_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2000"  >}}
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 7 timmar och 16 minuter vid hemmaladdning.
 
 ### Laddningsport
 
 Laddningsporten är placerad på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta gör det enkelt att använda laddstationer där du behöver backa in mot laddaren. Kontakttyperna varierar beroende på marknad: denna modell använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) i Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) i Europa. För fullständiga specifikationer för alla marknader, se de kompletta specifikationerna.
+
+### Dubbelriktad laddning
+
+Denna modell stödjer V2L (Vehicle to Load), vilket låter dig driva elektrisk utrustning som kräver upp till 3,6 kW effekt, inklusive möjligheten att ladda andra fordon.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -58,17 +60,34 @@ Laddningsporten är placerad på [höger baksida](../../../../technology/chargin
 
 ## Drivlina
 
-Kia EV6 Long Range 2WD har ett bakhjulsdrivet system med en motor på bakaxeln.
+Kia EV6 Long Range 2WD har ett bakhjulsdrivet system med en motor på bakaxeln. Motorn som används är en [permanent magnet synkronmotor](../../../../technology/motors/pmsm/).
 
 ### Fjädring
 
-s fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 178 mm.
+Framhjulsupphängningen är av typen [MacPherson](../../../../technology/suspension/#macpherson-strut), och bakhjulsupphängningen är [multilänk](../../../../technology/suspension/#multilink). Standardfjädringen inkluderar stålfjädrar och hydrauliska stötdämpare. standards fjädring har fast höjd och dämpning. Markfrigången med denna fjädring är 160 mm.
+
+### Styrning
+
+Dynamisk styrning är standard på Kia EV6 Long Range 2WD, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort.
+
+### Körlägen
+
+Kia EV6 Long Range 2WD låter användaren välja olika [körlägen](../../../../technology/drivemodes/) som påverkar bilens köregenskaper. Föraren kan välja mellan 4 lägen:
+
+- Eco: Balanserad styrning med effektiv gasrespons och balanserad fjädring.
+- Sport: Dynamisk styrning, fjädring och gasrespons.
+- Normal: Balanserad gasrespons och styrning, komfortabel fjädring.
+- My Drive: Användardefinierade inställningar för styrning, gasrespons och fjädring.
 
 ### Bromsar
 
+Kia EV6 Long Range 2WD är utrustad med [gjutjärnsskivbromsar](../../../../technology/brakes/#disc-brakes) både fram och bak. De främre skivorna mäter 345 mm, medan de bakre skivorna är 345 mm.
+
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) finns tillgänglig i två lägen. Du kan använda [enpedalkörning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla fritt och använda [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal) för regenerering.
+[Regenerativ bromsning](../../../../technology/regen/) finns tillgänglig i två lägen. Du kan använda [enpedalkörning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla fritt och använda [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal) för regenerering. Du kan välja mellan två stopplägen för enpedalkörning. **Hållläge** bromsar fordonet till fullständigt stopp med friktionsbromsar, och **Rullläge** låter fordonet rulla tills det stannar naturligt.
+
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns fem nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
 Den maximala regenerativa effekten är 150 kW.
 
@@ -76,7 +95,7 @@ Den maximala regenerativa effekten är 150 kW.
 
 ## Exteriör
 
-Kia EV6 Long Range 2WD, med måtten 4680 mm i längd, 1880 mm i bredd och 1550 mm i höjd, tillhör kategorin kompakta SUV:ar, även kända som C-SUV:ar. Dessa erbjuder en balans mellan mindre bilars praktiska egenskaper och manövrerbarhet och större SUV:ars utrymme och mångsidighet. Du kan välja mellan 11 olika lackfärger när du beställer denna modell.
+Kia EV6 Long Range 2WD, med måtten 4695 mm i längd, 1880 mm i bredd och 1550 mm i höjd, tillhör kategorin kompakta SUV:ar, även kända som C-SUV:ar. Dessa erbjuder en balans mellan mindre bilars praktiska egenskaper och manövrerbarhet och större SUV:ars utrymme och mångsidighet. Kia EV6 Long Range 2WD erbjuder ett urval av 9 lackfärger, med solida, metallic, pärlemo och mattlackerade alternativ.
 
 Kia EV6 Long Range 2WD erbjuder flera hjulalternativ i olika storlekar, vilket låter dig anpassa ditt fordon efter din stil och körstil. De tillgängliga däck- och hjulkombinationerna inkluderar:
 
@@ -89,9 +108,9 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [halvkomb
 
 Det finns två olika takalternativ att välja mellan. Standard är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett soltak. Glaset sträcker sig endast över främre raden och passagerarna kan öppna det. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-Du kan även beställa bilen med tonade rutor från B-stolpen och bakåt, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
+Du kan även beställa bilen med tonade rutor från B-stolpen och bakåt, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna. Som tillval finns dubbla sidorutor tillgängligt för att minska ljudnivån i kupén och förbättra körupplevelsen.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/exterior_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2017"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/exterior_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -99,7 +118,7 @@ Du kan även beställa bilen med tonade rutor från B-stolpen och bakåt, vilket
 
 ## Interiör
 
-Det finns en sätestyp som du kan välja i olika material.
+Interiören i Kia EV6 Long Range 2WD är funktionell, med högkvalitativa material i flera områden istället för hård plast. Den har en svävande mittkonsol som skapar ett öppet utrymme mellan passagerare och förare och erbjuder praktiska förvaringsmöjligheter. Den övergripande designen prioriterar praktisk användning och enkelhet. Det finns en sätestyp som du kan välja i olika material.
 
 ### Säten
 
@@ -111,33 +130,50 @@ Kia EV6 Long Range 2WD erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **** sätet:
 
-- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar som tillval)
 - Höjdjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
-- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, ej tillgänglig för passagerare)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar som tillval)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
 
 Finns tillgänglig i:
 
 - Black [tyg/konstläderklädsel](../../../../technology/seats/materials/#fabric)
-- Black [skinnklädsel](../../../../technology/seats/materials/#leather)
-- Black/White [skinnklädsel](../../../../technology/seats/materials/#leather)
-- Gray [skinnklädsel](../../../../technology/seats/materials/#leather)
+- Black [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black/White [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
+- Gray [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [mikrofiber/konstläderklädsel](../../../../technology/seats/materials/#microfiber)
 - Gray [mikrofiber/konstläderklädsel](../../../../technology/seats/materials/#microfiber)
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/frontseats_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/frontseats_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1737"  >}}
 
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med 60:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- Höjdjusterbart nackstöd (manuellt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (standard för yttersäten)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttersäten)
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2400"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1999"  >}}
+
+### Förvaringsutrymmen
+
+Kia EV6 Long Range 2WD erbjuder gott om förvaringslösningar i kupén för att öka bekvämlighet och organisation:
+
+- **Mugghållare:** Två mugghållare finns i mittkonsolen fram, med ytterligare två i armstödet bak.
+- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passagerarsätet, perfekt för förvaring av viktiga föremål.
+- **Förvaring under golvet:** Bagageutrymmet har förvaring under golvet, perfekt för att hålla mindre föremål som laddningskablar prydligt undanstoppade.
+
+### Interiörbelysning
+
+Kia EV6 Long Range 2WD erbjuder flera olika interiörbelysningsalternativ utformade för att skapa en behaglig atmosfär och förbättra sikten.
+
+- **Flerfärgad stämningsbelysning:** Denna funktion sträcker sig över instrumentpanelen, dörrpanelerna och fotutrymmet och skapar en harmonisk och inbjudande atmosfär. Du kan anpassa färgerna efter ditt humör eller preferens för att skapa en personlig touch i din körupplevelse. Denna funktion är tillval.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -155,6 +191,7 @@ Denna modell har [värmepump](../../../../technology/hvac/#heat-pump) som tillva
 
 I Kia EV6 Long Range 2WD ingår flera funktioner för att öka komfort och bekvämlighet:
 
+- **Easy Entry-funktion:** Flyttar förarsätet för att underlätta instigning i bilen.
 - **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
@@ -162,6 +199,8 @@ I Kia EV6 Long Range 2WD ingår flera funktioner för att öka komfort och bekv�
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Användargränssnitt och kontroll
+
+Kontrollgränssnittet för Kia EV6 Long Range 2WD är primärt fokuserat på skärminteraktion, med begränsad funktionalitet tillgänglig via fysiska knappar och rattspakar. Denna design kan resultera i en mindre optimal användarupplevelse för vissa användare.
 
 Kia EV6 Long Range 2WD har två skärmar med information för förare och passagerare. Bakom ratten finns en [digital instrumentgrupp](../../../../technology/userinterface/screens/#digital-instruments), och på höger sida finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -172,25 +211,35 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett tillval system som projicerar hastighet och annan viktig förarinformation på vindrutan.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/screens_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2003"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/screens_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1697"  >}}
 
 ### Ratt
 
 Kia EV6 Long Range 2WD är utrustad med endast en typ av ratt:
 
-- **Rund ratt:** Denna ratt har valfri integrerad uppvärmning för extra komfort under kalla dagar. Den erbjuder också intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
+- **Cirkulär Ratt:** Denna ratt har en platt botten och topp, vilket ger ett sportigt utseende och känsla. Den inkluderar också fysiska knappar, vippströmbrytare och paddelväxlare, vilket gör att du kan kontrollera infotainmentsystemet, justera volymen, byta musikspår och hantera andra viktiga funktioner med lätthet. Integrerad uppvärmning finns tillgänglig för extra komfort under kallt väder.
 
 ### Speglar
 
 Både ytter- och innerbackspeglarna använder konventionell spegelteknik för att ge en klar sikt över området bakom fordonet.
 
+Denna modell levereras med röststyrning som standard, vilket låter dig hantera olika funktioner genom röstkommandon.
+
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
+Kia EV6 Long Range 2WD har ett skräddarsytt infotainmentsystem utformat för att erbjuda ett gränssnitt med en rad funktioner som förbättrar körupplevelsen.
+
 ### Navigationssystem
 
-Med standards inbyggda navigationssystem har du all hjälp du behöver för att nå din destination utan ansträngning.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering. Systemet tillhandahåller trafikinformation i realtid för att säkerställa en effektiv och stressfri resa.
+
+### Förinstallerade appar
+
+Även om infotainmentsystemet inte har någon app-butik, levereras det med ett urval av förinstallerade tredjepartsappar som körs direkt på bilens skärm, oberoende av en ansluten telefon. De tillgängliga apparna varierar beroende på marknad men inkluderar populära alternativ som:
+
+- **Spotify:** Strömma miljoner låtar, spellistor och poddar direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under körningen.
 
 ### Telefonspegling
 
@@ -205,13 +254,28 @@ Du kan välja mellan två ljudsystem för Kia EV6 Long Range 2WD:
 
 Dessutom har modellen 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
+## Mobilapp
+
+Kia EV6 Long Range 2WD levereras med en dedikerad mobilapp, tillgänglig för både Android och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner utformade för att förbättra din körupplevelse:
+
+- **Hitta din bil:** Kontrollera enkelt bilens aktuella position.
+- **Förkonditionering:** Förvärm eller kyl din bil innan du börjar din resa för optimal komfort.
+- **Lås & lås upp:** Lås eller lås upp bildörrarna säkert med ett tryck.
+- **Schemalagd laddning:** Planera och schemalägg laddningssessioner inför dina resor.
+- **Justera laddningsmål:** Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
+- **Ruttplanering:** Planera din rutt och skicka den direkt till bilens navigationssystem.
+- **Körhistorik:** Granska detaljerna från dina tidigare resor.
+
 ## Belysning
 
-**Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
+Du kan välja mellan två olika typer av strålkastare för Kia EV6 Long Range 2WD.
+
+- **Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
+- **LED Matrix-strålkastare:** Som tillval finns detta adaptiva system som delar upp den traditionella strålkastarljusstrålen i dussintals mindre strålar som ljuskontrollern kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
 
 Baklyktorna använder LED-teknik vilket säkerställer både hög synlighet och energieffektivitet.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/headlights_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/headlights_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1713"  >}}
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -231,22 +295,45 @@ Kia EV6 Long Range 2WD har ett utbud av standard och tillvalda [avancerade föra
 
 [**Varning för korsande trafik bak (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Kia EV6 Long Range 2WD, detta system använder sensorer för att upptäcka annalkande fordon från sidan när man backar ut från en parkeringsplats eller uppfart.
 
+[**Kollisionsvarning framåt (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Kia EV6 Long Range 2WD, detta förarassistanssystem hjälper förare att undvika eller mildra frontalkrockar.
+
 [**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Kia EV6 Long Range 2WD, detta system bromsar automatiskt för att förhindra eller minska allvarligheten av en kollision om föraren inte reagerar i tid.
 
 [**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Kia EV6 Long Range 2WD, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Kia EV6 Long Range 2WD, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
+[**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tillval på Kia EV6 Long Range 2WD, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
+
+[**Utstigningsvarning**](../../../../technology/driverassistance/exitwarning/): Tillval på Kia EV6 Long Range 2WD, detta system varnar passagerare mot att öppna dörrar om det finns risk för kollision.
 
 ### Körautomation
 
-Med standardsystemet  nivå 2 får du följande körautomationsfunktioner.
+Med standardsystemet Highway Driving Assist nivå 2 får du följande körautomationsfunktioner.
 
 - [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- [**Automatiskt körfältsbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensorer & Kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+
+## Säkerhet
+
+Kia EV6 Long Range 2WD är utrustad med flera krockkuddar för att säkerställa passagerarskydd vid en kollision. Krockkuddesystemet inkluderar:
+
+- Frontkrockkuddar för förare och passagerare
+- Sidokrockgardiner för både första och andra raden
+- Sidokrockkuddar för förare och passagerare
+
+Dessutom är både första och andra radens säkerhetsbälten utrustade med bältesförsträckare som automatiskt spänns vid en kollision för att minimera skaderisken.
 
 ## Säkerhets- och åtkomstteknologier
 
-Kia EV6 Long Range 2WD är utrustad med grundläggande säkerhetsfunktioner för att skydda dig och ditt fordon, vilket erbjuder enkelhet och tillförlitlighet. Dessa inkluderar:
+Kia EV6 Long Range 2WD är utrustad med avancerade säkerhetsfunktioner för att skydda dig och ditt fordon. Dessa inkluderar:
+
+- **Nyckelfritt inträde och start:** Fordonets nyckelfria inträdes- och startsystem möjliggör sömlös åtkomst, vilket låter dig låsa upp och starta bilen utan att behöva ta ut nyckeln ur fickan eller väskan.
+- **Larmsystem:** Ett integrerat larmsystem övervakar mot obehörigt intrång eller manipulering och ger varningar för att avskräcka intrång och hålla ditt fordon säkert.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -256,10 +343,30 @@ Kia EV6 Long Range 2WD är utrustad med grundläggande säkerhetsfunktioner för
 
 Bagageutrymmet har en lastkapacitet på 480 liter (17,0 kubikfot). Med baksätet nedfällt ökar detta till 1260 liter (44,5 kubikfot). På taket kan du lasta upp till 80 kg (176,4 lbs). Takräcken är standard för enkel montering av takbox eller lasthållare. Dessutom finns det en frunk (främre bagageutrymme) med en lagringskapacitet på 20 liter (0,7 CU FT).
 
-Fordonets maximala vikt är 2530 kg (5578 lbs), med en tjänstevikt på 2015 kg (4442 lbs). Detta möjliggör en maximal last på 515 kg (1135 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2600 kg (5732 lbs), med en tjänstevikt på 2075 kg (4575 lbs). Detta möjliggör en maximal last på 525 kg (1157 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
 Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 1600 kg (3527 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/trunk_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1999"  >}}
+
+## Tillgänglighet och priser
+
+Kia EV6 Long Range 2WD hade sin världspremiär den 19.08.2024, och leveranserna startade December 2024.
+
+### Priser
+
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan visas startpriserna för utvalda länder:
+
+- 519 900,00 NOK (Norge)
+
+## Alternativa modeller
+
+På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternativ till Kia EV6 Long Range 2WD som är värda att överväga baserat på funktioner, specifikationer och prissättning. Även om dessa modeller kanske inte är exakta matchningar, kan en jämförelse hjälpa dig att fatta ett mer välgrundat köpbeslut:
+
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
+
+<a href="https://db.evkx.net/evcompare?evs=d99ad1%2cad3cd5%2c0cb6ee%2c3129cf" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

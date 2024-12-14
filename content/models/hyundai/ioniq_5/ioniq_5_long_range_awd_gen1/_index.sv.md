@@ -34,7 +34,7 @@ Hyundai Ioniq 5 Long Range AWD (GEN1) levererar en solid prestanda med en maxeff
 
 ## Batteri, räckvidd och laddning
 
-Batteriet med hög kapacitet har en bruttokapacitet på 77,4 kWh och en nettoanvändbar kapacitet på 74,0 kWh, vilket ger en 3,4 kWh buffert (4,4%) för batteriskydd. Med en driftspänning på 697 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter.
+Batteriet med hög kapacitet har en bruttokapacitet på 77,4 kWh och en nettoanvändbar kapacitet på 74,0 kWh, vilket ger en 3,4 kWh buffert (4,4%) för batteriskydd. Med en driftspänning på 697 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 481 till 454 km (299-282 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 15,4 kWh/100 km för basmodellen och 16,3 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 

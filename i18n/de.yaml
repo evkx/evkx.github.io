@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-f8bdfe08
+  translation: Kia EV6 Long Range 2WD ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 582 km (362 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-85591985
   translation: Kia EV6 GT ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 450 km (280 Meilen). EVKX.net hat alle Details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-0056b1ab
   translation: Porsche Taycan GTS Sport Turismo ist ein vollelektrischer Luxus-Kombi mit einer Reichweite von bis zu 601 km (374 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-153939db
-  translation: BYD Sealion 7 Excellence ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 502 km (312 Meilen). EVKX.net hat alle Details.
 

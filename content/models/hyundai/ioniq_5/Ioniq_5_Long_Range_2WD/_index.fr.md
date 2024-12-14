@@ -34,7 +34,7 @@ Le Hyundai Ioniq 5 Long Range 2WD offre des performances modestes avec une puiss
 
 ## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 77,4 kWh et une capacité nette utilisable de 74,0 kWh, offrant une marge de sécurité de 3,4 kWh (4,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 697 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
+La batterie haute capacité a une capacité brute de 77,4 kWh et une capacité nette utilisable de 74,0 kWh, offrant une marge de sécurité de 3,4 kWh (4,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 697 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie Lithium-Ion utilise la [technologie NMC (Nickel Manganèse Cobalt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule varie entre 507 et 476 km (315-296 miles), en fonction de la configuration spécifique et des options, telles que la taille des roues. Des roues plus grandes peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,6 kWh/100 km pour le modèle de base et à 15,5 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
@@ -58,7 +58,7 @@ L'emplacement du port de charge est sur le [côté arrière droit](../../../../t
 
 ## Groupe Motopropulseur
 
-Le Hyundai Ioniq 5 Long Range 2WD dispose d'un système de traction arrière soutenu par un moteur sur l'essieu arrière.
+Le Hyundai Ioniq 5 Long Range 2WD dispose d'un système de traction arrière soutenu par un moteur sur l'essieu arrière. Le moteur utilisé est un [moteur synchrone à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 

@@ -34,7 +34,7 @@ El Hyundai Ioniq 5 Long Range 2WD ofrece un rendimiento modesto con una potencia
 
 ## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 77,4 kWh y una capacidad neta utilizable de 74,0 kWh, proporcionando un buffer de 3,4 kWh (4,4%) para la protección de la batería. Operando a un voltaje nominal de 697 voltios, califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
+La batería de alta capacidad tiene una capacidad bruta de 77,4 kWh y una capacidad neta utilizable de 74,0 kWh, proporcionando un buffer de 3,4 kWh (4,4%) para la protección de la batería. Operando a un voltaje nominal de 697 voltios, califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo varía entre 507 a 476 km (315-296 millas), dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes pueden aumentar el consumo de energía y, posteriormente, reducir la autonomía general. El consumo de energía del vehículo se califica en 14,6 kWh/100 km para el modelo base y 15,5 kWh/100 km para el modelo de gama alta según el ciclo de prueba WLTP. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
@@ -58,7 +58,7 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 ## Tren Motriz
 
-El Hyundai Ioniq 5 Long Range 2WD tiene un sistema de tracción trasera soportado por un motor en el eje trasero.
+El Hyundai Ioniq 5 Long Range 2WD tiene un sistema de tracción trasera soportado por un motor en el eje trasero. El motor utilizado es un [Motor Síncrono de Imán Permanente](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 

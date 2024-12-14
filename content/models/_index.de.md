@@ -452,7 +452,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 		Kia, ein südkoreanischer Automobilhersteller, der 1944 gegründet wurde, hat sich zu einem globalen Marktführer entwickelt, der für Innovation und Qualität bekannt ist. Mit einem starken Fokus auf elektrische Mobilität erweitert Kia seine EV-Palette und strebt nach Nachhaltigkeit und Spitzentechnologie. Das Engagement der Marke für zugängliche, umweltfreundliche Fahrzeuge positioniert sie als wichtigen Akteur auf dem EV-Markt.
 	</p>
 	<p>
-	Kia hat 4 Modelle mit insgesamt 14 Varianten.
+	Kia hat 4 Modelle mit insgesamt 15 Varianten.
 	</p>
 	<a href="kia/" class="btn btn-outline-primary" role="button">Gehe zu Kia EV-Modellübersicht</a>
 </div>

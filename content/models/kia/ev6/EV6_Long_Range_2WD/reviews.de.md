@@ -9,24 +9,52 @@ navicon: bi-person-video2
 Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Don't Buy A Kia EV6 BEFORE WATCHING THIS!</h3>
-<p>Kris Rifa: 10.07.2022</p>
+<h3>Kia EV6 84 kWh facelift acceleration and noise test</h3>
+<p>Bjørn Nyland: 30.11.2024</p>
 
-{{< youtube Tg9fRxer3U >}}
-
-</div>
-<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Kia EV6 Long Range (77.4kWh) RWD | Motorway Range Test</h3>
-<p>Kris Rifa: 27.05.2022</p>
-
-{{< youtube piu11O45H10 >}}
+{{< youtube c_nzpNaqE8M >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>This Electric Car is out of this world! | Kia EV6 Review</h3>
-<p>Fully Charged Show: 23.09.2021</p>
+<h3>Kia EV6 facelift headlights test</h3>
+<p>Bjørn Nyland: 24.11.2024</p>
 
-{{< youtube jb5bhI1pzTM >}}
+{{< youtube -w1qSjugxe0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV6 AWD facelift range test</h3>
+<p>Bjørn Nyland: 22.11.2024</p>
+
+{{< youtube AhpuMqt0Y60 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2025 Kia EV6 | Small Changes Are A Solid Improvement</h3>
+<p>Auto Buyers Guide | Alex on Autos: 22.11.2024</p>
+
+{{< youtube UnusAbGyYEY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV6 facelift model review | all the info on this refresh!</h3>
+<p>Nobby On Cars: 06.11.2024</p>
+
+{{< youtube 7VSiwOi3js8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Kia EV6: Full Review & Drive</h3>
+<p>Nevo EV Review Ireland: 06.11.2024</p>
+
+{{< youtube wANGYvVirck >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Kia EV6 review – better than ever? | What Car?</h3>
+<p>What Car?: 03.10.2024</p>
+
+{{< youtube rydfd83JNt0 >}}
 
 </div>
 <div class="mt-3 mb-3">

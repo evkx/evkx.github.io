@@ -34,7 +34,7 @@ The Hyundai Ioniq 5 Long Range 2WD offers modest performance with a maximum powe
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 77.4 kWh and a net usable capacity of 74.0 kWh, providing a 3.4 kWh buffer (4.4%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 77.4 kWh and a net usable capacity of 74.0 kWh, providing a 3.4 kWh buffer (4.4%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 507 to 476 km (315-296 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.6 kWh/100 km for the base model and 15.5 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-The Hyundai Ioniq 5 Long Range 2WD has a rear-wheel drive system supported by one motor on the rear axle.
+The Hyundai Ioniq 5 Long Range 2WD has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 

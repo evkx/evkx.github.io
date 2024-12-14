@@ -34,7 +34,7 @@ Der Hyundai Ioniq 5 Long Range 2WD bietet eine bescheidene Leistung mit einer ma
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 77,4 kWh und eine nutzbare Nettokapazität von 74,0 kWh, was einen Puffer von 3,4 kWh (4,4%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 697 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 77,4 kWh und eine nutzbare Nettokapazität von 74,0 kWh, was einen Puffer von 3,4 kWh (4,4%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 697 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 507 und 476 km (315-296 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 14,6 kWh/100 km für das Basismodell und 15,5 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
@@ -58,7 +58,7 @@ Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technol
 
 ## Antriebsstrang
 
-Der Hyundai Ioniq 5 Long Range 2WD hat ein Heckantriebssystem, das von einem Motor an der Hinterachse unterstützt wird.
+Der Hyundai Ioniq 5 Long Range 2WD hat ein Heckantriebssystem, das von einem Motor an der Hinterachse unterstützt wird. Der verwendete Motor ist ein [Permanentmagnet-Synchronmotor](../../../../technology/motors/pmsm/).
 
 ### Federung
 

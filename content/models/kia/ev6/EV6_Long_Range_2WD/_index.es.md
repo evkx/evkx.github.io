@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Long Range 2WD
 linktitle: "EV6 Long Range 2WD"
-description: "Kia EV6 Long Range 2WD es un SUV cupé eléctrico con una autonomía WLTP de hasta 528 km (328 millas). EVKX.net tiene todos los detalles."
+description: "Kia EV6 Long Range 2WD es un SUV cupé eléctrico con una autonomía WLTP de hasta 582 km (362 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/main_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/main_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1687"  >}}
 
 Hemos organizado este artículo en secciones específicas para una navegación más fácil. Haga clic en los enlaces a continuación para saltar a diferentes áreas o continúe leyendo el artículo completo. Además, ofrecemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre el [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones incluyen:
 
@@ -34,23 +34,25 @@ El Kia EV6 Long Range 2WD ofrece un rendimiento modesto con una potencia máxima
 
 ## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 77,4 kWh y una capacidad neta utilizable de 74,0 kWh, proporcionando un buffer de 3,4 kWh (4,4%) para la protección de la batería. Operando a un voltaje nominal de 697 voltios, califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
+La batería de alta capacidad tiene una capacidad bruta de 84,0 kWh y una capacidad neta utilizable de 80,0 kWh, proporcionando un buffer de 4,0 kWh (4,8%) para la protección de la batería. Operando a un voltaje nominal de 697 voltios, califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo varía entre 528 a 504 km (328-313 millas), dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes pueden aumentar el consumo de energía y, posteriormente, reducir la autonomía general. El consumo de energía del vehículo se califica en 14,0 kWh/100 km para el modelo base y 14,7 kWh/100 km para el modelo de gama alta según el ciclo de prueba WLTP. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo varía entre 582 a 558 km (362-347 millas), dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes pueden aumentar el consumo de energía y, posteriormente, reducir la autonomía general. El consumo de energía del vehículo se califica en 13,7 kWh/100 km para el modelo base y 14,3 kWh/100 km para el modelo de gama alta según el ciclo de prueba WLTP. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-El vehículo admite carga rápida DC con una potencia máxima de 233 kW. Cargar del 0% al 100% toma aproximadamente 39 minutos, mientras que un escenario más típico del 10% al 80% toma 17 minutos con una velocidad de carga promedio de 188 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 1% al 76%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 149 kW, con cada sesión de carga tomando aproximadamente 22 minutos y 20 segundos. Esta capacidad de carga eficiente hace que el Kia EV6 Long Range 2WD sea una opción conveniente para viajes de larga distancia.
+El vehículo admite carga rápida DC con una potencia máxima de 260 kW. Cargar del 0% al 100% toma aproximadamente 76 minutos, mientras que un escenario más típico del 10% al 80% toma 20 minutos con una velocidad de carga promedio de 172 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 1% al 63%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 156 kW, con cada sesión de carga tomando aproximadamente 19 minutos y 6 segundos. Esta capacidad de carga eficiente hace que el Kia EV6 Long Range 2WD sea una opción conveniente para viajes de larga distancia.
 
-En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 20 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 12 minutos, requiriendo dos paradas de carga del 0% al 86%, totalizando 52 minutos de tiempo de carga.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 23,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 20 minutos, requiriendo tres paradas de carga del 1% al 66%, totalizando 60 minutos de tiempo de carga.
 
 ### Cargador a Bordo
 
-El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 6 horas y 43 minutos usando una configuración doméstica.
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/charging_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2000"  >}}
+El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 7 horas y 16 minutos usando una configuración doméstica.
 
 ### Puerto de Carga
 
 La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#rear-side). Esta ubicación facilita el uso de estaciones de carga donde necesita retroceder hacia el cargador. Los tipos de conectores varían según el mercado: este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) en América del Norte y [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) en Europa. Para especificaciones completas para todos los mercados, consulte las especificaciones completas.
+
+### Carga Bidireccional
+
+Este modelo admite V2L (Vehículo a Carga), lo que le permite alimentar equipos eléctricos que requieren hasta 3,6 kW de potencia, incluida la capacidad de cargar otros vehículos.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -58,17 +60,34 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 ## Tren Motriz
 
-El Kia EV6 Long Range 2WD tiene un sistema de tracción trasera soportado por un motor en el eje trasero.
+El Kia EV6 Long Range 2WD tiene un sistema de tracción trasera soportado por un motor en el eje trasero. El motor utilizado es un [Motor Síncrono de Imán Permanente](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
-La suspensión del  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 178 mm.
+La suspensión delantera es de [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). La suspensión estándar incluye resortes de acero y amortiguadores hidráulicos. La suspensión del standard tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es de 160 mm.
+
+### Dirección
+
+La dirección dinámica es una característica estándar en el Kia EV6 Long Range 2WD, variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados.
+
+### Modos de Conducción
+
+El Kia EV6 Long Range 2WD permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
+
+- Eco: Dirección equilibrada, con aceleración eficiente y suspensión equilibrada.
+- Sport: Dirección, suspensión y aceleración dinámicas.
+- Normal: Aceleración y dirección equilibradas, amortiguación de suspensión cómoda.
+- My Drive: Configuraciones definidas por el usuario para dirección, acelerador y suspensión.
 
 ### Frenos
 
+El Kia EV6 Long Range 2WD está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera. Los discos delanteros miden 345 mm, mientras que los discos traseros son de 345 mm.
+
 ### Frenado Regenerativo
 
-El [frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puede usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar.
+El [frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puede usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. Puede elegir entre dos modos de parada para la conducción con un solo pedal. El **modo Hold** detiene el vehículo completamente utilizando frenos de fricción, y el **modo Roll** permite que el vehículo ruede hasta detenerse naturalmente.
+
+Además, puedes ajustar la fuerza de la frenada regenerativa cuando levantas el pie del acelerador. Hay cinco niveles de frenada regenerativa para elegir, lo que te permite personalizar la experiencia de conducción a tu gusto.
 
 La potencia máxima de regeneración es de 150 kW.
 
@@ -76,7 +95,7 @@ La potencia máxima de regeneración es de 150 kW.
 
 ## Exterior
 
-El Kia EV6 Long Range 2WD, con dimensiones de 4680 mm de longitud, 1880 mm de ancho y 1550 mm de altura, pertenece a la categoría de SUVs compactos, también conocidos como C-SUVs. Estos ofrecen un equilibrio entre la practicidad y la maniobrabilidad de vehículos más pequeños y el espacio y la versatilidad de SUVs más grandes. Puede elegir entre 11 colores de pintura diferentes al ordenar este modelo.
+El Kia EV6 Long Range 2WD, con dimensiones de 4695 mm de longitud, 1880 mm de ancho y 1550 mm de altura, pertenece a la categoría de SUVs compactos, también conocidos como C-SUVs. Estos ofrecen un equilibrio entre la practicidad y la maniobrabilidad de vehículos más pequeños y el espacio y la versatilidad de SUVs más grandes. El Kia EV6 Long Range 2WD ofrece una selección de 9 colores de pintura, con opciones sólidas, metálicas, perladas y mate.
 
 El Kia EV6 Long Range 2WD ofrece múltiples opciones de ruedas en diferentes tamaños, lo que le permite personalizar su vehículo para adaptarse a su estilo y preferencias de conducción. Las combinaciones de neumáticos y ruedas disponibles incluyen:
 
@@ -89,9 +108,9 @@ El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [p
 
 Hay dos opciones de techo diferentes para elegir. El estándar es solo un techo regular. Como opción, puede pedir este modelo con un techo solar. El vidrio se extiende solo sobre la fila delantera y los ocupantes pueden abrirlo. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden usar para protegerse del sol.
 
-Además, puede pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
+Además, puede pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros. Como opción, están disponibles ventanas laterales de doble acristalamiento para reducir el ruido en la cabina, mejorando la experiencia de conducción.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/exterior_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2017"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/exterior_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -99,7 +118,7 @@ Además, puede pedir el coche con ventanas tintadas desde el pilar B hacia atrá
 
 ## Interior
 
-Hay un tipo de asiento que puede seleccionar en diferentes materiales.
+El interior del Kia EV6 Long Range 2WD es funcional, con materiales de alta calidad en varias áreas en lugar de plástico duro. Incluye una consola central flotante que crea un espacio abierto entre el pasajero y el conductor, proporcionando opciones de almacenamiento convenientes. El diseño general prioriza la practicidad y la facilidad de uso. Hay un tipo de asiento que puede seleccionar en diferentes materiales.
 
 ### Asientos
 
@@ -111,33 +130,50 @@ El Kia EV6 Long Range 2WD ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****:
 
-- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
+- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual, ajuste eléctrico como opción)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual, ajuste eléctrico como opción)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste eléctrico opcional)
 - Reposacabezas ajustable en altura
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
-- [Memoria](../../../../technology/seats/adjustment/#seat-memory) (estándar para el conductor, no disponible para el pasajero)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico opcional)
 - [Ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
 
 Disponible en:
 
 - Black [tapicería de tela/cuero sintético](../../../../technology/seats/materials/#fabric)
-- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Black/White [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
+- Black/White [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
+- Gray [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
 - Gray [tapicería de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Gray [tapicería de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/frontseats_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/frontseats_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1737"  >}}
 
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división 60:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
+- Reposacabezas ajustable en altura (ajuste manual)
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (estándar para los asientos exteriores)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2400"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1999"  >}}
+
+### Almacenamiento Interior
+
+El Kia EV6 Long Range 2WD proporciona amplias soluciones de almacenamiento interior para mejorar la conveniencia y organización:
+
+- **Portavasos:** Hay dos portavasos ubicados en la consola central delantera, y dos adicionales en el reposabrazos trasero.
+- **Guantera:** Hay una espaciosa guantera situada en el tablero frente al asiento del pasajero, ideal para almacenar artículos esenciales.
+- **Almacenamiento bajo el piso:** El área del maletero cuenta con almacenamiento bajo el piso, perfecto para mantener artículos pequeños como cables de carga ordenadamente guardados.
+
+### Iluminación Interior
+
+El Kia EV6 Long Range 2WD ofrece una gama de opciones de iluminación interior diseñadas para crear un ambiente agradable y mejorar la visibilidad.
+
+- **Iluminación ambiental multicolor:** Esta característica se extiende a lo largo del tablero, los paneles de las puertas y el espacio para los pies, proporcionando una atmósfera armoniosa y acogedora. Puedes personalizar los colores para adaptarlos a tu estado de ánimo o preferencia, añadiendo un toque personal a tu experiencia de conducción. Esta característica es opcional.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -155,6 +191,7 @@ Este modelo tiene una [bomba de calor](../../../../technology/hvac/#heat-pump) c
 
 El Kia EV6 Long Range 2WD incluye varias características para mejorar la comodidad y conveniencia:
 
+- **Función de Entrada Fácil:** Mueve el asiento del conductor para facilitar la entrada al automóvil.
 - **Carga Inalámbrica de Teléfonos**
 
 {{<evkxdisplayaddarticle />}}
@@ -162,6 +199,8 @@ El Kia EV6 Long Range 2WD incluye varias características para mejorar la comodi
 <a id="section-ui" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Interfaz de Usuario y Control
+
+La interfaz de control del Kia EV6 Long Range 2WD se centra principalmente en la interacción con la pantalla, con funcionalidad limitada disponible a través de botones físicos y palancas. Este diseño puede resultar en una experiencia de usuario y usabilidad menos que ideal para algunos usuarios.
 
 El Kia EV6 Long Range 2WD tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [panel de instrumentos digital](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -172,25 +211,35 @@ Detalles clave de la pantalla:
 
 Un sistema de visualización frontal es una opción que proyecta la velocidad y otra información importante del conductor en el parabrisas.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/screens_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2003"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/screens_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1697"  >}}
 
 ### Volante
 
 El Kia EV6 Long Range 2WD está equipado con un solo tipo de volante:
 
-- **Volante Circular:** Este volante cuenta con calefacción integrada opcional para mayor comodidad durante el clima frío. También proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
+- **Volante Circular:** Este volante presenta una parte inferior y superior plana, proporcionando un aspecto y sensación deportivos. También incluye botones físicos, interruptores de palanca y levas de cambio, lo que le permite controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar pistas de música y gestionar otras funciones clave con facilidad. La calefacción integrada está disponible para mayor comodidad durante el clima frío.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
+Este modelo viene equipado con control por voz de serie, lo que le permite gestionar varias funciones a través de comandos de voz.
+
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistema de Información y Entretenimiento
 
+El Kia EV6 Long Range 2WD cuenta con un sistema de información y entretenimiento personalizado diseñado para proporcionar una interfaz con una variedad de características y funciones para mejorar la experiencia de conducción.
+
 ### Sistema de Navegación
 
-Con el sistema de navegación en el coche una característica estándar, tiene toda la asistencia que necesita para llegar a su destino sin esfuerzo.
+El sistema de navegación integrado utiliza mapas detallados y ofrece planificación avanzada de rutas. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
+
+### Aplicaciones Preinstaladas
+
+Aunque el sistema de infoentretenimiento no incluye una tienda de aplicaciones, viene con una selección de aplicaciones de terceros preinstaladas que se ejecutan de forma nativa en la pantalla del coche, independientemente de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
+
+- **Spotify:** Transmita millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de su coche, proporcionando infinitas opciones de entretenimiento para su viaje.
 
 ### Espejo de Teléfono
 
@@ -205,13 +254,28 @@ Puede elegir entre dos sistemas de sonido para el Kia EV6 Long Range 2WD:
 
 Además, el modelo incluye 4 conexiones USB-C como estándar. El modelo tiene 1 conexiones USB-A como estándar.
 
+## Aplicación Móvil
+
+El Kia EV6 Long Range 2WD viene con una aplicación móvil dedicada, disponible tanto para dispositivos Android como iOS, que le permite gestionar y monitorear su vehículo de forma remota. La aplicación ofrece una amplia gama de características diseñadas para mejorar su experiencia de conducción:
+
+- **Localizar Su Vehículo:** Compruebe fácilmente la ubicación actual de su coche.
+- **Preacondicionamiento:** Precaliente o enfríe su coche antes de comenzar su viaje para un confort óptimo.
+- **Bloquear y Desbloquear:** Bloquee o desbloquee de forma segura las puertas de su coche con un toque.
+- **Programación de Carga:** Planifique y programe sesiones de carga antes de sus viajes.
+- **Ajustar Objetivo de Carga:** Establezca su nivel de carga deseado para iniciar o detener la carga según sea necesario.
+- **Planificación de Ruta:** Planifique su ruta y envíela directamente al sistema de navegación de su coche.
+- **Historial de Conducción:** Revise los detalles de sus viajes anteriores.
+
 ## Luces
 
-**Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
+Puede elegir entre dos tipos de faros delanteros para el Kia EV6 Long Range 2WD.
+
+- **Faros Estándar:** Utilizan tecnología LED avanzada, proporcionando iluminación brillante y eficiente.
+- **Faros LED Matrix:** Disponibles como opción, este sistema adaptativo divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente, optimizando la iluminación al apagar áreas específicas pequeñas al frente.
 
 Las luces traseras utilizan tecnología LED, asegurando tanto alta visibilidad como eficiencia energética.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/headlights_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/headlights_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1713"  >}}
 
 <a id="section-adas" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -231,22 +295,45 @@ El Kia EV6 Long Range 2WD cuenta con una gama de sistemas [avanzados de asistenc
 
 [**Alerta de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Kia EV6 Long Range 2WD, este sistema utiliza sensores para detectar vehículos que se aproximan desde el lado al retroceder de un espacio de estacionamiento o entrada.
 
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Kia EV6 Long Range 2WD, este sistema de asistencia al conductor ayuda a los conductores a evitar o mitigar colisiones frontales.
+
 [**Frenado automático de emergencia (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Kia EV6 Long Range 2WD, este sistema aplica los frenos de manera autónoma para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
 [**Dirección automática de emergencia (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Estándar en el Kia EV6 Long Range 2WD, este sistema ayuda a evitar colisiones al dirigir automáticamente el vehículo en una emergencia.
 
-[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Estándar en el Kia EV6 Long Range 2WD, este sistema de asistencia lateral ayuda a detectar el tráfico en los puntos ciegos.
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Opcional en el Kia EV6 Long Range 2WD, este sistema de asistencia lateral ayuda a detectar el tráfico en los puntos ciegos.
+
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Opcional en el Kia EV6 Long Range 2WD, este sistema alerta a los ocupantes contra la apertura de puertas si hay riesgo de golpear algo.
 
 ### Automatización de la Conducción
 
-Con el sistema estándar  de nivel 2, obtienes las siguientes características de automatización de la conducción.
+Con el sistema estándar Highway Driving Assist de nivel 2, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Mantenimiento de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en su carril y reduce la velocidad si es necesario en el tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
+- [**Cambio de Carril Automático (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorean los alrededores del vehículo.
+
+## Seguridad
+
+El Kia EV6 Long Range 2WD está equipado con múltiples airbags para garantizar la protección de los ocupantes en caso de colisión. El sistema de airbags incluye:
+
+- Airbags frontales para el conductor y el pasajero delantero
+- Airbags de cortina lateral para las filas primera y segunda
+- Airbags laterales para el conductor y el pasajero delantero
+
+Además, los cinturones de seguridad de la primera y segunda fila están equipados con pretensores que se tensan automáticamente durante una colisión para minimizar el riesgo de lesiones.
 
 ## Tecnologías de Seguridad y Acceso
 
-El Kia EV6 Long Range 2WD está equipado con características de seguridad esenciales para protegerlo a usted y a su vehículo, ofreciendo simplicidad y fiabilidad. Estas incluyen:
+El Kia EV6 Long Range 2WD está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
+
+- **Entrada y Arranque Sin Llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin interrupciones, permitiéndole desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
+- **Sistema de Alarma:** Un sistema de alarma integrado monitorea entradas no autorizadas o manipulaciones, proporcionando alertas para ayudar a disuadir intrusiones y mantener su vehículo seguro.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -256,10 +343,30 @@ El Kia EV6 Long Range 2WD está equipado con características de seguridad esenc
 
 El maletero ofrece una capacidad de carga de 480 litros (17,0 pies cúbicos). Con el asiento trasero abatido, esto se expande a 1260 litros (44,5 pies cúbicos). En el techo, puede cargar hasta 80 kg (176,4 libras). Los rieles del techo son estándar para facilitar el montaje de una caja o portaequipajes en el techo. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 20 litros (0,7 pies cúbicos).
 
-El peso máximo del vehículo es de 2530 kg (5578 libras), con un peso base de 2015 kg (4442 libras). Esto permite una carga máxima de 515 kg (1135 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es de 2600 kg (5732 libras), con un peso base de 2075 kg (4575 libras). Esto permite una carga máxima de 525 kg (1157 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Se puede agregar un enganche de remolque al vehículo. El peso máximo permitido para un remolque con freno es de 1600 kg (3527 lbs), mientras que para un remolque sin freno, es de 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/trunk_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1999"  >}}
+
+## Disponibilidad y Precios
+
+El Kia EV6 Long Range 2WD tuvo su estreno mundial el 19.08.2024, con entregas comenzando en December 2024.
+
+### Precios
+
+Los precios pueden variar según las condiciones locales, incentivos y promociones. A continuación se muestran los precios iniciales para países seleccionados:
+
+- 519 900,00 NOK (Noruega)
+
+## Modelos Alternativos
+
+En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varias alternativas al Kia EV6 Long Range 2WD que vale la pena considerar en función de las características, especificaciones y precios. Aunque estos modelos pueden no ser coincidencias exactas, compararlos podría ayudarlo a tomar una decisión de compra más informada:
+
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
+
+<a href="https://db.evkx.net/evcompare?evs=d99ad1%2cad3cd5%2c0cb6ee%2c3129cf" target="_blank">Explore una comparación detallada de estos modelos.</a>
 
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Autonomía" >}}
