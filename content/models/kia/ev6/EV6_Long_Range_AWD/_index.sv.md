@@ -130,20 +130,21 @@ Kia EV6 Long Range AWD erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **** sätet:
 
-- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
+- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar som tillval)
 - Höjdjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
-- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, ej tillgänglig för passagerare)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar som tillval)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
 
 Finns tillgänglig i:
 
 - Black [tyg/konstläderklädsel](../../../../technology/seats/materials/#fabric)
-- Black [skinnklädsel](../../../../technology/seats/materials/#leather)
-- Black/White [skinnklädsel](../../../../technology/seats/materials/#leather)
-- Gray [skinnklädsel](../../../../technology/seats/materials/#leather)
+- Black [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black/White [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
+- Gray [konstläderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [mikrofiber/konstläderklädsel](../../../../technology/seats/materials/#microfiber)
 - Gray [mikrofiber/konstläderklädsel](../../../../technology/seats/materials/#microfiber)
 
@@ -168,6 +169,12 @@ Kia EV6 Long Range AWD erbjuder gott om förvaringslösningar i kupén för att 
 - **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passagerarsätet, perfekt för förvaring av viktiga föremål.
 - **Förvaring under golvet:** Bagageutrymmet har förvaring under golvet, perfekt för att hålla mindre föremål som laddningskablar prydligt undanstoppade.
 
+### Interiörbelysning
+
+Kia EV6 Long Range AWD erbjuder flera olika interiörbelysningsalternativ utformade för att skapa en behaglig atmosfär och förbättra sikten.
+
+- **Flerfärgad stämningsbelysning:** Denna funktion sträcker sig över instrumentpanelen, dörrpanelerna och fotutrymmet och skapar en harmonisk och inbjudande atmosfär. Du kan anpassa färgerna efter ditt humör eller preferens för att skapa en personlig touch i din körupplevelse. Denna funktion är tillval.
+
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
@@ -184,6 +191,7 @@ Denna modell har [värmepump](../../../../technology/hvac/#heat-pump) som tillva
 
 I Kia EV6 Long Range AWD ingår flera funktioner för att öka komfort och bekvämlighet:
 
+- **Easy Entry-funktion:** Flyttar förarsätet för att underlätta instigning i bilen.
 - **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
@@ -295,12 +303,15 @@ Kia EV6 Long Range AWD har ett utbud av standard och tillvalda [avancerade föra
 
 [**Dödvinkelvarnare (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tillval på Kia EV6 Long Range AWD, hjälper detta sidoassistanssystem till att upptäcka trafik i döda vinklar.
 
+[**Utstigningsvarning**](../../../../technology/driverassistance/exitwarning/): Tillval på Kia EV6 Long Range AWD, detta system varnar passagerare mot att öppna dörrar om det finns risk för kollision.
+
 ### Körautomation
 
-Med standardsystemet  nivå 2 får du följande körautomationsfunktioner.
+Med standardsystemet Highway Driving Assist nivå 2 får du följande körautomationsfunktioner.
 
 - [**Adaptiv farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Körfältscentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i ditt körfält och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- [**Automatiskt körfältsbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer & Kameror
 
@@ -341,6 +352,12 @@ Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpv
 ## Tillgänglighet och priser
 
 Kia EV6 Long Range AWD hade sin världspremiär den 19.08.2024, och leveranserna startade December 2024.
+
+### Priser
+
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan visas startpriserna för utvalda länder:
+
+- 519 900,00 NOK (Norge)
 
 ## Alternativa modeller
 

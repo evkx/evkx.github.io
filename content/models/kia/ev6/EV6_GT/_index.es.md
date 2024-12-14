@@ -233,7 +233,7 @@ El Kia EV6 GT viene equipado con una opción de sistema de sonido:
 
 - **Meridian Premium Sound System:** Cuenta con 14 altavoces y ofrece una potencia máxima de 800 vatios.
 
-Además, el modelo incluye 3 conexiones USB-C como estándar. El modelo tiene 1 conexiones USB-A como estándar.
+Además, el modelo incluye 4 conexiones USB-C como estándar. El modelo tiene 1 conexiones USB-A como estándar.
 
 ## Aplicación Móvil
 

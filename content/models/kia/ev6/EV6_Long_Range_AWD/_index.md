@@ -130,20 +130,21 @@ The Kia EV6 Long Range AWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
 
-- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
-- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable as an option)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
-- [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for driver, not available for passenger)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable as an option)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 Available in:
 
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
-- Black [leather upholstering](../../../../technology/seats/materials/#leather)
-- Black/White [leather upholstering](../../../../technology/seats/materials/#leather)
-- Gray [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black/White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
@@ -168,6 +169,12 @@ The Kia EV6 Long Range AWD provides ample interior storage solutions to enhance 
 - **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
 - **Underfloor Storage:** The trunk area features underfloor storage, perfect for keeping smaller items like charging cables neatly tucked away.
 
+### Interior Lighting
+
+The Kia EV6 Long Range AWD offers a range of interior lighting options designed to create a pleasant ambiance and enhance visibility.
+
+- **Multicolor Ambient Lighting:** This feature extends across the dashboard, door panels, and footwell, providing a harmonious and inviting atmosphere. You can customize the colors to suit your mood or preference, adding a personal touch to your driving experience. This feature is optional.
+
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Climate System
@@ -184,6 +191,7 @@ This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an optio
 
 The Kia EV6 Long Range AWD includes several features to enhance comfort and convenience:
 
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -295,12 +303,15 @@ The Kia EV6 Long Range AWD features a range of standard and optional [advanced d
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Kia EV6 Long Range AWD, this side assist system helps to detect traffic in blind spots.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Optional on the Kia EV6 Long Range AWD, this system that alerts occupants against opening doors if there is a risk of hitting something.
+
 ### Driving Automation
 
-With the standard  level 2 system, you get the following driving automation features.
+With the standard Highway Driving Assist level 2 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensors & Cameras
 
@@ -341,6 +352,12 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 ## Availability & Pricing
 
 The Kia EV6 Long Range AWD had its world premiere on 19.08.2024, with deliveries starting in December 2024.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- 519 900,00 NOK (Norway)
 
 ## Alternative Models
 

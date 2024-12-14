@@ -233,7 +233,7 @@ Kia EV6 GT kommer med ett lydsystem:
 
 - **Meridian Premium Sound System:** Har 14 høyttalere og leverer en maksimal effekt på 800 watt.
 
-I tillegg har modellen 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+I tillegg har modellen 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 
 ## Mobilapp
 

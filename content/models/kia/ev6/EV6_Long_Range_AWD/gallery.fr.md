@@ -72,12 +72,75 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/dynamic_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/dynamic_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/dynamic_1_xst.jpg" alt="Kia EV6 Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/dynamic_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/dynamic_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/dynamic_2_xst.jpg" alt="Kia EV6 Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_1_xst.jpg" alt="Kia EV6 Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_10.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_10.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_10_xst.jpg" alt="Kia EV6 Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_11.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_11.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_11_xst.jpg" alt="Kia EV6 Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_12.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_12.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_12_xst.jpg" alt="Kia EV6 Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_13.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_13.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_13_xst.jpg" alt="Kia EV6 Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_14.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_14.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_14_xst.jpg" alt="Kia EV6 Long Range AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -141,6 +204,15 @@ data-pswp-width="3000"
 data-pswp-height="1886" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_8_xst.jpg" alt="Kia EV6 Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_9.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_9.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_9_xst.jpg" alt="Kia EV6 Long Range AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -231,6 +303,15 @@ data-pswp-width="3000"
 data-pswp-height="1515" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/interior_6_xst.jpg" alt="Kia EV6 Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/interior_7.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/interior_7.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/interior_7_xst.jpg" alt="Kia EV6 Long Range AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">

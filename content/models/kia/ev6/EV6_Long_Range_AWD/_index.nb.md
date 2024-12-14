@@ -130,20 +130,21 @@ Kia EV6 Long Range AWD tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **** setet:
 
-- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
-- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
+- [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
+- [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
+- [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart som tilvalg)
 - Høydejusterbar hodestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)
-- [Minne](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgjengelig for passasjer)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart som tilvalg)
 - [Ventilasjon](../../../../technology/seats/adjustment/#ventilation) (valgfritt)
 
 Tilgjengelig i:
 
 - Black [stoff/kunstskinn-trekk](../../../../technology/seats/materials/#fabric)
-- Black [skinntrekk](../../../../technology/seats/materials/#leather)
-- Black/White [skinntrekk](../../../../technology/seats/materials/#leather)
-- Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
+- Black/White [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
+- Gray [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
 - Gray [mikrofiber/kunstskinn-trekk](../../../../technology/seats/materials/#microfiber)
 - Gray [mikrofiber/kunstskinn-trekk](../../../../technology/seats/materials/#microfiber)
 
@@ -168,6 +169,12 @@ Kia EV6 Long Range AWD har mange innvendige oppbevaringsløsninger for å øke b
 - **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjersetet, ideelt for oppbevaring av nødvendige gjenstander.
 - **Underfloor oppbevaring:** Bagasjerommet har underfloor oppbevaring, perfekt for å oppbevare mindre gjenstander som ladekabler ryddig og praktisk.
 
+### Innvendig belysning
+
+Kia EV6 Long Range AWD tilbyr flere innvendige belysningsalternativer designet for å skape en behagelig atmosfære og forbedre sikten.
+
+- **Flerfarget stemningsbelysning:** Denne funksjonen strekker seg over dashbordet, dørpanelene og fotbrønnen, og skaper en harmonisk og innbydende atmosfære. Du kan tilpasse fargene etter humør eller preferanse, og sette ditt personlige preg på kjøreopplevelsen. Denne funksjonen er valgfri.
+
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
@@ -184,6 +191,7 @@ Denne modellen har [varmepumpe](../../../../technology/hvac/#heat-pump) som tilv
 
 Kia EV6 Long Range AWD inkluderer flere funksjoner for å øke komfort og bekvemmelighet:
 
+- **Easy Entry-funksjon:** Flytter førersetet for å gjøre det enklere å komme inn i bilen.
 - **Trådløs telefonlading**
 
 {{<evkxdisplayaddarticle />}}
@@ -295,12 +303,15 @@ Kia EV6 Long Range AWD har en rekke standard og valgfrie [avanserte førerassist
 
 [**Blindsoneovervåking (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfritt på Kia EV6 Long Range AWD, dette sideassistentsystemet hjelper med å oppdage trafikk i blindsoner.
 
+[**Utstigningsvarsel**](../../../../technology/driverassistance/exitwarning/): Valgfritt på Kia EV6 Long Range AWD, dette systemet varsler passasjerer mot å åpne dører hvis det er risiko for å treffe noe.
+
 ### Kjøreautomatisering
 
-Med standard  nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
+Med standard Highway Driving Assist nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filsentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk filskifte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 ### Sensorer og kameraer
 
@@ -341,6 +352,12 @@ Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med
 ## Tilgjengelighet og priser
 
 Kia EV6 Long Range AWD hadde sin verdenspremiere 19.08.2024, med leveringer som startet i December 2024.
+
+### Priser
+
+Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er startprisene for utvalgte land:
+
+- 519 900,00 kr (Norge)
 
 ## Alternative modeller
 
