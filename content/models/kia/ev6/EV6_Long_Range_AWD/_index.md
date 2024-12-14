@@ -34,13 +34,13 @@ The Kia EV6 Long Range AWD delivers a solid performance with a maximum power of 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 84.0 kWh and a net usable capacity of 80.0 kWh, providing a 4.0 kWh buffer (4.8%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 84.0 kWh and a net usable capacity of 80.0 kWh, providing a 4.0 kWh buffer (4.8%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 546 to 521 km (339-324 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.7 kWh/100 km for the base model and 15.4 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 233 kW. Charging from 0% to 100% takes approximately 42 minutes, while a more typical scenario from 10% to 80% takes 18 minutes with an average charging speed of 188 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 75%. This results in an effective charging speed, including time lost, of 152 kW, with each charging session taking about 23 minutes and 26 seconds. This efficient charging capability makes the Kia EV6 Long Range AWD a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 260 kW. Charging from 0% to 100% takes approximately 76 minutes, while a more typical scenario from 10% to 80% takes 20 minutes with an average charging speed of 172 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 63%. This results in an effective charging speed, including time lost, of 156 kW, with each charging session taking about 19 minutes and 6 seconds. This efficient charging capability makes the Kia EV6 Long Range AWD a convenient option for long-distance travel.
 
-In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 21 kWh/100 km, the trip would take about 9 hours and 12 minutes, requiring two charging stops from 1% to 83%, totaling 52 minutes of charging time.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 24 kWh/100 km, the trip would take about 9 hours and 22 minutes, requiring three charging stops from 1% to 68%, totaling 62 minutes of charging time.
 
 ### Onboard Charger
 
@@ -50,23 +50,44 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
+### Bidirectional Charging
+
+This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 3.6 kW of power, including the ability to charge other vehicles.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Drivetrain
 
-The Kia EV6 Long Range AWD features an all-wheel drive system powered by two motors, one on each axle.
+The Kia EV6 Long Range AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has a fixed height and damping. The ground clearance with this suspension is 160 mm.
+
+### Steering
+
+Dynamic steering is a standard on the Kia EV6 Long Range AWD, varying the steering ratio based on driving speed for enhanced control and comfort.
+
+### Drive Modes
+
+The Kia EV6 Long Range AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
+
+- Eco: Balanced steering, with efficient throttle, and balanced suspension.
+- Sport: Dynamic steering, suspension and throttle.
+- Normal: Balanced throttle and steering, comfort suspension damping.
+- My Drive: User-defined settings for steering, throttle, and suspension.
 
 ### Brakes
 
+The Kia EV6 Long Range AWD is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 345 mm, while the rear discs are 345 mm.
+
 ### Regenerative Braking
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen.
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. You can choose between two stopping modes for one-pedal driving. **Hold mode** brings the vehicle to a complete stop using friction brakes, and **Roll mode** allows the vehicle to roll until it stops naturally.
+
+Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are five levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
 The maximum regenerative power is 277 kW.
 
@@ -74,7 +95,7 @@ The maximum regenerative power is 277 kW.
 
 ## Exterior
 
-The Kia EV6 Long Range AWD, with dimensions of 4680 mm in length, 1880 mm in width, and 1550 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. You can choose between 11 different paint colors when ordering this model.
+The Kia EV6 Long Range AWD, with dimensions of 4695 mm in length, 1880 mm in width, and 1550 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Kia EV6 Long Range AWD offers a selection of 9 paint colors, featuring solid, metallic, pearlescent, and matte options.
 
 The Kia EV6 Long Range AWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
@@ -87,7 +108,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a sunroof. The glass extends over only the front row, and occupants can open it. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
+Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/exterior_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1687"  >}}
 
@@ -97,7 +118,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-There is one seat type you can select in different materials.
+The interior of the Kia EV6 Long Range AWD is functional, featuring high-quality materials in several areas instead of hard plastic. It includes a floating center console that creates an open space between the passenger and driver, providing convenient storage options. The overall design prioritizes practicality and ease of use. There is one seat type you can select in different materials.
 
 ### Seats
 
@@ -133,9 +154,19 @@ Available in:
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
+- Height adjustable headrest (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1999"  >}}
+
+### Interior Storage
+
+The Kia EV6 Long Range AWD provides ample interior storage solutions to enhance convenience and organization:
+
+- **Cupholders:** Two cupholders are located in the front center console, with an additional two in the rear armrest.
+- **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
+- **Underfloor Storage:** The trunk area features underfloor storage, perfect for keeping smaller items like charging cables neatly tucked away.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -161,6 +192,8 @@ The Kia EV6 Long Range AWD includes several features to enhance comfort and conv
 
 ## User Interface and Control
 
+The control interface for the Kia EV6 Long Range AWD is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
+
 The Kia EV6 Long Range AWD has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Key screen details:
@@ -176,19 +209,29 @@ A head-up display is an optional system that projects speed and other important 
 
 The Kia EV6 Long Range AWD is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel features optional integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features a flat bottom and top, providing a sporty look and feel. It also includes physical buttons, toggle switches, and paddle shifters, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease. Integrated heating is available for added comfort during cold weather.
 
 ### Mirrors
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
+
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
+The Kia EV6 Long Range AWD features a custom-built infotainment system designed to provide a interface with a range of features and functions to enhance the driving experience.
+
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
+
+### Preinstalled Apps
+
+While the infotainment system does not include an app store, it comes with a selection of preinstalled third-party apps that run natively on the car's screen, independent of a connected phone. The available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
 
 ### Phone Mirroring
 
@@ -203,9 +246,24 @@ You can choose between two sound systems for the Kia EV6 Long Range AWD:
 
 Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
+## Mobile App
+
+The Kia EV6 Long Range AWD comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Locate Your Vehicle:** Easily check the current location of your car.
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Scheduled Charging:** Plan and schedule charging sessions ahead of your trips.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
+- **Route Planning:** Plan your route and send it directly to your car's navigation system.
+- **Driving History:** Review the details of your past trips.
+
 ## Lights
 
-**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+You can choose between two types of headlights for the Kia EV6 Long Range AWD.
+
+- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
@@ -229,11 +287,13 @@ The Kia EV6 Long Range AWD features a range of standard and optional [advanced d
 
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Kia EV6 Long Range AWD, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Kia EV6 Long Range AWD, this driver assist system helps drivers avoid or mitigate frontal collisions.
+
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Kia EV6 Long Range AWD, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
 [**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard on the Kia EV6 Long Range AWD, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Kia EV6 Long Range AWD, this side assist system helps to detect traffic in blind spots.
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Kia EV6 Long Range AWD, this side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
@@ -242,9 +302,27 @@ With the standard  level 2 system, you get the following driving automation feat
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
+## Safety
+
+The Kia EV6 Long Range AWD is equipped with multiple airbags to ensure occupant protection in the event of a collision. The airbag system includes:
+
+- Front airbags for the driver and front passenger
+- Side curtain airbags for both the first and second rows
+- Side airbags for the driver and front passenger
+
+Additionally, the front and second-row seatbelts are equipped with pretensioners that tighten automatically during a collision to minimize injury risk.
+
 ## Security and Access Technologies
 
-The Kia EV6 Long Range AWD is equipped with essential security features to protect you and your vehicle, offering simplicity and reliability. These include:
+The Kia EV6 Long Range AWD is equipped with advanced security features to protect you and your vehicle. These include:
+
+- **Keyless Entry and Start:** The vehicle's keyless entry and start system enables seamless access, allowing you to unlock and start the car without needing to remove the key from your pocket or bag.
+- **Alarm System:** An integrated alarm system monitors for unauthorized entry or tampering, providing alerts to help deter intrusions and keep your vehicle secure.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -254,7 +332,7 @@ The Kia EV6 Long Range AWD is equipped with essential security features to prote
 
 The trunk offers a cargo capacity of 480 liters (17.0 CU FT). With the rear seat folded down, this expands to 1260 liters (44.5 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are standard for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 20 liters (0.7 CU FT).
 
-The vehicle’s maximum weight is 2530 kg (5578 lbs), with a base weight of 2015 kg (4442 lbs). This allows for a maximum load of 515 kg (1135 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 2600 kg (5732 lbs), with a base weight of 2075 kg (4575 lbs). This allows for a maximum load of 525 kg (1157 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1600 kg (3527 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
@@ -262,5 +340,16 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model made its world premiere on 19.08.2024, with deliveries anticipated to begin in December 2024.
+The Kia EV6 Long Range AWD had its world premiere on 19.08.2024, with deliveries starting in December 2024.
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Kia EV6 Long Range AWD that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
+
+<a href="https://db.evkx.net/evcompare?evs=546c35%2cad3cd5%2c0cb6ee%2c3129cf" target="_blank">Explore a detailed comparison of these models.</a>
+
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Range" >}}

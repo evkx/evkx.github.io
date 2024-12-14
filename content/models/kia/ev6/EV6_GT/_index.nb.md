@@ -34,13 +34,13 @@ Kia EV6 GT har imponerende kraft med en maksimal effekt på 447 kW (608 hk / 599
 
 ## Batteri, rekkevidde og lading
 
-Batteriet med høy kapasitet har en brutto kapasitet på 84,0 kWh og en netto brukbar kapasitet på 80,0 kWh, som gir en 4,0 kWh buffer (4,8%) for batteribeskyttelse. Med en driftsspenning på 697 volt, kvalifiserer det som et 800-volts batterisystem. Denne høye spenningen er avgjørende for systemets ladeegenskaper.
+Batteriet med høy kapasitet har en brutto kapasitet på 84,0 kWh og en netto brukbar kapasitet på 80,0 kWh, som gir en 4,0 kWh buffer (4,8%) for batteribeskyttelse. Med en driftsspenning på 697 volt, kvalifiserer det som et 800-volts batterisystem. Denne høye spenningen er avgjørende for systemets ladeegenskaper. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, er kjørelengden 450 km (280 miles), med et energiforbruk på 17,8 kWh/100 km (3,5 mi/kWh). For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 233 kW. Lading fra 0% til 100% tar omtrent 42 minutter, mens et mer typisk scenario fra 10% til 80% tar 18 minutter med en gjennomsnittlig ladehastighet på 188 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 1% til 75%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 152 kW, hvor hver ladeøkt tar omtrent 23 minutter og 26 sekunder. Denne effektive ladekapasiteten gjør Kia EV6 GT til et praktisk alternativ for langdistansekjøring.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 233 kW. Lading fra 0% til 100% tar omtrent 76 minutter, mens et mer typisk scenario fra 10% til 80% tar 20 minutter med en gjennomsnittlig ladehastighet på 172 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 1% til 63%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 156 kW, hvor hver ladeøkt tar omtrent 19 minutter og 6 sekunder. Denne effektive ladekapasiteten gjør Kia EV6 GT til et praktisk alternativ for langdistansekjøring.
 
-I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 25,5 kWh/100 km, vil turen ta omtrent 9 timer og 29 minutter, og kreve tre ladestopp fra 1% til 74%, totalt 69 minutter ladetid.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 25,5 kWh/100 km, vil turen ta omtrent 9 timer og 28 minutter, og kreve fire ladestopp fra 1% til 56%, totalt 69 minutter ladetid.
 
 ### Innebygd lader
 
@@ -62,7 +62,7 @@ Denne modellen støtter V2L (Vehicle to Load), som lar deg drive elektrisk utsty
 
 ## Drivlinje
 
-Kia EV6 GT har et firehjulsdrift-system drevet av to motorer, en på hver aksel.
+Kia EV6 GT har et firehjulsdrift-system drevet av to motorer, en på hver aksel. Motorene som brukes er [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
 ### Fjæring
 
@@ -72,13 +72,25 @@ Forhjulsopphenget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 Dynamisk styring er en standard på Kia EV6 GT, og varierer styreutvekslingen basert på kjørehastighet for bedre kontroll og komfort.
 
+### Kjøremoduser
+
+Kia EV6 GT lar brukeren velge ulike [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens håndtering. Føreren kan velge mellom 5 moduser:
+
+- Eco: Balansert styring, med effektiv gasspådrag og balansert fjæring.
+- Sport: Dynamisk styring, fjæring og gasspådrag.
+- Normal: Balansert gasspådrag og styring, komfortabel fjæringsdemping.
+- My Drive: Brukerdefinerte innstillinger for styring, gasspådrag og fjæring.
+- Snow: Balansert styring, gasspådrag og demping.
+
 ### Bremser
 
 Kia EV6 GT er utstyrt med [støpejernsskivebremser](../../../../technology/brakes/#disc-brakes) både foran og bak. Skivene foran måler 380 mm, mens skivene bak er 360 mm.
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [kjøring med én pedal](../../../../technology/regen/#one-pedal-driving) eller du kan frirulle og bruke [kombinerte bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) for å regenerere.
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [kjøring med én pedal](../../../../technology/regen/#one-pedal-driving) eller du kan frirulle og bruke [kombinerte bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) for å regenerere. Du kan velge mellom to stoppemodi for kjøring med én pedal. **Hold-modus** bringer kjøretøyet til fullstendig stopp ved hjelp av friksjonsbremser, og **Rulle-modus** lar kjøretøyet rulle til det stopper naturlig.
+
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det er fem nivåer av regenerativ bremsing å velge mellom, slik at du kan tilpasse kjøreopplevelsen til dine preferanser.
 
 Den maksimale regenerative effekten er 320 kW.
 
@@ -134,6 +146,20 @@ Andre seterad har en standard treseter-benk med 60:40 deling, som lar hver del f
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
+### Innvendig oppbevaring
+
+Kia EV6 GT har mange innvendige oppbevaringsløsninger for å øke bekvemmelighet og organisering:
+
+- **Koppholdere:** To koppholdere er plassert i midtkonsollen foran, med ytterligere to i armlenet bak.
+- **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjersetet, ideelt for oppbevaring av nødvendige gjenstander.
+- **Underfloor oppbevaring:** Bagasjerommet har underfloor oppbevaring, perfekt for å oppbevare mindre gjenstander som ladekabler ryddig og praktisk.
+
+### Innvendig belysning
+
+Kia EV6 GT tilbyr flere innvendige belysningsalternativer designet for å skape en behagelig atmosfære og forbedre sikten.
+
+- **Flerfarget stemningsbelysning:** Denne funksjonen strekker seg over dashbordet, dørpanelene og fotbrønnen, og skaper en harmonisk og innbydende atmosfære. Du kan tilpasse fargene etter humør eller preferanse, og sette ditt personlige preg på kjøreopplevelsen.
+
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
@@ -173,19 +199,29 @@ Et head-up display er en valgfri system som projiserer hastighet og annen viktig
 
 Kia EV6 GT er utstyrt med én type ratt:
 
-- **Sirkulært ratt:** Dette rattet har integrert oppvarming for ekstra komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikk og styre andre viktige funksjoner.
+- **Sirkulært Ratt:** Dette rattet har en flat bunn og topp, som gir et sporty utseende og følelse. Det inkluderer også fysiske knapper, vippesvitsjer og girskiftere, slik at du kan kontrollere infotainmentsystemet, justere volumet, bytte musikksanger og administrere andre viktige funksjoner med letthet. Integrert oppvarming er tilgjengelig for ekstra komfort i kaldt vær.
 
 ### Speil
 
 Både utvendige og innvendige speil bruker konvensjonell speilteknologi for å gi klar sikt over området bak kjøretøyet.
 
+Denne modellen kommer med stemmekontroll som standard, som lar deg styre ulike funksjoner gjennom talekommandoer.
+
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
+Kia EV6 GT har et spesialtilpasset infotainmentsystem designet for å gi et grensesnitt med mange funksjoner som forbedrer kjøreopplevelsen.
+
 ### Navigasjonssystem
 
-Med en standard innebygd navigasjonssystem har du all hjelpen du trenger for å nå destinasjonen din enkelt.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon som sikrer en effektiv og stressfri reise.
+
+### Forhåndsinstallerte apper
+
+Selv om infotainmentsystemet ikke har en app-butikk, kommer det med et utvalg forhåndsinstallerte tredjepartsapper som kjører direkte på bilens skjerm, uavhengig av en tilkoblet telefon. Tilgjengelige apper varierer etter marked, men inkluderer populære alternativer som:
+
+- **Spotify:** Strøm millioner av sanger, spillelister og podkaster direkte fra bilens infotainmentsystem, som gir endeløse underholdningsmuligheter for kjøreturen.
 
 ### Telefonspeling
 
@@ -195,9 +231,21 @@ Kia EV6 GT støtter Android Auto og Apple CarPlay, som lar deg speile telefonskj
 
 Kia EV6 GT kommer med ett lydsystem:
 
-- **Meridian Premium Sound System:** Har 14 høyttalere.
+- **Meridian Premium Sound System:** Har 14 høyttalere og leverer en maksimal effekt på 800 watt.
 
-I tillegg har modellen 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+I tillegg har modellen 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+
+## Mobilapp
+
+Kia EV6 GT kommer med en dedikert mobilapp, tilgjengelig for både Android og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt på avstand. Appen tilbyr en rekke funksjoner designet for å forbedre kjøreopplevelsen din:
+
+- **Finn bilen din:** Enkelt sjekk bilens nåværende posisjon.
+- **Forkondisjonering:** Forhåndsvarm eller avkjøl bilen før du starter reisen for optimal komfort.
+- **Lås og lås opp:** Lås eller lås opp bildørene sikkert med et tastetrykk.
+- **Planlagt lading:** Planlegg og tidsinnstill ladeøkter før reisene dine.
+- **Juster lademål:** Angi ønsket ladenivå for å starte eller stoppe lading etter behov.
+- **Ruteplanlegging:** Planlegg ruten og send den direkte til bilens navigasjonssystem.
+- **Kjørehistorikk:** Se detaljer om tidligere turer.
 
 ## Lys
 
@@ -233,22 +281,36 @@ Kia EV6 GT har en rekke standard og valgfrie [avanserte førerassistentsystemer]
 
 [**Blindsoneovervåking (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Kia EV6 GT, dette sideassistentsystemet hjelper med å oppdage trafikk i blindsoner.
 
+[**Utstigningsvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Kia EV6 GT, dette systemet varsler passasjerer mot å åpne dører hvis det er risiko for å treffe noe.
+
 ### Kjøreautomatisering
 
-Med standard  nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
+Med standard Highway Driving Assist nivå 2-system får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv cruisekontroll (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filsentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer og kameraer
 
 Denne modellen bruker kameraer, radar og ultralydsensorer for sine førerassistentsystemer.
 Opp til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
+## Sikkerhet
+
+Kia EV6 GT er utstyrt med flere kollisjonsputer for å sikre beskyttelse av passasjerene ved en kollisjon. Kollisjonsputesystemet inkluderer:
+
+- Frontkollisjonsputer for fører og passasjer
+- Sidekollisjonsgardiner for både første og andre seterad
+- Sidekollisjonsputer for fører og passasjer
+
+I tillegg er både første og andre seterad utstyrt med beltestrammere som strammes automatisk ved en kollisjon for å minimere skaderisikoen.
+
 ## Sikkerhet og adgangsteknologi
 
-Kia EV6 GT er utstyrt med grunnleggende sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt, og tilbyr enkelhet og pålitelighet. Disse inkluderer:
+Kia EV6 GT er utstyrt med avanserte sikkerhetsfunksjoner for å beskytte deg og kjøretøyet ditt. Disse inkluderer:
 
+- **Nøkkelfri adgang og start:** Kjøretøyets nøkkelfrie adgangs- og startsystem muliggjør sømløs tilgang, slik at du kan låse opp og starte bilen uten å måtte ta nøkkelen ut av lommen eller vesken.
 - **Alarmsystem:** Et integrert alarmsystem overvåker mot uautorisert inntrengning eller sabotasje, og varsler for å forhindre innbrudd og holde kjøretøyet ditt sikkert.
 
 {{<evkxdisplayaddarticle />}}

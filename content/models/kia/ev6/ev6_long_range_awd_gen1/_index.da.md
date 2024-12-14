@@ -24,6 +24,12 @@ Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. 
 - [Avancerede førerassistentsystemer](#section-adas)
 - [Lastkapacitet og trækkraft](#section-transportation)
 
+<div class="alert alert-secondary" role="alert">
+
+Denne model er blevet erstattet af [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/).
+
+</div>
+
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ydelse
@@ -261,5 +267,8 @@ Køretøjets maksimale vægt er 2530 kg (5578 lbs), med en egenvægt på 2015 kg
 Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for en bremset trailer er 1600 kg (3527 lbs), mens det for en ubremset trailer er 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd_gen1/trunk_1_st.jpg" title="Kia EV6 Long Range AWD (GEN1)" width="3000" height="1999"  >}}
+
+## Tilgængelighed & Priser
+
 
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Rækkevidde" >}}

@@ -58,6 +58,14 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Kia EV6 GT (GEN1) 
 				3,5 s
 			</td>
 		</tr>
+		<tr>
+			<td>
+				0-100 km/h (0-62 mph) mit Boost
+			</td>
+			<td>
+				3,5 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -147,6 +155,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Anzahl der Module
+			</td>
+			<td>
+				32
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Packkonfiguration
 			</td>
 			<td>
@@ -159,6 +175,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				697
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kathodenmaterialien
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -271,6 +295,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Breite inklusive Spiegel
+			</td>
+			<td>
+				1955 mm (77,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Radstand
 			</td>
 			<td>
@@ -299,6 +331,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				0,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Böschungswinkel vorne
+			</td>
+			<td>
+				15,2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Böschungswinkel hinten
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -468,7 +516,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				170 mm (6,7")
+				155 mm (6,1")
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +524,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Minimale Bodenfreiheit
 			</td>
 			<td>
-				170 mm (6,7")
+				155 mm (6,1")
 			</td>
 		</tr>
 		<tr>
@@ -838,7 +886,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				360-Grad-Kamera
 			</td>
 			<td>
-				Ja (Surround View Monitor), Sonderausstattung
+				Ja (Surround View Monitor), Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -878,6 +926,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Bergabfahrassistent
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1014,6 +1063,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sprachsteuerung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1021,6 +1071,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Gestensteuerung
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

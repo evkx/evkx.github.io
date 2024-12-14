@@ -36,6 +36,27 @@ Vi samler anmeldelser fra vores [foretrukne online anmeldere](../../../../../gui
 {{< youtube UnusAbGyYEY >}}
 
 </div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV6 facelift model review | all the info on this refresh!</h3>
+<p>Nobby On Cars: 06.11.2024</p>
+
+{{< youtube 7VSiwOi3js8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Kia EV6: Full Review & Drive</h3>
+<p>Nevo EV Review Ireland: 06.11.2024</p>
+
+{{< youtube wANGYvVirck >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Kia EV6 review – better than ever? | What Car?</h3>
+<p>What Car?: 03.10.2024</p>
+
+{{< youtube rydfd83JNt0 >}}
+
+</div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i>Galleri  </strong>

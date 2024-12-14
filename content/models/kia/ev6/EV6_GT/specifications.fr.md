@@ -163,6 +163,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Nombre de modules
+			</td>
+			<td>
+				32
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Configuration du pack
 			</td>
 			<td>
@@ -175,6 +183,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				697
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -287,6 +303,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Largeur incluant les miroirs
+			</td>
+			<td>
+				1955 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Empattement
 			</td>
 			<td>
@@ -315,6 +339,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				0,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angle d'approche
+			</td>
+			<td>
+				15,2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angle de départ
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +524,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				170 mm
+				155 mm
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +532,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				170 mm
+				155 mm
 			</td>
 		</tr>
 		<tr>
@@ -854,7 +894,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméra 360
 			</td>
 			<td>
-				Oui (Surround View Monitor), équipement en option
+				Oui (Surround View Monitor), équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -894,6 +934,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide à la descente
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1030,6 +1071,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle vocal
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1037,6 +1079,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle gestuel
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>

@@ -58,6 +58,14 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV6 GT (GEN1). 
 				3,5 s
 			</td>
 		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph) boost
+			</td>
+			<td>
+				3,5 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -147,6 +155,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Antall moduler
+			</td>
+			<td>
+				32
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Pakkekonfigurasjon
 			</td>
 			<td>
@@ -159,6 +175,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				697
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -271,6 +295,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Bredde inkludert speil
+			</td>
+			<td>
+				1955 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Akselavstand
 			</td>
 			<td>
@@ -299,6 +331,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				0,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angrepsvinkel
+			</td>
+			<td>
+				15,2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Avgangsvinkel
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -468,7 +516,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				170 mm
+				155 mm
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +524,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minimum bakkeklaring
 			</td>
 			<td>
-				170 mm
+				155 mm
 			</td>
 		</tr>
 		<tr>
@@ -838,7 +886,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				360-kamera
 			</td>
 			<td>
-				Ja (Surround View Monitor), tileggsutstyr
+				Ja (Surround View Monitor), standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -878,6 +926,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Hill nedstigningshjelp
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1014,6 +1063,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Stemmestyring
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1021,6 +1071,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Gesture control
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

@@ -24,6 +24,12 @@ Nous avons organisé cet article en sections spécifiques pour une navigation pl
 - [Systèmes avancés d'aide à la conduite](#section-adas)
 - [Capacité de chargement et Aptitude au remorquage](#section-transportation)
 
+<div class="alert alert-secondary" role="alert">
+
+Ce modèle a été remplacé par [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/).
+
+</div>
+
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
@@ -261,5 +267,8 @@ Le poids maximal du véhicule est de 2530 kg (5578 lbs), avec un poids de base d
 Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1600 kg (3527 lbs), tandis que pour une remorque non freinée, il est de 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd_gen1/trunk_1_st.jpg" title="Kia EV6 Long Range AWD (GEN1)" width="3000" height="1999"  >}}
+
+## Disponibilité et Tarification
+
 
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Autonomie" >}}

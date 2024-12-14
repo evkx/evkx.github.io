@@ -24,6 +24,12 @@ Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering
 - [Avanserte førerassistentsystemer](#section-adas)
 - [Lastkapasitet og tilhengerevne](#section-transportation)
 
+<div class="alert alert-secondary" role="alert">
+
+Denne modellen er erstattet av [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/).
+
+</div>
+
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Ytelse
@@ -261,5 +267,8 @@ Kjøretøyets maksimale vekt er 2530 kg (5578 lbs), med en egenvekt på 2015 kg 
 Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med brems er 1600 kg (3527 lbs), og for tilhenger uten brems er det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd_gen1/trunk_1_st.jpg" title="Kia EV6 Long Range AWD (GEN1)" width="3000" height="1999"  >}}
+
+## Tilgjengelighet og priser
+
 
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

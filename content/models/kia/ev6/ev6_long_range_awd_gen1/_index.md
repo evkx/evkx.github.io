@@ -24,6 +24,12 @@ We've organized this article into specific sections for easier navigation. Click
 - [Advanced driver-assistance systems](#section-adas)
 - [Cargo Capacity and Towing Ability](#section-transportation)
 
+<div class="alert alert-secondary" role="alert">
+
+This model has been replaced by [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/).
+
+</div>
+
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Performance
@@ -261,5 +267,8 @@ The vehicle’s maximum weight is 2530 kg (5578 lbs), with a base weight of 2015
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1600 kg (3527 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd_gen1/trunk_1_st.jpg" title="Kia EV6 Long Range AWD (GEN1)" width="3000" height="1999"  >}}
+
+## Availability & Pricing
+
 
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Range" >}}

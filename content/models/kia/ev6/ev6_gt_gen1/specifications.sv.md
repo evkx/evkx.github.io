@@ -58,6 +58,14 @@ EVKX.net vill ha de mest kompletta specifikationerna för Kia EV6 GT (GEN1). Kli
 				3,5 s
 			</td>
 		</tr>
+		<tr>
+			<td>
+				0-100 km/h (0-62 mph) boost
+			</td>
+			<td>
+				3,5 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -147,6 +155,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Antal moduler
+			</td>
+			<td>
+				32
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Packkonfiguration
 			</td>
 			<td>
@@ -159,6 +175,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				697
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -271,6 +295,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Bredd inklusive speglar
+			</td>
+			<td>
+				1955 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Axelavstånd
 			</td>
 			<td>
@@ -299,6 +331,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				0,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Anfallsvinkel
+			</td>
+			<td>
+				15,2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Avgångsvinkel
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -468,7 +516,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				170 mm
+				155 mm
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +524,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minsta markfrigång
 			</td>
 			<td>
-				170 mm
+				155 mm
 			</td>
 		</tr>
 		<tr>
@@ -838,7 +886,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				360-kamera
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja (Surround View Monitor), valfritt
+				<i class="bi-check-lg" style="color: green;"></i> Ja (Surround View Monitor), standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -878,6 +926,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Hill Descent Assist
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1014,6 +1063,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Röststyrning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1021,6 +1071,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Gestkontroll
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

@@ -24,6 +24,12 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 - [Erweiterte Fahrerassistenzsysteme](#section-adas)
 - [Ladekapazität und Anhängelast](#section-transportation)
 
+<div class="alert alert-secondary" role="alert">
+
+Dieses Modell wurde durch [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/) ersetzt.
+
+</div>
+
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Leistung
@@ -261,5 +267,8 @@ Das maximale Gewicht des Fahrzeugs beträgt 2530 kg (5578 lbs) bei einem Leergew
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1600 kg (3527 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd_gen1/trunk_1_st.jpg" title="Kia EV6 Long Range AWD (GEN1)" width="3000" height="1999"  >}}
+
+## Verfügbarkeit & Preise
+
 
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Reichweite" >}}

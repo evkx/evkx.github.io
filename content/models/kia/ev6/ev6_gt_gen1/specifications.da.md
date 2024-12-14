@@ -58,6 +58,14 @@ EVKX.net søger at have de mest komplette specifikationer for Kia EV6 GT (GEN1).
 				3,5 s
 			</td>
 		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph) boost
+			</td>
+			<td>
+				3,5 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -147,6 +155,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Antal moduler
+			</td>
+			<td>
+				32
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Pakkekonfiguration
 			</td>
 			<td>
@@ -159,6 +175,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				697
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -271,6 +295,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Bredde inklusive spejle
+			</td>
+			<td>
+				1955 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wheelbase
 			</td>
 			<td>
@@ -299,6 +331,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				0,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angrebsvinkel
+			</td>
+			<td>
+				15,2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Afgangsvinkel
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -468,7 +516,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				170 mm
+				155 mm
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +524,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				170 mm
+				155 mm
 			</td>
 		</tr>
 		<tr>
@@ -838,7 +886,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				360 kamera
 			</td>
 			<td>
-				Ja (Surround View Monitor), ekstraudstyr
+				Ja (Surround View Monitor), standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -878,6 +926,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Hill DescentAssist
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1014,6 +1063,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Stemmestyring
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1021,6 +1071,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Bevægelseskontrol
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

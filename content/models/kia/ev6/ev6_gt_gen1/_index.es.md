@@ -40,13 +40,13 @@ El Kia EV6 GT (GEN1) ofrece una impresionante potencia máxima de 430 kW (585 hp
 
 ## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 77,4 kWh y una capacidad neta utilizable de 74,0 kWh, proporcionando un buffer de 3,4 kWh (4,4%) para la protección de la batería. Operando a un voltaje nominal de 697 voltios, califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
+La batería de alta capacidad tiene una capacidad bruta de 77,4 kWh y una capacidad neta utilizable de 74,0 kWh, proporcionando un buffer de 3,4 kWh (4,4%) para la protección de la batería. Operando a un voltaje nominal de 697 voltios, califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo es de 424 km (264 millas), con una tasa de consumo de energía de 17,5 kWh/100 km (3 mi/kWh). Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
 El vehículo admite carga rápida DC con una potencia máxima de 233 kW. Cargar del 0% al 100% toma aproximadamente 39 minutos, mientras que un escenario más típico del 10% al 80% toma 17 minutos con una velocidad de carga promedio de 188 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 1% al 76%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 149 kW, con cada sesión de carga tomando aproximadamente 22 minutos y 20 segundos. Esta capacidad de carga eficiente hace que el Kia EV6 GT (GEN1) sea una opción conveniente para viajes de larga distancia.
 
-En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 25,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 33 minutos, requiriendo tres paradas de carga del 1% al 83%, totalizando 74 minutos de tiempo de carga.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 25 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 31 minutos, requiriendo tres paradas de carga del 1% al 81%, totalizando 72 minutos de tiempo de carga.
 
 ### Cargador a Bordo
 
@@ -68,7 +68,7 @@ Este modelo admite V2L (Vehículo a Carga), lo que le permite alimentar equipos 
 
 ## Tren Motriz
 
-El Kia EV6 GT (GEN1) cuenta con un sistema de tracción en las cuatro ruedas impulsado por dos motores, uno en cada eje.
+El Kia EV6 GT (GEN1) cuenta con un sistema de tracción en las cuatro ruedas impulsado por dos motores, uno en cada eje. Los motores utilizados son [Motores Síncronos de Imán Permanente](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
@@ -78,13 +78,25 @@ La suspensión delantera es de [MacPherson Strut](../../../../technology/suspens
 
 La dirección dinámica es una característica estándar en el Kia EV6 GT (GEN1), variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados.
 
+### Modos de Conducción
+
+El Kia EV6 GT (GEN1) permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 5 modos:
+
+- Eco: Dirección equilibrada, con aceleración eficiente y suspensión equilibrada.
+- Sport: Dirección, suspensión y aceleración dinámicas.
+- Normal: Aceleración y dirección equilibradas, amortiguación de suspensión cómoda.
+- My Drive: Configuraciones definidas por el usuario para dirección, acelerador y suspensión.
+- Snow: Dirección, aceleración y amortiguación equilibradas.
+
 ### Frenos
 
 El Kia EV6 GT (GEN1) está equipado con [frenos de disco de hierro fundido](../../../../technology/brakes/#disc-brakes) tanto en la parte delantera como en la trasera. Los discos delanteros miden 380 mm, mientras que los discos traseros son de 360 mm.
 
 ### Frenado Regenerativo
 
-El [frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puede usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar.
+El [frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puede usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. Puede elegir entre dos modos de parada para la conducción con un solo pedal. El **modo Hold** detiene el vehículo completamente utilizando frenos de fricción, y el **modo Roll** permite que el vehículo ruede hasta detenerse naturalmente.
+
+Además, puedes ajustar la fuerza de la frenada regenerativa cuando levantas el pie del acelerador. Hay cinco niveles de frenada regenerativa para elegir, lo que te permite personalizar la experiencia de conducción a tu gusto.
 
 La potencia máxima de regeneración es de 320 kW.
 
@@ -142,6 +154,20 @@ La segunda fila cuenta con un banco estándar de tres asientos con una división
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt_gen1/secondrowseats_1_st.jpg" title="Kia EV6 GT (GEN1)" width="1920" height="1080"  >}}
 
+### Almacenamiento Interior
+
+El Kia EV6 GT (GEN1) proporciona amplias soluciones de almacenamiento interior para mejorar la conveniencia y organización:
+
+- **Portavasos:** Hay dos portavasos ubicados en la consola central delantera, y dos adicionales en el reposabrazos trasero.
+- **Guantera:** Hay una espaciosa guantera situada en el tablero frente al asiento del pasajero, ideal para almacenar artículos esenciales.
+- **Almacenamiento bajo el piso:** El área del maletero cuenta con almacenamiento bajo el piso, perfecto para mantener artículos pequeños como cables de carga ordenadamente guardados.
+
+### Iluminación Interior
+
+El Kia EV6 GT (GEN1) ofrece una gama de opciones de iluminación interior diseñadas para crear un ambiente agradable y mejorar la visibilidad.
+
+- **Iluminación ambiental multicolor:** Esta característica se extiende a lo largo del tablero, los paneles de las puertas y el espacio para los pies, proporcionando una atmósfera armoniosa y acogedora. Puedes personalizar los colores para adaptarlos a tu estado de ánimo o preferencia, añadiendo un toque personal a tu experiencia de conducción.
+
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistema de Climatización
@@ -183,19 +209,29 @@ Un sistema de visualización frontal es una opción que proyecta la velocidad y 
 
 El Kia EV6 GT (GEN1) está equipado con un solo tipo de volante:
 
-- **Volante Circular:** Este volante cuenta con calefacción integrada para mayor comodidad durante el clima frío. También proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
+- **Volante Circular:** Este volante presenta una parte inferior plana, proporcionando un aspecto y sensación deportivos. También incluye botones físicos, interruptores de palanca y levas de cambio, lo que le permite controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar pistas de música y gestionar otras funciones clave con facilidad. La calefacción integrada está disponible para mayor comodidad durante el clima frío.
 
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
+Este modelo viene equipado con control por voz de serie, lo que le permite gestionar varias funciones a través de comandos de voz.
+
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Sistema de Información y Entretenimiento
 
+El Kia EV6 GT (GEN1) cuenta con un sistema de información y entretenimiento personalizado diseñado para proporcionar una interfaz con una variedad de características y funciones para mejorar la experiencia de conducción.
+
 ### Sistema de Navegación
 
-Con el sistema de navegación en el coche una característica estándar, tiene toda la asistencia que necesita para llegar a su destino sin esfuerzo.
+El sistema de navegación integrado utiliza mapas detallados y ofrece planificación avanzada de rutas. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
+
+### Aplicaciones Preinstaladas
+
+Aunque el sistema de infoentretenimiento no incluye una tienda de aplicaciones, viene con una selección de aplicaciones de terceros preinstaladas que se ejecutan de forma nativa en la pantalla del coche, independientemente de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
+
+- **Spotify:** Transmita millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de su coche, proporcionando infinitas opciones de entretenimiento para su viaje.
 
 ### Espejo de Teléfono
 
@@ -205,9 +241,21 @@ El Kia EV6 GT (GEN1) es compatible con Android Auto y Apple CarPlay, lo que le p
 
 El Kia EV6 GT (GEN1) viene equipado con una opción de sistema de sonido:
 
-- **Meridian Premium Sound System:** Cuenta con 14 altavoces.
+- **Meridian Premium Sound System:** Cuenta con 14 altavoces y ofrece una potencia máxima de 800 vatios.
 
-Además, el modelo incluye 4 conexiones USB-C como estándar. El modelo tiene 1 conexiones USB-A como estándar.
+Además, el modelo incluye 3 conexiones USB-C como estándar. El modelo tiene 1 conexiones USB-A como estándar.
+
+## Aplicación Móvil
+
+El Kia EV6 GT (GEN1) viene con una aplicación móvil dedicada, disponible tanto para dispositivos Android como iOS, que le permite gestionar y monitorear su vehículo de forma remota. La aplicación ofrece una amplia gama de características diseñadas para mejorar su experiencia de conducción:
+
+- **Localizar Su Vehículo:** Compruebe fácilmente la ubicación actual de su coche.
+- **Preacondicionamiento:** Precaliente o enfríe su coche antes de comenzar su viaje para un confort óptimo.
+- **Bloquear y Desbloquear:** Bloquee o desbloquee de forma segura las puertas de su coche con un toque.
+- **Programación de Carga:** Planifique y programe sesiones de carga antes de sus viajes.
+- **Ajustar Objetivo de Carga:** Establezca su nivel de carga deseado para iniciar o detener la carga según sea necesario.
+- **Planificación de Ruta:** Planifique su ruta y envíela directamente al sistema de navegación de su coche.
+- **Historial de Conducción:** Revise los detalles de sus viajes anteriores.
 
 ## Luces
 
@@ -243,22 +291,36 @@ El Kia EV6 GT (GEN1) cuenta con una gama de sistemas [avanzados de asistencia al
 
 [**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Estándar en el Kia EV6 GT (GEN1), este sistema de asistencia lateral ayuda a detectar el tráfico en los puntos ciegos.
 
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el Kia EV6 GT (GEN1), este sistema alerta a los ocupantes contra la apertura de puertas si hay riesgo de golpear algo.
+
 ### Automatización de la Conducción
 
-Con el sistema estándar  de nivel 2, obtienes las siguientes características de automatización de la conducción.
+Con el sistema estándar Highway Driving Assist de nivel 2, obtienes las siguientes características de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Mantenimiento de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en su carril y reduce la velocidad si es necesario en el tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
+- [**Estacionamiento Automático**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensores y Cámaras
 
 Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
 Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorean los alrededores del vehículo.
 
+## Seguridad
+
+El Kia EV6 GT (GEN1) está equipado con múltiples airbags para garantizar la protección de los ocupantes en caso de colisión. El sistema de airbags incluye:
+
+- Airbags frontales para el conductor y el pasajero delantero
+- Airbags de cortina lateral para las filas primera y segunda
+- Airbags laterales para el conductor y el pasajero delantero
+
+Además, los cinturones de seguridad de la primera y segunda fila están equipados con pretensores que se tensan automáticamente durante una colisión para minimizar el riesgo de lesiones.
+
 ## Tecnologías de Seguridad y Acceso
 
-El Kia EV6 GT (GEN1) está equipado con características de seguridad esenciales para protegerlo a usted y a su vehículo, ofreciendo simplicidad y fiabilidad. Estas incluyen:
+El Kia EV6 GT (GEN1) está equipado con características de seguridad avanzadas para protegerlo a usted y a su vehículo. Estas incluyen:
 
+- **Entrada y Arranque Sin Llave:** El sistema de entrada y arranque sin llave del vehículo permite un acceso sin interrupciones, permitiéndole desbloquear y arrancar el coche sin necesidad de sacar la llave de su bolsillo o bolso.
 - **Sistema de Alarma:** Un sistema de alarma integrado monitorea entradas no autorizadas o manipulaciones, proporcionando alertas para ayudar a disuadir intrusiones y mantener su vehículo seguro.
 
 {{<evkxdisplayaddarticle />}}
@@ -276,6 +338,8 @@ Se puede agregar un enganche de remolque al vehículo. El peso máximo permitido
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt_gen1/trunk_1_st.jpg" title="Kia EV6 GT (GEN1)" width="1920" height="1080"  >}}
 
 ## Disponibilidad y Precios
+
+Este modelo tuvo su estreno mundial el 30.03.2021, y las entregas comenzaron en October 2022. Este modelo ha sido descontinuado. Este modelo ha sido reemplazado por [Kia EV6 GT](/models/kia/ev6/ev6_gt).
 
 ### Precios
 

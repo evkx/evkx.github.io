@@ -58,6 +58,14 @@ EVKX.net seeks to have the most complete specifications for Kia EV6 GT (GEN1). C
 				3,5 s
 			</td>
 		</tr>
+		<tr>
+			<td>
+				0-100km/h (0-62 mph) boost
+			</td>
+			<td>
+				3,5 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -147,6 +155,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Number of modules
+			</td>
+			<td>
+				32
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="/technology/battery/batterypack/">Pack Configuration</a>
 			</td>
 			<td>
@@ -159,6 +175,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				697
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -271,6 +295,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Width including mirrors
+			</td>
+			<td>
+				1955 mm (77,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wheelbase
 			</td>
 			<td>
@@ -299,6 +331,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				0,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Approach Angle
+			</td>
+			<td>
+				15,2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Departure Angle
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -468,7 +516,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				170 mm (6,7")
+				155 mm (6,1")
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +524,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				170 mm (6,7")
+				155 mm (6,1")
 			</td>
 		</tr>
 		<tr>
@@ -838,7 +886,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">360 camera</a>
 			</td>
 			<td>
-				Yes (Surround View Monitor), optional equipment
+				Yes (Surround View Monitor), standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -878,6 +926,7 @@ This model is available with a seat configuration with five seats.
 				Hill descent assist
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -1014,6 +1063,7 @@ This model is available with a seat configuration with five seats.
 				Voice control
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1021,6 +1071,7 @@ This model is available with a seat configuration with five seats.
 				Gesture control
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>

@@ -16,6 +16,13 @@ Nous collectons des critiques de nos [critiques en ligne préférés](../../../.
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV6 GT (77kWh) vs IONIQ 5 N (84kWh) Highway Range Test! Yikes, Both Of These Have Limited Range</h3>
+<p>Out of Spec Reviews: 09.12.2024</p>
+
+{{< youtube GpIij25Wzcw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The Kia EV6 GT Lacks Highway Range But Makes Up For It With Fast Charging! 10% Road Trip Challenge</h3>
 <p>Out of Spec Testing: 06.12.2024</p>
 
@@ -76,6 +83,13 @@ Nous collectons des critiques de nos [critiques en ligne préférés](../../../.
 <p>Out of Spec Reviews: 12.03.2023</p>
 
 {{< youtube KdeIo5y0hVE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV6 GT: Almost Perfect!</h3>
+<p>Auto Focus: 06.03.2023</p>
+
+{{< youtube gDD0H4aE5u0 >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">

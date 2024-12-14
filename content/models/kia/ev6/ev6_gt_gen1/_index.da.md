@@ -40,13 +40,13 @@ Kia EV6 GT (GEN1) har en imponerende styrke med en maksimal effekt på 430 kW (5
 
 ## Batteri, Rækkevidde og Opladning
 
-Det højkapacitets batteri har en brutto kapacitet på 77,4 kWh og en netto kapacitet på 74,0 kWh, hvilket giver en 3,4 kWh buffer (4,4%) til batteribeskyttelse. Med en driftsspænding på 697 volt kvalificerer det som et 800-volt batterisystem. Denne høje spænding er afgørende for systemets opladningskapaciteter.
+Det højkapacitets batteri har en brutto kapacitet på 77,4 kWh og en netto kapacitet på 74,0 kWh, hvilket giver en 3,4 kWh buffer (4,4%) til batteribeskyttelse. Med en driftsspænding på 697 volt kvalificerer det som et 800-volt batterisystem. Denne høje spænding er afgørende for systemets opladningskapaciteter. Dette lithium-ion batteri bruger [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er køretøjets rækkevidde 424 km (264 miles), med et energiforbrug på 17,5 kWh/100 km (3 mi/kWh). For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 233 kW. Opladning fra 0% til 100% tager cirka 39 minutter, mens et mere typisk scenario fra 10% til 80% tager 17 minutter med en gennemsnitlig ladehastighed på 188 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 1% til 76%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 149 kW, hvor hver opladningssession tager cirka 22 minutter og 20 sekunder. Denne effektive opladningskapacitet gør Kia EV6 GT (GEN1) til et bekvemt valg til langdistancekørsel.
 
-I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 25,5 kWh/100 km, ville turen tage cirka 9 timer og 33 minutter, med tre opladningsstop fra 1% til 83%, i alt 74 minutters opladningstid.
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 9 timer og 31 minutter, med tre opladningsstop fra 1% til 81%, i alt 72 minutters opladningstid.
 
 ### Indbygget oplader
 
@@ -68,7 +68,7 @@ Denne model understøtter V2L (Vehicle to Load), som gør det muligt at forsyne 
 
 ## Drivlinje
 
-Kia EV6 GT (GEN1) har et firehjulstræksystem drevet af to motorer, én på hver aksel.
+Kia EV6 GT (GEN1) har et firehjulstræksystem drevet af to motorer, én på hver aksel. Motorerne er [Permanent Magnet Synkron Motorer](../../../../technology/motors/pmsm/).
 
 ### Affjedring
 
@@ -78,13 +78,25 @@ Forhjulsophænget er [MacPherson fjederben](../../../../technology/suspension/#m
 
 Dynamisk styring er standard på Kia EV6 GT (GEN1), hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort.
 
+### Køretilstande
+
+Kia EV6 GT (GEN1) lader brugeren vælge forskellige [køretilstande](../../../../technology/drivemodes/) som påvirker bilens håndtering. Føreren kan vælge mellem 5 tilstande:
+
+- Eco: Afbalanceret styring med effektiv gaspedal og afbalanceret affjedring.
+- Sport: Dynamisk styring, affjedring og gaspedal.
+- Normal: Afbalanceret gaspedal og styring, komfortabel affjedringsdæmpning.
+- My Drive: Brugerdefinerede indstillinger for styring, gaspedal og affjedring.
+- Snow: Afbalanceret styring, gaspedal og dæmpning.
+
 ### Bremser
 
 Kia EV6 GT (GEN1) er udstyret med [støbejerns-skivebremser](../../../../technology/brakes/#disc-brakes) både for og bag. De forreste skiver måler 380 mm, mens de bageste skiver er 360 mm.
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [én-pedal kørsel](../../../../technology/regen/#one-pedal-driving) eller du kan rulle og bruge de [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) til at regenerere.
+[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [én-pedal kørsel](../../../../technology/regen/#one-pedal-driving) eller du kan rulle og bruge de [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) til at regenerere. Du kan vælge mellem to stoptilstande for én-pedal kørsel. **Hold tilstand** bringer køretøjet til et komplet stop ved hjælp af friktionsbremser, og **Rul tilstand** lader køretøjet rulle indtil det stopper naturligt.
+
+Derudover kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er fem niveauer af regenerativ bremsning at vælge imellem, så du kan tilpasse køreoplevelsen til dine præferencer.
 
 Den maksimale regenerative effekt er 320 kW.
 
@@ -142,6 +154,20 @@ Anden række har en standard tresæders bænk med 60:40 opdeling, hvor hver sekt
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt_gen1/secondrowseats_1_st.jpg" title="Kia EV6 GT (GEN1)" width="1920" height="1080"  >}}
 
+### Indvendig opbevaring
+
+Kia EV6 GT (GEN1) tilbyder rigelige opbevaringsløsninger i kabinen for at øge bekvemmelighed og organisation:
+
+- **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i det bageste armlæn.
+- **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af vigtige genstande.
+- **Opbevaring under gulvet:** Bagagerummet har opbevaring under gulvet, perfekt til at holde mindre genstande som ladekabler pænt gemt væk.
+
+### Indvendig belysning
+
+Kia EV6 GT (GEN1) tilbyder en række indvendige belysningsindstillinger designet til at skabe en behagelig atmosfære og forbedre synligheden.
+
+- **Flerfarvede stemningslys:** Denne funktion strækker sig over instrumentbrættet, dørpanelerne og fodrummet, og skaber en harmonisk og indbydende atmosfære. Du kan tilpasse farverne efter dit humør eller præference og tilføje et personligt præg til din køreoplevelse.
+
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
@@ -183,19 +209,29 @@ Et head-up display er et valgfrit system, der projicerer hastighed og anden vigt
 
 Kia EV6 GT (GEN1) er udstyret med én type rat:
 
-- **Cirkulært rat:** Dette rat har integreret varme for ekstra komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
+- **Cirkulært Rat:** Dette rat har en flad bund, hvilket giver et sporty look og følelse. Det inkluderer også fysiske knapper, vippekontakter og skiftepaler, der giver dig mulighed for at styre infotainmentsystemet, justere lydstyrken, skifte musiknumre og administrere andre nøglefunktioner med lethed. Integreret opvarmning er tilgængelig for ekstra komfort i koldt vejr.
 
 ### Spejle
 
 Både side- og bakspejle bruger konventionel spejlteknologi til at give et klart udsyn over området bag køretøjet.
 
+Denne model kommer med stemmestyring som standard, der giver dig mulighed for at styre forskellige funktioner gennem stemmekommandoer.
+
 <a id="section-infotainment" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Infotainment
 
+Kia EV6 GT (GEN1) har et specialbygget infotainmentsystem designet til at give en grænseflade med en række funktioner for at forbedre køreoplevelsen.
+
 ### Navigationssystem
 
-Med standard indbygget navigationssystem har du al den hjælp, du behøver for at nå din destination uden besvær.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning. Systemet giver realtids trafikinformation, der sikrer en effektiv og stressfri rejse.
+
+### Forudinstallerede apps
+
+Selvom infotainmentsystemet ikke inkluderer en app-butik, kommer det med et udvalg af forudinstallerede tredjepartsapps, der kører direkte på bilens skærm uafhængigt af en tilsluttet telefon. De tilgængelige apps varierer efter marked, men inkluderer populære muligheder som:
+
+- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver endeløse underholdningsmuligheder under kørslen.
 
 ### Telefonspejling
 
@@ -205,9 +241,21 @@ Kia EV6 GT (GEN1) understøtter Android Auto og Apple CarPlay, så du kan spejle
 
 Kia EV6 GT (GEN1) kommer med ét lydsystem:
 
-- **Meridian Premium Sound System:** Har 14 højttalere.
+- **Meridian Premium Sound System:** Har 14 højttalere og leverer en maksimal effekt på 800 watt.
 
-Derudover inkluderer modellen 4 USB-C tilslutninger som standard. Modellen har 1 USB-A tilslutninger som standard.
+Derudover inkluderer modellen 3 USB-C tilslutninger som standard. Modellen har 1 USB-A tilslutninger som standard.
+
+## Mobil App
+
+Kia EV6 GT (GEN1) kommer med en dedikeret mobilapp, tilgængelig til både Android og iOS-enheder, så du kan styre og overvåge din bil på afstand. Appen tilbyder en bred vifte af funktioner designet til at forbedre din køreoplevelse:
+
+- **Find din bil:** Se nemt bilens aktuelle placering.
+- **Forkonditionering:** Forvarm eller afkøl din bil, før du starter din rejse, for optimal komfort.
+- **Lås og lås op:** Lås eller lås dine bildøre op sikkert med et tryk.
+- **Planlagt opladning:** Planlæg og programsæt opladningssessioner før dine ture.
+- **Juster ladeniveau:** Indstil dit ønskede ladeniveau for at starte eller stoppe opladningen efter behov.
+- **Ruteplanlægning:** Planlæg din rute og send den direkte til bilens navigationssystem.
+- **Kørselshistorik:** Gennemgå detaljerne for dine tidligere ture.
 
 ## Lygter
 
@@ -243,22 +291,36 @@ Kia EV6 GT (GEN1) har en række standard og valgfrie [avancerede førerassistent
 
 [**Blindvinkel Overvågning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Kia EV6 GT (GEN1), dette system hjælper med at opdage trafik i blinde vinkler.
 
+[**Udstigningsadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Kia EV6 GT (GEN1), dette system advarer passagererne mod at åbne døre, hvis der er risiko for at ramme noget.
+
 ### Køreautomatisering
 
-Med det standard  niveau 2-system får du følgende køreautomatiseringsfunktioner.
+Med det standard Highway Driving Assist niveau 2-system får du følgende køreautomatiseringsfunktioner.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbanecentrering (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten efter behov i trafikken. Systemet begrænser, hvor længe du kan køre uden at røre rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer & Kameraer
 
 Denne model bruger kameraer, radar og ultrasoniske sensorer til sine førerassistentsystemer.
 Op til fem [radar-sensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
+## Sikkerhed
+
+Kia EV6 GT (GEN1) er udstyret med flere airbags for at sikre beskyttelse af passagererne i tilfælde af en kollision. Airbagsystemet omfatter:
+
+- Frontairbags til fører og forsædepassager
+- Gardinairbags til både første og anden række
+- Sideairbags til fører og forsædepassager
+
+Derudover er både første og anden rækkes sikkerhedsseler udstyret med selestrammere, der strammes automatisk under en kollision for at minimere risikoen for skader.
+
 ## Sikkerheds- og adgangsteknologier
 
-Kia EV6 GT (GEN1) er udstyret med grundlæggende sikkerhedsfunktioner for at beskytte dig og dit køretøj, og tilbyder enkelhed og pålidelighed. Disse omfatter:
+Kia EV6 GT (GEN1) er udstyret med avancerede sikkerhedsfunktioner for at beskytte dig og dit køretøj. Disse omfatter:
 
+- **Nøglefri adgang og start:** Bilens nøglefri adgangs- og startsystem muliggør problemfri adgang, så du kan låse op og starte bilen uden at skulle tage nøglen op af lommen eller tasken.
 - **Alarmsystem:** Et integreret alarmsystem overvåger for uautoriseret adgang eller manipulation og giver advarsler for at forhindre indbrud og holde dit køretøj sikkert.
 
 {{<evkxdisplayaddarticle />}}
@@ -276,6 +338,8 @@ Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for e
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt_gen1/trunk_1_st.jpg" title="Kia EV6 GT (GEN1)" width="1920" height="1080"  >}}
 
 ## Tilgængelighed & Priser
+
+Denne model havde sin verdenspremiere den 30.03.2021, og leveringerne startede i October 2022. Denne model er nu udgået. Denne model er blevet erstattet af [Kia EV6 GT](/models/kia/ev6/ev6_gt).
 
 ### Priser
 

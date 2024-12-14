@@ -24,6 +24,12 @@ Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Kl
 - [Avancerade förarassistanssystem](#section-adas)
 - [Lastkapacitet och dragförmåga](#section-transportation)
 
+<div class="alert alert-secondary" role="alert">
+
+Denna modell har ersatts av [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/).
+
+</div>
+
 <a id="section-performance" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Prestanda
@@ -261,5 +267,8 @@ Fordonets maximala vikt är 2530 kg (5578 lbs), med en tjänstevikt på 2015 kg 
 Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpvagn är 1600 kg (3527 lbs), medan för obromsad släpvagn är det 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd_gen1/trunk_1_st.jpg" title="Kia EV6 Long Range AWD (GEN1)" width="3000" height="1999"  >}}
+
+## Tillgänglighet och priser
+
 
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Räckvidd" >}}
