@@ -91,7 +91,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Basisausstattung
 			</td>
 			<td>
-				12,5 kWh/100km
+				12,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Top-Ausstattung
 			</td>
 			<td>
-				14,1 kWh/100km
+				13,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nettokapazität der Batterie
 			</td>
 			<td>
-				77 kWh
+				74 kWh
 			</td>
 		</tr>
 		<tr>
@@ -167,6 +167,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				233 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Anzahl der Module
+			</td>
+			<td>
+				32
 			</td>
 		</tr>
 		<tr>
@@ -183,6 +191,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				697
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kathodenmaterialien
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -863,27 +879,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Hintere Parksensoren
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Vordere Parksensoren
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seitliche Parksensoren
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Bergabfahrassistent
 			</td>
 			<td>
@@ -987,6 +982,32 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				Nicht verfügbar
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Section.Sensors
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sensors.UltrasonicSensors
+			</td>
+			<td>
+				NotSet
+
 			</td>
 		</tr>
 	</tbody>

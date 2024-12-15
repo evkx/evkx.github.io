@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				12,5 kWh/100km
+				12,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				14,1 kWh/100km
+				13,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				77 kWh
+				74 kWh
 			</td>
 		</tr>
 		<tr>
@@ -167,6 +167,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				233 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Number of modules
+			</td>
+			<td>
+				32
 			</td>
 		</tr>
 		<tr>
@@ -183,6 +191,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				697
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -863,27 +879,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hill descent assist
 			</td>
 			<td>
@@ -987,6 +982,32 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Section.Sensors
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sensors.UltrasonicSensors
+			</td>
+			<td>
+				NotSet
+
 			</td>
 		</tr>
 	</tbody>

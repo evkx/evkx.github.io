@@ -34,7 +34,7 @@ Hyundai Ioniq 6 Long Range AWD leverer en solid præstation med en maksimal effe
 
 ## Batteri, Rækkevidde og Opladning
 
-Det højkapacitets batteri har en brutto kapacitet på 77,4 kWh og en netto kapacitet på 74,0 kWh, hvilket giver en 3,4 kWh buffer (4,4%) til batteribeskyttelse. Med en driftsspænding på 697 volt kvalificerer det som et 800-volt batterisystem. Denne høje spænding er afgørende for systemets opladningskapaciteter.
+Det højkapacitets batteri har en brutto kapacitet på 77,4 kWh og en netto kapacitet på 74,0 kWh, hvilket giver en 3,4 kWh buffer (4,4%) til batteribeskyttelse. Med en driftsspænding på 697 volt kvalificerer det som et 800-volt batterisystem. Denne høje spænding er afgørende for systemets opladningskapaciteter. Dette lithium-ion batteri bruger [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierer køretøjets rækkevidde mellem 583 og 519 km (362-323 miles), afhængigt af den specifikke konfiguration og tilvalg som f.eks. hjulstørrelse. Større hjul kan øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 12,7 kWh/100 km for basismodellen og 14,3 kWh/100 km for topmodellen under WLTP testcyklussen. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 

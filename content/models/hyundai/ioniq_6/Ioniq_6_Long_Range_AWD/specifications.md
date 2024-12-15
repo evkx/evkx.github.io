@@ -171,6 +171,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Number of modules
+			</td>
+			<td>
+				32
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="/technology/battery/batterypack/">Pack Configuration</a>
 			</td>
 			<td>
@@ -183,6 +191,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				697
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -863,27 +879,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hill descent assist
 			</td>
 			<td>
@@ -989,6 +984,23 @@ This model is available with a seat configuration with five seats.
 				Not available
 			</td>
 		</tr>
+	</tbody>
+</table>
+
+## Section.Sensors
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
 	</tbody>
 </table>
 

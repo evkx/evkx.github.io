@@ -171,6 +171,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Antal moduler
+			</td>
+			<td>
+				32
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Packkonfiguration
 			</td>
 			<td>
@@ -183,6 +191,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				697
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -863,27 +879,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer bak
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Parkeringssensorer fram
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sidoparkeringssensorer
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hill Descent Assist
 			</td>
 			<td>
@@ -989,6 +984,23 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
+	</tbody>
+</table>
+
+## Section.Sensors
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
 	</tbody>
 </table>
 

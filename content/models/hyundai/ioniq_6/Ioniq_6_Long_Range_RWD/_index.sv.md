@@ -34,17 +34,17 @@ Hyundai Ioniq 6 Long Range RWD erbjuder modest prestanda med en maxeffekt på 16
 
 ## Batteri, räckvidd och laddning
 
-Batteriet med hög kapacitet har en bruttokapacitet på 77,4 kWh och en nettoanvändbar kapacitet på 77,0 kWh, vilket ger en 0,4 kWh buffert (0,5%) för batteriskydd. Med en driftspänning på 697 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter.
+Batteriet med hög kapacitet har en bruttokapacitet på 77,4 kWh och en nettoanvändbar kapacitet på 74,0 kWh, vilket ger en 3,4 kWh buffert (4,4%) för batteriskydd. Med en driftspänning på 697 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter. Detta litiumjonbatteri använder [NMC-teknik (Nickel Mangan Kobolt)](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 614 till 545 km (382-339 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 12,5 kWh/100 km för basmodellen och 14,1 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierar fordonets räckvidd mellan 614 till 545 km (382-339 miles), beroende på specifik konfiguration och tillval, såsom hjulstorlek. Större hjul kan öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är beräknad till 12,1 kWh/100 km för basmodellen och 13,6 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Fordonet stöder snabbladdning med likström med en maximal effekt på 233 kW. Laddning från 0% till 100% tar ungefär 40 minuter, medan ett mer typiskt scenario från 10% till 80% tar 17 minuter med en genomsnittlig laddningshastighet på 188 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 76%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 150 kW, där varje laddningssession tar cirka 23 minuter och 3 sekunder. Denna effektiva laddningsförmåga gör Hyundai Ioniq 6 Long Range RWD till ett bekvämt alternativ för långdistansresor.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 233 kW. Laddning från 0% till 100% tar ungefär 39 minuter, medan ett mer typiskt scenario från 10% till 80% tar 17 minuter med en genomsnittlig laddningshastighet på 188 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 76%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 149 kW, där varje laddningssession tar cirka 22 minuter och 20 sekunder. Denna effektiva laddningsförmåga gör Hyundai Ioniq 6 Long Range RWD till ett bekvämt alternativ för långdistansresor.
 
-I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 19 kWh/100 km, skulle resan ta ungefär 9 timmar och 5 minuter, med två laddningsstopp från 1% till 75%, totalt 45 minuters laddtid.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 19 kWh/100 km, skulle resan ta ungefär 9 timmar och 7 minuter, med två laddningsstopp från 1% till 80%, totalt 47 minuters laddtid.
 
 ### Inbyggd laddare
 
-Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 7 timmar och 0 minuter vid hemmaladdning.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 6 timmar och 43 minuter vid hemmaladdning.
 
 ### Laddningsport
 

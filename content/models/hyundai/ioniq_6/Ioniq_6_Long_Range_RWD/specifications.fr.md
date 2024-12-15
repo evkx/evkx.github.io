@@ -91,7 +91,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP du trim de base
 			</td>
 			<td>
-				12,5 kWh/100km
+				12,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de la garniture supérieure
 			</td>
 			<td>
-				14,1 kWh/100km
+				13,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				77 kWh
+				74 kWh
 			</td>
 		</tr>
 		<tr>
@@ -167,6 +167,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				233 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nombre de modules
+			</td>
+			<td>
+				32
 			</td>
 		</tr>
 		<tr>
@@ -183,6 +191,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				697
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -863,27 +879,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Capteurs de stationnement arrière
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Capteurs de stationnement avant
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Capteurs de stationnement latéraux
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Aide à la descente
 			</td>
 			<td>
@@ -987,6 +982,32 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Section.Sensors
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sensors.UltrasonicSensors
+			</td>
+			<td>
+				NotSet
+
 			</td>
 		</tr>
 	</tbody>

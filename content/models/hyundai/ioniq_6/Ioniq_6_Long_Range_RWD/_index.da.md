@@ -34,17 +34,17 @@ Hyundai Ioniq 6 Long Range RWD tilbyder beskeden ydeevne med en maksimal effekt 
 
 ## Batteri, Rækkevidde og Opladning
 
-Det højkapacitets batteri har en brutto kapacitet på 77,4 kWh og en netto kapacitet på 77,0 kWh, hvilket giver en 0,4 kWh buffer (0,5%) til batteribeskyttelse. Med en driftsspænding på 697 volt kvalificerer det som et 800-volt batterisystem. Denne høje spænding er afgørende for systemets opladningskapaciteter.
+Det højkapacitets batteri har en brutto kapacitet på 77,4 kWh og en netto kapacitet på 74,0 kWh, hvilket giver en 3,4 kWh buffer (4,4%) til batteribeskyttelse. Med en driftsspænding på 697 volt kvalificerer det som et 800-volt batterisystem. Denne høje spænding er afgørende for systemets opladningskapaciteter. Dette lithium-ion batteri bruger [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierer køretøjets rækkevidde mellem 614 og 545 km (382-339 miles), afhængigt af den specifikke konfiguration og tilvalg som f.eks. hjulstørrelse. Større hjul kan øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 12,5 kWh/100 km for basismodellen og 14,1 kWh/100 km for topmodellen under WLTP testcyklussen. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden varierer køretøjets rækkevidde mellem 614 og 545 km (382-339 miles), afhængigt af den specifikke konfiguration og tilvalg som f.eks. hjulstørrelse. Større hjul kan øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 12,1 kWh/100 km for basismodellen og 13,6 kWh/100 km for topmodellen under WLTP testcyklussen. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 233 kW. Opladning fra 0% til 100% tager cirka 40 minutter, mens et mere typisk scenario fra 10% til 80% tager 17 minutter med en gennemsnitlig ladehastighed på 188 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 1% til 76%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 150 kW, hvor hver opladningssession tager cirka 23 minutter og 3 sekunder. Denne effektive opladningskapacitet gør Hyundai Ioniq 6 Long Range RWD til et bekvemt valg til langdistancekørsel.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 233 kW. Opladning fra 0% til 100% tager cirka 39 minutter, mens et mere typisk scenario fra 10% til 80% tager 17 minutter med en gennemsnitlig ladehastighed på 188 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 1% til 76%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 149 kW, hvor hver opladningssession tager cirka 22 minutter og 20 sekunder. Denne effektive opladningskapacitet gør Hyundai Ioniq 6 Long Range RWD til et bekvemt valg til langdistancekørsel.
 
-I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 19 kWh/100 km, ville turen tage cirka 9 timer og 5 minutter, med to opladningsstop fra 1% til 75%, i alt 45 minutters opladningstid.
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 19 kWh/100 km, ville turen tage cirka 9 timer og 7 minutter, med to opladningsstop fra 1% til 80%, i alt 47 minutters opladningstid.
 
 ### Indbygget oplader
 
-Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 7 timer og 0 minutter ved brug af en hjemmeinstallation.
+Den standard indbyggede oplader understøtter op til 11 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 6 timer og 43 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 

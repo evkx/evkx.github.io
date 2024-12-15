@@ -34,17 +34,17 @@ Hyundai Ioniq 6 Long Range RWD tilbyr beskjeden ytelse med en maksimal effekt p�
 
 ## Batteri, rekkevidde og lading
 
-Batteriet med høy kapasitet har en brutto kapasitet på 77,4 kWh og en netto brukbar kapasitet på 77,0 kWh, som gir en 0,4 kWh buffer (0,5%) for batteribeskyttelse. Med en driftsspenning på 697 volt, kvalifiserer det som et 800-volts batterisystem. Denne høye spenningen er avgjørende for systemets ladeegenskaper.
+Batteriet med høy kapasitet har en brutto kapasitet på 77,4 kWh og en netto brukbar kapasitet på 74,0 kWh, som gir en 3,4 kWh buffer (4,4%) for batteribeskyttelse. Med en driftsspenning på 697 volt, kvalifiserer det som et 800-volts batterisystem. Denne høye spenningen er avgjørende for systemets ladeegenskaper. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, varierer kjørelengden mellom 614 til 545 km (382-339 miles), avhengig av spesifikk konfigurasjon og valg, som for eksempel hjulstørrelse. Større hjul kan øke energiforbruket og følgelig redusere total rekkevidde. Bilens energiforbruk er oppgitt til 12,5 kWh/100 km for basismodellen og 14,1 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
+Under [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, varierer kjørelengden mellom 614 til 545 km (382-339 miles), avhengig av spesifikk konfigurasjon og valg, som for eksempel hjulstørrelse. Større hjul kan øke energiforbruket og følgelig redusere total rekkevidde. Bilens energiforbruk er oppgitt til 12,1 kWh/100 km for basismodellen og 13,6 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 233 kW. Lading fra 0% til 100% tar omtrent 40 minutter, mens et mer typisk scenario fra 10% til 80% tar 17 minutter med en gjennomsnittlig ladehastighet på 188 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 1% til 76%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 150 kW, hvor hver ladeøkt tar omtrent 23 minutter og 3 sekunder. Denne effektive ladekapasiteten gjør Hyundai Ioniq 6 Long Range RWD til et praktisk alternativ for langdistansekjøring.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 233 kW. Lading fra 0% til 100% tar omtrent 39 minutter, mens et mer typisk scenario fra 10% til 80% tar 17 minutter med en gjennomsnittlig ladehastighet på 188 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 1% til 76%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 149 kW, hvor hver ladeøkt tar omtrent 22 minutter og 20 sekunder. Denne effektive ladekapasiteten gjør Hyundai Ioniq 6 Long Range RWD til et praktisk alternativ for langdistansekjøring.
 
-I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 19 kWh/100 km, vil turen ta omtrent 9 timer og 5 minutter, og kreve to ladestopp fra 1% til 75%, totalt 45 minutter ladetid.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 19 kWh/100 km, vil turen ta omtrent 9 timer og 7 minutter, og kreve to ladestopp fra 1% til 80%, totalt 47 minutter ladetid.
 
 ### Innebygd lader
 
-Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 7 timer og 0 minutter ved bruk av et hjemmeoppsett.
+Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 6 timer og 43 minutter ved bruk av et hjemmeoppsett.
 
 ### Ladekontakt
 
