@@ -867,6 +867,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -874,6 +875,7 @@ This model is available with a seat configuration with five seats.
 				Hill descent assist
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -913,6 +915,7 @@ This model is available with a seat configuration with five seats.
 				Left turn crash avoidance
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>

@@ -153,6 +153,13 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/secondrowseats_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
+### Interior Storage
+
+The Honda Prologue AWD provides ample interior storage solutions to enhance convenience and organization:
+
+- **Cupholders:** Two cupholders are located in the front center console, with an additional two in the rear armrest.
+- **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
+
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Climate System
@@ -168,6 +175,9 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 ## Comfort Features
 
 The Honda Prologue AWD includes several features to enhance comfort and convenience:
+
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -229,6 +239,16 @@ The Honda Prologue AWD comes equipped with one sound system option:
 
 Additionally, the model includes 5 USB-C connections as standard.
 
+## Mobile App
+
+The Honda Prologue AWD comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Locate Your Vehicle:** Easily check the current location of your car.
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
+- **Find Your Car:** Trigger the horn or lights to help find your car in crowded areas.
+
 ## Lights
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
@@ -273,6 +293,17 @@ With the Cruise Control level 1 system, you get the following driving automation
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
 Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and eight [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
+## Safety
+
+The Honda Prologue AWD is equipped with multiple airbags to ensure occupant protection in the event of a collision. The airbag system includes:
+
+- Front airbags for the driver and front passenger
+- Side curtain airbags for both the first and second rows
+- Side airbags for the driver and front passenger
+- Knee airbags for the driver and front passenger
+
+Additionally, the front and second-row seatbelts are equipped with pretensioners that tighten automatically during a collision to minimize injury risk.
 
 ## Security and Access Technologies
 

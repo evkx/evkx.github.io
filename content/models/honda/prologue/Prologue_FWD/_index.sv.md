@@ -152,6 +152,13 @@ Andra raden har en standard tresätesoffa med 60:40 delning, vilket möjliggör 
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/secondrowseats_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
 
+### Förvaringsutrymmen
+
+Honda Prologue FWD erbjuder gott om förvaringslösningar i kupén för att öka bekvämlighet och organisation:
+
+- **Mugghållare:** Två mugghållare finns i mittkonsolen fram, med ytterligare två i armstödet bak.
+- **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passagerarsätet, perfekt för förvaring av viktiga föremål.
+
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimatsystem
@@ -167,6 +174,9 @@ En [värmepump](../../../../technology/hvac/#heat-pump) ingår som standard, vil
 ## Komfortfunktioner
 
 I Honda Prologue FWD ingår flera funktioner för att öka komfort och bekvämlighet:
+
+- **Easy Entry-funktion:** Flyttar förarsätet för att underlätta instigning i bilen.
+- **Trådlös mobilladdning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -228,6 +238,16 @@ Honda Prologue FWD levereras med ett ljudsystemalternativ:
 
 Dessutom har modellen 5 USB-C-anslutningar som standard.
 
+## Mobilapp
+
+Honda Prologue FWD levereras med en dedikerad mobilapp, tillgänglig för både Android och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner utformade för att förbättra din körupplevelse:
+
+- **Hitta din bil:** Kontrollera enkelt bilens aktuella position.
+- **Förkonditionering:** Förvärm eller kyl din bil innan du börjar din resa för optimal komfort.
+- **Lås & lås upp:** Lås eller lås upp bildörrarna säkert med ett tryck.
+- **Justera laddningsmål:** Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
+- **Hitta din bil:** Aktivera tutan eller lamporna för att hjälpa dig hitta din bil i stora parkeringar.
+
 ## Belysning
 
 **Standardstrålkastare:** Dessa använder avancerad LED-teknik som ger ljusstark och effektiv belysning.
@@ -272,6 +292,17 @@ Med Cruise Control nivå 1-systemet får du följande körautomationsfunktioner.
 
 Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
 Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och åtta [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+
+## Säkerhet
+
+Honda Prologue FWD är utrustad med flera krockkuddar för att säkerställa passagerarskydd vid en kollision. Krockkuddesystemet inkluderar:
+
+- Frontkrockkuddar för förare och passagerare
+- Sidokrockgardiner för både första och andra raden
+- Sidokrockkuddar för förare och passagerare
+- Knäkrockkuddar för förare och passagerare
+
+Dessutom är både första och andra radens säkerhetsbälten utrustade med bältesförsträckare som automatiskt spänns vid en kollision för att minimera skaderisken.
 
 ## Säkerhets- och åtkomstteknologier
 

@@ -153,6 +153,13 @@ La deuxième rangée dispose d'une banquette trois places standard avec une rép
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/secondrowseats_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
+### Rangement intérieur
+
+Le Honda Prologue AWD offre de nombreuses solutions de rangement intérieur pour améliorer la commodité et l'organisation :
+
+- **Porte-gobelets :** Deux porte-gobelets sont situés dans la console centrale avant, avec deux autres dans l'accoudoir arrière.
+- **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les articles essentiels.
+
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Système de Climatisation
@@ -168,6 +175,9 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 ## Caractéristiques de confort
 
 Le Honda Prologue AWD comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+
+- **Fonction Easy Entry:** Déplace le siège du conducteur pour faciliter l'entrée dans la voiture.
+- **Charge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -229,6 +239,16 @@ Le Honda Prologue AWD est équipé d'une seule option de système audio :
 
 De plus, le modèle comprend 5 connexions USB-C de série.
 
+## Application Mobile
+
+Le Honda Prologue AWD est livré avec une application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+
+- **Localiser votre véhicule :** Vérifiez facilement l'emplacement actuel de votre voiture.
+- **Préconditionnement :** Préchauffez ou rafraîchissez votre voiture avant de commencer votre voyage pour un confort optimal.
+- **Verrouiller & Déverrouiller :** Verrouillez ou déverrouillez les portes de votre voiture en un seul clic.
+- **Ajuster la cible de charge :** Définissez votre niveau de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
+- **Trouver votre voiture :** Activez le klaxon ou les lumières pour retrouver votre voiture dans les zones bondées.
+
 ## Éclairage
 
 **Phares standard :** Ils utilisent une technologie LED avancée, offrant une illumination lumineuse et efficace.
@@ -273,6 +293,17 @@ Avec le système Cruise Control niveau 1, vous obtenez les fonctionnalités d'au
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
 Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et huit [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+
+## Sécurité
+
+Le Honda Prologue AWD est équipé de plusieurs airbags pour assurer la protection des occupants en cas de collision. Le système d'airbags comprend :
+
+- Airbags frontaux pour le conducteur et le passager avant
+- Airbags rideaux latéraux pour les première et deuxième rangées
+- Airbags latéraux pour le conducteur et le passager avant
+- Airbags genoux pour le conducteur et le passager avant
+
+De plus, les ceintures de sécurité avant et de la deuxième rangée sont équipées de prétensionneurs qui se resserrent automatiquement en cas de collision pour minimiser le risque de blessure.
 
 ## Technologies de sécurité et d'accès
 

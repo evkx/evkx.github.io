@@ -153,6 +153,13 @@ Anden række har en standard tresæders bænk med 60:40 opdeling, hvor hver sekt
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/secondrowseats_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
+### Indvendig opbevaring
+
+Honda Prologue AWD tilbyder rigelige opbevaringsløsninger i kabinen for at øge bekvemmelighed og organisation:
+
+- **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i det bageste armlæn.
+- **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af vigtige genstande.
+
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimasystem
@@ -168,6 +175,9 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 ## Komfortfunktioner
 
 Honda Prologue AWD inkluderer flere funktioner for at forbedre komfort og bekvemmelighed:
+
+- **Easy Entry Funktion:** Flytter førersædet for at lette indstigning i bilen.
+- **Trådløs telefonopladning**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -229,6 +239,16 @@ Honda Prologue AWD kommer med ét lydsystem:
 
 Derudover inkluderer modellen 5 USB-C tilslutninger som standard.
 
+## Mobil App
+
+Honda Prologue AWD kommer med en dedikeret mobilapp, tilgængelig til både Android og iOS-enheder, så du kan styre og overvåge din bil på afstand. Appen tilbyder en bred vifte af funktioner designet til at forbedre din køreoplevelse:
+
+- **Find din bil:** Se nemt bilens aktuelle placering.
+- **Forkonditionering:** Forvarm eller afkøl din bil, før du starter din rejse, for optimal komfort.
+- **Lås og lås op:** Lås eller lås dine bildøre op sikkert med et tryk.
+- **Juster ladeniveau:** Indstil dit ønskede ladeniveau for at starte eller stoppe opladningen efter behov.
+- **Find din bil:** Aktiver hornet eller lygterne for at hjælpe med at finde din bil i tætpakkede områder.
+
 ## Lygter
 
 **Standardforlygter:** Disse bruger avanceret LED-teknologi, som giver klar og effektiv belysning.
@@ -273,6 +293,17 @@ Med Cruise Control niveau 1-systemet får du følgende køreautomatiseringsfunkt
 
 Denne model bruger kameraer, radar og ultrasoniske sensorer til sine førerassistentsystemer.
 Op til fem [radar-sensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og otte [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+
+## Sikkerhed
+
+Honda Prologue AWD er udstyret med flere airbags for at sikre beskyttelse af passagererne i tilfælde af en kollision. Airbagsystemet omfatter:
+
+- Frontairbags til fører og forsædepassager
+- Gardinairbags til både første og anden række
+- Sideairbags til fører og forsædepassager
+- Knæairbags til fører og forsædepassager
+
+Derudover er både første og anden rækkes sikkerhedsseler udstyret med selestrammere, der strammes automatisk under en kollision for at minimere risikoen for skader.
 
 ## Sikkerheds- og adgangsteknologier
 

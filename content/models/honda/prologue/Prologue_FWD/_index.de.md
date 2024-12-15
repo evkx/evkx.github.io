@@ -152,6 +152,13 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Spl
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/secondrowseats_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
 
+### Innenraumaufbewahrung
+
+Der Honda Prologue FWD bietet zahlreiche Innenraumaufbewahrungslösungen, um Komfort und Organisation zu verbessern:
+
+- **Getränkehalter:** Zwei Getränkehalter befinden sich in der vorderen Mittelkonsole, mit zusätzlichen zwei im hinteren Armlehnenbereich.
+- **Handschuhfach:** Ein geräumiges Handschuhfach befindet sich im Armaturenbrett vor dem Beifahrer, ideal zum Aufbewahren von wichtigen Gegenständen.
+
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Klimaanlage
@@ -167,6 +174,9 @@ Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist 
 ## Komfortfunktionen
 
 Der Honda Prologue FWD umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
+
+- **Easy Entry-Funktion:** Bewegt den Fahrersitz, um den Einstieg ins Auto zu erleichtern.
+- **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -228,6 +238,16 @@ Der Honda Prologue FWD ist mit einer Soundsystemoption ausgestattet:
 
 Zusätzlich verfügt das Modell standardmäßig über 5 USB-C-Anschlüsse.
 
+## Mobile App
+
+Der Honda Prologue FWD wird mit einer speziellen mobilen App geliefert, die sowohl für Android- als auch für iOS-Geräte verfügbar ist und es Ihnen ermöglicht, Ihr Fahrzeug aus der Ferne zu verwalten und zu überwachen. Die App bietet eine Vielzahl von Funktionen, die Ihr Fahrerlebnis verbessern sollen:
+
+- **Finden Sie Ihr Fahrzeug:** Überprüfen Sie einfach den aktuellen Standort Ihres Autos.
+- **Vorkonditionierung:** Heizen oder kühlen Sie Ihr Auto vor, bevor Sie Ihre Reise beginnen, für optimalen Komfort.
+- **Verriegeln & Entriegeln:** Verriegeln oder entriegeln Sie Ihre Autotüren sicher mit einem Tipp.
+- **Ladeziel anpassen:** Stellen Sie Ihren gewünschten Ladezustand ein, um das Laden nach Bedarf zu starten oder zu stoppen.
+- **Finden Sie Ihr Auto:** Lösen Sie das Horn oder die Lichter aus, um Ihr Auto in überfüllten Bereichen zu finden.
+
 ## Lichter
 
 **Standard-Scheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung.
@@ -272,6 +292,17 @@ Mit dem Cruise Control Level 1 System erhalten Sie die folgenden Fahrautomatisie
 
 Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
 Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und acht [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+
+## Sicherheit
+
+Der Honda Prologue FWD ist mit mehreren Airbags ausgestattet, um den Insassenschutz im Falle eines Unfalls zu gewährleisten. Das Airbagsystem umfasst:
+
+- Frontairbags für Fahrer und Beifahrer
+- Seitliche Vorhangairbags für die erste und zweite Reihe
+- Seitenairbags für Fahrer und Beifahrer
+- Knieairbags für Fahrer und Beifahrer
+
+Zusätzlich sind die Sicherheitsgurte der ersten und zweiten Reihe mit Gurtstraffern ausgestattet, die sich bei einem Aufprall automatisch straffen, um das Verletzungsrisiko zu minimieren.
 
 ## Sicherheits- und Zugangstechnologien
 
