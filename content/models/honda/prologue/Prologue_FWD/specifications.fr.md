@@ -247,6 +247,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Largeur incluant les miroirs
+			</td>
+			<td>
+				2270 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Empattement
 			</td>
 			<td>
@@ -266,7 +274,23 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de voie arrière
 			</td>
 			<td>
-				1687 mm
+				1684 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angle d'approche
+			</td>
+			<td>
+				17,0
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angle de départ
+			</td>
+			<td>
+				18
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +298,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				12,1 mètre
+				10,5 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -331,7 +355,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				793 litre
+				714 litre
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +363,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1723 litre
+				1634 litre
 			</td>
 		</tr>
 		<tr>
@@ -356,6 +380,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				680 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Poids maximum de la boule de remorquage
+			</td>
+			<td>
+				68 kg
 			</td>
 		</tr>
 	</tbody>
@@ -513,7 +545,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Fonction électrique standard
+				Inconnu
 			</td>
 		</tr>
 		<tr>
@@ -521,7 +553,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Fonction électrique standard
+				Inconnu
 			</td>
 		</tr>
 		<tr>
@@ -529,7 +561,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Fonction électrique standard
+				Inconnu
 			</td>
 		</tr>
 		<tr>
@@ -537,7 +569,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Fonction électrique standard
+				Conducteur électrique standard, non disponible pour le passager
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +641,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Fonction électrique standard
+				Conducteur électrique standard, non disponible pour le passager
 			</td>
 		</tr>
 		<tr>
@@ -888,6 +920,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Avertissement de température
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -911,6 +944,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Direction d'urgence automatique
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -918,6 +952,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Reconnaissance des panneaux de signalisation
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -966,6 +1001,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle gestuel
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>

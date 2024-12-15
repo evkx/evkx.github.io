@@ -38,7 +38,7 @@ Det højkapacitets batteri har en brutto kapacitet på 123,0 kWh og en netto kap
 
 Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en rækkevidde på 320 miles (515 km) med et energiforbrug på 2,6 miles per kWh. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 250 kW. Opladning fra 0% til 100% tager cirka 78 minutter, mens et mere typisk scenario fra 10% til 80% tager 42 minutter med en gennemsnitlig ladehastighed på 121 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 0% til 37%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 154 kW, hvor hver opladningssession tager cirka 18 minutter og 38 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 325 kW. Opladning fra 0% til 100% tager cirka 78 minutter, mens et mere typisk scenario fra 10% til 80% tager 42 minutter med en gennemsnitlig ladehastighed på 121 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 0% til 37%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 154 kW, hvor hver opladningssession tager cirka 18 minutter og 38 sekunder.
 
 I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 30,0 kWh/100 km, ville turen tage cirka 9 timer og 30 minutter, med fire opladningsstop fra 0% til 37%, i alt 71 minutters opladningstid.
 

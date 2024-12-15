@@ -38,7 +38,7 @@ Batteriet med hög kapacitet har en bruttokapacitet på 123,0 kWh och en nettoan
 
 Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har fordonet en räckvidd på 340 miles (547 km) med en energiförbrukning på 2,8 miles per kWh. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Fordonet stöder snabbladdning med likström med en maximal effekt på 250 kW. Laddning från 0% till 100% tar ungefär 78 minuter, medan ett mer typiskt scenario från 10% till 80% tar 42 minuter med en genomsnittlig laddningshastighet på 121 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 0% till 37%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 154 kW, där varje laddningssession tar cirka 18 minuter och 38 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 325 kW. Laddning från 0% till 100% tar ungefär 78 minuter, medan ett mer typiskt scenario från 10% till 80% tar 42 minuter med en genomsnittlig laddningshastighet på 121 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 0% till 37%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 154 kW, där varje laddningssession tar cirka 18 minuter och 38 sekunder.
 
 I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 32 kWh/100 km, skulle resan ta ungefär 9 timmar och 38 minuter, med fyra laddningsstopp från 0% till 41%, totalt 79 minuters laddtid.
 

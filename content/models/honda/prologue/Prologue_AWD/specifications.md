@@ -263,6 +263,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Width including mirrors
+			</td>
+			<td>
+				2270 mm (89,4")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wheelbase
 			</td>
 			<td>
@@ -282,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1687 mm (66,4")
+				1684 mm (66,3")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Departure Angle
 			</td>
 			<td>
-				18
+				18,3
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				12,1 meter (476,4")
+				10,5 meter (413,4")
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +371,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				793 liter (28 cu-ft)
+				671 liter (24 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +379,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				1723 liter (61 cu-ft)
+				1300 liter (46 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -388,6 +396,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				680 kg (1499 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/hitchcargo/">Maximum tow ball weight</a>
+			</td>
+			<td>
+				68 kg (150 lbs)
 			</td>
 		</tr>
 	</tbody>
@@ -545,7 +561,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard electric feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +569,7 @@ This model is available with a seat configuration with five seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Standard electric feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +577,7 @@ This model is available with a seat configuration with five seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Standard electric feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +585,7 @@ This model is available with a seat configuration with five seats.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standard electric feature
+				Standard electric driver, not available passenger
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +657,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Standard electric feature
+				Standard electric driver, not available passenger
 			</td>
 		</tr>
 		<tr>
@@ -803,6 +819,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/driverdrowsinessdetection/">Drowsiness Alert</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -919,6 +936,7 @@ This model is available with a seat configuration with five seats.
 				Temperature warning
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -942,6 +960,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +968,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/trafficsignrecognition/">Traffic Sign Recognition</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -997,6 +1017,7 @@ This model is available with a seat configuration with five seats.
 				Gesture control
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>

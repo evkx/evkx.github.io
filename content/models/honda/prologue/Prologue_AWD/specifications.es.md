@@ -263,6 +263,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Ancho incluyendo espejos
+			</td>
+			<td>
+				2270 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Distancia entre ejes
 			</td>
 			<td>
@@ -282,7 +290,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1687 mm
+				1684 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +306,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ángulo de salida
 			</td>
 			<td>
-				18
+				18,3
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +314,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				12,1 metros
+				10,5 metros
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +371,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				793 litro
+				671 litro
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +379,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1723 litro
+				1300 litro
 			</td>
 		</tr>
 		<tr>
@@ -388,6 +396,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				680 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peso máximo de la bola de remolque
+			</td>
+			<td>
+				68 kg
 			</td>
 		</tr>
 	</tbody>
@@ -545,7 +561,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Función eléctrica estándar
+				Desconocido
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +569,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Función eléctrica estándar
+				Desconocido
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +577,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Función eléctrica estándar
+				Desconocido
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +585,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Función eléctrica estándar
+				Conductor eléctrico estándar, no disponible para el pasajero
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +657,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Función eléctrica estándar
+				Conductor eléctrico estándar, no disponible para el pasajero
 			</td>
 		</tr>
 		<tr>
@@ -803,6 +819,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Alerta de somnolencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -919,6 +936,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Advertencia de temperatura
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -942,6 +960,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Dirección automática de emergencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +968,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reconocimiento de señales de tráfico
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -997,6 +1017,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control de gestos
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>

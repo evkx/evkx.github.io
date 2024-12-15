@@ -129,6 +129,50 @@ Tabellen nedan visar några uppskattade räckvidder i verklig körning under per
 	<tbody>
 		<tr>
 			<td>
+				90km/h/56mph perfekta förhållanden
+			</td>
+			<td>
+				520km / 323 mi
+			</td>
+			<td>
+				17,5 kWh/100km / 3,6 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90km/h/56mph med 2KW uppvärmning
+			</td>
+			<td>
+				475km /286mi
+			</td>
+			<td>
+				19,7 kWh/100km /3,2 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70mph/112km/h perfekta förhållanden
+			</td>
+			<td>
+				404 km / 251 mi
+			</td>
+			<td>
+				22,5 kWh/100km / 2,8 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70mph/112km/h med 2KW uppvärmning
+			</td>
+			<td>
+				374km / 232mi
+			</td>
+			<td>
+				24,3 kWh/100km / 2,6 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
 				120km/h/75mph perfekta förhållanden
 			</td>
 			<td>

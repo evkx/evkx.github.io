@@ -53,6 +53,10 @@ Das Standard-Bordladegerät unterstützt bis zu 11,5 kW für Level 1 und Level 2
 
 Der Ladeanschluss befindet sich an der [linken Vorderseite](../../../../technology/charging/connectors/#front-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie seitlich zum Ladegerät parken.
 
+### Bidirektionales Laden
+
+Dieses Modell unterstützt V2L (Vehicle 2 Load), was bedeutet, dass Sie elektrische Geräte mit bis zu 1800 kW Leistung betreiben können, einschließlich des Ladens anderer Fahrzeuge.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -68,6 +72,13 @@ Die standard Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit 
 ### Lenkung
 
 Die dynamische Lenkung ist eine standard im Honda Prologue AWD, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
+
+### Fahrmodi
+
+Der Honda Prologue AWD ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 2 Modi wählen:
+
+- Normal: Ausgewogene Lenkung und effizientes Gas.
+- Sport: Ausgewogene Lenkung und Gas.
 
 ### Bremsen
 
@@ -96,6 +107,8 @@ Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heck
 
 Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach hat ein großes Panoramadach, das sich von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können. Optional können Sie dieses Modell mit einem Panoramadach bestellen, das geöffnet werden kann. Das Glas hat zwei Paneele. Eines über der ersten und eines über der zweiten Reihe, und die Insassen können den vorderen Teil öffnen. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 
+Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
+
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/exterior_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
@@ -116,13 +129,10 @@ Der Honda Prologue AWD bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
-- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
-- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
-- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
-- [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
+- [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar für Fahrer, nicht verfügbar für Beifahrer)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
-- [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
+- [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar für Fahrer, nicht verfügbar für Beifahrer)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 Verfügbar in:
@@ -182,7 +192,7 @@ Ein Head-up-Display ist ein eine optionale-System, das Geschwindigkeit und ander
 
 Der Honda Prologue AWD ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es umfasst auch physische Tasten, Kippschalter und Schaltwippen, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen problemlos verwalten können.
 
 ### Spiegel
 
@@ -276,7 +286,7 @@ Der Honda Prologue AWD ist mit fortschrittlichen Sicherheitsfunktionen ausgestat
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 793 Litern (28,0 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1723 Liter (60,8 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Optionale Dachreling ist verfügbar, um eine Dachbox oder einen Dachträger einfach zu montieren.
+Der Kofferraum bietet ein Ladevolumen von 671 Litern (23,7 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1300 Liter (45,9 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Optionale Dachreling ist verfügbar, um eine Dachbox oder einen Dachträger einfach zu montieren.
 
 Das maximale Gewicht des Fahrzeugs beträgt 2845 kg (6272 lbs) bei einem Leergewicht von 2306 kg (5084 lbs). Dies ermöglicht eine maximale Zuladung von 539 kg (1188 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
@@ -301,7 +311,10 @@ Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Honda Prolo
 - [Chevrolet Blazer EV RS AWD](/models/chevrolet/blazer_ev/blazer_ev_rs_awd/)
 - [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
 - [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
+- [Nissan Ariya 87kWh e-4ORCE](/models/nissan/ariya/ariya_87kwh_e-4orce/)
 
-<a href="https://db.evkx.net/evcompare?evs=4e00cd%2c31cf92%2cad3cd5%2c0cb6ee" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+<a href="https://db.evkx.net/evcompare?evs=4e00cd%2c31cf92%2cad3cd5%2c0cb6ee%2c546c35%2c3129cf%2c2297fd" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="Honda Prologue" f_url="rangeandconsumption/" f_title="Reichweite" >}}

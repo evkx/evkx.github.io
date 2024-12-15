@@ -263,6 +263,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Breite inklusive Spiegel
+			</td>
+			<td>
+				2270 mm (89,4")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Radstand
 			</td>
 			<td>
@@ -282,7 +290,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Spurweite hinten
 			</td>
 			<td>
-				1687 mm (66,4")
+				1684 mm (66,3")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +306,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Böschungswinkel hinten
 			</td>
 			<td>
-				18
+				18,3
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +314,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Wendekreis
 			</td>
 			<td>
-				12,1 Meter (476,4")
+				10,5 Meter (413,4")
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +371,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen
 			</td>
 			<td>
-				793 Liter (28 cu-ft)
+				671 Liter (24 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +379,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
 			</td>
 			<td>
-				1723 Liter (61 cu-ft)
+				1300 Liter (46 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -388,6 +396,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				680 kg (1499 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximale Stützlast
+			</td>
+			<td>
+				68 kg (150 lbs)
 			</td>
 		</tr>
 	</tbody>
@@ -545,7 +561,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitztiefenverstellung
 			</td>
 			<td>
-				Standard elektrische Funktion
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +569,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Standard elektrische Funktion
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +577,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellung des Rückenlehnenwinkels
 			</td>
 			<td>
-				Standard elektrische Funktion
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +585,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standard elektrische Funktion
+				Standard elektrischer Fahrer, nicht verfügbar für Beifahrer
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +657,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Elektrische Lendenwirbelstütze
 			</td>
 			<td>
-				Standard elektrische Funktion
+				Standard elektrischer Fahrer, nicht verfügbar für Beifahrer
 			</td>
 		</tr>
 		<tr>
@@ -803,6 +819,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Müdigkeitswarnung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -919,6 +936,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Temperaturwarnung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -942,6 +960,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Automatische Notlenkung
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +968,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verkehrszeichenerkennung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -997,6 +1017,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Gestensteuerung
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

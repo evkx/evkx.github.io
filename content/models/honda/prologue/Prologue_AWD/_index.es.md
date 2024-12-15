@@ -53,6 +53,10 @@ El cargador a bordo estándar admite hasta 11,5 kW para carga AC de Nivel 1 y Ni
 
 La ubicación del puerto de carga está en el [lado delantero izquierdo](../../../../technology/charging/connectors/#front-side). Esta ubicación facilita el uso de estaciones de carga donde estaciona de lado hacia el cargador.
 
+### Carga Bidireccional
+
+Este modelo admite V2L (Vehículo a Carga), lo que le permite alimentar equipos eléctricos que requieren hasta 1800 kW de potencia, incluida la capacidad de cargar otros vehículos.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -68,6 +72,13 @@ La suspensión del standard tiene una altura y amortiguación fijas. La distanci
 ### Dirección
 
 La dirección dinámica es una característica estándar en el Honda Prologue AWD, variando la relación de dirección según la velocidad de conducción para un control y comodidad mejorados.
+
+### Modos de Conducción
+
+El Honda Prologue AWD permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 2 modos:
+
+- Normal: Dirección y aceleración eficientes.
+- Sport: Dirección y aceleración equilibradas.
 
 ### Frenos
 
@@ -96,6 +107,8 @@ El coche tiene cuatro [puertas regulares](../../../../technology/doors/) y un [p
 
 Hay dos opciones de techo diferentes para elegir. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden usar para protegerse del sol. Como opción, puede pedir este modelo con un techo panorámico que se puede abrir. El vidrio tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir la parte delantera. Tiene una cortina eléctrica que los ocupantes pueden usar para protegerse del sol.
 
+Las ventanas desde el pilar B hacia atrás están tintadas, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
+
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/exterior_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
@@ -116,13 +129,10 @@ El Honda Prologue AWD ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****:
 
-- [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
-- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
-- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
-- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste eléctrico)
+- [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste eléctrico para el conductor, no disponible para el pasajero)
 - Reposacabezas ajustable en altura
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
-- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
+- [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico para el conductor, no disponible para el pasajero)
 - [Ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
 
 Disponible en:
@@ -182,7 +192,7 @@ Un sistema de visualización frontal es una opción que proyecta la velocidad y 
 
 El Honda Prologue AWD está equipado con un solo tipo de volante:
 
-- **Volante Circular:** Este volante proporciona un control intuitivo sobre el sistema de infoentretenimiento, lo que le permite ajustar fácilmente el volumen, cambiar pistas de música y gestionar otras funciones clave.
+- **Volante Circular:** Este volante cuenta con calefacción integrada para mayor comodidad durante el clima frío. También incluye botones físicos, interruptores de palanca y levas de cambio, lo que le permite controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar pistas de música y gestionar otras funciones clave con facilidad.
 
 ### Espejos
 
@@ -276,7 +286,7 @@ El Honda Prologue AWD está equipado con características de seguridad avanzadas
 
 ## Capacidad de Carga y Remolque
 
-El maletero ofrece una capacidad de carga de 793 litros (28,0 pies cúbicos). Con el asiento trasero abatido, esto se expande a 1723 litros (60,8 pies cúbicos). En el techo, puede cargar hasta 75 kg (165,3 libras). Los rieles del techo opcionales están disponibles para facilitar el montaje de una caja o portaequipajes en el techo.
+El maletero ofrece una capacidad de carga de 671 litros (23,7 pies cúbicos). Con el asiento trasero abatido, esto se expande a 1300 litros (45,9 pies cúbicos). En el techo, puede cargar hasta 75 kg (165,3 libras). Los rieles del techo opcionales están disponibles para facilitar el montaje de una caja o portaequipajes en el techo.
 
 El peso máximo del vehículo es de 2845 kg (6272 libras), con un peso base de 2306 kg (5084 libras). Esto permite una carga máxima de 539 kg (1188 libras), incluyendo el conductor y los pasajeros. Tenga en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
@@ -301,7 +311,10 @@ En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha ident
 - [Chevrolet Blazer EV RS AWD](/models/chevrolet/blazer_ev/blazer_ev_rs_awd/)
 - [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
 - [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
+- [Nissan Ariya 87kWh e-4ORCE](/models/nissan/ariya/ariya_87kwh_e-4orce/)
 
-<a href="https://db.evkx.net/evcompare?evs=4e00cd%2c31cf92%2cad3cd5%2c0cb6ee" target="_blank">Explore una comparación detallada de estos modelos.</a>
+<a href="https://db.evkx.net/evcompare?evs=4e00cd%2c31cf92%2cad3cd5%2c0cb6ee%2c546c35%2c3129cf%2c2297fd" target="_blank">Explore una comparación detallada de estos modelos.</a>
 
 {{< pagenavigation b_url="../" b_title="Honda Prologue" f_url="rangeandconsumption/" f_title="Autonomía" >}}

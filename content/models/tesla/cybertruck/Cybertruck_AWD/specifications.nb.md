@@ -134,7 +134,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks DC-lading
 			</td>
 			<td>
-				250 kW
+				325 kW
 			</td>
 		</tr>
 		<tr>

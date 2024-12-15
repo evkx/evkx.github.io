@@ -263,6 +263,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Bredde inkludert speil
+			</td>
+			<td>
+				2270 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Akselavstand
 			</td>
 			<td>
@@ -282,7 +290,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Sporbredde bak
 			</td>
 			<td>
-				1687 mm
+				1684 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +306,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Avgangsvinkel
 			</td>
 			<td>
-				18
+				18,3
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +314,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				12,1 meter
+				10,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +371,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse bagasjerom
 			</td>
 			<td>
-				793 liter
+				671 liter
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +379,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				1723 liter
+				1300 liter
 			</td>
 		</tr>
 		<tr>
@@ -388,6 +396,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				680 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksvekt på tilhengerkobling
+			</td>
+			<td>
+				68 kg
 			</td>
 		</tr>
 	</tbody>
@@ -545,7 +561,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standard elektrisk funksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +569,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setehøyde
 			</td>
 			<td>
-				Standard elektrisk funksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +577,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøttevinkel
 			</td>
 			<td>
-				Standard elektrisk funksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +585,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standard elektrisk funksjon
+				Standard elektrisk fører, ikke tilgjengelig for passasjer
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +657,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standard elektrisk funksjon
+				Standard elektrisk fører, ikke tilgjengelig for passasjer
 			</td>
 		</tr>
 		<tr>
@@ -803,6 +819,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Døsighetsvarsel
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -919,6 +936,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Temperaturadvarsel
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -942,6 +960,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Automatisk nødstyring
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +968,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -997,6 +1017,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Gesture control
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

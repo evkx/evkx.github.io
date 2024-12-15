@@ -53,6 +53,10 @@ The standard onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC c
 
 The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger.
 
+### Bidirectional Charging
+
+This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 1800 kW of power, including the ability to charge other vehicles.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -68,6 +72,13 @@ The standard suspension has a fixed height and damping. The ground clearance wit
 ### Steering
 
 Dynamic steering is a standard on the Honda Prologue AWD, varying the steering ratio based on driving speed for enhanced control and comfort.
+
+### Drive Modes
+
+The Honda Prologue AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 2 modes:
+
+- Normal: Balanced steering and efficent throttle.
+- Sport: Balanced steering and throttle.
 
 ### Brakes
 
@@ -96,6 +107,8 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are two different roof options to select from. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun. As an option, you can order this model with a panoramic roof that can be opened. The glass has two panels. One over the first and the second rows, and occupants can open the front part. It has an electric curtain that occupants can use to protect against the sun.
 
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
+
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/exterior_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
@@ -116,13 +129,10 @@ The Honda Prologue AWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
 
-- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
-- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
-- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
-- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
+- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable for driver, not available for passenger)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
-- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
+- [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable for driver, not available for passenger)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 Available in:
@@ -182,7 +192,7 @@ A head-up display is an optional system that projects speed and other important 
 
 The Honda Prologue AWD is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes physical buttons, toggle switches, and paddle shifters, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 
@@ -276,7 +286,7 @@ The Honda Prologue AWD is equipped with advanced security features to protect yo
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 793 liters (28.0 CU FT). With the rear seat folded down, this expands to 1723 liters (60.8 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 671 liters (23.7 CU FT). With the rear seat folded down, this expands to 1300 liters (45.9 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 2845 kg (6272 lbs), with a base weight of 2306 kg (5084 lbs). This allows for a maximum load of 539 kg (1188 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
@@ -301,7 +311,10 @@ In the rapidly expanding EV market, EVKX.net has identified several alternatives
 - [Chevrolet Blazer EV RS AWD](/models/chevrolet/blazer_ev/blazer_ev_rs_awd/)
 - [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
 - [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
+- [Nissan Ariya 87kWh e-4ORCE](/models/nissan/ariya/ariya_87kwh_e-4orce/)
 
-<a href="https://db.evkx.net/evcompare?evs=4e00cd%2c31cf92%2cad3cd5%2c0cb6ee" target="_blank">Explore a detailed comparison of these models.</a>
+<a href="https://db.evkx.net/evcompare?evs=4e00cd%2c31cf92%2cad3cd5%2c0cb6ee%2c546c35%2c3129cf%2c2297fd" target="_blank">Explore a detailed comparison of these models.</a>
 
 {{< pagenavigation b_url="../" b_title="Honda Prologue" f_url="rangeandconsumption/" f_title="Range" >}}

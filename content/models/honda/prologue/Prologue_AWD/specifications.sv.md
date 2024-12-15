@@ -263,6 +263,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Bredd inklusive speglar
+			</td>
+			<td>
+				2270 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Axelavstånd
 			</td>
 			<td>
@@ -282,7 +290,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Spårbredd bak
 			</td>
 			<td>
-				1687 mm
+				1684 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +306,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Avgångsvinkel
 			</td>
 			<td>
-				18
+				18,3
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +314,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				12,1 meter
+				10,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +371,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym
 			</td>
 			<td>
-				793 liter
+				671 liter
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +379,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
-				1723 liter
+				1300 liter
 			</td>
 		</tr>
 		<tr>
@@ -388,6 +396,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				680 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Släpvagnskopplingens maximala vikt
+			</td>
+			<td>
+				68 kg
 			</td>
 		</tr>
 	</tbody>
@@ -545,7 +561,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering sätesdjup
 			</td>
 			<td>
-				Standard elektrisk funktion
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +569,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering säteshöjd
 			</td>
 			<td>
-				Standard elektrisk funktion
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +577,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering ryggstödsvinkel
 			</td>
 			<td>
-				Standard elektrisk funktion
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +585,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standard elektrisk funktion
+				Standard elektrisk förare, inte tillgänglig för passagerare
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +657,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				Standard elektrisk funktion
+				Standard elektrisk förare, inte tillgänglig för passagerare
 			</td>
 		</tr>
 		<tr>
@@ -803,6 +819,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Trötthetsvarnare
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -919,6 +936,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Temperature Warning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -942,6 +960,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Autonom nödstyrning
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +968,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Skyltigenkänning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -997,6 +1017,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Gestkontroll
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

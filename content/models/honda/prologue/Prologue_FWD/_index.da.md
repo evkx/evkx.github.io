@@ -52,6 +52,10 @@ Den standard indbyggede oplader understøtter op til 11,5 kW for Level 1 og Leve
 
 Ladeporten er placeret på [venstre frontside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at bruge ladestationer, hvor du parkerer siden ind mod laderen.
 
+### Tovejs opladning
+
+Denne model understøtter V2L (Vehicle to Load), som gør det muligt at forsyne elektrisk udstyr med op til 1800 kW strøm, inklusive muligheden for at oplade andre køretøjer.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -67,6 +71,13 @@ standard affjedringen har fast højde og dæmpning. Frihøjden med denne affjedr
 ### Styring
 
 Dynamisk styring er standard på Honda Prologue FWD, hvor styringsforholdet varierer baseret på kørehastighed for forbedret kontrol og komfort.
+
+### Køretilstande
+
+Honda Prologue FWD lader brugeren vælge forskellige [køretilstande](../../../../technology/drivemodes/) som påvirker bilens håndtering. Føreren kan vælge mellem 2 tilstande:
+
+- Normal: Afbalanceret styring og effektiv gaspedal.
+- Sport: Afbalanceret styring og gaspedal.
 
 ### Bremser
 
@@ -95,6 +106,8 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap
 
 Der er to forskellige tagmuligheder at vælge imellem. Standardtaget har et stort panoramatag, der strækker sig fra for til bag. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passagererne. Det har et elektrisk gardin, som passagererne kan bruge til beskyttelse mod solen. Som ekstraudstyr kan du bestille denne model med et panoramatag, der kan åbnes. Glasset har to paneler. Et over første og andet sæde, og passagererne kan åbne den forreste del. Det har et elektrisk gardin, som passagererne kan bruge til beskyttelse mod solen.
 
+Ruderne fra B-søjlen og bagud er tonede, hvilket øger privatlivets fred og reducerer blænding og varme fra solen, hvilket gør kabinen mere behagelig for passagererne.
+
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/exterior_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
@@ -115,13 +128,10 @@ Honda Prologue FWD tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **** sædet:
 
-- [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
-- [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
-- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar for fører, ikke tilgængelig for passager)
 - Højdejusterbar nakkestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)
-- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar for fører, ikke tilgængelig for passager)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (ekstraudstyr)
 
 Fås med:
@@ -181,7 +191,7 @@ Et head-up display er et valgfrit system, der projicerer hastighed og anden vigt
 
 Honda Prologue FWD er udstyret med én type rat:
 
-- **Cirkulært rat:** Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og håndtere andre vigtige funktioner.
+- **Cirkulært Rat:** Dette rat har integreret opvarmning for ekstra komfort i koldt vejr. Det inkluderer også fysiske knapper, vippekontakter og skiftepaler, så du kan styre infotainmentsystemet, justere lydstyrken, skifte musiknumre og administrere andre vigtige funktioner med lethed.
 
 ### Spejle
 
@@ -275,7 +285,7 @@ Honda Prologue FWD er udstyret med avancerede sikkerhedsfunktioner for at beskyt
 
 ## Lastkapacitet og trækkraft
 
-Bagagerummet har en lastkapacitet på 793 liter (28,0 CU FT). Med bagsædet lagt ned udvides dette til 1723 liter (60,8 CU FT). På taget kan du laste op til 75 kg (165,3 lbs). Tagbøjler fås som ekstraudstyr for nem montering af tagboks eller lastbærer.
+Bagagerummet har en lastkapacitet på 714 liter (25,2 CU FT). Med bagsædet lagt ned udvides dette til 1634 liter (57,7 CU FT). På taget kan du laste op til 75 kg (165,3 lbs). Tagbøjler fås som ekstraudstyr for nem montering af tagboks eller lastbærer.
 
 Køretøjets maksimale vægt er 2730 kg (6019 lbs), med en egenvægt på 2237 kg (4932 lbs). Dette giver en maksimal last på 493 kg (1087 lbs), inklusive fører og passagerer. Bemærk at nogle tilvalg kan øge egenvægten og reducere den maksimale lasteevne. 493kg anses for at være lavt for denne type bil og kan begrænse hvor meget du kan medbringe ud over passagerer.
 

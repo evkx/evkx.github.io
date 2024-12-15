@@ -53,6 +53,10 @@ Den standard inbyggda laddaren stöder upp till 11,5 kW för nivå 1 och nivå 2
 
 Laddningsporten är placerad på [vänster framsida](../../../../technology/charging/connectors/#front-side). Detta gör det enkelt att använda laddstationer där du parkerar vid sidan av laddaren.
 
+### Dubbelriktad laddning
+
+Denna modell stödjer V2L (Vehicle to Load), vilket låter dig driva elektrisk utrustning som kräver upp till 1800 kW effekt, inklusive möjligheten att ladda andra fordon.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -68,6 +72,13 @@ standards fjädring har fast höjd och dämpning. Markfrigången med denna fjäd
 ### Styrning
 
 Dynamisk styrning är standard på Honda Prologue AWD, vilket varierar styrförhållandet baserat på körhastighet för förbättrad kontroll och komfort.
+
+### Körlägen
+
+Honda Prologue AWD låter användaren välja olika [körlägen](../../../../technology/drivemodes/) som påverkar bilens köregenskaper. Föraren kan välja mellan 2 lägen:
+
+- Normal: Balanserad styrning och effektiv gasrespons.
+- Sport: Balanserad styrning och gasrespons.
 
 ### Bromsar
 
@@ -96,6 +107,8 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka
 
 Det finns två olika takalternativ att välja mellan. Standardtaket har ett stort panoramatak som sträcker sig från fram till bak. Detta glas får bilens interiör att kännas mer rymlig och ljus, vilket kan förbättra stämningen och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen. Som tillval kan du beställa denna modell med ett öppningsbart panoramatak. Glastaket har två paneler, en över första raden och en över andra raden, där den främre delen kan öppnas. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
+Rutorna från B-stolpen och bakåt är tonade, vilket ökar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
+
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/exterior_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
@@ -116,13 +129,10 @@ Honda Prologue AWD erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **** sätet:
 
-- [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
-- [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
-- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
-- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
+- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar för förare, ej tillgänglig för passagerare)
 - Höjdjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
-- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
+- [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar för förare, ej tillgänglig för passagerare)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
 
 Finns tillgänglig i:
@@ -182,7 +192,7 @@ En head-up display är ett tillval system som projicerar hastighet och annan vik
 
 Honda Prologue AWD är utrustad med endast en typ av ratt:
 
-- **Rund ratt:** Denna ratt erbjuder intuitiv kontroll över infotainmentsystemet, vilket låter dig enkelt justera volymen, byta musik och hantera andra viktiga funktioner.
+- **Cirkulär Ratt:** Denna ratt har integrerad uppvärmning för extra komfort under kallt väder. Den inkluderar också fysiska knappar, vippströmbrytare och växelpaddlar, vilket gör att du kan kontrollera infotainmentsystemet, justera volymen, byta musikspår och hantera andra viktiga funktioner med lätthet.
 
 ### Speglar
 
@@ -276,7 +286,7 @@ Honda Prologue AWD är utrustad med avancerade säkerhetsfunktioner för att sky
 
 ## Lastkapacitet och dragförmåga
 
-Bagageutrymmet har en lastkapacitet på 793 liter (28,0 kubikfot). Med baksätet nedfällt ökar detta till 1723 liter (60,8 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs). Takräcken finns som tillval för enkel montering av takbox eller lasthållare.
+Bagageutrymmet har en lastkapacitet på 671 liter (23,7 kubikfot). Med baksätet nedfällt ökar detta till 1300 liter (45,9 kubikfot). På taket kan du lasta upp till 75 kg (165,3 lbs). Takräcken finns som tillval för enkel montering av takbox eller lasthållare.
 
 Fordonets maximala vikt är 2845 kg (6272 lbs), med en tjänstevikt på 2306 kg (5084 lbs). Detta möjliggör en maximal last på 539 kg (1188 lbs), inklusive förare och passagerare. Observera att vissa tillval kan öka tjänstevikten och minska den maximala lastkapaciteten.
 
@@ -301,7 +311,10 @@ På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternat
 - [Chevrolet Blazer EV RS AWD](/models/chevrolet/blazer_ev/blazer_ev_rs_awd/)
 - [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
 - [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
+- [Nissan Ariya 87kWh e-4ORCE](/models/nissan/ariya/ariya_87kwh_e-4orce/)
 
-<a href="https://db.evkx.net/evcompare?evs=4e00cd%2c31cf92%2cad3cd5%2c0cb6ee" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
+<a href="https://db.evkx.net/evcompare?evs=4e00cd%2c31cf92%2cad3cd5%2c0cb6ee%2c546c35%2c3129cf%2c2297fd" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="Honda Prologue" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

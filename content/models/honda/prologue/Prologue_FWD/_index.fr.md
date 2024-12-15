@@ -52,6 +52,10 @@ Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge A
 
 L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite l'utilisation des stations de charge où vous vous garez de côté par rapport au chargeur.
 
+### Charge bidirectionnelle
+
+Ce modèle prend en charge le V2L (Vehicle to Load), vous permettant d'alimenter des équipements électriques nécessitant jusqu'à 1800 kW de puissance, y compris la possibilité de charger d'autres véhicules.
+
 {{<evkxdisplayaddarticle />}}
 
 <a id="section-drivetrain" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
@@ -67,6 +71,13 @@ La suspension du standard a une hauteur et un amortissement fixes. La garde au s
 ### Direction
 
 La direction dynamique est un standard sur le Honda Prologue FWD, variant le rapport de direction en fonction de la vitesse de conduite pour un contrôle et un confort accrus.
+
+### Modes de Conduite
+
+Le Honda Prologue FWD permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la maniabilité de la voiture. Le conducteur peut choisir entre 2 modes :
+
+- Normal : Direction et accélérateur efficaces équilibrés.
+- Sport : Direction et accélérateur équilibrés.
 
 ### Freins
 
@@ -95,6 +106,8 @@ La voiture a quatre [portes régulières](../../../../technology/doors/) et un [
 
 Il y a deux options de toit différentes à sélectionner. Le toit standard a un grand toit panoramique s'étendant de l'avant à l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil. En option, vous pouvez commander ce modèle avec un toit panoramique ouvrant. Le verre est composé de deux panneaux. Un sur la première et la deuxième rangée, et les occupants peuvent ouvrir la partie avant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
+Les vitres à partir du montant B et vers l'arrière sont teintées, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
+
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/exterior_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
@@ -115,13 +128,10 @@ Le Honda Prologue FWD propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **** :
 
-- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
-- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
-- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
-- [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
+- [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement pour le conducteur, non disponible pour le passager)
 - Appuie-tête réglable en hauteur
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
-- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
+- [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement pour le conducteur, non disponible pour le passager)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 
 Disponible en :
@@ -181,7 +191,7 @@ Un affichage tête haute est un système une option qui projette la vitesse et d
 
 Le Honda Prologue FWD est équipé d'un seul type de volant :
 
-- **Volant Circulaire :** Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler facilement le volume, de changer de piste musicale et de gérer d'autres fonctions clés.
+- **Volant Circulaire:** Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques, des interrupteurs à bascule et des palettes de changement de vitesse, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer d'autres fonctions clés avec facilité.
 
 ### Rétroviseurs
 
@@ -275,7 +285,7 @@ Le Honda Prologue FWD est équipé de fonctionnalités de sécurité avancées p
 
 ## Capacité de Chargement et Aptitude au Remorquage
 
-Le coffre offre une capacité de chargement de 793 litres (28,0 CU FT). Avec le siège arrière rabattu, cela s'étend à 1723 litres (60,8 CU FT). Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Des rails de toit en option sont disponibles pour un montage facile d'une boîte de toit ou d'un porte-bagages.
+Le coffre offre une capacité de chargement de 714 litres (25,2 CU FT). Avec le siège arrière rabattu, cela s'étend à 1634 litres (57,7 CU FT). Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Des rails de toit en option sont disponibles pour un montage facile d'une boîte de toit ou d'un porte-bagages.
 
 Le poids maximal du véhicule est de 2730 kg (6019 lbs), avec un poids de base de 2237 kg (4932 lbs). Cela permet une charge maximale de 493 kg (1087 lbs), y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité de charge maximale. 493kg est considéré comme faible pour ce type de voiture et pourrait limiter la quantité de choses que vous pouvez apporter en plus des passagers.
 

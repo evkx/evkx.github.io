@@ -263,6 +263,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Bredde inklusive spejle
+			</td>
+			<td>
+				2270 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wheelbase
 			</td>
 			<td>
@@ -282,7 +290,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1687 mm
+				1684 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +306,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Afgangsvinkel
 			</td>
 			<td>
-				18
+				18,3
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +314,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				12,1 meter
+				10,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +371,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				793 liter
+				671 liter
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +379,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1723 liter
+				1300 liter
 			</td>
 		</tr>
 		<tr>
@@ -388,6 +396,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				680 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksimal trækkuglevægt
+			</td>
+			<td>
+				68 kg
 			</td>
 		</tr>
 	</tbody>
@@ -545,7 +561,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædedybdejustering
 			</td>
 			<td>
-				Standard elektrisk funktion
+				Ukendt
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +569,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædehøjdejustering
 			</td>
 			<td>
-				Standard elektrisk funktion
+				Ukendt
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +577,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af ryglænets vinkel
 			</td>
 			<td>
-				Standard elektrisk funktion
+				Ukendt
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +585,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standard elektrisk funktion
+				Standard elektrisk fører, ikke tilgængelig for passager
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +657,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Elektrisk lændejustering
 			</td>
 			<td>
-				Standard elektrisk funktion
+				Standard elektrisk fører, ikke tilgængelig for passager
 			</td>
 		</tr>
 		<tr>
@@ -803,6 +819,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Døsighedsalarm
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -919,6 +936,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Temperaturadvarsel
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -942,6 +960,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Automatisk nødstyring
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +968,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Traffic Sign Recognition
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -997,6 +1017,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Bevægelseskontrol
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
