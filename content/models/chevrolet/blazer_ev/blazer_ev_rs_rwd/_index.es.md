@@ -34,17 +34,17 @@ El Chevrolet Blazer EV RS RWD ofrece un rendimiento sólido con una potencia má
 
 ## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 112,5 kWh y una capacidad neta utilizable de 107,5 kWh, proporcionando un buffer de 5,0 kWh (4,4%) para la protección de la batería. Con un voltaje nominal de 355,2 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 93,0 kWh y una capacidad neta utilizable de 91,0 kWh, proporcionando un buffer de 2,0 kWh (2,2%) para la protección de la batería. Con un voltaje nominal de 296 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
-Según el estándar [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 279 millas (449 km) con una tasa de consumo de energía de 2,6 millas por kWh. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
+Según el estándar [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 279 millas (449 km) con una tasa de consumo de energía de 3,1 millas por kWh. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-El vehículo admite carga rápida DC con una potencia máxima de 190 kW. Cargar del 0% al 100% toma aproximadamente 91 minutos, mientras que un escenario más típico del 10% al 80% toma 48 minutos con una velocidad de carga promedio de 95 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 6% al 57%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 103 kW, con cada sesión de carga tomando aproximadamente 32 minutos y 60 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 150 kW. Cargar del 0% al 100% toma aproximadamente 87 minutos, mientras que un escenario más típico del 10% al 80% toma 35 minutos con una velocidad de carga promedio de 110 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 1% al 58%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 107 kW, con cada sesión de carga tomando aproximadamente 29 minutos y 5 segundos.
 
-En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 24,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 41 minutos, requiriendo tres paradas de carga del 7% al 50%, totalizando 81 minutos de tiempo de carga.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 24,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 47 minutos, requiriendo tres paradas de carga del 1% al 58%, totalizando 87 minutos de tiempo de carga.
 
 ### Cargador a Bordo
 
-El cargador a bordo estándar admite hasta 11,5 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 9 horas y 20 minutos usando una configuración doméstica.
+El cargador a bordo estándar admite hasta 11,5 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 7 horas y 54 minutos usando una configuración doméstica.
 
 ### Puerto de Carga
 

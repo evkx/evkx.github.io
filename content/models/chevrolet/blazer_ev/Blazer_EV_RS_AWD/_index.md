@@ -38,9 +38,9 @@ The high-capacity battery has a gross capacity of 93.0 kWh and a net usable capa
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 279 miles (449 km) with an energy consumption rate of 3.1 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 77 minutes, while a more typical scenario from 10% to 80% takes 40 minutes with an average charging speed of 95 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 58%. This results in an effective charging speed, including time lost, of 100 kW, with each charging session taking about 28 minutes and 23 seconds.
+The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 87 minutes, while a more typical scenario from 10% to 80% takes 35 minutes with an average charging speed of 110 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 58%. This results in an effective charging speed, including time lost, of 107 kW, with each charging session taking about 29 minutes and 5 seconds.
 
-In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 25 kWh/100 km, the trip would take about 9 hours and 56 minutes, requiring four charging stops from 7% to 51%, totaling 97 minutes of charging time.
+In a 1000 km challenge at a constant speed of 120 km/h (75 mph) with an assumed consumption rate of 25 kWh/100 km, the trip would take about 9 hours and 50 minutes, requiring three charging stops from 1% to 60%, totaling 90 minutes of charging time.
 
 ### Onboard Charger
 

@@ -34,17 +34,17 @@ Chevrolet Blazer EV RS RWD leverer en solid præstation med en maksimal effekt p
 
 ## Batteri, Rækkevidde og Opladning
 
-Det højkapacitets batteri har en brutto kapacitet på 112,5 kWh og en netto kapacitet på 107,5 kWh, hvilket giver en 5,0 kWh buffer (4,4%) til batteribeskyttelse. Med en nominel spænding på 355,2 volt klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitets batteri har en brutto kapacitet på 93,0 kWh og en netto kapacitet på 91,0 kWh, hvilket giver en 2,0 kWh buffer (2,2%) til batteribeskyttelse. Med en nominel spænding på 296 volt klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
-Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en rækkevidde på 279 miles (449 km) med et energiforbrug på 2,6 miles per kWh. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en rækkevidde på 279 miles (449 km) med et energiforbrug på 3,1 miles per kWh. For flere detaljer om rækkevidden, se data fra den virkelige verden og rækkeviddelister på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 190 kW. Opladning fra 0% til 100% tager cirka 91 minutter, mens et mere typisk scenario fra 10% til 80% tager 48 minutter med en gennemsnitlig ladehastighed på 95 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 6% til 57%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 103 kW, hvor hver opladningssession tager cirka 32 minutter og 60 sekunder.
+Køretøjet understøtter hurtig DC-opladning med en maksimal effekt på 150 kW. Opladning fra 0% til 100% tager cirka 87 minutter, mens et mere typisk scenario fra 10% til 80% tager 35 minutter med en gennemsnitlig ladehastighed på 110 kW. Når der medregnes yderligere 5 minutter for hvert opladningsstop på grund af køreafbrydelser, er det optimale opladningsområde fra 1% til 58%. Dette resulterer i en effektiv ladehastighed, inklusive tabt tid, på 107 kW, hvor hver opladningssession tager cirka 29 minutter og 5 sekunder.
 
-I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 24,5 kWh/100 km, ville turen tage cirka 9 timer og 41 minutter, med tre opladningsstop fra 7% til 50%, i alt 81 minutters opladningstid.
+I en 1000 km udfordring ved konstant hastighed på 120 km/t med et antaget forbrug på 24,5 kWh/100 km, ville turen tage cirka 9 timer og 47 minutter, med tre opladningsstop fra 1% til 58%, i alt 87 minutters opladningstid.
 
 ### Indbygget oplader
 
-Den standard indbyggede oplader understøtter op til 11,5 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 9 timer og 20 minutter ved brug af en hjemmeinstallation.
+Den standard indbyggede oplader understøtter op til 11,5 kW for Level 1 og Level 2 AC-opladning, hvilket muliggør en fuld opladning fra 0 til 100% på cirka 7 timer og 54 minutter ved brug af en hjemmeinstallation.
 
 ### Ladeport
 

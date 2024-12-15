@@ -38,9 +38,9 @@ La batería de alta capacidad tiene una capacidad bruta de 93,0 kWh y una capaci
 
 Según el estándar [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 279 millas (449 km) con una tasa de consumo de energía de 3,1 millas por kWh. Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-El vehículo admite carga rápida DC con una potencia máxima de 150 kW. Cargar del 0% al 100% toma aproximadamente 77 minutos, mientras que un escenario más típico del 10% al 80% toma 40 minutos con una velocidad de carga promedio de 95 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 6% al 58%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 100 kW, con cada sesión de carga tomando aproximadamente 28 minutos y 23 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 150 kW. Cargar del 0% al 100% toma aproximadamente 87 minutos, mientras que un escenario más típico del 10% al 80% toma 35 minutos con una velocidad de carga promedio de 110 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 1% al 58%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 107 kW, con cada sesión de carga tomando aproximadamente 29 minutos y 5 segundos.
 
-En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 25 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 56 minutos, requiriendo cuatro paradas de carga del 7% al 51%, totalizando 97 minutos de tiempo de carga.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 25 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 50 minutos, requiriendo tres paradas de carga del 1% al 60%, totalizando 90 minutos de tiempo de carga.
 
 ### Cargador a Bordo
 

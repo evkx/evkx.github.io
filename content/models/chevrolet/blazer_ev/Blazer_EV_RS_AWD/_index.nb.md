@@ -38,9 +38,9 @@ Batteriet med høy kapasitet har en brutto kapasitet på 93,0 kWh og en netto br
 
 Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden, har bilen en rekkevidde på 279 miles (449 km) med et energiforbruk på 3,1 miles per kWh. For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 150 kW. Lading fra 0% til 100% tar omtrent 77 minutter, mens et mer typisk scenario fra 10% til 80% tar 40 minutter med en gjennomsnittlig ladehastighet på 95 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 6% til 58%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 100 kW, hvor hver ladeøkt tar omtrent 28 minutter og 23 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 150 kW. Lading fra 0% til 100% tar omtrent 87 minutter, mens et mer typisk scenario fra 10% til 80% tar 35 minutter med en gjennomsnittlig ladehastighet på 110 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 1% til 58%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 107 kW, hvor hver ladeøkt tar omtrent 29 minutter og 5 sekunder.
 
-I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 25 kWh/100 km, vil turen ta omtrent 9 timer og 56 minutter, og kreve fire ladestopp fra 7% til 51%, totalt 97 minutter ladetid.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 25 kWh/100 km, vil turen ta omtrent 9 timer og 50 minutter, og kreve tre ladestopp fra 1% til 60%, totalt 90 minutter ladetid.
 
 ### Innebygd lader
 

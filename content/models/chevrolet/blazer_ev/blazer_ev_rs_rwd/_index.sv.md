@@ -34,17 +34,17 @@ Chevrolet Blazer EV RS RWD levererar en solid prestanda med en maxeffekt på 254
 
 ## Batteri, räckvidd och laddning
 
-Batteriet med hög kapacitet har en bruttokapacitet på 112,5 kWh och en nettoanvändbar kapacitet på 107,5 kWh, vilket ger en 5,0 kWh buffert (4,4%) för batteriskydd. Med en nominell spänning på 355,2 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden.
+Batteriet med hög kapacitet har en bruttokapacitet på 93,0 kWh och en nettoanvändbar kapacitet på 91,0 kWh, vilket ger en 2,0 kWh buffert (2,2%) för batteriskydd. Med en nominell spänning på 296 volt klassificeras systemet som ett 400-volts batterisystem, vilket följer branschstandarden.
 
-Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har fordonet en räckvidd på 279 miles (449 km) med en energiförbrukning på 2,6 miles per kWh. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
+Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har fordonet en räckvidd på 279 miles (449 km) med en energiförbrukning på 3,1 miles per kWh. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Fordonet stöder snabbladdning med likström med en maximal effekt på 190 kW. Laddning från 0% till 100% tar ungefär 91 minuter, medan ett mer typiskt scenario från 10% till 80% tar 48 minuter med en genomsnittlig laddningshastighet på 95 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 6% till 57%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 103 kW, där varje laddningssession tar cirka 32 minuter och 60 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 150 kW. Laddning från 0% till 100% tar ungefär 87 minuter, medan ett mer typiskt scenario från 10% till 80% tar 35 minuter med en genomsnittlig laddningshastighet på 110 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 58%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 107 kW, där varje laddningssession tar cirka 29 minuter och 5 sekunder.
 
-I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 24,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 41 minuter, med tre laddningsstopp från 7% till 50%, totalt 81 minuters laddtid.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 24,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 47 minuter, med tre laddningsstopp från 1% till 58%, totalt 87 minuters laddtid.
 
 ### Inbyggd laddare
 
-Den standard inbyggda laddaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 9 timmar och 20 minuter vid hemmaladdning.
+Den standard inbyggda laddaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 7 timmar och 54 minuter vid hemmaladdning.
 
 ### Laddningsport
 

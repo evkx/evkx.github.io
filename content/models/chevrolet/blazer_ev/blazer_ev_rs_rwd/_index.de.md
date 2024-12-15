@@ -34,17 +34,17 @@ Der Chevrolet Blazer EV RS RWD liefert eine solide Leistung mit einer maximalen 
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 112,5 kWh und eine nutzbare Nettokapazität von 107,5 kWh, was einen Puffer von 5,0 kWh (4,4%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 355,2 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 93,0 kWh und eine nutzbare Nettokapazität von 91,0 kWh, was einen Puffer von 2,0 kWh (2,2%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 296 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
 
-Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 279 Meilen (449 km) mit einem Energieverbrauch von 2,6 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 279 Meilen (449 km) mit einem Energieverbrauch von 3,1 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 190 kW. Das Laden von 0% auf 100% dauert etwa 91 Minuten, während ein typischer Ladevorgang von 10% auf 80% 48 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 95 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 6% und 57%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 103 kW, wobei jede Ladesitzung etwa 32 Minuten und 60 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 150 kW. Das Laden von 0% auf 100% dauert etwa 87 Minuten, während ein typischer Ladevorgang von 10% auf 80% 35 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 110 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 58%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 107 kW, wobei jede Ladesitzung etwa 29 Minuten und 5 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 24,5 kWh/100 km, würde die Fahrt etwa 9 Stunden und 41 Minuten dauern. Diese Reise würde drei Ladestopps von 7% auf 50% erfordern, mit einer gesamten Ladezeit von 81 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 24,5 kWh/100 km, würde die Fahrt etwa 9 Stunden und 47 Minuten dauern. Diese Reise würde drei Ladestopps von 1% auf 58% erfordern, mit einer gesamten Ladezeit von 87 Minuten.
 
 ### Bordladegerät
 
-Das Standard-Bordladegerät unterstützt bis zu 11,5 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 9 Stunden und 20 Minuten vollständig von 0 auf 100% aufzuladen.
+Das Standard-Bordladegerät unterstützt bis zu 11,5 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 7 Stunden und 54 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 

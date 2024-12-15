@@ -39,9 +39,9 @@ Batteriet med hög kapacitet har en bruttokapacitet på 93,0 kWh och en nettoanv
 Den [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) beräknade räckvidden varierar mellan 281 till 273 miles (452-439 km), beroende på fordonets konfiguration och tillval. Till exempel kan större hjul öka energiförbrukningen och minska den totala räckvidden.
 Energiförbrukningsnivåerna är 3,1 mi/kWh för basmodellen och 3,0 mi/kWh för toppversionen, enligt EPA standardtestet. För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Fordonet stöder snabbladdning med likström med en maximal effekt på 150 kW. Laddning från 0% till 100% tar ungefär 77 minuter, medan ett mer typiskt scenario från 10% till 80% tar 40 minuter med en genomsnittlig laddningshastighet på 95 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 6% till 58%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 100 kW, där varje laddningssession tar cirka 28 minuter och 23 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 150 kW. Laddning från 0% till 100% tar ungefär 87 minuter, medan ett mer typiskt scenario från 10% till 80% tar 35 minuter med en genomsnittlig laddningshastighet på 110 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 1% till 58%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 107 kW, där varje laddningssession tar cirka 29 minuter och 5 sekunder.
 
-I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 9 timmar och 56 minuter, med fyra laddningsstopp från 7% till 51%, totalt 97 minuters laddtid.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 9 timmar och 50 minuter, med tre laddningsstopp från 1% till 60%, totalt 90 minuters laddtid.
 
 ### Inbyggd laddare
 
