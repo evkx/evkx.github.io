@@ -89,7 +89,7 @@ Le [freinage régénératif](../../../../technology/regen/) est disponible en de
 
 De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous retirez votre pied de l'accélérateur. Il y a trois niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
-La puissance régénérative maximale est de 150 kW.
+La puissance régénérative maximale est de 157 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -160,6 +160,13 @@ Le Honda Prologue FWD offre de nombreuses solutions de rangement intérieur pour
 
 - **Porte-gobelets :** Deux porte-gobelets sont situés dans la console centrale avant, avec deux autres dans l'accoudoir arrière.
 - **Boîte à gants :** Une boîte à gants spacieuse est située dans le tableau de bord devant le passager, idéale pour ranger les articles essentiels.
+
+### Éclairage intérieur
+
+Le Honda Prologue FWD offre une gamme d'options d'éclairage intérieur conçues pour créer une ambiance agréable et améliorer la visibilité.
+
+- **Éclairage Ambiant Multicolore:** Cette fonctionnalité s'étend sur tout le tableau de bord, offrant une atmosphère harmonieuse et accueillante. Vous pouvez personnaliser les couleurs en fonction de votre humeur ou de vos préférences, ajoutant une touche personnelle à votre expérience de conduite. Cette fonctionnalité est optionnelle.
+- **Éclairage d'ambiance multicolore :** Cette fonctionnalité s'étend sur le tableau de bord, les panneaux de porte et le puits de pieds, offrant une atmosphère harmonieuse et accueillante. Vous pouvez personnaliser les couleurs selon votre humeur ou vos préférences, ajoutant une touche personnelle à votre expérience de conduite. Cette fonctionnalité est en option.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -330,4 +337,21 @@ Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autor
 ## Disponibilité et Tarification
 
 Le Honda Prologue FWD a eu sa première mondiale le 06.10.2022, avec des livraisons commençant en March 2024. Veuillez noter que ce modèle est disponible exclusivement en Amérique du Nord.
+
+### Tarification
+
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+
+- $47 400,00 (États-Unis)
+
+## Modèles Alternatifs
+
+Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Honda Prologue FWD qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
+
+- [Tesla Model Y Long Range RWD](/models/tesla/model_y/model_y_long_range_rwd/)
+- [Kia EV6 Long Range 2WD](/models/kia/ev6/ev6_long_range_2wd/)
+- [Hyundai Ioniq 5 Long Range 2WD](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/)
+
+<a href="https://db.evkx.net/evcompare?evs=f4d106%2c98b6e9%2cd99ad1%2c7be569" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
+
 {{< pagenavigation b_url="../" b_title="Honda Prologue" f_url="rangeandconsumption/" f_title="Autonomie" >}}

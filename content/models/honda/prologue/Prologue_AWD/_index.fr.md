@@ -90,7 +90,7 @@ Le [freinage régénératif](../../../../technology/regen/) est disponible en de
 
 De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous retirez votre pied de l'accélérateur. Il y a trois niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
-La puissance régénérative maximale est de 150 kW.
+La puissance régénérative maximale est de 157 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -343,7 +343,7 @@ Le Honda Prologue AWD a eu sa première mondiale le 06.10.2022, avec des livrais
 
 Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
-- $58 335,00 (États-Unis)
+- $50 400,00 (États-Unis)
 
 ## Modèles Alternatifs
 

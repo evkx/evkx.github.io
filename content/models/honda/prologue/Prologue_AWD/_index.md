@@ -90,7 +90,7 @@ The Honda Prologue AWD is equipped with [cast-iron disc brakes](../../../../tech
 
 Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are three levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
-The maximum regenerative power is 150 kW.
+The maximum regenerative power is 157 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -343,7 +343,7 @@ The Honda Prologue AWD had its world premiere on 06.10.2022, with deliveries sta
 
 Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
 
-- $58 335,00 (USA)
+- $50 400,00 (USA)
 
 ## Alternative Models
 

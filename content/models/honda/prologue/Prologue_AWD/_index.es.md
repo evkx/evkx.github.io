@@ -90,7 +90,7 @@ El [frenado regenerativo](../../../../technology/regen/) está disponible en dos
 
 Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 
-La potencia máxima de regeneración es de 150 kW.
+La potencia máxima de regeneración es de 157 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -343,7 +343,7 @@ El Honda Prologue AWD tuvo su estreno mundial el 06.10.2022, con entregas comenz
 
 Los precios pueden variar según las condiciones locales, incentivos y promociones. A continuación se muestran los precios iniciales para países seleccionados:
 
-- $58 335,00 (EE.UU.)
+- $50 400,00 (EE.UU.)
 
 ## Modelos Alternativos
 

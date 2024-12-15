@@ -90,7 +90,7 @@ Honda Prologue AWD er udstyret med [støbejerns-skivebremser](../../../../techno
 
 Derudover kan du justere styrken af den regenerative bremsning når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, så du kan tilpasse køreoplevelsen efter dine præferencer.
 
-Den maksimale regenerative effekt er 150 kW.
+Den maksimale regenerative effekt er 157 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -343,7 +343,7 @@ Honda Prologue AWD havde sin verdenspremiere den 06.10.2022, og leveringerne sta
 
 Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Herunder er startpriserne for udvalgte lande:
 
-- $58 335,00 (USA)
+- $50 400,00 (USA)
 
 ## Alternative modeller
 

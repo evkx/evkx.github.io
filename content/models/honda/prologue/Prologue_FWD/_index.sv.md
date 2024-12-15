@@ -89,7 +89,7 @@ Honda Prologue FWD är utrustad med [gjutjärnsskivbromsar](../../../../technolo
 
 Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns tre nivåer av regenerativ bromsning att välja mellan, vilket låter dig anpassa körupplevelsen efter dina preferenser.
 
-Den maximala regenerativa effekten är 150 kW.
+Den maximala regenerativa effekten är 157 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -160,6 +160,13 @@ Honda Prologue FWD erbjuder gott om förvaringslösningar i kupén för att öka
 
 - **Mugghållare:** Två mugghållare finns i mittkonsolen fram, med ytterligare två i armstödet bak.
 - **Handskfack:** Ett rymligt handskfack är placerat i instrumentbrädan framför passagerarsätet, perfekt för förvaring av viktiga föremål.
+
+### Interiörbelysning
+
+Honda Prologue FWD erbjuder flera olika interiörbelysningsalternativ utformade för att skapa en behaglig atmosfär och förbättra sikten.
+
+- **Flerfärgad Ambient Lighting:** Denna funktion sträcker sig över instrumentbrädan och ger en harmonisk och inbjudande atmosfär. Du kan anpassa färgerna efter ditt humör eller din preferens, vilket ger en personlig touch till din körupplevelse. Denna funktion är valfri.
+- **Flerfärgad stämningsbelysning:** Denna funktion sträcker sig över instrumentpanelen, dörrpanelerna och fotutrymmet och skapar en harmonisk och inbjudande atmosfär. Du kan anpassa färgerna efter ditt humör eller preferens för att skapa en personlig touch i din körupplevelse. Denna funktion är tillval.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -330,4 +337,21 @@ Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpv
 ## Tillgänglighet och priser
 
 Honda Prologue FWD hade sin världspremiär den 06.10.2022, och leveranserna startade March 2024. Observera att denna modell endast är tillgänglig i Nordamerika.
+
+### Priser
+
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan visas startpriserna för utvalda länder:
+
+- $47 400,00 (USA)
+
+## Alternativa modeller
+
+På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternativ till Honda Prologue FWD som är värda att överväga baserat på funktioner, specifikationer och prissättning. Även om dessa modeller kanske inte är exakta matchningar, kan en jämförelse hjälpa dig att fatta ett mer välgrundat köpbeslut:
+
+- [Tesla Model Y Long Range RWD](/models/tesla/model_y/model_y_long_range_rwd/)
+- [Kia EV6 Long Range 2WD](/models/kia/ev6/ev6_long_range_2wd/)
+- [Hyundai Ioniq 5 Long Range 2WD](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/)
+
+<a href="https://db.evkx.net/evcompare?evs=f4d106%2c98b6e9%2cd99ad1%2c7be569" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="Honda Prologue" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

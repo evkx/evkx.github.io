@@ -90,7 +90,7 @@ Der Honda Prologue AWD ist mit [Gusseisenscheibenbremsen](../../../../technology
 
 Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen drei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
-Die maximale regenerative Leistung beträgt 150 kW.
+Die maximale regenerative Leistung beträgt 157 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -343,7 +343,7 @@ Der Honda Prologue AWD feierte seine Weltpremiere am 06.10.2022, mit Lieferungen
 
 Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
 
-- $58 335,00 (USA)
+- $50 400,00 (USA)
 
 ## Alternative Modelle
 
