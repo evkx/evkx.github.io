@@ -987,7 +987,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 	</tbody>
 </table>
 
-## Section.Sensors
+## Sensorer og kameraer
 
 <table class="table table-striped border">
 	<thead>
@@ -1001,6 +1001,34 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Ultralydssensorer
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameraer
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-sensorer
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-sensorer
+			</td>
+			<td>
+			</td>
+		</tr>
 	</tbody>
 </table>
 

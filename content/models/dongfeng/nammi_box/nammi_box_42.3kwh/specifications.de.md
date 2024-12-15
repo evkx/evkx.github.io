@@ -939,7 +939,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 	</tbody>
 </table>
 
-## Section.Sensors
+## Sensoren und Kameras
 
 <table class="table table-striped border">
 	<thead>
@@ -955,13 +955,40 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 	<tbody>
 		<tr>
 			<td>
-				Sensors.UltrasonicSensors
+				Ultraschallsensoren
 			</td>
 			<td>
-				OnBumberRearLeftSide
-OnBumberRearRightSide
-OnBumberRear
-
+				Auf Stoßstange hinten links
+				Auf Stoßstange hinten rechts
+				Auf Stoßstange hinten
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameras
+			</td>
+			<td>
+				Oben Mitte Windschutzscheibe
+				Vorne
+				Am linken Außenspiegel
+				Am rechten Außenspiegel
+				Hinteres Zentrum
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-Sensoren
+			</td>
+			<td>
+				Vorne
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-Sensoren
+			</td>
+			<td>
+				N/A
 			</td>
 		</tr>
 	</tbody>

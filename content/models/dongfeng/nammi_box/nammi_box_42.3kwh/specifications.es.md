@@ -939,7 +939,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 	</tbody>
 </table>
 
-## Section.Sensors
+## Sensores y cámaras
 
 <table class="table table-striped border">
 	<thead>
@@ -955,13 +955,40 @@ Este modelo está disponible con una configuración de cinco asientos.
 	<tbody>
 		<tr>
 			<td>
-				Sensors.UltrasonicSensors
+				Sensores ultrasónicos
 			</td>
 			<td>
-				OnBumberRearLeftSide
-OnBumberRearRightSide
-OnBumberRear
-
+				En el lado trasero izquierdo del parachoques
+				En el lado trasero derecho del parachoques
+				En el parachoques trasero
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cámaras
+			</td>
+			<td>
+				Centro superior del parabrisas
+				Frente
+				En el espejo retrovisor izquierdo
+				En el espejo retrovisor derecho
+				Centro trasero
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sensores de radar
+			</td>
+			<td>
+				Frente
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sensores Lidar
+			</td>
+			<td>
+				N/A
 			</td>
 		</tr>
 	</tbody>

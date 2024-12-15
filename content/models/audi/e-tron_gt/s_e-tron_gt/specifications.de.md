@@ -1368,30 +1368,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Hintere Parksensoren
-			</td>
-			<td>
-				Ja (Parking system plus), Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Vordere Parksensoren
-			</td>
-			<td>
-				Ja (Parking system plus), Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seitliche Parksensoren
-			</td>
-			<td>
-				Ja (Parking system plus), Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Bergabfahrassistent
 			</td>
 			<td>
@@ -1500,6 +1476,51 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				Ja (Night Vision Assist), Sonderausstattung
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensoren und Kameras
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ultraschallsensoren
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameras
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-Sensoren
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-Sensoren
+			</td>
+			<td>
 			</td>
 		</tr>
 	</tbody>

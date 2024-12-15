@@ -668,27 +668,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Sensores de aparcamiento traseros
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sensores de aparcamiento delanteros
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sensores de aparcamiento laterales
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Asistencia de descenso de pendientes
 			</td>
 			<td>
@@ -786,6 +765,51 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensores y cámaras
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sensores ultrasónicos
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cámaras
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sensores de radar
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sensores Lidar
+			</td>
+			<td>
 			</td>
 		</tr>
 	</tbody>

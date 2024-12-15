@@ -1008,7 +1008,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 	</tbody>
 </table>
 
-## Section.Sensors
+## Sensorer och kameror
 
 <table class="table table-striped border">
 	<thead>
@@ -1022,6 +1022,55 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Ultraljudssensorer
+			</td>
+			<td>
+				På stötfångare fram
+				På stötfångare fram
+				På stötfångare fram vänster hörn
+				På stötfångare fram höger hörn
+				På stötfångare fram vänster sida
+				På stötfångare fram höger sida
+				På stötfångare bak vänster sida
+				På stötfångare bak höger sida
+				På stötfångare bak vänster hörn
+				På stötfångare bak höger hörn
+				På stötfångare bak
+				På stötfångare bak
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameror
+			</td>
+			<td>
+				Topp center vindruta
+				Fram (Valfritt)
+				På vänster sidospegel (Valfritt)
+				På höger sidospegel (Valfritt)
+				Bak center (Valfritt)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-sensorer
+			</td>
+			<td>
+				Fram
+				Vänster bakre hörn
+				Höger bakre hörn
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-sensorer
+			</td>
+			<td>
+				N/A
+			</td>
+		</tr>
 	</tbody>
 </table>
 

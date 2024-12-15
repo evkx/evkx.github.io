@@ -939,7 +939,7 @@ This model is available with a seat configuration with five seats.
 	</tbody>
 </table>
 
-## Section.Sensors
+## Sensors & Cameras
 
 <table class="table table-striped border">
 	<thead>
@@ -955,13 +955,37 @@ This model is available with a seat configuration with five seats.
 	<tbody>
 		<tr>
 			<td>
-				Sensors.UltrasonicSensors
+				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
-				OnBumberRearLeftSide
-OnBumberRearRightSide
-OnBumberRear
-
+				On bumper rear left side
+				On bumper rear right side
+				On bumper rear
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
+			</td>
+			<td>
+				Top center windshield
+				Rear center
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
+			</td>
+			<td>
+				Front
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
+			</td>
+			<td>
+				N/A
 			</td>
 		</tr>
 	</tbody>

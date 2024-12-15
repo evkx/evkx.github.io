@@ -784,29 +784,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Hintere Parksensoren
-			</td>
-			<td>
-				Ja, Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Vordere Parksensoren
-			</td>
-			<td>
-				Ja, Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seitliche Parksensoren
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Bergabfahrassistent
 			</td>
 			<td>
@@ -911,6 +888,75 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Nachtsicht
 			</td>
 			<td>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensoren und Kameras
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ultraschallsensoren
+			</td>
+			<td>
+				Auf Stoßstange vorne
+				Auf Stoßstange vorne
+				Auf Stoßstange vorne links
+				Auf Stoßstange vorne rechts
+				Auf Stoßstange vorne links
+				Auf Stoßstange vorne rechts
+				Auf Stoßstange hinten links
+				Auf Stoßstange hinten rechts
+				Auf Stoßstange hinten links
+				Auf Stoßstange hinten rechts
+				Auf Stoßstange hinten
+				Auf Stoßstange hinten
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameras
+			</td>
+			<td>
+				Oben Mitte Windschutzscheibe
+				Vorne
+				Am linken Außenspiegel
+				Am rechten Außenspiegel
+				Hinteres Zentrum
+				Mitteldach über Heckscheibe
+				Linke Vorderseite
+				Rechte Vorderseite
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-Sensoren
+			</td>
+			<td>
+				Vorne
+				Linke hintere Ecke
+				Rechte hintere Ecke
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-Sensoren
+			</td>
+			<td>
+				Mitteldach über Windschutzscheibe
 			</td>
 		</tr>
 	</tbody>

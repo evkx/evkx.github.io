@@ -806,30 +806,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hill descent assist
 			</td>
 			<td>
@@ -938,6 +914,64 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensors & Cameras
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
+			</td>
+			<td>
+				On bumper front (Optional)
+				On bumper front (Optional)
+				On bumper front left corner (Optional)
+				On bumper front right corner (Optional)
+				On bumper front left side (Optional)
+				On bumper front right side (Optional)
+				On bumper rear left side (Optional)
+				On bumper rear right side (Optional)
+				On bumper rear left corner (Optional)
+				On bumper rear right corner (Optional)
+				On bumper rear (Optional)
+				On bumper rear (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
+			</td>
+			<td>
+				Rear center (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
+			</td>
+			<td>
 			</td>
 		</tr>
 	</tbody>

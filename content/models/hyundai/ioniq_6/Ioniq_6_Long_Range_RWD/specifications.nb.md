@@ -987,7 +987,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
-## Section.Sensors
+## Sensorer og kameraer
 
 <table class="table table-striped border">
 	<thead>
@@ -1003,11 +1003,30 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	<tbody>
 		<tr>
 			<td>
-				Sensors.UltrasonicSensors
+				Ultrasoniske sensorer
 			</td>
 			<td>
-				NotSet
-
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameraer
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-sensorer
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-sensorer
+			</td>
+			<td>
 			</td>
 		</tr>
 	</tbody>

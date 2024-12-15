@@ -1282,30 +1282,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer bak
-			</td>
-			<td>
-				Ja (Park Assist), standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Parkeringssensorer foran
-			</td>
-			<td>
-				Ja (Park Assist), standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Parkeringssensorer på siden
-			</td>
-			<td>
-				Ja (Park Assist), standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hill nedstigningshjelp
 			</td>
 			<td>
@@ -1414,6 +1390,74 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensorer og kameraer
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ultrasoniske sensorer
+			</td>
+			<td>
+				På støtfanger foran
+				På støtfanger foran
+				På støtfanger foran venstre hjørne
+				På støtfanger foran høyre hjørne
+				På støtfanger foran venstre side
+				På støtfanger foran høyre side
+				På støtfanger bak venstre side
+				På støtfanger bak høyre side
+				På støtfanger bak venstre hjørne
+				På støtfanger bak høyre hjørne
+				På støtfanger bak
+				På støtfanger bak
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameraer
+			</td>
+			<td>
+				Topp senter frontrute
+				Foran (Valgfritt)
+				På venstre speil (Valgfritt)
+				På høyre speil (Valgfritt)
+				Bak senter (Valgfritt)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-sensorer
+			</td>
+			<td>
+				Foran
+				Venstre fremre hjørne (Valgfritt)
+				Høyre fremre hjørne (Valgfritt)
+				Venstre bakre hjørne (Valgfritt)
+				Høyre bakre hjørne (Valgfritt)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-sensorer
+			</td>
+			<td>
+				N/A
 			</td>
 		</tr>
 	</tbody>

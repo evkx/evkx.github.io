@@ -1008,7 +1008,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 	</tbody>
 </table>
 
-## Section.Sensors
+## Sensoren und Kameras
 
 <table class="table table-striped border">
 	<thead>
@@ -1022,6 +1022,55 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Ultraschallsensoren
+			</td>
+			<td>
+				Auf Stoßstange vorne
+				Auf Stoßstange vorne
+				Auf Stoßstange vorne links
+				Auf Stoßstange vorne rechts
+				Auf Stoßstange vorne links
+				Auf Stoßstange vorne rechts
+				Auf Stoßstange hinten links
+				Auf Stoßstange hinten rechts
+				Auf Stoßstange hinten links
+				Auf Stoßstange hinten rechts
+				Auf Stoßstange hinten
+				Auf Stoßstange hinten
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameras
+			</td>
+			<td>
+				Oben Mitte Windschutzscheibe
+				Vorne (Optional)
+				Am linken Außenspiegel (Optional)
+				Am rechten Außenspiegel (Optional)
+				Hinteres Zentrum (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-Sensoren
+			</td>
+			<td>
+				Vorne
+				Linke hintere Ecke
+				Rechte hintere Ecke
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-Sensoren
+			</td>
+			<td>
+				N/A
+			</td>
+		</tr>
 	</tbody>
 </table>
 

@@ -987,7 +987,7 @@ This model is available with a seat configuration with five seats.
 	</tbody>
 </table>
 
-## Section.Sensors
+## Sensors & Cameras
 
 <table class="table table-striped border">
 	<thead>
@@ -1003,11 +1003,30 @@ This model is available with a seat configuration with five seats.
 	<tbody>
 		<tr>
 			<td>
-				Sensors.UltrasonicSensors
+				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
-				NotSet
-
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
+			</td>
+			<td>
 			</td>
 		</tr>
 	</tbody>

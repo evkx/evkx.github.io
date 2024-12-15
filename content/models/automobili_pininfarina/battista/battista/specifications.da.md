@@ -676,27 +676,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer bagpå
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Parkeringssensorer foran
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Parkeringssensorer fra siden
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hill DescentAssist
 			</td>
 			<td>
@@ -794,6 +773,51 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensorer og kameraer
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ultralydssensorer
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameraer
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-sensorer
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-sensorer
+			</td>
+			<td>
 			</td>
 		</tr>
 	</tbody>

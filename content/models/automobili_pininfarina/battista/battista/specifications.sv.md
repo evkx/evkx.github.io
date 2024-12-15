@@ -676,27 +676,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer bak
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Parkeringssensorer fram
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sidoparkeringssensorer
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hill Descent Assist
 			</td>
 			<td>
@@ -794,6 +773,51 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensorer och kameror
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ultraljudssensorer
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameror
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-sensorer
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-sensorer
+			</td>
+			<td>
 			</td>
 		</tr>
 	</tbody>

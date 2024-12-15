@@ -1008,7 +1008,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 	</tbody>
 </table>
 
-## Section.Sensors
+## Sensorer og kameraer
 
 <table class="table table-striped border">
 	<thead>
@@ -1022,6 +1022,55 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Ultralydssensorer
+			</td>
+			<td>
+				På kofanger foran
+				På kofanger foran
+				På kofanger venstre forhjørne
+				På kofanger højre forhjørne
+				På kofanger venstre forside
+				På kofanger højre forside
+				På kofanger venstre bagside
+				På kofanger højre bagside
+				På kofanger venstre baghjørne
+				På kofanger højre baghjørne
+				På kofanger bagpå
+				På kofanger bagpå
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameraer
+			</td>
+			<td>
+				Top center forrude
+				Foran (Valgfri)
+				På venstre sidespejl (Valgfri)
+				På højre sidespejl (Valgfri)
+				Bageste center (Valgfri)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-sensorer
+			</td>
+			<td>
+				Foran
+				Venstre baghjørne
+				Højre baghjørne
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-sensorer
+			</td>
+			<td>
+				N/A
+			</td>
+		</tr>
 	</tbody>
 </table>
 

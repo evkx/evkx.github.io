@@ -756,27 +756,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer bak
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Parkeringssensorer fram
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sidoparkeringssensorer
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hill Descent Assist
 			</td>
 			<td>
@@ -871,6 +850,51 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		<tr>
 			<td>
 				Nattseende
+			</td>
+			<td>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensorer och kameror
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ultraljudssensorer
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameror
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-sensorer
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-sensorer
 			</td>
 			<td>
 			</td>

@@ -1008,7 +1008,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 	</tbody>
 </table>
 
-## Section.Sensors
+## Capteurs et caméras
 
 <table class="table table-striped border">
 	<thead>
@@ -1022,6 +1022,55 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Capteurs ultrasoniques
+			</td>
+			<td>
+				Sur le pare-chocs avant
+				Sur le pare-chocs avant
+				Sur le coin avant gauche du pare-chocs
+				Sur le coin avant droit du pare-chocs
+				Sur le côté avant gauche du pare-chocs
+				Sur le côté avant droit du pare-chocs
+				Sur le côté arrière gauche du pare-chocs
+				Sur le côté arrière droit du pare-chocs
+				Sur le coin arrière gauche du pare-chocs
+				Sur le coin arrière droit du pare-chocs
+				Sur le pare-chocs arrière
+				Sur le pare-chocs arrière
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Caméras
+			</td>
+			<td>
+				Centre supérieur du pare-brise
+				Avant (Optionnel)
+				Sur le rétroviseur gauche (Optionnel)
+				Sur le rétroviseur droit (Optionnel)
+				Centre arrière (Optionnel)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capteurs radar
+			</td>
+			<td>
+				Avant
+				Coin arrière gauche
+				Coin arrière droit
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capteurs Lidar
+			</td>
+			<td>
+				N/A
+			</td>
+		</tr>
 	</tbody>
 </table>
 

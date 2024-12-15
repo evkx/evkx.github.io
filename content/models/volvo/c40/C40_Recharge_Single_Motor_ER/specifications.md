@@ -870,30 +870,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
-			</td>
-			<td>
-				Yes, optional equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hill descent assist
 			</td>
 			<td>
@@ -994,6 +970,51 @@ This model is available with a seat configuration with five seats.
 		<tr>
 			<td>
 				<a href="/technology/sensorsandcameras/infrared/">Night Vision</a>
+			</td>
+			<td>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensors & Cameras
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
 			</td>

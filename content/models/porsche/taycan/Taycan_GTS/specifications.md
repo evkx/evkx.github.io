@@ -1355,30 +1355,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
-			</td>
-			<td>
-				Yes (Park Assist), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
-			</td>
-			<td>
-				Yes (Park Assist), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
-			</td>
-			<td>
-				Yes (Park Assist), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hill descent assist
 			</td>
 			<td>
@@ -1487,6 +1463,74 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Yes (Night Vision Assist), optional equipment
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensors & Cameras
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
+			</td>
+			<td>
+				On bumper front
+				On bumper front
+				On bumper front left corner
+				On bumper front right corner
+				On bumper front left side
+				On bumper front right side
+				On bumper rear left side
+				On bumper rear right side
+				On bumper rear left corner
+				On bumper rear right corner
+				On bumper rear
+				On bumper rear
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
+			</td>
+			<td>
+				Top center windshield
+				Front (Optional)
+				On left wing mirror (Optional)
+				On right wing mirror (Optional)
+				Rear center
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
+			</td>
+			<td>
+				Front
+				Left front corner (Optional)
+				Right front corner (Optional)
+				Left rear corner (Optional)
+				Right rear corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
+			</td>
+			<td>
+				N/A
 			</td>
 		</tr>
 	</tbody>

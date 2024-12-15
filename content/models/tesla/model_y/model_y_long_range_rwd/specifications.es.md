@@ -934,30 +934,6 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 		</tr>
 		<tr>
 			<td>
-				Sensores de aparcamiento traseros
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sensores de aparcamiento delanteros
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sensores de aparcamiento laterales
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Asistencia de descenso de pendientes
 			</td>
 			<td>
@@ -1066,6 +1042,55 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensores y cámaras
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sensores ultrasónicos
+			</td>
+			<td>
+				N/A
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cámaras
+			</td>
+			<td>
+				N/A
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sensores de radar
+			</td>
+			<td>
+				N/A
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sensores Lidar
+			</td>
+			<td>
+				N/A
 			</td>
 		</tr>
 	</tbody>

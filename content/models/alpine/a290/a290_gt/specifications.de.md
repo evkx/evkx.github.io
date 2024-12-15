@@ -806,30 +806,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Hintere Parksensoren
-			</td>
-			<td>
-				Ja, Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Vordere Parksensoren
-			</td>
-			<td>
-				Ja, Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seitliche Parksensoren
-			</td>
-			<td>
-				Ja, Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Bergabfahrassistent
 			</td>
 			<td>
@@ -938,6 +914,64 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				Nicht verfügbar
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensoren und Kameras
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ultraschallsensoren
+			</td>
+			<td>
+				Auf Stoßstange vorne (Optional)
+				Auf Stoßstange vorne (Optional)
+				Auf Stoßstange vorne links (Optional)
+				Auf Stoßstange vorne rechts (Optional)
+				Auf Stoßstange vorne links (Optional)
+				Auf Stoßstange vorne rechts (Optional)
+				Auf Stoßstange hinten links (Optional)
+				Auf Stoßstange hinten rechts (Optional)
+				Auf Stoßstange hinten links (Optional)
+				Auf Stoßstange hinten rechts (Optional)
+				Auf Stoßstange hinten (Optional)
+				Auf Stoßstange hinten (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameras
+			</td>
+			<td>
+				Hinteres Zentrum (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-Sensoren
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-Sensoren
+			</td>
+			<td>
 			</td>
 		</tr>
 	</tbody>

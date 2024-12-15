@@ -806,30 +806,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Capteurs de stationnement arrière
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Capteurs de stationnement avant
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Capteurs de stationnement latéraux
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Aide à la descente
 			</td>
 			<td>
@@ -938,6 +914,64 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Capteurs et caméras
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Capteurs ultrasoniques
+			</td>
+			<td>
+				Sur le pare-chocs avant (Optionnel)
+				Sur le pare-chocs avant (Optionnel)
+				Sur le coin avant gauche du pare-chocs (Optionnel)
+				Sur le coin avant droit du pare-chocs (Optionnel)
+				Sur le côté avant gauche du pare-chocs (Optionnel)
+				Sur le côté avant droit du pare-chocs (Optionnel)
+				Sur le côté arrière gauche du pare-chocs (Optionnel)
+				Sur le côté arrière droit du pare-chocs (Optionnel)
+				Sur le coin arrière gauche du pare-chocs (Optionnel)
+				Sur le coin arrière droit du pare-chocs (Optionnel)
+				Sur le pare-chocs arrière (Optionnel)
+				Sur le pare-chocs arrière (Optionnel)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Caméras
+			</td>
+			<td>
+				Centre arrière (Optionnel)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capteurs radar
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capteurs Lidar
+			</td>
+			<td>
 			</td>
 		</tr>
 	</tbody>

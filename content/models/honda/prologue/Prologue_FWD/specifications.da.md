@@ -832,30 +832,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer bagpå
-			</td>
-			<td>
-				Ja, standardudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Parkeringssensorer foran
-			</td>
-			<td>
-				Ja, standardudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Parkeringssensorer fra siden
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hill DescentAssist
 			</td>
 			<td>
@@ -964,6 +940,70 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensorer og kameraer
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ultralydssensorer
+			</td>
+			<td>
+				På kofanger foran (Valgfri)
+				På kofanger foran (Valgfri)
+				På kofanger venstre forhjørne (Valgfri)
+				På kofanger højre forhjørne (Valgfri)
+				På kofanger venstre baghjørne
+				På kofanger højre baghjørne
+				På kofanger bagpå
+				På kofanger bagpå
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameraer
+			</td>
+			<td>
+				Top center forrude
+				Foran
+				På venstre sidespejl
+				På højre sidespejl
+				Bageste center
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-sensorer
+			</td>
+			<td>
+				Foran
+				Venstre forhjørne
+				Højre forhjørne
+				Venstre baghjørne
+				Højre baghjørne
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-sensorer
+			</td>
+			<td>
+				N/A
 			</td>
 		</tr>
 	</tbody>

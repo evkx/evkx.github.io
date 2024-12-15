@@ -801,30 +801,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Sensores de aparcamiento traseros
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sensores de aparcamiento delanteros
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sensores de aparcamiento laterales
-			</td>
-			<td>
-				Sí, equipo opcional
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Asistencia de descenso de pendientes
 			</td>
 			<td>
@@ -927,6 +903,74 @@ Interior.Seatlayout.OnlySix
 				Visión nocturna
 			</td>
 			<td>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensores y cámaras
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sensores ultrasónicos
+			</td>
+			<td>
+				En el parachoques delantero
+				En el parachoques delantero
+				En la esquina delantera izquierda del parachoques
+				En la esquina delantera derecha del parachoques
+				En el lado delantero izquierdo del parachoques
+				En el lado delantero derecho del parachoques
+				En el lado trasero izquierdo del parachoques
+				En el lado trasero derecho del parachoques
+				En la esquina trasera izquierda del parachoques
+				En la esquina trasera derecha del parachoques
+				En el parachoques trasero
+				En el parachoques trasero
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cámaras
+			</td>
+			<td>
+				Centro superior del parabrisas
+				Centro superior del parabrisas (Opcional)
+				Frente
+				En el espejo retrovisor izquierdo
+				En el espejo retrovisor derecho
+				Lado delantero izquierdo
+				Lado delantero derecho
+				Techo central sobre la ventana trasera
+				Techo central sobre la ventana trasera
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sensores de radar
+			</td>
+			<td>
+				Frente
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sensores Lidar
+			</td>
+			<td>
+				Techo central sobre el parabrisas (Opcional)
 			</td>
 		</tr>
 	</tbody>

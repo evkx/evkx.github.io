@@ -939,7 +939,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
-## Section.Sensors
+## Sensorer og kameraer
 
 <table class="table table-striped border">
 	<thead>
@@ -955,13 +955,40 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	<tbody>
 		<tr>
 			<td>
-				Sensors.UltrasonicSensors
+				Ultrasoniske sensorer
 			</td>
 			<td>
-				OnBumberRearLeftSide
-OnBumberRearRightSide
-OnBumberRear
-
+				På støtfanger bak venstre side
+				På støtfanger bak høyre side
+				På støtfanger bak
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameraer
+			</td>
+			<td>
+				Topp senter frontrute
+				Foran
+				På venstre speil
+				På høyre speil
+				Bak senter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-sensorer
+			</td>
+			<td>
+				Foran
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-sensorer
+			</td>
+			<td>
+				N/A
 			</td>
 		</tr>
 	</tbody>

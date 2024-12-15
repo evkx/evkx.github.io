@@ -987,7 +987,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 	</tbody>
 </table>
 
-## Section.Sensors
+## Sensores y cámaras
 
 <table class="table table-striped border">
 	<thead>
@@ -1003,11 +1003,30 @@ Este modelo está disponible con una configuración de cinco asientos.
 	<tbody>
 		<tr>
 			<td>
-				Sensors.UltrasonicSensors
+				Sensores ultrasónicos
 			</td>
 			<td>
-				NotSet
-
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cámaras
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sensores de radar
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sensores Lidar
+			</td>
+			<td>
 			</td>
 		</tr>
 	</tbody>

@@ -987,7 +987,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 	</tbody>
 </table>
 
-## Section.Sensors
+## Sensoren und Kameras
 
 <table class="table table-striped border">
 	<thead>
@@ -1001,6 +1001,34 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Ultraschallsensoren
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameras
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-Sensoren
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-Sensoren
+			</td>
+			<td>
+			</td>
+		</tr>
 	</tbody>
 </table>
 

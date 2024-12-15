@@ -934,30 +934,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 		</tr>
 		<tr>
 			<td>
-				Capteurs de stationnement arrière
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Capteurs de stationnement avant
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Capteurs de stationnement latéraux
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Aide à la descente
 			</td>
 			<td>
@@ -1066,6 +1042,55 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Capteurs et caméras
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Capteurs ultrasoniques
+			</td>
+			<td>
+				N/A
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Caméras
+			</td>
+			<td>
+				N/A
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capteurs radar
+			</td>
+			<td>
+				N/A
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capteurs Lidar
+			</td>
+			<td>
+				N/A
 			</td>
 		</tr>
 	</tbody>

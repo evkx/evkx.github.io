@@ -938,30 +938,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Capteurs de stationnement arrière
-			</td>
-			<td>
-				Oui (Park Assist), équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Capteurs de stationnement avant
-			</td>
-			<td>
-				Oui (Park Assist), équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Capteurs de stationnement latéraux
-			</td>
-			<td>
-				Oui (Park Assist), équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Aide à la descente
 			</td>
 			<td>
@@ -1070,6 +1046,51 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				Oui (Night Vision Assist), équipement en option
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Capteurs et caméras
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Capteurs ultrasoniques
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Caméras
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capteurs radar
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capteurs Lidar
+			</td>
+			<td>
 			</td>
 		</tr>
 	</tbody>

@@ -862,30 +862,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer bak
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Parkeringssensorer fram
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sidoparkeringssensorer
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hill Descent Assist
 			</td>
 			<td>
@@ -994,6 +970,74 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensorer och kameror
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ultraljudssensorer
+			</td>
+			<td>
+				På stötfångare fram
+				På stötfångare fram
+				På stötfångare fram vänster hörn
+				På stötfångare fram höger hörn
+				På stötfångare fram vänster sida
+				På stötfångare fram höger sida
+				På stötfångare bak vänster sida
+				På stötfångare bak höger sida
+				På stötfångare bak vänster hörn
+				På stötfångare bak höger hörn
+				På stötfångare bak
+				På stötfångare bak
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kameror
+			</td>
+			<td>
+				Topp center vindruta
+				Fram
+				På vänster sidospegel
+				På höger sidospegel
+				Bak center
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Radar-sensorer
+			</td>
+			<td>
+				Fram
+				Vänster främre hörn
+				Höger främre hörn
+				Vänster bakre hörn
+				Höger bakre hörn
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lidar-sensorer
+			</td>
+			<td>
+				N/A
 			</td>
 		</tr>
 	</tbody>

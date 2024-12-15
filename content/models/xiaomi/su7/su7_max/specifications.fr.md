@@ -776,29 +776,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Capteurs de stationnement arrière
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Capteurs de stationnement avant
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Capteurs de stationnement latéraux
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Aide à la descente
 			</td>
 			<td>
@@ -903,6 +880,75 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Vision nocturne
 			</td>
 			<td>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Capteurs et caméras
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Capteurs ultrasoniques
+			</td>
+			<td>
+				Sur le pare-chocs avant
+				Sur le pare-chocs avant
+				Sur le coin avant gauche du pare-chocs
+				Sur le coin avant droit du pare-chocs
+				Sur le côté avant gauche du pare-chocs
+				Sur le côté avant droit du pare-chocs
+				Sur le côté arrière gauche du pare-chocs
+				Sur le côté arrière droit du pare-chocs
+				Sur le coin arrière gauche du pare-chocs
+				Sur le coin arrière droit du pare-chocs
+				Sur le pare-chocs arrière
+				Sur le pare-chocs arrière
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Caméras
+			</td>
+			<td>
+				Centre supérieur du pare-brise
+				Avant
+				Sur le rétroviseur gauche
+				Sur le rétroviseur droit
+				Centre arrière
+				Toit central au-dessus de la fenêtre arrière
+				Côté avant gauche
+				Côté avant droit
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capteurs radar
+			</td>
+			<td>
+				Avant
+				Coin arrière gauche
+				Coin arrière droit
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capteurs Lidar
+			</td>
+			<td>
+				Toit central au-dessus du pare-brise
 			</td>
 		</tr>
 	</tbody>

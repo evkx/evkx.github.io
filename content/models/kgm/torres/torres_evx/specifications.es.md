@@ -875,30 +875,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Sensores de aparcamiento traseros
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sensores de aparcamiento delanteros
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sensores de aparcamiento laterales
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Asistencia de descenso de pendientes
 			</td>
 			<td>
@@ -1002,6 +978,70 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensores y cámaras
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sensores ultrasónicos
+			</td>
+			<td>
+				En el parachoques delantero
+				En el parachoques delantero
+				En la esquina delantera izquierda del parachoques
+				En la esquina delantera derecha del parachoques
+				En la esquina trasera izquierda del parachoques
+				En la esquina trasera derecha del parachoques
+				En el parachoques trasero
+				En el parachoques trasero
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cámaras
+			</td>
+			<td>
+				Centro superior del parabrisas
+				Frente (Opcional)
+				En el espejo retrovisor izquierdo (Opcional)
+				En el espejo retrovisor derecho (Opcional)
+				Centro trasero (Opcional)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sensores de radar
+			</td>
+			<td>
+				Frente
+				Esquina delantera izquierda (Opcional)
+				Esquina delantera derecha (Opcional)
+				Esquina trasera izquierda (Opcional)
+				Esquina trasera derecha (Opcional)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sensores Lidar
+			</td>
+			<td>
+				N/A
 			</td>
 		</tr>
 	</tbody>

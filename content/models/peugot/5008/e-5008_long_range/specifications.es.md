@@ -901,27 +901,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Sensores de aparcamiento traseros
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sensores de aparcamiento delanteros
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sensores de aparcamiento laterales
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Asistencia de descenso de pendientes
 			</td>
 			<td>
@@ -1023,6 +1002,72 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Sensores y cámaras
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sensores ultrasónicos
+			</td>
+			<td>
+				En el parachoques delantero (Opcional)
+				En el parachoques delantero (Opcional)
+				En la esquina delantera izquierda del parachoques (Opcional)
+				En la esquina delantera derecha del parachoques (Opcional)
+				En el lado delantero izquierdo del parachoques (Opcional)
+				En el lado delantero derecho del parachoques (Opcional)
+				En el lado trasero izquierdo del parachoques
+				En el lado trasero derecho del parachoques
+				En la esquina trasera izquierda del parachoques
+				En la esquina trasera derecha del parachoques
+				En el parachoques trasero
+				En el parachoques trasero
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cámaras
+			</td>
+			<td>
+				Centro superior del parabrisas
+				Frente (Opcional)
+				En el espejo retrovisor izquierdo (Opcional)
+				En el espejo retrovisor derecho (Opcional)
+				Centro trasero
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sensores de radar
+			</td>
+			<td>
+				Frente
+				Esquina trasera izquierda (Opcional)
+				Esquina trasera derecha (Opcional)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sensores Lidar
+			</td>
+			<td>
+				N/A
 			</td>
 		</tr>
 	</tbody>
