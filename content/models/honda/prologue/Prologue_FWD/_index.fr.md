@@ -62,7 +62,7 @@ Ce modèle prend en charge le V2L (Vehicle to Load), vous permettant d'alimenter
 
 ## Groupe Motopropulseur
 
-Le Honda Prologue FWD dispose d'un système de traction avant soutenu par un moteur sur l'essieu avant. Les moteurs utilisés sont des [moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Le Honda Prologue FWD dispose d'un système de traction avant soutenu par un moteur sur l'essieu avant. Le moteur utilisé est un [moteur synchrone à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
@@ -88,6 +88,8 @@ Le Honda Prologue FWD est équipé de [freins à disque en fonte](../../../../te
 Le [freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer. Le système arrête complètement la voiture en utilisant les freins à friction.
 
 De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous retirez votre pied de l'accélérateur. Il y a trois niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
+
+La puissance régénérative maximale est de 150 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -232,8 +234,9 @@ Le Honda Prologue FWD prend en charge Android Auto et Apple CarPlay, vous permet
 
 ### Système Audio
 
-Le Honda Prologue FWD est équipé d'une seule option de système audio :
+Vous pouvez choisir entre deux systèmes audio pour le Honda Prologue FWD :
 
+- **Honda system :** Dispose de six haut-parleurs.
 - **Bose premium audio system :** Dispose de 12 haut-parleurs.
 
 De plus, le modèle comprend 5 connexions USB-C de série.

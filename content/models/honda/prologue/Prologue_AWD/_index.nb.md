@@ -90,6 +90,8 @@ Honda Prologue AWD er utstyrt med [støpejernsskivebremser](../../../../technolo
 
 I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten av gasspedalen. Det er tre nivåer å velge mellom, slik at du kan tilpasse kjøreopplevelsen etter eget ønske.
 
+Den maksimale regenerative effekten er 150 kW.
+
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
@@ -159,6 +161,13 @@ Honda Prologue AWD har mange innvendige oppbevaringsløsninger for å øke bekve
 
 - **Koppholdere:** To koppholdere er plassert i midtkonsollen foran, med ytterligere to i armlenet bak.
 - **Hanskerom:** Et romslig hanskerom er plassert i dashbordet foran passasjersetet, ideelt for oppbevaring av nødvendige gjenstander.
+
+### Innvendig belysning
+
+Honda Prologue AWD tilbyr flere innvendige belysningsalternativer designet for å skape en behagelig atmosfære og forbedre sikten.
+
+- **Flerfarget Ambient Lighting:** Denne funksjonen strekker seg over dashbordet og gir en harmonisk og innbydende atmosfære. Du kan tilpasse fargene etter humøret eller preferansen din, og legge til en personlig touch til kjøreopplevelsen din. Denne funksjonen er valgfri.
+- **Flerfarget stemningsbelysning:** Denne funksjonen strekker seg over dashbordet, dørpanelene og fotbrønnen, og skaper en harmonisk og innbydende atmosfære. Du kan tilpasse fargene etter humør eller preferanse, og sette ditt personlige preg på kjøreopplevelsen. Denne funksjonen er valgfri.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -233,8 +242,9 @@ Honda Prologue AWD støtter Android Auto og Apple CarPlay, som lar deg speile te
 
 ### Lydsystem
 
-Honda Prologue AWD kommer med ett lydsystem:
+Du kan velge mellom to lydsystemer for Honda Prologue AWD:
 
+- **Honda system:** Har seks høyttalere.
 - **Bose premium audio system:** Har 12 høyttalere.
 
 I tillegg har modellen 5 USB-C-tilkoblinger som standard.

@@ -86,6 +86,8 @@ Der Chevrolet Blazer EV RS AWD ist mit [Gusseisenscheibenbremsen](../../../../te
 
 Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen zwei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
+Die maximale regenerative Leistung beträgt 150 kW.
+
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exterieur

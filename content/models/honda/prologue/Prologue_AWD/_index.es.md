@@ -90,6 +90,8 @@ El [frenado regenerativo](../../../../technology/regen/) está disponible en dos
 
 Además, puedes ajustar la fuerza del frenado regenerativo cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción a tu preferencia.
 
+La potencia máxima de regeneración es de 150 kW.
+
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exterior
@@ -159,6 +161,13 @@ El Honda Prologue AWD proporciona amplias soluciones de almacenamiento interior 
 
 - **Portavasos:** Hay dos portavasos ubicados en la consola central delantera, y dos adicionales en el reposabrazos trasero.
 - **Guantera:** Hay una espaciosa guantera situada en el tablero frente al asiento del pasajero, ideal para almacenar artículos esenciales.
+
+### Iluminación Interior
+
+El Honda Prologue AWD ofrece una gama de opciones de iluminación interior diseñadas para crear un ambiente agradable y mejorar la visibilidad.
+
+- **Iluminación Ambiental Multicolor:** Esta característica se extiende a lo largo del tablero, proporcionando una atmósfera armoniosa y acogedora. Puedes personalizar los colores según tu estado de ánimo o preferencia, añadiendo un toque personal a tu experiencia de conducción. Esta característica es opcional.
+- **Iluminación ambiental multicolor:** Esta característica se extiende a lo largo del tablero, los paneles de las puertas y el espacio para los pies, proporcionando una atmósfera armoniosa y acogedora. Puedes personalizar los colores para adaptarlos a tu estado de ánimo o preferencia, añadiendo un toque personal a tu experiencia de conducción. Esta característica es opcional.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -233,8 +242,9 @@ El Honda Prologue AWD es compatible con Android Auto y Apple CarPlay, lo que le 
 
 ### Sistema de Sonido
 
-El Honda Prologue AWD viene equipado con una opción de sistema de sonido:
+Puede elegir entre dos sistemas de sonido para el Honda Prologue AWD:
 
+- **Honda system:** Cuenta con seis altavoces.
 - **Bose premium audio system:** Cuenta con 12 altavoces.
 
 Además, el modelo incluye 5 conexiones USB-C como estándar.

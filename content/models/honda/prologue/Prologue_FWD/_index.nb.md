@@ -62,7 +62,7 @@ Denne modellen støtter V2L (Vehicle to Load), som lar deg drive elektrisk utsty
 
 ## Drivlinje
 
-Honda Prologue FWD har et forhjulsdrift-system med én motor på forakselen. Motorene som brukes er [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
+Honda Prologue FWD har et forhjulsdrift-system med én motor på forakselen. Motoren som brukes er [permanent magnet synkronmotorer](../../../../technology/motors/pmsm/).
 
 ### Fjæring
 
@@ -88,6 +88,8 @@ Honda Prologue FWD er utstyrt med [støpejernsskivebremser](../../../../technolo
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [kjøring med én pedal](../../../../technology/regen/#one-pedal-driving) eller du kan frirulle og bruke [kombinerte bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) for å regenerere. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser.
 
 I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten av gasspedalen. Det er tre nivåer å velge mellom, slik at du kan tilpasse kjøreopplevelsen etter eget ønske.
+
+Den maksimale regenerative effekten er 150 kW.
 
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -232,8 +234,9 @@ Honda Prologue FWD støtter Android Auto og Apple CarPlay, som lar deg speile te
 
 ### Lydsystem
 
-Honda Prologue FWD kommer med ett lydsystem:
+Du kan velge mellom to lydsystemer for Honda Prologue FWD:
 
+- **Honda system:** Har seks høyttalere.
 - **Bose premium audio system:** Har 12 høyttalere.
 
 I tillegg har modellen 5 USB-C-tilkoblinger som standard.

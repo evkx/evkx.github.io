@@ -1089,6 +1089,64 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 	</tbody>
 </table>
+		<tr>
+			<td>
+				Número de sistemas de sonido disponibles
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+
+### Honda system
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Número de altavoces
+			</td>
+			<td>
+				6
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Bose premium audio system
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Número de altavoces
+			</td>
+			<td>
+				12
+			</td>
+		</tr>
+	</tbody>
+</table>
 <div class="mt-3 mb-3">
 <a href="../chargingcurve/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Curva de carga </strong>

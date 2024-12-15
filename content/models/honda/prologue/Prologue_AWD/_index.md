@@ -90,6 +90,8 @@ The Honda Prologue AWD is equipped with [cast-iron disc brakes](../../../../tech
 
 Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are three levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
+The maximum regenerative power is 150 kW.
+
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exterior
@@ -159,6 +161,13 @@ The Honda Prologue AWD provides ample interior storage solutions to enhance conv
 
 - **Cupholders:** Two cupholders are located in the front center console, with an additional two in the rear armrest.
 - **Glove Compartment:** A spacious glove compartment is situated in the dashboard in front of the passenger, ideal for storing essential items.
+
+### Interior Lighting
+
+The Honda Prologue AWD offers a range of interior lighting options designed to create a pleasant ambiance and enhance visibility.
+
+- **Multicolor Ambient Lighting:** This feature extends across the dashboard, providing a harmonious and inviting atmosphere. You can customize the colors to suit your mood or preference, adding a personal touch to your driving experience. This feature is optional.
+- **Multicolor Ambient Lighting:** This feature extends across the dashboard, door panels, and footwell, providing a harmonious and inviting atmosphere. You can customize the colors to suit your mood or preference, adding a personal touch to your driving experience. This feature is optional.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -233,8 +242,9 @@ The Honda Prologue AWD supports Android Auto and Apple CarPlay, allowing you to 
 
 ### Sound System
 
-The Honda Prologue AWD comes equipped with one sound system option:
+You can choose between two sound systems for the Honda Prologue AWD:
 
+- **Honda system:** Features six speakers.
 - **Bose premium audio system:** Features 12 speakers.
 
 Additionally, the model includes 5 USB-C connections as standard.

@@ -90,6 +90,8 @@ Honda Prologue AWD er udstyret med [støbejerns-skivebremser](../../../../techno
 
 Derudover kan du justere styrken af den regenerative bremsning når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, så du kan tilpasse køreoplevelsen efter dine præferencer.
 
+Den maksimale regenerative effekt er 150 kW.
+
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Eksteriør
@@ -159,6 +161,13 @@ Honda Prologue AWD tilbyder rigelige opbevaringsløsninger i kabinen for at øge
 
 - **Kopholdere:** To kopholdere er placeret i den forreste midterkonsol, med yderligere to i det bageste armlæn.
 - **Handskerum:** Et rummeligt handskerum er placeret i instrumentbrættet foran passageren, ideelt til opbevaring af vigtige genstande.
+
+### Indvendig belysning
+
+Honda Prologue AWD tilbyder en række indvendige belysningsindstillinger designet til at skabe en behagelig atmosfære og forbedre synligheden.
+
+- **Multifarvet Ambient Lighting:** Denne funktion strækker sig over instrumentbrættet og skaber en harmonisk og indbydende atmosfære. Du kan tilpasse farverne efter dit humør eller præference, hvilket tilføjer et personligt præg til din køreoplevelse. Denne funktion er valgfri.
+- **Flerfarvede stemningslys:** Denne funktion strækker sig over instrumentbrættet, dørpanelerne og fodrummet, og skaber en harmonisk og indbydende atmosfære. Du kan tilpasse farverne efter dit humør eller præference og tilføje et personligt præg til din køreoplevelse. Denne funktion er ekstraudstyr.
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
@@ -233,8 +242,9 @@ Honda Prologue AWD understøtter Android Auto og Apple CarPlay, så du kan spejl
 
 ### Lydsystem
 
-Honda Prologue AWD kommer med ét lydsystem:
+Du kan vælge mellem to lydsystemer til Honda Prologue AWD:
 
+- **Honda system:** Har seks højttalere.
 - **Bose premium audio system:** Har 12 højttalere.
 
 Derudover inkluderer modellen 5 USB-C tilslutninger som standard.

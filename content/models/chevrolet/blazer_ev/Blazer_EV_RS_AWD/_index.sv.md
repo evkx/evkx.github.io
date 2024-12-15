@@ -86,6 +86,8 @@ Chevrolet Blazer EV RS AWD är utrustad med [gjutjärnsskivbromsar](../../../../
 
 Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket låter dig anpassa körupplevelsen efter dina preferenser.
 
+Den maximala regenerativa effekten är 150 kW.
+
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exteriör

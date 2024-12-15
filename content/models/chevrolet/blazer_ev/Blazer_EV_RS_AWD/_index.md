@@ -86,6 +86,8 @@ The Chevrolet Blazer EV RS AWD is equipped with [cast-iron disc brakes](../../..
 
 Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are two levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
+The maximum regenerative power is 150 kW.
+
 <a id="section-exterior" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>
 
 ## Exterior
