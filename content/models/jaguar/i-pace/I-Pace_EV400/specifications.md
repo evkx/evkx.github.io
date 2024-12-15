@@ -1291,6 +1291,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1298,6 +1299,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1305,6 +1307,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1312,6 +1315,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1489,6 +1493,39 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				750
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Fuji White</br>
+				Santorini Black</br>
+				Firenze Red</br>
+				Eiger Grey (Gray)</br>
+				Portofini Blue</br>
+				Ostuni Pearl White</br>
+				Carpathian Grey (Gray)</br>
+				Eiger Grey in Satin Finish (Gray)</br>
+				Carpathian Grey in Satin Finish (Gray)</br>
 			</td>
 		</tr>
 	</tbody>

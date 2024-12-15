@@ -1300,6 +1300,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1307,6 +1308,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1314,6 +1316,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1321,6 +1324,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Lidar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1500,6 +1504,41 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				590
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Polar white (Weiß)</br>
+				Black (Schwarz)</br>
+				Diamond white bright (Weiß)</br>
+				Hyacinth red metallic (Rot)</br>
+				Selenite grey magno (Grau)</br>
+				Obsidian black metallic (Schwarz)</br>
+				Onyx black metallic (Schwarz)</br>
+				Nautic blue (Blau)</br>
+				Graphite grey metallic (Grau)</br>
+				Sodalite blue metallic (Blau)</br>
+				High-tech silver metallic (Silber)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -919,18 +919,18 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
-				Auf Stoßstange vorne (Optional)
-				Auf Stoßstange vorne (Optional)
-				Auf Stoßstange vorne links (Optional)
-				Auf Stoßstange vorne rechts (Optional)
-				Auf Stoßstange vorne links (Optional)
-				Auf Stoßstange vorne rechts (Optional)
-				Auf Stoßstange hinten links (Optional)
-				Auf Stoßstange hinten rechts (Optional)
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten
-				Auf Stoßstange hinten
+				Auf Stoßstange vorne (Optional)</br>
+				Auf Stoßstange vorne (Optional)</br>
+				Auf Stoßstange vorne links (Optional)</br>
+				Auf Stoßstange vorne rechts (Optional)</br>
+				Auf Stoßstange vorne links (Optional)</br>
+				Auf Stoßstange vorne rechts (Optional)</br>
+				Auf Stoßstange hinten links (Optional)</br>
+				Auf Stoßstange hinten rechts (Optional)</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten</br>
+				Auf Stoßstange hinten</br>
 			</td>
 		</tr>
 		<tr>
@@ -938,13 +938,13 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
-				Oben Mitte Windschutzscheibe
-				Linke Vorderseite
-				Rechte Vorderseite
-				Vorne (Optional)
-				Am linken Außenspiegel (Optional)
-				Am rechten Außenspiegel (Optional)
-				Hinteres Zentrum (Optional)
+				Oben Mitte Windschutzscheibe</br>
+				Linke Vorderseite</br>
+				Rechte Vorderseite</br>
+				Vorne (Optional)</br>
+				Am linken Außenspiegel (Optional)</br>
+				Am rechten Außenspiegel (Optional)</br>
+				Hinteres Zentrum (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -952,11 +952,11 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
-				Vorne (Optional)
-				Linke vordere Ecke (Optional)
-				Rechte vordere Ecke (Optional)
-				Linke hintere Ecke (Optional)
-				Rechte hintere Ecke (Optional)
+				Vorne (Optional)</br>
+				Linke vordere Ecke (Optional)</br>
+				Rechte vordere Ecke (Optional)</br>
+				Linke hintere Ecke (Optional)</br>
+				Rechte hintere Ecke (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -964,7 +964,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Lidar-Sensoren
 			</td>
 			<td>
-				Mitteldach über Windschutzscheibe (Optional)
+				Mitteldach über Windschutzscheibe (Optional)</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1067,6 +1067,36 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				Nicht verfügbar
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Glazed green (Grün)</br>
+				Pearly White (Weiß)</br>
+				Sky canopy gray (Grau)</br>
+				Metallic Black (Schwarz)</br>
+				Glacier Blue (Blau)</br>
+				Tundra Gray (Grau)</br>
 			</td>
 		</tr>
 	</tbody>

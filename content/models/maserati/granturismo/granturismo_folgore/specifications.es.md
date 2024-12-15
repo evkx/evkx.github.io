@@ -973,18 +973,18 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
-				En el parachoques delantero
-				En el parachoques delantero
-				En la esquina delantera izquierda del parachoques
-				En la esquina delantera derecha del parachoques
-				En el lado delantero izquierdo del parachoques
-				En el lado delantero derecho del parachoques
-				En el lado trasero izquierdo del parachoques
-				En el lado trasero derecho del parachoques
-				En la esquina trasera izquierda del parachoques
-				En la esquina trasera derecha del parachoques
-				En el parachoques trasero
-				En el parachoques trasero
+				En el parachoques delantero</br>
+				En el parachoques delantero</br>
+				En la esquina delantera izquierda del parachoques</br>
+				En la esquina delantera derecha del parachoques</br>
+				En el lado delantero izquierdo del parachoques</br>
+				En el lado delantero derecho del parachoques</br>
+				En el lado trasero izquierdo del parachoques</br>
+				En el lado trasero derecho del parachoques</br>
+				En la esquina trasera izquierda del parachoques</br>
+				En la esquina trasera derecha del parachoques</br>
+				En el parachoques trasero</br>
+				En el parachoques trasero</br>
 			</td>
 		</tr>
 		<tr>
@@ -992,11 +992,11 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Cámaras
 			</td>
 			<td>
-				Centro superior del parabrisas
-				Frente (Opcional)
-				En el espejo retrovisor izquierdo (Opcional)
-				En el espejo retrovisor derecho (Opcional)
-				Centro trasero (Opcional)
+				Centro superior del parabrisas</br>
+				Frente (Opcional)</br>
+				En el espejo retrovisor izquierdo (Opcional)</br>
+				En el espejo retrovisor derecho (Opcional)</br>
+				Centro trasero (Opcional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1004,7 +1004,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Sensores de radar
 			</td>
 			<td>
-				Frente
+				Frente</br>
 			</td>
 		</tr>
 		<tr>
@@ -1190,6 +1190,38 @@ Este modelo está disponible con una configuración de cuatro asientos.
 			</td>
 			<td>
 				1285
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Grigio Incognito (Gris)</br>
+				Bianco Astro (Gris)</br>
+				Grigio Lava (Gris)</br>
+				Nero Tempesta (Negro)</br>
+				Blu Modena (Azul)</br>
+				Rame Folgore (Gris)</br>
+				Grigio Lava Opaco (Gris)</br>
+				Bronzo Opaco (Bronce)</br>
 			</td>
 		</tr>
 	</tbody>

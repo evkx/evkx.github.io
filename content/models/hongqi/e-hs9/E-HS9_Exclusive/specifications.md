@@ -962,6 +962,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -969,6 +970,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -976,6 +978,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -983,6 +986,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1088,6 +1092,36 @@ This model is available with a seat configuration with six seats.
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Artic Black Metallic</br>
+				Glacier White Metallic</br>
+				Glacier White Artic Black Roof Metallic (Gray)</br>
+				Mountain Grey Metallic (Gray)</br>
+				Mountain Grey Artic Black Roof Metallic (Gray)</br>
+				Mountain Grey Glacier White Metallic (Gray)</br>
 			</td>
 		</tr>
 	</tbody>

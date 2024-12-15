@@ -1487,18 +1487,18 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
-				En el parachoques delantero
-				En el parachoques delantero
-				En la esquina delantera izquierda del parachoques
-				En la esquina delantera derecha del parachoques
-				En el lado delantero izquierdo del parachoques
-				En el lado delantero derecho del parachoques
-				En el lado trasero izquierdo del parachoques
-				En el lado trasero derecho del parachoques
-				En la esquina trasera izquierda del parachoques
-				En la esquina trasera derecha del parachoques
-				En el parachoques trasero
-				En el parachoques trasero
+				En el parachoques delantero</br>
+				En el parachoques delantero</br>
+				En la esquina delantera izquierda del parachoques</br>
+				En la esquina delantera derecha del parachoques</br>
+				En el lado delantero izquierdo del parachoques</br>
+				En el lado delantero derecho del parachoques</br>
+				En el lado trasero izquierdo del parachoques</br>
+				En el lado trasero derecho del parachoques</br>
+				En la esquina trasera izquierda del parachoques</br>
+				En la esquina trasera derecha del parachoques</br>
+				En el parachoques trasero</br>
+				En el parachoques trasero</br>
 			</td>
 		</tr>
 		<tr>
@@ -1506,11 +1506,11 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámaras
 			</td>
 			<td>
-				Centro superior del parabrisas
-				Frente (Opcional)
-				En el espejo retrovisor izquierdo (Opcional)
-				En el espejo retrovisor derecho (Opcional)
-				Centro trasero
+				Centro superior del parabrisas</br>
+				Frente (Opcional)</br>
+				En el espejo retrovisor izquierdo (Opcional)</br>
+				En el espejo retrovisor derecho (Opcional)</br>
+				Centro trasero</br>
 			</td>
 		</tr>
 		<tr>
@@ -1518,11 +1518,11 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de radar
 			</td>
 			<td>
-				Frente
-				Esquina delantera izquierda (Opcional)
-				Esquina delantera derecha (Opcional)
-				Esquina trasera izquierda (Opcional)
-				Esquina trasera derecha (Opcional)
+				Frente</br>
+				Esquina delantera izquierda (Opcional)</br>
+				Esquina delantera derecha (Opcional)</br>
+				Esquina trasera izquierda (Opcional)</br>
+				Esquina trasera derecha (Opcional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1710,6 +1710,47 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				1455
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				White (Blanco)</br>
+				Black (Negro)</br>
+				Jet Black Metallic (Negro)</br>
+				Volcano Grey Metallic (Gris)</br>
+				Carrara White Metallic (Blanco)</br>
+				Gentian Blue Metallic (Azul)</br>
+				Dolomite Silver Metallic (Plata)</br>
+				Mamba Green Metallic (Verde)</br>
+				Frozen Blue Metallic (Azul)</br>
+				Mahogany Metallic (Marrón)</br>
+				Frozen Berry Metallic (Lila)</br>
+				Cherry Metallic (Rojo)</br>
+				Coffee Beige Metallic</br>
+				Carmine Red (Rojo)</br>
+				Neptune Blue (Azul)</br>
+				Crayon (Gris)</br>
+				Ice Grey Metallic (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

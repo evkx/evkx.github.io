@@ -862,6 +862,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -869,6 +870,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -876,6 +878,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -883,6 +886,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -984,6 +988,36 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Huscar blue (Bleu)</br>
+				Juechen silver (Argent)</br>
+				Magic night black (Noir)</br>
+				Comet white (Blanc)</br>
+				Flash red (Rouge)</br>
+				Rose gold powder (Or)</br>
 			</td>
 		</tr>
 	</tbody>

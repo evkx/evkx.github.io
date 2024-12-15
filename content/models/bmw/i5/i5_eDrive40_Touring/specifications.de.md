@@ -1417,18 +1417,18 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten
-				Auf Stoßstange hinten
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten</br>
+				Auf Stoßstange hinten</br>
 			</td>
 		</tr>
 		<tr>
@@ -1436,12 +1436,12 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
-				Oben Mitte Windschutzscheibe
-				Vorne (Optional)
-				Am linken Außenspiegel (Optional)
-				Am rechten Außenspiegel (Optional)
-				Hinteres Zentrum (Optional)
-				Dachkonsole (Optional)
+				Oben Mitte Windschutzscheibe</br>
+				Vorne (Optional)</br>
+				Am linken Außenspiegel (Optional)</br>
+				Am rechten Außenspiegel (Optional)</br>
+				Hinteres Zentrum (Optional)</br>
+				Dachkonsole (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1449,11 +1449,11 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
-				Vorne
-				Linke vordere Ecke (Optional)
-				Rechte vordere Ecke (Optional)
-				Linke hintere Ecke (Optional)
-				Rechte hintere Ecke (Optional)
+				Vorne</br>
+				Linke vordere Ecke (Optional)</br>
+				Rechte vordere Ecke (Optional)</br>
+				Linke hintere Ecke (Optional)</br>
+				Rechte hintere Ecke (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1674,6 +1674,42 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				655
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Alpine White (Weiß)</br>
+				Carbon Black (Schwarz)</br>
+				Black Sapphire (Schwarz)</br>
+				Sophisto Grey Brilliant Effect (Grau)</br>
+				Mineral White (Weiß)</br>
+				Phytonic Blue (Blau)</br>
+				Oxide Grey (Grau)</br>
+				Brooklyn Grey (Grau)</br>
+				Cape York Green (Grün)</br>
+				Tanzanite Blue II  (Blau)</br>
+				Frozen Pure Grey (Grau)</br>
+				BMW Individual Frozen Deep Grey (Grau)</br>
 			</td>
 		</tr>
 	</tbody>

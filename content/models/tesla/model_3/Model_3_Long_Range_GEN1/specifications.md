@@ -1142,6 +1142,35 @@ This model is available with a seat configuration with five seats.
 		</tr>
 	</tbody>
 </table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Pearl White</br>
+				Solid Black</br>
+				Midnight Silver Metallic</br>
+				Deep Blue Metallic (Silver)</br>
+				Red Multi-Coat</br>
+			</td>
+		</tr>
+	</tbody>
+</table>
 <div class="mt-3 mb-3">
 <a href="../chargingcurve/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Charging curve </strong>

@@ -980,18 +980,18 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten
-				Auf Stoßstange hinten
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten</br>
+				Auf Stoßstange hinten</br>
 			</td>
 		</tr>
 		<tr>
@@ -999,11 +999,11 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
-				Oben Mitte Windschutzscheibe
-				Vorne
-				Am linken Außenspiegel
-				Am rechten Außenspiegel
-				Hinteres Zentrum
+				Oben Mitte Windschutzscheibe</br>
+				Vorne</br>
+				Am linken Außenspiegel</br>
+				Am rechten Außenspiegel</br>
+				Hinteres Zentrum</br>
 			</td>
 		</tr>
 		<tr>
@@ -1011,11 +1011,11 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
-				Vorne
-				Linke vordere Ecke
-				Rechte vordere Ecke
-				Linke hintere Ecke
-				Rechte hintere Ecke
+				Vorne</br>
+				Linke vordere Ecke</br>
+				Rechte vordere Ecke</br>
+				Linke hintere Ecke</br>
+				Rechte hintere Ecke</br>
 			</td>
 		</tr>
 		<tr>
@@ -1128,6 +1128,38 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 			</td>
 			<td>
 				Nicht verfügbar
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Argent Silver Metallic (Silber)</br>
+				Emerald Lake Metallic (Grün)</br>
+				Nimbus Metallic (Weiß)</br>
+				Stellar Black Metallic (Schwarz)</br>
+				Celestial Metallic (Blau)</br>
+				Opulent Blue Metallic (Blau)</br>
+				Crystal White Tricoat (Weiß)</br>
+				Radiant Red Tricoat (Rot)</br>
 			</td>
 		</tr>
 	</tbody>

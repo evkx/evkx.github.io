@@ -958,9 +958,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
-				På støtfanger bak venstre side
-				På støtfanger bak høyre side
-				På støtfanger bak
+				På støtfanger bak venstre side</br>
+				På støtfanger bak høyre side</br>
+				På støtfanger bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -968,8 +968,8 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
-				Topp senter frontrute
-				Bak senter
+				Topp senter frontrute</br>
+				Bak senter</br>
 			</td>
 		</tr>
 		<tr>
@@ -977,7 +977,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
+				Foran</br>
 			</td>
 		</tr>
 		<tr>
@@ -1091,6 +1091,34 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Ocean Eyes (Blå)</br>
+				Lavender Haze (Rosa)</br>
+				Vanilla Frost (Grønn)</br>
+				Electric Lemon (Gul)</br>
 			</td>
 		</tr>
 	</tbody>

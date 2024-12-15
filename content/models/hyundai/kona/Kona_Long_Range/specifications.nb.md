@@ -957,6 +957,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -964,6 +965,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -971,6 +973,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -978,6 +981,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1081,6 +1085,51 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Atlas White (Hvit)</br>
+				Abyss Black Pearl (Svart)</br>
+				Shimmering Silver Metallic  (Sølv)</br>
+				Serenity White Pearl (Hvit)</br>
+				Atlas White Solid (Hvit)</br>
+				Ecotronic Grey Pearl (Grå)</br>
+				Engine Red Solid (Rød)</br>
+				Meta Blue Pearl (Blå)</br>
+				Jupiter Orange Metallic (Oransje)</br>
+				Ultimate Red Metallic (Rød)</br>
+				Sailing Blue Pearl (Blå)</br>
+				Cypress Green Pearl (Grønn)</br>
+				Abyss Black (Svart)</br>
+				Cyber Grey (Grå)</br>
+				Serenity White Pearl (Hvit)</br>
+				Ecotronic Grey (Grå)</br>
+				Mirage Green (Grønn)</br>
+				Ultimate Red (Rød)</br>
+				Meta Blue (Blå)</br>
+				Denim Blue (Blå)</br>
+				Shooting Star Grey Matte (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

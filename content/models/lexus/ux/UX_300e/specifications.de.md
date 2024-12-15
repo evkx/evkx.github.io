@@ -1038,6 +1038,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1045,6 +1046,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1052,6 +1054,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1059,6 +1062,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Lidar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1188,6 +1192,40 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Red (Rot)</br>
+				Black (Schwarz)</br>
+				SONIC WHITE METALLIC (Weiß)</br>
+				SONIC TITANIUM METALLIC (Grau)</br>
+				GRAPHITE BLACK METALLIC (Schwarz)</br>
+				BLAZING CARNELIAN (Orange)</br>
+				TERRANE KHAKI (Grün)</br>
+				CELESTIAL BLUE (Blau)</br>
+				SONIC PLATINUM (Weiß)</br>
+				SONIC GREY (Grau)</br>
 			</td>
 		</tr>
 	</tbody>

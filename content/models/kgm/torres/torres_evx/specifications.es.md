@@ -1002,14 +1002,14 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
-				En el parachoques delantero
-				En el parachoques delantero
-				En la esquina delantera izquierda del parachoques
-				En la esquina delantera derecha del parachoques
-				En la esquina trasera izquierda del parachoques
-				En la esquina trasera derecha del parachoques
-				En el parachoques trasero
-				En el parachoques trasero
+				En el parachoques delantero</br>
+				En el parachoques delantero</br>
+				En la esquina delantera izquierda del parachoques</br>
+				En la esquina delantera derecha del parachoques</br>
+				En la esquina trasera izquierda del parachoques</br>
+				En la esquina trasera derecha del parachoques</br>
+				En el parachoques trasero</br>
+				En el parachoques trasero</br>
 			</td>
 		</tr>
 		<tr>
@@ -1017,11 +1017,11 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámaras
 			</td>
 			<td>
-				Centro superior del parabrisas
-				Frente (Opcional)
-				En el espejo retrovisor izquierdo (Opcional)
-				En el espejo retrovisor derecho (Opcional)
-				Centro trasero (Opcional)
+				Centro superior del parabrisas</br>
+				Frente (Opcional)</br>
+				En el espejo retrovisor izquierdo (Opcional)</br>
+				En el espejo retrovisor derecho (Opcional)</br>
+				Centro trasero (Opcional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1029,11 +1029,11 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de radar
 			</td>
 			<td>
-				Frente
-				Esquina delantera izquierda (Opcional)
-				Esquina delantera derecha (Opcional)
-				Esquina trasera izquierda (Opcional)
-				Esquina trasera derecha (Opcional)
+				Frente</br>
+				Esquina delantera izquierda (Opcional)</br>
+				Esquina delantera derecha (Opcional)</br>
+				Esquina trasera izquierda (Opcional)</br>
+				Esquina trasera derecha (Opcional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1145,6 +1145,36 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Grand White (Blanco)</br>
+				Platinium White (Gris)</br>
+				Dandy Blue (Azul)</br>
+				Iron Silver (Plata)</br>
+				Forrest Green (Verde)</br>
+				Space Black (Negro)</br>
 			</td>
 		</tr>
 	</tbody>

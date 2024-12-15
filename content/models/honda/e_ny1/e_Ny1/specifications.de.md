@@ -922,18 +922,18 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten
-				Auf Stoßstange hinten
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten</br>
+				Auf Stoßstange hinten</br>
 			</td>
 		</tr>
 		<tr>
@@ -941,11 +941,11 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
-				Oben Mitte Windschutzscheibe
-				Vorne (Optional)
-				Am linken Außenspiegel (Optional)
-				Am rechten Außenspiegel (Optional)
-				Hinteres Zentrum
+				Oben Mitte Windschutzscheibe</br>
+				Vorne (Optional)</br>
+				Am linken Außenspiegel (Optional)</br>
+				Am rechten Außenspiegel (Optional)</br>
+				Hinteres Zentrum</br>
 			</td>
 		</tr>
 		<tr>
@@ -953,11 +953,11 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
-				Vorne
-				Linke vordere Ecke
-				Rechte vordere Ecke
-				Linke hintere Ecke
-				Rechte hintere Ecke
+				Vorne</br>
+				Linke vordere Ecke</br>
+				Rechte vordere Ecke</br>
+				Linke hintere Ecke</br>
+				Rechte hintere Ecke</br>
 			</td>
 		</tr>
 		<tr>
@@ -1071,6 +1071,35 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				Nicht verfügbar
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Crystal Black Pearl (Schwarz)</br>
+				Obsdidian Blue (Blau)</br>
+				Aqua Topaz Metallic (Blau)</br>
+				Urban Grey Pearl (Grau)</br>
+				Platinum White Pearl (Weiß)</br>
 			</td>
 		</tr>
 	</tbody>

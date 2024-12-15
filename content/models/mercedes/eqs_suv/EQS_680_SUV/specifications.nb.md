@@ -994,6 +994,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1001,6 +1002,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1008,6 +1010,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1015,6 +1018,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1194,6 +1198,39 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 			</td>
 			<td>
 				590
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Polar white (Hvit)</br>
+				Black (Svart)</br>
+				Diamond white bright (Hvit)</br>
+				Selenite grey metallic (Grå)</br>
+				Obsidian black metallic (Svart)</br>
+				emerald green metallic (Grønn)</br>
+				Graphite grey metallic (Grå)</br>
+				Sodalite blue metallic (Blå)</br>
+				High-tech silver metallic (Sølv)</br>
 			</td>
 		</tr>
 	</tbody>

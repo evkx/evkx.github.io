@@ -896,18 +896,18 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
-				På kofanger foran
-				På kofanger foran
-				På kofanger venstre forhjørne
-				På kofanger højre forhjørne
-				På kofanger venstre forside
-				På kofanger højre forside
-				På kofanger venstre bagside
-				På kofanger højre bagside
-				På kofanger venstre baghjørne
-				På kofanger højre baghjørne
-				På kofanger bagpå
-				På kofanger bagpå
+				På kofanger foran</br>
+				På kofanger foran</br>
+				På kofanger venstre forhjørne</br>
+				På kofanger højre forhjørne</br>
+				På kofanger venstre forside</br>
+				På kofanger højre forside</br>
+				På kofanger venstre bagside</br>
+				På kofanger højre bagside</br>
+				På kofanger venstre baghjørne</br>
+				På kofanger højre baghjørne</br>
+				På kofanger bagpå</br>
+				På kofanger bagpå</br>
 			</td>
 		</tr>
 		<tr>
@@ -915,14 +915,14 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
-				Top center forrude
-				Foran
-				På venstre sidespejl
-				På højre sidespejl
-				Bageste center
-				Center tag over bagrude
-				Venstre forside
-				Højre forside
+				Top center forrude</br>
+				Foran</br>
+				På venstre sidespejl</br>
+				På højre sidespejl</br>
+				Bageste center</br>
+				Center tag over bagrude</br>
+				Venstre forside</br>
+				Højre forside</br>
 			</td>
 		</tr>
 		<tr>
@@ -930,7 +930,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
+				Foran</br>
 			</td>
 		</tr>
 		<tr>
@@ -1097,6 +1097,39 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				25
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Meteor Blue (Blå)</br>
+				Radiant Purple (Lilla)</br>
+				Olive Green (Grøn)</br>
+				Lava Orange</br>
+				Pearl White (Hvid)</br>
+				Diamond Black (Sort)</br>
+				Aqua Blue (Blå)</br>
+				Mineral gray (Grå)</br>
+				Elegant gray (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

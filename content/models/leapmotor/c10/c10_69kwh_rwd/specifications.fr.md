@@ -919,18 +919,18 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
-				Sur le pare-chocs avant (Optionnel)
-				Sur le pare-chocs avant (Optionnel)
-				Sur le coin avant gauche du pare-chocs (Optionnel)
-				Sur le coin avant droit du pare-chocs (Optionnel)
-				Sur le côté avant gauche du pare-chocs (Optionnel)
-				Sur le côté avant droit du pare-chocs (Optionnel)
-				Sur le côté arrière gauche du pare-chocs (Optionnel)
-				Sur le côté arrière droit du pare-chocs (Optionnel)
-				Sur le coin arrière gauche du pare-chocs
-				Sur le coin arrière droit du pare-chocs
-				Sur le pare-chocs arrière
-				Sur le pare-chocs arrière
+				Sur le pare-chocs avant (Optionnel)</br>
+				Sur le pare-chocs avant (Optionnel)</br>
+				Sur le coin avant gauche du pare-chocs (Optionnel)</br>
+				Sur le coin avant droit du pare-chocs (Optionnel)</br>
+				Sur le côté avant gauche du pare-chocs (Optionnel)</br>
+				Sur le côté avant droit du pare-chocs (Optionnel)</br>
+				Sur le côté arrière gauche du pare-chocs (Optionnel)</br>
+				Sur le côté arrière droit du pare-chocs (Optionnel)</br>
+				Sur le coin arrière gauche du pare-chocs</br>
+				Sur le coin arrière droit du pare-chocs</br>
+				Sur le pare-chocs arrière</br>
+				Sur le pare-chocs arrière</br>
 			</td>
 		</tr>
 		<tr>
@@ -938,13 +938,13 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
-				Centre supérieur du pare-brise
-				Côté avant gauche
-				Côté avant droit
-				Avant (Optionnel)
-				Sur le rétroviseur gauche (Optionnel)
-				Sur le rétroviseur droit (Optionnel)
-				Centre arrière (Optionnel)
+				Centre supérieur du pare-brise</br>
+				Côté avant gauche</br>
+				Côté avant droit</br>
+				Avant (Optionnel)</br>
+				Sur le rétroviseur gauche (Optionnel)</br>
+				Sur le rétroviseur droit (Optionnel)</br>
+				Centre arrière (Optionnel)</br>
 			</td>
 		</tr>
 		<tr>
@@ -952,11 +952,11 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
-				Avant (Optionnel)
-				Coin avant gauche (Optionnel)
-				Coin avant droit (Optionnel)
-				Coin arrière gauche (Optionnel)
-				Coin arrière droit (Optionnel)
+				Avant (Optionnel)</br>
+				Coin avant gauche (Optionnel)</br>
+				Coin avant droit (Optionnel)</br>
+				Coin arrière gauche (Optionnel)</br>
+				Coin arrière droit (Optionnel)</br>
 			</td>
 		</tr>
 		<tr>
@@ -964,7 +964,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
-				Toit central au-dessus du pare-brise (Optionnel)
+				Toit central au-dessus du pare-brise (Optionnel)</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1067,6 +1067,36 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Glazed green (Vert)</br>
+				Pearly White (Blanc)</br>
+				Sky canopy gray (Gris)</br>
+				Metallic Black (Noir)</br>
+				Glacier Blue (Bleu)</br>
+				Tundra Gray (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

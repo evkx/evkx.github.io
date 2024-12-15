@@ -1147,6 +1147,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1154,6 +1155,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1161,6 +1163,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1168,6 +1171,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1273,6 +1277,42 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Candy white</br>
+				Mono Silver Metallic</br>
+				Bay Leaf Green Metallic</br>
+				Bay Leaf Green Metallic</br>
+				Candy White/Bay Leaf Green</br>
+				Candy White/Energetic Orange</br>
+				Candy White/Pomelo Yellow</br>
+				Candy White/Starlight Blue</br>
+				Energetic Orange Metallic</br>
+				Pomelo Yellow Metallic</br>
+				Starlight Blue Metallic</br>
+				Deep Black Pearlescent (Blue)</br>
 			</td>
 		</tr>
 	</tbody>

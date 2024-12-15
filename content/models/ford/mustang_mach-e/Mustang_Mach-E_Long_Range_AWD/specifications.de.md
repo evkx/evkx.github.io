@@ -989,6 +989,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -996,6 +997,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1003,6 +1005,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1010,6 +1013,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Lidar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1112,6 +1116,38 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				Nicht verfügbar
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Absolute Black (Schwarz)</br>
+				Vapor Blue (Blau)</br>
+				Grabber Blue (Blau)</br>
+				Space White (Weiß)</br>
+				Star White (Weiß)</br>
+				Rapid Red (Rot)</br>
+				Carbonized (Grau)</br>
+				Cyber (Orange)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -789,6 +789,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores ultrasónicos
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -796,6 +797,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Cámaras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -803,6 +805,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores de radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -810,6 +813,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -914,6 +918,35 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Gunpowder Grey (Gris)</br>
+				P5 Silver (Plata)</br>
+				E-Racing Blue (Azul)</br>
+				Polar Blue (Blanco)</br>
+				Rivera Blue (Azul)</br>
 			</td>
 		</tr>
 	</tbody>

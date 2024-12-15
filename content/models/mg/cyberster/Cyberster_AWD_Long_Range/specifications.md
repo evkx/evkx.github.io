@@ -774,6 +774,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -781,6 +782,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -788,6 +790,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -795,6 +798,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -900,6 +904,37 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Dover White</br>
+				Pebble Black</br>
+				Diamond Red</br>
+				Metallic Silver</br>
+				Brighton Blue</br>
+				Fizzy Orange</br>
+				Andes Grey (Gray)</br>
 			</td>
 		</tr>
 	</tbody>

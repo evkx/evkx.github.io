@@ -917,6 +917,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit vier Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -924,6 +925,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit vier Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -931,6 +933,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit vier Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -938,6 +941,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit vier Sitzen erhältlich.
 				Lidar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1041,6 +1045,39 @@ Dieses Modell ist mit einer Sitzkonfiguration mit vier Sitzen erhältlich.
 			</td>
 			<td>
 				Nicht verfügbar
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Atlas White (Weiß)</br>
+				Tomboy Khaki (Beige)</br>
+				Bijarim Khaki Matte (Beige)</br>
+				Unbleached Ivory (Beige)</br>
+				Sienna Orange Metallic</br>
+				Aero Silver Matte (Silber)</br>
+				Dusk Blue Matte (Blau)</br>
+				Abyss Black Pearl (Schwarz)</br>
+				Buttercream Yellow Pearl (Gelb)</br>
 			</td>
 		</tr>
 	</tbody>

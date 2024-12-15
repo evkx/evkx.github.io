@@ -942,6 +942,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +950,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -956,6 +958,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -963,6 +966,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1124,6 +1128,41 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Gravity Blue (Blå)</br>
+				Interstellar Grey (Grå)</br>
+				Yacht Blue (Blå)</br>
+				Runway Red (Röd)</br>
+				Aurora Black (Svart)</br>
+				Steel Grey (Grå)</br>
+				Intersteller Grey (Grå)</br>
+				Glacier (Vit)</br>
+				Deep Forest (Grön)</br>
+				Moonscape (Silver)</br>
+				Snow White Pearl (Vit)</br>
 			</td>
 		</tr>
 	</tbody>

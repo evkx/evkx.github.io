@@ -1288,6 +1288,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1295,6 +1296,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1302,6 +1304,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1309,6 +1312,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1488,6 +1492,37 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				480
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Arctic Blue Metallic (Blå)</br>
+				Blue My Mind Metallic (Blå)</br>
+				Agate Black Metallic (Sort)</br>
+				Kings red metallic with black roof (Rød)</br>
+				Magnetic Metallic (Grå)</br>
+				Frozen White (Hvid)</br>
+				Rapid Red Metallic (Rød)</br>
 			</td>
 		</tr>
 	</tbody>

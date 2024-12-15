@@ -1288,6 +1288,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1295,6 +1296,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1302,6 +1304,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1309,6 +1312,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1456,6 +1460,40 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				450
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Moonstone Grey (Gray)</br>
+				Moonstone Grey with black roof (Gray)</br>
+				Blue Dusk Metallic</br>
+				Blue Dusk Metallic with black roof</br>
+				Glacier White Metallic</br>
+				Glacier White Metallic with black roof</br>
+				Grenadill Black metallic</br>
+				Kings red metallic</br>
+				Kings red metallic with black roof</br>
+				Scale silver metallic with black roof</br>
 			</td>
 		</tr>
 	</tbody>

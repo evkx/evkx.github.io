@@ -873,6 +873,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -880,6 +881,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -887,6 +889,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -894,6 +897,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -996,6 +1000,36 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Sonic Grey (Gris)</br>
+				StarChase Silver (Argent)</br>
+				Anthelion White (Blanc)</br>
+				Star Ocean Blue (Bleu)</br>
+				Ice Crystal Blue (Bleu)</br>
+				Khaki Green (Vert)</br>
 			</td>
 		</tr>
 	</tbody>

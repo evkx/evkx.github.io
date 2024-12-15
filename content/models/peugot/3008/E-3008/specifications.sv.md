@@ -1001,18 +1001,18 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
-				På stötfångare fram (Valfritt)
-				På stötfångare fram (Valfritt)
-				På stötfångare fram vänster hörn (Valfritt)
-				På stötfångare fram höger hörn (Valfritt)
-				På stötfångare fram vänster sida (Valfritt)
-				På stötfångare fram höger sida (Valfritt)
-				På stötfångare bak vänster sida
-				På stötfångare bak höger sida
-				På stötfångare bak vänster hörn
-				På stötfångare bak höger hörn
-				På stötfångare bak
-				På stötfångare bak
+				På stötfångare fram (Valfritt)</br>
+				På stötfångare fram (Valfritt)</br>
+				På stötfångare fram vänster hörn (Valfritt)</br>
+				På stötfångare fram höger hörn (Valfritt)</br>
+				På stötfångare fram vänster sida (Valfritt)</br>
+				På stötfångare fram höger sida (Valfritt)</br>
+				På stötfångare bak vänster sida</br>
+				På stötfångare bak höger sida</br>
+				På stötfångare bak vänster hörn</br>
+				På stötfångare bak höger hörn</br>
+				På stötfångare bak</br>
+				På stötfångare bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -1020,11 +1020,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
-				Topp center vindruta
-				Fram (Valfritt)
-				På vänster sidospegel (Valfritt)
-				På höger sidospegel (Valfritt)
-				Bak center
+				Topp center vindruta</br>
+				Fram (Valfritt)</br>
+				På vänster sidospegel (Valfritt)</br>
+				På höger sidospegel (Valfritt)</br>
+				Bak center</br>
 			</td>
 		</tr>
 		<tr>
@@ -1032,9 +1032,9 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
-				Fram
-				Vänster bakre hörn (Valfritt)
-				Höger bakre hörn (Valfritt)
+				Fram</br>
+				Vänster bakre hörn (Valfritt)</br>
+				Höger bakre hörn (Valfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1214,6 +1214,36 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				690
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Obsession Blue (Blå)</br>
+				Ingaro Blue (Blå)</br>
+				Okenite White (Vit)</br>
+				Pearl Nera Black (Svart)</br>
+				Artense Grey (Grå)</br>
+				Titane Grey (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

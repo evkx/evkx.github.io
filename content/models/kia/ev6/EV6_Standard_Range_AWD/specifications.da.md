@@ -958,6 +958,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -965,6 +966,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -972,6 +974,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -979,6 +982,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1140,6 +1144,41 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Gravity Blue (Blå)</br>
+				Interstellar Grey (Grå)</br>
+				Yacht Blue (Blå)</br>
+				Runway Red (Rød)</br>
+				Aurora Black (Sort)</br>
+				Steel Grey (Grå)</br>
+				Intersteller Grey (Grå)</br>
+				Glacier (Hvid)</br>
+				Deep Forest (Grøn)</br>
+				Moonscape (Sølv)</br>
+				Snow White Pearl (Hvid)</br>
 			</td>
 		</tr>
 	</tbody>

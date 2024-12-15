@@ -999,6 +999,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1006,6 +1007,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1013,6 +1015,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1020,6 +1023,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1196,6 +1200,38 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				1610
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Onyx Black (Sort)</br>
+				Denim Blue (Blå)</br>
+				Platinum (Grå)</br>
+				Silver Dawn (Sølv)</br>
+				Mulberry Red (Rød)</br>
+				Vapour Grey (Grå)</br>
+				Sand Dune (Beige)</br>
+				Christal White (Hvid)</br>
 			</td>
 		</tr>
 	</tbody>

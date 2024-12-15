@@ -930,18 +930,18 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
-				On bumper front (Optional)
-				On bumper front (Optional)
-				On bumper front left corner (Optional)
-				On bumper front right corner (Optional)
-				On bumper front left side (Optional)
-				On bumper front right side (Optional)
-				On bumper rear left side (Optional)
-				On bumper rear right side (Optional)
-				On bumper rear left corner (Optional)
-				On bumper rear right corner (Optional)
-				On bumper rear (Optional)
-				On bumper rear (Optional)
+				On bumper front (Optional)</br>
+				On bumper front (Optional)</br>
+				On bumper front left corner (Optional)</br>
+				On bumper front right corner (Optional)</br>
+				On bumper front left side (Optional)</br>
+				On bumper front right side (Optional)</br>
+				On bumper rear left side (Optional)</br>
+				On bumper rear right side (Optional)</br>
+				On bumper rear left corner (Optional)</br>
+				On bumper rear right corner (Optional)</br>
+				On bumper rear (Optional)</br>
+				On bumper rear (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -949,7 +949,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
-				Rear center (Optional)
+				Rear center (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -957,6 +957,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -964,6 +965,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1127,6 +1129,35 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				10
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Pop Yellow</br>
+				Pop Green</br>
+				Pearl White</br>
+				Starry Black</br>
+				Midnight Blue</br>
 			</td>
 		</tr>
 	</tbody>

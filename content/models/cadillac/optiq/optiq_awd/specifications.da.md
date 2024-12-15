@@ -929,6 +929,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -936,6 +937,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -943,6 +945,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -950,6 +953,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1054,6 +1058,38 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Argent Silver Metallic (Sølv)</br>
+				Emerald Lake Metallic (Grøn)</br>
+				Nimbus Metallic (Hvid)</br>
+				Stellar Black Metallic (Sort)</br>
+				Celestial Metallic (Blå)</br>
+				Opulent Blue Metallic (Blå)</br>
+				Crystal White Tricoat (Hvid)</br>
+				Radiant Red Tricoat (Rød)</br>
 			</td>
 		</tr>
 	</tbody>

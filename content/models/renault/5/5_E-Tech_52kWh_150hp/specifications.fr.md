@@ -930,18 +930,18 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
-				Sur le pare-chocs avant (Optionnel)
-				Sur le pare-chocs avant (Optionnel)
-				Sur le coin avant gauche du pare-chocs (Optionnel)
-				Sur le coin avant droit du pare-chocs (Optionnel)
-				Sur le côté avant gauche du pare-chocs (Optionnel)
-				Sur le côté avant droit du pare-chocs (Optionnel)
-				Sur le côté arrière gauche du pare-chocs (Optionnel)
-				Sur le côté arrière droit du pare-chocs (Optionnel)
-				Sur le coin arrière gauche du pare-chocs (Optionnel)
-				Sur le coin arrière droit du pare-chocs (Optionnel)
-				Sur le pare-chocs arrière (Optionnel)
-				Sur le pare-chocs arrière (Optionnel)
+				Sur le pare-chocs avant (Optionnel)</br>
+				Sur le pare-chocs avant (Optionnel)</br>
+				Sur le coin avant gauche du pare-chocs (Optionnel)</br>
+				Sur le coin avant droit du pare-chocs (Optionnel)</br>
+				Sur le côté avant gauche du pare-chocs (Optionnel)</br>
+				Sur le côté avant droit du pare-chocs (Optionnel)</br>
+				Sur le côté arrière gauche du pare-chocs (Optionnel)</br>
+				Sur le côté arrière droit du pare-chocs (Optionnel)</br>
+				Sur le coin arrière gauche du pare-chocs (Optionnel)</br>
+				Sur le coin arrière droit du pare-chocs (Optionnel)</br>
+				Sur le pare-chocs arrière (Optionnel)</br>
+				Sur le pare-chocs arrière (Optionnel)</br>
 			</td>
 		</tr>
 		<tr>
@@ -949,7 +949,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
-				Centre arrière (Optionnel)
+				Centre arrière (Optionnel)</br>
 			</td>
 		</tr>
 		<tr>
@@ -957,6 +957,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -964,6 +965,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1127,6 +1129,35 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				10
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Pop Yellow (Jaune)</br>
+				Pop Green (Vert)</br>
+				Pearl White (Blanc)</br>
+				Starry Black (Noir)</br>
+				Midnight Blue (Bleu)</br>
 			</td>
 		</tr>
 	</tbody>

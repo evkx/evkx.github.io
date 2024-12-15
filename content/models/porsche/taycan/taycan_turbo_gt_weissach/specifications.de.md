@@ -1070,6 +1070,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Ultraschallsensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1077,6 +1078,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kameras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1084,6 +1086,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Radar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1091,6 +1094,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Lidar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1301,6 +1305,47 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				1455
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				White (Weiß)</br>
+				Black (Schwarz)</br>
+				Jet Black Metallic (Schwarz)</br>
+				Volcano Grey Metallic (Grau)</br>
+				Carrara White Metallic (Weiß)</br>
+				Gentian Blue Metallic (Blau)</br>
+				Dolomite Silver Metallic (Silber)</br>
+				Mamba Green Metallic (Grün)</br>
+				Frozen Blue Metallic (Blau)</br>
+				Mahogany Metallic (Braun)</br>
+				Frozen Berry Metallic (Flieder)</br>
+				Cherry Metallic (Rot)</br>
+				Coffee Beige Metallic</br>
+				Carmine Red (Rot)</br>
+				Neptune Blue (Blau)</br>
+				Crayon (Grau)</br>
+				Ice Grey Metallic (Grau)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1291,6 +1291,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1298,6 +1299,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1305,6 +1307,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1312,6 +1315,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1489,6 +1493,39 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				750
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Fuji White (Hvid)</br>
+				Santorini Black (Sort)</br>
+				Firenze Red (Rød)</br>
+				Eiger Grey (Grå)</br>
+				Portofini Blue (Blå)</br>
+				Ostuni Pearl White (Hvid)</br>
+				Carpathian Grey (Grå)</br>
+				Eiger Grey in Satin Finish (Grå)</br>
+				Carpathian Grey in Satin Finish (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

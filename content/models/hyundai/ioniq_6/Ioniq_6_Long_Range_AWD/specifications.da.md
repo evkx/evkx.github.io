@@ -1006,6 +1006,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1013,6 +1014,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1020,6 +1022,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1027,6 +1030,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1130,6 +1134,39 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Abyss Black Pearl (Sort)</br>
+				Serenity White Pearl (Hvid)</br>
+				Lucid Blue Pearl (Blå)</br>
+				Curated Silver Metallic (Sølv)</br>
+				Gravity Gold Matte (Guld)</br>
+				Transmission Blue Pearl (Blå)</br>
+				Biophilic Blue Pearl (Blå)</br>
+				Digital Green Pearl (Grøn)</br>
+				Byte Blue Metallic (Blå)</br>
 			</td>
 		</tr>
 	</tbody>

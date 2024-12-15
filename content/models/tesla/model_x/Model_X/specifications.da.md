@@ -1034,6 +1034,7 @@ Interior.Seatlayout.OnlySix
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1041,6 +1042,7 @@ Interior.Seatlayout.OnlySix
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1048,6 +1050,7 @@ Interior.Seatlayout.OnlySix
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1055,6 +1058,7 @@ Interior.Seatlayout.OnlySix
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1158,6 +1162,35 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Pearl White (Hvid)</br>
+				Solid Black (Sort)</br>
+				Midnight Silver Metallic (Sølv)</br>
+				Deep Blue Metallic (Sølv)</br>
+				Red Multi-Coat (Rød)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -942,6 +942,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +950,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -956,6 +958,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -963,6 +966,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1124,6 +1128,41 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Gravity Blue</br>
+				Interstellar Grey (Gray)</br>
+				Yacht Blue</br>
+				Runway Red</br>
+				Aurora Black</br>
+				Steel Grey (Gray)</br>
+				Intersteller Grey (Gray)</br>
+				Glacier (White)</br>
+				Deep Forest (Green)</br>
+				Moonscape (Silver)</br>
+				Snow White Pearl</br>
 			</td>
 		</tr>
 	</tbody>

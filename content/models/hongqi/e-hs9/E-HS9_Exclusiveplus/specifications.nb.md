@@ -954,6 +954,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -961,6 +962,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -968,6 +970,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -975,6 +978,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1080,6 +1084,36 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 			</td>
 			<td>
 				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Artic Black Metallic (Svart)</br>
+				Glacier White Metallic (Hvit)</br>
+				Glacier White Artic Black Roof Metallic (Grå)</br>
+				Mountain Grey Metallic (Grå)</br>
+				Mountain Grey Artic Black Roof Metallic (Grå)</br>
+				Mountain Grey Glacier White Metallic (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1131,6 +1131,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1138,6 +1139,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1145,6 +1147,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1152,6 +1155,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1299,6 +1303,49 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				590
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Polar white (Hvit)</br>
+				Black (Svart)</br>
+				Diamond white bright (Hvit)</br>
+				Selenite grey metallic (Grå)</br>
+				Obsidian black metallic (Svart)</br>
+				emerald green metallic (Grønn)</br>
+				Graphite grey metallic (Grå)</br>
+				Sodalite blue metallic (Blå)</br>
+				High-tech silver metallic (Sølv)</br>
+				Platinium magno (Grå)</br>
+				Monza gray magno (Grå)</br>
+				Night black magno (Svart)</br>
+				Dark olive magno (Grønn)</br>
+				Citrine brown magno (Brun)</br>
+				Copper orange magno (Oransje)</br>
+				Opalite white magno (Hvit)</br>
+				Kalaharigold magno (Gull)</br>
+				Mangan grey magno (Grå)</br>
+				Magnetblack metallic (Svart)</br>
 			</td>
 		</tr>
 	</tbody>

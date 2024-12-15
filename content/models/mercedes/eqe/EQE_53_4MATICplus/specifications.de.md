@@ -1195,6 +1195,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1202,6 +1203,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1209,6 +1211,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1216,6 +1219,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Lidar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1363,6 +1367,41 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				590
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Polar white (Weiß)</br>
+				Black (Schwarz)</br>
+				Hyacinth red metallic (Rot)</br>
+				Opalite white bright (Weiß)</br>
+				Graphite grey magno (Grau)</br>
+				Graphite grey metallic (Grau)</br>
+				Obsidian black metallic (Schwarz)</br>
+				High-tech silver metallic (Silber)</br>
+				Spectral blue metallic (Blau)</br>
+				Selenite grey metallic (Grau)</br>
+				Alpine grey (Grau)</br>
 			</td>
 		</tr>
 	</tbody>

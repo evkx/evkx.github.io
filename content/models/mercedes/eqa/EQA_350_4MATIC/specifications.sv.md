@@ -1131,6 +1131,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1138,6 +1139,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1145,6 +1147,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1152,6 +1155,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1331,6 +1335,40 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				225
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Polar white (Vit)</br>
+				Night black (Svart)</br>
+				Pategonia red metallic (Röd)</br>
+				Mountain grey MAGNO (Grå)</br>
+				Cosmos black metallic (Svart)</br>
+				Denim blue (Blå)</br>
+				Iridium silver metallic</br>
+				Mountain grey metallic (Grå)</br>
+				Rosé gold metallic (Guld)</br>
+				Digital white metallic (Vit)</br>
 			</td>
 		</tr>
 	</tbody>

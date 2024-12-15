@@ -1516,6 +1516,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1523,6 +1524,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1530,6 +1532,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1537,6 +1540,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1714,6 +1718,84 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				700
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Daytona Grey (Gris)</br>
+				Arkona White (Blanc)</br>
+				Florett Silver (Argent)</br>
+				Kemora Grey (Gris)</br>
+				Bedford Green (Vert)</br>
+				Mythos black (Noir)</br>
+				Progressive Red (Rouge)</br>
+				Merlin purple, pearl effect (Violet)</br>
+				Velvet purple, pearl effect (Violet)</br>
+				Sepang blue, pearl effect (Bleu)</br>
+				Nogoro blue, pearl effect (Bleu)</br>
+				Palace blue, pearl effect (Bleu)</br>
+				Night blue, pearl effect (Bleu)</br>
+				Oak green, pearl effect (Vert)</br>
+				Goodwood green, pearl effect (Vert)</br>
+				Deep green, pearl effect (Vert)</br>
+				Sand beige, pearl effect</br>
+				Arrow grey, pearl effect (Gris)</br>
+				Nimbus grey, pearl effect (Gris)</br>
+				Ara blue, crystal effect (Bleu)</br>
+				Panther black, crystal effect (Noir)</br>
+				Amalfi white (Blanc)</br>
+				Vegas yellow (Jaune)</br>
+				Green (Vert)</br>
+				Cumulus blue (Bleu)</br>
+				Citrus yellow (Jaune)</br>
+				Solar orange (Jaune)</br>
+				Solar orange</br>
+				Quantum grey (Gris)</br>
+				Nardo grey (Gris)</br>
+				Camoflage green (Vert)</br>
+				Soho brown (Marron)</br>
+				Java brown (Marron)</br>
+				Teak brown (Marron)</br>
+				Ipanema brown (Marron)</br>
+				Diamond beige</br>
+				Siam beige</br>
+				Tornado grey (Gris)</br>
+				Havana black (Noir)</br>
+				Mamba black (Noir)</br>
+				Vesuvius grey (Gris)</br>
+				Ice silver (Argent)</br>
+				Suzuka grey (Gris)</br>
+				Terra grey (Gris)</br>
+				Cuvée silver (Argent)</br>
+				Samoa orange</br>
+				Coral orange</br>
+				Catalunya red (Rouge)</br>
+				Tango red (Rouge)</br>
+				Shiraz red (Rouge)</br>
+				Seville red (Rouge)</br>
+				Ascari blue (Bleu)</br>
+				Utopia blue (Bleu)</br>
+				Java green (Vert)</br>
 			</td>
 		</tr>
 	</tbody>

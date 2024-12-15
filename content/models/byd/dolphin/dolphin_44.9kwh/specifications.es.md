@@ -1002,9 +1002,9 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
-				En la esquina trasera izquierda del parachoques
-				En la esquina trasera derecha del parachoques
-				En el parachoques trasero
+				En la esquina trasera izquierda del parachoques</br>
+				En la esquina trasera derecha del parachoques</br>
+				En el parachoques trasero</br>
 			</td>
 		</tr>
 		<tr>
@@ -1012,7 +1012,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámaras
 			</td>
 			<td>
-				Centro superior del parabrisas
+				Centro superior del parabrisas</br>
 			</td>
 		</tr>
 		<tr>
@@ -1134,6 +1134,36 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Cream white (Blanco)</br>
+				Urban Grey (Gris)</br>
+				Skiing White (Blanco)</br>
+				Jet Black (Negro)</br>
+				Coral Pink (Rosa)</br>
+				Amethyst purple (Púrpura)</br>
 			</td>
 		</tr>
 	</tbody>

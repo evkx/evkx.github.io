@@ -1229,18 +1229,18 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Ultralydssensorer
 			</td>
 			<td>
-				På kofanger foran
-				På kofanger foran
-				På kofanger venstre forhjørne
-				På kofanger højre forhjørne
-				På kofanger venstre forside
-				På kofanger højre forside
-				På kofanger venstre bagside
-				På kofanger højre bagside
-				På kofanger venstre baghjørne
-				På kofanger højre baghjørne
-				På kofanger bagpå
-				På kofanger bagpå
+				På kofanger foran</br>
+				På kofanger foran</br>
+				På kofanger venstre forhjørne</br>
+				På kofanger højre forhjørne</br>
+				På kofanger venstre forside</br>
+				På kofanger højre forside</br>
+				På kofanger venstre bagside</br>
+				På kofanger højre bagside</br>
+				På kofanger venstre baghjørne</br>
+				På kofanger højre baghjørne</br>
+				På kofanger bagpå</br>
+				På kofanger bagpå</br>
 			</td>
 		</tr>
 		<tr>
@@ -1248,11 +1248,11 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Kameraer
 			</td>
 			<td>
-				Top center forrude
-				Foran (Valgfri)
-				På venstre sidespejl (Valgfri)
-				På højre sidespejl (Valgfri)
-				Bageste center (Valgfri)
+				Top center forrude</br>
+				Foran (Valgfri)</br>
+				På venstre sidespejl (Valgfri)</br>
+				På højre sidespejl (Valgfri)</br>
+				Bageste center (Valgfri)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1260,10 +1260,10 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Radar-sensorer
 			</td>
 			<td>
-				Venstre forhjørne
-				Højre forhjørne
-				Venstre baghjørne
-				Højre baghjørne
+				Venstre forhjørne</br>
+				Højre forhjørne</br>
+				Venstre baghjørne</br>
+				Højre baghjørne</br>
 			</td>
 		</tr>
 		<tr>
@@ -1271,7 +1271,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Lidar-sensorer
 			</td>
 			<td>
-				Foran
+				Foran</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1443,6 +1443,36 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 			</td>
 			<td>
 				800
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Abyss Black (Sort)</br>
+				Stellar White (Hvid)</br>
+				Aurora Green (Grøn)</br>
+				Quantom Gray (Grå)</br>
+				Supernova Bronze</br>
+				Lunar Titanium (Sølv)</br>
 			</td>
 		</tr>
 	</tbody>

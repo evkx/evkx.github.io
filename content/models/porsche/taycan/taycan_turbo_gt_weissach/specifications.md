@@ -1070,6 +1070,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1077,6 +1078,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1084,6 +1086,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1091,6 +1094,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1301,6 +1305,47 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				1455
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				White</br>
+				Black</br>
+				Jet Black Metallic</br>
+				Volcano Grey Metallic (Gray)</br>
+				Carrara White Metallic</br>
+				Gentian Blue Metallic</br>
+				Dolomite Silver Metallic</br>
+				Mamba Green Metallic</br>
+				Frozen Blue Metallic</br>
+				Mahogany Metallic (Brown)</br>
+				Frozen Berry Metallic (Lilac)</br>
+				Cherry Metallic (Red)</br>
+				Coffee Beige Metallic</br>
+				Carmine Red</br>
+				Neptune Blue</br>
+				Crayon (Gray)</br>
+				Ice Grey Metallic (Gray)</br>
 			</td>
 		</tr>
 	</tbody>

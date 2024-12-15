@@ -962,6 +962,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -969,6 +970,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -976,6 +978,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -983,6 +986,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1088,6 +1092,36 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Artic Black Metallic (Sort)</br>
+				Glacier White Metallic (Hvid)</br>
+				Glacier White Artic Black Roof Metallic (Grå)</br>
+				Mountain Grey Metallic (Grå)</br>
+				Mountain Grey Artic Black Roof Metallic (Grå)</br>
+				Mountain Grey Glacier White Metallic (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

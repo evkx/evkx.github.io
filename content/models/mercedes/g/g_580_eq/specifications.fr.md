@@ -1131,6 +1131,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1138,6 +1139,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1145,6 +1147,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1152,6 +1155,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1299,6 +1303,49 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				590
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Polar white (Blanc)</br>
+				Black (Noir)</br>
+				Diamond white bright (Blanc)</br>
+				Selenite grey metallic (Gris)</br>
+				Obsidian black metallic (Noir)</br>
+				emerald green metallic (Vert)</br>
+				Graphite grey metallic (Gris)</br>
+				Sodalite blue metallic (Bleu)</br>
+				High-tech silver metallic (Argent)</br>
+				Platinium magno (Gris)</br>
+				Monza gray magno (Gris)</br>
+				Night black magno (Noir)</br>
+				Dark olive magno (Vert)</br>
+				Citrine brown magno (Marron)</br>
+				Copper orange magno</br>
+				Opalite white magno (Blanc)</br>
+				Kalaharigold magno (Or)</br>
+				Mangan grey magno (Gris)</br>
+				Magnetblack metallic (Noir)</br>
 			</td>
 		</tr>
 	</tbody>

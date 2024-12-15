@@ -1034,6 +1034,7 @@ Interior.Seatlayout.OnlySix
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1041,6 +1042,7 @@ Interior.Seatlayout.OnlySix
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1048,6 +1050,7 @@ Interior.Seatlayout.OnlySix
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1055,6 +1058,7 @@ Interior.Seatlayout.OnlySix
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1158,6 +1162,35 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Pearl White (Vit)</br>
+				Solid Black (Svart)</br>
+				Midnight Silver Metallic</br>
+				Deep Blue Metallic (Silver)</br>
+				Red Multi-Coat (Röd)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1139,6 +1139,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1146,6 +1147,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1153,6 +1155,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1160,6 +1163,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1339,6 +1343,40 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				225
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Polar white (Hvit)</br>
+				Night black (Svart)</br>
+				Pategonia red metallic (Rød)</br>
+				Mountain grey MAGNO (Grå)</br>
+				Cosmos black metallic (Svart)</br>
+				Denim blue (Blå)</br>
+				Iridium silver metallic (Sølv)</br>
+				Mountain grey metallic (Grå)</br>
+				Rosé gold metallic (Gull)</br>
+				Digital white metallic (Hvit)</br>
 			</td>
 		</tr>
 	</tbody>

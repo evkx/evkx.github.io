@@ -1002,9 +1002,9 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten</br>
 			</td>
 		</tr>
 		<tr>
@@ -1012,7 +1012,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
-				Oben Mitte Windschutzscheibe
+				Oben Mitte Windschutzscheibe</br>
 			</td>
 		</tr>
 		<tr>
@@ -1134,6 +1134,36 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				Nicht verfügbar
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Cream white (Weiß)</br>
+				Urban Grey (Grau)</br>
+				Skiing White (Weiß)</br>
+				Jet Black (Schwarz)</br>
+				Coral Pink (Rosa)</br>
+				Amethyst purple (Lila)</br>
 			</td>
 		</tr>
 	</tbody>

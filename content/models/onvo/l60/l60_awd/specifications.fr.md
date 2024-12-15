@@ -1018,18 +1018,18 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
-				Sur le pare-chocs avant
-				Sur le pare-chocs avant
-				Sur le coin avant gauche du pare-chocs
-				Sur le coin avant droit du pare-chocs
-				Sur le côté avant gauche du pare-chocs
-				Sur le côté avant droit du pare-chocs
-				Sur le côté arrière gauche du pare-chocs
-				Sur le côté arrière droit du pare-chocs
-				Sur le coin arrière gauche du pare-chocs
-				Sur le coin arrière droit du pare-chocs
-				Sur le pare-chocs arrière
-				Sur le pare-chocs arrière
+				Sur le pare-chocs avant</br>
+				Sur le pare-chocs avant</br>
+				Sur le coin avant gauche du pare-chocs</br>
+				Sur le coin avant droit du pare-chocs</br>
+				Sur le côté avant gauche du pare-chocs</br>
+				Sur le côté avant droit du pare-chocs</br>
+				Sur le côté arrière gauche du pare-chocs</br>
+				Sur le côté arrière droit du pare-chocs</br>
+				Sur le coin arrière gauche du pare-chocs</br>
+				Sur le coin arrière droit du pare-chocs</br>
+				Sur le pare-chocs arrière</br>
+				Sur le pare-chocs arrière</br>
 			</td>
 		</tr>
 		<tr>
@@ -1037,16 +1037,16 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
-				Centre supérieur du pare-brise
-				Toit gauche au-dessus du pare-brise
-				
-				Avant
-				Côté avant gauche
-				Côté avant droit
-				Sur le rétroviseur gauche
-				Sur le rétroviseur droit
-				Toit central au-dessus de la fenêtre arrière
-				Centre arrière
+				Centre supérieur du pare-brise</br>
+				Toit gauche au-dessus du pare-brise</br>
+				</br>
+				Avant</br>
+				Côté avant gauche</br>
+				Côté avant droit</br>
+				Sur le rétroviseur gauche</br>
+				Sur le rétroviseur droit</br>
+				Toit central au-dessus de la fenêtre arrière</br>
+				Centre arrière</br>
 			</td>
 		</tr>
 		<tr>
@@ -1054,11 +1054,11 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
-				Avant
-				Coin avant gauche
-				Coin avant droit
-				Coin arrière gauche
-				Coin arrière droit
+				Avant</br>
+				Coin avant gauche</br>
+				Coin avant droit</br>
+				Coin arrière gauche</br>
+				Coin arrière droit</br>
 			</td>
 		</tr>
 		<tr>
@@ -1172,6 +1172,37 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				Oui, 8"
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Dawn Orange</br>
+				Coastal Blue (Bleu)</br>
+				Starry Black (Noir)</br>
+				Polar Silver (Argent)</br>
+				Snow Peak White (Blanc)</br>
+				Distant Mountain Green (Vert)</br>
+				Cloud Mist Purple (Violet)</br>
 			</td>
 		</tr>
 	</tbody>

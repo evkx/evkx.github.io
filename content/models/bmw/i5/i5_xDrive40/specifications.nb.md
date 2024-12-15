@@ -1417,6 +1417,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1424,6 +1425,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1431,6 +1433,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1438,6 +1441,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1648,6 +1652,42 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				655
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Alpine White (Hvit)</br>
+				Carbon Black (Svart)</br>
+				Black Sapphire (Svart)</br>
+				Sophisto Grey Brilliant Effect (Grå)</br>
+				Mineral White (Hvit)</br>
+				Phytonic Blue (Blå)</br>
+				Oxide Grey (Grå)</br>
+				Brooklyn Grey (Grå)</br>
+				Cape York Green (Grønn)</br>
+				Tanzanite Blue II  (Blå)</br>
+				Frozen Pure Grey (Grå)</br>
+				BMW Individual Frozen Deep Grey (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

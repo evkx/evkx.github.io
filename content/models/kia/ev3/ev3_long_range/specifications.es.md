@@ -942,6 +942,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +950,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámaras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -956,6 +958,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -963,6 +966,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1124,6 +1128,41 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Gravity Blue (Azul)</br>
+				Interstellar Grey (Gris)</br>
+				Yacht Blue (Azul)</br>
+				Runway Red (Rojo)</br>
+				Aurora Black (Negro)</br>
+				Steel Grey (Gris)</br>
+				Intersteller Grey (Gris)</br>
+				Glacier (Blanco)</br>
+				Deep Forest (Verde)</br>
+				Moonscape (Plata)</br>
+				Snow White Pearl (Blanco)</br>
 			</td>
 		</tr>
 	</tbody>

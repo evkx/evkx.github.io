@@ -1038,6 +1038,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1045,6 +1046,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1052,6 +1054,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1059,6 +1062,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1188,6 +1192,40 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Red (Röd)</br>
+				Black (Svart)</br>
+				SONIC WHITE METALLIC (Vit)</br>
+				SONIC TITANIUM METALLIC (Grå)</br>
+				GRAPHITE BLACK METALLIC (Svart)</br>
+				BLAZING CARNELIAN (Orange)</br>
+				TERRANE KHAKI (Grön)</br>
+				CELESTIAL BLUE (Blå)</br>
+				SONIC PLATINUM (Vit)</br>
+				SONIC GREY (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

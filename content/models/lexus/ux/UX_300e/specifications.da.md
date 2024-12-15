@@ -1038,6 +1038,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1045,6 +1046,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1052,6 +1054,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1059,6 +1062,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1188,6 +1192,40 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Red (Rød)</br>
+				Black (Sort)</br>
+				SONIC WHITE METALLIC (Hvid)</br>
+				SONIC TITANIUM METALLIC (Grå)</br>
+				GRAPHITE BLACK METALLIC (Sort)</br>
+				BLAZING CARNELIAN (Orange)</br>
+				TERRANE KHAKI (Grøn)</br>
+				CELESTIAL BLUE (Blå)</br>
+				SONIC PLATINUM (Hvid)</br>
+				SONIC GREY (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1166,6 +1166,35 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 	</tbody>
 </table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Pearl White (Blanc)</br>
+				Solid Black (Noir)</br>
+				Midnight Silver Metallic (Argent)</br>
+				Deep Blue Metallic (Argent)</br>
+				Red Multi-Coat (Rouge)</br>
+			</td>
+		</tr>
+	</tbody>
+</table>
 <div class="mt-3 mb-3">
 <a href="../chargingcurve/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Courbe de charge </strong>

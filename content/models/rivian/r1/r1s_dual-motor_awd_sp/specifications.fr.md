@@ -903,6 +903,7 @@ Interior.Seatlayout.OnlySix
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -910,6 +911,7 @@ Interior.Seatlayout.OnlySix
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -917,6 +919,7 @@ Interior.Seatlayout.OnlySix
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -924,6 +927,7 @@ Interior.Seatlayout.OnlySix
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1029,6 +1033,39 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				LA Silver (Argent)</br>
+				Glacier (Blanc)</br>
+				Red Canyon (Rouge)</br>
+				Midnight (Noir)</br>
+				Rivian Blue (Bleu)</br>
+				Limestone (Gris)</br>
+				Forrest Green (Vert)</br>
+				El Cap Granite (Gris)</br>
+				Compass Yellow (Jaune)</br>
 			</td>
 		</tr>
 	</tbody>

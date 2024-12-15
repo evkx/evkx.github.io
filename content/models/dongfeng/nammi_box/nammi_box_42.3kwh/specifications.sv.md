@@ -958,9 +958,9 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
-				På stötfångare bak vänster sida
-				På stötfångare bak höger sida
-				På stötfångare bak
+				På stötfångare bak vänster sida</br>
+				På stötfångare bak höger sida</br>
+				På stötfångare bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -968,11 +968,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
-				Topp center vindruta
-				Fram
-				På vänster sidospegel
-				På höger sidospegel
-				Bak center
+				Topp center vindruta</br>
+				Fram</br>
+				På vänster sidospegel</br>
+				På höger sidospegel</br>
+				Bak center</br>
 			</td>
 		</tr>
 		<tr>
@@ -980,7 +980,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
-				Fram
+				Fram</br>
 			</td>
 		</tr>
 		<tr>
@@ -1094,6 +1094,34 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Ocean Eyes (Blå)</br>
+				Lavender Haze (Rosa)</br>
+				Vanilla Frost (Grön)</br>
+				Electric Lemon (Gul)</br>
 			</td>
 		</tr>
 	</tbody>

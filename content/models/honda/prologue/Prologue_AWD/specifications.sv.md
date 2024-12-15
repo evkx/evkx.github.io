@@ -980,14 +980,14 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
-				På stötfångare fram (Valfritt)
-				På stötfångare fram (Valfritt)
-				På stötfångare fram vänster hörn (Valfritt)
-				På stötfångare fram höger hörn (Valfritt)
-				På stötfångare bak vänster hörn
-				På stötfångare bak höger hörn
-				På stötfångare bak
-				På stötfångare bak
+				På stötfångare fram (Valfritt)</br>
+				På stötfångare fram (Valfritt)</br>
+				På stötfångare fram vänster hörn (Valfritt)</br>
+				På stötfångare fram höger hörn (Valfritt)</br>
+				På stötfångare bak vänster hörn</br>
+				På stötfångare bak höger hörn</br>
+				På stötfångare bak</br>
+				På stötfångare bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -995,11 +995,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
-				Topp center vindruta
-				Fram
-				På vänster sidospegel
-				På höger sidospegel
-				Bak center
+				Topp center vindruta</br>
+				Fram</br>
+				På vänster sidospegel</br>
+				På höger sidospegel</br>
+				Bak center</br>
 			</td>
 		</tr>
 		<tr>
@@ -1007,11 +1007,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
-				Fram
-				Vänster främre hörn
-				Höger främre hörn
-				Vänster bakre hörn
-				Höger bakre hörn
+				Fram</br>
+				Vänster främre hörn</br>
+				Höger främre hörn</br>
+				Vänster bakre hörn</br>
+				Höger bakre hörn</br>
 			</td>
 		</tr>
 		<tr>
@@ -1183,6 +1183,37 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				12
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Snowfall Pearl (Vit)</br>
+				Mercury Silver Metallic</br>
+				Ravan Black (Svart)</br>
+				Pacific Blue Metallic (Blå)</br>
+				Scarlet Red Metallic (Röd)</br>
+				North Shore Pearl (Blå)</br>
+				Sonic Gray Pearl (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -914,6 +914,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -921,6 +922,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -928,6 +930,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -935,6 +938,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1040,6 +1044,37 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 			</td>
 			<td>
 				Ja, 14,5"
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Cloud white (Hvit)</br>
+				Deep Black (Svart)</br>
+				Star Grey (Grå)</br>
+				Artic Green (Grønn)</br>
+				Southern Star (Blå)</br>
+				Airspace Blue (Blå)</br>
+				Luminous Orange (Oransje)</br>
 			</td>
 		</tr>
 	</tbody>

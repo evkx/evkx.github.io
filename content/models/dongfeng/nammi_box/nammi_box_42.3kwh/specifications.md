@@ -958,9 +958,9 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
-				On bumper rear left side
-				On bumper rear right side
-				On bumper rear
+				On bumper rear left side</br>
+				On bumper rear right side</br>
+				On bumper rear</br>
 			</td>
 		</tr>
 		<tr>
@@ -968,11 +968,11 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
-				Top center windshield
-				Front
-				On left wing mirror
-				On right wing mirror
-				Rear center
+				Top center windshield</br>
+				Front</br>
+				On left wing mirror</br>
+				On right wing mirror</br>
+				Rear center</br>
 			</td>
 		</tr>
 		<tr>
@@ -980,7 +980,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
-				Front
+				Front</br>
 			</td>
 		</tr>
 		<tr>
@@ -1094,6 +1094,34 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Ocean Eyes (Blue)</br>
+				Lavender Haze (Pink)</br>
+				Vanilla Frost (Green)</br>
+				Electric Lemon (Yellow)</br>
 			</td>
 		</tr>
 	</tbody>

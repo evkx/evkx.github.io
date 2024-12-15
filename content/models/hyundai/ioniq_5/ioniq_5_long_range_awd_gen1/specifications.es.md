@@ -998,6 +998,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1005,6 +1006,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámaras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1012,6 +1014,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1019,6 +1022,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1122,6 +1126,36 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Atlas White (Blanco)</br>
+				Abyss Black Pearl (Negro)</br>
+				Lucid Blue Pearl (Azul)</br>
+				Cyber Gray Metallic (Gris)</br>
+				Galactic Gray Metallic (Gris)</br>
+				Shooting Star Gray Matte (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

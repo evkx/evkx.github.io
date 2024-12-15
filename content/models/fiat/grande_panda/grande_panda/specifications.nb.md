@@ -1080,10 +1080,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
-				På støtfanger bak venstre hjørne
-				På støtfanger bak høyre hjørne
-				På støtfanger bak
-				På støtfanger bak
+				På støtfanger bak venstre hjørne</br>
+				På støtfanger bak høyre hjørne</br>
+				På støtfanger bak</br>
+				På støtfanger bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -1091,7 +1091,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
-				Topp senter frontrute
+				Topp senter frontrute</br>
 			</td>
 		</tr>
 		<tr>
@@ -1099,6 +1099,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1267,6 +1268,35 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Banquise White (Hvit)</br>
+				Montecarlo Blue (Blå)</br>
+				Elixir Red (Rød)</br>
+				Mercury Grey (Grå)</br>
+				Perla Nera Black (Svart)</br>
 			</td>
 		</tr>
 	</tbody>

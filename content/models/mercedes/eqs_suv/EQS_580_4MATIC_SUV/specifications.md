@@ -1147,6 +1147,7 @@ This model is available with a seat configuration with five or seven seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1154,6 +1155,7 @@ This model is available with a seat configuration with five or seven seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1161,6 +1163,7 @@ This model is available with a seat configuration with five or seven seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1168,6 +1171,7 @@ This model is available with a seat configuration with five or seven seats.
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1315,6 +1319,39 @@ This model is available with a seat configuration with five or seven seats.
 			</td>
 			<td>
 				590
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Polar white</br>
+				Black</br>
+				Diamond white bright</br>
+				Selenite grey metallic (Gray)</br>
+				Obsidian black metallic</br>
+				emerald green metallic</br>
+				Graphite grey metallic (Gray)</br>
+				Sodalite blue metallic</br>
+				High-tech silver metallic</br>
 			</td>
 		</tr>
 	</tbody>

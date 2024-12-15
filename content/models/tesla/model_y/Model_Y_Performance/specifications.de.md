@@ -1192,6 +1192,36 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 		</tr>
 	</tbody>
 </table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Stealth Gray (Grau)</br>
+				Pearl White (Weiß)</br>
+				Solid Black (Schwarz)</br>
+				Quicksilver (Silber)</br>
+				Deep Blue Metallic (Blau)</br>
+				Ultra Red (Rot)</br>
+			</td>
+		</tr>
+	</tbody>
+</table>
 <div class="mt-3 mb-3">
 <a href="../chargingcurve/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Ladekurve </strong>

@@ -865,6 +865,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -872,6 +873,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -879,6 +881,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -886,6 +889,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1062,6 +1066,35 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 			</td>
 			<td>
 				600
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Carnelian Orange</br>
+				Pearl White (Vit)</br>
+				Nephrite Grey (Grå)</br>
+				Quartz Grey (Grå)</br>
+				Crystal Purple (Lila)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -904,18 +904,18 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
-				En el parachoques delantero
-				En el parachoques delantero
-				En la esquina delantera izquierda del parachoques
-				En la esquina delantera derecha del parachoques
-				En el lado delantero izquierdo del parachoques
-				En el lado delantero derecho del parachoques
-				En el lado trasero izquierdo del parachoques
-				En el lado trasero derecho del parachoques
-				En la esquina trasera izquierda del parachoques
-				En la esquina trasera derecha del parachoques
-				En el parachoques trasero
-				En el parachoques trasero
+				En el parachoques delantero</br>
+				En el parachoques delantero</br>
+				En la esquina delantera izquierda del parachoques</br>
+				En la esquina delantera derecha del parachoques</br>
+				En el lado delantero izquierdo del parachoques</br>
+				En el lado delantero derecho del parachoques</br>
+				En el lado trasero izquierdo del parachoques</br>
+				En el lado trasero derecho del parachoques</br>
+				En la esquina trasera izquierda del parachoques</br>
+				En la esquina trasera derecha del parachoques</br>
+				En el parachoques trasero</br>
+				En el parachoques trasero</br>
 			</td>
 		</tr>
 		<tr>
@@ -923,14 +923,14 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámaras
 			</td>
 			<td>
-				Centro superior del parabrisas
-				Frente
-				En el espejo retrovisor izquierdo
-				En el espejo retrovisor derecho
-				Centro trasero
-				Techo central sobre la ventana trasera
-				Lado delantero izquierdo
-				Lado delantero derecho
+				Centro superior del parabrisas</br>
+				Frente</br>
+				En el espejo retrovisor izquierdo</br>
+				En el espejo retrovisor derecho</br>
+				Centro trasero</br>
+				Techo central sobre la ventana trasera</br>
+				Lado delantero izquierdo</br>
+				Lado delantero derecho</br>
 			</td>
 		</tr>
 		<tr>
@@ -938,9 +938,9 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de radar
 			</td>
 			<td>
-				Frente
-				Esquina trasera izquierda
-				Esquina trasera derecha
+				Frente</br>
+				Esquina trasera izquierda</br>
+				Esquina trasera derecha</br>
 			</td>
 		</tr>
 		<tr>
@@ -948,7 +948,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores Lidar
 			</td>
 			<td>
-				Techo central sobre el parabrisas
+				Techo central sobre el parabrisas</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1052,6 +1052,39 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Meteor Blue (Azul)</br>
+				Radiant Purple (Púrpura)</br>
+				Olive Green (Verde)</br>
+				Lava Orange (Naranja)</br>
+				Pearl White (Blanco)</br>
+				Diamond Black (Negro)</br>
+				Aqua Blue (Azul)</br>
+				Mineral gray (Gris)</br>
+				Elegant gray (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

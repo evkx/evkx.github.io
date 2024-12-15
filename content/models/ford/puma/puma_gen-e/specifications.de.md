@@ -956,18 +956,18 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
-				Auf Stoßstange vorne (Optional)
-				Auf Stoßstange vorne (Optional)
-				Auf Stoßstange vorne links (Optional)
-				Auf Stoßstange vorne rechts (Optional)
-				Auf Stoßstange vorne links (Optional)
-				Auf Stoßstange vorne rechts (Optional)
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten
-				Auf Stoßstange hinten
+				Auf Stoßstange vorne (Optional)</br>
+				Auf Stoßstange vorne (Optional)</br>
+				Auf Stoßstange vorne links (Optional)</br>
+				Auf Stoßstange vorne rechts (Optional)</br>
+				Auf Stoßstange vorne links (Optional)</br>
+				Auf Stoßstange vorne rechts (Optional)</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten</br>
+				Auf Stoßstange hinten</br>
 			</td>
 		</tr>
 		<tr>
@@ -975,11 +975,11 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
-				Oben Mitte Windschutzscheibe
-				Vorne (Optional)
-				Am linken Außenspiegel (Optional)
-				Am rechten Außenspiegel (Optional)
-				Hinteres Zentrum
+				Oben Mitte Windschutzscheibe</br>
+				Vorne (Optional)</br>
+				Am linken Außenspiegel (Optional)</br>
+				Am rechten Außenspiegel (Optional)</br>
+				Hinteres Zentrum</br>
 			</td>
 		</tr>
 		<tr>
@@ -987,9 +987,9 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
-				Vorne
-				Linke hintere Ecke (Optional)
-				Rechte hintere Ecke (Optional)
+				Vorne</br>
+				Linke hintere Ecke (Optional)</br>
+				Rechte hintere Ecke (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1161,6 +1161,40 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				10
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Agatha Black (Schwarz)</br>
+				Frozen White (Weiß)</br>
+				Solar Silver (Silber)</br>
+				Electric Yellow (Gelb)</br>
+				Digital Aqua Blue (Blau)</br>
+				Fantastic Red (Rot)</br>
+				Solar Silver (Silber)</br>
+				Electric Yellow (Gelb)</br>
+				Digital Aqua Blue (Blau)</br>
+				Fantastic Red (Rot)</br>
 			</td>
 		</tr>
 	</tbody>

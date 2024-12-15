@@ -1123,6 +1123,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1130,11 +1131,11 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
-				Centre supérieur du pare-brise
-				Avant (Optionnel)
-				Sur le rétroviseur gauche (Optionnel)
-				Sur le rétroviseur droit (Optionnel)
-				Centre arrière (Optionnel)
+				Centre supérieur du pare-brise</br>
+				Avant (Optionnel)</br>
+				Sur le rétroviseur gauche (Optionnel)</br>
+				Sur le rétroviseur droit (Optionnel)</br>
+				Centre arrière (Optionnel)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1142,11 +1143,11 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
-				Avant
-				Coin avant gauche (Optionnel)
-				Coin avant droit (Optionnel)
-				Coin arrière gauche (Optionnel)
-				Coin arrière droit (Optionnel)
+				Avant</br>
+				Coin avant gauche (Optionnel)</br>
+				Coin avant droit (Optionnel)</br>
+				Coin arrière gauche (Optionnel)</br>
+				Coin arrière droit (Optionnel)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1154,6 +1155,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1333,6 +1335,35 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				480
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Moonstone Grey with black roof (Gris)</br>
+				Grenadilla Black Metallic Black (Noir)</br>
+				Glacier White Metallic Black (Blanc)</br>
+				Kings red metallic with black roof (Rouge)</br>
+				Scale silver metallic with black roof (Argent)</br>
 			</td>
 		</tr>
 	</tbody>

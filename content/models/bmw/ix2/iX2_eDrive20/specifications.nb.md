@@ -1131,6 +1131,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1138,6 +1139,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1145,6 +1147,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1152,6 +1155,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1329,6 +1333,42 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				464
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Black (Svart)</br>
+				Alpine White (Hvit)</br>
+				Mineral white metallic (Hvit)</br>
+				Phytonic Blue (Blå)</br>
+				Black Sapphire Metallic (Svart)</br>
+				Sanremo Green metallic (Grønn)</br>
+				Cape York Green metallic (Grønn)</br>
+				Utah Orange metallic (Oransje)</br>
+				Space Silver metallic (Sølv)</br>
+				Storm Bay metallic (Grå)</br>
+				BMW Indvidual Blu Bay Lagoon metallic (Blå)</br>
+				Frozen Pure Grey metallic (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

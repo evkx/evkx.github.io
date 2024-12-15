@@ -1417,6 +1417,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1424,6 +1425,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1431,6 +1433,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1438,6 +1441,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1648,6 +1652,42 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				655
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Alpine White (Hvid)</br>
+				Carbon Black (Sort)</br>
+				Black Sapphire (Sort)</br>
+				Sophisto Grey Brilliant Effect (Grå)</br>
+				Mineral White (Hvid)</br>
+				Phytonic Blue (Blå)</br>
+				Oxide Grey (Grå)</br>
+				Brooklyn Grey (Grå)</br>
+				Cape York Green (Grøn)</br>
+				Tanzanite Blue II  (Blå)</br>
+				Frozen Pure Grey (Grå)</br>
+				BMW Individual Frozen Deep Grey (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

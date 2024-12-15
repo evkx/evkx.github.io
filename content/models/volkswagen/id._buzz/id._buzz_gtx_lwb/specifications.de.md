@@ -1233,6 +1233,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 				Ultraschallsensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1240,6 +1241,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 				Kameras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1247,6 +1249,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 				Radar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1254,6 +1257,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 				Lidar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1359,6 +1363,42 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 			</td>
 			<td>
 				Nicht verfügbar
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Candy white (Weiß)</br>
+				Mono Silver Metallic (Silber)</br>
+				Bay Leaf Green Metallic (Grün)</br>
+				Bay Leaf Green Metallic (Grün)</br>
+				Candy White/Bay Leaf Green (Grün)</br>
+				Candy White/Energetic Orange</br>
+				Candy White/Pomelo Yellow (Gelb)</br>
+				Candy White/Starlight Blue (Blau)</br>
+				Energetic Orange Metallic</br>
+				Pomelo Yellow Metallic (Gelb)</br>
+				Starlight Blue Metallic (Blau)</br>
+				Deep Black Pearlescent (Blau)</br>
 			</td>
 		</tr>
 	</tbody>

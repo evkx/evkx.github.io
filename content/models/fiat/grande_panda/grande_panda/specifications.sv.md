@@ -1080,10 +1080,10 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
-				På stötfångare bak vänster hörn
-				På stötfångare bak höger hörn
-				På stötfångare bak
-				På stötfångare bak
+				På stötfångare bak vänster hörn</br>
+				På stötfångare bak höger hörn</br>
+				På stötfångare bak</br>
+				På stötfångare bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -1091,7 +1091,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
-				Topp center vindruta
+				Topp center vindruta</br>
 			</td>
 		</tr>
 		<tr>
@@ -1099,6 +1099,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1267,6 +1268,35 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Banquise White (Vit)</br>
+				Montecarlo Blue (Blå)</br>
+				Elixir Red (Röd)</br>
+				Mercury Grey (Grå)</br>
+				Perla Nera Black (Svart)</br>
 			</td>
 		</tr>
 	</tbody>

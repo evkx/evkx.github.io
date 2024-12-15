@@ -1123,6 +1123,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1130,11 +1131,11 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
-				Topp senter frontrute
-				Foran (Valgfritt)
-				På venstre speil (Valgfritt)
-				På høyre speil (Valgfritt)
-				Bak senter (Valgfritt)
+				Topp senter frontrute</br>
+				Foran (Valgfritt)</br>
+				På venstre speil (Valgfritt)</br>
+				På høyre speil (Valgfritt)</br>
+				Bak senter (Valgfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1142,11 +1143,11 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
-				Venstre fremre hjørne (Valgfritt)
-				Høyre fremre hjørne (Valgfritt)
-				Venstre bakre hjørne (Valgfritt)
-				Høyre bakre hjørne (Valgfritt)
+				Foran</br>
+				Venstre fremre hjørne (Valgfritt)</br>
+				Høyre fremre hjørne (Valgfritt)</br>
+				Venstre bakre hjørne (Valgfritt)</br>
+				Høyre bakre hjørne (Valgfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1154,6 +1155,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1333,6 +1335,35 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				480
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Moonstone Grey with black roof (Grå)</br>
+				Grenadilla Black Metallic Black (Svart)</br>
+				Glacier White Metallic Black (Hvit)</br>
+				Kings red metallic with black roof (Rød)</br>
+				Scale silver metallic with black roof (Sølv)</br>
 			</td>
 		</tr>
 	</tbody>

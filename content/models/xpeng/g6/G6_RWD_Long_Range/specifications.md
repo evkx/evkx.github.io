@@ -1004,18 +1004,18 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
-				On bumper front
-				On bumper front
-				On bumper front left corner
-				On bumper front right corner
-				On bumper front left side
-				On bumper front right side
-				On bumper rear left side
-				On bumper rear right side
-				On bumper rear left corner
-				On bumper rear right corner
-				On bumper rear
-				On bumper rear
+				On bumper front</br>
+				On bumper front</br>
+				On bumper front left corner</br>
+				On bumper front right corner</br>
+				On bumper front left side</br>
+				On bumper front right side</br>
+				On bumper rear left side</br>
+				On bumper rear right side</br>
+				On bumper rear left corner</br>
+				On bumper rear right corner</br>
+				On bumper rear</br>
+				On bumper rear</br>
 			</td>
 		</tr>
 		<tr>
@@ -1023,15 +1023,15 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
-				Top center windshield
-				Front
-				Left front side
-				Left front side
-				Right front side
-				Right front side
-				On left wing mirror
-				On right wing mirror
-				Rear center
+				Top center windshield</br>
+				Front</br>
+				Left front side</br>
+				Left front side</br>
+				Right front side</br>
+				Right front side</br>
+				On left wing mirror</br>
+				On right wing mirror</br>
+				Rear center</br>
 			</td>
 		</tr>
 		<tr>
@@ -1039,11 +1039,11 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
-				Front
-				Left front corner
-				Right front corner
-				Left rear corner
-				Right rear corner
+				Front</br>
+				Left front corner</br>
+				Right front corner</br>
+				Left rear corner</br>
+				Right rear corner</br>
 			</td>
 		</tr>
 		<tr>
@@ -1157,6 +1157,35 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Artic White</br>
+				Silver Frost</br>
+				Graphite Gray</br>
+				Midnight Black</br>
+				Kaitoke Green Matte</br>
 			</td>
 		</tr>
 	</tbody>

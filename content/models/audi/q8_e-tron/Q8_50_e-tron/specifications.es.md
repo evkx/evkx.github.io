@@ -1793,18 +1793,18 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
-				En el parachoques delantero
-				En el parachoques delantero
-				En la esquina delantera izquierda del parachoques
-				En la esquina delantera derecha del parachoques
-				En el lado delantero izquierdo del parachoques
-				En el lado delantero derecho del parachoques
-				En el lado trasero izquierdo del parachoques
-				En el lado trasero derecho del parachoques
-				En la esquina trasera izquierda del parachoques
-				En la esquina trasera derecha del parachoques
-				En el parachoques trasero
-				En el parachoques trasero
+				En el parachoques delantero</br>
+				En el parachoques delantero</br>
+				En la esquina delantera izquierda del parachoques</br>
+				En la esquina delantera derecha del parachoques</br>
+				En el lado delantero izquierdo del parachoques</br>
+				En el lado delantero derecho del parachoques</br>
+				En el lado trasero izquierdo del parachoques</br>
+				En el lado trasero derecho del parachoques</br>
+				En la esquina trasera izquierda del parachoques</br>
+				En la esquina trasera derecha del parachoques</br>
+				En el parachoques trasero</br>
+				En el parachoques trasero</br>
 			</td>
 		</tr>
 		<tr>
@@ -1812,11 +1812,11 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámaras
 			</td>
 			<td>
-				Centro superior del parabrisas
-				Frente (Opcional)
-				En el espejo retrovisor izquierdo (Opcional)
-				En el espejo retrovisor derecho (Opcional)
-				Centro trasero (Opcional)
+				Centro superior del parabrisas</br>
+				Frente (Opcional)</br>
+				En el espejo retrovisor izquierdo (Opcional)</br>
+				En el espejo retrovisor derecho (Opcional)</br>
+				Centro trasero (Opcional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1824,11 +1824,11 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de radar
 			</td>
 			<td>
-				Frente
-				Esquina delantera izquierda (Opcional)
-				Esquina delantera derecha (Opcional)
-				Esquina trasera izquierda (Opcional)
-				Esquina trasera derecha (Opcional)
+				Frente</br>
+				Esquina delantera izquierda (Opcional)</br>
+				Esquina delantera derecha (Opcional)</br>
+				Esquina trasera izquierda (Opcional)</br>
+				Esquina trasera derecha (Opcional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -2014,6 +2014,91 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				700
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Daytona Grey (Gris)</br>
+				Glacier White (Blanco)</br>
+				Catalunya Red (Rojo)</br>
+				Plasma Blue (Azul)</br>
+				Florett Silver (Plata)</br>
+				Chronos Grey (Gris)</br>
+				Typhoon Grey (Gris)</br>
+				Navarra Blue (Azul)</br>
+				Galaxy Blue (Azul)</br>
+				Antigua Blue (Azul)</br>
+				Manhatten Grey (Gris)</br>
+				Brilliant Black (Negro)</br>
+				Mythos black (Negro)</br>
+				Misano red, pearl effect (Rojo)</br>
+				Merlin purple, pearl effect (Púrpura)</br>
+				Velvet purple, pearl effect (Púrpura)</br>
+				Sepang blue, pearl effect (Azul)</br>
+				Nogoro blue, pearl effect (Azul)</br>
+				Palace blue, pearl effect (Azul)</br>
+				Night blue, pearl effect (Azul)</br>
+				Oak green, pearl effect (Verde)</br>
+				Goodwood green, pearl effect (Verde)</br>
+				Deep green, pearl effect (Verde)</br>
+				Sand beige, pearl effect</br>
+				Arrow grey, pearl effect (Gris)</br>
+				Nimbus grey, pearl effect (Gris)</br>
+				Ara blue, crystal effect (Azul)</br>
+				Panther black, crystal effect (Negro)</br>
+				Amalfi white (Blanco)</br>
+				Vegas yellow (Amarillo)</br>
+				Green (Verde)</br>
+				Cumulus blue (Azul)</br>
+				Citrus yellow (Amarillo)</br>
+				Solar orange (Amarillo)</br>
+				Solar orange (Naranja)</br>
+				Quantum grey (Gris)</br>
+				Nardo grey (Gris)</br>
+				Camoflage green (Verde)</br>
+				Soho brown (Marrón)</br>
+				Java brown (Marrón)</br>
+				Teak brown (Marrón)</br>
+				Ipanema brown (Marrón)</br>
+				Diamond beige</br>
+				Siam beige</br>
+				Tornado grey (Gris)</br>
+				Havana black (Negro)</br>
+				Mamba black (Negro)</br>
+				Vesuvius grey (Gris)</br>
+				Ice silver (Plata)</br>
+				Suzuka grey (Gris)</br>
+				Terra grey (Gris)</br>
+				Cuvée silver (Plata)</br>
+				Samoa orange (Naranja)</br>
+				Coral orange (Naranja)</br>
+				Catalunya red (Rojo)</br>
+				Tango red (Rojo)</br>
+				Shiraz red (Rojo)</br>
+				Seville red (Rojo)</br>
+				Ascari blue (Azul)</br>
+				Utopia blue (Azul)</br>
+				Java green (Verde)</br>
 			</td>
 		</tr>
 	</tbody>

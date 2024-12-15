@@ -1192,6 +1192,35 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 	</tbody>
 </table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Pearl White (Blanco)</br>
+				Solid Black (Negro)</br>
+				Stealth Grey (Gris)</br>
+				Deep Blue Metallic (Azul)</br>
+				Ultra Red (Rojo)</br>
+			</td>
+		</tr>
+	</tbody>
+</table>
 <div class="mt-3 mb-3">
 <a href="../chargingcurve/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Curva de carga </strong>

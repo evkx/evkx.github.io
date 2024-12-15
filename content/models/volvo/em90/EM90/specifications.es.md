@@ -935,6 +935,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -942,6 +943,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Cámaras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +951,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Sensores de radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -956,6 +959,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Sensores Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1060,6 +1064,33 @@ Este modelo está disponible con una configuración de seis asientos.
 			</td>
 			<td>
 				Sí, 15,4"
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				White (Blanco)</br>
+				Blue (Azul)</br>
+				Black (Negro)</br>
 			</td>
 		</tr>
 	</tbody>

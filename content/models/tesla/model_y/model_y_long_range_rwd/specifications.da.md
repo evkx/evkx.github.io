@@ -1200,6 +1200,36 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 		</tr>
 	</tbody>
 </table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Stealth Gray (Grå)</br>
+				Pearl White (Hvid)</br>
+				Solid Black (Sort)</br>
+				Quicksilver (Sølv)</br>
+				Deep Blue Metallic (Blå)</br>
+				Ultra Red (Rød)</br>
+			</td>
+		</tr>
+	</tbody>
+</table>
 <div class="mt-3 mb-3">
 <a href="../chargingcurve/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Opladningskurve </strong>

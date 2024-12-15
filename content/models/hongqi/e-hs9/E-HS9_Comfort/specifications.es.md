@@ -962,6 +962,7 @@ Interior.Seatlayout.OnlySix
 				Sensores ultrasónicos
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -969,6 +970,7 @@ Interior.Seatlayout.OnlySix
 				Cámaras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -976,6 +978,7 @@ Interior.Seatlayout.OnlySix
 				Sensores de radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -983,6 +986,7 @@ Interior.Seatlayout.OnlySix
 				Sensores Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1088,6 +1092,36 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Artic Black Metallic (Negro)</br>
+				Glacier White Metallic (Blanco)</br>
+				Glacier White Artic Black Roof Metallic (Gris)</br>
+				Mountain Grey Metallic (Gris)</br>
+				Mountain Grey Artic Black Roof Metallic (Gris)</br>
+				Mountain Grey Glacier White Metallic (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

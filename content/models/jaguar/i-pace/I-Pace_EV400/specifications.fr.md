@@ -1291,6 +1291,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1298,6 +1299,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1305,6 +1307,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1312,6 +1315,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1489,6 +1493,39 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				750
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Fuji White (Blanc)</br>
+				Santorini Black (Noir)</br>
+				Firenze Red (Rouge)</br>
+				Eiger Grey (Gris)</br>
+				Portofini Blue (Bleu)</br>
+				Ostuni Pearl White (Blanc)</br>
+				Carpathian Grey (Gris)</br>
+				Eiger Grey in Satin Finish (Gris)</br>
+				Carpathian Grey in Satin Finish (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

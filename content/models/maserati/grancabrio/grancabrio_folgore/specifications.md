@@ -941,18 +941,18 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
-				On bumper front
-				On bumper front
-				On bumper front left corner
-				On bumper front right corner
-				On bumper front left side
-				On bumper front right side
-				On bumper rear left side
-				On bumper rear right side
-				On bumper rear left corner
-				On bumper rear right corner
-				On bumper rear
-				On bumper rear
+				On bumper front</br>
+				On bumper front</br>
+				On bumper front left corner</br>
+				On bumper front right corner</br>
+				On bumper front left side</br>
+				On bumper front right side</br>
+				On bumper rear left side</br>
+				On bumper rear right side</br>
+				On bumper rear left corner</br>
+				On bumper rear right corner</br>
+				On bumper rear</br>
+				On bumper rear</br>
 			</td>
 		</tr>
 		<tr>
@@ -960,11 +960,11 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
-				Top center windshield
-				Front (Optional)
-				On left wing mirror (Optional)
-				On right wing mirror (Optional)
-				Rear center (Optional)
+				Top center windshield</br>
+				Front (Optional)</br>
+				On left wing mirror (Optional)</br>
+				On right wing mirror (Optional)</br>
+				Rear center (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -972,7 +972,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
-				Front
+				Front</br>
 			</td>
 		</tr>
 		<tr>
@@ -1158,6 +1158,38 @@ This model is available with a seat configuration with four seats.
 			</td>
 			<td>
 				1285
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Bianco (Blue)</br>
+				Bianco Astro (Gray)</br>
+				Grigio Lava (Gray)</br>
+				Nero Tempesta (Black)</br>
+				 (Blue)</br>
+				Rame Folgore (Gray)</br>
+				Grigio Lava Opaco (Gray)</br>
+				Bronzo Opaco (Bronze)</br>
 			</td>
 		</tr>
 	</tbody>

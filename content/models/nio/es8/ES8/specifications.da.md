@@ -1179,6 +1179,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1186,6 +1187,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1193,6 +1195,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1200,6 +1203,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1363,6 +1367,35 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 			</td>
 			<td>
 				12
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Cloud white (Hvid)</br>
+				Deep Black (Sort)</br>
+				Star Grey (Grå)</br>
+				Artic Green (Grøn)</br>
+				Southern Star (Blå)</br>
 			</td>
 		</tr>
 	</tbody>

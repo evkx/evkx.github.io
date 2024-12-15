@@ -1394,18 +1394,18 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
-				En el parachoques delantero
-				En el parachoques delantero
-				En la esquina delantera izquierda del parachoques
-				En la esquina delantera derecha del parachoques
-				En el lado delantero izquierdo del parachoques
-				En el lado delantero derecho del parachoques
-				En el lado trasero izquierdo del parachoques
-				En el lado trasero derecho del parachoques
-				En la esquina trasera izquierda del parachoques
-				En la esquina trasera derecha del parachoques
-				En el parachoques trasero
-				En el parachoques trasero
+				En el parachoques delantero</br>
+				En el parachoques delantero</br>
+				En la esquina delantera izquierda del parachoques</br>
+				En la esquina delantera derecha del parachoques</br>
+				En el lado delantero izquierdo del parachoques</br>
+				En el lado delantero derecho del parachoques</br>
+				En el lado trasero izquierdo del parachoques</br>
+				En el lado trasero derecho del parachoques</br>
+				En la esquina trasera izquierda del parachoques</br>
+				En la esquina trasera derecha del parachoques</br>
+				En el parachoques trasero</br>
+				En el parachoques trasero</br>
 			</td>
 		</tr>
 		<tr>
@@ -1413,11 +1413,11 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Cámaras
 			</td>
 			<td>
-				Centro superior del parabrisas
-				Frente (Opcional)
-				En el espejo retrovisor izquierdo (Opcional)
-				En el espejo retrovisor derecho (Opcional)
-				Centro trasero (Opcional)
+				Centro superior del parabrisas</br>
+				Frente (Opcional)</br>
+				En el espejo retrovisor izquierdo (Opcional)</br>
+				En el espejo retrovisor derecho (Opcional)</br>
+				Centro trasero (Opcional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1425,11 +1425,11 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Sensores de radar
 			</td>
 			<td>
-				Frente
-				Esquina delantera izquierda
-				Esquina delantera derecha
-				Esquina trasera izquierda
-				Esquina trasera derecha
+				Frente</br>
+				Esquina delantera izquierda</br>
+				Esquina delantera derecha</br>
+				Esquina trasera izquierda</br>
+				Esquina trasera derecha</br>
 			</td>
 		</tr>
 		<tr>
@@ -1617,6 +1617,40 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 			</td>
 			<td>
 				680
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Flare Red (Rojo)</br>
+				Ocean Blue Matte (Azul)</br>
+				Ocean Blue Metallic (Azul)</br>
+				Pebble Gray (Gris)</br>
+				Ocean Blue Metallic (Azul)</br>
+				Ice Green Metallic (Verde)</br>
+				Aurora Black (Negro)</br>
+				Snow White Pearl (Blanco)</br>
+				Ivory Silver Gloss (Plata)</br>
+				Panthera Metal (Gris oscuro)</br>
 			</td>
 		</tr>
 	</tbody>

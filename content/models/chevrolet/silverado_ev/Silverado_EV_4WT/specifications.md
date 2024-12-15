@@ -989,10 +989,10 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
-				On bumper rear left corner
-				On bumper rear right corner
-				On bumper rear
-				On bumper rear
+				On bumper rear left corner</br>
+				On bumper rear right corner</br>
+				On bumper rear</br>
+				On bumper rear</br>
 			</td>
 		</tr>
 		<tr>
@@ -1000,11 +1000,11 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
-				Top center windshield
-				Front
-				On left wing mirror
-				On right wing mirror
-				Rear center
+				Top center windshield</br>
+				Front</br>
+				On left wing mirror</br>
+				On right wing mirror</br>
+				Rear center</br>
 			</td>
 		</tr>
 		<tr>
@@ -1012,11 +1012,11 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
-				Front
-				Left front corner
-				Right front corner
-				Left rear corner
-				Right rear corner
+				Front</br>
+				Left front corner</br>
+				Right front corner</br>
+				Left rear corner</br>
+				Right rear corner</br>
 			</td>
 		</tr>
 		<tr>
@@ -1130,6 +1130,31 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Interstellar White</br>
 			</td>
 		</tr>
 	</tbody>

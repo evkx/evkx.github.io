@@ -966,6 +966,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -973,6 +974,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -980,6 +982,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -987,6 +990,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1090,6 +1094,40 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Melbourne Gray (Gris)</br>
+				Matterhorn White (Blanc)</br>
+				Hanauma Mint (Menthe)</br>
+				Vik Black (Noir)</br>
+				Carbon Metal (Noir)</br>
+				Savile Silver (Argent)</br>
+				Uyuni White (Blanc)</br>
+				Atacama Copper (Cuivre)</br>
+				Royal Blue (Bleu)</br>
+				Sao Paulo Lime (Citron vert)</br>
 			</td>
 		</tr>
 	</tbody>

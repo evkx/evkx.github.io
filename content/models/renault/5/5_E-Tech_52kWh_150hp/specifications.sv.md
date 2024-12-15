@@ -930,18 +930,18 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
-				På stötfångare fram (Valfritt)
-				På stötfångare fram (Valfritt)
-				På stötfångare fram vänster hörn (Valfritt)
-				På stötfångare fram höger hörn (Valfritt)
-				På stötfångare fram vänster sida (Valfritt)
-				På stötfångare fram höger sida (Valfritt)
-				På stötfångare bak vänster sida (Valfritt)
-				På stötfångare bak höger sida (Valfritt)
-				På stötfångare bak vänster hörn (Valfritt)
-				På stötfångare bak höger hörn (Valfritt)
-				På stötfångare bak (Valfritt)
-				På stötfångare bak (Valfritt)
+				På stötfångare fram (Valfritt)</br>
+				På stötfångare fram (Valfritt)</br>
+				På stötfångare fram vänster hörn (Valfritt)</br>
+				På stötfångare fram höger hörn (Valfritt)</br>
+				På stötfångare fram vänster sida (Valfritt)</br>
+				På stötfångare fram höger sida (Valfritt)</br>
+				På stötfångare bak vänster sida (Valfritt)</br>
+				På stötfångare bak höger sida (Valfritt)</br>
+				På stötfångare bak vänster hörn (Valfritt)</br>
+				På stötfångare bak höger hörn (Valfritt)</br>
+				På stötfångare bak (Valfritt)</br>
+				På stötfångare bak (Valfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -949,7 +949,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
-				Bak center (Valfritt)
+				Bak center (Valfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -957,6 +957,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -964,6 +965,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1127,6 +1129,35 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				10
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Pop Yellow (Gul)</br>
+				Pop Green (Grön)</br>
+				Pearl White (Vit)</br>
+				Starry Black (Svart)</br>
+				Midnight Blue (Blå)</br>
 			</td>
 		</tr>
 	</tbody>

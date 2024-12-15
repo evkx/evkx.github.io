@@ -1123,6 +1123,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1130,11 +1131,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
-				Topp center vindruta
-				Fram (Valfritt)
-				På vänster sidospegel (Valfritt)
-				På höger sidospegel (Valfritt)
-				Bak center (Valfritt)
+				Topp center vindruta</br>
+				Fram (Valfritt)</br>
+				På vänster sidospegel (Valfritt)</br>
+				På höger sidospegel (Valfritt)</br>
+				Bak center (Valfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1142,11 +1143,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
-				Fram
-				Vänster främre hörn (Valfritt)
-				Höger främre hörn (Valfritt)
-				Vänster bakre hörn (Valfritt)
-				Höger bakre hörn (Valfritt)
+				Fram</br>
+				Vänster främre hörn (Valfritt)</br>
+				Höger främre hörn (Valfritt)</br>
+				Vänster bakre hörn (Valfritt)</br>
+				Höger bakre hörn (Valfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1154,6 +1155,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1333,6 +1335,35 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				480
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Moonstone Grey with black roof (Grå)</br>
+				Grenadilla Black Metallic Black (Svart)</br>
+				Glacier White Metallic Black (Vit)</br>
+				Kings red metallic with black roof (Röd)</br>
+				Scale silver metallic with black roof</br>
 			</td>
 		</tr>
 	</tbody>

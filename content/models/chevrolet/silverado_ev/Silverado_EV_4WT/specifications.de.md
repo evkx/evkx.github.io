@@ -989,10 +989,10 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten
-				Auf Stoßstange hinten
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten</br>
+				Auf Stoßstange hinten</br>
 			</td>
 		</tr>
 		<tr>
@@ -1000,11 +1000,11 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
-				Oben Mitte Windschutzscheibe
-				Vorne
-				Am linken Außenspiegel
-				Am rechten Außenspiegel
-				Hinteres Zentrum
+				Oben Mitte Windschutzscheibe</br>
+				Vorne</br>
+				Am linken Außenspiegel</br>
+				Am rechten Außenspiegel</br>
+				Hinteres Zentrum</br>
 			</td>
 		</tr>
 		<tr>
@@ -1012,11 +1012,11 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
-				Vorne
-				Linke vordere Ecke
-				Rechte vordere Ecke
-				Linke hintere Ecke
-				Rechte hintere Ecke
+				Vorne</br>
+				Linke vordere Ecke</br>
+				Rechte vordere Ecke</br>
+				Linke hintere Ecke</br>
+				Rechte hintere Ecke</br>
 			</td>
 		</tr>
 		<tr>
@@ -1130,6 +1130,31 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				Nicht verfügbar
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Interstellar White (Weiß)</br>
 			</td>
 		</tr>
 	</tbody>

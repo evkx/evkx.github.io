@@ -1024,6 +1024,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1031,6 +1032,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1038,6 +1040,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1045,6 +1048,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1147,6 +1151,42 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Matt Big Sur Blue (Bleu)</br>
+				Great White (Blanc)</br>
+				Night Drive (Noir)</br>
+				Blue Planet (Bleu)</br>
+				Silver Lining (Argent)</br>
+				Horizon Gray (Gris)</br>
+				Mariana (Bleu)</br>
+				Sun Soaked (Cuivre)</br>
+				Sea Grass (Bleu)</br>
+				Black Pearl (Noir)</br>
+				Marine Layer (Blanc)</br>
+				Solar Orange</br>
 			</td>
 		</tr>
 	</tbody>

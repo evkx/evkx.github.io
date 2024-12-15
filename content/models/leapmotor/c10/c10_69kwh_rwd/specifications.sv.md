@@ -919,18 +919,18 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
-				På stötfångare fram (Valfritt)
-				På stötfångare fram (Valfritt)
-				På stötfångare fram vänster hörn (Valfritt)
-				På stötfångare fram höger hörn (Valfritt)
-				På stötfångare fram vänster sida (Valfritt)
-				På stötfångare fram höger sida (Valfritt)
-				På stötfångare bak vänster sida (Valfritt)
-				På stötfångare bak höger sida (Valfritt)
-				På stötfångare bak vänster hörn
-				På stötfångare bak höger hörn
-				På stötfångare bak
-				På stötfångare bak
+				På stötfångare fram (Valfritt)</br>
+				På stötfångare fram (Valfritt)</br>
+				På stötfångare fram vänster hörn (Valfritt)</br>
+				På stötfångare fram höger hörn (Valfritt)</br>
+				På stötfångare fram vänster sida (Valfritt)</br>
+				På stötfångare fram höger sida (Valfritt)</br>
+				På stötfångare bak vänster sida (Valfritt)</br>
+				På stötfångare bak höger sida (Valfritt)</br>
+				På stötfångare bak vänster hörn</br>
+				På stötfångare bak höger hörn</br>
+				På stötfångare bak</br>
+				På stötfångare bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -938,13 +938,13 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
-				Topp center vindruta
-				Vänster främre sida
-				Höger främre sida
-				Fram (Valfritt)
-				På vänster sidospegel (Valfritt)
-				På höger sidospegel (Valfritt)
-				Bak center (Valfritt)
+				Topp center vindruta</br>
+				Vänster främre sida</br>
+				Höger främre sida</br>
+				Fram (Valfritt)</br>
+				På vänster sidospegel (Valfritt)</br>
+				På höger sidospegel (Valfritt)</br>
+				Bak center (Valfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -952,11 +952,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
-				Fram (Valfritt)
-				Vänster främre hörn (Valfritt)
-				Höger främre hörn (Valfritt)
-				Vänster bakre hörn (Valfritt)
-				Höger bakre hörn (Valfritt)
+				Fram (Valfritt)</br>
+				Vänster främre hörn (Valfritt)</br>
+				Höger främre hörn (Valfritt)</br>
+				Vänster bakre hörn (Valfritt)</br>
+				Höger bakre hörn (Valfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -964,7 +964,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Lidar-sensorer
 			</td>
 			<td>
-				Centertak över vindrutan (Valfritt)
+				Centertak över vindrutan (Valfritt)</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1067,6 +1067,36 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Glazed green (Grön)</br>
+				Pearly White (Vit)</br>
+				Sky canopy gray (Grå)</br>
+				Metallic Black (Svart)</br>
+				Glacier Blue (Blå)</br>
+				Tundra Gray (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

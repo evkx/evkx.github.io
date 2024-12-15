@@ -1107,6 +1107,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1114,6 +1115,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámaras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1121,6 +1123,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1128,6 +1131,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1305,6 +1309,42 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				1615
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Alpine White (Blanco)</br>
+				Mineral White (Blanco)</br>
+				Sophisto Grey Brilliant Effect (Gris)</br>
+				Black Sapphire (Negro)</br>
+				Aventurine Red (Rojo)</br>
+				Sparkling Copper Grey (Gris)</br>
+				Space Silver metallic (Plata)</br>
+				Carbon black (Negro)</br>
+				Dravit Grey (Gris)</br>
+				Tanzanite Blue II  (Azul)</br>
+				Frozen Pure Grey (Gris)</br>
+				Frozen Deep Grey (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

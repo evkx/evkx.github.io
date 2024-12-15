@@ -930,18 +930,18 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
-				En el parachoques delantero (Opcional)
-				En el parachoques delantero (Opcional)
-				En la esquina delantera izquierda del parachoques (Opcional)
-				En la esquina delantera derecha del parachoques (Opcional)
-				En el lado delantero izquierdo del parachoques (Opcional)
-				En el lado delantero derecho del parachoques (Opcional)
-				En el lado trasero izquierdo del parachoques (Opcional)
-				En el lado trasero derecho del parachoques (Opcional)
-				En la esquina trasera izquierda del parachoques (Opcional)
-				En la esquina trasera derecha del parachoques (Opcional)
-				En el parachoques trasero (Opcional)
-				En el parachoques trasero (Opcional)
+				En el parachoques delantero (Opcional)</br>
+				En el parachoques delantero (Opcional)</br>
+				En la esquina delantera izquierda del parachoques (Opcional)</br>
+				En la esquina delantera derecha del parachoques (Opcional)</br>
+				En el lado delantero izquierdo del parachoques (Opcional)</br>
+				En el lado delantero derecho del parachoques (Opcional)</br>
+				En el lado trasero izquierdo del parachoques (Opcional)</br>
+				En el lado trasero derecho del parachoques (Opcional)</br>
+				En la esquina trasera izquierda del parachoques (Opcional)</br>
+				En la esquina trasera derecha del parachoques (Opcional)</br>
+				En el parachoques trasero (Opcional)</br>
+				En el parachoques trasero (Opcional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -949,7 +949,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámaras
 			</td>
 			<td>
-				Centro trasero (Opcional)
+				Centro trasero (Opcional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -957,6 +957,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -964,6 +965,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1127,6 +1129,35 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				10
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Pop Yellow (Amarillo)</br>
+				Pop Green (Verde)</br>
+				Pearl White (Blanco)</br>
+				Starry Black (Negro)</br>
+				Midnight Blue (Azul)</br>
 			</td>
 		</tr>
 	</tbody>

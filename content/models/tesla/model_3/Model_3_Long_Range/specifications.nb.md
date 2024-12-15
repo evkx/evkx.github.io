@@ -1192,6 +1192,35 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 	</tbody>
 </table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Pearl White (Hvit)</br>
+				Solid Black (Svart)</br>
+				Stealth Grey (Grå)</br>
+				Deep Blue Metallic (Blå)</br>
+				Ultra Red (Rød)</br>
+			</td>
+		</tr>
+	</tbody>
+</table>
 <div class="mt-3 mb-3">
 <a href="../chargingcurve/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Ladekurve </strong>

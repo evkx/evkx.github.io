@@ -1002,6 +1002,7 @@ Interior.Seatlayout.OnlySix
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1009,6 +1010,7 @@ Interior.Seatlayout.OnlySix
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1016,6 +1018,7 @@ Interior.Seatlayout.OnlySix
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1023,6 +1026,7 @@ Interior.Seatlayout.OnlySix
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1126,6 +1130,35 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Pearl White (Blanc)</br>
+				Solid Black (Noir)</br>
+				Midnight Silver Metallic (Argent)</br>
+				Deep Blue Metallic (Argent)</br>
+				Red Multi-Coat (Rouge)</br>
 			</td>
 		</tr>
 	</tbody>

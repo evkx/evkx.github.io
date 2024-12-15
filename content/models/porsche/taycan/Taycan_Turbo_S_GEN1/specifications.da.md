@@ -1346,6 +1346,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1353,6 +1354,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1360,6 +1362,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1367,6 +1370,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1577,6 +1581,47 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				1455
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				White (Hvid)</br>
+				Black (Sort)</br>
+				Jet Black Metallic (Sort)</br>
+				Volcano Grey Metallic (Grå)</br>
+				Carrara White Metallic (Hvid)</br>
+				Gentian Blue Metallic (Blå)</br>
+				Dolomite Silver Metallic (Sølv)</br>
+				Mamba Green Metallic (Grøn)</br>
+				Frozen Blue Metallic (Blå)</br>
+				Mahogany Metallic (Brun)</br>
+				Frozen Berry Metallic (Lilla)</br>
+				Cherry Metallic (Rød)</br>
+				Coffee Beige Metallic</br>
+				Carmine Red (Rød)</br>
+				Neptune Blue (Blå)</br>
+				Crayon (Grå)</br>
+				Ice Grey Metallic (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

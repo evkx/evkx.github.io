@@ -917,6 +917,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -924,6 +925,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -931,6 +933,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -938,6 +941,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1040,6 +1044,36 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Safari Beige</br>
+				Brick (Röd)</br>
+				Cenote Blue (Blå)</br>
+				Lightning Silver</br>
+				Magma Black (Svart)</br>
+				Kaolin White (Vit)</br>
 			</td>
 		</tr>
 	</tbody>

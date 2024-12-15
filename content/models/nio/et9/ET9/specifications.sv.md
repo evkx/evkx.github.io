@@ -914,6 +914,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -921,6 +922,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -928,6 +930,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -935,6 +938,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1040,6 +1044,37 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 			</td>
 			<td>
 				Ja, 14,5"
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Cloud white (Vit)</br>
+				Deep Black (Svart)</br>
+				Star Grey (Grå)</br>
+				Artic Green (Grön)</br>
+				Southern Star (Blå)</br>
+				Airspace Blue (Blå)</br>
+				Luminous Orange</br>
 			</td>
 		</tr>
 	</tbody>

@@ -919,18 +919,18 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
-				On bumper front (Optional)
-				On bumper front (Optional)
-				On bumper front left corner (Optional)
-				On bumper front right corner (Optional)
-				On bumper front left side (Optional)
-				On bumper front right side (Optional)
-				On bumper rear left side (Optional)
-				On bumper rear right side (Optional)
-				On bumper rear left corner
-				On bumper rear right corner
-				On bumper rear
-				On bumper rear
+				On bumper front (Optional)</br>
+				On bumper front (Optional)</br>
+				On bumper front left corner (Optional)</br>
+				On bumper front right corner (Optional)</br>
+				On bumper front left side (Optional)</br>
+				On bumper front right side (Optional)</br>
+				On bumper rear left side (Optional)</br>
+				On bumper rear right side (Optional)</br>
+				On bumper rear left corner</br>
+				On bumper rear right corner</br>
+				On bumper rear</br>
+				On bumper rear</br>
 			</td>
 		</tr>
 		<tr>
@@ -938,13 +938,13 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
-				Top center windshield
-				Left front side
-				Right front side
-				Front (Optional)
-				On left wing mirror (Optional)
-				On right wing mirror (Optional)
-				Rear center (Optional)
+				Top center windshield</br>
+				Left front side</br>
+				Right front side</br>
+				Front (Optional)</br>
+				On left wing mirror (Optional)</br>
+				On right wing mirror (Optional)</br>
+				Rear center (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -952,11 +952,11 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
-				Front (Optional)
-				Left front corner (Optional)
-				Right front corner (Optional)
-				Left rear corner (Optional)
-				Right rear corner (Optional)
+				Front (Optional)</br>
+				Left front corner (Optional)</br>
+				Right front corner (Optional)</br>
+				Left rear corner (Optional)</br>
+				Right rear corner (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -964,7 +964,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
-				Center roof over windshield (Optional)
+				Center roof over windshield (Optional)</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1067,6 +1067,36 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Glazed green</br>
+				Pearly White</br>
+				Sky canopy gray</br>
+				Metallic Black</br>
+				Glacier Blue</br>
+				Tundra Gray</br>
 			</td>
 		</tr>
 	</tbody>

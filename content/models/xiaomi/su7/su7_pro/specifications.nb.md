@@ -888,18 +888,18 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
-				På støtfanger foran
-				På støtfanger foran
-				På støtfanger foran venstre hjørne
-				På støtfanger foran høyre hjørne
-				På støtfanger foran venstre side
-				På støtfanger foran høyre side
-				På støtfanger bak venstre side
-				På støtfanger bak høyre side
-				På støtfanger bak venstre hjørne
-				På støtfanger bak høyre hjørne
-				På støtfanger bak
-				På støtfanger bak
+				På støtfanger foran</br>
+				På støtfanger foran</br>
+				På støtfanger foran venstre hjørne</br>
+				På støtfanger foran høyre hjørne</br>
+				På støtfanger foran venstre side</br>
+				På støtfanger foran høyre side</br>
+				På støtfanger bak venstre side</br>
+				På støtfanger bak høyre side</br>
+				På støtfanger bak venstre hjørne</br>
+				På støtfanger bak høyre hjørne</br>
+				På støtfanger bak</br>
+				På støtfanger bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -907,14 +907,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
-				Topp senter frontrute
-				Foran
-				På venstre speil
-				På høyre speil
-				Bak senter
-				Senter tak over bakvindu
-				Venstre fremre side
-				Høyre fremre side
+				Topp senter frontrute</br>
+				Foran</br>
+				På venstre speil</br>
+				På høyre speil</br>
+				Bak senter</br>
+				Senter tak over bakvindu</br>
+				Venstre fremre side</br>
+				Høyre fremre side</br>
 			</td>
 		</tr>
 		<tr>
@@ -922,9 +922,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
-				Venstre bakre hjørne
-				Høyre bakre hjørne
+				Foran</br>
+				Venstre bakre hjørne</br>
+				Høyre bakre hjørne</br>
 			</td>
 		</tr>
 		<tr>
@@ -932,7 +932,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lidar-sensorer
 			</td>
 			<td>
-				Senter tak over frontrute
+				Senter tak over frontrute</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1091,6 +1091,39 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				25
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Meteor Blue (Blå)</br>
+				Radiant Purple (Lilla)</br>
+				Olive Green (Grønn)</br>
+				Lava Orange (Oransje)</br>
+				Pearl White (Hvit)</br>
+				Diamond Black (Svart)</br>
+				Aqua Blue (Blå)</br>
+				Mineral gray (Grå)</br>
+				Elegant gray (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

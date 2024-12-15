@@ -996,18 +996,18 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
-				På støtfanger foran
-				På støtfanger foran
-				På støtfanger foran venstre hjørne
-				På støtfanger foran høyre hjørne
-				På støtfanger foran venstre side
-				På støtfanger foran høyre side
-				På støtfanger bak venstre side
-				På støtfanger bak høyre side
-				På støtfanger bak venstre hjørne
-				På støtfanger bak høyre hjørne
-				På støtfanger bak
-				På støtfanger bak
+				På støtfanger foran</br>
+				På støtfanger foran</br>
+				På støtfanger foran venstre hjørne</br>
+				På støtfanger foran høyre hjørne</br>
+				På støtfanger foran venstre side</br>
+				På støtfanger foran høyre side</br>
+				På støtfanger bak venstre side</br>
+				På støtfanger bak høyre side</br>
+				På støtfanger bak venstre hjørne</br>
+				På støtfanger bak høyre hjørne</br>
+				På støtfanger bak</br>
+				På støtfanger bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -1015,11 +1015,11 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
-				Topp senter frontrute
-				Foran (Valgfritt)
-				På venstre speil (Valgfritt)
-				På høyre speil (Valgfritt)
-				Bak senter (Valgfritt)
+				Topp senter frontrute</br>
+				Foran (Valgfritt)</br>
+				På venstre speil (Valgfritt)</br>
+				På høyre speil (Valgfritt)</br>
+				Bak senter (Valgfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1027,11 +1027,11 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
-				Venstre fremre hjørne (Valgfritt)
-				Høyre fremre hjørne (Valgfritt)
-				Venstre bakre hjørne (Valgfritt)
-				Høyre bakre hjørne (Valgfritt)
+				Foran</br>
+				Venstre fremre hjørne (Valgfritt)</br>
+				Høyre fremre hjørne (Valgfritt)</br>
+				Venstre bakre hjørne (Valgfritt)</br>
+				Høyre bakre hjørne (Valgfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1203,6 +1203,45 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				7
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Black (Svart)</br>
+				Summit White (Hvit)</br>
+				Iridescent Pearl Tricoat (Hvit)</br>
+				Sterling Grey Metallic (Grå)</br>
+				Radient Red Metallic (Rød)</br>
+				Red Hot (Rød)</br>
+				Galaxy Grey Metallic (Grå)</br>
+				Riptide Blue Metallic (Blå)</br>
+				Summit White (Hvit)</br>
+				Iridescent Pearl Tricoat (Hvit)</br>
+				Sterling Grey Metallic (Grå)</br>
+				Radient Red Metallic (Rød)</br>
+				Red Hot (Rød)</br>
+				Galaxy Grey Metallic (Grå)</br>
+				Riptide Blue Metallic (Blå)</br>
 			</td>
 		</tr>
 	</tbody>

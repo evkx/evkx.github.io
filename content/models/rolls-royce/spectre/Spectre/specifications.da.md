@@ -930,6 +930,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -937,6 +938,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -944,6 +946,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -951,6 +954,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1128,6 +1132,38 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 			</td>
 			<td>
 				1615
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Chartreuse (Grøn)</br>
+				Morganite (Lyserød)</br>
+				Wittering bLue (Blå)</br>
+				Tempest Grey (Grå)</br>
+				Dark Emerald (Sort)</br>
+				Gunmetal Grey (Grå)</br>
+				Midnight Sapphire (Blå)</br>
+				Twilight Purple (Lilla)</br>
 			</td>
 		</tr>
 	</tbody>

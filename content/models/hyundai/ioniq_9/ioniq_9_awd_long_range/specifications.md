@@ -1230,18 +1230,18 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
-				On bumper front
-				On bumper front
-				On bumper front left corner
-				On bumper front right corner
-				On bumper front left side
-				On bumper front right side
-				On bumper rear left side
-				On bumper rear right side
-				On bumper rear left corner
-				On bumper rear right corner
-				On bumper rear
-				On bumper rear
+				On bumper front</br>
+				On bumper front</br>
+				On bumper front left corner</br>
+				On bumper front right corner</br>
+				On bumper front left side</br>
+				On bumper front right side</br>
+				On bumper rear left side</br>
+				On bumper rear right side</br>
+				On bumper rear left corner</br>
+				On bumper rear right corner</br>
+				On bumper rear</br>
+				On bumper rear</br>
 			</td>
 		</tr>
 		<tr>
@@ -1249,11 +1249,11 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
-				Top center windshield
-				Front (Optional)
-				On left wing mirror (Optional)
-				On right wing mirror (Optional)
-				Rear center (Optional)
+				Top center windshield</br>
+				Front (Optional)</br>
+				On left wing mirror (Optional)</br>
+				On right wing mirror (Optional)</br>
+				Rear center (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1261,11 +1261,11 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
-				Front
-				Left front corner (Optional)
-				Right front corner (Optional)
-				Left rear corner (Optional)
-				Right rear corner (Optional)
+				Front</br>
+				Left front corner (Optional)</br>
+				Right front corner (Optional)</br>
+				Left rear corner (Optional)</br>
+				Right rear corner (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1435,6 +1435,44 @@ This model is available with a seat configuration with six or seven seats.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Celadon Gray</br>
+				Ionosphere Green Pearl</br>
+				Sunset Brown Pearl</br>
+				Cosmic Blue Pearl</br>
+				Abyss Black Pearl</br>
+				Serenity White Pearlk</br>
+				Snow White Pearl</br>
+				Cyber Gray Metallic</br>
+				Atlas White Matte</br>
+				Ecotronic Gray Matte</br>
+				Nocturne Gray Matte/Metallic</br>
+				Gravity Gold Matte</br>
+				Ultimate Red Metallic</br>
+				Biophilic Blue Pearl</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1793,18 +1793,18 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
-				På støtfanger foran
-				På støtfanger foran
-				På støtfanger foran venstre hjørne
-				På støtfanger foran høyre hjørne
-				På støtfanger foran venstre side
-				På støtfanger foran høyre side
-				På støtfanger bak venstre side
-				På støtfanger bak høyre side
-				På støtfanger bak venstre hjørne
-				På støtfanger bak høyre hjørne
-				På støtfanger bak
-				På støtfanger bak
+				På støtfanger foran</br>
+				På støtfanger foran</br>
+				På støtfanger foran venstre hjørne</br>
+				På støtfanger foran høyre hjørne</br>
+				På støtfanger foran venstre side</br>
+				På støtfanger foran høyre side</br>
+				På støtfanger bak venstre side</br>
+				På støtfanger bak høyre side</br>
+				På støtfanger bak venstre hjørne</br>
+				På støtfanger bak høyre hjørne</br>
+				På støtfanger bak</br>
+				På støtfanger bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -1812,11 +1812,11 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
-				Topp senter frontrute
-				Foran (Valgfritt)
-				På venstre speil (Valgfritt)
-				På høyre speil (Valgfritt)
-				Bak senter (Valgfritt)
+				Topp senter frontrute</br>
+				Foran (Valgfritt)</br>
+				På venstre speil (Valgfritt)</br>
+				På høyre speil (Valgfritt)</br>
+				Bak senter (Valgfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1824,11 +1824,11 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
-				Venstre fremre hjørne (Valgfritt)
-				Høyre fremre hjørne (Valgfritt)
-				Venstre bakre hjørne (Valgfritt)
-				Høyre bakre hjørne (Valgfritt)
+				Foran</br>
+				Venstre fremre hjørne (Valgfritt)</br>
+				Høyre fremre hjørne (Valgfritt)</br>
+				Venstre bakre hjørne (Valgfritt)</br>
+				Høyre bakre hjørne (Valgfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -2014,6 +2014,91 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				700
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Daytona Grey (Grå)</br>
+				Glacier White (Hvit)</br>
+				Catalunya Red (Rød)</br>
+				Plasma Blue (Blå)</br>
+				Florett Silver (Sølv)</br>
+				Chronos Grey (Grå)</br>
+				Typhoon Grey (Grå)</br>
+				Navarra Blue (Blå)</br>
+				Galaxy Blue (Blå)</br>
+				Antigua Blue (Blå)</br>
+				Manhatten Grey (Grå)</br>
+				Brilliant Black (Svart)</br>
+				Mythos black (Svart)</br>
+				Misano red, pearl effect (Rød)</br>
+				Merlin purple, pearl effect (Lilla)</br>
+				Velvet purple, pearl effect (Lilla)</br>
+				Sepang blue, pearl effect (Blå)</br>
+				Nogoro blue, pearl effect (Blå)</br>
+				Palace blue, pearl effect (Blå)</br>
+				Night blue, pearl effect (Blå)</br>
+				Oak green, pearl effect (Grønn)</br>
+				Goodwood green, pearl effect (Grønn)</br>
+				Deep green, pearl effect (Grønn)</br>
+				Sand beige, pearl effect</br>
+				Arrow grey, pearl effect (Grå)</br>
+				Nimbus grey, pearl effect (Grå)</br>
+				Ara blue, crystal effect (Blå)</br>
+				Panther black, crystal effect (Svart)</br>
+				Amalfi white (Hvit)</br>
+				Vegas yellow (Gul)</br>
+				Green (Grønn)</br>
+				Cumulus blue (Blå)</br>
+				Citrus yellow (Gul)</br>
+				Solar orange (Gul)</br>
+				Solar orange (Oransje)</br>
+				Quantum grey (Grå)</br>
+				Nardo grey (Grå)</br>
+				Camoflage green (Grønn)</br>
+				Soho brown (Brun)</br>
+				Java brown (Brun)</br>
+				Teak brown (Brun)</br>
+				Ipanema brown (Brun)</br>
+				Diamond beige</br>
+				Siam beige</br>
+				Tornado grey (Grå)</br>
+				Havana black (Svart)</br>
+				Mamba black (Svart)</br>
+				Vesuvius grey (Grå)</br>
+				Ice silver (Sølv)</br>
+				Suzuka grey (Grå)</br>
+				Terra grey (Grå)</br>
+				Cuvée silver (Sølv)</br>
+				Samoa orange (Oransje)</br>
+				Coral orange (Oransje)</br>
+				Catalunya red (Rød)</br>
+				Tango red (Rød)</br>
+				Shiraz red (Rød)</br>
+				Seville red (Rød)</br>
+				Ascari blue (Blå)</br>
+				Utopia blue (Blå)</br>
+				Java green (Grønn)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1038,6 +1038,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1045,6 +1046,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1052,6 +1054,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1059,6 +1062,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1188,6 +1192,40 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Red</br>
+				Black</br>
+				SONIC WHITE METALLIC</br>
+				SONIC TITANIUM METALLIC (Gray)</br>
+				GRAPHITE BLACK METALLIC</br>
+				BLAZING CARNELIAN (Orange)</br>
+				TERRANE KHAKI (Green)</br>
+				CELESTIAL BLUE</br>
+				SONIC PLATINUM (White)</br>
+				SONIC GREY (Gray)</br>
 			</td>
 		</tr>
 	</tbody>

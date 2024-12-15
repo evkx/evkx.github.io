@@ -1300,6 +1300,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1307,6 +1308,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1314,6 +1316,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1321,6 +1324,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1500,6 +1504,41 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				590
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Polar white (Vit)</br>
+				Black (Svart)</br>
+				Diamond white bright (Vit)</br>
+				Hyacinth red metallic (Röd)</br>
+				Selenite grey magno (Grå)</br>
+				Obsidian black metallic (Svart)</br>
+				Onyx black metallic (Svart)</br>
+				Nautic blue (Blå)</br>
+				Graphite grey metallic (Grå)</br>
+				Sodalite blue metallic (Blå)</br>
+				High-tech silver metallic</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1312,6 +1312,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1319,6 +1320,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1326,6 +1328,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1333,6 +1336,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1480,6 +1484,40 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				450
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Moonstone Grey (Gris)</br>
+				Moonstone Grey with black roof (Gris)</br>
+				Blue Dusk Metallic (Bleu)</br>
+				Blue Dusk Metallic with black roof (Bleu)</br>
+				Glacier White Metallic (Blanc)</br>
+				Glacier White Metallic with black roof (Blanc)</br>
+				Grenadill Black metallic (Noir)</br>
+				Kings red metallic (Rouge)</br>
+				Kings red metallic with black roof (Rouge)</br>
+				Scale silver metallic with black roof (Argent)</br>
 			</td>
 		</tr>
 	</tbody>

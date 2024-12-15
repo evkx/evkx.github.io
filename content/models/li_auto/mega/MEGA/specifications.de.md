@@ -927,18 +927,18 @@ Interior.Seatlayout.OnlySix
 				Ultraschallsensoren
 			</td>
 			<td>
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten
-				Auf Stoßstange hinten
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten</br>
+				Auf Stoßstange hinten</br>
 			</td>
 		</tr>
 		<tr>
@@ -946,15 +946,15 @@ Interior.Seatlayout.OnlySix
 				Kameras
 			</td>
 			<td>
-				Oben Mitte Windschutzscheibe
-				Oben Mitte Windschutzscheibe (Optional)
-				Vorne
-				Am linken Außenspiegel
-				Am rechten Außenspiegel
-				Linke Vorderseite
-				Rechte Vorderseite
-				Mitteldach über Heckscheibe
-				Mitteldach über Heckscheibe
+				Oben Mitte Windschutzscheibe</br>
+				Oben Mitte Windschutzscheibe (Optional)</br>
+				Vorne</br>
+				Am linken Außenspiegel</br>
+				Am rechten Außenspiegel</br>
+				Linke Vorderseite</br>
+				Rechte Vorderseite</br>
+				Mitteldach über Heckscheibe</br>
+				Mitteldach über Heckscheibe</br>
 			</td>
 		</tr>
 		<tr>
@@ -962,7 +962,7 @@ Interior.Seatlayout.OnlySix
 				Radar-Sensoren
 			</td>
 			<td>
-				Vorne
+				Vorne</br>
 			</td>
 		</tr>
 		<tr>
@@ -970,7 +970,7 @@ Interior.Seatlayout.OnlySix
 				Lidar-Sensoren
 			</td>
 			<td>
-				Mitteldach über Windschutzscheibe (Optional)
+				Mitteldach über Windschutzscheibe (Optional)</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1075,6 +1075,34 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Ja, 15,7"
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Panda White (Weiß)</br>
+				Silver (Silber)</br>
+				Elephant Grey (Grau)</br>
+				Grey Metallic (Grau)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1131,6 +1131,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1138,6 +1139,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1145,6 +1147,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1152,6 +1155,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1329,6 +1333,42 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				464
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Black (Noir)</br>
+				Alpine White (Blanc)</br>
+				Mineral white metallic (Blanc)</br>
+				Phytonic Blue (Bleu)</br>
+				Black Sapphire Metallic (Noir)</br>
+				Sanremo Green metallic (Vert)</br>
+				Cape York Green metallic (Vert)</br>
+				Utah Orange metallic</br>
+				Space Silver metallic (Argent)</br>
+				Storm Bay metallic (Gris)</br>
+				BMW Indvidual Blu Bay Lagoon metallic (Bleu)</br>
+				Frozen Pure Grey metallic (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

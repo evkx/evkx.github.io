@@ -922,18 +922,18 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
-				På stötfångare fram
-				På stötfångare fram
-				På stötfångare fram vänster hörn
-				På stötfångare fram höger hörn
-				På stötfångare fram vänster sida
-				På stötfångare fram höger sida
-				På stötfångare bak vänster sida
-				På stötfångare bak höger sida
-				På stötfångare bak vänster hörn
-				På stötfångare bak höger hörn
-				På stötfångare bak
-				På stötfångare bak
+				På stötfångare fram</br>
+				På stötfångare fram</br>
+				På stötfångare fram vänster hörn</br>
+				På stötfångare fram höger hörn</br>
+				På stötfångare fram vänster sida</br>
+				På stötfångare fram höger sida</br>
+				På stötfångare bak vänster sida</br>
+				På stötfångare bak höger sida</br>
+				På stötfångare bak vänster hörn</br>
+				På stötfångare bak höger hörn</br>
+				På stötfångare bak</br>
+				På stötfångare bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -941,11 +941,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
-				Topp center vindruta
-				Fram (Valfritt)
-				På vänster sidospegel (Valfritt)
-				På höger sidospegel (Valfritt)
-				Bak center
+				Topp center vindruta</br>
+				Fram (Valfritt)</br>
+				På vänster sidospegel (Valfritt)</br>
+				På höger sidospegel (Valfritt)</br>
+				Bak center</br>
 			</td>
 		</tr>
 		<tr>
@@ -953,11 +953,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
-				Fram
-				Vänster främre hörn
-				Höger främre hörn
-				Vänster bakre hörn
-				Höger bakre hörn
+				Fram</br>
+				Vänster främre hörn</br>
+				Höger främre hörn</br>
+				Vänster bakre hörn</br>
+				Höger bakre hörn</br>
 			</td>
 		</tr>
 		<tr>
@@ -1071,6 +1071,35 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Crystal Black Pearl (Svart)</br>
+				Obsdidian Blue (Blå)</br>
+				Aqua Topaz Metallic (Blå)</br>
+				Urban Grey Pearl (Grå)</br>
+				Platinum White Pearl (Vit)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -996,6 +996,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1003,6 +1004,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1010,6 +1012,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1017,6 +1020,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1227,6 +1231,41 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				590
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Polar white (Blanc)</br>
+				Black (Noir)</br>
+				Obsidian black metallic (Noir)</br>
+				Graphite grey (Gris)</br>
+				Mojave silver metallic (Argent)</br>
+				Cavansite blue metallic (Bleu)</br>
+				High-tech silver metallic (Argent)</br>
+				Spectral blue metallic (Bleu)</br>
+				Opalite white bright (Blanc)</br>
+				Selenite grey magno (Gris)</br>
+				Hyacinth red metallic (Rouge)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -888,18 +888,18 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
-				På stötfångare fram
-				På stötfångare fram
-				På stötfångare fram vänster hörn
-				På stötfångare fram höger hörn
-				På stötfångare fram vänster sida
-				På stötfångare fram höger sida
-				På stötfångare bak vänster sida
-				På stötfångare bak höger sida
-				På stötfångare bak vänster hörn
-				På stötfångare bak höger hörn
-				På stötfångare bak
-				På stötfångare bak
+				På stötfångare fram</br>
+				På stötfångare fram</br>
+				På stötfångare fram vänster hörn</br>
+				På stötfångare fram höger hörn</br>
+				På stötfångare fram vänster sida</br>
+				På stötfångare fram höger sida</br>
+				På stötfångare bak vänster sida</br>
+				På stötfångare bak höger sida</br>
+				På stötfångare bak vänster hörn</br>
+				På stötfångare bak höger hörn</br>
+				På stötfångare bak</br>
+				På stötfångare bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -907,14 +907,14 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
-				Topp center vindruta
-				Fram
-				På vänster sidospegel
-				På höger sidospegel
-				Bak center
-				Centertak över bakrutan
-				Vänster främre sida
-				Höger främre sida
+				Topp center vindruta</br>
+				Fram</br>
+				På vänster sidospegel</br>
+				På höger sidospegel</br>
+				Bak center</br>
+				Centertak över bakrutan</br>
+				Vänster främre sida</br>
+				Höger främre sida</br>
 			</td>
 		</tr>
 		<tr>
@@ -922,9 +922,9 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
-				Fram
-				Vänster bakre hörn
-				Höger bakre hörn
+				Fram</br>
+				Vänster bakre hörn</br>
+				Höger bakre hörn</br>
 			</td>
 		</tr>
 		<tr>
@@ -932,7 +932,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Lidar-sensorer
 			</td>
 			<td>
-				Centertak över vindrutan
+				Centertak över vindrutan</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1091,6 +1091,39 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				25
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Meteor Blue (Blå)</br>
+				Radiant Purple (Lila)</br>
+				Olive Green (Grön)</br>
+				Lava Orange</br>
+				Pearl White (Vit)</br>
+				Diamond Black (Svart)</br>
+				Aqua Blue (Blå)</br>
+				Mineral gray (Grå)</br>
+				Elegant gray (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

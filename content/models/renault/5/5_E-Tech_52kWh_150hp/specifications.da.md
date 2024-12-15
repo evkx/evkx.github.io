@@ -930,18 +930,18 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
-				På kofanger foran (Valgfri)
-				På kofanger foran (Valgfri)
-				På kofanger venstre forhjørne (Valgfri)
-				På kofanger højre forhjørne (Valgfri)
-				På kofanger venstre forside (Valgfri)
-				På kofanger højre forside (Valgfri)
-				På kofanger venstre bagside (Valgfri)
-				På kofanger højre bagside (Valgfri)
-				På kofanger venstre baghjørne (Valgfri)
-				På kofanger højre baghjørne (Valgfri)
-				På kofanger bagpå (Valgfri)
-				På kofanger bagpå (Valgfri)
+				På kofanger foran (Valgfri)</br>
+				På kofanger foran (Valgfri)</br>
+				På kofanger venstre forhjørne (Valgfri)</br>
+				På kofanger højre forhjørne (Valgfri)</br>
+				På kofanger venstre forside (Valgfri)</br>
+				På kofanger højre forside (Valgfri)</br>
+				På kofanger venstre bagside (Valgfri)</br>
+				På kofanger højre bagside (Valgfri)</br>
+				På kofanger venstre baghjørne (Valgfri)</br>
+				På kofanger højre baghjørne (Valgfri)</br>
+				På kofanger bagpå (Valgfri)</br>
+				På kofanger bagpå (Valgfri)</br>
 			</td>
 		</tr>
 		<tr>
@@ -949,7 +949,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
-				Bageste center (Valgfri)
+				Bageste center (Valgfri)</br>
 			</td>
 		</tr>
 		<tr>
@@ -957,6 +957,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -964,6 +965,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1127,6 +1129,35 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				10
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Pop Yellow (Gul)</br>
+				Pop Green (Grøn)</br>
+				Pearl White (Hvid)</br>
+				Starry Black (Sort)</br>
+				Midnight Blue (Blå)</br>
 			</td>
 		</tr>
 	</tbody>

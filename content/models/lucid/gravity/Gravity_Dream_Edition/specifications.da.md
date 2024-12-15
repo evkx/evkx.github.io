@@ -1071,6 +1071,7 @@ Interior.Seatlayout.OnlySix
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1078,6 +1079,7 @@ Interior.Seatlayout.OnlySix
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1085,6 +1087,7 @@ Interior.Seatlayout.OnlySix
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1092,6 +1095,7 @@ Interior.Seatlayout.OnlySix
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1197,6 +1201,36 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Abyss Black (Sort)</br>
+				Stellar White (Hvid)</br>
+				Aurora Green (Grøn)</br>
+				Quantom Gray (Grå)</br>
+				Supernova Bronze</br>
+				Lunar Titanium (Sølv)</br>
 			</td>
 		</tr>
 	</tbody>

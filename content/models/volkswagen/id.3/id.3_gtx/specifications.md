@@ -1123,6 +1123,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1130,11 +1131,11 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
-				Top center windshield
-				Front (Optional)
-				On left wing mirror (Optional)
-				On right wing mirror (Optional)
-				Rear center (Optional)
+				Top center windshield</br>
+				Front (Optional)</br>
+				On left wing mirror (Optional)</br>
+				On right wing mirror (Optional)</br>
+				Rear center (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1142,11 +1143,11 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
-				Front
-				Left front corner (Optional)
-				Right front corner (Optional)
-				Left rear corner (Optional)
-				Right rear corner (Optional)
+				Front</br>
+				Left front corner (Optional)</br>
+				Right front corner (Optional)</br>
+				Left rear corner (Optional)</br>
+				Right rear corner (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1154,6 +1155,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1333,6 +1335,35 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				480
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Moonstone Grey with black roof (Gray)</br>
+				Grenadilla Black Metallic Black</br>
+				Glacier White Metallic Black</br>
+				Kings red metallic with black roof</br>
+				Scale silver metallic with black roof</br>
 			</td>
 		</tr>
 	</tbody>

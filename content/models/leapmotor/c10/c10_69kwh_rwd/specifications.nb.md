@@ -919,18 +919,18 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
-				På støtfanger foran (Valgfritt)
-				På støtfanger foran (Valgfritt)
-				På støtfanger foran venstre hjørne (Valgfritt)
-				På støtfanger foran høyre hjørne (Valgfritt)
-				På støtfanger foran venstre side (Valgfritt)
-				På støtfanger foran høyre side (Valgfritt)
-				På støtfanger bak venstre side (Valgfritt)
-				På støtfanger bak høyre side (Valgfritt)
-				På støtfanger bak venstre hjørne
-				På støtfanger bak høyre hjørne
-				På støtfanger bak
-				På støtfanger bak
+				På støtfanger foran (Valgfritt)</br>
+				På støtfanger foran (Valgfritt)</br>
+				På støtfanger foran venstre hjørne (Valgfritt)</br>
+				På støtfanger foran høyre hjørne (Valgfritt)</br>
+				På støtfanger foran venstre side (Valgfritt)</br>
+				På støtfanger foran høyre side (Valgfritt)</br>
+				På støtfanger bak venstre side (Valgfritt)</br>
+				På støtfanger bak høyre side (Valgfritt)</br>
+				På støtfanger bak venstre hjørne</br>
+				På støtfanger bak høyre hjørne</br>
+				På støtfanger bak</br>
+				På støtfanger bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -938,13 +938,13 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
-				Topp senter frontrute
-				Venstre fremre side
-				Høyre fremre side
-				Foran (Valgfritt)
-				På venstre speil (Valgfritt)
-				På høyre speil (Valgfritt)
-				Bak senter (Valgfritt)
+				Topp senter frontrute</br>
+				Venstre fremre side</br>
+				Høyre fremre side</br>
+				Foran (Valgfritt)</br>
+				På venstre speil (Valgfritt)</br>
+				På høyre speil (Valgfritt)</br>
+				Bak senter (Valgfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -952,11 +952,11 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran (Valgfritt)
-				Venstre fremre hjørne (Valgfritt)
-				Høyre fremre hjørne (Valgfritt)
-				Venstre bakre hjørne (Valgfritt)
-				Høyre bakre hjørne (Valgfritt)
+				Foran (Valgfritt)</br>
+				Venstre fremre hjørne (Valgfritt)</br>
+				Høyre fremre hjørne (Valgfritt)</br>
+				Venstre bakre hjørne (Valgfritt)</br>
+				Høyre bakre hjørne (Valgfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -964,7 +964,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lidar-sensorer
 			</td>
 			<td>
-				Senter tak over frontrute (Valgfritt)
+				Senter tak over frontrute (Valgfritt)</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1067,6 +1067,36 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Glazed green (Grønn)</br>
+				Pearly White (Hvit)</br>
+				Sky canopy gray (Grå)</br>
+				Metallic Black (Svart)</br>
+				Glacier Blue (Blå)</br>
+				Tundra Gray (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1070,6 +1070,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1077,6 +1078,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1084,6 +1086,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1091,6 +1094,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1301,6 +1305,47 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				1455
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				White (Hvid)</br>
+				Black (Sort)</br>
+				Jet Black Metallic (Sort)</br>
+				Volcano Grey Metallic (Grå)</br>
+				Carrara White Metallic (Hvid)</br>
+				Gentian Blue Metallic (Blå)</br>
+				Dolomite Silver Metallic (Sølv)</br>
+				Mamba Green Metallic (Grøn)</br>
+				Frozen Blue Metallic (Blå)</br>
+				Mahogany Metallic (Brun)</br>
+				Frozen Berry Metallic (Lilla)</br>
+				Cherry Metallic (Rød)</br>
+				Coffee Beige Metallic</br>
+				Carmine Red (Rød)</br>
+				Neptune Blue (Blå)</br>
+				Crayon (Grå)</br>
+				Ice Grey Metallic (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -932,6 +932,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -939,6 +940,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -946,6 +948,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -953,6 +956,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1056,6 +1060,51 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Atlas White (Blanc)</br>
+				Abyss Black Pearl (Noir)</br>
+				Shimmering Silver Metallic  (Argent)</br>
+				Serenity White Pearl (Blanc)</br>
+				Atlas White Solid (Blanc)</br>
+				Ecotronic Grey Pearl (Gris)</br>
+				Engine Red Solid (Rouge)</br>
+				Meta Blue Pearl (Bleu)</br>
+				Jupiter Orange Metallic</br>
+				Ultimate Red Metallic (Rouge)</br>
+				Sailing Blue Pearl (Bleu)</br>
+				Cypress Green Pearl (Vert)</br>
+				Abyss Black (Noir)</br>
+				Cyber Grey (Gris)</br>
+				Serenity White Pearl (Blanc)</br>
+				Ecotronic Grey (Gris)</br>
+				Mirage Green (Vert)</br>
+				Ultimate Red (Rouge)</br>
+				Meta Blue (Bleu)</br>
+				Denim Blue (Bleu)</br>
+				Shooting Star Grey Matte (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

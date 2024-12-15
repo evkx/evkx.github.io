@@ -1503,6 +1503,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1510,6 +1511,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1517,6 +1519,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1524,6 +1527,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1701,6 +1705,43 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				1470
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				White (Vit)</br>
+				Black (Svart)</br>
+				Jet Black Metallic (Svart)</br>
+				Volcano Grey Metallic (Grå)</br>
+				Dolomite Silver Metallic</br>
+				Ice Grey Metallic (Grå)</br>
+				Provence (Grå)</br>
+				Gentian Blue Metallic (Blå)</br>
+				Frozen Blue Metallic (Blå)</br>
+				Papaya Metallic (Orange)</br>
+				Oak Green Metallic (Grön)</br>
+				Copper Ruby Metallic (Koppar)</br>
+				Aventurine Green Metallic (Grön)</br>
 			</td>
 		</tr>
 	</tbody>

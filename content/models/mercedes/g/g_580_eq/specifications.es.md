@@ -1131,6 +1131,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1138,6 +1139,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámaras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1145,6 +1147,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1152,6 +1155,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1299,6 +1303,49 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				590
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Polar white (Blanco)</br>
+				Black (Negro)</br>
+				Diamond white bright (Blanco)</br>
+				Selenite grey metallic (Gris)</br>
+				Obsidian black metallic (Negro)</br>
+				emerald green metallic (Verde)</br>
+				Graphite grey metallic (Gris)</br>
+				Sodalite blue metallic (Azul)</br>
+				High-tech silver metallic (Plata)</br>
+				Platinium magno (Gris)</br>
+				Monza gray magno (Gris)</br>
+				Night black magno (Negro)</br>
+				Dark olive magno (Verde)</br>
+				Citrine brown magno (Marrón)</br>
+				Copper orange magno (Naranja)</br>
+				Opalite white magno (Blanco)</br>
+				Kalaharigold magno (Oro)</br>
+				Mangan grey magno (Gris)</br>
+				Magnetblack metallic (Negro)</br>
 			</td>
 		</tr>
 	</tbody>

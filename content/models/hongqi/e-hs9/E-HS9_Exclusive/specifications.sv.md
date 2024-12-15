@@ -962,6 +962,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -969,6 +970,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -976,6 +978,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -983,6 +986,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1088,6 +1092,36 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Artic Black Metallic (Svart)</br>
+				Glacier White Metallic (Vit)</br>
+				Glacier White Artic Black Roof Metallic (Grå)</br>
+				Mountain Grey Metallic (Grå)</br>
+				Mountain Grey Artic Black Roof Metallic (Grå)</br>
+				Mountain Grey Glacier White Metallic (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

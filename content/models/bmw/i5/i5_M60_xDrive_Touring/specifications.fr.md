@@ -1195,18 +1195,18 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
-				Sur le pare-chocs avant
-				Sur le pare-chocs avant
-				Sur le coin avant gauche du pare-chocs
-				Sur le coin avant droit du pare-chocs
-				Sur le côté avant gauche du pare-chocs
-				Sur le côté avant droit du pare-chocs
-				Sur le côté arrière gauche du pare-chocs
-				Sur le côté arrière droit du pare-chocs
-				Sur le coin arrière gauche du pare-chocs
-				Sur le coin arrière droit du pare-chocs
-				Sur le pare-chocs arrière
-				Sur le pare-chocs arrière
+				Sur le pare-chocs avant</br>
+				Sur le pare-chocs avant</br>
+				Sur le coin avant gauche du pare-chocs</br>
+				Sur le coin avant droit du pare-chocs</br>
+				Sur le côté avant gauche du pare-chocs</br>
+				Sur le côté avant droit du pare-chocs</br>
+				Sur le côté arrière gauche du pare-chocs</br>
+				Sur le côté arrière droit du pare-chocs</br>
+				Sur le coin arrière gauche du pare-chocs</br>
+				Sur le coin arrière droit du pare-chocs</br>
+				Sur le pare-chocs arrière</br>
+				Sur le pare-chocs arrière</br>
 			</td>
 		</tr>
 		<tr>
@@ -1214,12 +1214,12 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
-				Centre supérieur du pare-brise
-				Avant (Optionnel)
-				Sur le rétroviseur gauche (Optionnel)
-				Sur le rétroviseur droit (Optionnel)
-				Centre arrière (Optionnel)
-				Console de plafond (Optionnel)
+				Centre supérieur du pare-brise</br>
+				Avant (Optionnel)</br>
+				Sur le rétroviseur gauche (Optionnel)</br>
+				Sur le rétroviseur droit (Optionnel)</br>
+				Centre arrière (Optionnel)</br>
+				Console de plafond (Optionnel)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1227,11 +1227,11 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
-				Avant
-				Coin avant gauche (Optionnel)
-				Coin avant droit (Optionnel)
-				Coin arrière gauche (Optionnel)
-				Coin arrière droit (Optionnel)
+				Avant</br>
+				Coin avant gauche (Optionnel)</br>
+				Coin avant droit (Optionnel)</br>
+				Coin arrière gauche (Optionnel)</br>
+				Coin arrière droit (Optionnel)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1452,6 +1452,42 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				655
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Alpine White (Blanc)</br>
+				Carbon Black (Noir)</br>
+				Black Sapphire (Noir)</br>
+				Sophisto Grey Brilliant Effect (Gris)</br>
+				Mineral White (Blanc)</br>
+				Phytonic Blue (Bleu)</br>
+				Oxide Grey (Gris)</br>
+				Brooklyn Grey (Gris)</br>
+				Cape York Green (Vert)</br>
+				Tanzanite Blue II  (Bleu)</br>
+				Frozen Pure Grey (Gris)</br>
+				BMW Individual Frozen Deep Grey (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

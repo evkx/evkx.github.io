@@ -1664,18 +1664,18 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten
-				Auf Stoßstange hinten
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten</br>
+				Auf Stoßstange hinten</br>
 			</td>
 		</tr>
 		<tr>
@@ -1683,11 +1683,11 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
-				Oben Mitte Windschutzscheibe
-				Vorne (Optional)
-				Am linken Außenspiegel (Optional)
-				Am rechten Außenspiegel (Optional)
-				Hinteres Zentrum (Optional)
+				Oben Mitte Windschutzscheibe</br>
+				Vorne (Optional)</br>
+				Am linken Außenspiegel (Optional)</br>
+				Am rechten Außenspiegel (Optional)</br>
+				Hinteres Zentrum (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1695,11 +1695,11 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
-				Vorne
-				Linke vordere Ecke (Optional)
-				Rechte vordere Ecke (Optional)
-				Linke hintere Ecke (Optional)
-				Rechte hintere Ecke (Optional)
+				Vorne</br>
+				Linke vordere Ecke (Optional)</br>
+				Rechte vordere Ecke (Optional)</br>
+				Linke hintere Ecke (Optional)</br>
+				Rechte hintere Ecke (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1887,6 +1887,86 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				830
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Magnet Grey (Grau)</br>
+				Daytona Grey (Grau)</br>
+				Glacier White (Weiß)</br>
+				Soneira Red (Rot)</br>
+				Plasma Blue (Blau)</br>
+				Acari Blue (Blau)</br>
+				Manhatten Grey (Grau)</br>
+				Mythos black (Schwarz)</br>
+				Misano red, pearl effect (Rot)</br>
+				Merlin purple, pearl effect (Lila)</br>
+				Velvet purple, pearl effect (Lila)</br>
+				Sepang blue, pearl effect (Blau)</br>
+				Nogoro blue, pearl effect (Blau)</br>
+				Palace blue, pearl effect (Blau)</br>
+				Night blue, pearl effect (Blau)</br>
+				Oak green, pearl effect (Grün)</br>
+				Goodwood green, pearl effect (Grün)</br>
+				Deep green, pearl effect (Grün)</br>
+				Sand beige, pearl effect</br>
+				Arrow grey, pearl effect (Grau)</br>
+				Nimbus grey, pearl effect (Grau)</br>
+				Ara blue, crystal effect (Blau)</br>
+				Panther black, crystal effect (Schwarz)</br>
+				Amalfi white (Weiß)</br>
+				Vegas yellow (Gelb)</br>
+				Green (Grün)</br>
+				Cumulus blue (Blau)</br>
+				Citrus yellow (Gelb)</br>
+				Solar orange (Gelb)</br>
+				Solar orange</br>
+				Quantum grey (Grau)</br>
+				Nardo grey (Grau)</br>
+				Camoflage green (Grün)</br>
+				Soho brown (Braun)</br>
+				Java brown (Braun)</br>
+				Teak brown (Braun)</br>
+				Ipanema brown (Braun)</br>
+				Diamond beige</br>
+				Siam beige</br>
+				Tornado grey (Grau)</br>
+				Havana black (Schwarz)</br>
+				Mamba black (Schwarz)</br>
+				Vesuvius grey (Grau)</br>
+				Ice silver (Silber)</br>
+				Suzuka grey (Grau)</br>
+				Terra grey (Grau)</br>
+				Cuvée silver (Silber)</br>
+				Samoa orange</br>
+				Coral orange</br>
+				Catalunya red (Rot)</br>
+				Tango red (Rot)</br>
+				Shiraz red (Rot)</br>
+				Seville red (Rot)</br>
+				Ascari blue (Blau)</br>
+				Utopia blue (Blau)</br>
+				Java green (Grün)</br>
 			</td>
 		</tr>
 	</tbody>

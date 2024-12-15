@@ -1206,18 +1206,18 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 				Ultraschallsensoren
 			</td>
 			<td>
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten
-				Auf Stoßstange hinten
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten</br>
+				Auf Stoßstange hinten</br>
 			</td>
 		</tr>
 		<tr>
@@ -1225,11 +1225,11 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 				Kameras
 			</td>
 			<td>
-				Oben Mitte Windschutzscheibe
-				Vorne (Optional)
-				Am linken Außenspiegel (Optional)
-				Am rechten Außenspiegel (Optional)
-				Hinteres Zentrum (Optional)
+				Oben Mitte Windschutzscheibe</br>
+				Vorne (Optional)</br>
+				Am linken Außenspiegel (Optional)</br>
+				Am rechten Außenspiegel (Optional)</br>
+				Hinteres Zentrum (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1237,11 +1237,11 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 				Radar-Sensoren
 			</td>
 			<td>
-				Vorne
-				Linke vordere Ecke (Optional)
-				Rechte vordere Ecke (Optional)
-				Linke hintere Ecke (Optional)
-				Rechte hintere Ecke (Optional)
+				Vorne</br>
+				Linke vordere Ecke (Optional)</br>
+				Rechte vordere Ecke (Optional)</br>
+				Linke hintere Ecke (Optional)</br>
+				Rechte hintere Ecke (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1411,6 +1411,44 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Celadon Gray (Grau)</br>
+				Ionosphere Green Pearl (Grün)</br>
+				Sunset Brown Pearl (Braun)</br>
+				Cosmic Blue Pearl (Blau)</br>
+				Abyss Black Pearl (Schwarz)</br>
+				Serenity White Pearlk (Weiß)</br>
+				Snow White Pearl (Weiß)</br>
+				Cyber Gray Metallic (Grau)</br>
+				Atlas White Matte (Weiß)</br>
+				Ecotronic Gray Matte (Grau)</br>
+				Nocturne Gray Matte/Metallic (Grau)</br>
+				Gravity Gold Matte</br>
+				Ultimate Red Metallic (Rot)</br>
+				Biophilic Blue Pearl (Blau)</br>
 			</td>
 		</tr>
 	</tbody>

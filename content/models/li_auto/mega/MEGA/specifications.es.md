@@ -927,18 +927,18 @@ Interior.Seatlayout.OnlySix
 				Sensores ultrasónicos
 			</td>
 			<td>
-				En el parachoques delantero
-				En el parachoques delantero
-				En la esquina delantera izquierda del parachoques
-				En la esquina delantera derecha del parachoques
-				En el lado delantero izquierdo del parachoques
-				En el lado delantero derecho del parachoques
-				En el lado trasero izquierdo del parachoques
-				En el lado trasero derecho del parachoques
-				En la esquina trasera izquierda del parachoques
-				En la esquina trasera derecha del parachoques
-				En el parachoques trasero
-				En el parachoques trasero
+				En el parachoques delantero</br>
+				En el parachoques delantero</br>
+				En la esquina delantera izquierda del parachoques</br>
+				En la esquina delantera derecha del parachoques</br>
+				En el lado delantero izquierdo del parachoques</br>
+				En el lado delantero derecho del parachoques</br>
+				En el lado trasero izquierdo del parachoques</br>
+				En el lado trasero derecho del parachoques</br>
+				En la esquina trasera izquierda del parachoques</br>
+				En la esquina trasera derecha del parachoques</br>
+				En el parachoques trasero</br>
+				En el parachoques trasero</br>
 			</td>
 		</tr>
 		<tr>
@@ -946,15 +946,15 @@ Interior.Seatlayout.OnlySix
 				Cámaras
 			</td>
 			<td>
-				Centro superior del parabrisas
-				Centro superior del parabrisas (Opcional)
-				Frente
-				En el espejo retrovisor izquierdo
-				En el espejo retrovisor derecho
-				Lado delantero izquierdo
-				Lado delantero derecho
-				Techo central sobre la ventana trasera
-				Techo central sobre la ventana trasera
+				Centro superior del parabrisas</br>
+				Centro superior del parabrisas (Opcional)</br>
+				Frente</br>
+				En el espejo retrovisor izquierdo</br>
+				En el espejo retrovisor derecho</br>
+				Lado delantero izquierdo</br>
+				Lado delantero derecho</br>
+				Techo central sobre la ventana trasera</br>
+				Techo central sobre la ventana trasera</br>
 			</td>
 		</tr>
 		<tr>
@@ -962,7 +962,7 @@ Interior.Seatlayout.OnlySix
 				Sensores de radar
 			</td>
 			<td>
-				Frente
+				Frente</br>
 			</td>
 		</tr>
 		<tr>
@@ -970,7 +970,7 @@ Interior.Seatlayout.OnlySix
 				Sensores Lidar
 			</td>
 			<td>
-				Techo central sobre el parabrisas (Opcional)
+				Techo central sobre el parabrisas (Opcional)</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1075,6 +1075,34 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Sí, 15,7"
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Panda White (Blanco)</br>
+				Silver (Plata)</br>
+				Elephant Grey (Gris)</br>
+				Grey Metallic (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

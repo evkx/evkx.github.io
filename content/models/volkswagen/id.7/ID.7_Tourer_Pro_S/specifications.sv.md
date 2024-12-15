@@ -1179,18 +1179,18 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
-				På stötfångare fram
-				På stötfångare fram
-				På stötfångare fram vänster hörn
-				På stötfångare fram höger hörn
-				På stötfångare fram vänster sida
-				På stötfångare fram höger sida
-				På stötfångare bak vänster sida
-				På stötfångare bak höger sida
-				På stötfångare bak vänster hörn
-				På stötfångare bak höger hörn
-				På stötfångare bak
-				På stötfångare bak
+				På stötfångare fram</br>
+				På stötfångare fram</br>
+				På stötfångare fram vänster hörn</br>
+				På stötfångare fram höger hörn</br>
+				På stötfångare fram vänster sida</br>
+				På stötfångare fram höger sida</br>
+				På stötfångare bak vänster sida</br>
+				På stötfångare bak höger sida</br>
+				På stötfångare bak vänster hörn</br>
+				På stötfångare bak höger hörn</br>
+				På stötfångare bak</br>
+				På stötfångare bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -1198,11 +1198,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
-				Topp center vindruta
-				Fram (Valfritt)
-				På vänster sidospegel (Valfritt)
-				På höger sidospegel (Valfritt)
-				Bak center (Valfritt)
+				Topp center vindruta</br>
+				Fram (Valfritt)</br>
+				På vänster sidospegel (Valfritt)</br>
+				På höger sidospegel (Valfritt)</br>
+				Bak center (Valfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1210,11 +1210,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
-				Fram
-				Vänster främre hörn (Valfritt)
-				Höger främre hörn (Valfritt)
-				Vänster bakre hörn (Valfritt)
-				Höger bakre hörn (Valfritt)
+				Fram</br>
+				Vänster främre hörn (Valfritt)</br>
+				Höger främre hörn (Valfritt)</br>
+				Vänster bakre hörn (Valfritt)</br>
+				Höger bakre hörn (Valfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1402,6 +1402,40 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				700
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Moonstone Grey (Grå)</br>
+				Moonstone Grey with black roof (Grå)</br>
+				Blue Dusk Metallic (Blå)</br>
+				Blue Dusk Metallic with black roof (Blå)</br>
+				Glacier White Metallic (Vit)</br>
+				Glacier White Metallic with black roof (Vit)</br>
+				Grenadill Black metallic (Svart)</br>
+				Kings red metallic (Röd)</br>
+				Kings red metallic with black roof (Röd)</br>
+				Scale silver metallic with black roof</br>
 			</td>
 		</tr>
 	</tbody>

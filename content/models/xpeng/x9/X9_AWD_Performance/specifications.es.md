@@ -856,6 +856,7 @@ Interior.Seatlayout.OnlySix
 				Sensores ultrasónicos
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -863,6 +864,7 @@ Interior.Seatlayout.OnlySix
 				Cámaras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -870,6 +872,7 @@ Interior.Seatlayout.OnlySix
 				Sensores de radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -877,6 +880,7 @@ Interior.Seatlayout.OnlySix
 				Sensores Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -976,6 +980,31 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>

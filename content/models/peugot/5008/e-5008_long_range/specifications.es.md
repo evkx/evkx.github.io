@@ -1026,18 +1026,18 @@ Interior.Seatlayout.OnlySix
 				Sensores ultrasónicos
 			</td>
 			<td>
-				En el parachoques delantero (Opcional)
-				En el parachoques delantero (Opcional)
-				En la esquina delantera izquierda del parachoques (Opcional)
-				En la esquina delantera derecha del parachoques (Opcional)
-				En el lado delantero izquierdo del parachoques (Opcional)
-				En el lado delantero derecho del parachoques (Opcional)
-				En el lado trasero izquierdo del parachoques
-				En el lado trasero derecho del parachoques
-				En la esquina trasera izquierda del parachoques
-				En la esquina trasera derecha del parachoques
-				En el parachoques trasero
-				En el parachoques trasero
+				En el parachoques delantero (Opcional)</br>
+				En el parachoques delantero (Opcional)</br>
+				En la esquina delantera izquierda del parachoques (Opcional)</br>
+				En la esquina delantera derecha del parachoques (Opcional)</br>
+				En el lado delantero izquierdo del parachoques (Opcional)</br>
+				En el lado delantero derecho del parachoques (Opcional)</br>
+				En el lado trasero izquierdo del parachoques</br>
+				En el lado trasero derecho del parachoques</br>
+				En la esquina trasera izquierda del parachoques</br>
+				En la esquina trasera derecha del parachoques</br>
+				En el parachoques trasero</br>
+				En el parachoques trasero</br>
 			</td>
 		</tr>
 		<tr>
@@ -1045,11 +1045,11 @@ Interior.Seatlayout.OnlySix
 				Cámaras
 			</td>
 			<td>
-				Centro superior del parabrisas
-				Frente (Opcional)
-				En el espejo retrovisor izquierdo (Opcional)
-				En el espejo retrovisor derecho (Opcional)
-				Centro trasero
+				Centro superior del parabrisas</br>
+				Frente (Opcional)</br>
+				En el espejo retrovisor izquierdo (Opcional)</br>
+				En el espejo retrovisor derecho (Opcional)</br>
+				Centro trasero</br>
 			</td>
 		</tr>
 		<tr>
@@ -1057,9 +1057,9 @@ Interior.Seatlayout.OnlySix
 				Sensores de radar
 			</td>
 			<td>
-				Frente
-				Esquina trasera izquierda (Opcional)
-				Esquina trasera derecha (Opcional)
+				Frente</br>
+				Esquina trasera izquierda (Opcional)</br>
+				Esquina trasera derecha (Opcional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1239,6 +1239,36 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				690
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Obsession Blue (Azul)</br>
+				Ingaro Blue (Azul)</br>
+				Okenite White (Blanco)</br>
+				Pearl Nera Black (Negro)</br>
+				Artense Grey (Gris)</br>
+				Titane Grey (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1069,18 +1069,18 @@ Interior.Seatlayout.OnlySix
 				Capteurs ultrasoniques
 			</td>
 			<td>
-				Sur le pare-chocs avant
-				Sur le pare-chocs avant
-				Sur le coin avant gauche du pare-chocs
-				Sur le coin avant droit du pare-chocs
-				Sur le côté avant gauche du pare-chocs
-				Sur le côté avant droit du pare-chocs
-				Sur le côté arrière gauche du pare-chocs
-				Sur le côté arrière droit du pare-chocs
-				Sur le coin arrière gauche du pare-chocs
-				Sur le coin arrière droit du pare-chocs
-				Sur le pare-chocs arrière
-				Sur le pare-chocs arrière
+				Sur le pare-chocs avant</br>
+				Sur le pare-chocs avant</br>
+				Sur le coin avant gauche du pare-chocs</br>
+				Sur le coin avant droit du pare-chocs</br>
+				Sur le côté avant gauche du pare-chocs</br>
+				Sur le côté avant droit du pare-chocs</br>
+				Sur le côté arrière gauche du pare-chocs</br>
+				Sur le côté arrière droit du pare-chocs</br>
+				Sur le coin arrière gauche du pare-chocs</br>
+				Sur le coin arrière droit du pare-chocs</br>
+				Sur le pare-chocs arrière</br>
+				Sur le pare-chocs arrière</br>
 			</td>
 		</tr>
 		<tr>
@@ -1088,11 +1088,11 @@ Interior.Seatlayout.OnlySix
 				Caméras
 			</td>
 			<td>
-				Centre supérieur du pare-brise
-				Avant
-				Sur le rétroviseur gauche
-				Sur le rétroviseur droit
-				Centre arrière
+				Centre supérieur du pare-brise</br>
+				Avant</br>
+				Sur le rétroviseur gauche</br>
+				Sur le rétroviseur droit</br>
+				Centre arrière</br>
 			</td>
 		</tr>
 		<tr>
@@ -1100,11 +1100,11 @@ Interior.Seatlayout.OnlySix
 				Capteurs radar
 			</td>
 			<td>
-				Avant
-				Coin avant gauche
-				Coin avant droit
-				Coin arrière gauche
-				Coin arrière droit
+				Avant</br>
+				Coin avant gauche</br>
+				Coin avant droit</br>
+				Coin arrière gauche</br>
+				Coin arrière droit</br>
 			</td>
 		</tr>
 		<tr>
@@ -1292,6 +1292,40 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				1000
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Summit White (Blanc)</br>
+				Summit White (Blanc)</br>
+				Black Raven (Noir)</br>
+				Flare Metallic (Argent)</br>
+				Flare Metallic (Argent)</br>
+				Deep Space Metallic (Gris)</br>
+				Deep Space Metallic (Gris)</br>
+				Black Cherry Tintcoat (Rouge)</br>
+				Midnight Steel Frost (Bleu)</br>
+				Midnight Steel Frost (Bleu)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -927,18 +927,18 @@ Interior.Seatlayout.OnlySix
 				Ultralydssensorer
 			</td>
 			<td>
-				På kofanger foran
-				På kofanger foran
-				På kofanger venstre forhjørne
-				På kofanger højre forhjørne
-				På kofanger venstre forside
-				På kofanger højre forside
-				På kofanger venstre bagside
-				På kofanger højre bagside
-				På kofanger venstre baghjørne
-				På kofanger højre baghjørne
-				På kofanger bagpå
-				På kofanger bagpå
+				På kofanger foran</br>
+				På kofanger foran</br>
+				På kofanger venstre forhjørne</br>
+				På kofanger højre forhjørne</br>
+				På kofanger venstre forside</br>
+				På kofanger højre forside</br>
+				På kofanger venstre bagside</br>
+				På kofanger højre bagside</br>
+				På kofanger venstre baghjørne</br>
+				På kofanger højre baghjørne</br>
+				På kofanger bagpå</br>
+				På kofanger bagpå</br>
 			</td>
 		</tr>
 		<tr>
@@ -946,15 +946,15 @@ Interior.Seatlayout.OnlySix
 				Kameraer
 			</td>
 			<td>
-				Top center forrude
-				Top center forrude (Valgfri)
-				Foran
-				På venstre sidespejl
-				På højre sidespejl
-				Venstre forside
-				Højre forside
-				Center tag over bagrude
-				Center tag over bagrude
+				Top center forrude</br>
+				Top center forrude (Valgfri)</br>
+				Foran</br>
+				På venstre sidespejl</br>
+				På højre sidespejl</br>
+				Venstre forside</br>
+				Højre forside</br>
+				Center tag over bagrude</br>
+				Center tag over bagrude</br>
 			</td>
 		</tr>
 		<tr>
@@ -962,7 +962,7 @@ Interior.Seatlayout.OnlySix
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
+				Foran</br>
 			</td>
 		</tr>
 		<tr>
@@ -970,7 +970,7 @@ Interior.Seatlayout.OnlySix
 				Lidar-sensorer
 			</td>
 			<td>
-				Center tag over forrude (Valgfri)
+				Center tag over forrude (Valgfri)</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1075,6 +1075,34 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Ja, 15,7"
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Panda White (Hvid)</br>
+				Silver (Sølv)</br>
+				Elephant Grey (Grå)</br>
+				Grey Metallic (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

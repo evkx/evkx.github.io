@@ -1417,6 +1417,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1424,6 +1425,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1431,6 +1433,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1438,6 +1441,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1648,6 +1652,42 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				655
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Alpine White (Blanc)</br>
+				Carbon Black (Noir)</br>
+				Black Sapphire (Noir)</br>
+				Sophisto Grey Brilliant Effect (Gris)</br>
+				Mineral White (Blanc)</br>
+				Phytonic Blue (Bleu)</br>
+				Oxide Grey (Gris)</br>
+				Brooklyn Grey (Gris)</br>
+				Cape York Green (Vert)</br>
+				Tanzanite Blue II  (Bleu)</br>
+				Frozen Pure Grey (Gris)</br>
+				BMW Individual Frozen Deep Grey (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

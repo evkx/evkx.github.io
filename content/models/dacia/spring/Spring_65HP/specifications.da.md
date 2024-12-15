@@ -917,6 +917,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -924,6 +925,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -931,6 +933,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -938,6 +941,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1040,6 +1044,36 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Safari Beige</br>
+				Brick (Rød)</br>
+				Cenote Blue (Blå)</br>
+				Lightning Silver (Sølv)</br>
+				Magma Black (Sort)</br>
+				Kaolin White (Hvid)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -927,18 +927,18 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
-				On bumper front
-				On bumper front
-				On bumper front left corner
-				On bumper front right corner
-				On bumper front left side
-				On bumper front right side
-				On bumper rear left side
-				On bumper rear right side
-				On bumper rear left corner
-				On bumper rear right corner
-				On bumper rear
-				On bumper rear
+				On bumper front</br>
+				On bumper front</br>
+				On bumper front left corner</br>
+				On bumper front right corner</br>
+				On bumper front left side</br>
+				On bumper front right side</br>
+				On bumper rear left side</br>
+				On bumper rear right side</br>
+				On bumper rear left corner</br>
+				On bumper rear right corner</br>
+				On bumper rear</br>
+				On bumper rear</br>
 			</td>
 		</tr>
 		<tr>
@@ -946,15 +946,15 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
-				Top center windshield
-				Top center windshield (Optional)
-				Front
-				On left wing mirror
-				On right wing mirror
-				Left front side
-				Right front side
-				Center roof over rear window
-				Center roof over rear window
+				Top center windshield</br>
+				Top center windshield (Optional)</br>
+				Front</br>
+				On left wing mirror</br>
+				On right wing mirror</br>
+				Left front side</br>
+				Right front side</br>
+				Center roof over rear window</br>
+				Center roof over rear window</br>
 			</td>
 		</tr>
 		<tr>
@@ -962,7 +962,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
-				Front
+				Front</br>
 			</td>
 		</tr>
 		<tr>
@@ -970,7 +970,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
-				Center roof over windshield (Optional)
+				Center roof over windshield (Optional)</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1075,6 +1075,34 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Yes, 15,7"
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Panda White</br>
+				Silver</br>
+				Elephant Grey (Gray)</br>
+				Grey Metallic (Gray)</br>
 			</td>
 		</tr>
 	</tbody>

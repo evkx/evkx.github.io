@@ -919,6 +919,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -926,6 +927,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -933,6 +935,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -940,6 +943,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1045,6 +1049,39 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				LA Silver</br>
+				Glacier (White)</br>
+				Red Canyon</br>
+				Midnight (Black)</br>
+				Rivian Blue</br>
+				Limestone (Gray)</br>
+				Forrest Green</br>
+				El Cap Granite (Gray)</br>
+				Compass Yellow</br>
 			</td>
 		</tr>
 	</tbody>

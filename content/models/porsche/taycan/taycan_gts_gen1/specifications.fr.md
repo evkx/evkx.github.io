@@ -1491,6 +1491,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1498,6 +1499,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1505,6 +1507,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1512,6 +1515,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1722,6 +1726,47 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				1455
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				White (Blanc)</br>
+				Black (Noir)</br>
+				Jet Black Metallic (Noir)</br>
+				Volcano Grey Metallic (Gris)</br>
+				Carrara White Metallic (Blanc)</br>
+				Gentian Blue Metallic (Bleu)</br>
+				Dolomite Silver Metallic (Argent)</br>
+				Mamba Green Metallic (Vert)</br>
+				Frozen Blue Metallic (Bleu)</br>
+				Mahogany Metallic (Marron)</br>
+				Frozen Berry Metallic (Lilas)</br>
+				Cherry Metallic (Rouge)</br>
+				Coffee Beige Metallic</br>
+				Carmine Red (Rouge)</br>
+				Neptune Blue (Bleu)</br>
+				Crayon (Gris)</br>
+				Ice Grey Metallic (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

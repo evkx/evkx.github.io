@@ -1288,6 +1288,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1295,6 +1296,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1302,6 +1304,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1309,6 +1312,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1456,6 +1460,40 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				450
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Moonstone Grey (Grå)</br>
+				Moonstone Grey with black roof (Grå)</br>
+				Blue Dusk Metallic (Blå)</br>
+				Blue Dusk Metallic with black roof (Blå)</br>
+				Glacier White Metallic (Hvid)</br>
+				Glacier White Metallic with black roof (Hvid)</br>
+				Grenadill Black metallic (Sort)</br>
+				Kings red metallic (Rød)</br>
+				Kings red metallic with black roof (Rød)</br>
+				Scale silver metallic with black roof (Sølv)</br>
 			</td>
 		</tr>
 	</tbody>

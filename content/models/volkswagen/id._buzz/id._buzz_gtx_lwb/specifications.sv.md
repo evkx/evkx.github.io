@@ -1233,6 +1233,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1240,6 +1241,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1247,6 +1249,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1254,6 +1257,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1359,6 +1363,42 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Candy white (Vit)</br>
+				Mono Silver Metallic</br>
+				Bay Leaf Green Metallic (Grön)</br>
+				Bay Leaf Green Metallic (Grön)</br>
+				Candy White/Bay Leaf Green (Grön)</br>
+				Candy White/Energetic Orange</br>
+				Candy White/Pomelo Yellow (Gul)</br>
+				Candy White/Starlight Blue (Blå)</br>
+				Energetic Orange Metallic</br>
+				Pomelo Yellow Metallic (Gul)</br>
+				Starlight Blue Metallic (Blå)</br>
+				Deep Black Pearlescent (Blå)</br>
 			</td>
 		</tr>
 	</tbody>

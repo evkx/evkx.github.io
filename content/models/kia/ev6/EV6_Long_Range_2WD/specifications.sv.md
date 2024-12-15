@@ -1044,18 +1044,18 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
-				På stötfångare fram (Valfritt)
-				På stötfångare fram (Valfritt)
-				På stötfångare fram vänster hörn (Valfritt)
-				På stötfångare fram höger hörn (Valfritt)
-				På stötfångare fram vänster sida (Valfritt)
-				På stötfångare fram höger sida (Valfritt)
-				På stötfångare bak vänster sida
-				På stötfångare bak höger sida
-				På stötfångare bak vänster hörn
-				På stötfångare bak höger hörn
-				På stötfångare bak
-				På stötfångare bak
+				På stötfångare fram (Valfritt)</br>
+				På stötfångare fram (Valfritt)</br>
+				På stötfångare fram vänster hörn (Valfritt)</br>
+				På stötfångare fram höger hörn (Valfritt)</br>
+				På stötfångare fram vänster sida (Valfritt)</br>
+				På stötfångare fram höger sida (Valfritt)</br>
+				På stötfångare bak vänster sida</br>
+				På stötfångare bak höger sida</br>
+				På stötfångare bak vänster hörn</br>
+				På stötfångare bak höger hörn</br>
+				På stötfångare bak</br>
+				På stötfångare bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -1063,11 +1063,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
-				Topp center vindruta
-				Fram (Valfritt)
-				På vänster sidospegel (Valfritt)
-				På höger sidospegel (Valfritt)
-				Bak center
+				Topp center vindruta</br>
+				Fram (Valfritt)</br>
+				På vänster sidospegel (Valfritt)</br>
+				På höger sidospegel (Valfritt)</br>
+				Bak center</br>
 			</td>
 		</tr>
 		<tr>
@@ -1075,11 +1075,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
-				Fram
-				Vänster främre hörn (Valfritt)
-				Höger främre hörn (Valfritt)
-				Vänster bakre hörn (Valfritt)
-				Höger bakre hörn (Valfritt)
+				Fram</br>
+				Vänster främre hörn (Valfritt)</br>
+				Höger främre hörn (Valfritt)</br>
+				Vänster bakre hörn (Valfritt)</br>
+				Höger bakre hörn (Valfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1251,6 +1251,39 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Yacht Blue (Blå)</br>
+				Interstellar Grey (Grå)</br>
+				Gravity Blue (Blå)</br>
+				Aurora Black (Svart)</br>
+				Steel Grey (Grå)</br>
+				Runway Red (Röd)</br>
+				Moonscape (Silver)</br>
+				Glacier (Vit)</br>
+				Snow White Pearl (Vit)</br>
 			</td>
 		</tr>
 	</tbody>

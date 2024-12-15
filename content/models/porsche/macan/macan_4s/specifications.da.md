@@ -1386,6 +1386,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1393,6 +1394,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1400,6 +1402,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1407,6 +1410,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1584,6 +1588,43 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				1470
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				White (Hvid)</br>
+				Black (Sort)</br>
+				Jet Black Metallic (Sort)</br>
+				Volcano Grey Metallic (Grå)</br>
+				Dolomite Silver Metallic (Sølv)</br>
+				Ice Grey Metallic (Grå)</br>
+				Provence (Grå)</br>
+				Gentian Blue Metallic (Blå)</br>
+				Frozen Blue Metallic (Blå)</br>
+				Papaya Metallic (Orange)</br>
+				Oak Green Metallic (Grøn)</br>
+				Copper Ruby Metallic (Kobber)</br>
+				Aventurine Green Metallic (Grøn)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1002,9 +1002,9 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
-				På stötfångare bak vänster hörn
-				På stötfångare bak höger hörn
-				På stötfångare bak
+				På stötfångare bak vänster hörn</br>
+				På stötfångare bak höger hörn</br>
+				På stötfångare bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -1012,7 +1012,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
-				Topp center vindruta
+				Topp center vindruta</br>
 			</td>
 		</tr>
 		<tr>
@@ -1134,6 +1134,36 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Cream white (Vit)</br>
+				Urban Grey (Grå)</br>
+				Skiing White (Vit)</br>
+				Jet Black (Svart)</br>
+				Coral Pink (Rosa)</br>
+				Amethyst purple (Lila)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1833,18 +1833,18 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
-				On bumper front
-				On bumper front
-				On bumper front left corner
-				On bumper front right corner
-				On bumper front left side
-				On bumper front right side
-				On bumper rear left side
-				On bumper rear right side
-				On bumper rear left corner
-				On bumper rear right corner
-				On bumper rear
-				On bumper rear
+				On bumper front</br>
+				On bumper front</br>
+				On bumper front left corner</br>
+				On bumper front right corner</br>
+				On bumper front left side</br>
+				On bumper front right side</br>
+				On bumper rear left side</br>
+				On bumper rear right side</br>
+				On bumper rear left corner</br>
+				On bumper rear right corner</br>
+				On bumper rear</br>
+				On bumper rear</br>
 			</td>
 		</tr>
 		<tr>
@@ -1852,11 +1852,11 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
-				Top center windshield
-				Front (Optional)
-				On left wing mirror (Optional)
-				On right wing mirror (Optional)
-				Rear center (Optional)
+				Top center windshield</br>
+				Front (Optional)</br>
+				On left wing mirror (Optional)</br>
+				On right wing mirror (Optional)</br>
+				Rear center (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1864,11 +1864,11 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
-				Front
-				Left front corner (Optional)
-				Right front corner (Optional)
-				Left rear corner (Optional)
-				Right rear corner (Optional)
+				Front</br>
+				Left front corner (Optional)</br>
+				Right front corner (Optional)</br>
+				Left rear corner (Optional)</br>
+				Right rear corner (Optional)</br>
 			</td>
 		</tr>
 		<tr>
@@ -2054,6 +2054,91 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				700
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Daytona Grey (Gray)</br>
+				Glacier White</br>
+				Catalunya Red</br>
+				Plasma Blue</br>
+				Florett Silver</br>
+				Chronos Grey (Gray)</br>
+				Typhoon Grey (Gray)</br>
+				Navarra Blue</br>
+				Galaxy Blue</br>
+				Antigua Blue</br>
+				Manhatten Grey (Gray)</br>
+				Brilliant Black</br>
+				Mythos black</br>
+				Misano red, pearl effect</br>
+				Merlin purple, pearl effect</br>
+				Velvet purple, pearl effect</br>
+				Sepang blue, pearl effect</br>
+				Nogoro blue, pearl effect</br>
+				Palace blue, pearl effect</br>
+				Night blue, pearl effect</br>
+				Oak green, pearl effect</br>
+				Goodwood green, pearl effect</br>
+				Deep green, pearl effect</br>
+				Sand beige, pearl effect</br>
+				Arrow grey, pearl effect (Gray)</br>
+				Nimbus grey, pearl effect (Gray)</br>
+				Ara blue, crystal effect</br>
+				Panther black, crystal effect</br>
+				Amalfi white</br>
+				Vegas yellow</br>
+				Green</br>
+				Cumulus blue</br>
+				Citrus yellow</br>
+				Solar orange (Yellow)</br>
+				Solar orange</br>
+				Quantum grey (Gray)</br>
+				Nardo grey (Gray)</br>
+				Camoflage green</br>
+				Soho brown</br>
+				Java brown</br>
+				Teak brown</br>
+				Ipanema brown</br>
+				Diamond beige</br>
+				Siam beige</br>
+				Tornado grey (Gray)</br>
+				Havana black</br>
+				Mamba black</br>
+				Vesuvius grey (Gray)</br>
+				Ice silver</br>
+				Suzuka grey (Gray)</br>
+				Terra grey (Gray)</br>
+				Cuvée silver</br>
+				Samoa orange</br>
+				Coral orange</br>
+				Catalunya red</br>
+				Tango red</br>
+				Shiraz red</br>
+				Seville red</br>
+				Ascari blue</br>
+				Utopia blue</br>
+				Java green</br>
 			</td>
 		</tr>
 	</tbody>

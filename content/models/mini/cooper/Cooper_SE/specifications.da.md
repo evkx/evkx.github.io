@@ -898,18 +898,18 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Ultralydssensorer
 			</td>
 			<td>
-				På kofanger foran
-				På kofanger foran
-				På kofanger venstre forhjørne
-				På kofanger højre forhjørne
-				På kofanger venstre forside
-				På kofanger højre forside
-				På kofanger venstre bagside
-				På kofanger højre bagside
-				På kofanger venstre baghjørne
-				På kofanger højre baghjørne
-				På kofanger bagpå
-				På kofanger bagpå
+				På kofanger foran</br>
+				På kofanger foran</br>
+				På kofanger venstre forhjørne</br>
+				På kofanger højre forhjørne</br>
+				På kofanger venstre forside</br>
+				På kofanger højre forside</br>
+				På kofanger venstre bagside</br>
+				På kofanger højre bagside</br>
+				På kofanger venstre baghjørne</br>
+				På kofanger højre baghjørne</br>
+				På kofanger bagpå</br>
+				På kofanger bagpå</br>
 			</td>
 		</tr>
 		<tr>
@@ -917,6 +917,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -924,6 +925,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -931,6 +933,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1031,6 +1034,40 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Sunny Slide Show (Gul)</br>
+				Chilli Red (Rød)</br>
+				Melting Solver III (Sølv)</br>
+				Ocean Wave Green (Grøn)</br>
+				Ocean Wave Green (Blå)</br>
+				British Racing Green (Grøn)</br>
+				Indigo Sunset Blue (Blå)</br>
+				Midnight Black (Sort)</br>
+				Nanuq White (Hvid)</br>
+				Legend Grey (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

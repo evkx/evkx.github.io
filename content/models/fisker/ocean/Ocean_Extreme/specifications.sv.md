@@ -1048,6 +1048,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1055,6 +1056,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1062,6 +1064,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1069,6 +1072,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1171,6 +1175,42 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Matt Big Sur Blue (Blå)</br>
+				Great White (Vit)</br>
+				Night Drive (Svart)</br>
+				Blue Planet (Blå)</br>
+				Silver Lining</br>
+				Horizon Gray (Grå)</br>
+				Mariana (Blå)</br>
+				Sun Soaked (Koppar)</br>
+				Sea Grass (Blå)</br>
+				Black Pearl (Svart)</br>
+				Marine Layer (Vit)</br>
+				Solar Orange</br>
 			</td>
 		</tr>
 	</tbody>

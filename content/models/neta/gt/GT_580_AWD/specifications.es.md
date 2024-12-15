@@ -862,6 +862,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -869,6 +870,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Cámaras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -876,6 +878,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Sensores de radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -883,6 +886,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Sensores Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -984,6 +988,36 @@ Este modelo está disponible con una configuración de cuatro asientos.
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Huscar blue (Azul)</br>
+				Juechen silver (Plata)</br>
+				Magic night black (Negro)</br>
+				Comet white (Blanco)</br>
+				Flash red (Rojo)</br>
+				Rose gold powder (Oro)</br>
 			</td>
 		</tr>
 	</tbody>

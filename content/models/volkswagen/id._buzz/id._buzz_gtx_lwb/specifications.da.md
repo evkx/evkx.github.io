@@ -1233,6 +1233,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1240,6 +1241,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1247,6 +1249,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1254,6 +1257,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1359,6 +1363,42 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Candy white (Hvid)</br>
+				Mono Silver Metallic (Sølv)</br>
+				Bay Leaf Green Metallic (Grøn)</br>
+				Bay Leaf Green Metallic (Grøn)</br>
+				Candy White/Bay Leaf Green (Grøn)</br>
+				Candy White/Energetic Orange</br>
+				Candy White/Pomelo Yellow (Gul)</br>
+				Candy White/Starlight Blue (Blå)</br>
+				Energetic Orange Metallic</br>
+				Pomelo Yellow Metallic (Gul)</br>
+				Starlight Blue Metallic (Blå)</br>
+				Deep Black Pearlescent (Blå)</br>
 			</td>
 		</tr>
 	</tbody>

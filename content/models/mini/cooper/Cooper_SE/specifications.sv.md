@@ -898,18 +898,18 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Ultraljudssensorer
 			</td>
 			<td>
-				På stötfångare fram
-				På stötfångare fram
-				På stötfångare fram vänster hörn
-				På stötfångare fram höger hörn
-				På stötfångare fram vänster sida
-				På stötfångare fram höger sida
-				På stötfångare bak vänster sida
-				På stötfångare bak höger sida
-				På stötfångare bak vänster hörn
-				På stötfångare bak höger hörn
-				På stötfångare bak
-				På stötfångare bak
+				På stötfångare fram</br>
+				På stötfångare fram</br>
+				På stötfångare fram vänster hörn</br>
+				På stötfångare fram höger hörn</br>
+				På stötfångare fram vänster sida</br>
+				På stötfångare fram höger sida</br>
+				På stötfångare bak vänster sida</br>
+				På stötfångare bak höger sida</br>
+				På stötfångare bak vänster hörn</br>
+				På stötfångare bak höger hörn</br>
+				På stötfångare bak</br>
+				På stötfångare bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -917,6 +917,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -924,6 +925,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -931,6 +933,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1031,6 +1034,40 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Sunny Slide Show (Gul)</br>
+				Chilli Red (Röd)</br>
+				Melting Solver III (Silver)</br>
+				Ocean Wave Green (Grön)</br>
+				Ocean Wave Green (Blå)</br>
+				British Racing Green (Grön)</br>
+				Indigo Sunset Blue (Blå)</br>
+				Midnight Black (Svart)</br>
+				Nanuq White (Vit)</br>
+				Legend Grey (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

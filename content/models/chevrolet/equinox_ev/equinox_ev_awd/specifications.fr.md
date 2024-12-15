@@ -996,18 +996,18 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
-				Sur le pare-chocs avant
-				Sur le pare-chocs avant
-				Sur le coin avant gauche du pare-chocs
-				Sur le coin avant droit du pare-chocs
-				Sur le côté avant gauche du pare-chocs
-				Sur le côté avant droit du pare-chocs
-				Sur le côté arrière gauche du pare-chocs
-				Sur le côté arrière droit du pare-chocs
-				Sur le coin arrière gauche du pare-chocs
-				Sur le coin arrière droit du pare-chocs
-				Sur le pare-chocs arrière
-				Sur le pare-chocs arrière
+				Sur le pare-chocs avant</br>
+				Sur le pare-chocs avant</br>
+				Sur le coin avant gauche du pare-chocs</br>
+				Sur le coin avant droit du pare-chocs</br>
+				Sur le côté avant gauche du pare-chocs</br>
+				Sur le côté avant droit du pare-chocs</br>
+				Sur le côté arrière gauche du pare-chocs</br>
+				Sur le côté arrière droit du pare-chocs</br>
+				Sur le coin arrière gauche du pare-chocs</br>
+				Sur le coin arrière droit du pare-chocs</br>
+				Sur le pare-chocs arrière</br>
+				Sur le pare-chocs arrière</br>
 			</td>
 		</tr>
 		<tr>
@@ -1015,11 +1015,11 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
-				Centre supérieur du pare-brise
-				Avant (Optionnel)
-				Sur le rétroviseur gauche (Optionnel)
-				Sur le rétroviseur droit (Optionnel)
-				Centre arrière (Optionnel)
+				Centre supérieur du pare-brise</br>
+				Avant (Optionnel)</br>
+				Sur le rétroviseur gauche (Optionnel)</br>
+				Sur le rétroviseur droit (Optionnel)</br>
+				Centre arrière (Optionnel)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1027,11 +1027,11 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
-				Avant
-				Coin avant gauche (Optionnel)
-				Coin avant droit (Optionnel)
-				Coin arrière gauche (Optionnel)
-				Coin arrière droit (Optionnel)
+				Avant</br>
+				Coin avant gauche (Optionnel)</br>
+				Coin avant droit (Optionnel)</br>
+				Coin arrière gauche (Optionnel)</br>
+				Coin arrière droit (Optionnel)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1203,6 +1203,45 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				7
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Black (Noir)</br>
+				Summit White (Blanc)</br>
+				Iridescent Pearl Tricoat (Blanc)</br>
+				Sterling Grey Metallic (Gris)</br>
+				Radient Red Metallic (Rouge)</br>
+				Red Hot (Rouge)</br>
+				Galaxy Grey Metallic (Gris)</br>
+				Riptide Blue Metallic (Bleu)</br>
+				Summit White (Blanc)</br>
+				Iridescent Pearl Tricoat (Blanc)</br>
+				Sterling Grey Metallic (Gris)</br>
+				Radient Red Metallic (Rouge)</br>
+				Red Hot (Rouge)</br>
+				Galaxy Grey Metallic (Gris)</br>
+				Riptide Blue Metallic (Bleu)</br>
 			</td>
 		</tr>
 	</tbody>

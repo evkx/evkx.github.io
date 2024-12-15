@@ -1099,6 +1099,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1106,6 +1107,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1113,6 +1115,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1120,6 +1123,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1297,6 +1301,42 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				1615
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Alpine White</br>
+				Mineral White</br>
+				Sophisto Grey Brilliant Effect (Gray)</br>
+				Black Sapphire</br>
+				Aventurine Red</br>
+				Sparkling Copper Grey (Gray)</br>
+				Space Silver metallic</br>
+				Carbon black</br>
+				Dravit Grey (Gray)</br>
+				Tanzanite Blue II </br>
+				Frozen Pure Grey (Gray)</br>
+				Frozen Deep Grey (Gray)</br>
 			</td>
 		</tr>
 	</tbody>

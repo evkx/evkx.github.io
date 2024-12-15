@@ -919,6 +919,7 @@ Interior.Seatlayout.OnlySix
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -926,6 +927,7 @@ Interior.Seatlayout.OnlySix
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -933,6 +935,7 @@ Interior.Seatlayout.OnlySix
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -940,6 +943,7 @@ Interior.Seatlayout.OnlySix
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1045,6 +1049,39 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				LA Silver (Sølv)</br>
+				Glacier (Hvit)</br>
+				Red Canyon (Rød)</br>
+				Midnight (Svart)</br>
+				Rivian Blue (Blå)</br>
+				Limestone (Grå)</br>
+				Forrest Green (Grønn)</br>
+				El Cap Granite (Grå)</br>
+				Compass Yellow (Gul)</br>
 			</td>
 		</tr>
 	</tbody>

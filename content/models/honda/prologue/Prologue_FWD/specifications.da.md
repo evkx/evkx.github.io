@@ -964,14 +964,14 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
-				På kofanger foran (Valgfri)
-				På kofanger foran (Valgfri)
-				På kofanger venstre forhjørne (Valgfri)
-				På kofanger højre forhjørne (Valgfri)
-				På kofanger venstre baghjørne
-				På kofanger højre baghjørne
-				På kofanger bagpå
-				På kofanger bagpå
+				På kofanger foran (Valgfri)</br>
+				På kofanger foran (Valgfri)</br>
+				På kofanger venstre forhjørne (Valgfri)</br>
+				På kofanger højre forhjørne (Valgfri)</br>
+				På kofanger venstre baghjørne</br>
+				På kofanger højre baghjørne</br>
+				På kofanger bagpå</br>
+				På kofanger bagpå</br>
 			</td>
 		</tr>
 		<tr>
@@ -979,11 +979,11 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
-				Top center forrude
-				Foran
-				På venstre sidespejl
-				På højre sidespejl
-				Bageste center
+				Top center forrude</br>
+				Foran</br>
+				På venstre sidespejl</br>
+				På højre sidespejl</br>
+				Bageste center</br>
 			</td>
 		</tr>
 		<tr>
@@ -991,11 +991,11 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
-				Venstre forhjørne
-				Højre forhjørne
-				Venstre baghjørne
-				Højre baghjørne
+				Foran</br>
+				Venstre forhjørne</br>
+				Højre forhjørne</br>
+				Venstre baghjørne</br>
+				Højre baghjørne</br>
 			</td>
 		</tr>
 		<tr>
@@ -1167,6 +1167,37 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				12
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Snowfall Pearl (Hvid)</br>
+				Mercury Silver Metallic (Sølv)</br>
+				Ravan Black (Sort)</br>
+				Pacific Blue Metallic (Blå)</br>
+				Scarlet Red Metallic (Rød)</br>
+				North Shore Pearl (Blå)</br>
+				Sonic Gray Pearl (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1131,6 +1131,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1138,6 +1139,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1145,6 +1147,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1152,6 +1155,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1329,6 +1333,42 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				464
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Black (Svart)</br>
+				Alpine White (Vit)</br>
+				Mineral white metallic (Vit)</br>
+				Phytonic Blue (Blå)</br>
+				Black Sapphire Metallic (Svart)</br>
+				Sanremo Green metallic (Grön)</br>
+				Cape York Green metallic (Grön)</br>
+				Utah Orange metallic</br>
+				Space Silver metallic</br>
+				Storm Bay metallic (Grå)</br>
+				BMW Indvidual Blu Bay Lagoon metallic (Blå)</br>
+				Frozen Pure Grey metallic (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

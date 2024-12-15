@@ -797,6 +797,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -804,6 +805,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -811,6 +813,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -818,6 +821,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -922,6 +926,35 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Gunpowder Grey (Grå)</br>
+				P5 Silver</br>
+				E-Racing Blue (Blå)</br>
+				Polar Blue (Vit)</br>
+				Rivera Blue (Blå)</br>
 			</td>
 		</tr>
 	</tbody>

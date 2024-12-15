@@ -977,18 +977,18 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
-				På støtfanger foran (Valgfritt)
-				På støtfanger foran (Valgfritt)
-				På støtfanger foran venstre hjørne (Valgfritt)
-				På støtfanger foran høyre hjørne (Valgfritt)
-				På støtfanger foran venstre side (Valgfritt)
-				På støtfanger foran høyre side (Valgfritt)
-				På støtfanger bak venstre side
-				På støtfanger bak høyre side
-				På støtfanger bak venstre hjørne
-				På støtfanger bak høyre hjørne
-				På støtfanger bak
-				På støtfanger bak
+				På støtfanger foran (Valgfritt)</br>
+				På støtfanger foran (Valgfritt)</br>
+				På støtfanger foran venstre hjørne (Valgfritt)</br>
+				På støtfanger foran høyre hjørne (Valgfritt)</br>
+				På støtfanger foran venstre side (Valgfritt)</br>
+				På støtfanger foran høyre side (Valgfritt)</br>
+				På støtfanger bak venstre side</br>
+				På støtfanger bak høyre side</br>
+				På støtfanger bak venstre hjørne</br>
+				På støtfanger bak høyre hjørne</br>
+				På støtfanger bak</br>
+				På støtfanger bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -996,11 +996,11 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
-				Topp senter frontrute
-				Foran (Valgfritt)
-				På venstre speil (Valgfritt)
-				På høyre speil (Valgfritt)
-				Bak senter
+				Topp senter frontrute</br>
+				Foran (Valgfritt)</br>
+				På venstre speil (Valgfritt)</br>
+				På høyre speil (Valgfritt)</br>
+				Bak senter</br>
 			</td>
 		</tr>
 		<tr>
@@ -1008,9 +1008,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
-				Venstre bakre hjørne (Valgfritt)
-				Høyre bakre hjørne (Valgfritt)
+				Foran</br>
+				Venstre bakre hjørne (Valgfritt)</br>
+				Høyre bakre hjørne (Valgfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1190,6 +1190,36 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				690
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Obsession Blue (Blå)</br>
+				Ingaro Blue (Blå)</br>
+				Okenite White (Hvit)</br>
+				Pearl Nera Black (Svart)</br>
+				Artense Grey (Grå)</br>
+				Titane Grey (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

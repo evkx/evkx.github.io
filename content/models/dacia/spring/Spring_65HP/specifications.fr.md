@@ -917,6 +917,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -924,6 +925,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -931,6 +933,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -938,6 +941,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1040,6 +1044,36 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Safari Beige</br>
+				Brick (Rouge)</br>
+				Cenote Blue (Bleu)</br>
+				Lightning Silver (Argent)</br>
+				Magma Black (Noir)</br>
+				Kaolin White (Blanc)</br>
 			</td>
 		</tr>
 	</tbody>

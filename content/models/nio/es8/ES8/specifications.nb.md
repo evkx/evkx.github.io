@@ -1179,6 +1179,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1186,6 +1187,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1193,6 +1195,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1200,6 +1203,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1363,6 +1367,35 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 			</td>
 			<td>
 				12
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Cloud white (Hvit)</br>
+				Deep Black (Svart)</br>
+				Star Grey (Grå)</br>
+				Artic Green (Grønn)</br>
+				Southern Star (Blå)</br>
 			</td>
 		</tr>
 	</tbody>

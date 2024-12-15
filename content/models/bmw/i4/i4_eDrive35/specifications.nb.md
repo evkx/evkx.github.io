@@ -1272,6 +1272,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1279,6 +1280,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1286,6 +1288,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1293,6 +1296,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1470,6 +1474,41 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				445
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Mineral White (Hvit)</br>
+				Black Sapphire (Svart)</br>
+				Skyscraper Grey Metallic (Grå)</br>
+				Cape York Green metallic (Grønn)</br>
+				Fire Red metallic (Rød)</br>
+				Tanzanite Blue II metallic (Blå)</br>
+				Dravitgrey metallic (Grå)</br>
+				Alpine White (Hvit)</br>
+				Black (Svart)</br>
+				Frozen Portimao Blue metallic (Blå)</br>
+				Frozen Pure Grey metallic (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

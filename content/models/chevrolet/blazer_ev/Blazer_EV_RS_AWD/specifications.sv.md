@@ -980,18 +980,18 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
-				På stötfångare fram
-				På stötfångare fram
-				På stötfångare fram vänster hörn
-				På stötfångare fram höger hörn
-				På stötfångare fram vänster sida
-				På stötfångare fram höger sida
-				På stötfångare bak vänster sida
-				På stötfångare bak höger sida
-				På stötfångare bak vänster hörn
-				På stötfångare bak höger hörn
-				På stötfångare bak
-				På stötfångare bak
+				På stötfångare fram</br>
+				På stötfångare fram</br>
+				På stötfångare fram vänster hörn</br>
+				På stötfångare fram höger hörn</br>
+				På stötfångare fram vänster sida</br>
+				På stötfångare fram höger sida</br>
+				På stötfångare bak vänster sida</br>
+				På stötfångare bak höger sida</br>
+				På stötfångare bak vänster hörn</br>
+				På stötfångare bak höger hörn</br>
+				På stötfångare bak</br>
+				På stötfångare bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -999,11 +999,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
-				Topp center vindruta
-				Fram
-				På vänster sidospegel
-				På höger sidospegel
-				Bak center
+				Topp center vindruta</br>
+				Fram</br>
+				På vänster sidospegel</br>
+				På höger sidospegel</br>
+				Bak center</br>
 			</td>
 		</tr>
 		<tr>
@@ -1011,11 +1011,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
-				Fram
-				Vänster främre hörn
-				Höger främre hörn
-				Vänster bakre hörn
-				Höger bakre hörn
+				Fram</br>
+				Vänster främre hörn</br>
+				Höger främre hörn</br>
+				Vänster bakre hörn</br>
+				Höger bakre hörn</br>
 			</td>
 		</tr>
 		<tr>
@@ -1128,6 +1128,41 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Black (Svart)</br>
+				Riptide Blue Metallic (Blå)</br>
+				Galaxy Grey Metallic (Grå)</br>
+				Sterling Grey Metallic (Grå)</br>
+				Radient Red Metallic (Röd)</br>
+				Iridescent Pearl Tricoat (Vit)</br>
+				Riptide Blue Metallic (Blå)</br>
+				Galaxy Grey Metallic (Grå)</br>
+				Sterling Grey Metallic (Grå)</br>
+				Radient Red Metallic (Röd)</br>
+				Iridescent Pearl Tricoat (Vit)</br>
 			</td>
 		</tr>
 	</tbody>

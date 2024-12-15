@@ -1386,6 +1386,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1393,6 +1394,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1400,6 +1402,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1407,6 +1410,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Lidar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1584,6 +1588,43 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				1470
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				White (Weiß)</br>
+				Black (Schwarz)</br>
+				Jet Black Metallic (Schwarz)</br>
+				Volcano Grey Metallic (Grau)</br>
+				Dolomite Silver Metallic (Silber)</br>
+				Ice Grey Metallic (Grau)</br>
+				Provence (Grau)</br>
+				Gentian Blue Metallic (Blau)</br>
+				Frozen Blue Metallic (Blau)</br>
+				Papaya Metallic (Orange)</br>
+				Oak Green Metallic (Grün)</br>
+				Copper Ruby Metallic (Kupfer)</br>
+				Aventurine Green Metallic (Grün)</br>
 			</td>
 		</tr>
 	</tbody>

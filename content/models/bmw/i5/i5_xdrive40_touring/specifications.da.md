@@ -1179,18 +1179,18 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
-				På kofanger foran
-				På kofanger foran
-				På kofanger venstre forhjørne
-				På kofanger højre forhjørne
-				På kofanger venstre forside
-				På kofanger højre forside
-				På kofanger venstre bagside
-				På kofanger højre bagside
-				På kofanger venstre baghjørne
-				På kofanger højre baghjørne
-				På kofanger bagpå
-				På kofanger bagpå
+				På kofanger foran</br>
+				På kofanger foran</br>
+				På kofanger venstre forhjørne</br>
+				På kofanger højre forhjørne</br>
+				På kofanger venstre forside</br>
+				På kofanger højre forside</br>
+				På kofanger venstre bagside</br>
+				På kofanger højre bagside</br>
+				På kofanger venstre baghjørne</br>
+				På kofanger højre baghjørne</br>
+				På kofanger bagpå</br>
+				På kofanger bagpå</br>
 			</td>
 		</tr>
 		<tr>
@@ -1198,12 +1198,12 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
-				Top center forrude
-				Foran (Valgfri)
-				På venstre sidespejl (Valgfri)
-				På højre sidespejl (Valgfri)
-				Bageste center (Valgfri)
-				Overhead konsol (Valgfri)
+				Top center forrude</br>
+				Foran (Valgfri)</br>
+				På venstre sidespejl (Valgfri)</br>
+				På højre sidespejl (Valgfri)</br>
+				Bageste center (Valgfri)</br>
+				Overhead konsol (Valgfri)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1211,11 +1211,11 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
-				Venstre forhjørne (Valgfri)
-				Højre forhjørne (Valgfri)
-				Venstre baghjørne (Valgfri)
-				Højre baghjørne (Valgfri)
+				Foran</br>
+				Venstre forhjørne (Valgfri)</br>
+				Højre forhjørne (Valgfri)</br>
+				Venstre baghjørne (Valgfri)</br>
+				Højre baghjørne (Valgfri)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1436,6 +1436,42 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				655
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Alpine White (Hvid)</br>
+				Carbon Black (Sort)</br>
+				Black Sapphire (Sort)</br>
+				Sophisto Grey Brilliant Effect (Grå)</br>
+				Mineral White (Hvid)</br>
+				Phytonic Blue (Blå)</br>
+				Oxide Grey (Grå)</br>
+				Brooklyn Grey (Grå)</br>
+				Cape York Green (Grøn)</br>
+				Tanzanite Blue II  (Blå)</br>
+				Frozen Pure Grey (Grå)</br>
+				BMW Individual Frozen Deep Grey (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

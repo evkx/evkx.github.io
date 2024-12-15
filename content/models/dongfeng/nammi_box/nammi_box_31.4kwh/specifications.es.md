@@ -958,9 +958,9 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
-				En el lado trasero izquierdo del parachoques
-				En el lado trasero derecho del parachoques
-				En el parachoques trasero
+				En el lado trasero izquierdo del parachoques</br>
+				En el lado trasero derecho del parachoques</br>
+				En el parachoques trasero</br>
 			</td>
 		</tr>
 		<tr>
@@ -968,8 +968,8 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámaras
 			</td>
 			<td>
-				Centro superior del parabrisas
-				Centro trasero
+				Centro superior del parabrisas</br>
+				Centro trasero</br>
 			</td>
 		</tr>
 		<tr>
@@ -977,7 +977,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de radar
 			</td>
 			<td>
-				Frente
+				Frente</br>
 			</td>
 		</tr>
 		<tr>
@@ -1091,6 +1091,34 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Ocean Eyes (Azul)</br>
+				Lavender Haze (Rosa)</br>
+				Vanilla Frost (Verde)</br>
+				Electric Lemon (Amarillo)</br>
 			</td>
 		</tr>
 	</tbody>

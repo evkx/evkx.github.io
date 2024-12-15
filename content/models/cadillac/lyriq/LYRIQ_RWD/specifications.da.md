@@ -972,18 +972,18 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
-				På kofanger foran
-				På kofanger foran
-				På kofanger venstre forhjørne
-				På kofanger højre forhjørne
-				På kofanger venstre forside
-				På kofanger højre forside
-				På kofanger venstre bagside
-				På kofanger højre bagside
-				På kofanger venstre baghjørne
-				På kofanger højre baghjørne
-				På kofanger bagpå
-				På kofanger bagpå
+				På kofanger foran</br>
+				På kofanger foran</br>
+				På kofanger venstre forhjørne</br>
+				På kofanger højre forhjørne</br>
+				På kofanger venstre forside</br>
+				På kofanger højre forside</br>
+				På kofanger venstre bagside</br>
+				På kofanger højre bagside</br>
+				På kofanger venstre baghjørne</br>
+				På kofanger højre baghjørne</br>
+				På kofanger bagpå</br>
+				På kofanger bagpå</br>
 			</td>
 		</tr>
 		<tr>
@@ -991,11 +991,11 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
-				Top center forrude
-				Foran
-				På venstre sidespejl
-				På højre sidespejl
-				Bageste center
+				Top center forrude</br>
+				Foran</br>
+				På venstre sidespejl</br>
+				På højre sidespejl</br>
+				Bageste center</br>
 			</td>
 		</tr>
 		<tr>
@@ -1003,11 +1003,11 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
-				Venstre forhjørne
-				Højre forhjørne
-				Venstre baghjørne
-				Højre baghjørne
+				Foran</br>
+				Venstre forhjørne</br>
+				Højre forhjørne</br>
+				Venstre baghjørne</br>
+				Højre baghjørne</br>
 			</td>
 		</tr>
 		<tr>
@@ -1178,6 +1178,38 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				19
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Argent Silver Metallic (Sølv)</br>
+				Emerald Lake Metallic (Grøn)</br>
+				Nimbus Metallic (Hvid)</br>
+				Stellar Black Metallic (Sort)</br>
+				Celestial Metallic (Blå)</br>
+				Opulent Blue Metallic (Blå)</br>
+				Crystal White Tricoat (Hvid)</br>
+				Radiant Red Tricoat (Rød)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1139,6 +1139,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1146,6 +1147,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1153,6 +1155,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1160,6 +1163,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1337,6 +1341,41 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				445
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Mineral White (Hvid)</br>
+				Black Sapphire (Sort)</br>
+				Skyscraper Grey Metallic (Grå)</br>
+				Cape York Green metallic (Grøn)</br>
+				Fire Red metallic (Rød)</br>
+				Tanzanite Blue II metallic (Blå)</br>
+				Dravitgrey metallic (Grå)</br>
+				Alpine White (Hvid)</br>
+				Black (Sort)</br>
+				Frozen Portimao Blue metallic (Blå)</br>
+				Frozen Pure Grey metallic (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

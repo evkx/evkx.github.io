@@ -957,6 +957,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -964,6 +965,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -971,6 +973,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -978,6 +981,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1081,6 +1085,51 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Atlas White</br>
+				Abyss Black Pearl</br>
+				Shimmering Silver Metallic </br>
+				Serenity White Pearl</br>
+				Atlas White Solid</br>
+				Ecotronic Grey Pearl (Gray)</br>
+				Engine Red Solid</br>
+				Meta Blue Pearl</br>
+				Jupiter Orange Metallic</br>
+				Ultimate Red Metallic</br>
+				Sailing Blue Pearl</br>
+				Cypress Green Pearl</br>
+				Abyss Black</br>
+				Cyber Grey (Gray)</br>
+				Serenity White Pearl</br>
+				Ecotronic Grey (Gray)</br>
+				Mirage Green</br>
+				Ultimate Red</br>
+				Meta Blue</br>
+				Denim Blue</br>
+				Shooting Star Grey Matte (Gray)</br>
 			</td>
 		</tr>
 	</tbody>

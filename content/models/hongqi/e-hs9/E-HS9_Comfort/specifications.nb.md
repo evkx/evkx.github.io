@@ -962,6 +962,7 @@ Interior.Seatlayout.OnlySix
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -969,6 +970,7 @@ Interior.Seatlayout.OnlySix
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -976,6 +978,7 @@ Interior.Seatlayout.OnlySix
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -983,6 +986,7 @@ Interior.Seatlayout.OnlySix
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1088,6 +1092,36 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Artic Black Metallic (Svart)</br>
+				Glacier White Metallic (Hvit)</br>
+				Glacier White Artic Black Roof Metallic (Grå)</br>
+				Mountain Grey Metallic (Grå)</br>
+				Mountain Grey Artic Black Roof Metallic (Grå)</br>
+				Mountain Grey Glacier White Metallic (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

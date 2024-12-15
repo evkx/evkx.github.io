@@ -898,18 +898,18 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Capteurs ultrasoniques
 			</td>
 			<td>
-				Sur le pare-chocs avant
-				Sur le pare-chocs avant
-				Sur le coin avant gauche du pare-chocs
-				Sur le coin avant droit du pare-chocs
-				Sur le côté avant gauche du pare-chocs
-				Sur le côté avant droit du pare-chocs
-				Sur le côté arrière gauche du pare-chocs
-				Sur le côté arrière droit du pare-chocs
-				Sur le coin arrière gauche du pare-chocs
-				Sur le coin arrière droit du pare-chocs
-				Sur le pare-chocs arrière
-				Sur le pare-chocs arrière
+				Sur le pare-chocs avant</br>
+				Sur le pare-chocs avant</br>
+				Sur le coin avant gauche du pare-chocs</br>
+				Sur le coin avant droit du pare-chocs</br>
+				Sur le côté avant gauche du pare-chocs</br>
+				Sur le côté avant droit du pare-chocs</br>
+				Sur le côté arrière gauche du pare-chocs</br>
+				Sur le côté arrière droit du pare-chocs</br>
+				Sur le coin arrière gauche du pare-chocs</br>
+				Sur le coin arrière droit du pare-chocs</br>
+				Sur le pare-chocs arrière</br>
+				Sur le pare-chocs arrière</br>
 			</td>
 		</tr>
 		<tr>
@@ -917,6 +917,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -924,6 +925,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -931,6 +933,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1031,6 +1034,40 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Sunny Slide Show (Jaune)</br>
+				Chilli Red (Rouge)</br>
+				Melting Solver III (Argent)</br>
+				Ocean Wave Green (Vert)</br>
+				Ocean Wave Green (Bleu)</br>
+				British Racing Green (Vert)</br>
+				Indigo Sunset Blue (Bleu)</br>
+				Midnight Black (Noir)</br>
+				Nanuq White (Blanc)</br>
+				Legend Grey (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1543,18 +1543,18 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ultraljudssensorer
 			</td>
 			<td>
-				På stötfångare fram
-				På stötfångare fram
-				På stötfångare fram vänster hörn
-				På stötfångare fram höger hörn
-				På stötfångare fram vänster sida
-				På stötfångare fram höger sida
-				På stötfångare bak vänster sida
-				På stötfångare bak höger sida
-				På stötfångare bak vänster hörn
-				På stötfångare bak höger hörn
-				På stötfångare bak
-				På stötfångare bak
+				På stötfångare fram</br>
+				På stötfångare fram</br>
+				På stötfångare fram vänster hörn</br>
+				På stötfångare fram höger hörn</br>
+				På stötfångare fram vänster sida</br>
+				På stötfångare fram höger sida</br>
+				På stötfångare bak vänster sida</br>
+				På stötfångare bak höger sida</br>
+				På stötfångare bak vänster hörn</br>
+				På stötfångare bak höger hörn</br>
+				På stötfångare bak</br>
+				På stötfångare bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -1562,11 +1562,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kameror
 			</td>
 			<td>
-				Topp center vindruta
-				Fram (Valfritt)
-				På vänster sidospegel (Valfritt)
-				På höger sidospegel (Valfritt)
-				Bak center (Valfritt)
+				Topp center vindruta</br>
+				Fram (Valfritt)</br>
+				På vänster sidospegel (Valfritt)</br>
+				På höger sidospegel (Valfritt)</br>
+				Bak center (Valfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1574,11 +1574,11 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Radar-sensorer
 			</td>
 			<td>
-				Fram
-				Vänster främre hörn (Valfritt)
-				Höger främre hörn (Valfritt)
-				Vänster bakre hörn (Valfritt)
-				Höger bakre hörn (Valfritt)
+				Fram</br>
+				Vänster främre hörn (Valfritt)</br>
+				Höger främre hörn (Valfritt)</br>
+				Vänster bakre hörn (Valfritt)</br>
+				Höger bakre hörn (Valfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1764,6 +1764,91 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				700
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Daytona Grey (Grå)</br>
+				Glacier White (Vit)</br>
+				Catalunya Red (Röd)</br>
+				Plasma Blue (Blå)</br>
+				Florett Silver</br>
+				Chronos Grey (Grå)</br>
+				Typhoon Grey (Grå)</br>
+				Navarra Blue (Blå)</br>
+				Galaxy Blue (Blå)</br>
+				Antigua Blue (Blå)</br>
+				Manhatten Grey (Grå)</br>
+				Brilliant Black (Svart)</br>
+				Mythos black (Svart)</br>
+				Misano red, pearl effect (Röd)</br>
+				Merlin purple, pearl effect (Lila)</br>
+				Velvet purple, pearl effect (Lila)</br>
+				Sepang blue, pearl effect (Blå)</br>
+				Nogoro blue, pearl effect (Blå)</br>
+				Palace blue, pearl effect (Blå)</br>
+				Night blue, pearl effect (Blå)</br>
+				Oak green, pearl effect (Grön)</br>
+				Goodwood green, pearl effect (Grön)</br>
+				Deep green, pearl effect (Grön)</br>
+				Sand beige, pearl effect</br>
+				Arrow grey, pearl effect (Grå)</br>
+				Nimbus grey, pearl effect (Grå)</br>
+				Ara blue, crystal effect (Blå)</br>
+				Panther black, crystal effect (Svart)</br>
+				Amalfi white (Vit)</br>
+				Vegas yellow (Gul)</br>
+				Green (Grön)</br>
+				Cumulus blue (Blå)</br>
+				Citrus yellow (Gul)</br>
+				Solar orange (Gul)</br>
+				Solar orange</br>
+				Quantum grey (Grå)</br>
+				Nardo grey (Grå)</br>
+				Camoflage green (Grön)</br>
+				Soho brown (Brun)</br>
+				Java brown (Brun)</br>
+				Teak brown (Brun)</br>
+				Ipanema brown (Brun)</br>
+				Diamond beige</br>
+				Siam beige</br>
+				Tornado grey (Grå)</br>
+				Havana black (Svart)</br>
+				Mamba black (Svart)</br>
+				Vesuvius grey (Grå)</br>
+				Ice silver</br>
+				Suzuka grey (Grå)</br>
+				Terra grey (Grå)</br>
+				Cuvée silver</br>
+				Samoa orange</br>
+				Coral orange</br>
+				Catalunya red (Röd)</br>
+				Tango red (Röd)</br>
+				Shiraz red (Röd)</br>
+				Seville red (Röd)</br>
+				Ascari blue (Blå)</br>
+				Utopia blue (Blå)</br>
+				Java green (Grön)</br>
 			</td>
 		</tr>
 	</tbody>

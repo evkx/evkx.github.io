@@ -962,6 +962,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -969,6 +970,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -976,6 +978,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -983,6 +986,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1088,6 +1092,36 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Artic Black Metallic (Noir)</br>
+				Glacier White Metallic (Blanc)</br>
+				Glacier White Artic Black Roof Metallic (Gris)</br>
+				Mountain Grey Metallic (Gris)</br>
+				Mountain Grey Artic Black Roof Metallic (Gris)</br>
+				Mountain Grey Glacier White Metallic (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

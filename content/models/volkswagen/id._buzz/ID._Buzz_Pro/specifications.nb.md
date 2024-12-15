@@ -1147,6 +1147,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1154,6 +1155,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1161,6 +1163,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1168,6 +1171,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1273,6 +1277,42 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Candy white (Hvit)</br>
+				Mono Silver Metallic (Sølv)</br>
+				Bay Leaf Green Metallic (Grønn)</br>
+				Bay Leaf Green Metallic (Grønn)</br>
+				Candy White/Bay Leaf Green (Grønn)</br>
+				Candy White/Energetic Orange (Oransje)</br>
+				Candy White/Pomelo Yellow (Gul)</br>
+				Candy White/Starlight Blue (Blå)</br>
+				Energetic Orange Metallic (Oransje)</br>
+				Pomelo Yellow Metallic (Gul)</br>
+				Starlight Blue Metallic (Blå)</br>
+				Deep Black Pearlescent (Blå)</br>
 			</td>
 		</tr>
 	</tbody>

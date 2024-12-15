@@ -1524,6 +1524,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1531,6 +1532,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1538,6 +1540,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1545,6 +1548,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1722,6 +1726,84 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				700
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Daytona Grey (Grå)</br>
+				Ibis White (Hvid)</br>
+				Florett Silver (Sølv)</br>
+				Kemora Grey (Grå)</br>
+				Tactile Green (Grøn)</br>
+				Mythos black (Sort)</br>
+				Misano red, pearl effect (Rød)</br>
+				Merlin purple, pearl effect (Lilla)</br>
+				Velvet purple, pearl effect (Lilla)</br>
+				Sepang blue, pearl effect (Blå)</br>
+				Nogoro blue, pearl effect (Blå)</br>
+				Palace blue, pearl effect (Blå)</br>
+				Night blue, pearl effect (Blå)</br>
+				Oak green, pearl effect (Grøn)</br>
+				Goodwood green, pearl effect (Grøn)</br>
+				Deep green, pearl effect (Grøn)</br>
+				Sand beige, pearl effect</br>
+				Arrow grey, pearl effect (Grå)</br>
+				Nimbus grey, pearl effect (Grå)</br>
+				Ara blue, crystal effect (Blå)</br>
+				Panther black, crystal effect (Sort)</br>
+				Amalfi white (Hvid)</br>
+				Vegas yellow (Gul)</br>
+				Green (Grøn)</br>
+				Cumulus blue (Blå)</br>
+				Citrus yellow (Gul)</br>
+				Solar orange (Gul)</br>
+				Solar orange</br>
+				Quantum grey (Grå)</br>
+				Nardo grey (Grå)</br>
+				Camoflage green (Grøn)</br>
+				Soho brown (Brun)</br>
+				Java brown (Brun)</br>
+				Teak brown (Brun)</br>
+				Ipanema brown (Brun)</br>
+				Diamond beige</br>
+				Siam beige</br>
+				Tornado grey (Grå)</br>
+				Havana black (Sort)</br>
+				Mamba black (Sort)</br>
+				Vesuvius grey (Grå)</br>
+				Ice silver (Sølv)</br>
+				Suzuka grey (Grå)</br>
+				Terra grey (Grå)</br>
+				Cuvée silver (Sølv)</br>
+				Samoa orange</br>
+				Coral orange</br>
+				Catalunya red (Rød)</br>
+				Tango red (Rød)</br>
+				Shiraz red (Rød)</br>
+				Seville red (Rød)</br>
+				Ascari blue (Blå)</br>
+				Utopia blue (Blå)</br>
+				Java green (Grøn)</br>
 			</td>
 		</tr>
 	</tbody>

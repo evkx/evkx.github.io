@@ -1171,6 +1171,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1178,6 +1179,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1185,6 +1187,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1192,6 +1195,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1404,6 +1408,42 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				655
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Alpine White</br>
+				Carbon Black</br>
+				Black Sapphire</br>
+				Sophisto Grey Brilliant Effect (Gray)</br>
+				Mineral White</br>
+				Phytonic Blue</br>
+				Oxide Grey (Gray)</br>
+				Brooklyn Grey (Gray)</br>
+				Cape York Green</br>
+				Tanzanite Blue II </br>
+				Frozen Pure Grey (Gray)</br>
+				BMW Individual Frozen Deep Grey (Gray)</br>
 			</td>
 		</tr>
 	</tbody>

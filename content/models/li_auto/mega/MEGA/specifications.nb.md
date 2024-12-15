@@ -927,18 +927,18 @@ Interior.Seatlayout.OnlySix
 				Ultrasoniske sensorer
 			</td>
 			<td>
-				På støtfanger foran
-				På støtfanger foran
-				På støtfanger foran venstre hjørne
-				På støtfanger foran høyre hjørne
-				På støtfanger foran venstre side
-				På støtfanger foran høyre side
-				På støtfanger bak venstre side
-				På støtfanger bak høyre side
-				På støtfanger bak venstre hjørne
-				På støtfanger bak høyre hjørne
-				På støtfanger bak
-				På støtfanger bak
+				På støtfanger foran</br>
+				På støtfanger foran</br>
+				På støtfanger foran venstre hjørne</br>
+				På støtfanger foran høyre hjørne</br>
+				På støtfanger foran venstre side</br>
+				På støtfanger foran høyre side</br>
+				På støtfanger bak venstre side</br>
+				På støtfanger bak høyre side</br>
+				På støtfanger bak venstre hjørne</br>
+				På støtfanger bak høyre hjørne</br>
+				På støtfanger bak</br>
+				På støtfanger bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -946,15 +946,15 @@ Interior.Seatlayout.OnlySix
 				Kameraer
 			</td>
 			<td>
-				Topp senter frontrute
-				Topp senter frontrute (Valgfritt)
-				Foran
-				På venstre speil
-				På høyre speil
-				Venstre fremre side
-				Høyre fremre side
-				Senter tak over bakvindu
-				Senter tak over bakvindu
+				Topp senter frontrute</br>
+				Topp senter frontrute (Valgfritt)</br>
+				Foran</br>
+				På venstre speil</br>
+				På høyre speil</br>
+				Venstre fremre side</br>
+				Høyre fremre side</br>
+				Senter tak over bakvindu</br>
+				Senter tak over bakvindu</br>
 			</td>
 		</tr>
 		<tr>
@@ -962,7 +962,7 @@ Interior.Seatlayout.OnlySix
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
+				Foran</br>
 			</td>
 		</tr>
 		<tr>
@@ -970,7 +970,7 @@ Interior.Seatlayout.OnlySix
 				Lidar-sensorer
 			</td>
 			<td>
-				Senter tak over frontrute (Valgfritt)
+				Senter tak over frontrute (Valgfritt)</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1075,6 +1075,34 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Ja, 15,7"
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Panda White (Hvit)</br>
+				Silver (Sølv)</br>
+				Elephant Grey (Grå)</br>
+				Grey Metallic (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

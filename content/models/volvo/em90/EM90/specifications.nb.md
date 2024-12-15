@@ -935,6 +935,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -942,6 +943,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +951,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -956,6 +959,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1060,6 +1064,33 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 			</td>
 			<td>
 				Ja, 15,4"
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				White (Hvit)</br>
+				Blue (Blå)</br>
+				Black (Svart)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -932,6 +932,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -939,6 +940,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -946,6 +948,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -953,6 +956,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1056,6 +1060,51 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Atlas White (Hvid)</br>
+				Abyss Black Pearl (Sort)</br>
+				Shimmering Silver Metallic  (Sølv)</br>
+				Serenity White Pearl (Hvid)</br>
+				Atlas White Solid (Hvid)</br>
+				Ecotronic Grey Pearl (Grå)</br>
+				Engine Red Solid (Rød)</br>
+				Meta Blue Pearl (Blå)</br>
+				Jupiter Orange Metallic</br>
+				Ultimate Red Metallic (Rød)</br>
+				Sailing Blue Pearl (Blå)</br>
+				Cypress Green Pearl (Grøn)</br>
+				Abyss Black (Sort)</br>
+				Cyber Grey (Grå)</br>
+				Serenity White Pearl (Hvid)</br>
+				Ecotronic Grey (Grå)</br>
+				Mirage Green (Grøn)</br>
+				Ultimate Red (Rød)</br>
+				Meta Blue (Blå)</br>
+				Denim Blue (Blå)</br>
+				Shooting Star Grey Matte (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

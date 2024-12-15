@@ -774,6 +774,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores ultrasónicos
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -781,6 +782,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Cámaras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -788,6 +790,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores de radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -795,6 +798,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -900,6 +904,37 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Dover White (Blanco)</br>
+				Pebble Black (Negro)</br>
+				Diamond Red (Rojo)</br>
+				Metallic Silver (Plata)</br>
+				Brighton Blue (Azul)</br>
+				Fizzy Orange (Naranja)</br>
+				Andes Grey (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

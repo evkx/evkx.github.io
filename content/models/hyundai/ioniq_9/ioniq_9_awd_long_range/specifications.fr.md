@@ -1230,18 +1230,18 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Capteurs ultrasoniques
 			</td>
 			<td>
-				Sur le pare-chocs avant
-				Sur le pare-chocs avant
-				Sur le coin avant gauche du pare-chocs
-				Sur le coin avant droit du pare-chocs
-				Sur le côté avant gauche du pare-chocs
-				Sur le côté avant droit du pare-chocs
-				Sur le côté arrière gauche du pare-chocs
-				Sur le côté arrière droit du pare-chocs
-				Sur le coin arrière gauche du pare-chocs
-				Sur le coin arrière droit du pare-chocs
-				Sur le pare-chocs arrière
-				Sur le pare-chocs arrière
+				Sur le pare-chocs avant</br>
+				Sur le pare-chocs avant</br>
+				Sur le coin avant gauche du pare-chocs</br>
+				Sur le coin avant droit du pare-chocs</br>
+				Sur le côté avant gauche du pare-chocs</br>
+				Sur le côté avant droit du pare-chocs</br>
+				Sur le côté arrière gauche du pare-chocs</br>
+				Sur le côté arrière droit du pare-chocs</br>
+				Sur le coin arrière gauche du pare-chocs</br>
+				Sur le coin arrière droit du pare-chocs</br>
+				Sur le pare-chocs arrière</br>
+				Sur le pare-chocs arrière</br>
 			</td>
 		</tr>
 		<tr>
@@ -1249,11 +1249,11 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Caméras
 			</td>
 			<td>
-				Centre supérieur du pare-brise
-				Avant (Optionnel)
-				Sur le rétroviseur gauche (Optionnel)
-				Sur le rétroviseur droit (Optionnel)
-				Centre arrière (Optionnel)
+				Centre supérieur du pare-brise</br>
+				Avant (Optionnel)</br>
+				Sur le rétroviseur gauche (Optionnel)</br>
+				Sur le rétroviseur droit (Optionnel)</br>
+				Centre arrière (Optionnel)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1261,11 +1261,11 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Capteurs radar
 			</td>
 			<td>
-				Avant
-				Coin avant gauche (Optionnel)
-				Coin avant droit (Optionnel)
-				Coin arrière gauche (Optionnel)
-				Coin arrière droit (Optionnel)
+				Avant</br>
+				Coin avant gauche (Optionnel)</br>
+				Coin avant droit (Optionnel)</br>
+				Coin arrière gauche (Optionnel)</br>
+				Coin arrière droit (Optionnel)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1435,6 +1435,44 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Celadon Gray (Gris)</br>
+				Ionosphere Green Pearl (Vert)</br>
+				Sunset Brown Pearl (Marron)</br>
+				Cosmic Blue Pearl (Bleu)</br>
+				Abyss Black Pearl (Noir)</br>
+				Serenity White Pearlk (Blanc)</br>
+				Snow White Pearl (Blanc)</br>
+				Cyber Gray Metallic (Gris)</br>
+				Atlas White Matte (Blanc)</br>
+				Ecotronic Gray Matte (Gris)</br>
+				Nocturne Gray Matte/Metallic (Gris)</br>
+				Gravity Gold Matte (Or)</br>
+				Ultimate Red Metallic (Rouge)</br>
+				Biophilic Blue Pearl (Bleu)</br>
 			</td>
 		</tr>
 	</tbody>

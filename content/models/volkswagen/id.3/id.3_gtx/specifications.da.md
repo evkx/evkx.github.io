@@ -1123,6 +1123,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1130,11 +1131,11 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
-				Top center forrude
-				Foran (Valgfri)
-				På venstre sidespejl (Valgfri)
-				På højre sidespejl (Valgfri)
-				Bageste center (Valgfri)
+				Top center forrude</br>
+				Foran (Valgfri)</br>
+				På venstre sidespejl (Valgfri)</br>
+				På højre sidespejl (Valgfri)</br>
+				Bageste center (Valgfri)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1142,11 +1143,11 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
-				Venstre forhjørne (Valgfri)
-				Højre forhjørne (Valgfri)
-				Venstre baghjørne (Valgfri)
-				Højre baghjørne (Valgfri)
+				Foran</br>
+				Venstre forhjørne (Valgfri)</br>
+				Højre forhjørne (Valgfri)</br>
+				Venstre baghjørne (Valgfri)</br>
+				Højre baghjørne (Valgfri)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1154,6 +1155,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1333,6 +1335,35 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				480
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Moonstone Grey with black roof (Grå)</br>
+				Grenadilla Black Metallic Black (Sort)</br>
+				Glacier White Metallic Black (Hvid)</br>
+				Kings red metallic with black roof (Rød)</br>
+				Scale silver metallic with black roof (Sølv)</br>
 			</td>
 		</tr>
 	</tbody>

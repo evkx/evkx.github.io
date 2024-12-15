@@ -1273,18 +1273,18 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
-				På kofanger foran
-				På kofanger foran
-				På kofanger venstre forhjørne
-				På kofanger højre forhjørne
-				På kofanger venstre forside
-				På kofanger højre forside
-				På kofanger venstre bagside
-				På kofanger højre bagside
-				På kofanger venstre baghjørne
-				På kofanger højre baghjørne
-				På kofanger bagpå
-				På kofanger bagpå
+				På kofanger foran</br>
+				På kofanger foran</br>
+				På kofanger venstre forhjørne</br>
+				På kofanger højre forhjørne</br>
+				På kofanger venstre forside</br>
+				På kofanger højre forside</br>
+				På kofanger venstre bagside</br>
+				På kofanger højre bagside</br>
+				På kofanger venstre baghjørne</br>
+				På kofanger højre baghjørne</br>
+				På kofanger bagpå</br>
+				På kofanger bagpå</br>
 			</td>
 		</tr>
 		<tr>
@@ -1292,11 +1292,11 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
-				Top center forrude
-				Foran (Valgfri)
-				På venstre sidespejl (Valgfri)
-				På højre sidespejl (Valgfri)
-				Bageste center (Valgfri)
+				Top center forrude</br>
+				Foran (Valgfri)</br>
+				På venstre sidespejl (Valgfri)</br>
+				På højre sidespejl (Valgfri)</br>
+				Bageste center (Valgfri)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1304,11 +1304,11 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
-				Venstre forhjørne (Valgfri)
-				Højre forhjørne (Valgfri)
-				Venstre baghjørne (Valgfri)
-				Højre baghjørne (Valgfri)
+				Foran</br>
+				Venstre forhjørne (Valgfri)</br>
+				Højre forhjørne (Valgfri)</br>
+				Venstre baghjørne (Valgfri)</br>
+				Højre baghjørne (Valgfri)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1496,6 +1496,86 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				830
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Magnet Grey (Grå)</br>
+				Daytona Grey (Grå)</br>
+				Glacier White (Hvid)</br>
+				Soneira Red (Rød)</br>
+				Plasma Blue (Blå)</br>
+				Acari Blue (Blå)</br>
+				Manhatten Grey (Grå)</br>
+				Mythos black (Sort)</br>
+				Misano red, pearl effect (Rød)</br>
+				Merlin purple, pearl effect (Lilla)</br>
+				Velvet purple, pearl effect (Lilla)</br>
+				Sepang blue, pearl effect (Blå)</br>
+				Nogoro blue, pearl effect (Blå)</br>
+				Palace blue, pearl effect (Blå)</br>
+				Night blue, pearl effect (Blå)</br>
+				Oak green, pearl effect (Grøn)</br>
+				Goodwood green, pearl effect (Grøn)</br>
+				Deep green, pearl effect (Grøn)</br>
+				Sand beige, pearl effect</br>
+				Arrow grey, pearl effect (Grå)</br>
+				Nimbus grey, pearl effect (Grå)</br>
+				Ara blue, crystal effect (Blå)</br>
+				Panther black, crystal effect (Sort)</br>
+				Amalfi white (Hvid)</br>
+				Vegas yellow (Gul)</br>
+				Green (Grøn)</br>
+				Cumulus blue (Blå)</br>
+				Citrus yellow (Gul)</br>
+				Solar orange (Gul)</br>
+				Solar orange</br>
+				Quantum grey (Grå)</br>
+				Nardo grey (Grå)</br>
+				Camoflage green (Grøn)</br>
+				Soho brown (Brun)</br>
+				Java brown (Brun)</br>
+				Teak brown (Brun)</br>
+				Ipanema brown (Brun)</br>
+				Diamond beige</br>
+				Siam beige</br>
+				Tornado grey (Grå)</br>
+				Havana black (Sort)</br>
+				Mamba black (Sort)</br>
+				Vesuvius grey (Grå)</br>
+				Ice silver (Sølv)</br>
+				Suzuka grey (Grå)</br>
+				Terra grey (Grå)</br>
+				Cuvée silver (Sølv)</br>
+				Samoa orange</br>
+				Coral orange</br>
+				Catalunya red (Rød)</br>
+				Tango red (Rød)</br>
+				Shiraz red (Rød)</br>
+				Seville red (Rød)</br>
+				Ascari blue (Blå)</br>
+				Utopia blue (Blå)</br>
+				Java green (Grøn)</br>
 			</td>
 		</tr>
 	</tbody>

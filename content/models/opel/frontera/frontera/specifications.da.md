@@ -1185,10 +1185,10 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
-				På kofanger venstre baghjørne
-				På kofanger højre baghjørne
-				På kofanger bagpå
-				På kofanger bagpå
+				På kofanger venstre baghjørne</br>
+				På kofanger højre baghjørne</br>
+				På kofanger bagpå</br>
+				På kofanger bagpå</br>
 			</td>
 		</tr>
 		<tr>
@@ -1196,7 +1196,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
-				Top center forrude
+				Top center forrude</br>
 			</td>
 		</tr>
 		<tr>
@@ -1204,6 +1204,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1372,6 +1373,42 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Artic White (Hvid)</br>
+				Kanyon Orange</br>
+				Khaki Green (Grøn)</br>
+				Effect Blue (Blå)</br>
+				Crystal Silver (Sølv)</br>
+				Carbon Black (Sort)</br>
+				Artic White (Hvid)</br>
+				Kanyon Orange</br>
+				Khaki Green (Grøn)</br>
+				Effect Blue (Blå)</br>
+				Crystal Silver (Sølv)</br>
+				Carbon Black (Sort)</br>
 			</td>
 		</tr>
 	</tbody>

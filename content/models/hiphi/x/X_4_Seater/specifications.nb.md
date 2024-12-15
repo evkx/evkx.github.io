@@ -865,6 +865,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -872,6 +873,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Kameraer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -879,6 +881,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -886,6 +889,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1062,6 +1066,35 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 			</td>
 			<td>
 				600
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Carnelian Orange (Oransje)</br>
+				Pearl White (Hvit)</br>
+				Nephrite Grey (Grå)</br>
+				Quartz Grey (Grå)</br>
+				Crystal Purple (Lilla)</br>
 			</td>
 		</tr>
 	</tbody>

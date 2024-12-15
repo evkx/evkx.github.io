@@ -1026,14 +1026,14 @@ Interior.Seatlayout.OnlySix
 				Ultrasoniske sensorer
 			</td>
 			<td>
-				På støtfanger foran
-				På støtfanger foran
-				På støtfanger foran venstre hjørne
-				På støtfanger foran høyre hjørne
-				På støtfanger bak venstre hjørne
-				På støtfanger bak høyre hjørne
-				På støtfanger bak
-				På støtfanger bak
+				På støtfanger foran</br>
+				På støtfanger foran</br>
+				På støtfanger foran venstre hjørne</br>
+				På støtfanger foran høyre hjørne</br>
+				På støtfanger bak venstre hjørne</br>
+				På støtfanger bak høyre hjørne</br>
+				På støtfanger bak</br>
+				På støtfanger bak</br>
 			</td>
 		</tr>
 		<tr>
@@ -1041,11 +1041,11 @@ Interior.Seatlayout.OnlySix
 				Kameraer
 			</td>
 			<td>
-				Topp senter frontrute
-				Foran
-				På venstre speil
-				På høyre speil
-				Bak senter
+				Topp senter frontrute</br>
+				Foran</br>
+				På venstre speil</br>
+				På høyre speil</br>
+				Bak senter</br>
 			</td>
 		</tr>
 		<tr>
@@ -1053,11 +1053,11 @@ Interior.Seatlayout.OnlySix
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
-				Venstre fremre hjørne
-				Høyre fremre hjørne
-				Venstre bakre hjørne
-				Høyre bakre hjørne
+				Foran</br>
+				Venstre fremre hjørne</br>
+				Høyre fremre hjørne</br>
+				Venstre bakre hjørne</br>
+				Høyre bakre hjørne</br>
 			</td>
 		</tr>
 		<tr>
@@ -1171,6 +1171,35 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Snow white (Hvit)</br>
+				Silver Sand Black (Svart)</br>
+				Mountain Grey (Grå)</br>
+				Stony Blue (Blå)</br>
+				Southern Star (Blå)</br>
 			</td>
 		</tr>
 	</tbody>

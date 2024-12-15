@@ -1115,6 +1115,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Sensores ultrasónicos
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1122,6 +1123,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Cámaras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1129,6 +1131,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Sensores de radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1136,6 +1139,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Sensores Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1315,6 +1319,40 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 			</td>
 			<td>
 				225
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Polar white (Blanco)</br>
+				Night black (Negro)</br>
+				Pategonia red metallic (Rojo)</br>
+				Mountain grey MAGNO (Gris)</br>
+				Cosmos black metallic (Negro)</br>
+				Denim blue (Azul)</br>
+				Iridium silver metallic (Plata)</br>
+				Mountain grey metallic (Gris)</br>
+				Rosé gold metallic (Oro)</br>
+				Digital white metallic (Blanco)</br>
 			</td>
 		</tr>
 	</tbody>

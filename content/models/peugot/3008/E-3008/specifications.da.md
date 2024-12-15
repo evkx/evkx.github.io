@@ -1001,18 +1001,18 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
-				På kofanger foran (Valgfri)
-				På kofanger foran (Valgfri)
-				På kofanger venstre forhjørne (Valgfri)
-				På kofanger højre forhjørne (Valgfri)
-				På kofanger venstre forside (Valgfri)
-				På kofanger højre forside (Valgfri)
-				På kofanger venstre bagside
-				På kofanger højre bagside
-				På kofanger venstre baghjørne
-				På kofanger højre baghjørne
-				På kofanger bagpå
-				På kofanger bagpå
+				På kofanger foran (Valgfri)</br>
+				På kofanger foran (Valgfri)</br>
+				På kofanger venstre forhjørne (Valgfri)</br>
+				På kofanger højre forhjørne (Valgfri)</br>
+				På kofanger venstre forside (Valgfri)</br>
+				På kofanger højre forside (Valgfri)</br>
+				På kofanger venstre bagside</br>
+				På kofanger højre bagside</br>
+				På kofanger venstre baghjørne</br>
+				På kofanger højre baghjørne</br>
+				På kofanger bagpå</br>
+				På kofanger bagpå</br>
 			</td>
 		</tr>
 		<tr>
@@ -1020,11 +1020,11 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
-				Top center forrude
-				Foran (Valgfri)
-				På venstre sidespejl (Valgfri)
-				På højre sidespejl (Valgfri)
-				Bageste center
+				Top center forrude</br>
+				Foran (Valgfri)</br>
+				På venstre sidespejl (Valgfri)</br>
+				På højre sidespejl (Valgfri)</br>
+				Bageste center</br>
 			</td>
 		</tr>
 		<tr>
@@ -1032,9 +1032,9 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
-				Venstre baghjørne (Valgfri)
-				Højre baghjørne (Valgfri)
+				Foran</br>
+				Venstre baghjørne (Valgfri)</br>
+				Højre baghjørne (Valgfri)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1214,6 +1214,36 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				690
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Obsession Blue (Blå)</br>
+				Ingaro Blue (Blå)</br>
+				Okenite White (Hvid)</br>
+				Pearl Nera Black (Sort)</br>
+				Artense Grey (Grå)</br>
+				Titane Grey (Grå)</br>
 			</td>
 		</tr>
 	</tbody>

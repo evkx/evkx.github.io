@@ -958,9 +958,9 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
-				På kofanger venstre bagside
-				På kofanger højre bagside
-				På kofanger bagpå
+				På kofanger venstre bagside</br>
+				På kofanger højre bagside</br>
+				På kofanger bagpå</br>
 			</td>
 		</tr>
 		<tr>
@@ -968,8 +968,8 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
-				Top center forrude
-				Bageste center
+				Top center forrude</br>
+				Bageste center</br>
 			</td>
 		</tr>
 		<tr>
@@ -977,7 +977,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
+				Foran</br>
 			</td>
 		</tr>
 		<tr>
@@ -1091,6 +1091,34 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Ocean Eyes (Blå)</br>
+				Lavender Haze (Lyserød)</br>
+				Vanilla Frost (Grøn)</br>
+				Electric Lemon (Gul)</br>
 			</td>
 		</tr>
 	</tbody>

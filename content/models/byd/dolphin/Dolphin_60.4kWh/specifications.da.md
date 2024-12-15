@@ -1002,9 +1002,9 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
-				På kofanger venstre baghjørne
-				På kofanger højre baghjørne
-				På kofanger bagpå
+				På kofanger venstre baghjørne</br>
+				På kofanger højre baghjørne</br>
+				På kofanger bagpå</br>
 			</td>
 		</tr>
 		<tr>
@@ -1012,7 +1012,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
-				Top center forrude
+				Top center forrude</br>
 			</td>
 		</tr>
 		<tr>
@@ -1134,6 +1134,36 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Cream white (Hvid)</br>
+				Urban Grey (Grå)</br>
+				Skiing White (Hvid)</br>
+				Jet Black (Sort)</br>
+				Coral Pink (Lyserød)</br>
+				Amethyst purple (Lilla)</br>
 			</td>
 		</tr>
 	</tbody>

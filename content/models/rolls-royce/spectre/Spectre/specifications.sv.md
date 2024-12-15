@@ -930,6 +930,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Ultraljudssensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -937,6 +938,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Kameror
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -944,6 +946,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -951,6 +954,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1128,6 +1132,38 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 			</td>
 			<td>
 				1615
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exteriör
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfärger
+			</td>
+			<td>
+				Chartreuse (Grön)</br>
+				Morganite (Rosa)</br>
+				Wittering bLue (Blå)</br>
+				Tempest Grey (Grå)</br>
+				Dark Emerald (Svart)</br>
+				Gunmetal Grey (Grå)</br>
+				Midnight Sapphire (Blå)</br>
+				Twilight Purple (Lila)</br>
 			</td>
 		</tr>
 	</tbody>

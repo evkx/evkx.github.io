@@ -927,18 +927,18 @@ Interior.Seatlayout.OnlySix
 				Capteurs ultrasoniques
 			</td>
 			<td>
-				Sur le pare-chocs avant
-				Sur le pare-chocs avant
-				Sur le coin avant gauche du pare-chocs
-				Sur le coin avant droit du pare-chocs
-				Sur le côté avant gauche du pare-chocs
-				Sur le côté avant droit du pare-chocs
-				Sur le côté arrière gauche du pare-chocs
-				Sur le côté arrière droit du pare-chocs
-				Sur le coin arrière gauche du pare-chocs
-				Sur le coin arrière droit du pare-chocs
-				Sur le pare-chocs arrière
-				Sur le pare-chocs arrière
+				Sur le pare-chocs avant</br>
+				Sur le pare-chocs avant</br>
+				Sur le coin avant gauche du pare-chocs</br>
+				Sur le coin avant droit du pare-chocs</br>
+				Sur le côté avant gauche du pare-chocs</br>
+				Sur le côté avant droit du pare-chocs</br>
+				Sur le côté arrière gauche du pare-chocs</br>
+				Sur le côté arrière droit du pare-chocs</br>
+				Sur le coin arrière gauche du pare-chocs</br>
+				Sur le coin arrière droit du pare-chocs</br>
+				Sur le pare-chocs arrière</br>
+				Sur le pare-chocs arrière</br>
 			</td>
 		</tr>
 		<tr>
@@ -946,15 +946,15 @@ Interior.Seatlayout.OnlySix
 				Caméras
 			</td>
 			<td>
-				Centre supérieur du pare-brise
-				Centre supérieur du pare-brise (Optionnel)
-				Avant
-				Sur le rétroviseur gauche
-				Sur le rétroviseur droit
-				Côté avant gauche
-				Côté avant droit
-				Toit central au-dessus de la fenêtre arrière
-				Toit central au-dessus de la fenêtre arrière
+				Centre supérieur du pare-brise</br>
+				Centre supérieur du pare-brise (Optionnel)</br>
+				Avant</br>
+				Sur le rétroviseur gauche</br>
+				Sur le rétroviseur droit</br>
+				Côté avant gauche</br>
+				Côté avant droit</br>
+				Toit central au-dessus de la fenêtre arrière</br>
+				Toit central au-dessus de la fenêtre arrière</br>
 			</td>
 		</tr>
 		<tr>
@@ -962,7 +962,7 @@ Interior.Seatlayout.OnlySix
 				Capteurs radar
 			</td>
 			<td>
-				Avant
+				Avant</br>
 			</td>
 		</tr>
 		<tr>
@@ -970,7 +970,7 @@ Interior.Seatlayout.OnlySix
 				Capteurs Lidar
 			</td>
 			<td>
-				Toit central au-dessus du pare-brise (Optionnel)
+				Toit central au-dessus du pare-brise (Optionnel)</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1075,6 +1075,34 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Oui, 15,7"
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Panda White (Blanc)</br>
+				Silver (Argent)</br>
+				Elephant Grey (Gris)</br>
+				Grey Metallic (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1018,18 +1018,18 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten
-				Auf Stoßstange hinten
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten</br>
+				Auf Stoßstange hinten</br>
 			</td>
 		</tr>
 		<tr>
@@ -1037,16 +1037,16 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
-				Oben Mitte Windschutzscheibe
-				Linkes Dach über Windschutzscheibe
-				
-				Vorne
-				Linke Vorderseite
-				Rechte Vorderseite
-				Am linken Außenspiegel
-				Am rechten Außenspiegel
-				Mitteldach über Heckscheibe
-				Hinteres Zentrum
+				Oben Mitte Windschutzscheibe</br>
+				Linkes Dach über Windschutzscheibe</br>
+				</br>
+				Vorne</br>
+				Linke Vorderseite</br>
+				Rechte Vorderseite</br>
+				Am linken Außenspiegel</br>
+				Am rechten Außenspiegel</br>
+				Mitteldach über Heckscheibe</br>
+				Hinteres Zentrum</br>
 			</td>
 		</tr>
 		<tr>
@@ -1054,11 +1054,11 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
-				Vorne
-				Linke vordere Ecke
-				Rechte vordere Ecke
-				Linke hintere Ecke
-				Rechte hintere Ecke
+				Vorne</br>
+				Linke vordere Ecke</br>
+				Rechte vordere Ecke</br>
+				Linke hintere Ecke</br>
+				Rechte hintere Ecke</br>
 			</td>
 		</tr>
 		<tr>
@@ -1172,6 +1172,37 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				Ja, 8"
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Dawn Orange</br>
+				Coastal Blue (Blau)</br>
+				Starry Black (Schwarz)</br>
+				Polar Silver (Silber)</br>
+				Snow Peak White (Weiß)</br>
+				Distant Mountain Green (Grün)</br>
+				Cloud Mist Purple (Lila)</br>
 			</td>
 		</tr>
 	</tbody>

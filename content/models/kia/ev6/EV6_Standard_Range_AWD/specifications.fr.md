@@ -958,6 +958,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -965,6 +966,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -972,6 +974,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -979,6 +982,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1140,6 +1144,41 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				14
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Gravity Blue (Bleu)</br>
+				Interstellar Grey (Gris)</br>
+				Yacht Blue (Bleu)</br>
+				Runway Red (Rouge)</br>
+				Aurora Black (Noir)</br>
+				Steel Grey (Gris)</br>
+				Intersteller Grey (Gris)</br>
+				Glacier (Blanc)</br>
+				Deep Forest (Vert)</br>
+				Moonscape (Argent)</br>
+				Snow White Pearl (Blanc)</br>
 			</td>
 		</tr>
 	</tbody>

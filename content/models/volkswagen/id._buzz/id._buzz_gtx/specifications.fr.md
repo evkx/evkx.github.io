@@ -1123,6 +1123,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs ultrasoniques
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1130,6 +1131,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1137,6 +1139,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs radar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1144,6 +1147,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs Lidar
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1249,6 +1253,42 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Extérieur
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Couleurs de peinture
+			</td>
+			<td>
+				Candy white (Blanc)</br>
+				Mono Silver Metallic (Argent)</br>
+				Bay Leaf Green Metallic (Vert)</br>
+				Bay Leaf Green Metallic (Vert)</br>
+				Candy White/Bay Leaf Green (Vert)</br>
+				Candy White/Energetic Orange</br>
+				Candy White/Pomelo Yellow (Jaune)</br>
+				Candy White/Starlight Blue (Bleu)</br>
+				Energetic Orange Metallic</br>
+				Pomelo Yellow Metallic (Jaune)</br>
+				Starlight Blue Metallic (Bleu)</br>
+				Deep Black Pearlescent (Bleu)</br>
 			</td>
 		</tr>
 	</tbody>

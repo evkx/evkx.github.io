@@ -1026,14 +1026,14 @@ Interior.Seatlayout.OnlySix
 				Sensores ultrasónicos
 			</td>
 			<td>
-				En el parachoques delantero
-				En el parachoques delantero
-				En la esquina delantera izquierda del parachoques
-				En la esquina delantera derecha del parachoques
-				En la esquina trasera izquierda del parachoques
-				En la esquina trasera derecha del parachoques
-				En el parachoques trasero
-				En el parachoques trasero
+				En el parachoques delantero</br>
+				En el parachoques delantero</br>
+				En la esquina delantera izquierda del parachoques</br>
+				En la esquina delantera derecha del parachoques</br>
+				En la esquina trasera izquierda del parachoques</br>
+				En la esquina trasera derecha del parachoques</br>
+				En el parachoques trasero</br>
+				En el parachoques trasero</br>
 			</td>
 		</tr>
 		<tr>
@@ -1041,11 +1041,11 @@ Interior.Seatlayout.OnlySix
 				Cámaras
 			</td>
 			<td>
-				Centro superior del parabrisas
-				Frente
-				En el espejo retrovisor izquierdo
-				En el espejo retrovisor derecho
-				Centro trasero
+				Centro superior del parabrisas</br>
+				Frente</br>
+				En el espejo retrovisor izquierdo</br>
+				En el espejo retrovisor derecho</br>
+				Centro trasero</br>
 			</td>
 		</tr>
 		<tr>
@@ -1053,11 +1053,11 @@ Interior.Seatlayout.OnlySix
 				Sensores de radar
 			</td>
 			<td>
-				Frente
-				Esquina delantera izquierda
-				Esquina delantera derecha
-				Esquina trasera izquierda
-				Esquina trasera derecha
+				Frente</br>
+				Esquina delantera izquierda</br>
+				Esquina delantera derecha</br>
+				Esquina trasera izquierda</br>
+				Esquina trasera derecha</br>
 			</td>
 		</tr>
 		<tr>
@@ -1171,6 +1171,33 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Colores de pintura
+			</td>
+			<td>
+				Snow white (Blanco)</br>
+				Silver Sand Black (Negro)</br>
+				Mountain Grey (Gris)</br>
 			</td>
 		</tr>
 	</tbody>

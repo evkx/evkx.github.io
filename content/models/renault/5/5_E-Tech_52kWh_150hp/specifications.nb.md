@@ -930,18 +930,18 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ultrasoniske sensorer
 			</td>
 			<td>
-				På støtfanger foran (Valgfritt)
-				På støtfanger foran (Valgfritt)
-				På støtfanger foran venstre hjørne (Valgfritt)
-				På støtfanger foran høyre hjørne (Valgfritt)
-				På støtfanger foran venstre side (Valgfritt)
-				På støtfanger foran høyre side (Valgfritt)
-				På støtfanger bak venstre side (Valgfritt)
-				På støtfanger bak høyre side (Valgfritt)
-				På støtfanger bak venstre hjørne (Valgfritt)
-				På støtfanger bak høyre hjørne (Valgfritt)
-				På støtfanger bak (Valgfritt)
-				På støtfanger bak (Valgfritt)
+				På støtfanger foran (Valgfritt)</br>
+				På støtfanger foran (Valgfritt)</br>
+				På støtfanger foran venstre hjørne (Valgfritt)</br>
+				På støtfanger foran høyre hjørne (Valgfritt)</br>
+				På støtfanger foran venstre side (Valgfritt)</br>
+				På støtfanger foran høyre side (Valgfritt)</br>
+				På støtfanger bak venstre side (Valgfritt)</br>
+				På støtfanger bak høyre side (Valgfritt)</br>
+				På støtfanger bak venstre hjørne (Valgfritt)</br>
+				På støtfanger bak høyre hjørne (Valgfritt)</br>
+				På støtfanger bak (Valgfritt)</br>
+				På støtfanger bak (Valgfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -949,7 +949,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Kameraer
 			</td>
 			<td>
-				Bak senter (Valgfritt)
+				Bak senter (Valgfritt)</br>
 			</td>
 		</tr>
 		<tr>
@@ -957,6 +957,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Radar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -964,6 +965,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lidar-sensorer
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1127,6 +1129,35 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				10
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Eksteriør
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakkfarger
+			</td>
+			<td>
+				Pop Yellow (Gul)</br>
+				Pop Green (Grønn)</br>
+				Pearl White (Hvit)</br>
+				Starry Black (Svart)</br>
+				Midnight Blue (Blå)</br>
 			</td>
 		</tr>
 	</tbody>

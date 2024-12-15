@@ -958,9 +958,9 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten</br>
 			</td>
 		</tr>
 		<tr>
@@ -968,11 +968,11 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
-				Oben Mitte Windschutzscheibe
-				Vorne
-				Am linken Außenspiegel
-				Am rechten Außenspiegel
-				Hinteres Zentrum
+				Oben Mitte Windschutzscheibe</br>
+				Vorne</br>
+				Am linken Außenspiegel</br>
+				Am rechten Außenspiegel</br>
+				Hinteres Zentrum</br>
 			</td>
 		</tr>
 		<tr>
@@ -980,7 +980,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
-				Vorne
+				Vorne</br>
 			</td>
 		</tr>
 		<tr>
@@ -1094,6 +1094,34 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				Nicht verfügbar
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Ocean Eyes (Blau)</br>
+				Lavender Haze (Rosa)</br>
+				Vanilla Frost (Grün)</br>
+				Electric Lemon (Gelb)</br>
 			</td>
 		</tr>
 	</tbody>

@@ -1264,6 +1264,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1271,6 +1272,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1278,6 +1280,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1285,6 +1288,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Lidar-Sensoren
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1462,6 +1466,41 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				445
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Mineral White (Weiß)</br>
+				Black Sapphire (Schwarz)</br>
+				Skyscraper Grey Metallic (Grau)</br>
+				Cape York Green metallic (Grün)</br>
+				Fire Red metallic (Rot)</br>
+				Tanzanite Blue II metallic (Blau)</br>
+				Dravitgrey metallic (Grau)</br>
+				Alpine White (Weiß)</br>
+				Black (Schwarz)</br>
+				Frozen Portimao Blue metallic (Blau)</br>
+				Frozen Pure Grey metallic (Grau)</br>
 			</td>
 		</tr>
 	</tbody>

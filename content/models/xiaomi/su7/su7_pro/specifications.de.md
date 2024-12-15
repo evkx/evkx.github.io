@@ -888,18 +888,18 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Ultraschallsensoren
 			</td>
 			<td>
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange vorne links
-				Auf Stoßstange vorne rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten links
-				Auf Stoßstange hinten rechts
-				Auf Stoßstange hinten
-				Auf Stoßstange hinten
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange vorne links</br>
+				Auf Stoßstange vorne rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten links</br>
+				Auf Stoßstange hinten rechts</br>
+				Auf Stoßstange hinten</br>
+				Auf Stoßstange hinten</br>
 			</td>
 		</tr>
 		<tr>
@@ -907,14 +907,14 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Kameras
 			</td>
 			<td>
-				Oben Mitte Windschutzscheibe
-				Vorne
-				Am linken Außenspiegel
-				Am rechten Außenspiegel
-				Hinteres Zentrum
-				Mitteldach über Heckscheibe
-				Linke Vorderseite
-				Rechte Vorderseite
+				Oben Mitte Windschutzscheibe</br>
+				Vorne</br>
+				Am linken Außenspiegel</br>
+				Am rechten Außenspiegel</br>
+				Hinteres Zentrum</br>
+				Mitteldach über Heckscheibe</br>
+				Linke Vorderseite</br>
+				Rechte Vorderseite</br>
 			</td>
 		</tr>
 		<tr>
@@ -922,9 +922,9 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Radar-Sensoren
 			</td>
 			<td>
-				Vorne
-				Linke hintere Ecke
-				Rechte hintere Ecke
+				Vorne</br>
+				Linke hintere Ecke</br>
+				Rechte hintere Ecke</br>
 			</td>
 		</tr>
 		<tr>
@@ -932,7 +932,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Lidar-Sensoren
 			</td>
 			<td>
-				Mitteldach über Windschutzscheibe
+				Mitteldach über Windschutzscheibe</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1091,6 +1091,39 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				25
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Außen
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lackfarben
+			</td>
+			<td>
+				Meteor Blue (Blau)</br>
+				Radiant Purple (Lila)</br>
+				Olive Green (Grün)</br>
+				Lava Orange</br>
+				Pearl White (Weiß)</br>
+				Diamond Black (Schwarz)</br>
+				Aqua Blue (Blau)</br>
+				Mineral gray (Grau)</br>
+				Elegant gray (Grau)</br>
 			</td>
 		</tr>
 	</tbody>

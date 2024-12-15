@@ -1139,6 +1139,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Ultrasonic sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1146,6 +1147,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Cameras</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1153,6 +1155,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/radar/">Radar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 		<tr>
@@ -1160,6 +1163,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/lidar/">Lidar sensors</a>
 			</td>
 			<td>
+				</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1337,6 +1341,41 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				445
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Exterior
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Paint colors
+			</td>
+			<td>
+				Mineral White</br>
+				Black Sapphire</br>
+				Skyscraper Grey Metallic (Gray)</br>
+				Cape York Green metallic</br>
+				Fire Red metallic</br>
+				Tanzanite Blue II metallic</br>
+				Dravitgrey metallic (Gray)</br>
+				Alpine White</br>
+				Black</br>
+				Frozen Portimao Blue metallic</br>
+				Frozen Pure Grey metallic (Gray)</br>
 			</td>
 		</tr>
 	</tbody>

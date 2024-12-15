@@ -1167,18 +1167,18 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Ultralydssensorer
 			</td>
 			<td>
-				På kofanger foran
-				På kofanger foran
-				På kofanger venstre forhjørne
-				På kofanger højre forhjørne
-				På kofanger venstre forside
-				På kofanger højre forside
-				På kofanger venstre bagside
-				På kofanger højre bagside
-				På kofanger venstre baghjørne
-				På kofanger højre baghjørne
-				På kofanger bagpå
-				På kofanger bagpå
+				På kofanger foran</br>
+				På kofanger foran</br>
+				På kofanger venstre forhjørne</br>
+				På kofanger højre forhjørne</br>
+				På kofanger venstre forside</br>
+				På kofanger højre forside</br>
+				På kofanger venstre bagside</br>
+				På kofanger højre bagside</br>
+				På kofanger venstre baghjørne</br>
+				På kofanger højre baghjørne</br>
+				På kofanger bagpå</br>
+				På kofanger bagpå</br>
 			</td>
 		</tr>
 		<tr>
@@ -1186,11 +1186,11 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kameraer
 			</td>
 			<td>
-				Top center forrude
-				Foran (Valgfri)
-				På venstre sidespejl (Valgfri)
-				På højre sidespejl (Valgfri)
-				Bageste center (Valgfri)
+				Top center forrude</br>
+				Foran (Valgfri)</br>
+				På venstre sidespejl (Valgfri)</br>
+				På højre sidespejl (Valgfri)</br>
+				Bageste center (Valgfri)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1198,11 +1198,11 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Radar-sensorer
 			</td>
 			<td>
-				Foran
-				Venstre forhjørne (Valgfri)
-				Højre forhjørne (Valgfri)
-				Venstre baghjørne (Valgfri)
-				Højre baghjørne (Valgfri)
+				Foran</br>
+				Venstre forhjørne (Valgfri)</br>
+				Højre forhjørne (Valgfri)</br>
+				Venstre baghjørne (Valgfri)</br>
+				Højre baghjørne (Valgfri)</br>
 			</td>
 		</tr>
 		<tr>
@@ -1210,7 +1210,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Lidar-sensorer
 			</td>
 			<td>
-				Center tag over forrude (Valgfri)
+				Center tag over forrude (Valgfri)</br>
 			</td>
 		</tr>
 	</tbody>
@@ -1316,6 +1316,37 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Udvendig
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lakfarver
+			</td>
+			<td>
+				Midnight White (Hvid)</br>
+				Polar Night Black (Sort)</br>
+				Star Dusk Grey (Grå)</br>
+				Bluestone (Blå)</br>
+				Morino Green (Grøn)</br>
+				Cloud Orange</br>
+				Dawn Brown (Brun)</br>
 			</td>
 		</tr>
 	</tbody>
