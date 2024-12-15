@@ -91,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP
 			</td>
 			<td>
-				16,4 kWh/100km
+				18,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP con pérdida de carga
 			</td>
 			<td>
-				18,5 kWh/100km
+				21,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				91,3 kWh
+				93 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				82,5 kWh
+				91,3 kWh
 			</td>
 		</tr>
 		<tr>

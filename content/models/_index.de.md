@@ -282,7 +282,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 		BYD (Build Your Dreams) ist ein chinesischer Automobil- und Technologieriese, der 1995 in Shenzhen gegründet wurde. Ursprünglich ein führendes Unternehmen für wiederaufladbare Batterien, trat BYD 2003 in den Automobilmarkt ein und wurde schnell zu einem globalen Pionier für Elektrofahrzeuge (EVs). Bekannt für Innovationen wie die Blade Battery und die fortschrittliche e-Platform 3.0, kombiniert BYD Effizienz, Sicherheit und Erschwinglichkeit. Mit einer wachsenden globalen Präsenz, die China, Europa, Südostasien und Lateinamerika umfasst, produziert BYD Elektrofahrzeuge, Busse und Energielösungen und treibt den Wandel hin zu nachhaltiger Mobilität voran. Wichtige Modelle sind der BYD Dolphin, Seal und Luxusangebote unter Yangwang.
 	</p>
 	<p>
-	BYD hat 8 Modelle mit insgesamt 12 Varianten.
+	BYD hat 8 Modelle mit insgesamt 13 Varianten.
 	</p>
 	<a href="byd/" class="btn btn-outline-primary" role="button">Gehe zu BYD EV-Modellübersicht</a>
 </div>

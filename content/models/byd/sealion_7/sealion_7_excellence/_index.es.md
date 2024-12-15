@@ -34,17 +34,17 @@ El BYD Sealion 7 Excellence ofrece un rendimiento sólido con una potencia máxi
 
 ## Batería, Autonomía y Carga
 
-La batería de alta capacidad tiene una capacidad bruta de 91,3 kWh y una capacidad neta utilizable de 82,5 kWh, proporcionando un buffer de 8,8 kWh (9,6%) para la protección de la batería. Operando a un voltaje nominal de 569 voltios, califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. La batería de iones de litio utiliza tecnología [LFP](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), ofreciendo tanto beneficios como desventajas en comparación con las baterías típicas NCA/NMC.
+La batería de alta capacidad tiene una capacidad bruta de 93,0 kWh y una capacidad neta utilizable de 91,3 kWh, proporcionando un buffer de 1,7 kWh (1,8%) para la protección de la batería. Operando a un voltaje nominal de 569 voltios, califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. La batería de iones de litio utiliza tecnología [LFP](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), ofreciendo tanto beneficios como desventajas en comparación con las baterías típicas NCA/NMC.
 
-Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo es de 502 km (312 millas), con una tasa de consumo de energía de 16,4 kWh/100 km (3 mi/kWh). Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Procedimiento de Prueba de Vehículos Ligeros Armonizado a Nivel Mundial), la autonomía del vehículo es de 502 km (312 millas), con una tasa de consumo de energía de 18,2 kWh/100 km (3 mi/kWh). Para más detalles sobre la autonomía, consulte los datos del mundo real y las listas de autonomía en la página de [autonomía y consumo](rangeandconsumption/) de este modelo.
 
-El vehículo admite carga rápida DC con una potencia máxima de 230 kW. Cargar del 0% al 100% toma aproximadamente 50 minutos, mientras que un escenario más típico del 10% al 80% toma 28 minutos con una velocidad de carga promedio de 126 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 4% al 46%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 120 kW, con cada sesión de carga tomando aproximadamente 17 minutos y 15 segundos.
+El vehículo admite carga rápida DC con una potencia máxima de 230 kW. Cargar del 0% al 100% toma aproximadamente 55 minutos, mientras que un escenario más típico del 10% al 80% toma 30 minutos con una velocidad de carga promedio de 126 kW. Considerando 5 minutos adicionales para cada parada de carga debido a interrupciones de conducción, el rango de carga óptimo es del 4% al 45%. Esto resulta en una velocidad de carga efectiva, incluyendo el tiempo perdido, de 124 kW, con cada sesión de carga tomando aproximadamente 18 minutos y 7 segundos.
 
-En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 24,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 42 minutos, requiriendo cinco paradas de carga del 5% al 45%, totalizando 82 minutos de tiempo de carga.
+En un desafío de 1000 km a una velocidad constante de 120 km/h (75 mph) con una tasa de consumo asumida de 24,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 36 minutos, requiriendo cuatro paradas de carga del 4% al 47%, totalizando 76 minutos de tiempo de carga.
 
 ### Cargador a Bordo
 
-El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 7 horas y 30 minutos usando una configuración doméstica.
+El cargador a bordo estándar admite hasta 11 kW para carga AC de Nivel 1 y Nivel 2, permitiendo una carga completa del 0 al 100% en aproximadamente 8 horas y 17 minutos usando una configuración doméstica.
 
 ### Puerto de Carga
 

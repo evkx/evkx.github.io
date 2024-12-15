@@ -34,17 +34,17 @@ BYD Sealion 7 Excellence leverer solid ytelse med en maksimal effekt på 390 kW 
 
 ## Batteri, rekkevidde og lading
 
-Batteriet med høy kapasitet har en brutto kapasitet på 91,3 kWh og en netto brukbar kapasitet på 82,5 kWh, som gir en 8,8 kWh buffer (9,6%) for batteribeskyttelse. Med en driftsspenning på 569 volt, kvalifiserer det som et 800-volts batterisystem. Denne høye spenningen er avgjørende for systemets ladeegenskaper. Litium-ion-batteriet bruker [LFP-teknologi](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), som gir både fordeler og ulemper sammenlignet med typiske NCA/NMC-batterier.
+Batteriet med høy kapasitet har en brutto kapasitet på 93,0 kWh og en netto brukbar kapasitet på 91,3 kWh, som gir en 1,7 kWh buffer (1,8%) for batteribeskyttelse. Med en driftsspenning på 569 volt, kvalifiserer det som et 800-volts batterisystem. Denne høye spenningen er avgjørende for systemets ladeegenskaper. Litium-ion-batteriet bruker [LFP-teknologi](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), som gir både fordeler og ulemper sammenlignet med typiske NCA/NMC-batterier.
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, er kjørelengden 502 km (312 miles), med et energiforbruk på 16,4 kWh/100 km (3,8 mi/kWh). For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden, er kjørelengden 502 km (312 miles), med et energiforbruk på 18,2 kWh/100 km (3,4 mi/kWh). For mer informasjon om rekkevidde, se faktiske data og rekkeviddelister på denne modellens [rekkevidde og forbruk](rangeandconsumption/) side.
 
-Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 230 kW. Lading fra 0% til 100% tar omtrent 50 minutter, mens et mer typisk scenario fra 10% til 80% tar 28 minutter med en gjennomsnittlig ladehastighet på 126 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 4% til 46%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 120 kW, hvor hver ladeøkt tar omtrent 17 minutter og 15 sekunder.
+Kjøretøyet støtter hurtig DC-lading med en maksimal effekt på 230 kW. Lading fra 0% til 100% tar omtrent 55 minutter, mens et mer typisk scenario fra 10% til 80% tar 30 minutter med en gjennomsnittlig ladehastighet på 126 kW. Med tanke på ytterligere 5 minutter for hver ladestopp på grunn av kjøreavbrudd, er det optimale ladeområdet fra 4% til 45%. Dette gir en effektiv ladehastighet, inkludert tapt tid, på 124 kW, hvor hver ladeøkt tar omtrent 18 minutter og 7 sekunder.
 
-I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 24,5 kWh/100 km, vil turen ta omtrent 9 timer og 42 minutter, og kreve fem ladestopp fra 5% til 45%, totalt 82 minutter ladetid.
+I en 1000 km utfordring ved konstant hastighet på 120 km/t med et antatt forbruk på 24,5 kWh/100 km, vil turen ta omtrent 9 timer og 36 minutter, og kreve fire ladestopp fra 4% til 47%, totalt 76 minutter ladetid.
 
 ### Innebygd lader
 
-Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 7 timer og 30 minutter ved bruk av et hjemmeoppsett.
+Den standard innebygde laderen støtter opptil 11 kW for Nivå 1 og Nivå 2 AC-lading, som muliggjør full lading fra 0 til 100% på omtrent 8 timer og 17 minutter ved bruk av et hjemmeoppsett.
 
 ### Ladekontakt
 

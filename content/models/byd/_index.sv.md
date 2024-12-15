@@ -116,7 +116,7 @@ BYD Seal U är en SUV tillgänglig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Sealion 7 är en coupé-SUV tillgänglig i 1 varianter.
+BYD Sealion 7 är en coupé-SUV tillgänglig i 2 varianter.
 </p>
 	<a href="sealion_7/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

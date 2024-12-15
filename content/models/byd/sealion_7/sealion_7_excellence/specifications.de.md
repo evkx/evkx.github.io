@@ -91,7 +91,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch
 			</td>
 			<td>
-				16,4 kWh/100km
+				18,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch mit Ladeverlust
 			</td>
 			<td>
-				18,5 kWh/100km
+				21,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bruttokapazität der Batterie
 			</td>
 			<td>
-				91,3 kWh
+				93 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nettokapazität der Batterie
 			</td>
 			<td>
-				82,5 kWh
+				91,3 kWh
 			</td>
 		</tr>
 		<tr>

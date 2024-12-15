@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-470b62e0
+  translation: BYD Sealion 7 Design es un SUV cupé eléctrico con una autonomía WLTP de hasta 456 km (283 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-f8bdfe08
   translation: Kia EV6 Long Range 2WD es un SUV cupé eléctrico con una autonomía WLTP de hasta 582 km (362 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-7f4e4d91
   translation: Hyundai IONIQ 9 AWD Performance es un SUV eléctrico con una autonomía WLTP de hasta 570 km (354 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-0056b1ab
-  translation: Porsche Taycan GTS Sport Turismo es una station wagon eléctrica de lujo con una autonomía WLTP de hasta 601 km (374 millas). EVKX.net tiene todos los detalles.
 

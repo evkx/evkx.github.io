@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-470b62e0
+  translation: BYD Sealion 7 Design er en elektrisk coupé SUV med en WLTP rækkevidde på op til 456 km (283 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-f8bdfe08
   translation: Kia EV6 Long Range 2WD er en elektrisk coupé SUV med en WLTP rækkevidde på op til 582 km (362 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-7f4e4d91
   translation: Hyundai IONIQ 9 AWD Performance er en elektrisk SUV med en WLTP rækkevidde på op til 570 km (354 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-0056b1ab
-  translation: Porsche Taycan GTS Sport Turismo er en elektrisk luksus stationcar med en WLTP rækkevidde på op til 601 km (374 miles). EVKX.net har alle detaljerne.
 

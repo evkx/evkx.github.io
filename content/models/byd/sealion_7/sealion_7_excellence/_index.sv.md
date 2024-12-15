@@ -34,17 +34,17 @@ BYD Sealion 7 Excellence levererar en solid prestanda med en maxeffekt på 390 k
 
 ## Batteri, räckvidd och laddning
 
-Batteriet med hög kapacitet har en bruttokapacitet på 91,3 kWh och en nettoanvändbar kapacitet på 82,5 kWh, vilket ger en 8,8 kWh buffert (9,6%) för batteriskydd. Med en driftspänning på 569 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter. Litiumjonbatteriet använder [LFP-teknik](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), vilket erbjuder både fördelar och nackdelar jämfört med typiska NCA/NMC-batterier.
+Batteriet med hög kapacitet har en bruttokapacitet på 93,0 kWh och en nettoanvändbar kapacitet på 91,3 kWh, vilket ger en 1,7 kWh buffert (1,8%) för batteriskydd. Med en driftspänning på 569 volt kvalificerar det som ett 800-volts batterisystem. Denna höga spänning är avgörande för systemets laddningsmöjligheter. Litiumjonbatteriet använder [LFP-teknik](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), vilket erbjuder både fördelar och nackdelar jämfört med typiska NCA/NMC-batterier.
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 502 km (312 miles), med en energiförbrukning på 16,4 kWh/100 km (3 mi/kWh). För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
+Enligt [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 502 km (312 miles), med en energiförbrukning på 18,2 kWh/100 km (3 mi/kWh). För mer information om räckvidden, se verkliga data och räckviddslistor på denna modells [räckvidd och förbrukning](rangeandconsumption/) sida.
 
-Fordonet stöder snabbladdning med likström med en maximal effekt på 230 kW. Laddning från 0% till 100% tar ungefär 50 minuter, medan ett mer typiskt scenario från 10% till 80% tar 28 minuter med en genomsnittlig laddningshastighet på 126 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 4% till 46%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 120 kW, där varje laddningssession tar cirka 17 minuter och 15 sekunder.
+Fordonet stöder snabbladdning med likström med en maximal effekt på 230 kW. Laddning från 0% till 100% tar ungefär 55 minuter, medan ett mer typiskt scenario från 10% till 80% tar 30 minuter med en genomsnittlig laddningshastighet på 126 kW. Med hänsyn till ytterligare 5 minuter för varje laddningsstopp på grund av körningsavbrott, är det optimala laddningsintervallet från 4% till 45%. Detta resulterar i en effektiv laddningshastighet, inklusive förlorad tid, på 124 kW, där varje laddningssession tar cirka 18 minuter och 7 sekunder.
 
-I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 24,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 42 minuter, med fem laddningsstopp från 5% till 45%, totalt 82 minuters laddtid.
+I ett 1000 km test med konstant hastighet på 120 km/h med en antagen förbrukning på 24,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 36 minuter, med fyra laddningsstopp från 4% till 47%, totalt 76 minuters laddtid.
 
 ### Inbyggd laddare
 
-Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 7 timmar och 30 minuter vid hemmaladdning.
+Den standard inbyggda laddaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning, vilket möjliggör en full laddning från 0 till 100% på cirka 8 timmar och 17 minuter vid hemmaladdning.
 
 ### Laddningsport
 

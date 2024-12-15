@@ -116,7 +116,7 @@ BYD Seal U is a SUV available in 1 variants.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Sealion 7 is a Coupe SUV available in 1 variants.
+BYD Sealion 7 is a Coupe SUV available in 2 variants.
 </p>
 	<a href="sealion_7/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

@@ -34,17 +34,17 @@ Le BYD Sealion 7 Excellence offre des performances solides avec une puissance ma
 
 ## Batterie, Autonomie et Recharge
 
-La batterie haute capacité a une capacité brute de 91,3 kWh et une capacité nette utilisable de 82,5 kWh, offrant une marge de sécurité de 8,8 kWh (9,6%) pour la protection de la batterie. Fonctionnant à une tension nominale de 569 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. La batterie Lithium-Ion utilise la [technologie LFP](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offrant à la fois des avantages et des inconvénients par rapport aux batteries typiques NCA/NMC.
+La batterie haute capacité a une capacité brute de 93,0 kWh et une capacité nette utilisable de 91,3 kWh, offrant une marge de sécurité de 1,7 kWh (1,8%) pour la protection de la batterie. Fonctionnant à une tension nominale de 569 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. La batterie Lithium-Ion utilise la [technologie LFP](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offrant à la fois des avantages et des inconvénients par rapport aux batteries typiques NCA/NMC.
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 502 km (312 miles), avec un taux de consommation d'énergie de 16,4 kWh/100 km (3 mi/kWh). Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 502 km (312 miles), avec un taux de consommation d'énergie de 18,2 kWh/100 km (3 mi/kWh). Pour plus de détails sur l'autonomie, consultez les données réelles et les listes d'autonomie sur la page [autonomie et consommation](rangeandconsumption/) de ce modèle.
 
-Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 230 kW. La charge de 0% à 100% prend environ 50 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 28 minutes avec une vitesse de charge moyenne de 126 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 4% à 46%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 120 kW, chaque session de charge prenant environ 17 minutes et 15 secondes.
+Le véhicule prend en charge la charge rapide DC avec une puissance maximale de 230 kW. La charge de 0% à 100% prend environ 55 minutes, tandis qu'un scénario plus typique de 10% à 80% prend 30 minutes avec une vitesse de charge moyenne de 126 kW. En tenant compte de 5 minutes supplémentaires pour chaque arrêt de charge en raison des interruptions de conduite, la plage de charge optimale est de 4% à 45%. Cela se traduit par une vitesse de charge effective, y compris le temps perdu, de 124 kW, chaque session de charge prenant environ 18 minutes et 7 secondes.
 
-Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 24,5 kWh/100 km, le voyage prendrait environ 9 heures et 42 minutes, nécessitant cinq arrêts de charge de 5% à 45%, totalisant 82 minutes de temps de charge.
+Dans un défi de 1000 km à une vitesse constante de 120 km/h (75 mph) avec un taux de consommation supposé de 24,5 kWh/100 km, le voyage prendrait environ 9 heures et 36 minutes, nécessitant quatre arrêts de charge de 4% à 47%, totalisant 76 minutes de temps de charge.
 
 ### Chargeur Embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 7 heures et 30 minutes avec une installation domestique.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge AC de niveau 1 et de niveau 2, permettant une charge complète de 0 à 100% en environ 8 heures et 17 minutes avec une installation domestique.
 
 ### Port de Charge
 

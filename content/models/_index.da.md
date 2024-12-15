@@ -282,7 +282,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller rul ned for
 		BYD (Build Your Dreams) er en kinesisk bil- og teknologigigant grundlagt i 1995 i Shenzhen. Oprindeligt en leder inden for genopladelige batterier, gik BYD ind på bilmarkedet i 2003 og blev hurtigt en global pioner inden for elbiler (EV'er). Kendt for innovationer som Blade Battery og dens avancerede e-Platform 3.0, kombinerer BYD effektivitet, sikkerhed og overkommelighed. Med en voksende global tilstedeværelse, der spænder over Kina, Europa, Sydøstasien og Latinamerika, producerer BYD elbiler, busser og energiløsninger og driver skiftet mod bæredygtig mobilitet. Vigtige modeller inkluderer BYD Dolphin, Seal og luksustilbud under Yangwang.
 	</p>
 	<p>
-	BYD har 8 modeller med i alt 12 varianter.
+	BYD har 8 modeller med i alt 13 varianter.
 	</p>
 	<a href="byd/" class="btn btn-outline-primary" role="button">Gå til BYD EV-model oversigt</a>
 </div>
