@@ -313,13 +313,14 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-This model made its world premiere on 29.08.2024, with deliveries anticipated to begin in October 2024. Please note that this model is available exclusively in China.
+The Zeekr 7X Standard Range RWD had its world premiere on 29.08.2024, with deliveries starting in October 2024.
 
 ### Pricing
 
 Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
 
 - 269 900,00 yuan (China)
+- 539 900,00 NOK (Norway)
 
 ## Alternative Models
 

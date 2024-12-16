@@ -313,13 +313,14 @@ Este modelo no está disponible con un enganche de remolque. Por lo tanto, para 
 
 ## Disponibilidad y Precios
 
-Este modelo hizo su estreno mundial el 29.08.2024, con entregas anticipadas para comenzar en October 2024. Tenga en cuenta que este modelo está disponible exclusivamente en China.
+El Zeekr 7X Standard Range RWD tuvo su estreno mundial el 29.08.2024, con entregas comenzando en October 2024.
 
 ### Precios
 
 Los precios pueden variar según las condiciones locales, incentivos y promociones. A continuación se muestran los precios iniciales para países seleccionados:
 
 - 269 900,00 yuan (China)
+- 539 900,00 NOK (Noruega)
 
 ## Modelos Alternativos
 

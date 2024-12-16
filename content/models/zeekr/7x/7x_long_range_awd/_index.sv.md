@@ -311,13 +311,14 @@ Denna modell kan inte utrustas med dragkrok. För att dra släp måste du titta 
 
 ## Tillgänglighet och priser
 
-Denna modell hade sin världspremiär den 29.08.2024, och leveranserna förväntas börja October 2024. Observera att denna modell endast är tillgänglig i Kina.
+Zeekr 7X Long Range AWD hade sin världspremiär den 29.08.2024, och leveranserna startade October 2024.
 
 ### Priser
 
 Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan visas startpriserna för utvalda länder:
 
 - 269 900,00 yuan (Kina)
+- 629 899,00 NOK (Norge)
 
 ## Alternativa modeller
 

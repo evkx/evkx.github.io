@@ -63,6 +63,24 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/dynamic_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/dynamic_1.jpg"
+data-pswp-width="1843"
+data-pswp-height="1228" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/dynamic_1_xst.jpg" alt="Zeekr 7X Standard Range RWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/dynamic_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/dynamic_2.jpg"
+data-pswp-width="1843"
+data-pswp-height="1228" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/dynamic_2_xst.jpg" alt="Zeekr 7X Standard Range RWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_1.jpg"
 data-pswp-width="3000"
@@ -144,12 +162,39 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_18.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_18.jpg"
+data-pswp-width="1843"
+data-pswp-height="1228" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_18_xst.jpg" alt="Zeekr 7X Standard Range RWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_19.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_19.jpg"
+data-pswp-width="1843"
+data-pswp-height="1228" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_19_xst.jpg" alt="Zeekr 7X Standard Range RWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_2.jpg"
 data-pswp-width="2952"
 data-pswp-height="1660" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_2_xst.jpg" alt="Zeekr 7X Standard Range RWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_20.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_20.jpg"
+data-pswp-width="1843"
+data-pswp-height="1228" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_20_xst.jpg" alt="Zeekr 7X Standard Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -234,6 +279,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/frontseats_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/frontseats_2.jpg"
+data-pswp-width="1843"
+data-pswp-height="1228" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/frontseats_2_xst.jpg" alt="Zeekr 7X Standard Range RWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/frunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/frunk_1.jpg"
 data-pswp-width="2400"
@@ -267,6 +321,15 @@ data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_1_xst.jpg" alt="Zeekr 7X Standard Range RWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_10.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_10.jpg"
+data-pswp-width="1843"
+data-pswp-height="1228" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_10_xst.jpg" alt="Zeekr 7X Standard Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -474,6 +537,15 @@ data-pswp-width="1198"
 data-pswp-height="1080" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_5_xst.jpg" alt="Zeekr 7X Standard Range RWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_6.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_6.jpg"
+data-pswp-width="1843"
+data-pswp-height="1228" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_6_xst.jpg" alt="Zeekr 7X Standard Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">

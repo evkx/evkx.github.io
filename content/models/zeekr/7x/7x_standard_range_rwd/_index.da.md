@@ -313,13 +313,14 @@ Denne model fås ikke med anhængertræk. Så hvis du skal trække en trailer, m
 
 ## Tilgængelighed & Priser
 
-Denne model havde sin verdenspremiere den 29.08.2024, og leveringerne forventes at begynde i October 2024. Bemærk venligst at denne model kun er tilgængelig i Kina.
+Zeekr 7X Standard Range RWD havde sin verdenspremiere den 29.08.2024, og leveringerne startede i October 2024.
 
 ### Priser
 
 Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Herunder er startpriserne for udvalgte lande:
 
 - 269 900,00 yuan (Kina)
+- 539 900,00 NOK (Norge)
 
 ## Alternative modeller
 

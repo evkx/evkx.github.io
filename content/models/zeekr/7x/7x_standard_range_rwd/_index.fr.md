@@ -313,13 +313,14 @@ Ce modèle n'est pas disponible avec une barre de remorquage. Donc, pour tirer u
 
 ## Disponibilité et Tarification
 
-Ce modèle a fait sa première mondiale le 29.08.2024, avec des livraisons prévues pour commencer en October 2024. Veuillez noter que ce modèle est disponible exclusivement en Chine.
+Le Zeekr 7X Standard Range RWD a eu sa première mondiale le 29.08.2024, avec des livraisons commençant en October 2024.
 
 ### Tarification
 
 Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
 - 269 900,00 yuan (Chine)
+- 539 900,00 NOK (Norvège)
 
 ## Modèles Alternatifs
 

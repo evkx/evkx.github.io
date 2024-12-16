@@ -311,13 +311,14 @@ Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhän
 
 ## Verfügbarkeit & Preise
 
-Dieses Modell feierte seine Weltpremiere am 29.08.2024, mit erwarteten Lieferungen ab October 2024. Bitte beachten Sie, dass dieses Modell ausschließlich in China erhältlich ist.
+Der Zeekr 7X Long Range AWD feierte seine Weltpremiere am 29.08.2024, mit Lieferungen ab October 2024.
 
 ### Preise
 
 Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
 
 - 269 900,00 Yuan (China)
+- 629 899,00 NOK (Norwegen)
 
 ## Alternative Modelle
 
