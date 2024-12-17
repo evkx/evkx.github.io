@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi samler anmeldelser fra våre [favoritt nettanmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Test av Polestar 3 Long Range Dual Motor Performance: Et alternativ til Porsche Macan?</h3>
+<p>Norsk elbilforening: 17.12.2024</p>
+
+{{< youtube 6UFEBI2olRg >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The Polestar 3 is Amazing</h3>
 <p>Auto Focus: 25.11.2024</p>
 

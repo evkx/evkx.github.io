@@ -9,6 +9,27 @@ navicon: bi-person-video2
 Nous collectons des critiques de nos [critiques en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q6 e-tron   - DEL 1</h3>
+<p>Nybiltester: 17.12.2024</p>
+
+{{< youtube ch8us1iwXtw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2025 Audi Q6 / SQ6 e-Tron Review | Is Audi's 800V EV The One To Beat?</h3>
+<p>Auto Buyers Guide | Alex on Autos: 17.12.2024</p>
+
+{{< youtube 5fFO2aPHgRQ >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I Drive The Audi Q6 E-Tron For The First Time! A Better Electric SUV Than Q4 & Q8</h3>
+<p>Out of Spec Reviews: 17.12.2024</p>
+
+{{< youtube VNWXvpX44E8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Polestar 3 vs Porsche Macan vs Audi Q6 E-Tron | WHICH SHOULD YOU BUY?</h3>
 <p>Kris Rifa: 08.12.2024</p>
 
