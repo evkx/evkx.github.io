@@ -4,6 +4,7 @@ linktitle: Rekuperatives Bremsen
 description: Rekuperatives Bremsen ist eine wichtige Funktion moderner Elektrofahrzeuge, die es dem Fahrzeug ermöglicht, während des Bremsens und Verzögerns Energie zurückzugewinnen.
 weight: 2
 shownavtabs: true
+xsthumb: technology/regen/kiaev6regenpaddles_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Durch die Umwandlung der kinetischen Energie des Fahrzeugs in elektrische Energie und deren Speicherung in der Batterie kann das rekuperative Bremsen die Reichweite des Fahrzeugs verlängern und die Gesamteffizienz verbessern. Dieser Artikel untersucht die verschiedenen Arten von Strategien für rekuperatives Bremsen, ihre Vorteile und ihre Einschränkungen.

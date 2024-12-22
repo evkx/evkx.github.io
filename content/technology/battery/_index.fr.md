@@ -3,6 +3,7 @@ title: Batteries pour véhicules électriques
 linktitle: Batteries pour véhicules électriques
 description: es batteries des véhicules électriques sont chargées de stocker l'énergie qui alimente le moteur électrique du véhicule et jouent un rôle essentiel dans la détermination des performances, de l'autonomie et du coût global d'un véhicule électrique.
 shownavtabs: true
+xsthumb: technology/battery/bmwixbattery_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

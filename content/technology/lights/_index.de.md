@@ -4,6 +4,7 @@ linktitle: Lichter
 description: Wie bei jedem Fahrzeug ist die Beleuchtung ein kritischer Bestandteil von EVs, und viele Hersteller haben ihre EVs mit fortschrittlicher Beleuchtungstechnologie ausgestattet.
 weight: 2
 shownavtabs: true
+xsthumb: technology/lights/audisq8lights_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

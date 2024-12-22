@@ -4,6 +4,7 @@ linktitle: Sensores y cámaras
 description:  Los sensores y las cámaras son muy importantes en los automóviles modernos porque desempeñan un papel clave en muchos de los sistemas avanzados de asistencia al conductor. EVKX.net le brinda detalles sobre los diferentes tipos utilizados en los vehículos eléctricos.
 weight: 2
 shownavtabs: true
+xsthumb: technology/sensorsandcameras/lidar/lidarvolvoex90_3_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

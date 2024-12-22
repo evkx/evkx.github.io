@@ -3,6 +3,7 @@ title: EV-Plattformen
 linktitle: EV-Plattformen
 description: Der Bau eines Elektrofahrzeugs (EV) ist komplexer als der Austausch eines Verbrennungsmotors gegen einen Elektromotor und eine Batterie. EVs erfordern einen anderen Ansatz in Design, Technik und Fertigung, und hier kommen EV-Plattformen ins Spiel.
 weight: 2
+xsthumb: technology/platforms/e-golf_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

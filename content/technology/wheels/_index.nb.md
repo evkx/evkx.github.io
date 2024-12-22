@@ -3,6 +3,7 @@ title: Dekk og felger
 linktitle: Dekk og felger
 description: Dekk er en av de mest kritiske komponentene i en bil, siden de påvirker ytelsen, sikkerheten, komforten og effektiviteten.
 weight: 2
+xsthumb: technology/wheels/michelinpilotsportev_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

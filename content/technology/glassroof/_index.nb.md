@@ -3,6 +3,7 @@ title: Glasstak
 linktitle: Glasstak
 description: Et glasspaneltak er en type vindu som dekker deler av eller hele taket på bilen. Den er laget av laminert glass, lik frontruter.
 weight: 2
+xsthumb: technology/glassroof/taycan_roof_open_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

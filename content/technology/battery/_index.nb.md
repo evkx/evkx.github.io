@@ -4,6 +4,7 @@ linktitle: Elbil batterier
 description: Elbil-batterier er ansvarlige for å lagre energien som driver kjøretøyets elektriske motor, og de spiller en avgjørende rolle i å bestemme en EVs ytelse, rekkevidde og totale kostnader.
 weight: 11
 shownavtabs: true
+xsthumb: technology/battery/bmwixbattery_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

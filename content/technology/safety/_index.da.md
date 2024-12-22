@@ -3,6 +3,7 @@ title: Sikkerhed
 linktitle: Sikkerhed
 description: Evs har flere sikkerhedssystemer for at reducere risikoen for skader i tilfælde af en ulykke.
 weight: 2
+xsthumb: technology/safety/illustration_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -4,6 +4,7 @@ linktitle: Innenraum
 description: Elektrofahrzeuge (EVs) verändern nicht nur die Art und Weise, wie wir fahren, sondern auch die Art und Weise, wie wir Autoinnenräume gestalten. EVs bieten neue Möglichkeiten und Herausforderungen für Autoinnendesigner, die Funktionalität, Komfort, Ästhetik und Nachhaltigkeit in Einklang bringen müssen.
 weight: 2
 shownavtabs: true
+xsthumb: technology/interior/cockpitdesign/hiphixcockpit_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

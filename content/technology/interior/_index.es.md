@@ -4,6 +4,7 @@ linktitle: Interior
 description: Los vehículos eléctricos (EV) no sólo están transformando la forma en que conducimos, sino también la forma en que diseñamos los interiores de los automóviles. Los vehículos eléctricos ofrecen nuevas posibilidades y desafíos para los diseñadores de interiores de automóviles, que deben equilibrar funcionalidad, comodidad, estética y sostenibilidad.
 weight: 2
 shownavtabs: true
+xsthumb: technology/interior/cockpitdesign/hiphixcockpit_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

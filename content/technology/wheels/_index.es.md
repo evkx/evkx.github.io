@@ -3,6 +3,7 @@ title: Neumáticos y ruedas
 linktitle: Neumáticos y ruedas
 description: Los neumáticos son uno de los componentes más críticos de un automóvil, ya que afectan su rendimiento, seguridad, comodidad y eficiencia.
 weight: 2
+xsthumb: technology/wheels/michelinpilotsportev_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

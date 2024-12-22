@@ -4,6 +4,7 @@ linktitle: Lys
 description:  Som med alle køretøjer er belysning en kritisk komponent i elbiler, og mange producenter har udstyret deres elbiler med avanceret lysteknologi.
 weight: 2
 shownavtabs: true
+xsthumb: technology/lights/audisq8lights_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 I denne artikel forklarer vi al den lysteknologi, der bruges i elbiler. Vi har opdelt denne artikel i sektioner for hvert område af lys.

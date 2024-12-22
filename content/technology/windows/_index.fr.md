@@ -3,6 +3,7 @@ title:  Fenêtres
 linktitle:  Fenêtres
 description: Les fenêtres sont des éléments essentiels de toute voiture, offrant visibilité, ventilation, protection et confort au conducteur et aux passagers.
 weight: 2
+xsthumb: technology/windows/windshield_1_xst.jpeg
 ---
 <!-- markdownlint-disable MD033 -->
 

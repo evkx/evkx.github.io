@@ -3,6 +3,7 @@ title: Dæk og fælge
 linktitle: Dæk og fælge
 description: Dæk er en af ​​de mest kritiske komponenter i en bil, da de påvirker ydeevne, sikkerhed, komfort og effektivitet.
 weight: 2
+xsthumb: technology/wheels/michelinpilotsportev_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 At vælge de rigtige dæk og fælge til din bil afhænger af flere faktorer, såsom biltype, køreforhold, vejret og dine personlige præferencer. I denne artikel vil vi forklare forskellen mellem typerne af dæk og hjul, størrelserne af dæk og hjul og de specielle dæk og hjul til elektriske køretøjer (EV).

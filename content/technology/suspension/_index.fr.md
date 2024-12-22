@@ -3,6 +3,7 @@ title:  Suspension
 linktitle:  Suspension
 description: La suspension est l'une des pièces essentielles de la transmission d'un véhicule électrique. Encore une fois, EVKX.net vous donne tous les détails.
 weight: 2
+xsthumb: technology/suspension/mercedeseqesteel_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

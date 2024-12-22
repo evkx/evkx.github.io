@@ -3,6 +3,7 @@ title: Suspension
 linktitle: Suspension
 description: The suspension is one of the essential parts of an EV drivetrain. Again, EVKX.net gives you all details.
 weight: 2
+xsthumb: technology/suspension/mercedeseqesteel_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

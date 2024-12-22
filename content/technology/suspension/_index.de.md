@@ -3,6 +3,7 @@ title: Fahrwerk
 linktitle: Fahrwerk
 description: Das Fahrwerk ist einer der wesentlichen Teile eines EV-Antriebsstrangs. EVKX.net bietet Ihnen alle Details.
 weight: 2
+xsthumb: technology/suspension/mercedeseqesteel_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -4,6 +4,7 @@ linktitle: Moteurs et unités d'entraînement
 description: Alors que l'industrie automobile s'oriente rapidement vers l'électrification, le cœur des véhicules électriques (VE) réside dans leurs moteurs et leurs unités de transmission. Avec une gamme diversifiée de types de moteurs et d’onduleurs complexes, comprendre les complexités de ces composants est crucial pour comprendre le fonctionnement interne des véhicules électriques.
 weight: 2
 shownavtabs: true
+xsthumb: technology/motors/asyncronmotor_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

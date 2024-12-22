@@ -3,6 +3,7 @@ title: EV Platforms
 linktitle: EV Platforms
 description: Building an EV is more complex than replacing a combustion engine with an electric motor and a battery pack. EVs require a different approach to design, engineering, and manufacturing, which is where EV platforms come in.
 weight: 2
+xsthumb: technology/platforms/e-golf_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

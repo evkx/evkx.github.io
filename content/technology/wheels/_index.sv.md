@@ -3,6 +3,7 @@ title: Däck och fälgar
 linktitle: Däck och fälgar
 description: Däck är en av de mest kritiska komponenterna i en bil, eftersom de påverkar prestanda, säkerhet, komfort och effektivitet.
 weight: 2
+xsthumb: technology/wheels/michelinpilotsportev_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Att välja rätt däck och fälgar för din bil beror på flera faktorer, såsom biltyp, körförhållanden, väder och dina personliga preferenser. I den här artikeln kommer vi att förklara skillnaden mellan typerna av däck och hjul, storlekarna på däck och hjul samt specialdäck och hjul för elfordon (EV).

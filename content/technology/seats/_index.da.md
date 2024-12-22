@@ -4,6 +4,7 @@ linktitle: Sæder
 description: Da vi bruger meget tid i vores køretøjer, spiller de sæder, vi sidder i, en afgørende rolle for at give komfort, støtte og sikkerhed under vores rejser.
 weight: 2
 shownavtabs: true
+xsthumb: technology/seats/types/eqssuv680twinexecutiveseats_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Autostole er kommet langt fra deres grundlæggende design, med forskellige typer, justeringer og funktioner tilgængelige for at imødekomme forskellige behov og præferencer.

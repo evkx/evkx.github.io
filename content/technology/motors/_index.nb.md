@@ -4,6 +4,7 @@ linktitle: Motorer og drivenheter
 description: Ettersom bilindustrien raskt skifter mot elektrifisering, ligger hjertet til elektriske kjøretøyer (EV-er) i motorene og drivenhetene deres. Med et mangfoldig utvalg av motortyper og intrikate omformere, er det avgjørende å forstå kompleksiteten til disse komponentene for å forstå den indre funksjonen til elbiler.
 weight: 2
 shownavtabs: true
+xsthumb: technology/motors/asyncronmotor_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

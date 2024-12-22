@@ -4,6 +4,7 @@ linktitle: Système d'infodivertissement
 description: Les systèmes d'infodivertissement sont devenus un élément standard de la plupart des voitures modernes. Ils combinent des fonctionnalités de divertissement et d’information, permettant aux conducteurs d’accéder à la musique, à la navigation, à la communication et aux commandes du véhicule.
 shownavtabs: true
 weight: 2
+xsthumb: technology/infotainment/teslamodelxinfotainment_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
   Dans cet article, nous aborderons les différents aspects des systèmes d'infodivertissement.

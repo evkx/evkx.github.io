@@ -4,6 +4,7 @@ linktitle: Sistema de infoentretenimiento
 description: Los sistemas de infoentretenimiento se han convertido en una característica estándar en la mayoría de los automóviles modernos. Combinan funcionalidades de entretenimiento e información, brindando a los conductores acceso a música, navegación, comunicación y controles del vehículo.
 shownavtabs: true
 weight: 2
+xsthumb: technology/infotainment/teslamodelxinfotainment_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

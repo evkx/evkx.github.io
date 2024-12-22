@@ -3,6 +3,7 @@ title: Glasdach
 linktitle: Glasdach
 description: Ein Glasdach ist eine Art Fenster, das einen Teil oder das gesamte Dach des Autos bedeckt. Es besteht aus Verbundglas, ähnlich wie Windschutzscheiben.
 weight: 2
+xsthumb: technology/glassroof/taycan_roof_open_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

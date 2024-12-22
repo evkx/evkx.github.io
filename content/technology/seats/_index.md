@@ -4,6 +4,7 @@ linktitle: Seats
 description: Welcome to the ultimate guide to car seats in EVs! As we spend a significant amount of time in our vehicles, the seats we sit in play a crucial role in providing comfort, support, and safety during our travels.
 weight: 2
 shownavtabs: true
+xsthumb: technology/seats/types/eqssuv680twinexecutiveseats_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

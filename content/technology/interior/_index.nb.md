@@ -4,6 +4,7 @@ linktitle: Interiør
 description: Elektriske kjøretøy (EV-er) forandrer ikke bare måten vi kjører på, men også måten vi designer bilinteriør på. Elbiler tilbyr nye muligheter og utfordringer for bilinteriørdesignere, som må balansere funksjonalitet, komfort, estetikk og bærekraft.
 weight: 2
 shownavtabs: true
+xsthumb: technology/interior/cockpitdesign/hiphixcockpit_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

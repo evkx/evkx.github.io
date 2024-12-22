@@ -4,6 +4,7 @@ linktitle: Användargränssnitt
 description: Användargränssnittet hänvisar till de olika sätt som förare och passagerare interagerar med funktionerna och kontrollerna i ett fordon.
 weight: 2
 shownavtabs: true
+xsthumb: technology/userinterface/eqsui_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
  Den inkluderar design, layout och funktionalitet hos kontrollerna, displayerna och andra komponenter som gör det möjligt för användare att använda och interagera med en bils funktioner, såsom instrumentbrädan, rattkontroller, pekskärmar, knappar, rattar, omkopplare, röstkommandon och andra in-/utmatningsmekanismer.

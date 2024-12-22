@@ -3,6 +3,7 @@ title: Pneus et roues
 linktitle: Pneus et roues
 description: Les pneus sont l’un des composants les plus critiques d’une voiture, car ils affectent ses performances, sa sécurité, son confort et son efficacité.
 weight: 2
+xsthumb: technology/wheels/michelinpilotsportev_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

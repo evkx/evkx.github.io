@@ -3,6 +3,7 @@ title: Glass Panel Roof
 linktitle: Glass Panel Roof
 description: A glass panel roof is a type of window that covers part or all of the roof of the car. It is made of laminated glass, similar to windshields.
 weight: 2
+xsthumb: technology/glassroof/taycan_roof_open_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

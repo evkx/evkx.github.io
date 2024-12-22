@@ -4,6 +4,7 @@ linktitle: Elbils batterier
 description: Elfordonsbatterier är ansvariga för att lagra energin som driver fordonets elmotor, och de spelar en avgörande roll för att bestämma en EVs prestanda, räckvidd och totala kostnad.****
 weight: 2
 shownavtabs: true
+xsthumb: technology/battery/bmwixbattery_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

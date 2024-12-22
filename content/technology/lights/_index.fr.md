@@ -4,6 +4,7 @@ linktitle: Lights
 description:  As with any vehicle, lighting is a critical component of EVs, and many manufacturers have equipped their EVs with advanced lighting technology.
 weight: 2
 shownavtabs: true
+xsthumb: technology/lights/audisq8lights_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

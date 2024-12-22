@@ -4,6 +4,7 @@ linktitle: Sensors & Cameras
 description: Sensors and cameras are crucial in modern cars, playing a key role in advanced driver assistance systems. EVKX.net provides details about the different types used in EVs.
 weight: 2
 shownavtabs: true
+xsthumb: technology/sensorsandcameras/lidar/lidarvolvoex90_3_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Modern cars utilize various sensor technologies, each tailored to specific applications and requirements.

@@ -4,6 +4,7 @@ linktitle: Bilseter
 description: Siden vi tilbringer mye tid i kjøretøyene våre, spiller setene vi sitter i en avgjørende rolle for å gi komfort, støtte og sikkerhet under våre reiser.
 weight: 2
 shownavtabs: true
+xsthumb: technology/seats/types/eqssuv680twinexecutiveseats_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

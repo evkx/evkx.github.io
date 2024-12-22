@@ -3,6 +3,7 @@ title: Safety
 linktitle: Safety
 description: EVs have several safety systems to reduce the risk of damage in the event of an accident.
 weight: 2
+xsthumb: technology/safety/illustration_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -4,6 +4,7 @@ linktitle: Sièges
 description: Bienvenue dans le guide ultime des sièges auto dans Evs ! Comme nous passons beaucoup de temps dans nos véhicules, les sièges dans lesquels nous sommes assis jouent un rôle crucial en offrant confort, soutien et sécurité pendant nos déplacements.
 weight: 2
 shownavtabs: true
+xsthumb: technology/seats/types/eqssuv680twinexecutiveseats_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

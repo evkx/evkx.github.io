@@ -3,6 +3,7 @@ title: Glastak
 linktitle: Glastak
 description: Ett glaspaneltak är en typ av fönster som täcker en del av eller hela bilens tak. Den är gjord av laminerat glas, liknande vindrutor.
 weight: 2
+xsthumb: technology/glassroof/taycan_roof_open_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Ett glaspaneltak ger naturligt ljus och ventilation in i bilen och förstärker interiörens estetiska tilltalande och rymd.

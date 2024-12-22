@@ -4,6 +4,7 @@ linktitle: Luces
 description: Como ocurre con cualquier vehículo, la iluminación es un componente fundamental de los vehículos eléctricos y muchos fabricantes han equipado sus vehículos eléctricos con tecnología de iluminación avanzada.
 weight: 2
 shownavtabs: true
+xsthumb: technology/lights/audisq8lights_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

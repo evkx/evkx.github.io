@@ -4,6 +4,7 @@ linktitle: Infotainmentsystem
 description: Infotainmentsysteme sind zu einem Standardmerkmal in den meisten modernen Autos geworden. Sie kombinieren Unterhaltungs- und Informationsfunktionen und bieten Fahrern Zugang zu Musik, Navigation, Kommunikation und Fahrzeugsteuerungen.
 shownavtabs: true
 weight: 2
+xsthumb: technology/infotainment/teslamodelxinfotainment_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -3,6 +3,7 @@ title: Techo de paneles de vidrio
 linktitle: Techo de paneles de vidrio
 description: Un techo de paneles de vidrio es un tipo de ventana que cubre parte o la totalidad del techo del automóvil. Está fabricado en vidrio laminado, similar a los parabrisas.
 weight: 2
+xsthumb: technology/glassroof/taycan_roof_open_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

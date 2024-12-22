@@ -3,6 +3,7 @@ title: Reifen & Räder
 linktitle: Reifen & Räder
 description: Reifen sind eine der wichtigsten Komponenten eines Autos, da sie dessen Leistung, Sicherheit, Komfort und Effizienz beeinflussen.
 weight: 2
+xsthumb: technology/wheels/michelinpilotsportev_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -4,6 +4,7 @@ linktitle: Freinage régénératif
 description: Le freinage régénératif est une caractéristique essentielle des véhicules électriques modernes, permettant au véhicule de récupérer de l'énergie pendant le freinage et la décélération.
 weight: 2
 shownavtabs: true
+xsthumb: technology/regen/kiaev6regenpaddles_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 En convertissant l’énergie cinétique du véhicule en énergie électrique et en la stockant dans la batterie, le freinage par récupération peut étendre l’autonomie du véhicule et améliorer son efficacité globale. Cet article explorera les différents types de stratégies de freinage régénératif utilisées dans les véhicules électriques, leurs avantages et leurs limites.

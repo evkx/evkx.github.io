@@ -3,6 +3,7 @@ title: Plataformas EV
 linktitle: Plataformas EV
 description: Construir un vehículo eléctrico es más complejo que reemplazar un motor de combustión por un motor eléctrico y una batería. Los vehículos eléctricos requieren un enfoque diferente de diseño, ingeniería y fabricación, que es donde entran en juego las plataformas de vehículos eléctricos.
 weight: 2
+xsthumb: technology/platforms/e-golf_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

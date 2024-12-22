@@ -4,6 +4,7 @@ linktitle: Infotainment System
 description: Infotainment systems have become a standard feature in most modern cars. They combine entertainment and information functionalities, providing drivers access to music, navigation, communication, and vehicle controls.
 shownavtabs: true
 weight: 2
+xsthumb: technology/infotainment/teslamodelxinfotainment_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

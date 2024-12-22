@@ -3,6 +3,7 @@ title: Panorama-tag
 linktitle: Panorama-tag
 description: Et panoramatag er en type vindue, der dækker en del af eller hele taget af bilen. Den er lavet af lamineret glas, svarende til forruder.
 weight: 2
+xsthumb: technology/glassroof/taycan_roof_open_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Et glaspaneltag giver naturligt lys og ventilation ind i bilen og forbedrer interiørets æstetiske appel og rummelighed.

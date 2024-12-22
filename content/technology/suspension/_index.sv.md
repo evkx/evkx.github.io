@@ -3,6 +3,7 @@ title: Hjulupphängning
 linktitle: Hjulupphängning
 description: Hjulupphängning är en av de väsentliga delarna av en EV-drivlina. Återigen, EVKX.net ger dig alla detaljer.
 weight: 2
+xsthumb: technology/suspension/mercedeseqesteel_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 ## Vad är syftet med avstängningen?

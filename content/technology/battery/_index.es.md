@@ -4,6 +4,7 @@ linktitle: Baterías para vehículos eléctricos
 description: Las baterías de los vehículos eléctricos son responsables de almacenar la energía que alimenta el motor eléctrico del vehículo y desempeñan un papel fundamental a la hora de determinar el rendimiento, la autonomía y el coste general de un vehículo eléctrico.
 weight: 2
 shownavtabs: true
+xsthumb: technology/battery/bmwixbattery_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

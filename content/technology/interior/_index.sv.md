@@ -4,6 +4,7 @@ linktitle: Interiör
 description: Elfordon (EV) förändrar inte bara sättet vi kör på, utan också hur vi designar bilinteriörer. Elbilar erbjuder nya möjligheter och utmaningar för bilinredare, som ska balansera funktionalitet, komfort, estetik och hållbarhet.
 weight: 2
 shownavtabs: true
+xsthumb: technology/interior/cockpitdesign/hiphixcockpit_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Här är några av de viktigaste aspekterna av EV-interiördesign och hur de skiljer sig från konventionella bilar.

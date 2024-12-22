@@ -4,6 +4,7 @@ linktitle: Sensorer og kameraer
 description:  Sensorer og kameraer er meget vigtige på moderne biler, fordi de spiller en nøglerolle i mange af de avancerede førerassistentsystemer. EVKX.net giver dig detaljer om de forskellige typer, der bruges i elbiler.
 weight: 2
 shownavtabs: true
+xsthumb: technology/sensorsandcameras/lidar/lidarvolvoex90_3_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Der er forskellige typer teknologier, der bruges til sensorer i moderne biler, afhængigt af den specifikke anvendelse og sensorkrav.

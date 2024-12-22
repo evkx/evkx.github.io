@@ -4,6 +4,7 @@ linktitle: Säkerhet
 description: Evs har flera säkerhetssystem för att minska risken för skador vid en olycka.
 
 weight: 2
+xsthumb: technology/safety/illustration_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 ## Krockkuddar

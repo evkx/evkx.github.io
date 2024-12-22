@@ -4,6 +4,7 @@ linktitle: Frenado regenerativo
 description: El frenado regenerativo es una característica fundamental de los vehículos eléctricos modernos, que permite al vehículo recuperar energía durante el frenado y la desaceleración.
 weight: 2
 shownavtabs: true
+xsthumb: technology/regen/kiaev6regenpaddles_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

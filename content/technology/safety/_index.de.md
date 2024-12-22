@@ -3,6 +3,7 @@ title: Sicherheit
 linktitle: Sicherheit
 description: Elektrofahrzeuge (EVs) haben mehrere Sicherheitssysteme, um das Risiko von Schäden im Falle eines Unfalls zu reduzieren.
 weight: 2
+xsthumb: technology/safety/illustration_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

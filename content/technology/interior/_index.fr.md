@@ -4,6 +4,7 @@ linktitle:  Intérieur
 description: Les véhicules électriques (VE) transforment non seulement notre façon de conduire, mais également la façon dont nous concevons les intérieurs des voitures. Les véhicules électriques offrent de nouvelles possibilités et de nouveaux défis aux designers d’intérieur automobiles, qui doivent trouver un équilibre entre fonctionnalité, confort, esthétique et durabilité.
 weight: 2
 shownavtabs: true
+xsthumb: technology/interior/cockpitdesign/hiphixcockpit_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

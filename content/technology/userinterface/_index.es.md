@@ -4,6 +4,7 @@ linktitle: Interfaz de usuario
 description: La interfaz de usuario se refiere a las diversas formas en que los conductores y pasajeros interactúan con las funciones y controles de un vehículo.
 weight: 2
 shownavtabs: true
+xsthumb: technology/userinterface/eqsui_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
  

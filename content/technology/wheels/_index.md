@@ -3,6 +3,7 @@ title: Tires & Wheels
 linktitle: Tires & Wheels
 description: Tires are one of the most critical components of a car, as they affect its performance, safety, comfort, and efficiency.
 weight: 2
+xsthumb: technology/wheels/michelinpilotsportev_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

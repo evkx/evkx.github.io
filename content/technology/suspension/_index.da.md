@@ -3,6 +3,7 @@ title: Affjedringen
 linktitle: Affjedringen
 description: Affjedringen er en af ​​de væsentlige dele af en EV-drivlinje. Igen giver EVKX.net dig alle detaljerne.
 weight: 2
+xsthumb: technology/suspension/mercedeseqesteel_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 ## Hvad er formålet med affjedringen?

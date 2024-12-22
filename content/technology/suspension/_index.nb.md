@@ -3,6 +3,7 @@ title: Hjuloppheng
 linktitle: Hjuloppheng
 description: Hjulopphenget er en av de essensielle delene av en EV-drivlinje. Igjen, EVKX.net gir deg alle detaljer.
 weight: 2
+xsthumb: technology/suspension/mercedeseqesteel_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

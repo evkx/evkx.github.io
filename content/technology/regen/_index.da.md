@@ -4,6 +4,7 @@ linktitle: Regenerativ bremsning
 description: Regenerativ bremsning er et kritisk træk ved moderne elbiler, som gør det muligt for køretøjet at genvinde energi under bremsning og deceleration.
 weight: 2
 shownavtabs: true
+xsthumb: technology/regen/kiaev6regenpaddles_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Ved at omdanne køretøjets kinetiske energi til elektrisk energi og lagre den i batteriet, kan regenerativ bremsning udvide køretøjets rækkevidde og forbedre den samlede effektivitet. Denne artikel vil udforske de forskellige typer af regenerative bremsestrategier, der bruges i elektriske køretøjer, deres fordele og deres begrænsninger.

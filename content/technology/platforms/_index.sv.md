@@ -3,6 +3,7 @@ title: Elbilsplattformar
 linktitle: Elbilsplattformar
 description: Att bygga en elbil är mer komplicerat än att ersätta en förbränningsmotor med en elmotor och ett batteripaket. Elbilar kräver ett annat förhållningssätt till design, konstruktion och tillverkning, och det är här som elbilsplattformar kommer in.
 weight: 2
+xsthumb: technology/platforms/e-golf_1_xst.jpg
 ---
 
 <!-- markdownlint-disable MD033 -->

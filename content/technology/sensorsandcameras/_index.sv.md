@@ -4,6 +4,7 @@ linktitle: Sensorer och kameror
 description:  Sensorer och kameror är mycket viktiga på moderna bilar eftersom de spelar en nyckelroll i många av de avancerade förarassistanssystemen. EVKX.net ger dig information om de olika typerna som används i elbilar.
 weight: 2
 shownavtabs: true
+xsthumb: technology/sensorsandcameras/lidar/lidarvolvoex90_3_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Det finns olika typer av teknologier som används för sensorer i moderna bilar, beroende på den specifika applikationen och sensorkraven.

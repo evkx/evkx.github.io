@@ -4,6 +4,7 @@ linktitle: Infotainment system
 description: Infotainmentsystemer er blevet en standardfunktion i de fleste moderne biler. De kombinerer underholdnings- og informationsfunktioner, hvilket giver chauffører adgang til musik, navigation, kommunikation og køretøjskontrol.
 shownavtabs: true
 weight: 2
+xsthumb: technology/infotainment/teslamodelxinfotainment_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
  I denne artikel vil vi diskutere de forskellige aspekter af infotainmentsystemer.

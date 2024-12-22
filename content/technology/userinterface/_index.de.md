@@ -4,6 +4,7 @@ linktitle: Benutzeroberfläche
 description: Die Benutzeroberfläche bezieht sich auf die verschiedenen Möglichkeiten, wie Fahrer und Passagiere mit den Funktionen und Bedienelementen eines Fahrzeugs interagieren.
 weight: 2
 shownavtabs: true
+xsthumb: technology/userinterface/eqsui_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

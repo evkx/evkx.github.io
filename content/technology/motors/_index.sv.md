@@ -4,6 +4,7 @@ linktitle: Motorer och drivenheter
 description: När fordonsindustrin snabbt växlar mot elektrifiering, ligger hjärtat av elfordon i deras motorer och drivlinor. Med ett brett utbud av motortyper och invecklade omvandlare är det viktigt att förstå komplexiteten hos dessa komponenter för att förstå elfordons inre funktioner.
 weight: 2
 shownavtabs: true
+xsthumb: technology/motors/asyncronmotor_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 I den här omfattande artikeln kommer vi att ta en djupgående titt på elbilsmotorer och drivlinor, undersöka de olika motortyper som vanligtvis används i elbilar, utforska växelriktarens krångligheter och fördjupa oss i den avgörande roll dessa komponenter spelar i framdrivningen . framtida transporter.

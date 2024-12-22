@@ -4,6 +4,7 @@ linktitle: Ljus
 description:  Som med alla fordon är belysning en kritisk komponent i elbilar och många tillverkare har utrustat sina elbilar med avancerad ljusteknik.
 weight: 2
 shownavtabs: true
+xsthumb: technology/lights/audisq8lights_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

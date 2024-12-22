@@ -4,6 +4,7 @@ linktitle: Bilsäten
 description: Eftersom vi tillbringar mycket tid i våra fordon spelar stolarna vi sitter i en avgörande roll för att ge komfort, stöd och säkerhet under våra resor.
 weight: 2
 shownavtabs: true
+xsthumb: technology/seats/types/eqssuv680twinexecutiveseats_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Bilbarnstolar har kommit långt från sin grundläggande design, med olika typer, justeringar och funktioner tillgängliga för att tillgodose olika behov och preferenser.

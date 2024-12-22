@@ -3,6 +3,7 @@ title:  Sécurité
 linktitle:  Sécurité
 description: Les véhicules électriques disposent de plusieurs systèmes de sécurité pour réduire les risques de dommages en cas d'accident.
 weight: 2
+xsthumb: technology/safety/illustration_xst.jpg
 ---
 
 <!-- markdownlint-disable MD033 -->

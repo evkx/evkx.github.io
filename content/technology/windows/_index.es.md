@@ -3,6 +3,7 @@ title: ventanas
 linktitle: ventanas
 description: Las ventanas son partes esenciales de cualquier automóvil, ya que brindan visibilidad, ventilación, protección y comodidad al conductor y a los pasajeros.
 weight: 2
+xsthumb: technology/windows/windshield_1_xst.jpeg
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -4,6 +4,7 @@ linktitle: Brukergrensesnitt
 description: Brukergrensesnitt refererer til de ulike måtene sjåfører og passasjerer samhandler med funksjonene og kontrollene til et kjøretøy.
 weight: 2
 shownavtabs: true
+xsthumb: technology/userinterface/eqsui_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
  Den inkluderer design, layout og funksjonalitet til kontrollene, skjermene og andre komponenter som lar brukere betjene og samhandle med en bils funksjoner, for eksempel dashbordet, rattkontroller, berøringsskjermer, knapper, knotter, brytere, talekommandoer, og andre input/output-mekanismer.

@@ -4,6 +4,7 @@ linktitle: User Interface
 description: User interface refers to the various ways drivers and passengers interact with the features and controls of a vehicle.
 weight: 2
 shownavtabs: true
+xsthumb: technology/userinterface/eqsui_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

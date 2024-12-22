@@ -4,6 +4,7 @@ linktitle: Capteurs et caméras
 description:  Les capteurs et les caméras sont très importants sur les voitures modernes car ils jouent un rôle clé dans de nombreux systèmes avancés d'aide à la conduite. EVKX.net vous donne des détails sur les différents types utilisés dans les véhicules électriques.
 weight: 2
 shownavtabs: true
+xsthumb: technology/sensorsandcameras/lidar/lidarvolvoex90_3_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Il existe différents types de technologies utilisées pour les capteurs des voitures modernes, en fonction de l'application spécifique et des exigences du capteur.

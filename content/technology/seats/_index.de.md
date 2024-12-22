@@ -4,6 +4,7 @@ linktitle: Sitze
 description: Willkommen zum ultimativen Leitfaden für Autositze in Elektrofahrzeugen (EVs)! Da wir viel Zeit in unseren Fahrzeugen verbringen, spielen die Sitze, in denen wir sitzen, eine entscheidende Rolle für Komfort, Unterstützung und Sicherheit während unserer Fahrten.
 weight: 2
 shownavtabs: true
+xsthumb: technology/seats/types/eqssuv680twinexecutiveseats_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

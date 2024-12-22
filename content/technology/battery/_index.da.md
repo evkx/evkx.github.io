@@ -4,6 +4,7 @@ linktitle: Elbilbatterier
 description: Batterier til elektriske køretøjer er ansvarlige for at lagre den energi, der driver køretøjets elektriske motor, og de spiller en afgørende rolle i bestemmelsen af ​​en elbils ydeevne, rækkevidde og samlede omkostninger.
 weight: 11
 shownavtabs: true
+xsthumb: technology/battery/bmwixbattery_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 I denne artikel vil vi udforske de forskellige typer EV-batterier, hvordan de fungerer, deres fordele og ulemper og den seneste udvikling inden for EV-batteriteknologi.

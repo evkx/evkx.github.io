@@ -3,6 +3,7 @@ title: El-bil platforme
 linktitle: El-bil platforme
 description: Å bygge en elbil er mer komplisert enn å erstatte en forbrenningsmotor med en elektrisk motor og en batteripakke. Elbiler krever en annen tilnærming til design, konstruksjon og produksjon, og det er her elbilplattformer kommer inn.
 weight: 2
+xsthumb: technology/platforms/e-golf_1_xst.jpg
 ---
 
 <!-- markdownlint-disable MD033 -->

@@ -4,6 +4,7 @@ linktitle: Sensoren & Kameras
 description: Sensoren und Kameras sind in modernen Autos von entscheidender Bedeutung und spielen eine Schlüsselrolle in fortschrittlichen Fahrerassistenzsystemen. EVKX.net bietet Details zu den verschiedenen Typen, die in Elektrofahrzeugen verwendet werden.
 weight: 2
 shownavtabs: true
+xsthumb: technology/sensorsandcameras/lidar/lidarvolvoex90_3_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Moderne Autos nutzen verschiedene Sensortechnologien, die jeweils auf spezifische Anwendungen und Anforderungen zugeschnitten sind.

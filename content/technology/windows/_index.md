@@ -3,6 +3,7 @@ title: Windows
 linktitle: Windows
 description: Windows are essential parts of any car, providing visibility, ventilation, protection, and comfort to the driver and passengers.
 weight: 2
+xsthumb: technology/windows/windshield_1_xst.jpeg
 ---
 <!-- markdownlint-disable MD033 -->
 

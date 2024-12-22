@@ -4,6 +4,7 @@ linktitle:  Motores y unidades de accionamiento
 description: A medida que la industria automotriz avanza rápidamente hacia la electrificación, el corazón de los vehículos eléctricos (EV) reside en sus motores y unidades motrices. Con una amplia gama de tipos de motores e inversores complejos, comprender las complejidades de estos componentes es crucial para comprender el funcionamiento interno de los vehículos eléctricos.
 weight: 2
 shownavtabs: true
+xsthumb: technology/motors/asyncronmotor_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

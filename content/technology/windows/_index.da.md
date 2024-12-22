@@ -3,6 +3,7 @@ title: Vinduer
 linktitle: Vinduer
 description: Vinduer er vigtige dele af enhver bil, der giver udsyn, ventilation, beskyttelse og komfort for føreren og passagererne.
 weight: 2
+xsthumb: technology/windows/windshield_1_xst.jpeg
 ---
 <!-- markdownlint-disable MD033 -->
 Bilruder er klassificeret i forskellige typer efter placering, funktion og design. Denne artikel vil udforske hovedtyperne af bilruder og deres funktion.

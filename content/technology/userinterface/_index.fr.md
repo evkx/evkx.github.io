@@ -4,6 +4,7 @@ linktitle: Interface utilisateur
 description: L'interface utilisateur fait référence aux différentes manières dont les conducteurs et les passagers interagissent avec les fonctionnalités et les commandes d'un véhicule.
 weight: 2
 shownavtabs: true
+xsthumb: technology/userinterface/eqsui_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
  
