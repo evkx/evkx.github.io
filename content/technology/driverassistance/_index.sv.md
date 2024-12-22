@@ -4,6 +4,7 @@ linktitle: ADAS
 description: Advanced Driver Assistance Systems (ADAS)-teknologier är utformade för att hjälpa förare att köra sina fordon säkrare och mer effektivt. EVKX.net ger dig detaljer om de olika systemen i elbilar.
 weight: 2
 shownavtabs: true
+xst: technology/driverassistance/adaptivecruisecontrol/illustration_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Flera typer av avancerade förarassistanssystem finns tillgängliga i moderna bilar, som alla fungerar på olika sätt för att förbättra körprestanda och säkerhet.
