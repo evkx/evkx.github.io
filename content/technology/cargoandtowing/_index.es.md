@@ -4,6 +4,7 @@ linktitle: Capacidades de carga y remolque
 description: Los coches no sólo sirven para transportar personas, sino también para transportar diversos tipos de carga, como comestibles, equipaje, mascotas o equipamiento deportivo.
 weight: 2
 shownavtabs: true
+xsthumb: technology/cargoandtowing/hitchcargo/hitchcargo_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

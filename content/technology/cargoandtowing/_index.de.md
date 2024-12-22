@@ -4,6 +4,7 @@ linktitle: Lade- und Abschleppkapazitäten
 description: Autos sind nicht nur zum Transport von Personen gedacht, sondern auch zum Transport verschiedener Arten von Fracht, wie Lebensmittel, Gepäck, Haustiere oder Sportausrüstung.
 weight: 2
 shownavtabs: true
+xsthumb: technology/cargoandtowing/hitchcargo/hitchcargo_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -3,6 +3,7 @@ title: Klimasystem
 linktitle: Klimasystem
 description: Automotive klimaanlæg refererer til HVAC (varme, ventilation og aircondition) systemer designet til at regulere temperaturen, fugtigheden og luftkvaliteten inde i køretøjets kabine for passagerernes komfort.
 weight: 2
+xsthumb: technology/hvac/3zoneclimatesystemskodaoctavia_st.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Disse systemer består typisk af forskellige komponenter, herunder en varmepumpe, som spiller en afgørende rolle for at give et behageligt kabinemiljø.

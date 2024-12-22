@@ -3,6 +3,7 @@ title: Doors
 linktitle: Doors
 description: Doors are essential parts of cars that allow passengers and drivers to enter and exit the vehicle, as well as secure the interior from unauthorized access.
 weight: 2
+xsthumb: technology/doors/xpengp7wingdoors_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

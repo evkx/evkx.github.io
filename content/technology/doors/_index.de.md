@@ -3,6 +3,7 @@ title: Türen
 linktitle: Türen
 description: Türen sind wesentliche Teile von Autos, die es Passagieren und Fahrern ermöglichen, das Fahrzeug zu betreten und zu verlassen, sowie das Innere vor unbefugtem Zugriff zu sichern.
 weight: 2
+xsthumb: technology/doors/xpengp7wingdoors_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

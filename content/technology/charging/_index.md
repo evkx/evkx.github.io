@@ -4,6 +4,7 @@ linktitle: Charging
 description: Electric vehicles (EVs) are becoming more popular and affordable but require a different refueling method than conventional cars. Instead of filling up a gas tank, EVs must plug into a charging station and recharge their batteries.
 weight: 2
 shownavtabs: true
+xsthumb: technology/charging/ontheroadcharging/charging_1_st.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -4,6 +4,7 @@ linktitle: Capacités de chargement et de remorquage
 description:  Les voitures ne sont pas seulement destinées au transport de personnes, mais également au transport de divers types de marchandises, telles que des produits d'épicerie, des bagages, des animaux de compagnie ou des équipements sportifs.
 weight: 2
 shownavtabs: true
+xsthumb: technology/cargoandtowing/hitchcargo/hitchcargo_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

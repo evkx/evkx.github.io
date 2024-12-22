@@ -3,6 +3,7 @@ title: Bromsar
 linktitle: Bromsar
 description: Bromssystemet är avgörande för passagerarnas och andra trafikanters säkerhet samt fordonets livslängd. Den här artikeln kommer att utforska de olika typerna av EV-bromsar, inklusive stålskivbromsar, hårdmetallbromsar, keramiska bromsar och trumbromsar. Den innehåller även detaljer om blandade bromsar.
 weight: 2
+xsthumb: technology/brakes/ceramicetrongt_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 På grund av den [regenerativa bromsningen](../regen/)-förmågan hos elmotorer i elbilar, kan de traditionella friktionsbromsarna användas mindre frekvent, vilket resulterar i minskat slitage på bromsbelägg och skivor jämfört med ICE-fordon.

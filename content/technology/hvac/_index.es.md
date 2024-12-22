@@ -3,6 +3,7 @@ title: Sistema Climático
 linktitle: Sistema Climático
 description: Los sistemas climáticos en automóviles se refieren a los sistemas HVAC (calefacción, ventilación y aire acondicionado) que están diseñados para regular la temperatura, la humedad y la calidad del aire dentro de la cabina del vehículo para la comodidad de los pasajeros.
 weight: 2
+xsthumb: technology/hvac/3zoneclimatesystemskodaoctavia_st.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

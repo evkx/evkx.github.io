@@ -4,6 +4,7 @@ linktitle: Cargando
 description: Los vehículos eléctricos (EV) son cada vez más populares y asequibles, pero requieren un método de repostaje diferente al de los coches convencionales. En lugar de llenar un tanque de gasolina, los vehículos eléctricos deben conectarse a una estación de carga y recargar sus baterías.
 weight: 2
 shownavtabs: true
+xsthumb: technology/charging/ontheroadcharging/charging_1_st.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

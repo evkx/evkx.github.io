@@ -3,6 +3,7 @@ title: Système climatique
 linktitle: Système climatique
 description: Les systèmes climatiques dans les voitures font référence aux systèmes CVC (chauffage, ventilation et climatisation) conçus pour réguler la température, l'humidité et la qualité de l'air à l'intérieur de l'habitacle du véhicule pour le confort des passagers.
 weight: 2
+xsthumb: technology/hvac/3zoneclimatesystemskodaoctavia_st.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

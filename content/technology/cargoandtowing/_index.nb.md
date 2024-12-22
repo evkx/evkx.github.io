@@ -4,6 +4,7 @@ linktitle: Laste- og tilhenger muligheter
 description: Biler er ikke bare ment for transport av mennesker, men også for transport av ulike typer last, som dagligvarer, bagasje, kjæledyr eller sportsutstyr.
 weight: 2
 shownavtabs: true
+xsthumb: technology/cargoandtowing/hitchcargo/hitchcargo_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Imidlertid kan mange mennesker ha spørsmål eller bekymringer om elbilers ytelse, rekkevidde, lasterom og slepeevner.

@@ -3,6 +3,7 @@ title: Dörrar
 linktitle: Dörrar
 description: Dörrar är viktiga delar av bilar som gör att passagerare och förare kan ta sig in och ur fordonet, samt säkrar interiören mot obehörig åtkomst.
 weight: 2
+xsthumb: technology/doors/xpengp7wingdoors_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Dörrar integrerar även sidofönster för insyn och ventilation, och kan ha andra funktioner som speglar, handtag, lås, högtalare och förvaring. Beroende på bilens design och stil kan dörrarna variera i storlek, form, placering och mekanism.

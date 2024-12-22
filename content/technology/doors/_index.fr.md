@@ -3,6 +3,7 @@ title:  Portes
 linktitle:  Portes
 description: Les portes sont des éléments essentiels des voitures qui permettent aux passagers et aux conducteurs d'entrer et de sortir du véhicule, ainsi que de sécuriser l'intérieur contre tout accès non autorisé.
 weight: 2
+xsthumb: technology/doors/xpengp7wingdoors_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

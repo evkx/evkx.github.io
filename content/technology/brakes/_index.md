@@ -3,6 +3,7 @@ title: Brakes
 linktitle: Brakes
 description: The braking system is crucial for the safety of passengers and other road users, as well as the longevity of the vehicle. This article explores the different types of EV brakes, including steel disc brakes, carbide brakes, ceramic brakes, and drum brakes. It also covers details about blended brakes.
 weight: 2
+xsthumb: technology/brakes/ceramicetrongt_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Due to the [regenerative braking](../regen/) capability of electric motors in EVs, traditional friction brakes may be used less frequently. This results in reduced wear on brake pads and discs compared to ICE vehicles. However, it's important to note that all EVs still have traditional friction brakes as a backup or supplementary system for hard braking or emergencies. The use of regenerative braking and standard friction brakes in EVs depends on the specific design and configuration of the vehicle, as well as the preferences and driving habits of the driver.

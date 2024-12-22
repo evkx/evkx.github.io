@@ -4,6 +4,7 @@ linktitle: Last- och trailer möjligheter
 description: Bilar är inte bara avsedda för transport av människor, utan även för transport av olika typer av gods, såsom matvaror, bagage, husdjur eller sportutrustning.
 weight: 2
 shownavtabs: true
+xsthumb: technology/cargoandtowing/hitchcargo/hitchcargo_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Däremot kan många människor ha frågor eller funderingar om elbilars prestanda, räckvidd, lastutrymme och dragkapacitet.

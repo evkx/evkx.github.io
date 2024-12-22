@@ -4,6 +4,7 @@ linktitle: Lading
 description: Elbiler bliver mere populære og overkommelige, men kræver en anden optankningsmetode end konventionelle biler. I stedet for at fylde en benzintank skal elbiler tilsluttes en ladestation og genoplade batterierne.
 weight: 2
 shownavtabs: true
+xsthumb: technology/charging/ontheroadcharging/charging_1_st.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Det er dog ikke alle elbiler og ladestationer, der er kompatible. Forskellige opladningsporte og stik varierer efter region, hastighed og standarder.

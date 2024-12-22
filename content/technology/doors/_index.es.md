@@ -3,6 +3,7 @@ title: Puertas
 linktitle: Doors
 description: Las puertas son partes esenciales de los automóviles que permiten a los pasajeros y conductores entrar y salir del vehículo, así como proteger el interior contra el acceso no autorizado.
 weight: 2
+xsthumb: technology/doors/xpengp7wingdoors_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

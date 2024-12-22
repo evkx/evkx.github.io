@@ -3,6 +3,7 @@ title: Climate System
 linktitle: Climate System
 description: Climate systems in cars refer to the HVAC (Heating, Ventilation, and Air Conditioning) systems that regulate temperature, humidity, and air quality inside the vehicle cabin for passenger comfort.
 weight: 2
+xsthumb: technology/hvac/3zoneclimatesystemskodaoctavia_st.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

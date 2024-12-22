@@ -4,6 +4,7 @@ linktitle: Chargement
 description: Les véhicules électriques (VE) deviennent de plus en plus populaires et abordables, mais nécessitent une méthode de ravitaillement différente de celle des voitures conventionnelles. Au lieu de faire le plein d’essence, les véhicules électriques doivent se brancher sur une borne de recharge et recharger leurs batteries.
 weight: 2
 shownavtabs: true
+xsthumb: technology/charging/ontheroadcharging/charging_1_st.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

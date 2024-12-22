@@ -3,6 +3,7 @@ title: Klimatsystem
 linktitle: KlimaKlimatsystemsystem
 description: Luftkonditioneringssystem för fordon avser HVAC-system (uppvärmning, ventilation och luftkonditionering) som är utformade för att reglera temperatur, luftfuktighet och luftkvalitet inuti fordonets kabin för passagerarkomfort.
 weight: 2
+xsthumb: technology/hvac/3zoneclimatesystemskodaoctavia_st.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Dessa system består vanligtvis av olika komponenter, inklusive en värmepump, som spelar en avgörande roll för att ge en bekväm kabinmiljö.

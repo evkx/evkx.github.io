@@ -4,6 +4,7 @@ linktitle: Ladda
 description: Elfordon (EV) blir mer populära och prisvärda, men kräver en annan tankningsmetod än konventionella bilar. Istället för att fylla en bensintank måste elbilar kopplas till en laddstation och ladda batterierna.
 weight: 2
 shownavtabs: true
+xsthumb: technology/charging/ontheroadcharging/charging_1_st.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Det är dock inte alla elbilar och laddstationer som är kompatibla. Olika laddningsportar och kontakter varierar beroende på region, hastighet och standarder.

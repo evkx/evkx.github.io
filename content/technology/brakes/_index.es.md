@@ -3,6 +3,7 @@ title: Frenos
 linktitle: Frenos
 description: El sistema de frenado es crucial para la seguridad de los pasajeros y otros usuarios de la vía, así como para la longevidad del vehículo. Este artículo explorará los diferentes tipos de frenos para vehículos eléctricos, incluidos los frenos de disco de acero, los frenos de carburo, los frenos cerámicos y los frenos de tambor. También incluye detalles sobre frenos combinados.
 weight: 2
+xsthumb: technology/brakes/ceramicetrongt_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

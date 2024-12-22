@@ -3,6 +3,7 @@ title: Klimasystem
 linktitle: Klimasystem
 description: Klimasysteme in Autos beziehen sich auf die HVAC-Systeme (Heizung, Lüftung und Klimaanlage), die Temperatur, Luftfeuchtigkeit und Luftqualität im Fahrzeuginnenraum für den Komfort der Passagiere regulieren.
 weight: 2
+xsthumb: technology/hvac/3zoneclimatesystemskodaoctavia_st.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

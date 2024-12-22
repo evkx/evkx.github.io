@@ -4,7 +4,7 @@ linktitle: ADAS
 description: Les technologies des systèmes avancés d'aide à la conduite (ADAS) sont conçues pour aider les conducteurs à conduire leur véhicule de manière plus sûre et plus efficace. EVKX.net vous donne des détails sur les différents systèmes des véhicules électriques.
 weight: 2
 shownavtabs: true
-xst: technology/driverassistance/adaptivecruisecontrol/illustration_xst.jpg
+xsthumb: technology/driverassistance/adaptivecruisecontrol/illustration_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

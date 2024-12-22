@@ -3,6 +3,7 @@ title: Dører
 linktitle: Dører
 description: Dører er viktige deler av biler som lar passasjerer og sjåfører komme inn og ut av kjøretøyet, samt sikre interiøret mot uautorisert tilgang.
 weight: 2
+xsthumb: technology/doors/xpengp7wingdoors_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

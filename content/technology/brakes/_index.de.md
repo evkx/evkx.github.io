@@ -3,6 +3,7 @@ title: Bremsen
 linktitle: Bremsen
 description: Das Bremssystem ist entscheidend für die Sicherheit der Fahrgäste und anderer Verkehrsteilnehmer sowie für die Langlebigkeit des Fahrzeugs. Dieser Artikel untersucht die verschiedenen Arten von EV-Bremsen, einschließlich Stahl-Scheibenbremsen, Karbid-Bremsen, Keramik-Bremsen und Trommelbremsen. Es werden auch Details zu kombinierten Bremsen behandelt.
 weight: 2
+xsthumb: technology/brakes/ceramicetrongt_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Aufgrund der [Rekuperationsbremsung](../regen/) von Elektromotoren in EVs werden traditionelle Reibungsbremsen möglicherweise seltener verwendet. Dies führt zu einem geringeren Verschleiß der Bremsbeläge und -scheiben im Vergleich zu ICE-Fahrzeugen. Es ist jedoch wichtig zu beachten, dass alle EVs immer noch traditionelle Reibungsbremsen als Backup- oder Ergänzungssystem für starkes Bremsen oder Notfälle haben. Die Verwendung von Rekuperationsbremsen und Standard-Reibungsbremsen in EVs hängt vom spezifischen Design und der Konfiguration des Fahrzeugs sowie von den Vorlieben und Fahrgewohnheiten des Fahrers ab.

@@ -1,5 +1,5 @@
 ---
-title: "EV Batteries: The Power Behind Electric Vehicles"
+title: EV Batteries
 linktitle: EV Batteries
 description: Electric Vehicle (EV) batteries are the heart of electric vehicles, responsible for storing the energy that powers the vehicle's electric motor. They play a critical role in determining an EV's performance, range, and overall cost.
 weight: 2

@@ -4,6 +4,7 @@ linktitle: Laden
 description: Elektrofahrzeuge (EVs) werden immer beliebter und erschwinglicher, erfordern jedoch eine andere Betankungsmethode als herkömmliche Autos. Anstatt einen Benzintank zu füllen, müssen EVs an eine Ladestation angeschlossen und ihre Batterien aufgeladen werden.
 weight: 2
 shownavtabs: true
+xsthumb: technology/charging/ontheroadcharging/charging_1_st.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

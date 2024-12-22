@@ -4,7 +4,7 @@ linktitle: ADAS
 description: Fahrerassistenzsysteme (ADAS) sind Technologien, die entwickelt wurden, um Fahrern zu helfen, ihre Fahrzeuge sicherer und effizienter zu bedienen. EVKX.net bietet detaillierte Informationen über die verschiedenen Systeme in Elektrofahrzeugen.
 weight: 2
 shownavtabs: true
-xst: technology/driverassistance/adaptivecruisecontrol/illustration_xst.jpg
+xsthumb: technology/driverassistance/adaptivecruisecontrol/illustration_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Fahrerassistenzsysteme (ADAS) sind in modernen Autos verfügbar, um die Fahrleistung und Sicherheit zu verbessern. Diese Systeme arbeiten auf verschiedene Weise, um den Fahrern zu helfen.

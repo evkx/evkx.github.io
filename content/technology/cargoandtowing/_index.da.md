@@ -4,6 +4,7 @@ linktitle: Last og trailer muligheder
 description: Biler er ikke kun beregnet til transport af mennesker, men også til transport af forskellige typer gods, såsom dagligvarer, bagage, kæledyr eller sportsudstyr.
 weight: 2
 shownavtabs: true
+xsthumb: technology/cargoandtowing/hitchcargo/hitchcargo_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Mange mennesker kan dog have spørgsmål eller bekymringer om elbilers ydeevne, rækkevidde, lastrum og bugseringsmuligheder.

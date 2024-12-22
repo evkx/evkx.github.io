@@ -3,6 +3,7 @@ title: Freins
 linktitle: Freins
 description: Le système de freinage est crucial pour la sécurité des passagers et des autres usagers de la route, ainsi que pour la longévité du véhicule. Cet article explorera les différents types de freins EV, notamment les freins à disque en acier, les freins en carbure, les freins en céramique et les freins à tambour. Il comprend également des détails sur les freins mixtes.
 weight: 2
+xsthumb: technology/brakes/ceramicetrongt_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

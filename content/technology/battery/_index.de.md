@@ -1,5 +1,5 @@
 ---
-title: "EV-Batterien: Die Kraft hinter Elektrofahrzeugen"
+title: EV-Batterien
 linktitle: EV-Batterien
 description: Elektrofahrzeug (EV)-Batterien sind das Herzstück von Elektrofahrzeugen und verantwortlich für die Speicherung der Energie, die den Elektromotor des Fahrzeugs antreibt. Sie spielen eine entscheidende Rolle bei der Bestimmung der Leistung, Reichweite und Gesamtkosten eines EV.
 weight: 2

@@ -3,6 +3,7 @@ title: Døre
 linktitle: Døre
 description: Døre er vigtige dele af biler, der gør det muligt for passagerer og chauffører at komme ind og ud af køretøjet, samt sikre interiøret mod uautoriseret adgang.
 weight: 2
+xsthumb: technology/doors/xpengp7wingdoors_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Døre integrerer også sideruder for udsyn og ventilation og kan have andre funktioner såsom spejle, håndtag, låse, højttalere og opbevaring. Afhængigt af bilens design og stil kan dørene variere i størrelse, form, placering og mekanisme.

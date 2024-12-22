@@ -3,6 +3,7 @@ title: Bremser
 linktitle: Bremser
 description: Bremsesystemet er avgjørende for sikkerheten til passasjerene og andre trafikanter, samt kjøretøyets levetid. Denne artikkelen vil utforske de forskjellige typene EV-bremser, inkludert stålskivebremser, karbidbremser, keramiske bremser og trommelbremser. Den inneholder også detaljer om blandede bremser.
 weight: 2
+xsthumb: technology/brakes/ceramicetrongt_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 På grunn av evnen til [regenerativ bremsing](../regen/) til elektriske motorer i elbiler, kan de tradisjonelle friksjonsbremsene brukes sjeldnere, noe som resulterer i redusert slitasje på bremseklossene og skivene sammenlignet med ICE-kjøretøyer.

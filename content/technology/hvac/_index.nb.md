@@ -3,6 +3,7 @@ title: Klimasystem
 linktitle: Klimasystem
 description: Klimasystemer i biler refererer til HVAC-systemene (oppvarming, ventilasjon og klimaanlegg) som er designet for å regulere temperatur, fuktighet og luftkvalitet inne i kjøretøyets kabin for passasjerkomfort.
 weight: 2
+xsthumb: technology/hvac/3zoneclimatesystemskodaoctavia_st.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 
