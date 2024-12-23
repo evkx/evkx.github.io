@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons des critiques de nos [critiques en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Pushing the limits of the best EV Tourers. How far can they go? #bmwi5 #vwid7 #zeekr #porsche  #nio</h3>
+<p>It's Only Electric: 23.12.2024</p>
+
+{{< youtube O2R7xvASJv0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Test av Volkswagen ID.7 GTX Tourer - den beste folkevogna?</h3>
 <p>Norsk elbilforening: 09.12.2024</p>
 

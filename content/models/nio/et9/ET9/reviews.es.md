@@ -8,7 +8,13 @@ navicon: bi-person-video2
 ---
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Should Audi, Mercedes and BMW be afraid of this luxury sedan? Nio ET9 REVIEW</h3>
+<p>Autogefühl: 23.12.2024</p>
+
+{{< youtube 0iDJiLBlrPU >}}
+
+</div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i>Galería  </strong>

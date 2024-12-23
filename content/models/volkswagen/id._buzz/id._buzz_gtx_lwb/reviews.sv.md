@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi samlar recensioner från våra [favoritrecensenter online](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Volkswagen ID. Buzz (AWD) 70-MPH Highway Range Test! Driven Until It Dies</h3>
+<p>Out of Spec Testing: 23.12.2024</p>
+
+{{< youtube BclC4fK5-zs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>A Van for Van People // 2025 VW ID. BUZZ Review</h3>
 <p>Sarah -n- Tuned: 18.11.2024</p>
 

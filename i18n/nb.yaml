@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-362206b1
+  translation: Zeekr 7X Long Range RWD er en elektrisk SUV med en WLTP rekkevidde på opptil 615 km (382 miles). EVKX.net har alle detaljene.
+
 - id: frontpage-description-470b62e0
   translation: BYD Sealion 7 Design er en elektrisk SUV-kupé med en WLTP rekkevidde på opptil 456 km (283 miles). EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-63d7ac4b
   translation: Porsche Taycan 4 er en elektrisk luksussedan med en WLTP rekkevidde på opptil 643 km (400 miles). EVKX.net har alle detaljene.
-
-- id: frontpage-description-7f4e4d91
-  translation: Hyundai IONIQ 9 AWD Performance er en elektrisk SUV med en WLTP rekkevidde på opptil 570 km (354 miles). EVKX.net har alle detaljene.
 

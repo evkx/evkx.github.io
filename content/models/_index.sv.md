@@ -780,7 +780,7 @@ Klicka på logotyperna nedan för att gå direkt till märkessidan, eller scroll
 	<a href="zeekr/"><img src="https://media.evkx.net/multimedia/models/zeekr/brandevs_st.jpg" class="img-fluid mb-2" alt="Zeekr" ></a>
 	<h2>Zeekr</h2>
 	<p>
-	Zeekr har 6 modeller med totalt 11 varianter.
+	Zeekr har 6 modeller med totalt 12 varianter.
 	</p>
 	<a href="zeekr/" class="btn btn-outline-primary" role="button">Gå till Zeekr översikt över elbilsmodeller</a>
 </div>
