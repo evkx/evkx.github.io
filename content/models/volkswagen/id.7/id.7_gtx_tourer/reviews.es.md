@@ -9,10 +9,10 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Pushing the limits of the best EV Tourers. How far can they go? #bmwi5 #vwid7 #zeekr #porsche  #nio</h3>
-<p>It's Only Electric: 23.12.2024</p>
+<h3>Electric range battle - BMW vs Porsche vs VW vs Zeekr vs Nio | Stockholm to Idre</h3>
+<p>It's Only Electric: 22.12.2024</p>
 
-{{< youtube O2R7xvASJv0 >}}
+{{< youtube LpwM-SxbmnE >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">

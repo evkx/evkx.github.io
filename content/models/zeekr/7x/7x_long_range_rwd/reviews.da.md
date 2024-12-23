@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi samler anmeldelser fra vores [foretrukne online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Electric range battle - BMW vs Porsche vs VW vs Zeekr vs Nio | Stockholm to Idre</h3>
+<p>It's Only Electric: 22.12.2024</p>
+
+{{< youtube LpwM-SxbmnE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Not a 'Model Y-Wannabe' - Zeekr 7X Review</h3>
 <p>Telescope: 20.09.2024</p>
 
@@ -20,13 +27,6 @@ Vi samler anmeldelser fra vores [foretrukne online anmeldere](../../../../../gui
 <p>Elliot Richards on EVs: 20.09.2024</p>
 
 {{< youtube au8Cn4rFxYM >}}
-
-</div>
-<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Zeekr 7X Driven - This Is Why Legacy Auto Is Running Scared</h3>
-<p>Inside China Auto: 20.09.2024</p>
-
-{{< youtube XmFUSXUbctU >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
