@@ -3,7 +3,7 @@ title: Elbil søgning
 linktitle: Elbil søgning
 description: EVKX tilbyder den mest omfattende søgning efter elbiler tilgængelig online. Denne guide guider dig til, hvordan du får mest muligt ud af denne funktion.
 weight: 3
-xsthumb: https://media.evkx.net/multimedia/guides/evsearch/search_1_xst.jpg
+xsthumb: guides/evsearch/search_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Søgningen giver dig mulighed for at bestille elbilerne i forskellige tekniske og funktionelle aspekter. Derudover kan du filtrere resultatet ud fra dine kriterier.

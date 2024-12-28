@@ -3,7 +3,7 @@ title: EV-Suche
 linktitle: EV-Suche
 description: EVKX bietet die umfassendste Suche nach Elektrofahrzeugen, die online verfügbar ist. Dieser Leitfaden hilft Ihnen, das Beste aus dieser Funktion herauszuholen.
 weight: 3
-xsthumb: https://media.evkx.net/multimedia/guides/evsearch/search_1_xst.jpg
+xsthumb: guides/evsearch/search_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

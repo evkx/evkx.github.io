@@ -4,7 +4,7 @@ linktitle: Reichweite verstehen
 description: Für viele ist die Reichweite der kritischste Aspekt eines Elektrofahrzeugs. In diesem Leitfaden erklären wir, welche Faktoren die Reichweite von Elektrofahrzeugen beeinflussen und warum neue EV-Besitzer oft eine geringere Reichweite als erwartet erleben.
 weight: 3
 shownavtabs: true
-xsthumb: https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag_xst.png
+xsthumb: guides/understandingrange/aerodynamicdrag_xst.png
 ---
 <!-- markdownlint-disable MD033 -->
 

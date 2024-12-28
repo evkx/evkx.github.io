@@ -3,7 +3,7 @@ title: How to Extend EV Battery Life
 linktitle: Extending Battery Life
 description: Learn key strategies to maximize your electric vehicle's battery life and minimize degradation.
 weight: 1
-xsthumb: https://media.evkx.net/multimedia/technology/battery/cell/bladebattery_xst.jpg
+xsthumb: technology/battery/cell/bladebattery_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

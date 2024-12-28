@@ -3,7 +3,7 @@ title: EV Reviewers
 linktitle: EV Reviewers
 description: The internet has revolutionized car reviews. While TV shows might offer a brief 2-3 minute review of a specific model, online platforms like YouTube provide hours of detailed content for each EV model. EVKX.net highlights some of the best reviewers who offer comprehensive EV reviews.
 weight: 3
-xsthumb: https://media.evkx.net/multimedia/guides/evreviewers/bjornyland_xst.jpg
+xsthumb: guides/evreviewers/bjornyland_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

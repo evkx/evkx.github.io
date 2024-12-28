@@ -3,7 +3,7 @@ title: EV Search
 linktitle: EV Search
 description: EVKX offers the most comprehensive search for EVs available online. This guide helps you get the most out of this feature.
 weight: 3
-xsthumb: https://media.evkx.net/multimedia/guides/evsearch/search_1_xst.jpg
+xsthumb: guides/evsearch/search_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

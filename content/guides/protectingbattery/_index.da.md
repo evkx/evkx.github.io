@@ -3,7 +3,7 @@ title: Sådan Forlænger Du EV Batteriets Levetid
 linktitle: Forlængelse af Batteriets Levetid
 description: Lær nøglestrategier for at maksimere din elbils batterilevetid og minimere nedbrydning.
 weight: 1
-xsthumb: https://media.evkx.net/multimedia/technology/battery/cell/bladebattery_xst.jpg
+xsthumb: technology/battery/cell/bladebattery_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

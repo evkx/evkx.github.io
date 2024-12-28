@@ -3,7 +3,7 @@ title: Hvordan Forlenge EV Batterilevetid
 linktitle: Forlenge Batterilevetid
 description: Lær viktige strategier for å maksimere batterilevetiden til din elektriske bil og minimere degradering.
 weight: 1
-xsthumb: https://media.evkx.net/multimedia/technology/battery/cell/bladebattery_xst.jpg
+xsthumb: technology/battery/cell/bladebattery_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

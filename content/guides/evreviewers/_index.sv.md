@@ -3,7 +3,7 @@ title: EV granskare
 linktitle: EV granskare
 description: Internet har gjort bilrecensioner så mycket bättre än tidigare. På TV kan du få en 2-3 minuters recension av en viss modell i vissa bilprogram, men med youtube och onlinerecensioner kan du få timmar av material för varje EV-modell. EVKX.net har några favoritrecensenter för att ge dig de bästa EV-recensionerna.
 weight: 3
-xsthumb: https://media.evkx.net/multimedia/guides/evreviewers/bjornyland_xst.jpg
+xsthumb: guides/evreviewers/bjornyland_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 ## Bjørn Nyland

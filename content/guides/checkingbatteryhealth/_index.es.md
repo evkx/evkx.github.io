@@ -3,7 +3,7 @@ title: Cómo verificar el estado de la batería
 linktitle: Verificar el estado de la batería
 description: Con cálculos simples, es posible verificar el estado general de la batería. Esta guía explica cómo.
 weight: 1
-xsthumb: https://media.evkx.net/multimedia/guides/checkingbatteryhealth/graph1_xst.jpg
+xsthumb: guides/checkingbatteryhealth/graph1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

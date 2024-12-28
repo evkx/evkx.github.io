@@ -4,7 +4,7 @@ linktitle: Comprendre la plage
 description: Pour beaucoup, l’autonomie est l’aspect le plus critique d’un véhicule électrique. Dans ce guide, nous expliquons quels facteurs affectent l’autonomie des véhicules électriques et pourquoi les nouveaux propriétaires de véhicules électriques bénéficient souvent d’une autonomie inférieure à celle attendue.
 weight: 3
 shownavtabs: true
-xsthumb: https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag_xst.png
+xsthumb: guides/understandingrange/aerodynamicdrag_xst.png
 ---
 <!-- markdownlint-disable MD033 -->
 

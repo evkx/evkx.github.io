@@ -3,7 +3,7 @@ title: Wie man die Lebensdauer der EV-Batterie verlängert
 linktitle: Verlängerung der Batterielebensdauer
 description: Erfahren Sie wichtige Strategien, um die Lebensdauer der Batterie Ihres Elektrofahrzeugs zu maximieren und die Degradation zu minimieren.
 weight: 1
-xsthumb: https://media.evkx.net/multimedia/technology/battery/cell/bladebattery_xst.jpg
+xsthumb: technology/battery/cell/bladebattery_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

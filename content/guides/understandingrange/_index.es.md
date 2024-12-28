@@ -4,7 +4,7 @@ linktitle: Comprender el rango
 description: Para muchos, la autonomía es el aspecto más crítico de un vehículo eléctrico. En esta guía, explicamos qué factores afectan la autonomía de conducción de los vehículos eléctricos y por qué los nuevos propietarios de vehículos eléctricos suelen experimentar una autonomía inferior a la esperada.
 weight: 3
 shownavtabs: true
-xsthumb: https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag_xst.png
+xsthumb: guides/understandingrange/aerodynamicdrag_xst.png
 ---
 <!-- markdownlint-disable MD033 -->
 

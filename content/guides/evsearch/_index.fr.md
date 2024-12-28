@@ -3,7 +3,7 @@ title: Recherche EV
 linktitle: Recherche EV
 description: EVKX propose la recherche de véhicules électriques la plus complète disponible en ligne. Ce guide vous explique comment tirer le meilleur parti de cette fonctionnalité.
 weight: 3
-xsthumb: https://media.evkx.net/multimedia/guides/evsearch/search_1_xst.jpg
+xsthumb: guides/evsearch/search_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 
