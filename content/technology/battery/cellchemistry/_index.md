@@ -16,7 +16,7 @@ The performance of the anode is crucial for the overall performance and safety o
 
 Companies like StoreDot are working on [silicon-based anodes](https://www.store-dot.com/blog/silicon-dominant-anodes-pave-the-way-for-future-li-ion-ev-batteries). This could theoretically double cell-level energy density, benefiting EVs significantly. Silicon anodes could also improve the appeal of lower energy cells, such as LFP, narrowing the gap to NMC-based cells and minimizing LFP's core disadvantage—limited energy density. Estimates show that incorporating 20% silicon into an anode could improve an LFP cell’s energy density by 17%, although the additional cost may be prohibitive.
 
-{{< evkxdisplayaddarticle />}}
+{{<evkxdisplayaddarticle />}}
 
 ## Cathode
 

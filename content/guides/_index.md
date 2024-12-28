@@ -3,7 +3,6 @@ title: Guides
 linktitle: Guides
 description: Below are different guides for owning an EV and using this site.
 weight: 4
-xsthumb: guides/veichletypes/convertible_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

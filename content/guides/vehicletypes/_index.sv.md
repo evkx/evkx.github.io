@@ -3,6 +3,7 @@ title: Fordonstyper
 linktitle: Fordonstyper
 description: Det finns många olika typer av fordon. Vi förklarar skillnaden.
 weight: 3
+xsthumb: guides/veichletypes/convertible_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Elfordon finns i olika former och former. I den här guiden förklarar vi alla alternativ som finns på marknaden.

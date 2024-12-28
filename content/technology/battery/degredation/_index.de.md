@@ -26,7 +26,7 @@ Um die Auswirkungen des Kalenderverschleißes zu minimieren, sollten die Richtli
 
 Zyklusverschleiß tritt als Folge wiederholter Lade- und Entladezyklen auf. Jeder Zyklus kann die Batterie abnutzen, was im Laufe der Zeit zu einem allmählichen Kapazitäts- und Leistungsverlust führt.
 
-{{< evkxdisplayaddarticle />}}
+{{<evkxdisplayaddarticle />}}
 
 Während des Zyklusverschleißes können die aktiven Materialien in den Elektroden abgebaut werden und ihre Fähigkeit verlieren, Energie zu speichern und freizusetzen. Dies kann den Innenwiderstand der Batterie erhöhen und deren Kapazität und Gesamtleistung verringern. Darüber hinaus kann der Zyklusverschleiß zu physischen Veränderungen der Batterie führen, wie der Bildung von Festelektrolyt-Interphasen (SEI) oder dem Wachstum von Dendriten, was die Kapazität und Leistung der Batterie weiter verringert.
 

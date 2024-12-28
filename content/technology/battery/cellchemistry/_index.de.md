@@ -16,7 +16,7 @@ Die Leistung der Anode ist entscheidend für die Gesamtleistung und Sicherheit e
 
 Unternehmen wie StoreDot arbeiten an [siliziumbasierten Anoden](https://www.store-dot.com/blog/silicon-dominant-anodes-pave-the-way-for-future-li-ion-ev-batteries). Dies könnte theoretisch die Energiedichte auf Zellebene verdoppeln, was EVs erheblich zugutekommen würde. Siliziumanoden könnten auch die Attraktivität von Zellen mit niedrigerer Energie, wie LFP, verbessern, indem sie die Lücke zu NMC-basierten Zellen verringern und den Hauptnachteil von LFP – die begrenzte Energiedichte – minimieren. Schätzungen zeigen, dass die Einbeziehung von 20% Silizium in eine Anode die Energiedichte einer LFP-Zelle um 17% verbessern könnte, obwohl die zusätzlichen Kosten möglicherweise prohibitiv sind.
 
-{{< evkxdisplayaddarticle />}}
+{{<evkxdisplayaddarticle />}}
 
 ## Kathode
 

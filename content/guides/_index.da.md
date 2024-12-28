@@ -3,7 +3,6 @@ title: Guider
 linktitle: Guider
 description: Nedenfor er forskellige guides til at eje en elbil og bruge denne side.
 weight: 4
-xsthumb: guides/veichletypes/convertible_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

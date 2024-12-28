@@ -3,6 +3,7 @@ title: Kjøretøytyper
 linktitle: Kjøretøytyper
 description: Det finnes mange forskjellige kjøretøytyper. Vi forklarer forskjellen.
 weight: 3
+xsthumb: guides/veichletypes/convertible_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 Elektriske kjøretøy kommer i forskjellige former og fasonger. I denne veiledningen forklarer vi alle alternativene som er tilgjengelige på markedet.

@@ -3,6 +3,7 @@ title: Køretøjstyper
 linktitle: Køretøjstyper
 description: Der findes mange forskellige køretøjstyper. Vi forklarer forskellen.
 weight: 3
+xsthumb: guides/veichletypes/convertible_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

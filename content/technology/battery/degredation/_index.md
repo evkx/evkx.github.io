@@ -26,7 +26,7 @@ To minimize the impact of calendar aging, follow the manufacturer's guidelines f
 
 Cycle aging occurs as a result of repeated charging and discharging cycles. Each cycle can cause wear and tear on the battery, leading to a gradual loss of capacity and performance over time.
 
-{{< evkxdisplayaddarticle />}}
+{{<evkxdisplayaddarticle />}}
 
 During cycle aging, the active materials in the electrodes can degrade, losing their ability to store and release energy. This can increase the battery's internal resistance, reducing its capacity and overall performance. Additionally, cycle aging can cause physical changes to the battery, such as the formation of solid-electrolyte interface (SEI) layers or the growth of dendrites, further reducing the battery's capacity and performance.
 

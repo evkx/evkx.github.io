@@ -23,7 +23,7 @@ When the battery is fully charged, the cathode material is at its maximum capaci
 
 The charging process is reversible, and during discharge, the electrons flow back from the cathode to the anode through an external circuit, creating a flow of electric current that can power an electric motor.
 
-{{< evkxdisplayaddarticle />}}
+{{<evkxdisplayaddarticle />}}
 
 ### Charging Performance
 
@@ -74,7 +74,7 @@ The charge curve for models on the EVKX site is for **optimal conditions**:
 - The temperature in the battery is high enough, so charge speed is not derated because of low temperature.
 - The temperature in the battery does not get so high that the BMS reduces speed for protection during the charging session from 0-100%.
 
-{{< evkxdisplayaddarticle />}}
+{{<evkxdisplayaddarticle />}}
 
 #### BMS Software
 

@@ -23,7 +23,7 @@ Wenn die Batterie vollständig geladen ist, ist das Kathodenmaterial maximal in 
 
 Der Ladevorgang ist reversibel, und während der Entladung fließen die Elektronen durch einen externen Stromkreis von der Kathode zur Anode zurück, wodurch ein elektrischer Stromfluss entsteht, der einen Elektromotor antreiben kann.
 
-{{< evkxdisplayaddarticle />}}
+{{<evkxdisplayaddarticle />}}
 
 ### Ladeleistung
 
@@ -74,7 +74,7 @@ Die Ladekurve für Modelle auf der EVKX-Website gilt für **optimale Bedingungen
 - Die Temperatur in der Batterie ist hoch genug, sodass die Ladegeschwindigkeit nicht aufgrund niedriger Temperatur reduziert wird.
 - Die Temperatur in der Batterie wird nicht so hoch, dass das BMS die Geschwindigkeit zum Schutz während der Ladesitzung von 0-100% reduziert.
 
-{{< evkxdisplayaddarticle />}}
+{{<evkxdisplayaddarticle />}}
 
 #### BMS-Software
 

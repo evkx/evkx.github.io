@@ -3,6 +3,7 @@ title: Vehicle Types
 linktitle: Vehicle Types
 description: Explore the different types of electric vehicles available in the market.
 weight: 3
+xsthumb: guides/veichletypes/convertible_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

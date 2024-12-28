@@ -3,6 +3,7 @@ title: Types de véhicules
 linktitle: Types de véhicules
 description: Il existe de nombreux types de véhicules différents. Nous expliquons la différence.
 weight: 3
+xsthumb: guides/veichletypes/convertible_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 
