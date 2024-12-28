@@ -3,6 +3,7 @@ title: Guides
 linktitle: Guides
 description:  Vous trouverez ci-dessous différents guides pour posséder un VE et utiliser ce site.
 weight: 4
+xsthumb: https://media.evkx.net/multimedia/guides/veichletypes/convertible_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

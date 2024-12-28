@@ -4,6 +4,7 @@ linktitle: Förstå räckvidd
 description: För många är räckvidden den mest kritiska aspekten av en elbil. I den här guiden förklarar vi vilka faktorer som påverkar elbilarnas räckvidd och varför nya elbilsägare ofta upplever en lägre räckvidd än förväntat.
 weight: 3
 shownavtabs: true
+xsthumb: https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag_xst.png
 ---
 <!-- markdownlint-disable MD033 -->
 Räckvidden för elbilar anges vanligtvis som en [WLTP range](wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) i

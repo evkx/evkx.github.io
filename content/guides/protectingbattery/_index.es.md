@@ -3,6 +3,7 @@ title: Cómo Prolongar la Vida Útil de la Batería de un Vehículo Eléctrico
 linktitle: Prolongar la Vida de la Batería
 description: Aprende estrategias clave para maximizar la vida útil de la batería de tu vehículo eléctrico y minimizar su degradación.
 weight: 1
+xsthumb: https://media.evkx.net/multimedia/technology/battery/cell/bladebattery_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

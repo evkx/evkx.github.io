@@ -3,6 +3,7 @@ title: Hur man kontrollerar batteriets hälsa
 linktitle: Kontrollera batteriets skick
 description: Med enkel matematik är det möjligt att verifiera batteriets allmänna status. Den här guiden förklarar hur.
 weight: 1
+xsthumb: https://media.evkx.net/multimedia/guides/checkingbatteryhealth/graph1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 <div class="alert alert-warning" role="alert">

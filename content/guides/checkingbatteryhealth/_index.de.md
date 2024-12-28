@@ -3,6 +3,7 @@ title: So überprüfen Sie den Batteriezustand
 linktitle: Batteriezustand überprüfen
 description: Mit einfacher Mathematik können Sie den Gesamtzustand Ihrer Batterie überprüfen. Diese Anleitung erklärt, wie.
 weight: 1
+xsthumb: https://media.evkx.net/multimedia/guides/checkingbatteryhealth/graph1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

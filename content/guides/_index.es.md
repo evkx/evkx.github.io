@@ -3,6 +3,7 @@ title: Guías
 linktitle: Guías
 description: A continuación se muestran diferentes guías para poseer un vehículo eléctrico y utilizar este sitio.
 weight: 4
+xsthumb: https://media.evkx.net/multimedia/guides/veichletypes/convertible_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

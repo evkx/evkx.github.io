@@ -3,6 +3,7 @@ title: Hur man förlänger livslängden på EV-batterier
 linktitle: Förlänga batterilivslängden
 description: Lär dig viktiga strategier för att maximera ditt elfordons batterilivslängd och minimera nedbrytning.
 weight: 1
+xsthumb: https://media.evkx.net/multimedia/technology/battery/cell/bladebattery_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

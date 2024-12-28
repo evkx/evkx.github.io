@@ -3,6 +3,7 @@ title: Évaluateurs de véhicules électriques
 linktitle: Évaluateurs de véhicules électriques
 description: Internet a rendu les critiques de voitures bien meilleures qu'avant. À la télévision, vous pouvez obtenir une critique de 2 à 3 minutes pour un modèle spécifique dans certains salons automobiles, mais avec les critiques sur YouTube et en ligne, vous pouvez obtenir des heures de matériel pour chaque modèle de véhicule électrique. EVKX.net a quelques critiques préférées qui vous donnent les meilleures critiques EV.
 weight: 3
+xsthumb: https://media.evkx.net/multimedia/guides/evreviewers/bjornyland_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

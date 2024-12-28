@@ -3,6 +3,7 @@ title: How to Verify Battery Health
 linktitle: Verify Battery Health
 description: With simple math, you can verify your battery's overall status. This guide explains how.
 weight: 1
+xsthumb: https://media.evkx.net/multimedia/guides/checkingbatteryhealth/graph1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

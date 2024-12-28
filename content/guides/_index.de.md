@@ -3,6 +3,7 @@ title: Anleitungen
 linktitle: Anleitungen
 description: Unten finden Sie verschiedene Anleitungen zum Besitz eines Elektrofahrzeugs und zur Nutzung dieser Website.
 weight: 4
+xsthumb: https://media.evkx.net/multimedia/guides/veichletypes/convertible_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 

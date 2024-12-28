@@ -3,6 +3,7 @@ title: Slik sjekker du batterihelsen
 linktitle: Sjekk batteritilstanden
 description: Med enkel matematikk er det mulig å verifisere batteriets generelle status. Denne veiledningen forklarer hvordan.
 weight: 1
+xsthumb: https://media.evkx.net/multimedia/guides/checkingbatteryhealth/graph1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 <div class="alert alert-warning" role="alert">

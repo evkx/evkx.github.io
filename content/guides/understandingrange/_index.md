@@ -4,6 +4,7 @@ linktitle: Understanding Range
 description: For many, the range is the most critical aspect of an EV. In this guide, we explain what factors affect the driving range of EVs and why new EV owners often experience a lower range than expected.
 weight: 3
 shownavtabs: true
+xsthumb: https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag_xst.png
 ---
 <!-- markdownlint-disable MD033 -->
 

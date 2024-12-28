@@ -3,6 +3,7 @@ title: EV anmeldere
 linktitle: EV anmeldere
 description: Internett har gjort bilanmeldelser så mye bedre enn før. På TV kan du få en 2-3 minutters anmeldelse av en bestemt modell i noen bilutstillinger, men med youtube og online anmeldelser kan du få timevis med materialer for hver EV-modell. EVKX.net har noen favorittanmeldere som gir deg de beste EV-anmeldelsene.
 weight: 3
+xsthumb: https://media.evkx.net/multimedia/guides/evreviewers/bjornyland_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 ## Bjørn Nyland

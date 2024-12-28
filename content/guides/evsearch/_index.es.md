@@ -3,6 +3,7 @@ title: Búsqueda de vehículos eléctricos
 linktitle: Búsqueda de vehículos eléctricos
 description: EVKX ofrece la búsqueda más completa de vehículos eléctricos disponible en línea. Esta guía le indica cómo aprovechar al máximo esta función.
 weight: 3
+xsthumb: https://media.evkx.net/multimedia/guides/evsearch/search_1_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 
