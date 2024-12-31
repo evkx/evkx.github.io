@@ -31,8 +31,3 @@ Algunos ejemplos de marcas de automóviles que ofrecen esta característica incl
 - Audi ofrece una función llamada "Sistema de asistencia de eficiencia". Este sistema proporciona información en tiempo real al conductor y ofrece sugerencias para optimizar el comportamiento de conducción para maximizar la autonomía y la eficiencia.
 
 {{< sitefiguresized thumb="technology/driverassistance/efficencyassist/ilustracion_st.jpg" width="1600" height="9000" title="Asistencia de eficiencia en la sugerencia de Audi de pisar el acelerador" >}}
-
-<div class="mt-3 mb-3">
-     <a href="../drivermonitoringsystem/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sistema de supervisión del conductor (DMS)</strong></a>
-     <a href="../electronicstabilitycontrol/" class="text-decoration-none text-black float-end"><strong>Control electrónico de estabilidad <i class="bi-arrow-right"></i></strong></a>
-</div>

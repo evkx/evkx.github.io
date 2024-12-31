@@ -30,8 +30,3 @@ Døsighedsregistrering for chauffører er en vigtig sikkerhedsfunktion, der kan 
 Producenter giver systemet forskellige navne
 
 - Attention Assist ([Mercedes Benz](../../../models/mercedes/))
-
-<div class="mt-3 mb-3">
-     <a href="../collisionavoidancesystems/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Collision Avoidance Systems (CAS)</i></strong></a>
-     <a href="../drivermonitoringsystem/" class="text-decoration-none text-black float-end"><strong>Driverovervågningssystem (DMS) <i class="bi-arrow-right"></i></strong></a>
-</div>

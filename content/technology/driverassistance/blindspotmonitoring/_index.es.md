@@ -28,8 +28,3 @@ Diferentes fabricantes pueden utilizar diferentes nombres para referirse al moni
 - Sistema de advertencia de cambio de carril (LDWS) con detección de punto ciego
 
 Es importante tener en cuenta que, si bien los nombres de los sistemas BSM pueden variar, su función y propósito siguen siendo los mismos: ayudar a los conductores a detectar y evitar colisiones al cambiar de carril o incorporarse al tráfico.
-
-<div class="mt-3 mb-3">
-     <a href="../autosteer/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Dirección automática</strong></a>
-     <a href="../collisionavoidancesystems/" class="text-decoration-none text-black float-end"><strong>Sistemas para evitar colisiones (CAS) <i class="bi-arrow-right"></i></strong></a>
-</div>

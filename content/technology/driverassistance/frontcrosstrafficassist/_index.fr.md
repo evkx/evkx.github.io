@@ -29,8 +29,3 @@ Dans certains systèmes avancés, l'assistance à la circulation transversale av
 Dans l'ensemble, l'assistance à la circulation transversale avant est conçue pour aider les conducteurs à effectuer des virages et des passages à niveau plus sûrs en leur fournissant des informations supplémentaires sur l'environnement et les dangers potentiels qui peuvent être présents. En alertant les conducteurs des dangers potentiels, cette technologie peut contribuer à prévenir les accidents et à améliorer la sécurité globale sur la route.
 
 {{<evkxdisplayaddarticle />}}
-
-<div class="mt-3 mb-3">
-     <a href="../forwardcollisionwarning/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Avertissement de collision avant (FCW)</strong></a>
-     <a href="../lanedeparturewarning/" class="text-decoration-none text-black float-end"><strong>Avertissement de sortie de voie <i class="bi-arrow-right"></i></strong></a>
-</div>

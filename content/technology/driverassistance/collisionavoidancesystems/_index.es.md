@@ -23,8 +23,3 @@ Algunos sistemas avanzados de asistencia al conductor (ADAS) pueden alejar el au
 Un ejemplo de este tipo de sistema es el sistema Lane Keeping Assist (LKA), que utiliza cámaras y sensores para detectar cuando el vehículo se está saliendo de su carril y puede girar automáticamente el vehículo de regreso a su carril para evitar una colisión. Otro ejemplo es el sistema [Dirección automática de emergencia](../automaticemergencysteering/) (AES), que utiliza sensores para detectar posibles colisiones con peatones u otros objetos y puede girar automáticamente el vehículo para evitar una colisión.
 
 Es importante tener en cuenta que, si bien estos sistemas pueden ayudar a prevenir o mitigar colisiones, no son infalibles y no se debe confiar en ellos como sustitutos de prácticas de conducción seguras y atentas. Los conductores siempre deben permanecer alerta y estar preparados para tomar medidas evasivas si es necesario. Además, es posible que estos sistemas no estén disponibles en todos los vehículos o que requieran que se cumplan ciertas condiciones para funcionar correctamente.
-
-<div class="mt-3 mb-3">
-     <a href="../blindspotmonitoring/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Monitoreo de puntos ciegos</strong> </a>
-     <a href="../driverdrowsinessdetection/" class="text-decoration-none text-black float-end"><strong>Detección de somnolencia del conductor (DDD)<i class="bi-arrow-right"></i></strong></a>
-</div>

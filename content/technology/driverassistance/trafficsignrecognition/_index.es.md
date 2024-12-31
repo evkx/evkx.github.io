@@ -29,8 +29,3 @@ Algunos sistemas también pueden proporcionar un aviso o una alerta si el conduc
 El reconocimiento de señales de tráfico puede ayudar a los conductores a estar al tanto de las condiciones y regulaciones de la carretera, especialmente cuando conducen en áreas desconocidas o cuando la visibilidad es mala. Sin embargo, es importante tener en cuenta que el TSR no es infalible y, en ocasiones, puede malinterpretar o no detectar ciertos signos, por lo que no se debe confiar exclusivamente en él. Los conductores siempre deben estar atentos a las señales de tráfico y respetarlas en consecuencia.
 
 {{<evkxdisplayaddarticle />}}
-
-<div class="mt-3 mb-3">
-     <a href="../rearcrosstrafficalert/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Alerta de tráfico cruzado trasero</strong></a>
-     <a href="../../brakes/" class="text-decoration-none text-black float-end"><strong>Frenos <i class="bi-arrow-right"></i></strong></a>
-</div>

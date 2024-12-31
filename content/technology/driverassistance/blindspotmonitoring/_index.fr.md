@@ -28,8 +28,3 @@ Différents fabricants peuvent utiliser des noms différents pour désigner la s
 - Système d'avertissement de sortie de voie (LDWS) avec détection d'angle mort
 
 Il est important de noter que même si les noms des systèmes BSM peuvent varier, leur fonction et leur objectif restent les mêmes : aider les conducteurs à détecter et à éviter les collisions lorsqu'ils changent de voie ou s'intègrent dans la circulation.
-
-<div class="mt-3 mb-3">
-     <a href="../autosteer/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Pilotage automatique</strong></a>
-     <a href="../collisionavoidancesystems/" class="text-decoration-none text-black float-end"><strong>Systèmes anticollision (CAS) <i class="bi-arrow-right"></i></strong></a>
-</div>

@@ -28,9 +28,3 @@ L'avertissement peut prendre la forme d'une icône ou d'un voyant clignotant sur
 Le conducteur peut alors prendre des mesures d’évitement pour éviter une collision.
 
 RCTA est un dispositif de sécurité utile qui peut aider les conducteurs à éviter les accidents, en particulier dans les parkings très fréquentés ou dans les rues étroites. Cependant, il est important de noter que le RCTA ne remplace pas des pratiques de conduite sécuritaires et doit être utilisé conjointement avec d'autres techniques de conduite sécuritaire, telles que la vérification des angles morts et l'utilisation de rétroviseurs latéraux.
-
-
-<div class="mt-3 mb-3">
-     <a href="../lanekeepingassist/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Aide au maintien de voie</strong> </a>
-     <a href="../trafficsignrecognition/" class="text-decoration-none text-black float-end"><strong>Reconnaissance des panneaux de signalisation <i class="bi-arrow-right"></i></strong></a>
-</div>

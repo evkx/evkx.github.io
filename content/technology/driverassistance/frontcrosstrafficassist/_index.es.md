@@ -29,8 +29,3 @@ En algunos sistemas avanzados, la asistencia de tráfico cruzado frontal puede f
 En general, la asistencia para el tráfico cruzado frontal está diseñada para ayudar a los conductores a realizar giros y cruces más seguros brindándoles información adicional sobre el entorno circundante y los peligros potenciales que pueden estar presentes. Al alertar a los conductores sobre peligros potenciales, esta tecnología puede ayudar a prevenir accidentes y mejorar la seguridad general en la carretera.
 
 {{<evkxdisplayaddarticle />}}
-
-<div class="mt-3 mb-3">
-     <a href="../forwardcollisionwarning/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Advertencia de colisión frontal (FCW)</strong></a>
-     <a href="../lanedeparturewarning/" class="text-decoration-none text-black float-end"><strong>Advertencia de cambio de carril <i class="bi-arrow-right"></i></strong></a>
-</div>

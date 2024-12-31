@@ -23,8 +23,3 @@ Los sistemas de monitoreo del conductor son cada vez más comunes en los automó
 El siguiente vídeo muestra cómo funciona esto en Polestar.
 
 {{< youtube TZnN31wCRGE >}}
-
-<div class="mt-3 mb-3">
-     <a href="../driverdrowsinessdetection/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Detección de somnolencia del conductor (DDD)</strong></a>
-     <a href="../efficencyassist/" class="text-decoration-none text-black float-end"><strong>Asistencia de eficiencia <i class="bi-arrow-right"></i></strong></a>
-</div>

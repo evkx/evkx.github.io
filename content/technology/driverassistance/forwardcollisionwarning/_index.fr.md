@@ -23,8 +23,3 @@ Dans l’ensemble, les systèmes FCW sont conçus pour aider les conducteurs à 
 Les fabricants donnent au système différents noms
 
 - Pré Sens (Audi)
-
-<div class="mt-3 mb-3">
-     <a href="../exitwarning/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Avertissement de sortie</strong></a>
-     <a href="../frontcrosstrafficassist/" class="text-decoration-none text-black float-end"><strong>Aide à la circulation transversale avant <i class="bi-arrow-right"></i> </strong></a>
-</div>

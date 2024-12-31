@@ -28,8 +28,3 @@ Nogle systemer kan også give en advarsel eller advarsel, hvis føreren ikke ove
 Trafikskiltgenkendelse kan hjælpe bilister med at holde sig opmærksomme på vejforhold og regler, især når de kører i ukendte områder, eller når sigtbarheden er dårlig. Det er dog vigtigt at bemærke, at TSR ikke er ufejlbarlig og nogle gange kan misfortolke eller undlade at opdage visse tegn, så det bør ikke udelukkende stoles på. Chauffører bør altid holde øje med vejskilte og følge dem i overensstemmelse hermed.
 
 {{<evkxdisplayaddarticle />}}
-
-<div class="mt-3 mb-3">
-     <a href="../rearcrosstrafficalert/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Rear Cross Traffic Alert</strong ></a>
-     <a href="../../brakes/" class="text-decoration-none text-black float-end"><strong>Bremser <i class="bi-arrow-right"></i> </strong></a>
-</div>

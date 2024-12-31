@@ -71,8 +71,3 @@ El techo de vidrio electrocrómico es un tipo que puede cambiar su nivel de tint
 
 Un techo con paneles de vidrio es una característica de lujo que agrega valor y comodidad a
 el coche. Sin embargo, también aumenta el peso y la complejidad del automóvil y puede reducir su eficiencia de combustible y su seguridad. Un techo de paneles de vidrio también puede ser más propenso a sufrir goteras, grietas o roturas debido a las condiciones climáticas, escombros de la carretera o accidentes.
-
-<div class="mt-3 mb-3">
-     <a href="../platforms/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Plataformas para vehículos eléctricos</strong>< /a>
-     <a href="../infotainment/" class="text-decoration-none text-black float-end"><strong>Sistema de infoentretenimiento <i class="bi-arrow-right"></i></strong></a>
-</div>

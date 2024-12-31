@@ -17,8 +17,3 @@ LKA fonctionne généralement à des vitesses supérieures à un certain seuil, 
 Comme LDW, il est important de noter que LKA ne remplace pas des pratiques de conduite attentives et sûres, et les conducteurs doivent toujours rester concentrés et alertes lorsqu'ils sont au volant. LKA est conçu pour offrir un niveau supplémentaire de sécurité et de commodité, en particulier dans les situations où le conducteur peut être fatigué ou distrait.
 
 L'Union européenne (UE) a des réglementations et des exigences spécifiques pour les systèmes d'assistance au maintien de voie (LKA) installés dans les véhicules. Selon le règlement UE 2018/858, LKA est considéré comme un système avancé d'aide à la conduite et doit répondre à plusieurs exigences pour garantir sa sécurité et son efficacité. En règle générale, il ne devrait pas être possible de désactiver LKA de manière permanente.
-
-<div class="mt-3 mb-3">
-     <a href="../lanedeparturewarning/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Avertissement de sortie de voie</strong> </a>
-     <a href="../rearcrosstrafficalert/" class="text-decoration-none text-black float-end"><strong>Alerte de circulation transversale arrière <i class="bi-arrow-right"></i> </strong></a>
-</div>

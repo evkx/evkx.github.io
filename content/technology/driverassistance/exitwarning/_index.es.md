@@ -21,8 +21,3 @@ El sistema de aviso de salida ADAS puede funcionar de diferentes formas según e
 La advertencia de salida ADAS es una característica de seguridad útil que puede ayudar a prevenir accidentes y mejorar la seguridad general de conductores y pasajeros. Al proporcionar una advertencia antes de abrir la puerta, puede ayudar a prevenir colisiones con otros vehículos o ciclistas, especialmente en áreas urbanas con mucho tráfico y visibilidad limitada.
 
 {{< sitefiguresized thumb="technology/driverassistance/exitwarning/ilustracion2_st.jpg" width="3000" height="2000" title="Advertencia de salida Mercedes" >}}
-
-<div class="mt-3 mb-3">
-     <a href="../electronicstabilitycontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Control electrónico de estabilidad (ESC)</strong></a>
-     <a href="../forwardcollisionwarning/" class="text-decoration-none text-black float-end"><strong>Advertencia de colisión frontal <i class="bi-arrow-right"></i></strong></a>
-</div>

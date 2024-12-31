@@ -17,8 +17,3 @@ LKA normalmente funciona a velocidades superiores a un cierto umbral, generalmen
 Al igual que LDW, es importante tener en cuenta que LKA no sustituye las prácticas de conducción atenta y segura, y los conductores siempre deben permanecer concentrados y alerta mientras están detrás del volante. LKA está diseñado para proporcionar una capa adicional de seguridad y comodidad, particularmente en situaciones en las que el conductor puede estar fatigado o distraído.
 
 La Unión Europea (UE) tiene regulaciones y requisitos específicos para los sistemas de asistencia para mantenerse en el carril (LKA) instalados en vehículos. Según el reglamento UE 2018/858, LKA se considera un sistema avanzado de asistencia a la conducción y debe cumplir con varios requisitos para garantizar su seguridad y eficacia. La regla es que no debería ser posible desactivar LKA de forma permanente.
-
-<div class="mt-3 mb-3">
-     <a href="../lanedeparturewarning/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Advertencia de cambio de carril</strong></a>
-     <a href="../rearcrosstrafficalert/" class="text-decoration-none text-black float-end"><strong>Alerta de tráfico cruzado trasero <i class="bi-arrow-right"></i></strong></a>
-</div>

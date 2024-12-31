@@ -23,6 +23,6 @@ L'avertissement de sortie ADAS est une fonction de sécurité utile qui peut aid
 {{< sitefiguresized thumb="technology/driverassistance/exitwarning/illustration2_st.jpg" width="3000" height="2000" title="Avertissement de sortie Mercedes" >}}
 
 <div class="mt-3 mb-3">
-     <a href="../electronicstabilitycontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Contrôle électronique de stabilité (ESC)</strong></a>
+     <a href="../electronicstabilitycontrol/" class="text-decoration-none text-black"><strong><i class=""></i> Contrôle électronique de stabilité (ESC)</strong></a>
      <a href="../forwardcollisionwarning/" class="text-decoration-none text-black float-end"><strong>Avertissement de collision frontale <i class="bi-arrow-right"></i></strong></a>
 </div>

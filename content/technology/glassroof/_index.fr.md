@@ -71,8 +71,3 @@ Le toit en verre électrochrome est un type de toit qui peut changer son niveau 
 
 Un toit en panneaux de verre est un élément de luxe qui ajoute de la valeur et du confort à
 la voiture. Cependant, cela augmente également le poids et la complexité de la voiture et peut réduire son efficacité énergétique et sa sécurité. Un toit en panneaux de verre peut également être plus sujet aux fuites, aux fissures ou aux bris dus aux conditions météorologiques, aux débris de la route ou aux accidents.
-
-<div class="mt-3 mb-3">
-     <a href="../platforms/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Plateformes EV</strong></a>
-     <a href="../infotainment/" class="text-decoration-none text-black float-end"><strong>Système d'infodivertissement <i class="bi-arrow-right"></i></strong></a>
-</div>

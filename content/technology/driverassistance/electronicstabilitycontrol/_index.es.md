@@ -25,8 +25,3 @@ El sistema ESC también puede reducir la potencia del motor para ayudar a evitar
 Una vez que el vehículo vuelve a su trayectoria prevista, el sistema ESC liberará gradualmente los frenos y permitirá que el conductor reanude el control normal del vehículo.
 
 Los detalles específicos de cómo funciona el ESC pueden variar entre diferentes vehículos y fabricantes, pero el objetivo general es ayudar a mejorar la estabilidad y seguridad del vehículo en situaciones de conducción repentinas o desafiantes.
-
-<div class="mt-3 mb-3">
-     <a href="../efficencyassist/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Asistencia de eficiencia</strong>< /a>
-     <a href="../exitwarning/" class="text-decoration-none text-black float-end"><strong>Advertencia de salida <i class="bi-arrow-right"></i></strong></a>
-</div>

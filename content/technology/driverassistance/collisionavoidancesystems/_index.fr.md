@@ -23,8 +23,3 @@ Certains systèmes avancés d’aide à la conduite (ADAS) peuvent éloigner la 
 Un exemple d'un tel système est le système Lane Keeping Assist (LKA), qui utilise des caméras et des capteurs pour détecter lorsque le véhicule dérive hors de sa voie et peut automatiquement ramener le véhicule dans sa voie pour éviter une collision. Un autre exemple est le système [Automatic Emergency Steering](../automaticemergencysteering/) (AES), qui utilise des capteurs pour détecter les collisions potentielles avec des piétons ou d'autres objets et peut diriger automatiquement le véhicule pour éviter une collision.
 
 Il est important de noter que même si ces systèmes peuvent aider à prévenir ou à atténuer les collisions, ils ne sont pas infaillibles et ne doivent pas remplacer des pratiques de conduite sûres et attentives. Les conducteurs doivent toujours rester vigilants et être prêts à prendre des mesures d'évitement si nécessaire. De plus, ces systèmes peuvent ne pas être disponibles sur tous les véhicules ou nécessiter le respect de certaines conditions pour fonctionner correctement.
-
-<div class="mt-3 mb-3">
-     <a href="../blindspotmonitoring/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Surveillance des angles morts</strong> </a>
-     <a href="../driverdrowsinessdetection/" class="text-decoration-none text-black float-end"><strong>Détection de somnolence du conducteur (DDD)<i class="bi-arrow-right"></i></strong></a>
-</div>

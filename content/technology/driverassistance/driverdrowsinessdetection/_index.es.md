@@ -31,8 +31,3 @@ La detección de somnolencia del conductor es una característica de seguridad i
 Los fabricantes le dan al sistema diferentes nombres.
 
 - Asistencia de atención ([Mercedes Benz](../../../modelos/mercedes/))
-
-<div class="mt-3 mb-3">
-     <a href="../collisionavoidancesystems/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sistemas para evitar colisiones (CAS)</strong></a>
-     <a href="../drivermonitoringsystem/" class="text-decoration-none text-black float-end"><strong>Sistema de monitoreo del conductor (DMS) <i class="bi-arrow-right"></i></strong></a>
-</div>

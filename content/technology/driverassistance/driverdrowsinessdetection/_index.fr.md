@@ -31,8 +31,3 @@ La détection de somnolence du conducteur est une fonction de sécurité importa
 Les fabricants donnent au système différents noms
 
 - Assistance à l'attention ([Mercedes Benz](../../../models/mercedes/))
-
-<div class="mt-3 mb-3">
-     <a href="../collisionavoidancesystems/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Systèmes anticollision (CAS)</strong></a>
-     <a href="../drivermonitoringsystem/" class="text-decoration-none text-black float-end"><strong>Système de surveillance des conducteurs (DMS) <i class="bi-arrow-right"></i></strong></a>
-</div>

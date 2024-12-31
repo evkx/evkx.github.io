@@ -29,8 +29,3 @@ Certains systèmes peuvent également fournir un avertissement ou une alerte si 
 La reconnaissance des panneaux de signalisation peut aider les conducteurs à rester conscients des conditions routières et des réglementations, en particulier lorsqu'ils conduisent dans des zones inconnues ou lorsque la visibilité est mauvaise. Cependant, il est important de noter que le TSR n’est pas infaillible et peut parfois mal interpréter ou ne pas détecter certains signes. Il ne faut donc pas s’y fier exclusivement. Les conducteurs doivent toujours garder un œil sur les panneaux de signalisation et les respecter en conséquence.
 
 {{<evkxdisplayaddarticle />}}
-
-<div class="mt-3 mb-3">
-     <a href="../rearcrosstrafficalert/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Alerte de circulation transversale arrière</strong ></a>
-     <a href="../../brakes/" class="text-decoration-none text-black float-end"><strong>Freins <i class="bi-arrow-right"></i></strong></a>
-</div>

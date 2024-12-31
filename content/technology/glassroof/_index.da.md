@@ -70,8 +70,3 @@ Elektrokromatisk glasloft er en type, der kan ændre farvetoneniveauet baseret p
 
 Et glaspaneltag er en luksusfunktion, der tilføjer værdi og komfort
 bilen. Men det tilføjer også vægt og kompleksitet til bilen og kan reducere brændstofeffektiviteten og sikkerheden. Et glaspaneltag kan også være mere udsat for utætheder, revner eller brud på grund af vejrforhold, vejaffald eller ulykker.
-
-<div class="mt-3 mb-3">
-     <a href="../platforms/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Elbilplatforme</strong> </a>
-     <a href="../infotainment/" class="text-decoration-none text-black float-end"><strong>Infotainmentsystem <i class="bi-arrow-right"></i></ stærk ></a>
-</div>

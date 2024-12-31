@@ -27,8 +27,3 @@ Forskellige producenter kan bruge forskellige navne til at henvise til Blind Spo
 - Lane Departure Warning System (LDWS) med blindvinkeldetektion
 
 Det er vigtigt at bemærke, at selvom navnene på BSM-systemer kan variere, forbliver deres funktion og formål det samme - at hjælpe chauffører med at opdage og undgå kollisioner, mens de skifter vognbane eller smelter sammen i trafikken.
-
-<div class="mt-3 mb-3">
-     <a href="../autosteer/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Autostyring</strong></a>
-     <a href="../collisionavoidancesystems/" class="text-decoration-none text-black float-end"><strong>Collision Avoidance Systems (CAS) <i class="bi-arrow-right"></i></strong></a>
-</div>

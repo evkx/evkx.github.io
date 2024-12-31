@@ -24,8 +24,3 @@ ESC-systemet kan også reducere motorkraften for at forhindre køretøjet i at s
 Når køretøjet er tilbage på den tilsigtede vej, vil ESC-systemet gradvist udløse bremserne og tillade føreren at genoptage normal kontrol over køretøjet.
 
 De specifikke detaljer om, hvordan ESC fungerer, kan variere mellem forskellige køretøjer og producenter, men det overordnede mål er at hjælpe med at forbedre stabiliteten og sikkerheden af ​​køretøjet i pludselige eller udfordrende køresituationer.
-
-<div class="mt-3 mb-3">
-     <a href="../efficiencyassist/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Efficiency Assist</strong></a>
-     <a href="../exitwarning/" class="text-decoration-none text-black float-end"><strong>Udgangsadvarsel <i class="bi-arrow-right"></i></strong></a>
-</div>

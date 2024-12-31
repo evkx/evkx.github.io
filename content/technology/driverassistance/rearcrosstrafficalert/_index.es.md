@@ -27,8 +27,3 @@ La advertencia puede tener la forma de un ícono o una luz intermitente en los e
 El conductor puede entonces tomar medidas evasivas para evitar una colisión.
 
 RCTA es una característica de seguridad útil que puede ayudar a los conductores a evitar accidentes, especialmente en estacionamientos concurridos o calles estrechas. Sin embargo, es importante tener en cuenta que RCTA no sustituye las prácticas de conducción segura y debe usarse junto con otras técnicas de conducción segura, como comprobar los puntos ciegos y utilizar los espejos laterales.
-
-<div class="mt-3 mb-3">
-     <a href="../lanekeepingassist/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Asistente para mantenerse en el carril</strong> </a>
-     <a href="../trafficsignrecognition/" class="text-decoration-none text-black float-end"><strong>Reconocimiento de señales de tráfico <i class="bi-arrow-right"></i></strong></a>
-</div>

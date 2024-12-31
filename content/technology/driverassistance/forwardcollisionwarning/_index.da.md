@@ -22,8 +22,3 @@ Generelt er FCW-systemer designet til at hjælpe chauffører med at undgå eller
 Producenter giver systemet forskellige navne
 
 - Pre Sense (Audi)
-  
-<div class="mt-3 mb-3">
-     <a href="../exitwarning/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Udgangsadvarsel</strong></a>
-     <a href="../frontcrosstrafficassist/" class="text-decoration-none text-black float-end"><strong>Forreste crosstrafficassist <i class="bi-arrow-right"></i> </strong></a>
-</div>
