@@ -140,5 +140,3 @@ Vea los ejemplos a continuación.
 {{< sitefiguresized thumb="technology/userinterface/screens/eqslayout_1_st.jpg" width="3000" height="1687" title="Diseño de pantalla estándar del Mercedes EQS-SUV con pantallas integradas solo parcialmente" >}}
 
 {{< sitefiguresized thumb="technology/userinterface/screens/eqslayout_2_st.jpg" width="3000" height="1687" title="Mercedes EQS-SUV MBUX Diseño de hiperpantalla totalmente integrado" >}}
-
-{{< pagenavigation b_url="../" b_title="Interfaz de usuario" f_url="../hud/" f_title="Pantalla frontal" >}}

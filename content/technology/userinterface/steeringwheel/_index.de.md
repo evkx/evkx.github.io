@@ -47,5 +47,3 @@ Moderne Fahrzeuge bieten verschiedene Lenkradeinstellungen, um es den Fahrern zu
 **Memory-Einstellungen:** Einige Luxusfahrzeuge können auch Memory-Einstellungen für Lenkradeinstellungen haben, die es den Fahrern ermöglichen, ihre bevorzugte Lenkradposition sowie andere Sitz- und Spiegeleinstellungen zu speichern. Diese Memory-Funktion ist hilfreich für mehrere Fahrer, die sich ein Fahrzeug teilen, oder für Fahrer, die unterschiedliche Fahrpositionen für verschiedene Situationen bevorzugen.
 
 Eine ordnungsgemäße Lenkradeinstellung ist entscheidend für sicheres Fahren. Fahrer sollten ihr Lenkrad so einstellen, dass sie einen entspannten und bequemen Griff haben, mit leicht gebeugten Armen und entspannten Schultern. Darüber hinaus sollte das Lenkrad die Sicht des Fahrers auf das Armaturenbrett oder die Straße nicht behindern, und der Airbag sollte im Notfall korrekt positioniert sein.
-
-{{< pagenavigation b_url="../buttons/" b_title="Physische Tasten" f_url="../stalks/" f_title="Hebel" >}}

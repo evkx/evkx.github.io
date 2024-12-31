@@ -47,5 +47,3 @@ Modern vehicles offer various steering wheel adjustments to allow drivers to fin
 **Memory Settings:** Some luxury vehicles may also have memory settings for steering wheel adjustments, allowing drivers to save their preferred steering wheel position and other seat and mirror settings. This memory is helpful for multiple drivers who share a vehicle or drivers who prefer different driving positions for different situations.
 
 Proper steering wheel adjustment is crucial for safe driving. Drivers should adjust their steering wheel to allow a relaxed and comfortable grip, with their arms slightly bent and shoulders relaxed. In addition, the steering wheel should not obstruct the driver’s view of the instrument panel or the road, and the airbag should be positioned correctly in an emergency.
-
-{{< pagenavigation b_url="../buttons/" b_title="Physical Buttons" f_url="../stalks/" f_title="Stalks" >}}

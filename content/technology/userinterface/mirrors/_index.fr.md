@@ -43,5 +43,3 @@ De plus, ils réduisent la résistance au vent, augmentant ainsi la portée et r
 ## Miroirs intérieurs ou de courtoisie
 
 Les miroirs intérieurs ou de courtoisie sont généralement situés sur les pare-soleil ou la console suspendue et permettent au conducteur et aux passagers de vérifier leur apparence ou de voir l'intérieur du véhicule.
-
-{{< pagenavigation b_url="../stalks/" b_title="Stalks" f_url="../voicecontrol/" f_title="Contrôle vocal" >}}

@@ -98,5 +98,3 @@ Det här är däck som härrör från Michelins prestandadäck, men optimerade f
 {{< sitefiguresized thumb="technology/wheels/michelinpilotsportev_1_st.jpg" width="3000" height="1333" title="Michelin Pilot Sport EV" >}}
 
 {{< sitefiguresized thumb="technology/wheels/michelinpilotsportev_2_st.jpg" width="3000" height="3000" title="Michelin Pilot Sport EV" >}}
-
-{{< pagenavigation b_url="../suspension/" b_title="Hjulupphängning" f_url="../userinterface/" f_title="Användargränssnitt" >}}

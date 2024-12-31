@@ -46,5 +46,3 @@ Moderne køretøjer tilbyder forskellige ratjusteringer, så chaufførerne kan f
 **Hukommelsesindstillinger:** Nogle luksusbiler kan også have hukommelsesindstillinger til ratjusteringer, så chauffører kan gemme deres foretrukne ratposition og andre sæde- og spejlindstillinger. Denne hukommelse er nyttig for flere chauffører, der deler et køretøj, eller chauffører, der foretrækker forskellige kørestillinger til forskellige situationer.
 
 Det er vigtigt at bemærke, at korrekt justering af rattet er afgørende for sikker kørsel. Chauffører bør justere rattet for at give et afslappet og behageligt greb, med let bøjede arme og afslappede skuldre. Desuden bør rattet ikke hindre førerens udsyn til instrumentpanelet eller vejen, og airbaggen skal placeres korrekt i en nødsituation.
-
-{{< pagenavigation b_url="../buttons/" b_title="Fysiske knapper" f_url="../stalks/" f_title="Håndtag" >}}

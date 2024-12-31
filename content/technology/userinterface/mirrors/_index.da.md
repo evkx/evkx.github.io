@@ -41,5 +41,3 @@ Derudover reducerer de vindmodstanden og øger dermed rækkevidden og reducerer 
 ## Interiør- eller makeup-spejl
 
 Indvendige spejle eller forfængelighedsspejle er normalt placeret på solskærmene eller overhead-konsollen og giver føreren og passagererne mulighed for at kontrollere deres udseende eller se det indre af køretøjet.
-
-{{< pagenavigation b_url="../stalks/" b_title="Håndtag" f_url="../voicecontrol/" f_title="Stemmekontrol" >}}

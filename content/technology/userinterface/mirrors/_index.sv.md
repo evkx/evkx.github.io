@@ -42,5 +42,3 @@ Dessutom minskar de vindmotståndet och ökar därmed räckvidden och minskar vi
 ## Interiör eller sminkspegel
 
 Innerbackspeglar eller sminkspeglar är vanligtvis placerade på solskydden eller takkonsolen och låter föraren och passagerarna kontrollera deras utseende eller se interiören av fordonet.
-
-{{< pagenavigation b_url="../stalks/" b_title="Spakarna" f_url="../voicecontrol/" f_title="Röst kontroll" >}}

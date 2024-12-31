@@ -141,5 +141,3 @@ Voir les exemples ci-dessous.
 {{< sitefiguresized thumb="technology/userinterface/screens/eqslayout_1_st.jpg" width="3000" height="1687" title="Disposition d'écran standard Mercedes EQS-SUV avec écrans intégrés uniquement partiels" >}}
 
 {{< sitefiguresized thumb="technology/userinterface/screens/eqslayout_2_st.jpg" width="3000" height="1687" title="Mercedes EQS-SUV MBUX Disposition hyperécran avec entièrement intégrée" >}}
-
-{{< pagenavigation b_url="../" b_title="Interface utilisateur" f_url="../hud/" f_title="Affichage tête haute" >}}

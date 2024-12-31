@@ -47,5 +47,3 @@ These cameras help the driver monitor blind spots and provide a wider field of v
 ## Interior or Vanity Mirrors
 
 Interior or vanity mirrors are typically located on the sun visors or overhead console, allowing the driver and passengers to check their appearance or view the interior of the vehicle.
-
-{{< pagenavigation b_url="../stalks/" b_title="Stalks" f_url="../voicecontrol/" f_title="Voice Control" >}}

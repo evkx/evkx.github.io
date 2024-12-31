@@ -18,5 +18,3 @@ En af de vigtigste fordele ved infrarøde kameraer er deres evne til at registre
 Infrarøde kameraer har dog også nogle begrænsninger. De kan kæmpe for nøjagtigt at detektere genstande, der ikke udsender en betydelig mængde varme, såsom parkerede køretøjer eller stationære genstande på vejen. Derudover kan de blive påvirket af vejrforhold såsom kraftig regn, tåge eller sne, hvilket kan forstyrre varmesignaturerne fra genstande.
 
 Overordnet set er infrarøde kameraer en vigtig sikkerhedsfunktion i biler, der kan hjælpe chauffører med at opdage forhindringer på vejen i svagt lys eller om natten. De bør dog ikke stoles på som det eneste middel til at opdage forhindringer, og chauffører bør altid udvise forsigtighed og andre sikkerhedsfunktioner for at sikre sikker kørsel.
-
-{{< pagenavigation b_url="../lidar/" b_title="LiDAR sensorer" f_url="../ultrasonic/" f_title="Ultralydssensorer" >}}

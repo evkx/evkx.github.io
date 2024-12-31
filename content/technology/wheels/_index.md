@@ -105,5 +105,3 @@ See also this video for good information about EV-specific tires.
 If you want to understand the physics of how different wheels affect consumption and range, see the video below.
 
 {{< youtube NYvKxsYFqO8 >}}
-
-{{< pagenavigation b_url="../suspension/" b_title="Suspension" f_url="../userinterface/" f_title="User Interface" >}}

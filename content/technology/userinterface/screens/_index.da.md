@@ -140,5 +140,3 @@ Se eksemplerne nedenfor.
 {{< sitefiguresized thumb="technology/userinterface/screens/eqslayout_1_st.jpg" width="3000" height="1687" title="Mercedes EQS-SUV standardskærmlayout med kun delvist integrerede skærme" >}}
 
 {{< sitefiguresized thumb="technology/userinterface/screens/eqslayout_2_st.jpg" width="3000" height="1687" title="Mercedes EQS-SUV MBUX Hyperskærmlayout med fuldt integreret" >}}
-
-{{< pagenavigation b_url="../" b_title="Brugergrænseflade" f_url="../hud/" f_title="Head-up Display" >}}

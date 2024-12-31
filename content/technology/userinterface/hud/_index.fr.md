@@ -43,5 +43,3 @@ Bien que les HUD puissent offrir de nombreux avantages, il existe certaines limi
 Les lunettes de soleil Polaroid peuvent également empêcher le conducteur de voir l'écran.
 
 Dans la [Base de données EVKX EV](../../evsearch/), vous pouvez rechercher des modèles avec HUD.
-
-{{< pagenavigation b_url="../screens/" b_title="Écrans" f_url="../buttons/" f_title="Boutons physiques" >}}

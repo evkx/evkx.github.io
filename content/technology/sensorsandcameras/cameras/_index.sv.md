@@ -43,5 +43,3 @@ Sammantaget spelar kameror en avgörande roll i ADAS-tekniker, och ger förarna 
 Videoschemat under Veoneer visar några exempel på kameraanvändning i bilar.
 
 {{< youtube w9kDTFXVYuE >}}
-
-{{< pagenavigation b_url="../" b_title=" Sensorer och kameror" f_url="../radar/" f_title="Radarsensorer" >}}

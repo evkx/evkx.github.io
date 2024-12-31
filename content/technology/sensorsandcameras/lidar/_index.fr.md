@@ -32,5 +32,3 @@ Il existe plusieurs producteurs de capteurs LiDAR. Quelques exemples
 En raison de son coût élevé, peu de véhicules électriques en sont encore équipés. Même les tests montrent que le LiDAR est supérieur aux autres capteurs dans certains scénarios de conduite.
 
 {{< sitefiguresized thumb="technology/sensorsandcameras/lidar/crashtest_1_st.jpg" width="3000" height="2000" title="La voiture de démonstration équipée du lidar de Luminar surpasse un système de caméra uniquement en s'arrêtant pour un mannequin de test au CES 2023" >}}
-
-{{< pagenavigation b_url="../radar/" b_title="Capteurs radar" f_url="../infrared/" f_title="Caméras infrarouges" >}}

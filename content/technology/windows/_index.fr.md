@@ -95,5 +95,3 @@ De plus, la plupart des EVS sont plus esthétiques avec du verre intimité.
 {{< sitefiguresized thumb="technology/windows/privacyglass_1_st.jpg" width="3000" height="2000" title="BMW i7 avec verre de confidentialité" >}}
 
 {{< sitefiguresized thumb="technology/windows/privacyglass_2_st.jpg" width="3000" height="2000" title="Porsche Taycan Sport Turismo avec verre intimité" >}}
-
-{{< pagenavigation b_url="../userinterface/" b_title="Interface utilisateur" f_url="../../guides/" f_title="Guides" >}}

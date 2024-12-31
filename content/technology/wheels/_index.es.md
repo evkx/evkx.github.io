@@ -110,5 +110,3 @@ Vea también este video para obtener buena información sobre neumáticos espec�
 Si quieres entender la física de cómo las diferentes ruedas afectan el consumo y la autonomía, mira el vídeo a continuación.
 
 {{< youtube NYvKxsYFqO8 >}}
-
-{{< pagenavigation b_url="../suspension/" b_title="Suspensión" f_url="../userinterface/" f_title="Interfaz de usuario" >}}

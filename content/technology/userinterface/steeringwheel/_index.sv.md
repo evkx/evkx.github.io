@@ -46,5 +46,3 @@ Moderna fordon erbjuder olika rattjusteringar så att föraren kan hitta den mes
 **Minnesinställningar:** Vissa lyxbilar kan också ha minnesinställningar för rattjusteringar, vilket gör att föraren kan lagra sin föredragna rattposition och andra sätes- och spegelinställningar. Detta minne är användbart för flera förare som delar ett fordon eller för förare som föredrar olika körställningar för olika situationer.
 
 Det är viktigt att notera att korrekt justering av ratten är avgörande för säker körning. Förare bör justera ratten för att ge ett avslappnat och bekvämt grepp, med armarna lätt böjda och axlarna avslappnade. Dessutom bör ratten inte hindra förarens sikt över instrumentpanelen eller vägen, och krockkudden ska vara korrekt placerad i en nödsituation.
-
-{{< pagenavigation b_url="../buttons/" b_title="Fysiska knappar" f_url="../stalks/" f_title="Spakarna" >}}

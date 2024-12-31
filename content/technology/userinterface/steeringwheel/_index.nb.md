@@ -47,5 +47,3 @@ Moderne kjøretøy tilbyr ulike rattjusteringer for å tillate sjåfører å fin
 **Minneinnstillinger:** Noen luksusbiler kan også ha minneinnstillinger for rattjusteringer, slik at sjåførene kan lagre sin foretrukne rattposisjon og andre sete- og speilinnstillinger. Dette minnet er nyttig for flere sjåfører som deler et kjøretøy eller sjåfører som foretrekker forskjellige kjørestillinger for forskjellige situasjoner.
 
 Det er viktig å merke seg at riktig justering av rattet er avgjørende for sikker kjøring. Førere bør justere rattet for å gi et avslappet og komfortabelt grep, med armene lett bøyd og skuldrene avslappet. I tillegg skal ikke rattet hindre førerens sikt til instrumentpanelet eller veien, og kollisjonsputen bør plasseres riktig i en nødsituasjon.
-
-{{< pagenavigation b_url="../buttons/" b_title="Fysiske knapper" f_url="../stalks/" f_title="Hendler" >}}

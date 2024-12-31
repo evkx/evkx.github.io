@@ -104,5 +104,3 @@ Sehen Sie sich auch dieses Video für gute Informationen über spezielle Reifen 
 Wenn Sie die Physik verstehen möchten, wie verschiedene Räder den Verbrauch und die Reichweite beeinflussen, sehen Sie sich das folgende Video an.
 
 {{< youtube NYvKxsYFqO8 >}}
-
-{{< pagenavigation b_url="../suspension/" b_title="Federung" f_url="../userinterface/" f_title="Benutzeroberfläche" >}}

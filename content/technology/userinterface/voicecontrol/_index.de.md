@@ -60,5 +60,3 @@ Obwohl die Sprachsteuerung viele Vorteile bietet, gibt es einige Einschränkunge
 - **Verfügbarkeit von Funktionen:** Nicht alle Fahrzeugfunktionen können über Sprachbefehle gesteuert werden, und das Maß an Integration und Funktionalität kann je nach Marke und Modell des Fahrzeugs variieren.
 
 Zusammenfassend lässt sich sagen, dass die Sprachsteuerung in Autos eine Technologie ist, die es Fahrern ermöglicht, verschiedene Fahrzeugfunktionen mittels Sprachbefehlen zu steuern. Sie bietet Vorteile wie verbesserte Sicherheit, Bequemlichkeit und Barrierefreiheit, hat jedoch auch einige Einschränkungen in Bezug auf Genauigkeit, Komplexität der Befehle und Systemintegration. Die Verfügbarkeit und Fähigkeiten der Sprachsteuerung können je nach spezifischem Fahrzeug und verwendetem System variieren.
-
-{{< pagenavigation b_url="../mirrors/" b_title="Spiegel" f_url="../gesturecontrol/" f_title="Gestensteuerung" >}}

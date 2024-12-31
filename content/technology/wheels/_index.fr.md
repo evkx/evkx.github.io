@@ -109,6 +109,3 @@ Voir également cette vidéo pour de bonnes informations sur les pneus spécifiq
 Si vous souhaitez comprendre la physique de la façon dont les différentes roues affectent la consommation et l'autonomie, regardez la vidéo ci-dessous.
 
 {{<youtube NYvKxsYFqO8 >}}
-
-
-{{< pagenavigation b_url="../suspension/" b_title="Suspension" f_url="../userinterface/" f_title="Interface utilisateur" >}}

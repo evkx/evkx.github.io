@@ -52,5 +52,3 @@ Dans la vidéo ci-dessous, [Bjørn Nyland](../../../guides/evreviewers/#bjørn-n
 {{<youtube 5BOmWsV2lto >}}
 
 La conception sans tige est actuellement disponible dans les nouveaux Model S, Model 3 et Model X, et nous prévoyons que Tesla introduira bientôt une conception sans tige dans le Model Y.
-
-{{< pagenavigation b_url="../steeringwheel/" b_title="Volant" f_url="../mirrors/" f_title="Miroirs" >}}

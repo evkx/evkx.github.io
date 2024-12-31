@@ -50,5 +50,3 @@ Mehrere Unternehmen stellen LiDAR-Sensoren her, darunter:
 Aufgrund ihrer hohen Kosten sind nur wenige Elektrofahrzeuge (EVs) mit LiDAR-Sensoren ausgestattet. Tests haben jedoch gezeigt, dass LiDAR anderen Sensoren in bestimmten Fahrszenarien überlegen ist.
 
 {{< sitefiguresized thumb="technology/sensorsandcameras/lidar/crashtest_1_st.jpg" width="3000" height="2000" title="Luminars LiDAR-ausgestattetes Demofahrzeug übertrifft ein kamerabasiertes System beim Anhalten vor einer Testpuppe auf der CES 2023" >}}
-
-{{< pagenavigation b_url="../radar/" b_title="Radarsensoren" f_url="../infrared/" f_title="Infrarotkameras" >}}

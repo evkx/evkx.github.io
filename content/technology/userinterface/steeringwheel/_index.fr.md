@@ -47,5 +47,3 @@ Les véhicules modernes proposent divers réglages du volant pour permettre aux 
 **Paramètres de mémoire :** Certains véhicules de luxe peuvent également disposer de paramètres de mémoire pour les réglages du volant, permettant aux conducteurs d'enregistrer leur position préférée du volant ainsi que d'autres paramètres de siège et de rétroviseurs. Cette mémoire est utile pour plusieurs conducteurs partageant un véhicule ou pour les conducteurs qui préfèrent différentes positions de conduite pour différentes situations.
 
 Il est important de noter qu’un bon réglage du volant est crucial pour une conduite sécuritaire. Les conducteurs doivent régler leur volant pour permettre une prise détendue et confortable, les bras légèrement pliés et les épaules détendues. De plus, le volant ne doit pas gêner la vue du conducteur sur le tableau de bord ou la route, et l’airbag doit être correctement positionné en cas d’urgence.
-
-{{< pagenavigation b_url="../buttons/" b_title="Boutons physiques" f_url="../stalks/" f_title="Stalks" >}}

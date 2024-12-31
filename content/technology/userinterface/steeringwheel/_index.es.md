@@ -47,5 +47,3 @@ Los vehículos modernos ofrecen varios ajustes del volante para permitir a los c
 **Configuraciones de memoria:** Algunos vehículos de lujo también pueden tener configuraciones de memoria para los ajustes del volante, lo que permite a los conductores guardar su posición preferida del volante y otras configuraciones de asientos y espejos. Esta memoria es útil para varios conductores que comparten un vehículo o para conductores que prefieren diferentes posiciones de conducción para diferentes situaciones.
 
 Es importante tener en cuenta que el ajuste adecuado del volante es crucial para una conducción segura. Los conductores deben ajustar el volante para permitir un agarre relajado y cómodo, con los brazos ligeramente flexionados y los hombros relajados. Además, el volante no debe obstruir la visión del conductor del panel de instrumentos o de la carretera, y el airbag debe estar colocado correctamente en caso de emergencia.
-
-{{< pagenavigation b_url="../buttons/" b_title="Botones físicos" f_url="../stalks/" f_title="Tallos" >}}

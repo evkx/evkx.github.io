@@ -63,5 +63,3 @@ Insgesamt spielen Kameras eine entscheidende Rolle in ADAS-Technologien, indem s
 Das folgende Video von Veoneer zeigt einige Beispiele für den Einsatz von Kameras in Autos.
 
 {{< youtube w9kDTFXVYuE >}}
-
-{{< pagenavigation b_url="../" b_title="Sensoren & Kameras" f_url="../radar/" f_title="Radarsensoren" >}}

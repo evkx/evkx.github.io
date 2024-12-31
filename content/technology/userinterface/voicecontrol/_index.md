@@ -60,5 +60,3 @@ While voice control offers many benefits, there are some limitations to consider
 - **Function Availability:** Not all vehicle functions may be available for control via voice commands, and the level of integration and functionality may vary depending on the specific make and model of the vehicle.
 
 In summary, voice control in cars is a technology that allows drivers to control various vehicle functions using voice commands. It offers benefits such as improved safety, convenience, and accessibility, but also has some limitations related to accuracy, complexity of commands, and system integration. The availability and capabilities of voice control may vary depending on the specific vehicle and system used.
-
-{{< pagenavigation b_url="../mirrors/" b_title="Mirrors" f_url="../gesturecontrol/" f_title="Gesture Control" >}}

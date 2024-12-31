@@ -61,5 +61,3 @@ Im folgenden Video demonstriert [Bjørn Nyland](../../../guides/evreviewers/#bj�
 {{< youtube 5BOmWsV2lto >}}
 
 Das hebellose Design ist derzeit in den neuen Modellen S, 3 und X verfügbar, und es wird erwartet, dass Tesla bald ein hebelloses Design im Model Y einführen wird.
-
-{{< pagenavigation b_url="../steeringwheel/" b_title="Lenkrad" f_url="../mirrors/" f_title="Spiegel" >}}

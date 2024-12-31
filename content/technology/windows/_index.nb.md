@@ -93,5 +93,3 @@ I tillegg ser de fleste EVS bedre ut med personvernglass.
 {{< sitefiguresized thumb="technology/windows/privacyglass_1_st.jpg" width="3000" height="2000" title="BMW i7 with privacy glass" >}}
 
 {{< sitefiguresized thumb="technology/windows/privacyglass_2_st.jpg" width="3000" height="2000" title="Porsche Taycan Sport Turismo med personvernglass" >}}
-
-{{< pagenavigation b_url="../userinterface/" b_title="Brukergrensesnitt" f_url="../../guides/" f_title="Guider" >}}

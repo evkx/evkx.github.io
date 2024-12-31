@@ -42,5 +42,3 @@ Biltillverkare designar HUD för att vara synliga i olika ljusförhållanden, in
 Polaroid solglasögon kan också hindra föraren från att se skärmen.
 
 I [EVKX EV-databasen](../../evsearch/) kan du söka efter modeller med HUD.
-
-{{< pagenavigation b_url="../screens/" b_title="Skärmar" f_url="../buttons/" f_title="Fysiska knappar" >}}

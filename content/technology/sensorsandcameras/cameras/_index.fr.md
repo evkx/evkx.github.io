@@ -44,6 +44,3 @@ Dans l’ensemble, les caméras jouent un rôle essentiel dans les technologies 
 La vidéo ci-dessous, Veoneer, montre quelques exemples d'utilisation de caméras dans les voitures.
 
 {{< youtube w9kDTFXVYuE >}}
-
-
-{{< pagenavigation b_url="../" b_title="Capteurs et caméras" f_url="../radar/" f_title="Capteurs radar" >}}

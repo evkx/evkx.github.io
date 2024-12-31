@@ -18,5 +18,3 @@ En av de främsta fördelarna med infraröda kameror är deras förmåga att upp
 Infraröda kameror har dock också vissa begränsningar. De kan kämpa för att exakt upptäcka föremål som inte avger en betydande mängd värme, såsom parkerade fordon eller stillastående föremål på vägen. Dessutom kan de påverkas av väderförhållanden som kraftigt regn, dimma eller snö, vilket kan störa värmesignaturerna som avges av föremål.
 
 Sammantaget är infraröda kameror en viktig säkerhetsfunktion i bilar som kan hjälpa förare att upptäcka hinder på vägen i svagt ljus eller på natten. De bör dock inte litas på som det enda sättet att upptäcka hinder, och förare bör alltid använda försiktighet och andra säkerhetsfunktioner för att säkerställa säker körning.
-
-{{< pagenavigation b_url="../lidar/" b_title="LiDAR-sensorer" f_url="../ultrasonic/" f_title="Ultraljudssensorer" >}}

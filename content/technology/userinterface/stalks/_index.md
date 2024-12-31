@@ -61,5 +61,3 @@ In the video below, [Bjørn Nyland](../../../guides/evreviewers/#bjørn-nyland) 
 {{< youtube 5BOmWsV2lto >}}
 
 The stalkless design is currently available in the new Model S, Model 3, and Model X, and it is expected that Tesla will introduce a stalkless design in the Model Y soon.
-
-{{< pagenavigation b_url="../steeringwheel/" b_title="Steering wheel" f_url="../mirrors/" f_title="Mirrors" >}}

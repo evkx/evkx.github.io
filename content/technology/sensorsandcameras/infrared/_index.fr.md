@@ -18,5 +18,3 @@ L’un des principaux avantages des caméras infrarouges est leur capacité à d
 Cependant, les caméras infrarouges présentent également certaines limites. Ils peuvent avoir du mal à détecter avec précision les objets qui n’émettent pas une quantité importante de chaleur, comme les véhicules stationnés ou les objets immobiles sur la route. De plus, ils peuvent être affectés par des conditions météorologiques telles que de fortes pluies, du brouillard ou de la neige, qui peuvent interférer avec les signatures thermiques émises par les objets.
 
 Dans l’ensemble, les caméras infrarouges constituent un élément de sécurité important dans les voitures, car elles peuvent aider les conducteurs à détecter les obstacles sur la route dans des conditions de faible luminosité ou de nuit. Cependant, ils ne doivent pas être considérés comme le seul moyen de détecter les obstacles, et les conducteurs doivent toujours faire preuve de prudence et utiliser d'autres dispositifs de sécurité pour garantir une conduite sûre.
-
-{{< pagenavigation b_url="../lidar/" b_title="Capteurs LiDAR" f_url="../ultrasonic/" f_title="Capteurs à ultrasons" >}}

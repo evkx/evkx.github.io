@@ -92,5 +92,3 @@ Darüber hinaus sehen die meisten Elektrofahrzeuge mit Privacy-Glas besser aus.
 {{< sitefiguresized thumb="technology/windows/privacyglass_1_st.jpg" width="3000" height="2000" title="BMW i7 mit Privacy-Glas" >}}
 
 {{< sitefiguresized thumb="technology/windows/privacyglass_2_st.jpg" width="3000" height="2000" title="Porsche Taycan Sport Turismo mit Privacy-Glas" >}}
-
-{{< pagenavigation b_url="../userinterface/" b_title="Benutzeroberfläche" f_url="../../guides/" f_title="Anleitungen" >}}

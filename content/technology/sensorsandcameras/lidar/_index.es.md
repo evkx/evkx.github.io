@@ -29,5 +29,3 @@ Hay varios fabricantes de sensores LiDAR. [Luminar](https://www.luminartech.com/
 Debido al alto coste, todavía son pocos los vehículos eléctricos que vienen equipados con él. Incluso las pruebas muestran que LiDAR es superior a otros sensores en algunos escenarios de conducción.
 
 {{< sitefiguresized thumb="technology/sensorsandcameras/lidar/crashtest_1_st.jpg" width="3000" height="2000" title="El auto de demostración equipado con lidar de Luminar supera a un sistema de solo cámara al detenerse para un muñeco de prueba en CES 2023" >}}
-
-{{< pagenavigation b_url="../radar/" b_title="Sensores de radar" f_url="../infrared/" f_title="Cámaras infrarrojas" >}}

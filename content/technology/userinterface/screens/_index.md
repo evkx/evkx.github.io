@@ -99,5 +99,3 @@ Examples:
 {{< sitefiguresized thumb="technology/userinterface/screens/eqslayout_1_st.jpg" width="3000" height="1687" title="Mercedes EQS-SUV Standard Screen Layout with Partially Integrated Screens" >}}
 
 {{< sitefiguresized thumb="technology/userinterface/screens/eqslayout_2_st.jpg" width="3000" height="1687" title="Mercedes EQS-SUV MBUX Hyperscreen Layout with Fully Integrated Screens" >}}
-
-{{< pagenavigation b_url="../" b_title="User Interface" f_url="../hud/" f_title="Head-up Display" >}}

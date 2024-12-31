@@ -91,5 +91,3 @@ Dessutom ser de flesta EVS bättre ut med sekretessglas.
 {{< sitefiguresized thumb="technology/windows/privacyglass_1_st.jpg" width="3000" height="2000" title="BMW i7 med sekretessglas" >}}
 
 {{< sitefiguresized thumb="technology/windows/privacyglass_2_st.jpg" width="3000" height="2000" title="Porsche Taycan Sport Turismo med sekretessglas" >}}
-
-{{< pagenavigation b_url="../userinterface/" b_title="Användargränssnitt" f_url="../../guides/" f_title="Guider" >}}

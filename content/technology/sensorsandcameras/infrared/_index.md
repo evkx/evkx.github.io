@@ -30,5 +30,3 @@ In cars, infrared cameras are usually mounted on the front of the vehicle and ar
 ### Conclusion
 
 Infrared cameras are an important safety feature in cars that help drivers detect obstacles on the road in low light or night-time conditions. However, they should not be relied upon as the sole means of detecting obstacles. Drivers should always use caution and other safety features to ensure safe driving.
-
-{{< pagenavigation b_url="../lidar/" b_title="LiDAR sensors" f_url="../ultrasonic/" f_title="Ultrasonic sensors" >}}

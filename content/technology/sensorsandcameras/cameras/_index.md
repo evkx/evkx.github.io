@@ -53,7 +53,3 @@ The cameras used in ADAS are typically high-resolution and utilize advanced imag
 Overall, cameras play a critical role in ADAS technologies, providing drivers with real-time information about the vehicle's surroundings. They are essential components of many ADAS features and will continue to be pivotal in developing fully autonomous driving systems.
 
 The video below from Veoneer shows some examples of camera use in cars.
-
-{{< youtube w9kDTFXVYuE >}}
-
-{{< pagenavigation b_url="../" b_title="Sensors & Cameras" f_url="../radar/" f_title="Radar sensors" >}}

@@ -92,5 +92,3 @@ Además, la mayoría de los EVS lucen mejor con vidrio de privacidad.
 {{< sitefiguresized thumb="technology/windows/privacyglass_1_st.jpg" width="3000" height="2000" title="BMW i7 con cristal de privacidad" >}}
 
 {{< sitefiguresized thumb="technology/windows/privacyglass_2_st.jpg" width="3000" height="2000" title="Porsche Taycan Sport Turismo con cristal de privacidad" >}}
-
-{{< pagenavigation b_url="../userinterface/" b_title="Interfaz de usuario" f_url="../../guides/" f_title="Guías" >}}

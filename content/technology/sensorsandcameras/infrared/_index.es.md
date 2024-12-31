@@ -19,5 +19,3 @@ Una de las principales ventajas de las cámaras infrarrojas es su capacidad para
 Sin embargo, las cámaras de infrarrojos también tienen algunas limitaciones. Pueden tener dificultades para detectar con precisión objetos que no emiten una cantidad significativa de calor, como vehículos estacionados u objetos estacionarios en la carretera. Además, pueden verse afectados por condiciones climáticas como lluvia intensa, niebla o nieve, que pueden interferir con las firmas de calor emitidas por los objetos.
 
 En general, las cámaras infrarrojas son una característica de seguridad importante en los automóviles que pueden ayudar a los conductores a detectar obstáculos en la carretera en condiciones de poca luz o de noche. Sin embargo, no se debe confiar en ellos como el único medio para detectar obstáculos, y los conductores siempre deben tener precaución y otras características de seguridad para garantizar una conducción segura.
-
-{{< pagenavigation b_url="../lidar/" b_title="Sensores LiDAR" f_url="../ultrasonic/" f_title="Sensores ultrasónicos" >}}
