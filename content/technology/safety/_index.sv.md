@@ -11,11 +11,11 @@ xsthumb: technology/safety/illustration_xst.jpg
 
 Krockkuddar är en kritisk säkerhetsfunktion i elfordon (EV), utformade för att skydda föraren och passagerarna i händelse av en kollision eller plötslig kollision.
 
-[Läs allt om krockkuddar.](krockkuddar/)
+[Läs allt om krockkuddar.](airbags/)
 
 
 ## Säkerhetsbälten
 
-[Läs allt om säkerhetsbälten.](säkerhetsbälten/)
+[Läs allt om säkerhetsbälten.](seatbelts/)
 
 {{< pagenavigation b_url="../regen/" b_title="Regenerativ bromsning" f_url="../seats/" f_title="Bilsäten" >}}
