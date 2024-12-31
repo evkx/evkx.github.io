@@ -51,5 +51,3 @@ Der [2022 Tesla Impact Report](https://www.tesla.com/ns_videos/2022-tesla-impact
 ## Wie man die Batterie schont
 
 Lesen Sie unseren [Leitfaden](../../../guides/protectingbattery/) darüber, wie Sie Ihre Batterie schonen können.
-
-{{< pagenavigation b_url="../charging/" b_title="Laden" f_url="../buffer/" f_title="Puffer" >}}

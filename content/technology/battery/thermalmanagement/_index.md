@@ -92,5 +92,3 @@ Battery cooling uses a liquid-based system that circulates a coolant through the
 {{< sitefiguresized thumb="technology/battery/thermalmanagment/batterycooling_1_st.jpg" width="3000" height="1808" title="Audi e-tron battery cooling circuits" >}}
 
 In [this 1000km test](https://youtu.be/Q0LaUx5I_28?t=412) by Bjørn Nyland, the BMW i50 has a problem with overheating after charging and reduced available power.
-
-{{< pagenavigation b_url="../batterymanagment/" b_title="Battery management" f_url="../cellbalancing/" f_title="Cell balancing" >}}

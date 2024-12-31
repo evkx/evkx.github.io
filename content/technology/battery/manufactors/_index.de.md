@@ -43,5 +43,3 @@ Im folgenden Video gibt Ihnen Elliot Richard von der Fully Charged Show eine Fü
 {{< youtube j1jWp9WxGLM >}}
 
 [Für eine vollständige Liste der Zellhersteller siehe Batterydesign.net](https://www.batterydesign.net/battery-cell/cell-manufacturers/)
-
-{{< pagenavigation b_url="../buffer/" b_title="Puffer" f_url="../warranty/" f_title="Garantie" >}}

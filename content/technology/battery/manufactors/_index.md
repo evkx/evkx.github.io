@@ -43,5 +43,3 @@ In the video below, Elliot Richard from the Fully Charged show gives you a tour 
 {{< youtube j1jWp9WxGLM >}}
 
 [For a full list of cell producers, see Batterydesign.net](https://www.batterydesign.net/battery-cell/cell-manufacturers/)
-
-{{< pagenavigation b_url="../buffer/" b_title="Buffer" f_url="../warranty/" f_title="Warranty" >}}

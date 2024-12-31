@@ -80,5 +80,3 @@ Die Garantie kann auch das Alter der Batterie berücksichtigen. Beispielsweise k
 </table>
 
 Es ist wichtig zu beachten, dass die spezifischen Bedingungen der Garantie je nach Hersteller stark variieren können. Daher ist es immer eine gute Idee, die Garantieinformationen sorgfältig zu überprüfen, bevor man ein EV kauft.
-
-{{< pagenavigation b_url="../manufactors/" b_title="Hersteller" f_url="../../platforms/" f_title="EV-Plattformen" >}}

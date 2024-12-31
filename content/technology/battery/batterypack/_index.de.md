@@ -343,5 +343,3 @@ Die folgende Tabelle zeigt, wie sich die Packdichte im Laufe der Zeit zwischen e
 </table>
 
 Für weitere Details zu Batteriepaketen empfehlen wir den Besuch von [BatteryDesign.net](https://www.batterydesign.net/maximising-pack-energy-density/).
-
-{{< pagenavigation b_url="../cell/" b_title="Zellgehäuse" f_url="../batterymanagment/" f_title="Batteriemanagement" >}}

@@ -93,5 +93,3 @@ Blade batteries are a type of lithium-ion battery that use a unique "blade" desi
 - **Safety**: Use of a ceramic separator between the anode and cathode layers provides better protection against internal short circuits and thermal runaway.
 
 Blade batteries are primarily produced by the Chinese battery manufacturer BYD.
-
-{{< pagenavigation b_url="../cellchemistry/" b_title="Cell chemistry & parts" f_url="../batterypack/" f_title="Battery pack & configuration" >}}

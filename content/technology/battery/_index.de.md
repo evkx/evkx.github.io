@@ -32,5 +32,3 @@ Um Ihnen das Lesen zu erleichtern, haben wir den Artikel in die folgenden Abschn
 - [Puffer](buffer/) - Das Konzept des Batterie-Puffers und seine Bedeutung
 - [Hersteller](manufactors/) - Profile der größten Batterieproduzenten der Branche
 - [Garantie](warranty/) - Typische Batteriegarantien und was sie abdecken
-
-{{< pagenavigation b_url="../doors/" b_title="Türen" f_url="basic/" f_title="Batteriegrundlagen" >}}

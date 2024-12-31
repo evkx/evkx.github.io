@@ -51,5 +51,3 @@ Pickup trucks offer the ability to carry various types of cargo.
 Electric vehicles (EVs) are becoming more popular and practical for various purposes, including towing. However, many people have questions or concerns about EVs’ performance and range when towing a trailer.
 
 [Read more in our towing section.](towing/)
-
-{{< pagenavigation b_url="../brakes/" b_title="Brakes" f_url="interiorcargo/" f_title="Interior Cargo" >}}

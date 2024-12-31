@@ -371,5 +371,3 @@ Følgende tabel viser, hvordan pakningsdensiteten har varieret over tid mellem n
 </table>
 
 Hvis du ønsker at få detaljerne om flere pakker, anbefaler vi <a href="https://www.batterydesign.net/maximising-pack-energy-density/">BatteryDesign.net</a>
-
-{{< pagenavigation b_url="../cell/" b_title="Celle format" f_url="../batterymanagment/" f_title="Batteristyring" >}}

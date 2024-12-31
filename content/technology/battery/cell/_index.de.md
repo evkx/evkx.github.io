@@ -93,5 +93,3 @@ Blade-Batterien sind eine Art von Lithium-Ionen-Batterien, die ein einzigartiges
 - **Sicherheit**: Die Verwendung eines Keramikseparators zwischen den Anoden- und Kathodenschichten bietet besseren Schutz gegen interne Kurzschlüsse und thermisches Durchgehen.
 
 Blade-Batterien werden hauptsächlich vom chinesischen Batteriehersteller BYD produziert.
-
-{{< pagenavigation b_url="../cellchemistry/" b_title="Zellchemie & Teile" f_url="../batterypack/" f_title="Batteriepack & Konfiguration" >}}

@@ -15,5 +15,3 @@ I dette eksempelet er den øverste gruppen av celler 100% ladet, og ladeprosedyr
 {{<evkxdisplayaddarticle />}}
 
 Batterireguleringsenheten sammenligner spenningene til cellegruppene. Hvis noen cellegrupper har høyere spenning, mottar den ansvarlige batterimodulens kontrollenhet balanseringsinformasjonen. Balansering utføres når spenningsforskjeller større enn omtrent 1% oppstår under lading. Etter at tenningen er slått av, sjekker batterireguleringsenheten om balansering er nødvendig og utløser det hvis nødvendig. Vanligvis utføres balansering ved ladingsnivåer over 30%.
-
-{{< pagenavigation b_url="../thermalmanagement/" b_title="Termisk styring" f_url="../charging/" f_title="Lading" >}}

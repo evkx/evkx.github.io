@@ -32,5 +32,3 @@ To facilitate your reading, we have divided the article into the following secti
 - [Buffer](buffer/) - The concept of battery buffer and its significance
 - [Manufacturers](manufactors/) - Profiles of the largest battery producers in the industry
 - [Warranty](warranty/) - Typical battery warranties and what they cover
-
-{{< pagenavigation b_url="../doors/" b_title="Doors" f_url="basic/" f_title="Battery Basics" >}}

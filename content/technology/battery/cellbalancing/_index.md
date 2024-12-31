@@ -15,5 +15,3 @@ In this example, the top group of cells is 100% charged, and the charging proced
 {{<evkxdisplayaddarticle />}}
 
 The battery regulation control unit compares the voltages of the cell groups. If some cell groups have a higher voltage, the responsible battery module control unit receives the balancing information. Balancing is performed when voltage differences greater than approximately 1% occur during charging. After the ignition is switched off, the battery regulation control unit checks if balancing is necessary and triggers it if needed. Typically, balancing is performed at charge levels greater than 30%.
-
-{{< pagenavigation b_url="../thermalmanagement/" b_title="Thermal Management" f_url="../charging/" f_title="Charging" >}}

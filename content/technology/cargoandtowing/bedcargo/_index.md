@@ -41,5 +41,3 @@ EV pickup truck beds offer easier access and loading compared to trunks, frunks,
 ### Less Impact and Hassle
 
 EV pickup truck beds can reduce the weight and drag of the cargo, lowering energy consumption and range reduction. They also avoid some problems associated with roof racks or trailers, such as damage, theft, noise, or instability of items. Additionally, they eliminate the difficulty, danger, or legality issues related to driving, parking, or maneuvering with a roof rack or trailer.
-
-{{< pagenavigation b_url="../roofcargo/" b_title="Hitch Cargo" f_url="../towing/" f_title="Towing" >}}

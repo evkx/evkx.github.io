@@ -134,5 +134,3 @@ The design and materials of the current collector significantly impact the batte
 In the video below, Battery Scientist & Engineer [Jill Pestana](https://www.linkedin.com/in/jillpestana/) from the YouTube channel [Across the Nanoverse](https://www.youtube.com/@AcrosstheNanoverse) explains the different battery parts using food.
 
 {{< youtube yyp-GydAHfM >}}
-
-{{< pagenavigation b_url="../basic/" b_title="Battery Basics" f_url="../cell/" f_title="Cell Housing" >}}

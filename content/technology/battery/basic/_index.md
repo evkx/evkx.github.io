@@ -39,5 +39,3 @@ In an electric vehicle (EV), this potential difference can be harnessed by creat
 For those interested in a deeper understanding of how a lithium-ion battery functions, we highly recommend watching this insightful video from The Limiting Factor.
 
 {{< youtube 4-1psMHSpKs >}}
-
-{{< pagenavigation b_url="../" b_title="EV Batteries Intro" f_url="../cellchemistry/" f_title="Cell Chemistry and Parts" >}}

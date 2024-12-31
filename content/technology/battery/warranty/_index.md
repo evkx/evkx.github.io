@@ -81,4 +81,3 @@ The warranty may also consider the age of the battery. For instance, a manufactu
 
 It's important to note that the specific terms of the warranty can vary widely between manufacturers, so it's always a good idea to carefully review the warranty information before purchasing an EV.
 
-{{< pagenavigation b_url="../manufactors/" b_title="Manufactors" f_url="../../platforms/" f_title="EV Platforms" >}}

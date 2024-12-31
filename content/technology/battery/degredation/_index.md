@@ -54,5 +54,3 @@ New Geotab data highlights how EV batteries can last 20 years or more</a>
 ## How to Preserve Battery
 
 Read our [guide](../../../guides/protectingbattery/) on how to preserve your battery.
-
-{{< pagenavigation b_url="../charging/" b_title="Charging" f_url="../buffer/" f_title="Buffer" >}}

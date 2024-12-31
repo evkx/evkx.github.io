@@ -134,5 +134,3 @@ Das Design und die Materialien des Stromabnehmers haben einen erheblichen Einflu
 Im folgenden Video erklärt die Batterie-Wissenschaftlerin und Ingenieurin [Jill Pestana](https://www.linkedin.com/in/jillpestana/) vom YouTube-Kanal [Across the Nanoverse](https://www.youtube.com/@AcrosstheNanoverse) die verschiedenen Batterieteile anhand von Lebensmitteln.
 
 {{< youtube yyp-GydAHfM >}}
-
-{{< pagenavigation b_url="../basic/" b_title="Batteriegrundlagen" f_url="../cell/" f_title="Zellgehäuse" >}}

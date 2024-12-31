@@ -123,5 +123,3 @@ However, brake-by-wire technology also comes with some potential challenges. One
 In summary, brake-by-wire technology is an advanced system that allows for seamless integration of regenerative and friction braking in EVs. It offers improved energy efficiency, driving range, and advanced braking features, but also requires careful consideration of reliability, safety, and driver education. As technology continues to evolve, brake-by-wire systems are expected to play a significant role in the future of EV braking systems, contributing to more efficient and sustainable transportation.
 
 In our EVKX database, you can search for models with different types of brakes.
-
-{{< pagenavigation b_url="../driverassistance/" b_title="Advanced driver-assistance systems (ADAS)" f_url="../cargoandtowing/" f_title="Cargo & towing capabilities " >}}

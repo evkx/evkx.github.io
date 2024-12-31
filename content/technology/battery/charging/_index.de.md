@@ -107,5 +107,3 @@ Die folgenden sind einige Beispiele für EVs mit unterschiedlichen Ladeleistunge
 Bei längeren Fahrten kann die Ladekurve den optimalen Ladestopp beeinflussen. Zum Beispiel würde eine flachere Kurve denen zugutekommen, die längere Stopps bevorzugen, während eine Kurve mit hohen Spitzenwerten kurze Stopps begünstigt, und Sie laden im Bereich der Spitzenwerte.
 
 Für alle Modelle berechnet EVKX dies für Sie auf der Modell-Infoseite.
-
-{{< pagenavigation b_url="../cellbalancing/" b_title="Zellenausgleich" f_url="../degredation/" f_title="Degradation" >}}

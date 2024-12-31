@@ -343,5 +343,3 @@ The following table shows how pack density has varied over time between some exa
 
 For more details about battery packs, we recommend visiting [BatteryDesign.net](https://www.batterydesign.net/maximising-pack-energy-density/).
 
-{{< pagenavigation b_url="../cell/" b_title="Cell Housing" f_url="../batterymanagment/" f_title="Battery management" >}}
-

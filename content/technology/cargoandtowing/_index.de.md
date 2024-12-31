@@ -51,5 +51,3 @@ Pickup-Trucks bieten die Möglichkeit, verschiedene Arten von Fracht zu transpor
 Elektrofahrzeuge (EVs) werden immer beliebter und praktischer für verschiedene Zwecke, einschließlich des Abschleppens. Viele Menschen haben jedoch Fragen oder Bedenken hinsichtlich der Leistung und Reichweite von EVs beim Abschleppen eines Anhängers.
 
 [Lesen Sie mehr in unserem Abschnitt über das Abschleppen.](towing/)
-
-{{< pagenavigation b_url="../brakes/" b_title="Bremsen" f_url="interiorcargo/" f_title="Innenraum-Laderaum" >}}

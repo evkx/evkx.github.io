@@ -108,4 +108,3 @@ On longer trips, the charging curve may affect the optimum charging stop. For ex
 
 For all models, EVKX calculates this for you on the model info page.
 
-{{< pagenavigation b_url="../cellbalancing/" b_title="Cell Balancing" f_url="../degredation/" f_title="Degradation" >}}

@@ -36,4 +36,3 @@ The BMS monitors the SOH of the battery by analyzing its performance and degrada
 
 {{< sitefiguresized thumb="technology/battery/batterymanagement/batterymanagement1_st.jpg" width="2000" height="1186" title="Battery management electronics for Audi e-tron battery pack" >}}
 
-{{< pagenavigation b_url="../batterypack/" b_title="Battery Pack & Configuration" f_url="../thermalmanagement/" f_title="Thermal Management" >}}

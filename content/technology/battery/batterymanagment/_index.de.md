@@ -35,5 +35,3 @@ Das BMS überwacht die Temperatur der Batterie und steuert die Kühl- und Heizsy
 Das BMS überwacht den SOH der Batterie, indem es deren Leistung und Degradation im Laufe der Zeit analysiert. Es gibt Warnungen und Alarme aus, wenn die Gesundheit der Batterie beeinträchtigt ist, und empfiehlt Wartung oder Austausch, wenn nötig.
 
 {{< sitefiguresized thumb="technology/battery/batterymanagement/batterymanagement1_st.jpg" width="2000" height="1186" title="Batteriemanagement-Elektronik für das Audi e-tron Batteriepack" >}}
-
-{{< pagenavigation b_url="../batterypack/" b_title="Batteriepack & Konfiguration" f_url="../thermalmanagement/" f_title="Thermomanagement" >}}

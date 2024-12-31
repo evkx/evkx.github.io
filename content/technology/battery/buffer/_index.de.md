@@ -84,5 +84,3 @@ Einige Testergebnisse:
 </table>
 
 Siehe Bjørns Testergebnisse für <a href="https://docs.google.com/spreadsheets/d/1V6ucyFGKWuSQzvI8lMzvvWJHrBS82echMVJH37kwgjE/edit#gid=52159941" target="_blank">weitere Daten</a> oder alle seine <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank">Zero Miles Tests</a>.
-
-{{< pagenavigation b_url="../charging/" b_title="Batteriedegradation" f_url="../manufactors/" f_title="Hersteller" >}}

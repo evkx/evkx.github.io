@@ -92,5 +92,3 @@ Die Batteriekühlung verwendet ein flüssigkeitsbasiertes System, das ein Kühlm
 {{< sitefiguresized thumb="technology/battery/thermalmanagment/batterycooling_1_st.jpg" width="3000" height="1808" title="Audi e-tron Batteriekühlkreise" >}}
 
 In [diesem 1000km Test](https://youtu.be/Q0LaUx5I_28?t=412) von Bjørn Nyland hat der BMW i50 ein Problem mit Überhitzung nach dem Laden und reduzierter verfügbarer Leistung.
-
-{{< pagenavigation b_url="../batterymanagment/" b_title="Batteriemanagement" f_url="../cellbalancing/" f_title="Zellenausgleich" >}}

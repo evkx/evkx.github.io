@@ -39,5 +39,3 @@ In einem Elektrofahrzeug (EV) kann diese Potentialdifferenz genutzt werden, inde
 Für diejenigen, die ein tieferes Verständnis dafür gewinnen möchten, wie eine Lithium-Ionen-Batterie funktioniert, empfehlen wir dringend, dieses aufschlussreiche Video von The Limiting Factor anzusehen.
 
 {{< youtube 4-1psMHSpKs >}}
-
-{{< pagenavigation b_url="../" b_title="Einführung in EV-Batterien" f_url="../cellchemistry/" f_title="Zellchemie und Teile" >}}
