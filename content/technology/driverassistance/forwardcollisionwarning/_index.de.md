@@ -39,5 +39,3 @@ FCW-Systeme sind darauf ausgelegt, Fahrern zu helfen, Frontalzusammenstöße zu 
 Hersteller können unterschiedliche Namen für ihre FCW-Systeme verwenden:
 
 - **Pre Sense:** Audi
-
-{{< pagenavigation b_url="../exitwarning/" b_title="Aussteigewarnung" f_url="../frontcrosstrafficassist/" f_title="Front Cross Traffic Assist" >}}

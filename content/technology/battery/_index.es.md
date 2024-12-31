@@ -30,8 +30,3 @@ Hemos dividido el artículo en secciones separadas.
 - [Buffer](buffer/) - Comprender el buffer
 - [Fabricantes](manufactors/) - ¿Cuáles son los mayores productores de baterías?
 - [Garantía](warranty/) - ¿Qué tipo de garantía de batería es típica?
-
-<div class="mt-3 mb-3">
-     <a href="../doors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Puertas</strong></a>
-     <a href="basic/" class="text-decoration-none text-black float-end"><strong>Conceptos básicos sobre la batería <i class="bi-arrow-right"></i></strong></a>
-</div>

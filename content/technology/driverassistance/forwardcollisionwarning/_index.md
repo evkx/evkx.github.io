@@ -39,5 +39,3 @@ FCW systems are designed to help drivers avoid or reduce the severity of frontal
 Manufacturers may use different names for their FCW systems:
 
 - **Pre Sense:** Audi
-
-{{< pagenavigation b_url="../exitwarning/" b_title="Exit Warning" f_url="../frontcrosstrafficassist/" f_title="Front Cross Traffic Assist" >}}

@@ -65,5 +65,3 @@ Le système de navigation peut aider les conducteurs à tirer le meilleur parti 
 ### Commande vocale et intégration
 
 Le système de navigation peut être contrôlé par commandes vocales pour permettre aux conducteurs de garder les yeux sur la route et les mains sur le volant. Le système de navigation peut également être intégré à d'autres fonctionnalités du véhicule, telles que la climatisation, le système de divertissement ou l'assistant numérique.
-
-{{< pagenavigation b_url="../audiosystem/" b_title="Système audio" f_url="../smartphoneintegration/" f_title="Intégration smartphone" >}}

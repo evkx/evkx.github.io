@@ -31,5 +31,3 @@ ESC uses sensors and algorithms to monitor key parameters such as vehicle speed,
 - **Automatic Intervention:** Provides automatic assistance without requiring driver input.
 
 The specific implementation of ESC can vary between different vehicles and manufacturers, but the primary goal remains the same: to enhance vehicle stability and safety in challenging driving conditions.
-
-{{< pagenavigation b_url="../efficencyassist/" b_title="Efficiency Assist" f_url="../exitwarning/" f_title="Exit Warning" >}}

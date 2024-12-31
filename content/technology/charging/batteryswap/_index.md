@@ -32,5 +32,3 @@ The drawbacks of battery swapping include:
 See the review of the system from Bjørn Nyland below.
 
 {{< youtube VmWL1hZQmD0 >}}
-
-{{< pagenavigation b_url="../dcfastcharging/" b_title="DC Fast Charging" f_url="../bidirectional/" f_title="Bidirectional Charging" >}}

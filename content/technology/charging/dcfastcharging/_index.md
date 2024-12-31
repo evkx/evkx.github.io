@@ -91,5 +91,3 @@ Several major charging networks operate in Europe. Some of the largest include:
 - Plugsurfing: A European-wide network that offers access to over 200,000 chargers, including those from Allego, EnBW, Eon, Innogy, IONITY, and Vattenfall, using a key or card and a free smartphone app.
 
 - Maingau: Through its EinfachStromLaden app, charging chip, or card, Maingau provides access to 50,000 charging points in Germany, Austria, and Switzerland.
-
-{{< pagenavigation b_url="../homecharging/" b_title="Home Charging" f_url="../batteryswap/" f_title="Battery Swapping" >}}

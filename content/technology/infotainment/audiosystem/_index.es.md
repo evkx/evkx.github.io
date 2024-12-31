@@ -80,5 +80,3 @@ Los ecualizadores te permiten ajustar el equilibrio de diferentes frecuencias en
 El cableado del sistema de audio de un automóvil es crucial para lograr la mejor calidad de sonido. El cableado de alta calidad puede minimizar la pérdida de señal y el ruido, lo que resulta en un sonido más claro. Es esencial utilizar el calibre de cable correcto para cada componente y todas las conexiones deben estar seguras y aisladas adecuadamente.
 
 {{<evkxdisplayaddarticle />}}
-
-{{< pagenavigation b_url="../" b_title="Sistema de infoentretenimiento" f_url="../navigation/" f_title="Navegación" >}}

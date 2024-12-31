@@ -115,5 +115,3 @@ Politiken und Vorschriften werden erstellt und reformiert, um bidirektionales La
 ### Innovation und Integration
 
 Neue Technologien und Lösungen werden entwickelt, um die Effizienz, Zuverlässigkeit und Sicherheit des bidirektionalen Ladens zu verbessern. Zum Beispiel können intelligente Zähler und intelligente Netze den bidirektionalen Stromfluss überwachen und verwalten, und fortschrittliche Batteriemanagementsysteme können das bidirektionale Laden optimieren und die Degradation minimieren. Neue Geschäftsmodelle und Plattformen, wie Blockchain oder künstliche Intelligenz, können den Peer-to-Peer-Energiehandel oder die Aggregation mit anderen EVs oder Lasten ermöglichen.
-
-{{< pagenavigation b_url="../batteryswap/" b_title="Batteriewechsel" f_url="../../hvac/" f_title="Klimasystem" >}}

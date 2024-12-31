@@ -33,5 +33,3 @@ Einige ABS-Systeme können auch andere Funktionen beinhalten, wie zum Beispiel:
 - **Verkürzt den Bremsweg:** Optimiert die Bremskraft, um den Bremsweg zu verkürzen.
 
 Insgesamt ist ABS eine äußerst effektive Sicherheitsfunktion, die dazu beitragen kann, Unfälle zu verhindern und die Fahrzeugkontrolle während Notbremsungen zu verbessern.
-
-{{< pagenavigation b_url="../adaptivecruisecontrol/" b_title="Adaptive Geschwindigkeitsregelung" f_url="../automatedlanechange/" f_title="Automatischer Spurwechsel" >}}

@@ -58,5 +58,3 @@ Die Society of Automotive Engineers ([SAE](https://www.sae.org/)) definiert sech
 Die meisten Fahrzeuge auf dem Markt heute fallen in die Stufen 1-2 der Autonomie, während die Stufen 3-5 noch in der Entwicklungs- und Testphase sind. Selbst Fahrzeuge mit höheren Autonomiestufen können in bestimmten Situationen immer noch ein gewisses Maß an menschlicher Aufsicht und Eingreifen erfordern.
 
 Derzeit ist nur der [Mercedes EQS](../../models/mercedes/eqs/) in einigen Märkten für die Stufe 3 der Autonomie zugelassen.
-
-{{< pagenavigation b_url="../" b_title="EV-Technologie" f_url="adaptivecruisecontrol/" f_title="Adaptive Geschwindigkeitsregelung" >}}

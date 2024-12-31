@@ -61,5 +61,3 @@ Die Software des Infotainmentsystems ist entscheidend für die Benutzererfahrung
 ## Infotainmentsystem-Bildschirme
 
 Infotainmentsysteme sind typischerweise auf einem oder mehreren Bildschirmen verfügbar. Lesen Sie unseren [detaillierten Artikel über Bildschirme](../userinterface/screens/), um mehr zu erfahren.
-
-{{< pagenavigation b_url="../glassroof/" b_title="Glasdach" f_url="audiosystem/" f_title="Audiosystem" >}}

@@ -37,5 +37,3 @@ The Exit Warning system can vary depending on the car model and the type of sens
 Exit Warning is a valuable safety feature that helps prevent accidents and enhances overall safety for drivers and passengers. By providing a warning before the door is opened, it can help avoid collisions with other vehicles or cyclists, especially in urban areas with heavy traffic and limited visibility.
 
 {{< sitefiguresized thumb="technology/driverassistance/exitwarning/illustration2_st.jpg" width="3000" height="2000" title="Exit Warning Mercedes" >}}
-
-{{< pagenavigation b_url="../electronicstabilitycontrol/" b_title="Electronic Stability Control (ESC)" f_url="../forwardcollisionwarning/" f_title="Forward Collision Warning" >}}

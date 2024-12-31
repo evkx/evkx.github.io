@@ -101,5 +101,3 @@ In this example, the IONIQ 6 disables lane centering assist when it does not rec
 In this example, the Mercedes EQS stops the car in its lane when the driver is unresponsive, demonstrating a reliable DMS.
 
 {{< youtube2 J440442rpMI 969 >}}
-
-{{< pagenavigation b_url="../driverdrowsinessdetection/" b_title="Driver Drowsiness Detection (DDD)" f_url="../efficencyassist/" f_title="Efficiency Assist" >}}

@@ -211,5 +211,3 @@ Unten ist ein Bewertungsvideo der besten Ladestationen für 2023 (erstellt, bevo
 Sehen Sie sich das folgende Video für UK-spezifische Informationen zur Installation eines Heimladegeräts an.
 
 {{< youtube VCx_1Afh3iw >}}
-
-{{< pagenavigation b_url="../connectors/" b_title="Ladestecker" f_url="../dcfastcharging/" f_title="DC-Schnellladen" >}}

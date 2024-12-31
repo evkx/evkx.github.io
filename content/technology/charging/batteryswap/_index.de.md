@@ -32,5 +32,3 @@ Die Nachteile des Batteriewechsels umfassen:
 Sehen Sie sich die Bewertung des Systems von Bjørn Nyland unten an.
 
 {{< youtube VmWL1hZQmD0 >}}
-
-{{< pagenavigation b_url="../dcfastcharging/" b_title="DC-Schnellladen" f_url="../bidirectional/" f_title="Bidirektionales Laden" >}}

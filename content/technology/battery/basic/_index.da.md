@@ -41,8 +41,3 @@ Strømaftagerne fungerer som en elektrisk leder mellem elektroden og eksterne kr
 Hvis du vil gå til det næste niveau, skal du forstå, hvordan et lithium-ion-batteri fungerer. Se denne virkelig fantastiske video fra Limiting Factor.
 
 {{< youtube 4-1psMHSpKs >}}
-
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Introduktion til elbilbatteri </strong></a >
-     <a href="../cellchemistry/" class="text-decoration-none text-black float-end"><strong>Cellekemi og dele <i class="bi-arrow-right"></i> </strong></a>
-</div>

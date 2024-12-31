@@ -66,5 +66,3 @@ Navigasjonssystemet kan hjelpe sjåfører med å få mest mulig ut av tiden mens
 ### Stemmekontroll og integrering
 
 Navigasjonssystemet kan styres med talekommandoer slik at sjåførene kan holde øynene på veien og hendene på rattet. Navigasjonssystemet kan også integreres med andre kjøretøyfunksjoner, for eksempel klimakontroll, underholdningssystem eller digital assistent.
-
-{{< pagenavigation b_url="../audiosystem/" b_title="Lydanlegg" f_url="../smartphoneintegration/" f_title="Smarttelefonintegrasjon" >}}

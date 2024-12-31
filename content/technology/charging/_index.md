@@ -57,5 +57,3 @@ Battery swapping is a method of charging EVs that involves replacing the deplete
 Read all about [battery swapping](batteryswap).
 
 {{< sitefiguresized thumb="technology/charging/batteryswap/powerswap_1_st.jpg" width="3000" height="1687" title="Nio Power Battery swap station" >}}
-
-{{< pagenavigation b_url="../cargoandtowing/" b_title="Cargo & towing capabilities" f_url="connectors/" f_title="Charging Connectors" >}}

@@ -30,5 +30,3 @@ The following video demonstrates how the ALC system works in a Mercedes-Benz veh
 - **Driver Attention:** ALC systems are not capable of handling all driving scenarios. The driver must remain attentive and ready to take control of the vehicle at any time.
 - **Limitations:** The system may require the driver to take control in certain situations, such as poor road conditions or unexpected obstacles.
 - **Not a Replacement:** ALC systems are designed to assist the driver, not replace them. The driver is still responsible for the safe operation of the vehicle.
-
-{{< pagenavigation b_url="../antilockbrakingsystem/" b_title="Anti-lock Braking System" f_url="../automaticemergencybraking/" f_title="Autonomous Emergency Braking" >}}

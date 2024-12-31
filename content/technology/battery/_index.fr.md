@@ -29,8 +29,3 @@ Nous avons divisé l'article en sections distinctes.
 - [Buffer](buffer/) - Comprendre le tampon
 - [Fabricants](fabricants/) - Quels sont les plus grands producteurs de batteries ?
 - [Garantie](garantie/) - Quel type de garantie de batterie est typique ?
-
-<div class="mt-3 mb-3">
-     <a href="../doors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Portes</strong></a>
-     <a href="basic/" class="text-decoration-none text-black float-end"><strong>Bases de la batterie <i class="bi-arrow-right"></i></strong></a>
-</div>

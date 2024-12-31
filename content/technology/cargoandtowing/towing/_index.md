@@ -106,5 +106,3 @@ For a full overview of the different categories worldwide, visit [TransportPolic
 See the complete list in the EVKX EV Database [here](../../../evsearch/?sortOrder=MaxTrailerSizeDesc).
 
 {{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_4_st.jpg" title="Nio ES8 with roof cargo and trailer" width="2560" height="1280">}}
-
-{{< pagenavigation b_url="../bedcargo/" b_title="Pickup bed cargo" f_url="../../charging/" f_title="Charging" >}}

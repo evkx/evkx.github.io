@@ -62,5 +62,3 @@ D'autres, comme Polestar et Volvo, basent leur système sur [Android Automotive]
 ## Écrans d'infodivertissement
 
 Les systèmes d'infodivertissement sont généralement disponibles sur un ou plusieurs écrans. Arrière ou [article écran détaillé](../userinterface/screens/) pour en savoir plus.
-
-{{< pagenavigation b_url="../glassroof/" b_title="Toit en panneaux de verre" f_url="audiosystem/" f_title="Système audio" >}}

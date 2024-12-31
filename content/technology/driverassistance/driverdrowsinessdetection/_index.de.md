@@ -36,5 +36,3 @@ Die Fahrer-Müdigkeitserkennung ist eine wichtige Sicherheitsfunktion, die helfe
 Hersteller verwenden unterschiedliche Namen für ihre DDD-Systeme, wie zum Beispiel:
 
 - Attention Assist ([Mercedes-Benz](../../../models/mercedes/))
-
-{{< pagenavigation b_url="../collisionavoidancesystems/" b_title="Kollisionsvermeidungssysteme (CAS)" f_url="../drivermonitoringsystem/" f_title="Fahrerüberwachungssystem (DMS)" >}}

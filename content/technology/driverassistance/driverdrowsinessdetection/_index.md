@@ -36,5 +36,3 @@ Driver Drowsiness Detection is a crucial safety feature that can help prevent ac
 Manufacturers use different names for their DDD systems, such as:
 
 - Attention Assist ([Mercedes-Benz](../../../models/mercedes/))
-
-{{< pagenavigation b_url="../collisionavoidancesystems/" b_title="Collision Avoidance Systems (CAS)" f_url="../drivermonitoringsystem/" f_title="Driver Monitoring System (DMS)" >}}

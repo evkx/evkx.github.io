@@ -30,5 +30,3 @@ Das folgende Video zeigt, wie das ALC-System in einem Mercedes-Benz Fahrzeug fun
 - **Aufmerksamkeit des Fahrers:** ALC-Systeme sind nicht in der Lage, alle Fahrszenarien zu bewältigen. Der Fahrer muss aufmerksam bleiben und jederzeit bereit sein, die Kontrolle über das Fahrzeug zu übernehmen.
 - **Einschränkungen:** Das System kann den Fahrer in bestimmten Situationen, wie schlechten Straßenverhältnissen oder unerwarteten Hindernissen, auffordern, die Kontrolle zu übernehmen.
 - **Kein Ersatz:** ALC-Systeme sind dazu gedacht, den Fahrer zu unterstützen, nicht ihn zu ersetzen. Der Fahrer ist weiterhin für den sicheren Betrieb des Fahrzeugs verantwortlich.
-
-{{< pagenavigation b_url="../antilockbrakingsystem/" b_title="Antiblockiersystem" f_url="../automaticemergencybraking/" f_title="Autonome Notbremsung" >}}

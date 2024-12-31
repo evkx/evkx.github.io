@@ -25,8 +25,3 @@ I en EV spiller BMS en afgørende rolle for at sikre optimal ydeevne og levetid 
 **Sundhedsovervågning (SOH):** BMS overvåger batteriets SOH ved at analysere dets ydeevne og nedbrydning over tid. Den giver advarsler og advarsler, når batteriets sundhed er kompromitteret, og anbefaler vedligeholdelse eller udskiftning, når det er nødvendigt.
 
 {{< sitefiguresized thumb="technology/battery/batterymanagement/batterymanagement1_st.jpg" width="2000" height="1186" title="Batteristyringselektronik til Audi e-tron batteripakke" >}}
-
-<div class="mt-3 mb-3">
-     <a href="../batterypack/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Batteripakke og konfiguration</strong></a>
-     <a href="../thermalmanagement/" class="text-decoration-none text-black float-end"><strong>Termisk styring <i class="bi-arrow-right"></i></strong></a>
-</div>

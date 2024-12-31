@@ -27,5 +27,3 @@ Die angezeigten Informationen können die Art des Zeichens, seine Bedeutung und 
 Die Verkehrszeichenerkennung kann Fahrern helfen, sich der Straßenbedingungen und Vorschriften bewusst zu bleiben, insbesondere beim Fahren in unbekannten Gebieten oder bei schlechter Sicht. Es ist jedoch wichtig zu beachten, dass TSR nicht unfehlbar ist und manchmal bestimmte Zeichen falsch interpretieren oder nicht erkennen kann. Daher sollte es nicht ausschließlich darauf vertraut werden. Fahrer sollten immer auf Verkehrszeichen achten und diese entsprechend befolgen.
 
 {{<evkxdisplayaddarticle />}}
-
-{{< pagenavigation b_url="../rearcrosstrafficalert/" b_title="Querverkehrswarner hinten" f_url="../../brakes/" f_title="Bremsen" >}}

@@ -58,5 +58,3 @@ The Society of Automotive Engineers ([SAE](https://www.sae.org/)) defines six le
 Most vehicles on the market today fall into levels 1-2 of autonomy, while levels 3-5 are still in development and testing phases. Even vehicles with higher levels of autonomy may still require some level of human oversight and intervention in certain situations.
 
 Currently, only the [Mercedes EQS](../../models/mercedes/eqs/) is approved for Level 3 autonomy in some markets.
-
-{{< pagenavigation b_url="../" b_title="EV Technology" f_url="adaptivecruisecontrol/" f_title="Adaptive Cruise Control" >}}

@@ -140,5 +140,3 @@ Så hvor mye påvirker det rekkevidden.
     </tr>
 </tbody>
 </table>
-
-{{< pagenavigation b_url="../chargement/" b_title="Lading" f_url="../doors/" f_title="Dører" >}}

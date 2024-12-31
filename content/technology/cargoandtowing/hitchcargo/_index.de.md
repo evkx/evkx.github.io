@@ -71,5 +71,3 @@ Anhängerkupplung-Laderäume können die Sichtbarkeit und das Bewusstsein des Fa
 Im Vergleich zu einer Box auf dem Dach kann eine Anhängerkupplungsbox die Effizienz erhöhen, da sie die Aerodynamik oder den Luftwiderstand des Fahrzeugs nicht beeinträchtigt. Im folgenden Video vergleicht der EV-Guru Bjørn Nyland den Energieverbrauch zwischen einer Dachbox und einer Anhängerkupplungsbox.
 
 {{< youtube N6oZ2id7YhY >}}
-
-{{< pagenavigation b_url="../roofcargo/" b_title="Dach-Laderaum" f_url="../bedcargo/" f_title="Ladefläche" >}}

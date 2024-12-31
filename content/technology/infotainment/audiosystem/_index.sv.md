@@ -79,5 +79,3 @@ Equalizers låter dig justera balansen mellan olika frekvenser i din musik. De k
 Kabeldragningen till ett bilstereosystem är avgörande för att uppnå bästa ljudkvalitet. Kablage av hög kvalitet kan minimera signalförluster och brus, vilket resulterar i klarare ljud. Det är viktigt att använda rätt kabelmått för varje komponent och alla anslutningar ska vara säkra och ordentligt isolerade.
 
 {{<evkxdisplayaddarticle />}}
-
-{{< pagenavigation b_url="../" b_title="Infotainmentsystem" f_url="../navigation/" f_title="Navigationssystem" >}}

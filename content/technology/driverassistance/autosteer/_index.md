@@ -47,5 +47,3 @@ Manufacturers may use different names for their Autosteer systems, including:
 {{<evkxdisplayaddarticle />}}
 
 It's important to note that the exact features and capabilities of each manufacturer's Autosteer system may vary. Drivers should always consult their vehicle's owner's manual and familiarize themselves with the specific features and limitations of their system.
-
-{{< pagenavigation b_url="../automaticparking/" b_title="Automatic Parking Assist" f_url="../blindspotmonitoring/" f_title="Blind Spot Monitoring" >}}

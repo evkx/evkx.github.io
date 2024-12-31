@@ -106,5 +106,3 @@ Für einen vollständigen Überblick über die verschiedenen Kategorien weltweit
 Sehen Sie die vollständige Liste in der EVKX EV-Datenbank [hier](../../../evsearch/?sortOrder=MaxTrailerSizeDesc).
 
 {{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_4_st.jpg" title="Nio ES8 mit Dachgepäck und Anhänger" width="2560" height="1280">}}
-
-{{< pagenavigation b_url="../bedcargo/" b_title="Pickup-Ladefläche" f_url="../../charging/" f_title="Laden" >}}

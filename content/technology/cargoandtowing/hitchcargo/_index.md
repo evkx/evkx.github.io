@@ -71,5 +71,3 @@ Hitch cargo carriers can improve the visibility and awareness of the driver and 
 Compared to having a box on the roof, a hitch box can increase efficiency because it does not affect the aerodynamics or wind resistance of the vehicle. In the video below, EV Guru Bjørn Nyland compares energy consumption between a roof box and a hitch box.
 
 {{< youtube N6oZ2id7YhY >}}
-
-{{< pagenavigation b_url="../roofcargo/" b_title="Roof Cargo" f_url="../bedcargo/" f_title="Pickup Bed Cargo" >}}

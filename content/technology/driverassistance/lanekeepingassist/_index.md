@@ -28,5 +28,3 @@ While LKA adds an extra layer of safety and convenience, it is not a substitute 
 ## Regulatory Compliance
 
 The European Union (EU) has specific regulations and requirements for LKA systems installed in vehicles. According to EU regulation 2018/858, LKA is considered an advanced driver assistance system and must comply with several requirements to ensure its safety and effectiveness. One key regulation is that it should not be possible to permanently turn off LKA.
-
-{{< pagenavigation b_url="../lanedeparturewarning/" b_title="Lane Departure Warning (LDW)" f_url="../rearcrosstrafficalert/" f_title="Rear Cross Traffic Alert" >}}

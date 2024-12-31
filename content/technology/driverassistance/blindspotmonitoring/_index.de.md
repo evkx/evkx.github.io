@@ -32,5 +32,3 @@ Verschiedene Hersteller können unterschiedliche Namen für ihre BSM-Systeme ver
 - Spurverlassenswarnsystem (LDWS) mit Toter-Winkel-Erkennung
 
 Obwohl die Namen variieren können, bleibt die Funktion und der Zweck dieser Systeme gleich: Fahrern zu helfen, Kollisionen beim Spurwechsel oder beim Einfädeln in den Verkehr zu erkennen und zu vermeiden.
-
-{{< pagenavigation b_url="../autosteer/" b_title="Autosteer" f_url="../collisionavoidancesystems/" f_title="Kollisionsvermeidungssysteme (CAS)" >}}

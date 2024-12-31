@@ -72,5 +72,3 @@ Here are some examples of EVs with frunks, along with their frunk capacities:
 </tr>
 </tbody>
 </table>
-
-{{< pagenavigation b_url="../interiorcargo/" b_title="Interior Cargo" f_url="../roofcargo/" f_title="Roof Cargo" >}}

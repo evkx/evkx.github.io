@@ -27,5 +27,3 @@ The displayed information may include the type of sign, its meaning, and sometim
 Traffic Sign Recognition can help drivers stay aware of road conditions and regulations, especially when driving in unfamiliar areas or when visibility is poor. However, it is important to note that TSR is not infallible and can sometimes misinterpret or fail to detect certain signs. Therefore, it should not be relied on exclusively. Drivers should always keep an eye out for road signs and comply with them accordingly.
 
 {{<evkxdisplayaddarticle />}}
-
-{{< pagenavigation b_url="../rearcrosstrafficalert/" b_title="Rear Cross Traffic Alert" f_url="../../brakes/" f_title="Brakes" >}}

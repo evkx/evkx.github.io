@@ -81,5 +81,3 @@ Equalizers allow you to adjust the balance of different frequencies in your musi
 The wiring of a car audio system is crucial for achieving the best sound quality. High-quality wiring can minimize signal loss and noise, resulting in clearer sound. It is essential to use the correct gauge of wire for each component, and all connections should be secure and properly insulated.
 
 {{<evkxdisplayaddarticle />}}
-
-{{< pagenavigation b_url="../" b_title="Système d'infodivertissement" f_url="../navigation/" f_title="Navigation" >}}

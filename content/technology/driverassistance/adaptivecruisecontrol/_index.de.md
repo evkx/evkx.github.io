@@ -27,5 +27,3 @@ Die Adaptive Geschwindigkeitsregelung (ACC) ist eine fortschrittliche Version de
 **Geschwindigkeitsbegrenzung folgen:** Bei einigen Modellen können Sie ACC so einstellen, dass es der Geschwindigkeitsbegrenzung basierend auf Kamera- und Navigationsinformationen folgt. Allerdings müssen die Navigationsinformationen oft aktualisiert werden, daher ist diese Funktion normalerweise deaktiviert.
 
 Die Adaptive Geschwindigkeitsregelung ist darauf ausgelegt, Fahrern zu helfen, einen sicheren Abstand zu halten und die Ermüdung auf langen Autobahnfahrten zu reduzieren. Indem sie die Verantwortung für die Anpassung der Geschwindigkeit des Autos an die Verkehrsbedingungen übernimmt, kann sich der Fahrer mehr auf das Lenken und andere Aufgaben konzentrieren, was zu einem sichereren und entspannteren Fahrerlebnis führt.
-
-{{< pagenavigation b_url="../" b_title="Fahrerassistenzsysteme (ADAS)" f_url="../antilockbrakingsystem/" f_title="Antiblockiersystem (ABS)" >}}

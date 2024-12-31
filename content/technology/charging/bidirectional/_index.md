@@ -115,5 +115,3 @@ Policies and regulations are being created and reformed to support bidirectional
 ### Innovation and Integration
 
 New technologies and solutions are being developed to improve the efficiency, reliability, and safety of bidirectional charging. For example, smart meters and smart grids can monitor and manage bidirectional power flow, and advanced battery management systems can optimize bidirectional charging and minimize degradation. New business models and platforms, such as blockchain or artificial intelligence, can enable peer-to-peer energy trading or aggregation with other EVs or loads.
-
-{{< pagenavigation b_url="../batteryswap/" b_title="Battery Swapping" f_url="../../hvac/" f_title="Climate System" >}}

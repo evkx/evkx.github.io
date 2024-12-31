@@ -39,5 +39,3 @@ Several car brands offer features similar to Efficiency Assist:
 - **Audi:** "Efficiency Assist System" provides real-time feedback and suggestions for optimizing driving behavior to maximize range and efficiency.
 
 {{< sitefiguresized thumb="technology/driverassistance/efficencyassist/illustration_st.jpg" width="1600" height="9000" title="Efficiency Assist in Audi suggesting to take the foot off the accelerator" >}}
-
-{{< pagenavigation b_url="../drivermonitoringsystem/" b_title="Driver Monitoring System (DMS)" f_url="../electronicstabilitycontrol/" f_title="Electronic Stability Control" >}}

@@ -63,5 +63,3 @@ Andre såsom Polestar og Volvo baserer deres system på [Android Automotive](htt
 ## Infotainmentskærme
 
 Infotainmentsystemerne er typisk tilgængelige på en eller flere skærme. Bagside eller [detaljeret skærmartikel](../userinterface/screens/) for at vide mere.
-
-{{< pagenavigation b_url="../glassroof/" b_title="Glastag" f_url="audiosystem/" f_title="Lydsystem" >}}

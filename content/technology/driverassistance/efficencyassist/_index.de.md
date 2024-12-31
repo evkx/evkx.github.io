@@ -39,5 +39,3 @@ Mehrere Automarken bieten Funktionen an, die dem Effizienzassistenten ähneln:
 - **Audi:** "Efficiency Assist System" bietet Echtzeit-Feedback und Vorschläge zur Optimierung des Fahrverhaltens, um die Reichweite und Effizienz zu maximieren.
 
 {{< sitefiguresized thumb="technology/driverassistance/efficencyassist/illustration_st.jpg" width="1600" height="9000" title="Effizienzassistent in einem Audi, der vorschlägt, den Fuß vom Gaspedal zu nehmen" >}}
-
-{{< pagenavigation b_url="../drivermonitoringsystem/" b_title="Fahrerüberwachungssystem (DMS)" f_url="../electronicstabilitycontrol/" f_title="Elektronische Stabilitätskontrolle" >}}

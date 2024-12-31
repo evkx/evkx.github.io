@@ -17,5 +17,3 @@ When the AES system determines that a collision is imminent, it can take control
 AES systems employ various algorithms to assess the likelihood and severity of a collision, considering factors such as vehicle speed, distance to the object or pedestrian, and the rate of closure. The system may also use information about road layout, traffic flow, and weather conditions to enhance its steering and braking decisions.
 
 Overall, AES systems provide an additional layer of safety to help drivers avoid collisions. However, it is crucial to remember that AES systems are not a substitute for safe and attentive driving practices. Drivers should always maintain a safe following distance and be prepared to brake or steer away from obstacles if necessary. Additionally, AES systems may not be available on all vehicles or may require specific conditions to function correctly.
-
-{{< pagenavigation b_url="../automaticemergencybraking/" b_title="Autonomous Emergency Braking" f_url="../automaticparking/" f_title="Automatic Parking Assist" >}}

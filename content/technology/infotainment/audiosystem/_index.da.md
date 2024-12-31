@@ -78,5 +78,3 @@ Equalizere lar deg justere balansen mellom forskjellige frekvenser i musikken di
 Kablingen til et bilstereosystem er avgjørende for å oppnå best lydkvalitet. Kabling av høy kvalitet kan minimere signaltap og støy, noe som resulterer i klarere lyd. Det er viktig å bruke riktig trådtykkelse for hver komponent, og alle tilkoblinger bør være sikre og ordentlig isolert.
 
 {{<evkxdisplayaddarticle />}}
-
-{{< pagenavigation b_url="../" b_title="Infotainmentsystem" f_url="../navigation/" f_title="Navigasjon" >}}

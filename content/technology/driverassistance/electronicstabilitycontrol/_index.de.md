@@ -31,5 +31,3 @@ ESC verwendet Sensoren und Algorithmen, um wichtige Parameter wie Fahrzeuggeschw
 - **Automatische Intervention:** Bietet automatische Unterstützung, ohne dass der Fahrer eingreifen muss.
 
 Die spezifische Implementierung von ESC kann je nach Fahrzeug und Hersteller variieren, aber das Hauptziel bleibt dasselbe: die Fahrzeugstabilität und -sicherheit unter schwierigen Fahrbedingungen zu verbessern.
-
-{{< pagenavigation b_url="../efficencyassist/" b_title="Effizienzassistent" f_url="../exitwarning/" f_title="Aussteigewarnung" >}}

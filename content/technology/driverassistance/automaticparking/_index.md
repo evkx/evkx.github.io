@@ -26,5 +26,3 @@ The video below demonstrates Mercedes-Benz Parking Assist:
 {{< youtube rsgw0eLetsc >}}
 
 While automatic parking is a convenient feature, drivers should always remain vigilant and aware of their surroundings, especially in busy or crowded parking lots.
-
-{{< pagenavigation b_url="../automaticemergencysteering/" b_title="Automatic Emergency Steering" f_url="../autosteer/" f_title="Autosteer" >}}

@@ -64,10 +64,3 @@ Navigationssystemet kan hjælpe chauffører med at få mest muligt ud af deres e
 ### Stemmestyring og integration
 
 Navigationssystemet kan styres med stemmekommandoer, så bilisterne kan holde øjnene på vejen og hænderne på rattet. Navigationssystemet kan også integreres med andre køretøjsfunktioner, såsom klimaanlæg, underholdningssystem eller digital assistent.
-
-<div class="mt-3 mb-3">
-     <a href="../audiosystem/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lydsystem</strong>< /a>
-     <a href="../smartphoneintegration/" class="text-decoration-none text-black float-end"><strong>Smartphone-integration <i class="bi-arrow-right"></i></strong></a>
-</div>
-
-{{< pagenavigation b_url="../audiosystem/" b_title="Audio system" f_url="../smartphoneintegration/" f_title="Smartphone integration" >}}

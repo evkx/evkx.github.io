@@ -23,10 +23,3 @@ Einige fortschrittliche Fahrerassistenzsysteme (ADAS) können das Auto vom Gefah
 Ein Beispiel für ein solches System ist das Spurhalteassistent (LKA)-System, das Kameras und Sensoren verwendet, um zu erkennen, wenn das Fahrzeug aus seiner Spur driftet, und das Fahrzeug automatisch zurück in die Spur lenken kann, um eine Kollision zu vermeiden. Ein weiteres Beispiel ist das [Automatische Notlenkung](../automaticemergencysteering/) (AES)-System, das Sensoren verwendet, um potenzielle Kollisionen mit Fußgängern oder anderen Objekten zu erkennen und das Fahrzeug automatisch lenken kann, um eine Kollision zu vermeiden.
 
 Es ist wichtig zu beachten, dass diese Systeme zwar helfen können, Kollisionen zu verhindern oder abzumildern, sie jedoch nicht narrensicher sind und nicht als Ersatz für sicheres und aufmerksames Fahren betrachtet werden sollten. Fahrer sollten immer wachsam bleiben und bereit sein, bei Bedarf ausweichende Maßnahmen zu ergreifen. Darüber hinaus sind diese Systeme möglicherweise nicht in allen Fahrzeugen verfügbar oder erfordern bestimmte Bedingungen, um ordnungsgemäß zu funktionieren.
-
-<div class="mt-3 mb-3">
-    <a href="../blindspotmonitoring/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Toter-Winkel-Überwachung</strong></a>
-    <a href="../driverdrowsinessdetection/" class="text-decoration-none text-black float-end"><strong>Fahrer-Müdigkeitserkennung (DDD)<i class="bi-arrow-right"></i></strong></a>
-</div>
-
-{{< pagenavigation b_url="../blindspotmonitoring/" b_title="Toter-Winkel-Überwachung" f_url="../driverdrowsinessdetection/" f_title="Fahrer-Müdigkeitserkennung (DDD)" >}}

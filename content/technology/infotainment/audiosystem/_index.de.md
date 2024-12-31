@@ -81,5 +81,3 @@ Equalizer ermöglichen es Ihnen, das Gleichgewicht der verschiedenen Frequenzen 
 Die Verkabelung eines Auto-Audiosystems ist entscheidend für die beste Klangqualität. Hochwertige Verkabelung kann Signalverlust und Rauschen minimieren, was zu klarerem Klang führt. Es ist wichtig, den richtigen Drahtquerschnitt für jede Komponente zu verwenden, und alle Verbindungen sollten sicher und ordnungsgemäß isoliert sein.
 
 {{<evkxdisplayaddarticle />}}
-
-{{< pagenavigation b_url="../" b_title="Infotainment" f_url="../navigation/" f_title="Navigation" >}}

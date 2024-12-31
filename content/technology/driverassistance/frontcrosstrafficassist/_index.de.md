@@ -34,5 +34,3 @@ Der Front Cross Traffic Assist ist besonders nützlich in Situationen, in denen 
 Der Front Cross Traffic Assist ist darauf ausgelegt, Fahrern zu helfen, sicherere Abbiegevorgänge und Kreuzungen zu machen, indem er zusätzliche Informationen über die Umgebung und potenzielle Gefahren liefert. Durch die Warnung der Fahrer vor potenziellen Gefahren kann diese Technologie dazu beitragen, Unfälle zu verhindern und die allgemeine Sicherheit auf der Straße zu verbessern.
 
 {{<evkxdisplayaddarticle />}}
-
-{{< pagenavigation b_url="../forwardcollisionwarning/" b_title="Vorwärtskollisionswarnung (FCW)" f_url="../lanedeparturewarning/" f_title="Spurverlassenswarnung" >}}

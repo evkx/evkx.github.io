@@ -51,5 +51,3 @@ To minimize the impact of roof cargo on your EV's range and performance, conside
 5. **Plan Your Route**: Consider driving conditions and plan routes that avoid highways or windy areas when possible.
 
 By understanding the factors that affect roof cargo's impact on EV range and following these tips, you can make the most of your EV's storage capacity while minimizing range reduction.
-
-{{< pagenavigation b_url="../frunkcargo/" b_title="Frunk Cargo" f_url="../hitchcargo/" f_title="Hitch Cargo" >}}

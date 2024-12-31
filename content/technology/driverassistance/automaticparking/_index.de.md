@@ -26,5 +26,3 @@ Das folgende Video zeigt die Mercedes-Benz Parkassistenz:
 {{< youtube rsgw0eLetsc >}}
 
 Obwohl automatisches Parken eine bequeme Funktion ist, sollten Fahrer immer wachsam bleiben und sich ihrer Umgebung bewusst sein, insbesondere in belebten oder überfüllten Parkplätzen.
-
-{{< pagenavigation b_url="../automaticemergencysteering/" b_title="Automatische Notlenkung" f_url="../autosteer/" f_title="Autosteer" >}}

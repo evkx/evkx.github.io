@@ -34,5 +34,3 @@ Obwohl RCTA eine hilfreiche Sicherheitsfunktion ist, ersetzt es nicht sicheres F
 - Aufmerksam und vorsichtig beim Rückwärtsfahren bleiben.
 
 RCTA sollte in Verbindung mit diesen sicheren Fahrtechniken verwendet werden, um maximale Sicherheit zu gewährleisten.
-
-{{< pagenavigation b_url="../lanekeepingassist/" b_title="Spurhalteassistent" f_url="../trafficsignrecognition/" f_title="Verkehrszeichenerkennung" >}}

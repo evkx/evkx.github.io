@@ -70,5 +70,3 @@ Electrochromic glass roofs can change their level of tint based on the amount of
 ## Weight & Noise
 
 A glass panel roof is a luxury feature that adds value and comfort to the car. However, it also increases the weight and complexity of the car and may reduce its fuel efficiency and safety. A glass panel roof may also be more prone to leaks, cracks, or breakage due to weather conditions, road debris, or accidents.
-
-{{< pagenavigation b_url="../platforms/" b_title="EV Platforms" f_url="../infotainment/" f_title="Infotainment System" >}}

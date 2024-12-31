@@ -98,5 +98,3 @@ The power consumption of a car's climate system can significantly impact an EV's
     <td>-19.5%</td>
   </tr>
 </table>
-
-{{< pagenavigation b_url="../chargement/" b_title="Charging" f_url="../doors/" f_title="Doors" >}}

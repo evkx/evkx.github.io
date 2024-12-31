@@ -138,5 +138,3 @@ Alors, dans quelle mesure cela affecte-t-il la portée.
     </tr>
 </tbody>
 </table>
-
-{{< pagenavigation b_url="../chargement/" b_title="Chargement" f_url="../doors/" f_title="Portes" >}}

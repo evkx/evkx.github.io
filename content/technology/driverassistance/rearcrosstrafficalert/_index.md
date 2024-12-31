@@ -34,5 +34,3 @@ While RCTA is a helpful safety feature, it is not a substitute for safe driving 
 - Remain attentive and cautious while reversing.
 
 RCTA should be used in conjunction with these safe driving techniques to ensure maximum safety.
-
-{{< pagenavigation b_url="../lanekeepingassist/" b_title="Lane Keeping Assist" f_url="../trafficsignrecognition/" f_title="Traffic Sign Recognition" >}}

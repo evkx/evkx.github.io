@@ -65,5 +65,3 @@ Navigationssystemet kan hjälpa förare att få ut det mesta av sin elbilsladdni
 ### Röststyrning och integration
 
 Navigationssystemet kan styras med röstkommandon så att förarna kan hålla ögonen på vägen och händerna på ratten. Navigationssystemet kan även integreras med andra fordonsfunktioner, såsom klimatanläggning, underhållningssystem eller digital assistent.
-
-{{< pagenavigation b_url="../audiosystem/" b_title="Ljudsystem" f_url="../smartphoneintegration/" f_title="Smartphone integration" >}}

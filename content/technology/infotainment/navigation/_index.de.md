@@ -60,5 +60,3 @@ Das Navigationssystem kann Fahrern helfen, ihre Zeit während des Ladevorgangs i
 ### Sprachsteuerung und Integration
 
 Das Navigationssystem kann durch Sprachbefehle gesteuert werden, sodass Fahrer ihre Augen auf der Straße und ihre Hände am Lenkrad behalten können. Es kann auch mit anderen Fahrzeugfunktionen integriert werden, wie z.B. der Klimaanlage, dem Unterhaltungssystem oder einem digitalen Assistenten.
-
-{{< pagenavigation b_url="../audiosystem/" b_title="Audiosystem" f_url="../smartphoneintegration/" f_title="Smartphone-Integration" >}}

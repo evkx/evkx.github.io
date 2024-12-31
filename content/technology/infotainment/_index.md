@@ -61,5 +61,3 @@ The software of the infotainment system is essential for the user experience. Ma
 ## Infotainment Screens
 
 Infotainment systems are typically available on one or more screens. Refer to our [detailed screen article](../userinterface/screens/) to learn more.
-
-{{< pagenavigation b_url="../glassroof/" b_title="Glass Panel Roof" f_url="audiosystem/" f_title="Audio system" >}}

@@ -65,5 +65,3 @@ El sistema de navegación puede ayudar a los conductores a aprovechar al máximo
 ### Control e integración por voz
 
 El sistema de navegación se puede controlar mediante comandos de voz para permitir a los conductores mantener la vista en la carretera y las manos en el volante. El sistema de navegación también se puede integrar con otras funciones del vehículo, como el control de clima, el sistema de entretenimiento o el asistente digital.
-
-{{< pagenavigation b_url="../audiosystem/" b_title="Sistema de audio" f_url="../smartphoneintegration/" f_title="Integración de teléfono inteligente" >}}

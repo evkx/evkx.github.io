@@ -34,5 +34,3 @@ Front Cross Traffic Assist is particularly useful in situations where visibility
 Front Cross Traffic Assist is designed to help drivers make safer turns and crossings by providing additional information about the surrounding environment and potential hazards. By alerting drivers to potential dangers, this technology can help prevent accidents and improve overall safety on the road.
 
 {{<evkxdisplayaddarticle />}}
-
-{{< pagenavigation b_url="../forwardcollisionwarning/" b_title="Forward Collision Warning (FCW)" f_url="../lanedeparturewarning/" f_title="Lane Departure Warning" >}}

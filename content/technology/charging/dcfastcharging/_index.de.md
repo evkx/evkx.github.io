@@ -91,5 +91,3 @@ Mehrere große Ladenetzwerke sind in Europa tätig. Einige der größten sind:
 - Plugsurfing: Ein europaweites Netzwerk, das Zugang zu über 200.000 Ladegeräten bietet, einschließlich derer von Allego, EnBW, Eon, Innogy, IONITY und Vattenfall, mit einem Schlüssel oder einer Karte und einer kostenlosen Smartphone-App.
 
 - Maingau: Über seine EinfachStromLaden-App, Ladechip oder Karte bietet Maingau Zugang zu 50.000 Ladepunkten in Deutschland, Österreich und der Schweiz.
-
-{{< pagenavigation b_url="../homecharging/" b_title="Heimladen" f_url="../batteryswap/" f_title="Batteriewechsel" >}}

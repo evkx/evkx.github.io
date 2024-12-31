@@ -37,5 +37,3 @@ Das Aussteigewarnsystem kann je nach Automodell und Art der verwendeten Sensoren
 Die Aussteigewarnung ist eine wertvolle Sicherheitsfunktion, die hilft, Unfälle zu verhindern und die allgemeine Sicherheit für Fahrer und Passagiere zu erhöhen. Durch die Warnung vor dem Öffnen der Tür kann sie helfen, Kollisionen mit anderen Fahrzeugen oder Radfahrern zu vermeiden, insbesondere in städtischen Gebieten mit starkem Verkehr und eingeschränkter Sicht.
 
 {{< sitefiguresized thumb="technology/driverassistance/exitwarning/illustration2_st.jpg" width="3000" height="2000" title="Aussteigewarnung Mercedes" >}}
-
-{{< pagenavigation b_url="../electronicstabilitycontrol/" b_title="Elektronische Stabilitätskontrolle (ESC)" f_url="../forwardcollisionwarning/" f_title="Vorwärtskollisionswarnung" >}}

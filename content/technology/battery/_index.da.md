@@ -29,8 +29,3 @@ Vi har opdelt artiklen i separate afsnit.
 - [Buffer](buffer/) - Forstå buffer
 - [Producenter](producenter/) - Hvad er de største batteriproducenter?
 - [Garanti](garanti/) - Hvilken slags batterigaranti er typisk?
-
-<div class="mt-3 mb-3">
-     <a href="../doors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Døre</strong></ a>
-     <a href="basic/" class="text-decoration-none text-black float-end"><strong>Batteri Grundlæggende<i class="bi-arrow-right"></i></strong> </a>
-</div>

@@ -47,5 +47,3 @@ Hersteller können unterschiedliche Namen für ihre Autosteer-Systeme verwenden,
 {{<evkxdisplayaddarticle />}}
 
 Es ist wichtig zu beachten, dass die genauen Funktionen und Fähigkeiten der Autosteer-Systeme der einzelnen Hersteller variieren können. Fahrer sollten immer das Handbuch ihres Fahrzeugs konsultieren und sich mit den spezifischen Funktionen und Einschränkungen ihres Systems vertraut machen.
-
-{{< pagenavigation b_url="../automaticparking/" b_title="Automatisches Parken" f_url="../blindspotmonitoring/" f_title="Toter-Winkel-Überwachung" >}}

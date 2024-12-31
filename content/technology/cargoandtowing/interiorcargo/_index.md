@@ -104,5 +104,3 @@ Interior cargo may not be compatible with all types of items that the owner may 
 Interior cargo may reduce the comfort and convenience of the passengers and the driver, as it may take up space that would otherwise be used for seating, legroom, or storage. It may also create noise, vibration, or odor that may disturb passengers and drivers. It may also affect the car’s climate control system by blocking the air vents or windows.
 
 {{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_4_st.jpg" title="Jeep Avenger with a lovely dog in the trunk" width="3000" height="2000">}}
-
-{{< pagenavigation b_url="../" b_title="Cargo & towing capabilities" f_url="../frunkcargo/" f_title="Frunk Cargo" >}}

@@ -35,5 +35,3 @@ Fahrerüberwachungssysteme sind in modernen Fahrzeugen zunehmend verbreitet und 
 Das folgende Video zeigt, wie das Fahrerüberwachungssystem in einem Polestar-Fahrzeug funktioniert:
 
 {{< youtube TZnN31wCRGE >}}
-
-{{< pagenavigation b_url="../driverdrowsinessdetection/" b_title="Fahrer-Müdigkeitserkennung (DDD)" f_url="../efficencyassist/" f_title="Effizienzassistent" >}}

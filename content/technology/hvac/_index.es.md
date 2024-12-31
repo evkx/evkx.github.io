@@ -138,5 +138,3 @@ Entonces, ¿cuánto afecta eso al alcance?
     </tr>
 </tbody>
 </table>
-
-{{< pagenavigation b_url="../chargement/" b_title="Cargando" f_url="../doors/" f_title="Puertas" >}}

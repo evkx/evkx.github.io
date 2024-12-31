@@ -27,5 +27,3 @@ Adaptive Cruise Control (ACC) is an advanced version of traditional cruise contr
 **Following Speed Limit:** On some models, you can set ACC to follow the speed limit based on camera and navigation info. However, the navigation info often needs to be updated, so this feature is usually turned off.
 
 Adaptive Cruise Control is designed to help drivers maintain a safe following distance and reduce driver fatigue on long highway drives. By taking over the responsibility of adjusting the car's speed in response to traffic conditions, the driver can focus more on steering and other tasks, making for a safer and more relaxed driving experience.
-
-{{< pagenavigation b_url="../" b_title="Advanced Driver-Assistance Systems (ADAS)" f_url="../antilockbrakingsystem/" f_title="Anti-lock Braking System (ABS)" >}}

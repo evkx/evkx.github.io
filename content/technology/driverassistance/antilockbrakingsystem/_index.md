@@ -33,5 +33,3 @@ Some ABS systems may also incorporate other features, such as:
 - **Reduces Stopping Distance:** Optimizes braking force to shorten stopping distance.
 
 Overall, ABS is a highly effective safety feature that can help prevent accidents and improve vehicle control during emergency braking situations.
-
-{{< pagenavigation b_url="../adaptivecruisecontrol/" b_title="Adaptive Cruise Control" f_url="../automatedlanechange/" f_title="Automated Lane Change" >}}

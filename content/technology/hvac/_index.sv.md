@@ -137,5 +137,3 @@ Så hur mycket påverkar det räckvidden.
     </tr>
 </tbody>
 </table>
-
-{{< pagenavigation b_url="../chargement/" b_title="Ladda" f_url="../doors/" f_title="Dörrar" >}}

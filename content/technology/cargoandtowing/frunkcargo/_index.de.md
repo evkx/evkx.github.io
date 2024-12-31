@@ -72,5 +72,3 @@ Hier sind einige Beispiele für EVs mit Frunks sowie deren Frunk-Kapazitäten:
 </tr>
 </tbody>
 </table>
-
-{{< pagenavigation b_url="../interiorcargo/" b_title="Innenraum-Laderaum" f_url="../roofcargo/" f_title="Dach-Laderaum" >}}

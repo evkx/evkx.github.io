@@ -32,5 +32,3 @@ Different manufacturers may use various names for their BSM systems, including:
 - Lane Departure Warning System (LDWS) with Blind Spot Detection
 
 While the names may vary, the function and purpose of these systems remain the same: to help drivers detect and avoid collisions while changing lanes or merging into traffic.
-
-{{< pagenavigation b_url="../autosteer/" b_title="Autosteer" f_url="../collisionavoidancesystems/" f_title="Collision Avoidance Systems (CAS)" >}}

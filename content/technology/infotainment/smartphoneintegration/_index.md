@@ -39,5 +39,3 @@ Smartphone integration systems like Android Auto and Apple CarPlay are designed 
 ## Conclusion
 
 Android Auto and Apple CarPlay aim to improve your driving experience by integrating your smartphone with your car's infotainment system. They offer similar features but have different designs and functionalities. Depending on your phone model and car model, you may prefer one system over the other, or you may be able to use both systems interchangeably.
-
-{{< pagenavigation b_url="../navigation/" b_title="Navigation" f_url="../vehiclecontrol/" f_title="Vehicle Control" >}}

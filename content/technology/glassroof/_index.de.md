@@ -70,5 +70,3 @@ Elektrochrome Glasdächer können ihren Tönungsgrad basierend auf der Menge des
 ## Gewicht & Geräusche
 
 Ein Glasdach ist ein Luxusmerkmal, das den Wert und den Komfort des Autos erhöht. Es erhöht jedoch auch das Gewicht und die Komplexität des Autos und kann die Kraftstoffeffizienz und Sicherheit verringern. Ein Glasdach kann auch anfälliger für Undichtigkeiten, Risse oder Brüche aufgrund von Wetterbedingungen, Straßenschmutz oder Unfällen sein.
-
-{{< pagenavigation b_url="../platforms/" b_title="EV-Plattformen" f_url="../infotainment/" f_title="Infotainmentsystem" >}}

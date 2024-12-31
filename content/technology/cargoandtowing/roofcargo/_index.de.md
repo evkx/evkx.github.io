@@ -51,5 +51,3 @@ Um die Auswirkungen des Dach-Laderaums auf die Reichweite und Leistung Ihres EVs
 5. **Planen Sie Ihre Route**: Berücksichtigen Sie die Fahrbedingungen und planen Sie Routen, die Autobahnen oder windige Gebiete nach Möglichkeit vermeiden.
 
 Indem Sie die Faktoren verstehen, die den Einfluss des Dach-Laderaums auf die Reichweite von EVs beeinflussen, und diese Tipps befolgen, können Sie die Ladekapazität Ihres EVs optimal nutzen und gleichzeitig die Reichweitenreduzierung minimieren.
-
-{{< pagenavigation b_url="../frunkcargo/" b_title="Frunk-Laderaum" f_url="../hitchcargo/" f_title="Anhängerkupplung-Laderaum" >}}

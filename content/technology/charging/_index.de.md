@@ -57,5 +57,3 @@ Batteriewechsel ist eine Methode zum Laden von EVs, bei der die entladene Batter
 Lesen Sie alles über [Batteriewechsel](batteryswap).
 
 {{< sitefiguresized thumb="technology/charging/batteryswap/powerswap_1_st.jpg" width="3000" height="1687" title="Nio Power Batteriewechselstation" >}}
-
-{{< pagenavigation b_url="../cargoandtowing/" b_title="Lade- und Abschleppkapazitäten" f_url="connectors/" f_title="Ladeanschlüsse" >}}

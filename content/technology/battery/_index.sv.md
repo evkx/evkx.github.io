@@ -30,8 +30,3 @@ Vi har delat in artikeln i separata avsnitt.
 - [Buffert](buffer/) - Förstå buffert
 - [Tillverkare](manufactors/) - Vilka är de största batteritillverkarna?
 - [Garanti](warranty/) - Vilken typ av batterigaranti är typiskt?
-
-<div class="mt-3 mb-3">
-    <a href="../doors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Dörrar</strong></a>
-    <a href="basic/" class="text-decoration-none text-black float-end"><strong>Grundläggande batteri <i class="bi-arrow-right"></i></strong></a>
-</div>

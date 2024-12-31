@@ -132,5 +132,3 @@ Diese Funktion ermöglicht das Öffnen oder Schließen der Tür durch Winken mit
 Ein versenkter Türgriff bei EVs ist eine Art Türgriff, der in die Tür eingelassen ist und nicht nach außen hervorsteht. Elektroautos haben versenkte Türgriffe, um den Luftwiderstand zu verringern und dem Auto ein schlankeres Aussehen zu verleihen. Einige Stile zielen darauf ab, Käufer mit Griffen zu beeindrucken, die beim Annähern herausspringen. Sie bieten auch zusätzliche Sicherheit, haben aber Nachteile wie Zuverlässigkeit, Sicherheitsbedenken und Betrieb bei eisigen Bedingungen.
 
 {{< sitefiguresized thumb="technology/doors/eqssuvdoorhandle_1_st.jpg" width="3000" height="2000" title="Mercedes EQS SUV Versenkte Türgriffe" >}}
-
-{{< pagenavigation b_url="../hvac/" b_title="Klimasystem" f_url="../battery/" f_title="EV-Batterien" >}}

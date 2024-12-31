@@ -98,5 +98,3 @@ Der Energieverbrauch des Klimasystems eines Autos kann die Reichweite eines Elek
     <td>-19,5%</td>
   </tr>
 </table>
-
-{{< pagenavigation b_url="../chargement/" b_title="Laden" f_url="../doors/" f_title="Türen" >}}

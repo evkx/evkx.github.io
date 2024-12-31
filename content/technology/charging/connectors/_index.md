@@ -87,5 +87,3 @@ The front corner is used by some and can be beneficial if you are towing a trail
 ### Front
 
 {{< sitefiguresized thumb="technology/charging/connectors/frontport_1_st.jpg" width="3000" height="2000" title="Kia Niro EV with front charge port" >}}
-
-{{< pagenavigation b_url="../" b_title="Charging" f_url="../homecharging/" f_title="Home Charging" >}}

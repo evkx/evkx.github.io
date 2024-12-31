@@ -24,5 +24,3 @@ Android Auto og Apple CarPlay har nogle ligheder og forskelle, såsom:
 {{< sitefiguresized thumb="technology/infotainment/smartphoneintegration/kiaev6applecarplay_1_st.jpg" width="3000" height="2018" title="Kia EV6 with Apple Car Play" >}}
 
 Android Auto og Apple CarPlay er systemer, der har til formål at forbedre din køreoplevelse ved at integrere din smartphone med bilens infotainmentsystem. De tilbyder lignende funktioner, men har forskellige designs og funktionalitet. Afhængigt af telefonmodel og bilmodel foretrækker du måske det ene system frem for det andet, eller du kan bruge begge systemer i flæng
-
-{{< pagenavigation b_url="../navigation/" b_title="Navigation" f_url="../vehiclecontrol/" f_title=Køretøjskontrol" >}}

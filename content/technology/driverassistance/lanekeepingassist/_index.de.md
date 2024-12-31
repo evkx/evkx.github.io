@@ -28,5 +28,3 @@ Obwohl LKA eine zusätzliche Sicherheitsebene und Komfort bietet, ist es kein Er
 ## Gesetzliche Vorschriften
 
 Die Europäische Union (EU) hat spezifische Vorschriften und Anforderungen für in Fahrzeugen installierte LKA-Systeme. Gemäß der EU-Verordnung 2018/858 wird LKA als fortschrittliches Fahrerassistenzsystem betrachtet und muss mehrere Anforderungen erfüllen, um seine Sicherheit und Wirksamkeit zu gewährleisten. Eine wichtige Vorschrift ist, dass es nicht möglich sein sollte, LKA dauerhaft auszuschalten.
-
-{{< pagenavigation b_url="../lanedeparturewarning/" b_title="Spurverlassenswarnung (LDW)" f_url="../rearcrosstrafficalert/" f_title="Querverkehrswarner hinten" >}}

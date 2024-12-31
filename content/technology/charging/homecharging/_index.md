@@ -211,5 +211,3 @@ Below is a review video of the best charging stations for 2023 (created before t
 See the video below for UK-focused information on installing a home charger.
 
 {{< youtube VCx_1Afh3iw >}}
-
-{{< pagenavigation b_url="../connectors/" b_title="Charging Connectors" f_url="../dcfastcharging/" f_title="DC Fast Charging" >}}

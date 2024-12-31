@@ -104,5 +104,3 @@ Der Innenraum-Laderaum ist möglicherweise nicht mit allen Arten von Gegenständ
 Der Innenraum-Laderaum kann den Komfort und die Bequemlichkeit der Passagiere und des Fahrers verringern, da er Platz einnimmt, der sonst für Sitze, Beinfreiheit oder Stauraum genutzt würde. Er kann auch Lärm, Vibrationen oder Gerüche erzeugen, die die Passagiere und den Fahrer stören könnten. Er kann auch das Klimasystem des Autos beeinträchtigen, indem er die Lüftungsschlitze oder Fenster blockiert.
 
 {{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_4_st.jpg" title="Jeep Avenger mit einem lieben Hund im Kofferraum" width="3000" height="2000">}}
-
-{{< pagenavigation b_url="../" b_title="Lade- und Abschleppfähigkeiten" f_url="../frunkcargo/" f_title="Frunk-Laderaum" >}}

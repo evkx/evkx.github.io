@@ -87,5 +87,3 @@ Die vordere Ecke wird von einigen verwendet und kann vorteilhaft sein, wenn Sie 
 ### Front
 
 {{< sitefiguresized thumb="technology/charging/connectors/frontport_1_st.jpg" width="3000" height="2000" title="Kia Niro EV mit Ladeanschluss an der Vorderseite" >}}
-
-{{< pagenavigation b_url="../" b_title="Laden" f_url="../homecharging/" f_title="Heimladen" >}}
