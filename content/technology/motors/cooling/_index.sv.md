@@ -24,6 +24,3 @@ Direkt kylning kan ge effektivare värmeöverföring, men kan kräva noggranna d
 {{<evkxdisplayaddarticle />}}
 
 Valet av kylmetod beror på olika faktorer, såsom motorns effekt- och temperaturkrav, driftsmiljön och kostnadsöverväganden. Korrekt kylning är avgörande för att upprätthålla prestanda, effektivitet och tillförlitlighet hos elmotorer i elbilar, och är en viktig aspekt av motordesign och integrering i elfordon.
-
-
-{{< pagenavigation b_url="../inverter/" b_title="Växelriktaren" f_url="../gears/" f_title="Växlar" >}}

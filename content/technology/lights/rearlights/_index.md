@@ -76,5 +76,3 @@ For example, the Audi Q6 e-tron has added an extra dimension to the exit warning
 Below is a video from Audi that shows how their OLED technology works.
 
 {{< youtube OMx8x8J6Pro >}}
-
-{{< pagenavigation b_url="../headlights/" b_title="Headlights & DRL" f_url="../ambientlighting/" f_title="Ambient Lighting" >}}

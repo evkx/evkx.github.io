@@ -78,6 +78,3 @@ A continuación ves un vídeo de Audi que muestra cómo funciona su OLED.
 
 
 {{< youtube OMx8x8J6Pro >}}
-
-
-{{< pagenavigation b_url="../headlights/" b_title="Faros delanteros y DRL" f_url="../ambientlighting/" f_title="Iluminación ambiental" >}}

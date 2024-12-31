@@ -24,5 +24,3 @@ Dessa transmissioner har flera utväxlingsförhållanden som gör att elmotorn k
 {{<evkxdisplayaddarticle />}}
 
 Det är värt att notera att vissa elbilar, särskilt de med enväxlad transmission eller direktdrivningssystem, inte använder traditionella växlar alls. Istället förlitar de sig på sofistikerad kraftelektronik och motorstyrningsalgoritmer för att leverera det nödvändiga vridmomentet och kraften till hjulen utan behov av fysiska växlar. Den specifika typen av transmission som används i en EV-drivlina beror på faktorer som fordonsstorlek, prestandakrav, körförhållanden och designöverväganden.
-
-{{< pagenavigation b_url="../cooling" b_title="Motorkylning" f_url="../../regen/" f_title="Regenerativ bromsning" >}}

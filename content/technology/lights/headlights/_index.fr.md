@@ -95,5 +95,3 @@ La vidéo ci-dessous montre comment fonctionnent les lumières sur l'Audi e-tron
 {{< sitefiguresized thumb="technology/lights/headlights/q6headlights_2_st.jpg" width="1800" height="1200" title="Audi Q6 e-tron avec feux de croisement (DRL atténué)" >}}
 
 {{< sitefiguresized thumb="technology/lights/headlights/q6headlights_3_st.jpg" width="1800" height="1200" title="Audi Q6 e-tron avec matrice LED de feux de route et modules de feux de croisement actifs (DRL atténué)" >}}
-
-{{< pagenavigation b_url="../" b_title="Feux" f_url="../rearlights/" f_title="Feux arrière" >}}

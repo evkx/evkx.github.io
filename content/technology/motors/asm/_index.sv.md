@@ -51,5 +51,3 @@ Induktionsmotorer har också vissa begränsningar i förhållande till elbilar, 
 **Mer komplex styrning:** Induktionsmotorer kräver komplexa styralgoritmer för att uppnå optimal prestanda, inklusive styrning av motorhastighet, vridmoment och effektfaktor, vilket kan kräva sofistikerad kraftelektronik och styrsystem.
 
 **Högre vikt och storlek:** Induktionsmotorer kan vara större och tyngre jämfört med vissa andra motortyper, vilket kan påverka fordonets vikt och förpackningsöverväganden.
-
-{{< pagenavigation b_url="../" b_title="Motorer och drivenheter" f_url="../pmsm/" f_title="Permanent Magnet Synkronmotorer" >}}

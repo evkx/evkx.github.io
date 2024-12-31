@@ -21,5 +21,3 @@ A glove box is a compartment in the dashboard used to store small items such as 
 ## Door Storage
 
 Door storage typically includes pockets or bins located in the door panels. These can be used to store items like water bottles, umbrellas, or maps. The size and design of door storage compartments can vary, with some EVs offering more innovative or spacious solutions compared to traditional gas-powered cars.
-
-{{< pagenavigation b_url="../cockpitdesign/" b_title="Cockpit Design and Layout" f_url="../../lights/" f_title="Lights" >}}

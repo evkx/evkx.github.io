@@ -20,5 +20,3 @@ Bei Autos mit konfigurierbaren Fahrmodi sind diese Einstellungen typischerweise 
 ## Klimaanlage
 
 Viele Infotainmentsysteme beinhalten auch Steuerungen für die Klimaanlage. Für weitere Details lesen Sie unseren [Artikel zur Klimatechnologie](../climatesystem/).
-
-{{< pagenavigation b_url="../smartphoneintegration/" b_title="Smartphone-Integration" f_url="../../interior/" f_title="Innenraum" >}}

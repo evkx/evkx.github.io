@@ -35,5 +35,3 @@ Einige EVs verwenden ein Sperrdifferential, das eine bessere Traktion und Handha
 Es ist erwähnenswert, dass einige EVs, insbesondere solche mit einstufigen Getrieben oder Direktantriebssystemen, überhaupt keine traditionellen Getriebe verwenden. Stattdessen verlassen sie sich auf ausgeklügelte Leistungselektronik und Motorsteuerungsalgorithmen, um das erforderliche Drehmoment und die Leistung an die Räder zu liefern, ohne dass physische Getriebe erforderlich sind. Die spezifische Art des in einer EV-Antriebseinheit verwendeten Getriebes hängt von Faktoren wie der Größe des Fahrzeugs, den Leistungsanforderungen, den Fahrbedingungen und den Designüberlegungen ab.
 
 [Zurück zum Hauptartikel](../#motor-setup)
-
-{{< pagenavigation b_url="../cooling" b_title="Motorkühlung" f_url="../../regen/" f_title="Regeneratives Bremsen" >}}

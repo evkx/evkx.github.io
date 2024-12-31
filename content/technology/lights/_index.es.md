@@ -52,5 +52,3 @@ Atrás quedaron los días en que el interior de los automóviles quedaba envuelt
   Esta extensa sección de artículos explorará el mundo de las luces ambientales en los automóviles, sus orígenes, funcionalidades, tipos y las últimas innovaciones.
 
 [Más información sobre la iluminación ambiental.](luz ambiental)
-
-{{< pagenavigation b_url="../interior/" b_title="Interior" f_url="headlights/" f_title="Faros" >}}

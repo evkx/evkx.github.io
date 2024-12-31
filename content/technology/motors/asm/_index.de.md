@@ -51,5 +51,3 @@ Induktionsmotoren haben auch einige Einschränkungen im Kontext von EVs, darunte
 **Komplexere Steuerung:** Induktionsmotoren erfordern komplexe Steuerungsalgorithmen, um optimale Leistung zu erzielen, einschließlich der Steuerung von Motordrehzahl, Drehmoment und Leistungsfaktor, was anspruchsvolle Leistungselektronik und Steuerungssysteme erfordern kann.
 
 **Höheres Gewicht und größere Größe:** Induktionsmotoren können im Vergleich zu einigen anderen Motortypen größer und schwerer sein, was das Fahrzeuggewicht und die Verpackungsüberlegungen beeinflussen kann.
-
-{{< pagenavigation b_url="../" b_title="Motoren & Antriebseinheiten" f_url="../pmsm/" f_title="Permanentmagnet-Synchronmotoren" >}}

@@ -25,6 +25,3 @@ El enfriamiento directo puede proporcionar una transferencia de calor más efici
 {{<evkxdisplayaddarticle />}}
 
 La elección del método de enfriamiento depende de varios factores, como los requisitos de potencia y temperatura del motor, el entorno operativo y las consideraciones de costo. Una refrigeración adecuada es esencial para mantener el rendimiento, la eficiencia y la fiabilidad de los motores eléctricos de los vehículos eléctricos, y es un aspecto importante del diseño y la integración de los motores en los vehículos eléctricos.
-
-
-{{< pagenavigation b_url="../inverter/" b_title="Inversor" f_url="../gears/" f_title="Engranajes" >}}

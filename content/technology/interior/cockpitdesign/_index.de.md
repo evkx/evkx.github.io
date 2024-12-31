@@ -75,5 +75,3 @@ Dieses Design bietet nur einen Stauraum und eine Armlehne, ohne mit dem Armature
 Dieses Design verfügt über eine zweistufige Konsole mit einem unteren Abschnitt für Stauraum und Getränkehalter und einem oberen Abschnitt, der die Audio- und Klimasysteme des Autos beherbergt.
 
 {{< sitefiguresized thumb="technology/interior/cockpitdesign/hyundaiioniq6cockpit_1_st.jpg" width="3000" height="2000" title="Hyundai Ioniq6 zweistufige Mittelkonsole" >}}
-
-{{< pagenavigation b_url="../" b_title="Innenraum" f_url="../interiorstorage/" f_title="Innenraum-Stauraum" >}}

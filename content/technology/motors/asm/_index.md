@@ -51,5 +51,3 @@ Induction motors also have some limitations in the context of EVs, including:
 **More Complex Control:** Induction motors require complex control algorithms to achieve optimal performance, including control of motor speed, torque, and power factor, which can require sophisticated power electronics and control systems.
 
 **Higher Weight and Size:** Induction motors may be larger and heavier compared to some other motor types, impacting vehicle weight and packaging considerations.
-
-{{< pagenavigation b_url="../" b_title="Motors & Drive Units" f_url="../pmsm/" f_title="Permanent Magnet Synchronous motors" >}}

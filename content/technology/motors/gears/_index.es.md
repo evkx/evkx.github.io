@@ -27,5 +27,3 @@ Estas cajas de cambios tienen múltiples relaciones de transmisión que permiten
 Vale la pena señalar que algunos vehículos eléctricos, particularmente aquellos con cajas de cambios de una sola velocidad o sistemas de transmisión directa, no utilizan engranajes tradicionales en absoluto. En cambio, se basan en sofisticados algoritmos de control de motores y electrónica de potencia para entregar el par y la potencia necesarios a las ruedas sin necesidad de engranajes físicos. El tipo específico de caja de cambios utilizada en una unidad de propulsión de vehículos eléctricos depende de factores como el tamaño del vehículo, los requisitos de rendimiento, las condiciones de conducción y las consideraciones de diseño.
 
 [Volver al artículo principal](../#motor-setup)
-
-{{< pagenavigation b_url="../cooling" b_title="Refrigeración del motor" f_url="../../regen/" f_title="Frenado regenerativo" >}}

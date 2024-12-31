@@ -18,5 +18,3 @@ Les véhicules électriques ont plus de rangement intérieur que leurs homologue
 Une boîte à gants est un compartiment dans le tableau de bord d'une voiture qui peut être utilisé pour ranger de petits objets, tels que des gants, des documents, des cartes, etc. Une boîte à gants peut être verrouillée ou déverrouillée avec une clé ou un bouton. Une boîte à gants peut également avoir une lumière à l’intérieur pour aider l’utilisateur à voir le contenu. Certains véhicules électriques ont des boîtes à gants similaires aux voitures à essence, tandis que d’autres ont des boîtes à gants plus spacieuses ou innovantes. Par exemple, la Tesla Model S dispose d'une boîte à gants qui peut être ouverte et fermée avec une commande sur écran tactile. La Ford Mustang Mach-E dispose d'une boîte à gants pouvant accueillir un ordinateur portable ou une tablette.
 
 ## Rangement de porte
-
-{{< pagenavigation b_url="../cockpitdesign/" b_title="Conception et disposition du cockpit" f_url="../../lights/" f_title="Lumières" >}}

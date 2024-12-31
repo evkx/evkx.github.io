@@ -80,5 +80,3 @@ Denne utformingen gir kun et oppbevaringsrom og et armlen. Den er ikke koblet ti
 Denne designen har en to-lags konsoll, med en nedre del for oppbevaring og koppholdere og en øvre del som rommer bilens lyd- og klimakontrollsystemer.
 
 {{< sitefiguresized thumb="technology/interior/cockpitdesign/hyundaiioniq6cockpit_1_st.jpg" width="3000" height="2000" title="Hyundai Ioniq6 delt nivå midtkonsoll" >}}
-
-{{< pagenavigation b_url="../" b_title="Interiør" f_url="../interiorstorage/" f_title="Innvendig oppbevaring" >}}

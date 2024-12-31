@@ -25,5 +25,3 @@ Le refroidissement direct peut fournir un transfert de chaleur plus efficace, ma
 {{<evkxdisplayaddarticle />}}
 
 Le choix de la méthode de refroidissement dépend de divers facteurs, tels que les exigences de puissance et de température du moteur, l'environnement d'exploitation et les considérations de coût. Un refroidissement adéquat est essentiel pour maintenir les performances, l’efficacité et la fiabilité des moteurs électriques des véhicules électriques, et constitue un aspect important de la conception et de l’intégration des moteurs dans les véhicules électriques.
-
-{{< pagenavigation b_url="../inverter/" b_title="Inverter" f_url="../gears/" f_title="Engrenages" >}}

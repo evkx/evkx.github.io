@@ -51,5 +51,3 @@ Die Zeiten, in denen Autoinnenräume nach Sonnenuntergang in Dunkelheit gehüllt
 Dieser umfangreiche Abschnitt wird die Welt der Ambientebeleuchtungen in Autos, ihre Ursprünge, Funktionen, Typen und die neuesten Innovationen erkunden.
 
 [Erfahren Sie mehr über Ambientebeleuchtung](ambientlighting)
-
-{{< pagenavigation b_url="../interior/" b_title="Innenraum" f_url="headlights/" f_title="Scheinwerfer" >}}

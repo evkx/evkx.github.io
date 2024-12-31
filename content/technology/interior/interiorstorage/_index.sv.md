@@ -19,4 +19,3 @@ Ett handskfack är ett utrymme i instrumentbrädan på en bil som kan användas 
 
 ## Dörrförvaring
 
-{{< pagenavigation b_url="../cockpitdesign/" b_title="Cockpit design och layout" f_url="../../lights/" f_title="Ljus" >}}

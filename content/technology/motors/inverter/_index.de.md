@@ -31,5 +31,3 @@ Zusammenfassend lässt sich sagen, dass der Wechselrichter eine kritische Kompon
 Wenn Sie mehr über Wechselrichter erfahren möchten, empfehlen wir Ihnen, diesen Tech Talk von Lucid Motors anzusehen.
 
 {{< youtube fKhxxKCPwzc >}}
-
-{{< pagenavigation b_url="../wrsm/" b_title="WRSM" f_url="../cooling/" f_title="Motorkühlung" >}}

@@ -61,5 +61,3 @@ Da die Technologie weiterhin Fortschritte macht, können wir weitere Innovatione
 **Gesundheit und Wohlbefinden:** Ambientebeleuchtung könnte auch verwendet werden, um Gesundheit und Wohlbefinden im Auto zu fördern. Zum Beispiel hat die Forschung gezeigt, dass bestimmte Lichtfarben die Stimmung, den Schlaf und das Wohlbefinden beeinflussen können. Wir könnten die Verwendung von Ambientebeleuchtung sehen, die Entspannung fördert, Stress reduziert oder sich sogar an den zirkadianen Rhythmus des Fahrers anpasst, um ein komfortableres und gesünderes Fahrerlebnis zu bieten.
 
 **Augmented Reality (AR) Beleuchtung:** Da sich die Augmented-Reality-Technologie weiterentwickelt, könnten wir die Integration von Ambientebeleuchtung mit AR-Displays im Auto sehen. Dies könnte ein immersiveres und interaktiveres Erlebnis schaffen, bei dem sich die Ambientebeleuchtung dynamisch an die virtuelle Umgebung anpasst, die vom AR-System angezeigt wird, und das gesamte Fahrerlebnis verbessert.
-
-{{< pagenavigation b_url="../rearlights/" b_title="Rücklichter" f_url="../../motors/" f_title="Motoren & Antriebseinheiten" >}}

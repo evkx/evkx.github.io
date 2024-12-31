@@ -113,6 +113,3 @@ Noen modeller med Quad motor oppsett er
 Nedenfor ser du Rivian R1T Quad-motoren gjøre en tanksving med quad-motoroppsettet.
 
 {{< youtube yzwM8KE2L3I >}}
-
-
-{{< pagenavigation b_url="../lights/" b_title="Lys" f_url="asm/" f_title="Induksjonsmotorer" >}}

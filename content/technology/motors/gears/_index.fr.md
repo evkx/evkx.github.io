@@ -26,5 +26,3 @@ Ces boîtes de vitesses ont plusieurs rapports de démultiplication qui permette
 Il convient de noter que certains véhicules électriques, en particulier ceux équipés de boîtes de vitesses à un seul rapport ou de systèmes d'entraînement direct, n'utilisent pas du tout les vitesses traditionnelles. Au lieu de cela, ils s'appuient sur une électronique de puissance sophistiquée et des algorithmes de contrôle du moteur pour fournir le couple et la puissance requis aux roues sans avoir besoin d'engrenages physiques. Le type spécifique de boîte de vitesses utilisé dans une unité de transmission EV dépend de facteurs tels que la taille du véhicule, les exigences de performance, les conditions de conduite et les considérations de conception.
 
 [Retour à l'article principal](../#motor-setup)
-
-{{< pagenavigation b_url="../cooling" b_title="Refroidissement du moteur" f_url="../../regen/" f_title="Freinage régénératif" >}}

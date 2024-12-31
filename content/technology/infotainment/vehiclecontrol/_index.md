@@ -20,5 +20,3 @@ For cars with configurable drive setups, these settings are typically available 
 ## Climate System
 
 Many infotainment systems also include controls for the climate system. For more details, read our [climate system technology article](../climatesystem/).
-
-{{< pagenavigation b_url="../smartphoneintegration/" b_title="Smartphone Integration" f_url="../../interior/" f_title="Interior" >}}

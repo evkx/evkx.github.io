@@ -60,6 +60,3 @@ A medida que la tecnología continúa avanzando, podemos esperar ver más innova
 **Salud y bienestar:** La iluminación ambiental también podría usarse para promover la salud y el bienestar dentro del automóvil. Por ejemplo, las investigaciones han demostrado que ciertos colores de luz pueden afectar el estado de ánimo, el sueño y el bienestar. Es posible que veamos el uso de iluminación ambiental que promueva la relajación, reduzca el estrés o incluso se ajuste al ritmo circadiano del conductor para una experiencia de conducción más cómoda y saludable.
 
 **Iluminación de realidad aumentada (AR):** A medida que la tecnología de realidad aumentada continúa desarrollándose, es posible que veamos la integración de la iluminación ambiental con pantallas AR dentro del automóvil. Esto podría crear una experiencia más inmersiva e interactiva, donde la iluminación ambiental podría cambiar dinámicamente para coincidir con el entorno virtual mostrado por el sistema AR, mejorando la experiencia de conducción general.
-
-
-{{< pagenavigation b_url="../rearlights/" b_title="Luces traseras" f_url="../../motors/" f_title="Motores y unidades de accionamiento" >}}

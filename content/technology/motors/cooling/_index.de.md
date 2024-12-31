@@ -31,5 +31,3 @@ Die Flüssigkeitskühlung beinhaltet das Zirkulieren eines Kühlmittels, wie Was
 {{<evkxdisplayaddarticle />}}
 
 Die Wahl der Kühlmethode hängt von verschiedenen Faktoren ab, wie den Leistungs- und Temperaturanforderungen des Motors, der Betriebsumgebung und den Kostenüberlegungen. Eine ordnungsgemäße Kühlung ist entscheidend für die Aufrechterhaltung der Leistung, Effizienz und Zuverlässigkeit von Elektromotoren in EVs und ist ein kritischer Aspekt des Motordesigns und der Integration in Elektrofahrzeuge.
-
-{{< pagenavigation b_url="../inverter/" b_title="Wechselrichter" f_url="../gears/" f_title="Getriebe" >}}

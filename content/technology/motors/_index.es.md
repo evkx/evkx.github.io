@@ -111,5 +111,3 @@ Algunos modelos con configuración de motor cuádruple son
 A continuación, puede ver el motor cuádruple Rivian R1T hacer un giro de tanque con la configuración del motor cuádruple.
 
 {{< youtube yzwM8KE2L3I >}}
-
-{{< pagenavigation b_url="../lights/" b_title="Luces" f_url="asm/" f_title="Motores de inducción" >}}

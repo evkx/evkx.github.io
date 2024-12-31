@@ -31,5 +31,3 @@ Liquid cooling involves circulating a coolant, such as water or a mixture of wat
 {{<evkxdisplayaddarticle />}}
 
 The choice of cooling method depends on various factors, such as the power and temperature requirements of the motor, the operating environment, and cost considerations. Proper cooling is essential for maintaining the performance, efficiency, and reliability of electric motors in EVs, and it is a critical aspect of motor design and integration in electric vehicles.
-
-{{< pagenavigation b_url="../inverter/" b_title="Inverter" f_url="../gears/" f_title="Gears" >}}

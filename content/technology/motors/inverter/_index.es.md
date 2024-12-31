@@ -31,5 +31,3 @@ En resumen, el inversor es un componente crítico en la unidad de propulsión de
 Si desea obtener más información sobre los inversores, le recomendamos ver esta charla técnica de Lucid Motors.
 
 {{< youtube fKhxxKCPwzc >}}
-
-{{< pagenavigation b_url="../wrsm/" b_title="WRSM" f_url="../cooling/" f_title="Enfriamiento del motor" >}}

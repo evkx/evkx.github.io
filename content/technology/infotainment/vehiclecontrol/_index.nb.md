@@ -22,5 +22,3 @@ Avhengig av modell kan du typisk bytte mellom moduser som kan endres
 ## Klimasystem
 
 Mange infotainmentsystemer har kontroller for klimasystemet. Les mer i vår artikkel om klimasystemteknologi.
-
-{{< pagenavigation b_url="../smartphoneintegration/" b_title="Smartphone integration" f_url="../../interior/" f_title="Interior" >}}

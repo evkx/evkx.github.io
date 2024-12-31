@@ -51,5 +51,3 @@ De dage er forbi, hvor bilinteriør var indhyllet i mørke, da solen gik ned. I 
    Denne omfattende artikelsektion vil udforske verden af ​​omgivende belysning i biler, deres oprindelse, funktioner, typer og de seneste innovationer.
 
 [Find ud af omgivende belysning.](ambientlighting/)
-
-{{< pagenavigation b_url="../interior/" b_title="Interior" f_url="headlights/" f_title="Forlygter og DRL" >}}

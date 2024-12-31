@@ -113,5 +113,3 @@ Some models with Quad motor setup is
 Below, you see the Rivian R1T Quad motor do a tank turn with the quad motor setup.
 
 {{< youtube yzwM8KE2L3I >}}
-
-{{< pagenavigation b_url="../lights/" b_title="Lights" f_url="asm/" f_title="Induction Motors" >}}

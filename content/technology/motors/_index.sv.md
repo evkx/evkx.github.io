@@ -111,5 +111,3 @@ Vissa modeller med Quad-motorinställning är
 Nedan ser du Rivian R1T Quad-motorn som gör en tankvändning med fyrhjulsmotorinställningen.
 
 {{< youtube yzwM8KE2L3I >}}
-
-{{< pagenavigation b_url="../lights/" b_title="Ljus" f_url="asm/" f_title="Induktionsmotorer" >}}

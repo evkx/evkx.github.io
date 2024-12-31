@@ -59,6 +59,3 @@ Outre l’esthétique, l’éclairage d’ambiance intérieur des voitures offre
 **Santé et bien-être :** L'éclairage ambiant pourrait également être utilisé pour promouvoir la santé et le bien-être à l'intérieur de la voiture. Par exemple, des recherches ont montré que certaines couleurs de lumière peuvent affecter l’humeur, le sommeil et le bien-être. Nous pouvons voir l'utilisation d'un éclairage ambiant qui favorise la relaxation, réduit le stress ou même s'adapte au rythme circadien du conducteur pour une expérience de conduite plus confortable et plus saine.
 
 **Éclairage de réalité augmentée (AR) :** À mesure que la technologie de réalité augmentée continue de se développer, nous pourrions assister à l'intégration de l'éclairage ambiant avec les écrans AR à l'intérieur de la voiture. Cela pourrait créer une expérience plus immersive et interactive, dans laquelle l'éclairage ambiant pourrait changer de manière dynamique pour correspondre à l'environnement virtuel affiché par le système AR, améliorant ainsi l'expérience de conduite globale.
-
-
-{{< pagenavigation b_url="../rearlights/" b_title="Feux arrière" f_url="../../motors/" f_title="Moteurs et unités d'entraînement" >}}

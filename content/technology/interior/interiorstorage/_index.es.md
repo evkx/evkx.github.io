@@ -18,5 +18,3 @@ Los vehículos eléctricos tienen más almacenamiento interior que sus homólogo
 Una guantera es un compartimento en el tablero de un automóvil que se puede usar para guardar artículos pequeños, como guantes, documentos, mapas, etc. Una guantera se puede cerrar o desbloquear con una llave o un botón. Una guantera también puede tener una luz en su interior para ayudar al usuario a ver el contenido. Algunos vehículos eléctricos tienen guanteras similares a las de los coches de gasolina, mientras que otros tienen guanteras más espaciosas o innovadoras. Por ejemplo, el Tesla Model S tiene una guantera que se puede abrir y cerrar con un comando de pantalla táctil. El Ford Mustang Mach-E tiene una guantera en la que cabe una computadora portátil o una tableta.
 
 ## Almacenamiento en puerta
-
-{{< pagenavigation b_url="../cockpitdesign/" b_title="Diseño y distribución de la cabina" f_url="../../lights/" f_title="Luces" >}}

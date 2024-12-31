@@ -51,6 +51,3 @@ Induktionsmotorer har også nogle begrænsninger i forhold til elbiler, herunder
 **Mere kompleks kontrol:** Induktionsmotorer kræver komplekse kontrolalgoritmer for at opnå optimal ydeevne, herunder kontrol af motorhastighed, moment og effektfaktor, hvilket kan kræve sofistikeret kraftelektronik og kontrolsystemer.
 
 **Højere vægt og størrelse:** Induktionsmotorer kan være større og tungere sammenlignet med nogle andre motortyper, hvilket kan påvirke køretøjets vægt og emballageovervejelser.
-
-
-{{< pagenavigation b_url="../" b_title="Motorer og drivenheder" f_url="../pmsm/" f_title="Permanent Magnet Synkronmotorer" >}}

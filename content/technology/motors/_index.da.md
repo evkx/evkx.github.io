@@ -113,5 +113,3 @@ Nogle modeller med Quad motor opsætning er
 Nedenfor ser du Rivian R1T Quad-motoren, der laver en tankvending med quad-motoropsætningen.
 
 {{< youtube yzwM8KE2L3I >}}
-
-{{< pagenavigation b_url="../lights/" b_title="Lys" f_url="asm/" f_title="Induktionsmotorer" >}}

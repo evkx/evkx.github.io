@@ -22,5 +22,3 @@ Selon le modèle que vous utilisez habituellement, vous pouvez changer de mode e
 ## Système climatique
 
 De nombreux systèmes d'infodivertissement disposent de commandes pour le système de climatisation. Pour en savoir plus, consultez notre article sur la technologie du système climatique.
-
-{{< pagenavigation b_url="../smartphoneintegration/" b_title="Intégration smartphone" f_url="../../interior/" f_title="Intérieur" >}}

@@ -77,5 +77,3 @@ Denna design ger endast ett förvaringsfack och ett armstöd. Den är inte anslu
 Denna design har en tvåvåningskonsol, med en nedre del för förvaring och mugghållare och en övre del som innehåller bilens ljud- och klimatsystem.
 
 {{< sitefiguresized thumb="technology/interior/cockpitdesign/hyundaiioniq6cockpit_1_st.jpg" width="3000" height="2000" title="Hyundai Ioniq6 mittkonsol med delad nivå" >}}
-
-{{< pagenavigation b_url="../" b_title="Interior" f_url="../interiorstorage/" f_title="Innvendig oppbevaring" >}}

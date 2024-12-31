@@ -76,5 +76,3 @@ Beispielsweise hat der Audi Q6 e-tron eine zusätzliche Dimension zur Ausstiegsw
 Unten ist ein Video von Audi, das zeigt, wie ihre OLED-Technologie funktioniert.
 
 {{< youtube OMx8x8J6Pro >}}
-
-{{< pagenavigation b_url="../headlights/" b_title="Scheinwerfer & DRL" f_url="../ambientlighting/" f_title="Ambientebeleuchtung" >}}

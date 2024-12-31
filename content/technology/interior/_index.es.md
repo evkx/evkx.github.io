@@ -58,6 +58,3 @@ Algunos de los materiales que se utilizan o se están desarrollando para el inte
 {{< sitefiguresized thumb="technology/interior/urbansphere_1_st.jpg" width="3000" height="2249" title="Interior del Audi Urbansphere Concept" >}}
 
 Continuar a una de las subsecciones de este artículo.
-
-
-{{< pagenavigation b_url="../infotainment/" b_title="Sistema de infoentretenimiento" f_url="cockpitdesign/" f_title="Diseño y disposición de la cabina" >}}

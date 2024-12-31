@@ -52,6 +52,3 @@ Les moteurs à induction présentent également certaines limites dans le contex
 **Contrôle plus complexe :** Les moteurs à induction nécessitent des algorithmes de contrôle complexes pour obtenir des performances optimales, notamment le contrôle de la vitesse du moteur, du couple et du facteur de puissance, ce qui peut nécessiter une électronique de puissance et des systèmes de contrôle sophistiqués.
 
 **Poids et taille plus élevés :** Les moteurs à induction peuvent être plus gros et plus lourds que certains autres types de moteurs, ce qui peut avoir un impact sur le poids du véhicule et les considérations d'emballage.
-
-
-{{< pagenavigation b_url="../" b_title="Moteurs et unités d'entraînement" f_url="../pmsm/" f_title="Moteurs synchrones à aimant permanent" >}}

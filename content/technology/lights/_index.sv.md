@@ -51,5 +51,3 @@ Förbi är de dagar då bilinteriörer var höljda i mörker när solen gick ner
    Detta omfattande artikelavsnitt kommer att utforska världen av omgivande belysning i bilar, deras ursprung, funktioner, typer och de senaste innovationerna.
 
 [Ta reda på omgivningsljus.](ambientlighting/)
-
-{{< pagenavigation b_url="../interior/" b_title="Interiör" f_url="headlights/" f_title="Strålkastare" >}}

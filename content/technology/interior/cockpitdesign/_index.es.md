@@ -79,5 +79,3 @@ Este diseño ofrece sólo un área de almacenamiento y un reposabrazos. No está
 Este diseño presenta una consola de dos niveles, con una sección inferior para almacenamiento y portavasos y una sección superior que alberga los sistemas de control de clima y audio del automóvil.
 
 {{< sitefiguresized thumb="technology/interior/cockpitdesign/hyundaiioniq6cockpit_1_st.jpg" width="3000" height="2000" title="Consola central de dos niveles Hyundai Ioniq6" >}}
-
-{{< pagenavigation b_url="../" b_title="Interior" f_url="../interiorstorage/" f_title="Almacenamiento interior" >}}

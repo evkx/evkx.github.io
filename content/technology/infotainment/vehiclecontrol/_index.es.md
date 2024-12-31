@@ -22,5 +22,3 @@ Dependiendo del modelo, normalmente puede cambiar entre modos que podrían cambi
 ## Sistema climático
 
 Muchos sistemas de infoentretenimiento tienen controles para el sistema climático. Lea más en nuestro artículo sobre tecnología de sistemas climáticos.
-
-{{< pagenavigation b_url="../smartphoneintegration/" b_title="Integración de smartphone" f_url="../../interior/" f_title="Interior" >}}

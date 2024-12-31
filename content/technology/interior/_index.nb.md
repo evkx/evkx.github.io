@@ -59,5 +59,3 @@ Noen av materialene som brukes eller utvikles for EV-interiør er:
 {{< sitefiguresized thumb="technology/interior/urbansphere_1_st.jpg" width="3000" height="2249" title="Audi Urbansphere Concept interiør" >}}
 
 Fortsett til en av underdelene i denne artikkelen
-
-{{< pagenavigation b_url="../infotainment/" b_title="Infotainment System" f_url="cockpitdesign/" f_title="Cockpitdesign og layout" >}}

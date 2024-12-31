@@ -77,5 +77,3 @@ Audi Q6 e-tron har till exempel lagt till en extra dimension till utgångsvarnin
 Nedan kan du se en video från Audi som visar hur deras OLED fungerar.
 
 {{< youtube OMx8x8J6Pro >}}
-
-{{< pagenavigation b_url="../headlights/" b_title="Strålkastare och DRL" f_url="../ambientlighting/" f_title="Omgivningsbelysning" >}}

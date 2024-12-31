@@ -89,5 +89,3 @@ The video below demonstrates how the lights work on the Audi e-tron GT, includin
 {{< sitefiguresized thumb="technology/lights/headlights/q6headlights_2_st.jpg" width="1800" height="1200" title="Audi Q6 e-tron with low beam (DRL dimmed)" >}}
 
 {{< sitefiguresized thumb="technology/lights/headlights/q6headlights_3_st.jpg" width="1800" height="1200" title="Audi Q6 e-tron with high beam LED Matrix and low beam modules active (DRL dimmed)" >}}
-
-{{< pagenavigation b_url="../" b_title="Lights" f_url="../rearlights/" f_title="Rear lights" >}}

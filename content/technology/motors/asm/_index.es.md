@@ -51,6 +51,3 @@ Los motores de inducción también tienen algunas limitaciones en el contexto de
 **Control más complejo:** Los motores de inducción requieren algoritmos de control complejos para lograr un rendimiento óptimo, incluido el control de la velocidad del motor, el par y el factor de potencia, lo que puede requerir sistemas de control y electrónica de potencia sofisticados.
 
 **Mayor peso y tamaño:** Los motores de inducción pueden ser más grandes y pesados en comparación con otros tipos de motores, lo que puede afectar el peso del vehículo y las consideraciones de embalaje.
-
-
-{{< pagenavigation b_url="../" b_title="Motores y unidades de accionamiento" f_url="../pmsm/" f_title="Motores síncronos de imanes permanentes" >}}

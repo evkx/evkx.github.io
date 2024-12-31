@@ -93,6 +93,3 @@ El siguiente video muestra cómo funcionan las luces en el Audi e-tron GT, inclu
 {{< sitefiguresized thumb="technology/lights/headlights/q6headlights_2_st.jpg" width="1800" height="1200" title="Audi Q6 e-tron con luz de cruce (DRL atenuada)" >}}
 
 {{< sitefiguresized thumb="technology/lights/headlights/q6headlights_3_st.jpg" width="1800" height="1200" title="Audi Q6 e-tron con matriz LED de luz de carretera y módulos de luz de cruce activos (DRL atenuado)" >}}
-
-
-{{< pagenavigation b_url="../" b_title="Luces" f_url="../rearlights/" f_title="Luces traseras" >}}

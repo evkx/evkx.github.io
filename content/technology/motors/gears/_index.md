@@ -35,5 +35,3 @@ Some EVs use a limited-slip differential, which provides better traction and han
 It's worth noting that some EVs, particularly those with single-speed gearboxes or direct drive systems, do not use traditional gears at all. Instead, they rely on sophisticated power electronics and motor control algorithms to deliver the required torque and power to the wheels without the need for physical gears. The specific type of gearbox used in an EV drive unit depends on factors such as the vehicle's size, performance requirements, driving conditions, and design considerations.
 
 [Back to main article](../#motor-setup)
-
-{{< pagenavigation b_url="../cooling" b_title="Motor Cooling" f_url="../../regen/" f_title="Regenerative Braking" >}}

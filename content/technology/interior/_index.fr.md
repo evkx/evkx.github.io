@@ -60,4 +60,4 @@ Certains des matériaux utilisés ou en cours de développement pour les intéri
 
 Continuer vers l'une des sous-sections de cet article
 
-{{< pagenavigation b_url="../infotainment/" b_title="Système d'infodivertissement" f_url="cockpitdesign/" f_title="Conception et aménagement du cockpit" >}}
+{{<  b_url="../infotainment/" b_title="Système d'infodivertissement" f_url="cockpitdesign/" f_title="Conception et aménagement du cockpit" >}}

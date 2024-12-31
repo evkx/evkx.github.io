@@ -80,6 +80,3 @@ Cette conception ne donne qu'un espace de rangement et un accoudoir. Il n'est pa
 Cette conception comprend une console à deux niveaux, avec une section inférieure pour le rangement et les porte-gobelets et une section supérieure qui abrite les systèmes audio et de climatisation de la voiture.
 
 {{< sitefiguresized thumb="technology/interior/cockpitdesign/hyundaiioniq6cockpit_1_st.jpg" width="3000" height="2000" title="Console centrale à deux niveaux Hyundai Ioniq6" >}}
-
-
-{{< pagenavigation b_url="../" b_title="Intérieur" f_url="../interiorstorage/" f_title="Rangement intérieur" >}}

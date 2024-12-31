@@ -77,5 +77,3 @@ For eksempel har Audi Q6 e-tron lagt til en ekstra dimensjon til funksjonen for 
 Under ser du en video fra Audi som viser hvordan deres OLED fungerer.
 
 {{< youtube OMx8x8J6Pro >}}
-
-{{< pagenavigation b_url="../headlights/" b_title="Frontlykter og DRL" f_url="../ambientlighting/" f_title="Ambient belysning" >}}

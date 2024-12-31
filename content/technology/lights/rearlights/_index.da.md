@@ -76,5 +76,3 @@ Eksempelvis har Audi Q6 e-tron tilføjet en ekstra dimension til udgangsadvarsel
 Herunder kan du se en video fra Audi, der viser, hvordan deres OLED fungerer.
 
 {{< youtube OMx8x8J6Pro >}}
-
-{{< pagenavigation b_url="../headlights/" b_title="Forlygter og DRL" f_url="../ambientlighting/" f_title="Omgivende belysning" >}}

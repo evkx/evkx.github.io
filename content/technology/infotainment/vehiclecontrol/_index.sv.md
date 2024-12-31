@@ -22,5 +22,3 @@ Beroende på modell kan du vanligtvis växla mellan lägen som kan ändras
 ## Klimatsystem
 
 Många infotainmentsystem har reglage för klimatsystemet. Läs mer i vår artikel om klimatsystemteknik.
-
-{{< pagenavigation b_url="../smartphoneintegration/" b_title="Smartphone integration" f_url="../../interior/" f_title="Interiör" >}}

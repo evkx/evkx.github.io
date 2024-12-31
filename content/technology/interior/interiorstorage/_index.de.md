@@ -21,5 +21,3 @@ Ein Handschuhfach ist ein Fach im Armaturenbrett, das zur Aufbewahrung kleiner G
 ## Tür-Stauraum
 
 Tür-Stauraum umfasst typischerweise Taschen oder Behälter, die sich in den Türverkleidungen befinden. Diese können verwendet werden, um Gegenstände wie Wasserflaschen, Regenschirme oder Karten aufzubewahren. Die Größe und das Design der Tür-Stauraumfächer können variieren, wobei einige EVs innovativere oder geräumigere Lösungen im Vergleich zu traditionellen benzinbetriebenen Autos bieten.
-
-{{< pagenavigation b_url="../cockpitdesign/" b_title="Cockpit-Design und Layout" f_url="../../lights/" f_title="Lichter" >}}
