@@ -18,8 +18,8 @@ A battery buffer limits the maximum and minimum SOC levels the battery pack can 
 
 The diagram below shows how a brick and top buffer prevent the battery from being discharged below the brick buffer limit and charged above the top buffer.
 
-<a href="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg">
-    <img src="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/chargecurve.drawio.svg">
+    <img src="https://media.evkx.net/multimedia/technology/battery/chargecurve.drawio.svg" class="img-fluid">
 </a>
 
 The buffer size can depend on the type and chemistry of the cells used in the battery pack. For example, some cells may have a higher tolerance for overcharging or over-discharging than others, thus requiring smaller buffers. Some cells may also have different optimal SOC ranges and thus require larger buffers.
@@ -42,8 +42,8 @@ It typically means that the SOC scale is not linear. For example, 0-1% SOC might
 
 The diagram shows how 0-1% is much larger for the displayed SOC than the other percentages.
 
-<a href="hiddenbuffer.drawio.svg">
-    <img src="hiddenbuffer.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/hiddenbuffer.drawio.svg">
+    <img src="https://media.evkx.net/multimedia/technology/battery/hiddenbuffer.drawio.svg" class="img-fluid">
 </a>
 
 This strategy makes it less likely that the EV would run out of battery. The problem with this approach is that drivers typically charge the car when there is 5-10% left to ensure they don’t run out. However, with hidden capacity, the driver ends up charging when there is actually 15-20% battery left, causing them to experience a lower electric range than in reality.

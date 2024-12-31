@@ -18,8 +18,8 @@ Un búfer de batería limita los niveles máximos y mínimos de SOC que puede al
 
 El siguiente diagrama muestra cómo un bloque y un amortiguador superior evitarán que la batería se descargue por debajo del límite del amortiguador de ladrillo y se cargue por encima del límite superior.
 
-<a href="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg">
-    <img src="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/chargecurve.drawio.svg">
+    <img src="https://media.evkx.net/multimedia/technology/battery/chargecurve.drawio.svg" class="img-fluid">
 </a>
 El tamaño del búfer puede depender del tipo y la química de las celdas utilizadas en el paquete de baterías. Por ejemplo, algunas celdas pueden tener una mayor tolerancia a la sobrecarga o la sobredescarga que otras, por lo que requieren buffers más pequeños. Algunas celdas también pueden tener rangos de SOC óptimos diferentes a otros y, por lo tanto, requieren buffers más grandes.
 
@@ -41,8 +41,8 @@ Normalmente significa que la escala SOC no es lineal. Lo que significa que 0-1% 
 
 El diagrama muestra cómo 0-1% es mucho mayor para el SOC mostrado que los otros porcentajes.
 
-<a href="hiddenbuffer.drawio.svg">
-     <img src="hiddenbuffer.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/hiddenbuffer.drawio.svg">
+     <img src="https://media.evkx.net/multimedia/technology/battery/hiddenbuffer.drawio.svg" class="img-fluid">
 </a>
 
 Esta estrategia hace que sea menos probable que el vehículo eléctrico se quede sin batería. El problema con este enfoque es que normalmente se carga el automóvil cuando queda entre un 5% y un 10% para asegurarse de que no se agote, pero cuando hay capacidad oculta, el conductor termina cargando cuando queda entre un 15% y un 20% de batería. izquierda. Este enfoque hace que el propietario experimente una autonomía eléctrica inferior a la real.
