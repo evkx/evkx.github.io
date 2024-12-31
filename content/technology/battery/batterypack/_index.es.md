@@ -20,7 +20,7 @@ Para calcular el tamaño bruto del paquete de baterías, multiplique la capacida
 El siguiente diagrama muestra la configuración de un módulo de batería del Audi Q8 e-tron 55. Este módulo contiene 12 celdas de batería, cuatro de las cuales están montadas en paralelo, y hay tres grupos de esta configuración en paralelo en serie.
 
 <figura>
-<img src="configuration1.drawio.svg" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batterypack/configuration1.drawio.svg" class="img-fluid mx-auto d-block">
 <título de figura>
          <p class="lead text-center fw-semibold">
              módulo 3s4p
@@ -46,7 +46,7 @@ La batería de largo alcance del Kia EV6 tiene 384 celdas en total. Las celdas e
 
 
 <figura>
-<img src="configuration3.drawio.svg" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batterypack/configuration3.drawio.svg" class="img-fluid mx-auto d-block">
 <título de figura>
          <p class="lead text-center fw-semibold">
              módulo 6s2p

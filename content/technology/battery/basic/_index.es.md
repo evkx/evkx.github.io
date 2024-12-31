@@ -14,7 +14,7 @@ Esta reacción en el ánodo se llama reducción y el ánodo se conoce como agent
 El cátodo se conoce como agente oxidante porque acepta iones de litio del ánodo.
 
 <figure>
-<img src="batteryconcept.drawio.svg" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batteryconcept.drawio.svg" class="img-fluid mx-auto d-block">
 <figcaption>
         <p class="lead text-center fw-semibold">
             Battery concept

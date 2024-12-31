@@ -15,7 +15,7 @@ Denna reaktion i anoden kallas reduktion, och anoden är känd som reduktionsmed
 Katoden är känd som oxidationsmedlet eftersom den tar emot litiumjoner från anoden.
 
 <figur>
-<img src="batteryconcept.drawio.svg" alt="battery concept" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batteryconcept.drawio.svg" alt="battery concept" class="img-fluid mx-auto d-block">
 <figcaption>
          <p class="lead text-center fw-semibold">
              Batteri koncept

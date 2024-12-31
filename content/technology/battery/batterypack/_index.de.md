@@ -22,7 +22,7 @@ Um die Bruttokapazität des Batteriepakets zu berechnen, multiplizieren Sie die 
 Das untenstehende Diagramm zeigt die Konfiguration eines Batteriemoduls des Audi Q8 e-tron 55. Dieses Modul enthält 12 Batteriezellen, von denen vier parallel geschaltet sind, und es gibt drei Gruppen dieser parallelen Konfiguration in Serie.
 
 <figure>
-<img src="configuration1.drawio.svg" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batterypack/configuration1.drawio.svg" class="img-fluid mx-auto d-block">
 <figcaption>
     <p class="lead text-center fw-semibold">3s4p Modul</p>
 </figcaption>
@@ -48,7 +48,7 @@ Das Tesla Model Y Long Range verwendet 4.416 Zellen im kleinen 21700-Format, mit
 Die Langstreckenbatterie des Kia EV6 hat insgesamt 384 Zellen, die in 192 Reihen mit zwei Zellen parallel konfiguriert sind und in Modulen mit 12 Zellen strukturiert sind.
 
 <figure>
-<img src="configuration3.drawio.svg" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batterypack/configuration3.drawio.svg" class="img-fluid mx-auto d-block">
 <figcaption>
     <p class="lead text-center fw-semibold">6s2p Modul</p>
 </figcaption>

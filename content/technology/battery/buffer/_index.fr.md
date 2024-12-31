@@ -18,8 +18,8 @@ Un tampon de batterie limite les niveaux SOC maximum et minimum que la batterie 
 
 Le diagramme ci-dessous montre comment une brique et un tampon supérieur empêcheront la batterie d'être déchargée en dessous de la limite du tampon de brique et chargée au-dessus du tampon supérieur.
 
-<a href="chargecurve.drawio.svg">
-     <img src="chargecurve.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg">
+     <img src="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg" class="img-fluid">
 </a>
 
 La taille du tampon peut dépendre du type et de la composition chimique des cellules utilisées dans la batterie. Par exemple, certaines cellules peuvent avoir une tolérance plus élevée que d’autres en matière de surcharge ou de décharge excessive, nécessitant ainsi des tampons plus petits. Certaines cellules peuvent également avoir des plages SOC optimales différentes de celles d’autres et nécessitent donc des tampons plus grands.

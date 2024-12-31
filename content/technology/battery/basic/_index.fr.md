@@ -15,7 +15,7 @@ Cette réaction dans l'anode est appelée réduction, et l'anode est connue sous
 La cathode est connue comme agent oxydant car elle accepte les ions lithium de l’anode.
 
 <figure>
-<img src="batteryconcept.drawio.svg" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batteryconcept.drawio.svg" class="img-fluid mx-auto d-block">
 <légende de la figure>
          <p class="lead text-center fw-semibold">
              Notion de batterie

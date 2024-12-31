@@ -20,8 +20,8 @@ En batteribuffer begrenser de maksimale og laveste SOC-nivåene batteripakken ka
 
 Diagrammet nedenfor viser hvordan en bunn og toppbuffer vil forhindre at batteriet utlades under bunnbuffergrensen eller lades over toppbufferen.
 
-<a href="chargecurve.drawio.svg">
-     <img src="chargecurve.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg">
+     <img src="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg" class="img-fluid">
 </a>
 
 Bufferstørrelsen kan avhenge av typen og kjemien til cellene som brukes i batteripakken. For eksempel kan noen celler ha en høyere toleranse for overlading eller overutlading enn andre, og dermed kreve mindre buffere. Noen celler kan også ha forskjellige optimale SOC-områder enn andre og krever derfor større buffere.

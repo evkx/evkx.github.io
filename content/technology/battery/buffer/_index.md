@@ -18,8 +18,8 @@ A battery buffer limits the maximum and minimum SOC levels the battery pack can 
 
 The diagram below shows how a brick and top buffer prevent the battery from being discharged below the brick buffer limit and charged above the top buffer.
 
-<a href="chargecurve.drawio.svg">
-    <img src="chargecurve.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg">
+    <img src="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg" class="img-fluid">
 </a>
 
 The buffer size can depend on the type and chemistry of the cells used in the battery pack. For example, some cells may have a higher tolerance for overcharging or over-discharging than others, thus requiring smaller buffers. Some cells may also have different optimal SOC ranges and thus require larger buffers.

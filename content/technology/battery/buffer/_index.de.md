@@ -18,8 +18,8 @@ Ein Batteriepuffer begrenzt die maximalen und minimalen SOC-Werte, die das Batte
 
 Das folgende Diagramm zeigt, wie ein Brick- und oberer Puffer verhindern, dass die Batterie unter das Brick-Puffer-Limit entladen und über den oberen Puffer hinaus geladen wird.
 
-<a href="chargecurve.drawio.svg">
-    <img src="chargecurve.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg">
+    <img src="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg" class="img-fluid">
 </a>
 
 Die Puffergröße kann von der Art und Chemie der in dem Batteriepaket verwendeten Zellen abhängen. Zum Beispiel können einige Zellen eine höhere Toleranz gegenüber Überladung oder Tiefentladung haben als andere und erfordern daher kleinere Puffer. Einige Zellen können auch unterschiedliche optimale SOC-Bereiche haben und daher größere Puffer benötigen.

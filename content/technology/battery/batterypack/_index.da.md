@@ -21,7 +21,7 @@ For at beregne bruttobatteripakkens størrelse skal du gange den samlede paralle
 Nedenstående diagram viser konfigurationen af et batterimodul fra Audi Q8 e-tron 55. Dette modul indeholder 12 battericeller, hvoraf fire er monteret parallelt, og der er tre grupper af denne parallelle konfiguration i serie.
 
 <figur>
-<img src="configuration1.drawio.svg" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batterypack/configuration1.drawio.svg" class="img-fluid mx-auto d-block">
 <figcaption>
          <p class="lead text-center fw-semibold">
              3s4p modul
@@ -47,7 +47,7 @@ Kia EV6-langrækkende batteri har i alt 384 celler. Cellerne er konfigureret i 1
 
 
 <figur>
-<img src="configuration3.drawio.svg" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batterypack/configuration3.drawio.svg" class="img-fluid mx-auto d-block">
 <figcaption>
          <p class="lead text-center fw-semibold">
              6s2p modul

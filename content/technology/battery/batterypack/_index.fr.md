@@ -21,7 +21,7 @@ Pour calculer la taille brute de la batterie, multipliez la capacité parallèle
 Le schéma ci-dessous montre la configuration d'un module de batterie de l'Audi Q8 e-tron 55. Ce module contient 12 cellules de batterie, dont quatre sont montées en parallèle, et il existe trois groupes de cette configuration parallèle en série.
 
 <figure>
-<img src="configuration1.drawio.svg" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batterypack/configuration1.drawio.svg" class="img-fluid mx-auto d-block">
 <légende de la figure>
          <p class="lead text-center fw-semibold">
              module 3s4p
@@ -47,7 +47,7 @@ La batterie longue autonomie du Kia EV6 compte 384 cellules au total. Les cellul
 
 
 <figure>
-<img src="configuration3.drawio.svg" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batterypack/configuration3.drawio.svg" class="img-fluid mx-auto d-block">
 <légende de la figure>
          <p class="lead text-center fw-semibold">
              module 6s2p

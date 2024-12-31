@@ -17,7 +17,7 @@ Eine Li-Ionen-Batterie besteht aus mehreren Hauptkomponenten: zwei Elektroden (A
 - Gleichzeitig wird die Kathode reduziert, indem sie Lithium-Ionen aus dem Elektrolyten und Elektronen aus dem externen Stromkreis aufnimmt, wodurch sie positiv aufgeladen wird.
 
 <figure>
-<img src="batteryconcept.drawio.svg" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batteryconcept.drawio.svg" class="img-fluid mx-auto d-block">
 <figcaption>
     <p class="lead text-center fw-semibold">
         Batteriekonzept

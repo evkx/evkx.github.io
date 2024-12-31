@@ -17,7 +17,7 @@ A Li-ion battery consists of several key components: two electrodes (anode and c
 - Simultaneously, the cathode undergoes reduction, gaining lithium ions from the electrolyte and electrons from the external circuit, making it positively charged.
 
 <figure>
-<img src="batteryconcept.drawio.svg" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batteryconcept.drawio.svg" class="img-fluid mx-auto d-block">
 <figcaption>
     <p class="lead text-center fw-semibold">
         Battery Concept

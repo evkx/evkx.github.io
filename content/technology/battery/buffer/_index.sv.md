@@ -18,8 +18,8 @@ En batteribuffert begränsar de högsta och lägsta SOC-nivåerna som batteripak
 
 Diagrammet nedan visar hur en tegel- och toppbuffert kommer att förhindra att batteriet laddas ur under tegelbuffertgränsen och laddas över toppbufferten.
 
-<a href="chargecurve.drawio.svg">
-     <img src="chargecurve.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg">
+     <img src="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg" class="img-fluid">
 </a>
 
 Buffertstorleken kan bero på typen och kemin hos de celler som används i batteripaketet. Till exempel kan vissa celler ha en högre tolerans för överladdning eller överurladdning än andra, vilket kräver mindre buffertar. Vissa celler kan också ha andra optimala SOC-intervall än andra och kräver därför större buffertar.

@@ -22,7 +22,7 @@ To calculate the gross battery pack size, multiply the total parallel capacity i
 The diagram below shows the configuration of a battery module from the Audi Q8 e-tron 55. This module contains 12 battery cells, four of which are mounted in parallel, and there are three groups of this parallel configuration in series.
 
 <figure>
-<img src="configuration1.drawio.svg" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batterypack/configuration1.drawio.svg" class="img-fluid mx-auto d-block">
 <figcaption>
     <p class="lead text-center fw-semibold">3s4p Module</p>
 </figcaption>
@@ -48,7 +48,7 @@ The Tesla Model Y Long Range uses 4,416 cells in the small 21700 format, with 96
 The Kia EV6 long-range battery has 384 cells in total, configured in 192 rows with two cells in parallel, structured in modules with 12 cells.
 
 <figure>
-<img src="configuration3.drawio.svg" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batterypack/configuration3.drawio.svg" class="img-fluid mx-auto d-block">
 <figcaption>
     <p class="lead text-center fw-semibold">6s2p Module</p>
 </figcaption>

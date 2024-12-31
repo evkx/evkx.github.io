@@ -15,7 +15,7 @@ Denne reaksjonen i anode kalles reduksjon, og anoden er kjent som reduksjonsmidl
 Katoden er kjent som oksidasjonsmidlet fordi den aksepterer litiumioner fra anoden.
 
 <figur>
-<img src="batteryconcept.drawio.svg" alt="battery concept" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/batteryconcept.drawio.svg" alt="battery concept" class="img-fluid mx-auto d-block">
 <figcaption>
          <p class="lead text-center fw-semibold">
              Batterikonsept

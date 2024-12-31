@@ -18,8 +18,8 @@ Un búfer de batería limita los niveles máximos y mínimos de SOC que puede al
 
 El siguiente diagrama muestra cómo un bloque y un amortiguador superior evitarán que la batería se descargue por debajo del límite del amortiguador de ladrillo y se cargue por encima del límite superior.
 
-<a href="chargecurve.drawio.svg">
-    <img src="chargecurve.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg">
+    <img src="https://media.evkx.net/multimedia/technology/battery/bufferchargecurve.drawio.svg" class="img-fluid">
 </a>
 El tamaño del búfer puede depender del tipo y la química de las celdas utilizadas en el paquete de baterías. Por ejemplo, algunas celdas pueden tener una mayor tolerancia a la sobrecarga o la sobredescarga que otras, por lo que requieren buffers más pequeños. Algunas celdas también pueden tener rangos de SOC óptimos diferentes a otros y, por lo tanto, requieren buffers más grandes.
 
