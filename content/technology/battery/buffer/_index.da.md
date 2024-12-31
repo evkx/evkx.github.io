@@ -19,8 +19,8 @@ En batteribuffer begrænser de maksimale og minimale SOC-niveauer, som batteripa
 
 Diagrammet nedenfor viser, hvordan en bund- og topbuffer forhindrer batteriet i at aflades under den nederste buffergrænse eller oplades over den øverste buffer.
 
-<a href="https://media.evkx.net/multimedia/technology/battery/chargecurve.drawio.svg">
-      <img src="https://media.evkx.net/multimedia/technology/battery/chargecurve.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/buffer/chargecurve.drawio.svg">
+      <img src="https://media.evkx.net/multimedia/technology/battery/buffer/chargecurve.drawio.svg" class="img-fluid">
 </a>
 
 Bufferstørrelsen kan afhænge af typen og kemien af ​​de celler, der bruges i batteripakken. For eksempel kan nogle celler have en højere tolerance for overopladning eller overafladning end andre, og dermed kræve mindre buffere. Nogle celler kan også have forskellige optimale SOC-intervaller end andre og kræver derfor større buffere.
@@ -43,8 +43,8 @@ Det betyder normalt, at SOC-skalaen ikke er lineær. Det betyder, at 0-1 % er st
 
 Diagrammet viser, hvordan 0-1 % er meget større for den viste SOC end de andre procenter.
 
-<a href="https://media.evkx.net/multimedia/technology/battery/hiddenbuffer.drawio.svg">
-      <img src="https://media.evkx.net/multimedia/technology/battery/hiddenbuffer.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/buffer/hiddenbuffer.drawio.svg">
+      <img src="https://media.evkx.net/multimedia/technology/battery/buffer/hiddenbuffer.drawio.svg" class="img-fluid">
 </a>
 
 Denne strategi gør det mindre sandsynligt, at elbilen løber tør for batteri. Problemet med denne fremgangsmåde er, at man normalt oplader bilen, når der er 5-10% tilbage for at sikre, at man ikke løber tør, men når der er skjult kapacitet, ender chaufføren med at lade op allerede, når der er 15-20% batteri tilbage. . Denne tilgang får ejeren til at opleve en lavere elektrisk rækkevidde end i virkeligheden.

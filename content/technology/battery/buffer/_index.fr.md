@@ -18,8 +18,8 @@ Un tampon de batterie limite les niveaux SOC maximum et minimum que la batterie 
 
 Le diagramme ci-dessous montre comment une brique et un tampon supérieur empêcheront la batterie d'être déchargée en dessous de la limite du tampon de brique et chargée au-dessus du tampon supérieur.
 
-<a href="https://media.evkx.net/multimedia/technology/battery/chargecurve.drawio.svg">
-     <img src="https://media.evkx.net/multimedia/technology/battery/chargecurve.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/buffer/chargecurve.drawio.svg">
+     <img src="https://media.evkx.net/multimedia/technology/battery/buffer/chargecurve.drawio.svg" class="img-fluid">
 </a>
 
 La taille du tampon peut dépendre du type et de la composition chimique des cellules utilisées dans la batterie. Par exemple, certaines cellules peuvent avoir une tolérance plus élevée que d’autres en matière de surcharge ou de décharge excessive, nécessitant ainsi des tampons plus petits. Certaines cellules peuvent également avoir des plages SOC optimales différentes de celles d’autres et nécessitent donc des tampons plus grands.
@@ -42,8 +42,8 @@ Cela signifie généralement que l’échelle SOC n’est pas linéaire. Cela si
 
 Le diagramme montre que 0 à 1 % est beaucoup plus élevé pour le SOC affiché que les autres pourcentages.
 
-<a href="https://media.evkx.net/multimedia/technology/battery/hiddenbuffer.drawio.svg">
-     <img src="https://media.evkx.net/multimedia/technology/battery/hiddenbuffer.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/buffer/hiddenbuffer.drawio.svg">
+     <img src="https://media.evkx.net/multimedia/technology/battery/buffer/hiddenbuffer.drawio.svg" class="img-fluid">
 </a>
 
 Cette stratégie rend moins probable que le véhicule électrique soit à court de batterie. Le problème avec cette approche est que vous chargez généralement la voiture lorsqu'il en reste 5 à 10 % pour vous assurer de ne pas en manquer, mais lorsqu'il y a de la capacité cachée, le conducteur finit par charger déjà lorsqu'il reste 15 à 20 % de batterie. gauche. Cette approche amène le propriétaire à bénéficier d’une autonomie électrique inférieure à celle de la réalité.

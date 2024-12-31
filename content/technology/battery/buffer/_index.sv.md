@@ -18,8 +18,8 @@ En batteribuffert begränsar de högsta och lägsta SOC-nivåerna som batteripak
 
 Diagrammet nedan visar hur en tegel- och toppbuffert kommer att förhindra att batteriet laddas ur under tegelbuffertgränsen och laddas över toppbufferten.
 
-<a href="https://media.evkx.net/multimedia/technology/battery/chargecurve.drawio.svg">
-     <img src="https://media.evkx.net/multimedia/technology/battery/chargecurve.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/buffer/chargecurve.drawio.svg">
+     <img src="https://media.evkx.net/multimedia/technology/battery/buffer/chargecurve.drawio.svg" class="img-fluid">
 </a>
 
 Buffertstorleken kan bero på typen och kemin hos de celler som används i batteripaketet. Till exempel kan vissa celler ha en högre tolerans för överladdning eller överurladdning än andra, vilket kräver mindre buffertar. Vissa celler kan också ha andra optimala SOC-intervall än andra och kräver därför större buffertar.
@@ -42,8 +42,8 @@ Det betyder vanligtvis att SOC-skalan inte är linjär. Det betyder att 0-1 % ä
 
 Diagrammet visar hur 0-1 % är mycket större för den visade SOC än de andra procenttalen.
 
-<a href="https://media.evkx.net/multimedia/technology/battery/hiddenbuffer.drawio.svg">
-      <img src="https://media.evkx.net/multimedia/technology/battery/hiddenbuffer.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/buffer/hiddenbuffer.drawio.svg">
+      <img src="https://media.evkx.net/multimedia/technology/battery/buffer/hiddenbuffer.drawio.svg" class="img-fluid">
 </a>
 
 Denna strategi gör det mindre sannolikt att elbilen tar slut på batteri. Problemet med detta tillvägagångssätt är att du vanligtvis laddar bilen när det är 5-10% kvar för att säkerställa att du inte tar slut, men när det finns dold kapacitet slutar föraren med att ladda redan när det är 15-20% batteri kvar . Detta tillvägagångssätt gör att ägaren upplever en lägre elektrisk räckvidd än i verkligheten.

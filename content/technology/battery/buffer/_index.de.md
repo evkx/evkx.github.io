@@ -18,8 +18,8 @@ Ein Batteriepuffer begrenzt die maximalen und minimalen SOC-Werte, die das Batte
 
 Das folgende Diagramm zeigt, wie ein Brick- und oberer Puffer verhindern, dass die Batterie unter das Brick-Puffer-Limit entladen und über den oberen Puffer hinaus geladen wird.
 
-<a href="https://media.evkx.net/multimedia/technology/battery/chargecurve.drawio.svg">
-    <img src="https://media.evkx.net/multimedia/technology/battery/chargecurve.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/buffer/chargecurve.drawio.svg">
+    <img src="https://media.evkx.net/multimedia/technology/battery/buffer/chargecurve.drawio.svg" class="img-fluid">
 </a>
 
 Die Puffergröße kann von der Art und Chemie der in dem Batteriepaket verwendeten Zellen abhängen. Zum Beispiel können einige Zellen eine höhere Toleranz gegenüber Überladung oder Tiefentladung haben als andere und erfordern daher kleinere Puffer. Einige Zellen können auch unterschiedliche optimale SOC-Bereiche haben und daher größere Puffer benötigen.
@@ -42,8 +42,8 @@ Es bedeutet typischerweise, dass die SOC-Skala nicht linear ist. Zum Beispiel k�
 
 Das Diagramm zeigt, wie 0-1% für den angezeigten SOC viel größer ist als die anderen Prozentsätze.
 
-<a href="https://media.evkx.net/multimedia/technology/battery/hiddenbuffer.drawio.svg">
-    <img src="https://media.evkx.net/multimedia/technology/battery/hiddenbuffer.drawio.svg" class="img-fluid">
+<a href="https://media.evkx.net/multimedia/technology/battery/buffer/hiddenbuffer.drawio.svg">
+    <img src="https://media.evkx.net/multimedia/technology/battery/buffer/hiddenbuffer.drawio.svg" class="img-fluid">
 </a>
 
 Diese Strategie macht es weniger wahrscheinlich, dass das EV ohne Batterie auskommt. Das Problem bei diesem Ansatz ist, dass Fahrer das Auto typischerweise aufladen, wenn noch 5-10% übrig sind, um sicherzustellen, dass sie nicht ohne Batterie auskommen. Mit versteckter Kapazität lädt der Fahrer jedoch auf, wenn tatsächlich noch 15-20% Batterie übrig sind, was dazu führt, dass sie eine geringere elektrische Reichweite erleben als in Wirklichkeit.
