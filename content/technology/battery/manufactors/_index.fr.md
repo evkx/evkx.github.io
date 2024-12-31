@@ -46,8 +46,3 @@ Dans la vidéo ci-dessous, Elliot Richard de l'émission Fully Charged vous fait
 {{< youtube j1jWp9WxGLM >}}
 
 [Pour une liste complète des producteurs de cellules, voir Batterydesign.net](https://www.batterydesign.net/battery-cell/cell-manufacturers/)
-
-<div class="mt-3 mb-3">
-     <a href="../buffer/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Tampon</strong></a>
-     <a href="../warranty/" class="text-decoration-none text-black float-end"><strong>Garantie <i class="bi-arrow-right"></i></strong ></a>
-</div>

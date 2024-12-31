@@ -26,8 +26,4 @@ El siguiente video muestra cómo funciona esto en Merceds Benz con su sistema AL
 {{< youtube XtQeZk-xCqE >}}
 
 Es importante tener en cuenta que los sistemas ALC aún no son capaces de manejar todos los escenarios de conducción y pueden requerir que el conductor tome el control en determinadas situaciones, como cuando las condiciones de la carretera son malas o cuando hay obstáculos inesperados en el camino. Además, el conductor debe permanecer atento y listo para tomar el control del vehículo en cualquier momento, ya que los sistemas ALC no están destinados a reemplazar el papel del conductor en la operación segura del vehículo.
-
-<div class="mt-3 mb-3">
-     <a href="../antilockbrakingsystem/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cambio de carril automático</strong></a>
-     <a href="../automaticemergencybraking/" class="text-decoration-none text-black float-end"><strong>Frenado de emergencia autónomo<i class="bi-arrow-right"></i></strong></a>
-</div>
+ 

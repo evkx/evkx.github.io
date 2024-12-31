@@ -130,8 +130,3 @@ Sin embargo, es importante tener en cuenta que la tecnología de freno por cable
 En resumen, la tecnología de freno por cable es un sistema avanzado que permite una integración perfecta del frenado regenerativo y de fricción en los vehículos eléctricos. Ofrece eficiencia energética, autonomía de conducción y funciones de frenado avanzadas mejoradas, pero también requiere una cuidadosa consideración de la confiabilidad, la seguridad y la educación del conductor. A medida que la tecnología continúa evolucionando, se espera que los sistemas de freno por cable desempeñen un papel importante en el futuro de los sistemas de frenado de los vehículos eléctricos, contribuyendo a un transporte más eficiente y sostenible.
 
 En nuestra base de datos EVKX busca modelos con diferentes tipos de frenos.
-
-<div class="mt-3 mb-3">
-     <a href="../driverassistance/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sistemas avanzados de asistencia al conductor (ADAS )</strong></a>
-     <a href="../cargoandtowing/" class="text-decoration-none text-black float-end"><strong>Capacidad de carga y remolque <i class="bi-arrow-right"></i> </strong></a>
-</div>

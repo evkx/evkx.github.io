@@ -42,8 +42,3 @@ Designet og spesifikasjonene til EV spiller også en rolle i rekkeviddereduksjon
 Elbiler med bedre aerodynamikk eller lavere vekt kan også ha høyere rekkeviddereduksjon enn elbiler med dårligere aerodynamikk eller høyere vekt.
 
 {{< sitefiguresized thumb="technology/cargoandtowing/roofcargo/roofcargo_3_st.jpg" title="Porsche Taycan med takboks" width="2048" height="1280">}}
-
-<div class="mt-3 mb-3">
-    <a href="../frunkcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Frunk last</strong></a>
-    <a href="../hitchcargo/" class="text-decoration-none text-black float-end"><strong>Hengerkrok last <i class="bi-arrow-right"></i></strong></a>
-</div>

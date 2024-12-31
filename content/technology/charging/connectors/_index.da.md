@@ -88,8 +88,3 @@ Forhjørne bruges af nogle og kan være en fordel, hvis du trækker trailer.
 ### Foran
 
 {{< sitefiguresized thumb="technology/charging/connectors/frontport_1_st.jpg" width="3000" height="2000" title="Kia Niro EV med frontopladningsport" >}}
-
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Indlæser</strong></a>
-     <a href="../homecharging/" class="text-decoration-none text-black float-end"><strong>Hjemopladning <i class="bi-arrow-right"></i></strong></a>
-</div>

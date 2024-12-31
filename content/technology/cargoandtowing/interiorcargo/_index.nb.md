@@ -104,8 +104,3 @@ Innvendig last kan bare være kompatibel med enkelte typer gjenstander som eiere
 Innvendig last kan redusere komforten og bekvemmeligheten til passasjerene og sjåføren, da den kan ta opp litt plass som ellers ville blitt brukt til sitteplasser, benplass eller oppbevaring. Innvendig last kan også skape støy, vibrasjoner eller lukt som kan forstyrre passasjerer og sjåfører. Innvendig last kan også påvirke bilens klimakontrollsystem, blokkere luftventilene eller vinduene.
 
 {{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_4_st.jpg" title="Jeep Avenger med en nydelig hund i bagasjerommet" width="3000" height="2000">}}
-
-<div class="mt-3 mb-3">
-    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Laste- og tilhenger muligheter</strong></a>
-    <a href="../frunkcargo/" class="text-decoration-none text-black float-end"><strong>Frunk last <i class="bi-arrow-right"></i></strong></a>
-</div>

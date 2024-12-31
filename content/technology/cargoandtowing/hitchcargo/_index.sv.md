@@ -71,8 +71,3 @@ Jämfört med att ha en låda på taket kan en kopplingsdosa öka effektiviteten
 I videon nedan jämför EV-gurun, Bjørn Nyland, energiförbrukningen för en takbox med en fast box.
 
 {{< youtube N6oZ2id7YhY >}}
-
-<div class="mt-3 mb-3">
-    <a href="../roofcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Taklast</strong></a>
-    <a href="../bedcargo/" class="text-decoration-none text-black float-end"><strong>Last i lastplan <i class="bi-arrow-right"></i></strong></a>
-</div>

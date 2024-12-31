@@ -58,8 +58,3 @@ Der er seks niveauer af autonomi defineret af Society of Automotive Engineers ([
 Det er vigtigt at bemærke, at mange køretøjer på markedet i dag falder ind i niveau 1-2 af autonomi, mens niveau 3-5 stadig er i udviklings- og testfasen. Derudover kan selv køretøjer med højere grad af autonomi stadig kræve et vist niveau af menneskelig overvågning og indgriben i visse situationer.
 
 I øjeblikket er kun [Mercedes EQS](../../models/mercedes/eqs/) godkendt på niveau 3 på nogle markeder.
-
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Elbilteknologi</strong></a>
-     <a href="adaptivecruisecontrol/" class="text-decoration-none text-black float-end"><strong>Adaptive Cruise Control <i class="bi-arrow-right"></i></strong> </a>
-</div>

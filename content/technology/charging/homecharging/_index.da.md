@@ -228,8 +228,3 @@ Nedenfor er en anmeldelsesvideo af de bedste ladestationer for 2023 (oprettet f√
 Se videoen nedenfor for en video med fokus p√• Storbritannien om installation af en hjemmeoplader.
 
 {{< youtube VCx_1Afh3iw >}}
-
-<div class="mt-3 mb-3">
-     <a href="../connectors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Opladningsstik</strong></a>
-     <a href="../dcfastcharging/" class="text-decoration-none text-black float-end"><strong>DC hurtig opladning <i class="bi-arrow-right"></i></strong></a>
-</div>

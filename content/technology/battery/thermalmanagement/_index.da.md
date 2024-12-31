@@ -26,11 +26,3 @@ På billedet herunder ser du både kølekredsløb og en ekstra varmelegeme, der 
 I dette klip kan du se detaljer om det termiske styringssystem på [Audi e-tron GT](/models/e-tron-gt).
 
 {{< youtube zdCiTtRR4TE >}}
-
-<br />
-
-
-<div class="mt-3 mb-3">
-     <a href="../batterymanagment/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Batteristyringssystem</strong> </a>
-     <a href="../cellbalancing/" class="text-decoration-none text-black float-end"><strong>Cellebalancering <i class="bi-arrow-right"></i></strong></a>
-</div>

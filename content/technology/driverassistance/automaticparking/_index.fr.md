@@ -32,9 +32,3 @@ La vidéo ci-dessous montre une démonstration de l'aide au stationnement Merced
 
 
 Il est important de noter que même si le stationnement automatique peut être une fonctionnalité pratique, les conducteurs doivent toujours rester vigilants et conscients de leur environnement, en particulier dans les parkings très fréquentés ou bondés.
-
-
-<div class="mt-3 mb-3">
-     <a href="../automaticemergencysteering/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Direction d'urgence automatique</strong> </a>
-     <a href="../autosteer/" class="text-decoration-none text-black float-end"><strong>Pilotage automatique <i class="bi-arrow-right"></i></strong ></a>
-</div>

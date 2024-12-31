@@ -93,8 +93,3 @@ Algunos utilizan la esquina delantera y puede ser una ventaja si lleva un remolq
 ### Frente
 
 {{< sitefiguresized thumb="technology/charging/connectors/frontport_1_st.jpg" width="3000" height="2000" title="Kia Niro EV con puerto de carga frontal" >}}
-
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cargando</strong></a>
-     <a href="../homecharging/" class="text-decoration-none text-black float-end"><strong>Carga en el hogar <i class="bi-arrow-right"></i></strong></a>
-</div>

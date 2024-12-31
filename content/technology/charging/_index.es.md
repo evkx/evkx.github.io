@@ -56,8 +56,3 @@ El cambio de batería es un método de carga de vehículos eléctricos que impli
 Lea todo sobre [cambio de batería](batteryswap)
 
 {{< sitefiguresized thumb="technology/charging/batteryswap/powerswap_1_st.jpg" width="3000" height="1687" title="Estación de intercambio de baterías Nio Power" >}}
-
-<div class="mt-3 mb-3">
-     <a href="../cargoandtowing/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Capacidades de carga y remolque</strong ></a>
-     <a href="connectors/" class="text-decoration-none text-black float-end"><strong>Conectores de carga <i class="bi-arrow-right"></i></strong></a>
-</div>

@@ -27,8 +27,3 @@ Il s'agit d'une version avancée du régulateur de vitesse traditionnel qui ajus
 **Suivi de la limite de vitesse :** Sur certains modèles, vous pouvez configurer l'ACC pour qu'il respecte la limite de vitesse en fonction des informations de la caméra et de la navigation. Malheureusement, les informations de navigation doivent souvent être mises à jour, elles sont donc généralement désactivées.
 
 Le régulateur de vitesse adaptatif est conçu pour aider les conducteurs à maintenir une distance de sécurité sûre et à réduire la fatigue du conducteur sur les longs trajets sur autoroute. En assumant la responsabilité d'ajuster la vitesse de la voiture en fonction des conditions de circulation, le conducteur peut se concentrer davantage sur la direction et d'autres tâches, ce qui permet une expérience de conduite plus sûre et plus détendue.
-
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Systèmes avancés d'aide à la conduite (ADAS)</strong></a>
-     <a href="../antilockbrakingsystem/" class="text-decoration-none text-black float-end"><strong>Système de freinage antiblocage (ABS)<i class="bi-arrow-right"> </i></strong></a>
-</div>

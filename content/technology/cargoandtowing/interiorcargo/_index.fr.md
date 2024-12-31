@@ -104,8 +104,3 @@ Le chargement intérieur peut n'être compatible qu'avec certains types d'articl
 Le chargement intérieur peut réduire le confort et la commodité des passagers et du conducteur, car il peut occuper de l'espace qui serait autrement utilisé pour les sièges, l'espace pour les jambes ou le rangement. Le chargement intérieur peut également créer du bruit, des vibrations ou des odeurs susceptibles de déranger les passagers et les conducteurs. Le chargement interne peut également affecter le système de climatisation de la voiture, bloquant les bouches d’aération ou les vitres.
 
 {{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_4_st.jpg" title="Jeep Avenger avec un adorable chien dans le coffre" width="3000" height="2000">}}
-
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Capacités de chargement et de remorquage</strong></a>
-     <a href="../frunkcargo/" class="text-decoration-none text-black float-end"><strong>Frunk Cargo <i class="bi-arrow-right"></i></strong></a>
-</div>

@@ -94,8 +94,3 @@ Les batteries Blade sont principalement produites par le fabricant chinois de ba
 {{< sitefiguresized thumb="technology/battery/cell/bladebattery_st.jpg" width="3000" height="1351" title="Batterie BYD Blade" >}}
 
 L’une des principales caractéristiques de sécurité des batteries à lames est l’utilisation d’un séparateur en céramique entre les couches anodique et cathodique de la cellule. Ce séparateur en céramique est plus résistant à l'emballement thermique et offre une meilleure protection contre les courts-circuits internes, réduisant ainsi les risques d'incendie et d'explosion des batteries.
-
-<div class="mt-3 mb-3">
-     <a href="../cellchemistry/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Chimie et pièces cellulaires</strong ></a>
-     <a href="../batterypack/" class="text-decoration-none text-black float-end"><strong>Batterie et configuration <i class="bi-arrow-right"></i> </strong></a>
-</div>

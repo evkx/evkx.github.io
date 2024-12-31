@@ -44,9 +44,3 @@ La plataforma de las camionetas EV puede ofrecer acceso y carga más fácil que 
 ### Menos impacto y molestias
 
 La plataforma de las camionetas EV puede tener menos impacto y molestias que las bacas o los remolques, ya que pueden reducir el peso y la resistencia de la carga, lo que a su vez puede reducir el consumo de energía y la reducción de la autonomía del vehículo. La plataforma de las camionetas EV también puede evitar algunos de los problemas o riesgos asociados con las bacas o remolques, como daños, robo, ruido o inestabilidad de los artículos, o dificultad, peligro o legalidad al conducir, estacionar o maniobrar el vehículo. o el remolque.
-
-
-<div class="mt-3 mb-3">
-     <a href="../roofcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Enganche de carga</strong>< /a>
-     <a href="../towing/" class="text-decoration-none text-black float-end"><strong>Remolque <i class="bi-arrow-right"></i></strong ></a>
-</div>

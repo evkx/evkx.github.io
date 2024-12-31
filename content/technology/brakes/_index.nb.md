@@ -131,8 +131,3 @@ Det er imidlertid viktig å merke seg at brems-by-wire-teknologi også kommer me
 Oppsummert er brems-by-wire-teknologi et avansert system som muliggjør sømløs integrering av regenerativ bremsing og friksjonsbremsing i elbiler. Den tilbyr forbedret energieffektivitet, kjørerekkevidde og avanserte bremsefunksjoner, men krever også nøye vurdering av pålitelighet, sikkerhet og føreropplæring. Ettersom teknologien fortsetter å utvikle seg, forventes bremse-for-wire-systemer å spille en betydelig rolle i fremtiden for EV-bremsesystemer, og bidra til mer effektiv og bærekraftig transport.
 
 I vår EVKX-database søker du etter modeller med forskjellige typer bremser.
-
-<div class="mt-3 mb-3">
-    <a href="../driverassistance/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Advanced driver-assistance systems (ADAS)</strong></a>
-    <a href="../cargoandtowing/" class="text-decoration-none text-black float-end"><strong>Laste- og tilhenger muligheter <i class="bi-arrow-right"></i></strong></a>
-</div>

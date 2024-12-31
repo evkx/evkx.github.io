@@ -83,7 +83,3 @@ Garantien kan også ta hensyn til batteriets alder. For eksempel kan en produsen
 
 It's important to note that the specific terms of the warranty can vary widely between manufacturers, so it's always a good idea to carefully review the warranty information before purchasing an EV.
 
-<div class="mt-3 mb-3">
-    <a href="../manufactors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Produsenter</strong></a>
-    <a href="../../platforms/" class="text-decoration-none text-black float-end"><strong>Elbilplattformer <i class="bi-arrow-right"></i></strong></a>
-</div>

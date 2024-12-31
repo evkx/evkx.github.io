@@ -156,8 +156,3 @@ La FHWA y la Oficina del Censo de EE. UU. utilizan diferentes categorías de veh
 Vea la lista completa en la base de datos EVKX EV [aquí](../../../evsearch/?sortOrder=MaxTrailerSizeDesc)
 
 {{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_4_st.jpg" title="Nio ES8 con carga en el techo y remolque" width="2560" height="1280">}}
-
-<div class="mt-3 mb-3">
-     <a href="../bedcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Caja de carga para camioneta</strong> </a>
-     <a href="../../charging/" class="text-decoration-none text-black float-end"><strong>Cargando <i class="bi-arrow-right"></i> </strong></a>
-</div>

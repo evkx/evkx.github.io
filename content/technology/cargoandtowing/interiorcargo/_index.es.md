@@ -105,8 +105,3 @@ Es posible que la carga interior solo sea compatible con algunos tipos de artíc
 La carga interior puede reducir la comodidad y conveniencia de los pasajeros y del conductor, ya que puede ocupar algo de espacio que de otro modo se usaría para asientos, espacio para las piernas o almacenamiento. La carga interior también puede generar ruido, vibración u olor que pueden molestar a los pasajeros y conductores. La carga interna también puede afectar el sistema de control de clima del automóvil, bloqueando las salidas de aire o las ventanas.
 
 {{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_4_st.jpg" title="Jeep Avenger con un adorable perro en el maletero" width="3000" height="2000">}}
-
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Capacidades de carga y remolque</strong>< /a>
-     <a href="../frunkcargo/" class="text-decoration-none text-black float-end"><strong>Frunk Cargo <i class="bi-arrow-right"></i></strong></a>
-</div>

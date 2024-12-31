@@ -52,8 +52,3 @@ I [2022 Tesla Impact Report](https://www.tesla.com/ns_videos/2022-tesla-impact-r
 ## Sådan bevarer du batteriet
 
 Læs, hvordan du bevarer batteriet i vores [guide](../../../guides/protectingbattery/).
-
-<div class="mt-3 mb-3">
-     <a href="../charging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Oplader</strong></a>
-     <a href="../buffer/" class="text-decoration-none text-black float-end"><strong>Buffer <i class="bi-arrow-right"></i></strong ></a>
-</div>

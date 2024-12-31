@@ -42,9 +42,3 @@ La conception et les spécifications du véhicule électrique jouent également 
 Les véhicules électriques dotés d’un meilleur aérodynamisme ou d’un poids inférieur peuvent également avoir une réduction d’autonomie plus élevée que les véhicules électriques dotés d’un moins bon aérodynamisme ou d’un poids plus élevé.
 
 {{< sitefiguresized thumb="technology/cargoandtowing/roofcargo/roofcargo_3_st.jpg" title="Porsche Taycan avec coffre de toit" width="2048" height="1280">}}
-
-
-<div class="mt-3 mb-3">
-     <a href="../frunkcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Frunk Cargo</strong></a>
-     <a href="../hitchcargo/" class="text-decoration-none text-black float-end"><strong>Hitch Cargo <i class="bi-arrow-right"></i></strong></a>
-</div>

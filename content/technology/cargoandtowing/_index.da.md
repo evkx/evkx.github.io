@@ -50,8 +50,3 @@ Pickup trucks giver mulighed for at transportere mange forskellige typer gods.
 Elbiler (EV'er) bliver mere populære og praktiske til forskellige formål, herunder bugsering. Men mange mennesker kan have spørgsmål eller bekymringer om EV-ydelse og rækkevidde, når de trækker en trailer.
 
 [Du kan læse alt om det i vores bugseringssektion.](bugsering/)
-
-<div class="mt-3 mb-3">
-     <a href="../brakes/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Bremser</strong></a>
-     <a href="interiorcargo/" class="text-decoration-none text-black float-end"><strong>Indvendig last <i class="bi-arrow-right"></i></strong></a>
-</div>

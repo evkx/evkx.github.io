@@ -26,8 +26,4 @@ Den følgende video viser, hvordan dette virker på Mercedes Benz med deres ALC-
 {{< youtube XtQeZk-xCqE >}}
 
 Det er vigtigt at bemærke, at ALC-systemer endnu ikke er i stand til at håndtere alle kørselsscenarier og kan kræve, at føreren tager kontrol i visse situationer, såsom når vejforholdene er dårlige, eller når der er uventede forhindringer i vejen. Desuden skal føreren være opmærksom og klar til at tage kontrol over køretøjet til enhver tid, da ALC-systemer ikke er beregnet til at erstatte førerens rolle i at betjene køretøjet sikkert.
-
-<div class="mt-3 mb-3">
-     <a href="../antilockbrakingsystem/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Blokeringsfrit bremsesystem</i></strong></a>
-     <a href="../automaticemergencybraking/" class="text-decoration-none text-black float-end"><strong>Autonom nødbremse<i class="bi-arrow-right"></i></strong></a>
-</div>
+ 

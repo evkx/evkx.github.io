@@ -93,8 +93,3 @@ Le coin avant est utilisé par certains et peut être un avantage si vous remorq
 ### Devant
 
 {{< sitefiguresized thumb="technology/charging/connectors/frontport_1_st.jpg" width="3000" height="2000" title="Kia Niro EV avec port de recharge avant" >}}
-
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Chargement</strong></a>
-     <a href="../homecharging/" class="text-decoration-none text-black float-end"><strong>Recharge à domicile <i class="bi-arrow-right"></i></strong></a>
-</div>

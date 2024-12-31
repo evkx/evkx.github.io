@@ -42,8 +42,3 @@ I tillegg bygger flere elbilselskaper nå sine egne fabrikker. Som Volkswagen.
 I tillegg kjøper mange bare celler fra celleprodusenter og lager batteriet selv.
 
 [For en fullstendig liste over celleprodusenter se Batterydesign.net](https://www.batterydesign.net/battery-cell/cell-manufacturers/)
-
-<div class="mt-3 mb-3">
-    <a href="../buffer/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Buffer</strong></a>
-    <a href="../warranty/" class="text-decoration-none text-black float-end"><strong>Garranti <i class="bi-arrow-right"></i></strong></a>
-</div>

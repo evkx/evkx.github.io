@@ -117,10 +117,3 @@ Le refroidissement de la batterie utilise un système à base de liquide qui fai
 
 
 Dans <a href="https://youtu.be/Q0LaUx5I_28?t=412" target="_blank">ce test de 1 000 km</a> réalisé par Bjørn Nyland, la BMW i50 a un problème de surchauffe après la charge et a réduit la puissance disponible.
-
-<br />
-
-<div class="mt-3 mb-3">
-     <a href="../batterymanagment/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Gestion de la batterie</strong></a>
-     <a href="../cellbalancing/" class="text-decoration-none text-black float-end"><strong>Équilibrage des cellules <i class="bi-arrow-right"></i></strong></a>
-</div>

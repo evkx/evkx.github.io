@@ -128,8 +128,3 @@ Cependant, il est important de noter que la technologie de freinage électrique 
 En résumé, la technologie de freinage par fil est un système avancé qui permet une intégration transparente du freinage par récupération et par friction dans les véhicules électriques. Il offre une efficacité énergétique, une autonomie et des fonctionnalités de freinage avancées améliorées, mais nécessite également une attention particulière à la fiabilité, à la sécurité et à la formation du conducteur. À mesure que la technologie continue d’évoluer, les systèmes de freinage électrique devraient jouer un rôle important dans l’avenir des systèmes de freinage des véhicules électriques, contribuant ainsi à un transport plus efficace et durable.
 
 Dans notre base de données EVKX, vous recherchez des modèles avec différents types de freins.
-
-<div class="mt-3 mb-3">
-     <a href="../driverassistance/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Systèmes avancés d'aide à la conduite (ADAS )</strong></a>
-     <a href="../cargoandtowing/" class="text-decoration-none text-black float-end"><strong>Capacités de chargement et de remorquage <i class="bi-arrow-right"></i> </strong></a>
-</div>

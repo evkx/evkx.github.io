@@ -95,8 +95,3 @@ En Europa existen varias redes de carga para vehículos eléctricos. Estas son a
 - Plugsurfing: una red europea que puedes utilizar para cargar un vehículo eléctrico en Europa. Con su llave o tarjeta única, que cuesta 9,95 €, y su aplicación gratuita para smartphone, puedes utilizar más de 200.000 cargadores, incluidos los de diferentes redes como Allego, EnBW, Eon, Innogy, IONITY y Vattenfall.
 
 - Maingau: A través de su aplicación para smartphone EinfachStromLaden, chip de carga o tarjeta, puede cargar un vehículo eléctrico en Alemania, Austria o Suiza en 50.000 puntos de carga con Maingau.
-
-<div class="mt-3 mb-3">
-     <a href="../homecharging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Carga doméstica</strong></a>
-     <a href="../batteryswap/" class="text-decoration-none text-black float-end"><strong>Cambio de batería <i class="bi-arrow-right"></i></strong></a>
-</div>

@@ -27,8 +27,3 @@ Det er en avanceret version af traditionel fartpilot, der justerer bilens hastig
 **Følger hastighedsgrænsen:** På nogle modeller kan du indstille ACC til at følge hastighedsgrænsen baseret på kamera- og navigationsoplysninger. Desværre skal navigationsoplysningerne opdateres ofte, så dette er normalt slået fra.
 
 Adaptiv fartpilot er designet til at hjælpe chauffører med at holde en sikker følgeafstand og reducere førertræthed på lange motorvejsture. Ved at overtage ansvaret for at tilpasse bilens hastighed i forhold til trafikforholdene, kan føreren fokusere mere på styring og andre opgaver, hvilket giver en mere sikker og afslappet køreoplevelse.
-
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Avancerede førerassistentsystemer (ADAS)</strong></a>
-     <a href="../antilockbrakingsystem/" class="text-decoration-none text-black float-end"><strong>Anti-lock Braking System (ABS)<i class="bi-arrow-right"> </i></strong></a>
-</div>

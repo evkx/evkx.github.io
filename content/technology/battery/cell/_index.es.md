@@ -93,8 +93,3 @@ Las baterías Blade son producidas principalmente por el fabricante chino de bat
 {{< sitefiguresized thumb="technology/battery/cell/bladebattery_st.jpg" width="3000" height="1351" title="BYD Blade Battery" >}}
 
 Una de las características de seguridad clave de las baterías Blade es el uso de un separador cerámico entre las capas de ánodo y cátodo de la celda. Este separador cerámico es más resistente a la fuga térmica y proporciona una mejor protección contra cortocircuitos internos, lo que reduce el riesgo de incendios y explosiones de las baterías.
-
-<div class="mt-3 mb-3">
-     <a href="../cellchemistry/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Química celular y partes</strong ></a>
-     <a href="../batterypack/" class="text-decoration-none text-black float-end"><strong>Paquete de batería y configuración <i class="bi-arrow-right"></i></strong></a>
-</div>

@@ -26,11 +26,3 @@ På bildet under ser du både kjølekretser og en tilleggsvarmer som kan varme o
 I dette klippet ser du detaljer om det termiske styringssystemet på [Audi e-tron GT](/models/e-tron-gt).
 
 {{< youtube zdCiTtRR4TE >}}
-
-<br />
-
-
-<div class="mt-3 mb-3">
-    <a href="../batterymanagment/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Batterihåndteringssystem</strong></a>
-    <a href="../cellbalancing/" class="text-decoration-none text-black float-end"><strong>Cellebalansering <i class="bi-arrow-right"></i></strong></a>
-</div>

@@ -26,10 +26,3 @@ På bilden nedan ser du både kylkretsar och en tillsatsvärmare som kan värma 
 I det här klippet ser du detaljer om värmehanteringssystemet på [Audi e-tron GT](/models/e-tron-gt).
 
 {{< youtube zdCiTtRR4TE >}}
-
-<br />
-
-<div class="mt-3 mb-3">
-    <a href="../batterymanagment/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Batterihantering</strong></a>
-    <a href="../cellbalancing/" class="text-decoration-none text-black float-end"><strong>Cellbalansering <i class="bi-arrow-right"></i></strong></a>
-</div>

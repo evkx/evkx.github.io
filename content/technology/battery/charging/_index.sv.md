@@ -111,8 +111,3 @@ Nedan följer några exempel på elbilar med olika typer av laddningsprestanda.
 Vid längre resor kan laddningskurvan påverka det optimala laddningsstoppet. En plattare kurva gynnar till exempel de som föredrar längre stopp, medan en kurva med höga toppar gynnar korta stopp och du laddar runt toppområdet.
 
 För alla modeller beräknar EVKX detta åt dig på modellinfosidan.
-
-<div class="mt-3 mb-3">
-    <a href="../cellbalancing/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Cellbalansering</strong></a>
-    <a href="../degredation/" class="text-decoration-none text-black float-end"><strong>Batteriförsämring <i class="bi-arrow-right"></i></strong></a>
-</div>

@@ -81,8 +81,3 @@ Garantien kan også tage højde for batteriets alder. For eksempel kan en produc
 </table>
 
 Det er vigtigt at bemærke, at de specifikke vilkår for garantien kan variere meget mellem producenter, så det er altid en god idé at gennemgå garantioplysningerne nøje, før du køber en elbil.
-
-<div class="mt-3 mb-3">
-     <a href="../manufactors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Producenter</strong></a>
-     <a href="../../platforms/" class="text-decoration-none text-black float-end"><strong>Elektriske bilplatforme <i class="bi-arrow-right"></i> </strong></a>
-</div>

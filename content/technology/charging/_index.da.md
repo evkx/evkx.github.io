@@ -55,8 +55,3 @@ Batteribytte er en metode til opladning af elbiler, der går ud på at udskifte 
 Læs alt om [batteriskift]
 
 {{< sitefiguresized thumb="technology/charging/batteryswap/powerswap_1_st.jpg" width="3000" height="1687" title="Nio Power Battery Swap Station" >}}
-
-<div class="mt-3 mb-3">
-     <a href="../cargoandtowing/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Gods- og trailermuligheder</strong ></a>
-     <a href="connectors/" class="text-decoration-none text-black float-end"><strong>Opladningsstik <i class="bi-arrow-right"></i></strong></a>
-</div>

@@ -113,8 +113,3 @@ Voici quelques exemples de véhicules électriques offrant différents types de 
 Sur les trajets plus longs, la courbe de charge peut affecter l'arrêt de charge optimal. Par exemple, une courbe plus plate profiterait à ceux qui préfèrent des arrêts plus longs, tandis qu'une courbe avec des pics élevés bénéficierait aux arrêts courts et vous rechargeriez autour de la zone de pointe.
 
 Pour tous les modèles, EVKX calcule cela pour vous sur la page d'informations sur le modèle.
-
-<div class="mt-3 mb-3">
-     <a href="../cellbalancing/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Équilibrage des cellules</strong></a>
-     <a href="../degredation/" class="text-decoration-none text-black float-end"><strong>Dégradation <i class="bi-arrow-right"></i></strong ></a>
-</div>

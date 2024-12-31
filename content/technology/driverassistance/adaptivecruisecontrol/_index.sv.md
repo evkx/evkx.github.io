@@ -27,8 +27,4 @@ Det är en avancerad version av traditionell farthållare som justerar bilens ha
 **Följer hastighetsgränsen:** På vissa modeller kan du ställa in ACC för att följa hastighetsgränsen baserat på kamera- och navigeringsinformation. Tyvärr behöver navigeringsinformationen uppdateras ofta, så detta är vanligtvis avstängt.
 
 Adaptiv farthållare är utformad för att hjälpa förare att hålla ett säkert följeavstånd och minska förarens trötthet på långa motorvägsresor. Genom att ta över ansvaret för att anpassa bilens hastighet i förhållande till trafikförhållandena kan föraren fokusera mer på styrning och andra uppgifter, vilket resulterar i en säkrare och mer avslappnad körupplevelse.
-
-<div class="mt-3 mb-3">
-    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Advanced driver-assistance systems (ADAS)</strong></a>
-    <a href="../antilockbrakingsystem/" class="text-decoration-none text-black float-end"><strong>Anti-lock Braking System (ABS)<i class="bi-arrow-right"></i></strong></a>
-</div>
+ 

@@ -41,8 +41,3 @@ Designen och specifikationerna för EV spelar också en roll för räckviddsmins
 Elbilar med bättre aerodynamik eller lägre vikt kan också ha en högre räckviddsminskning än elbilar med sämre aerodynamik eller högre vikt.
 
 {{< sitefiguresized thumb="technology/cargoandtowing/roofcargo/roofcargo_3_st.jpg" title="Porsche Taycan med takbox" width="2048" height="1280">}}
-
-<div class="mt-3 mb-3">
-    <a href="../frunkcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Frunk last</strong></a>
-    <a href="../hitchcargo/" class="text-decoration-none text-black float-end"><strong>Släpkroklast <i class="bi-arrow-right"></i></strong></a>
-</div>

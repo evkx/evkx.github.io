@@ -29,8 +29,3 @@ Los beneficios del cambio de batería son
 Vea la reseña del sistema de Bjørn Nyland a continuación.
 
 {{< youtube VmWL1hZQmD0 >}}
-
-<div class="mt-3 mb-3">
-     <a href="../dcfastcharging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Carga rápida CC</strong></a>
-     <a href="../bidireccional/" class="text-decoration-none text-black float-end"><strong>Carga bidireccional <i class="bi-arrow-right"></i></strong></a>
-</div>

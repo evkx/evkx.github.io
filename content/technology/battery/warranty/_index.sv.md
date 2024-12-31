@@ -82,9 +82,3 @@ Garantin kan även ta hänsyn till batteriets ålder. Till exempel kan en tillve
 </table>
 
 Det är viktigt att notera att de specifika villkoren för garantin kan variera kraftigt mellan tillverkare, så det är alltid en bra idé att noggrant granska garantiinformationen innan du köper en elbil.
-
-
-<div class="mt-3 mb-3">
-    <a href="../manufactors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Tillverkare</strong></a>
-    <a href="../../platforms/" class="text-decoration-none text-black float-end"><strong>Elbilsplattformar <i class="bi-arrow-right"></i></strong></a>
-</div>

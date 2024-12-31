@@ -43,8 +43,4 @@ EURO NCAP udfører test og vurdering af disse systemer
 Herunder ser du Euro NCAP-testen af ​​Tesla Model Y. Fra klokken 02:30 ser du forskellige AEB-tests.
 
 {{< youtube dKaN3f2zmCQ >}}
-
-<div class="mt-3 mb-3">
-     <a href="../automatedlanechange/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Automatisk vognbaneskift</strong> </a>
-     <a href="../automaticemergencysteering/" class="text-decoration-none text-black float-end"><strong>Automatisk nødstyring<i class="bi-arrow-right"></i></strong></a>
-</div>
+ 

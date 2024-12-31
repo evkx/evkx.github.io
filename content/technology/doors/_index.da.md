@@ -131,8 +131,3 @@ Dette er en funktion, der gør det muligt at åbne eller lukke døren ved at try
 Et skyllet dørgreb på elbiler er en type dørgreb, der er forsænket i døren og ikke stikker ud. Elbiler har skyllede dørhåndtag for at reducere aerodynamisk modstand og give bilen et slankere udseende. Nogle stilarter har til formål at imponere købere med håndtag, der springer ud ved tilgang. De giver også ekstra sikkerhed, men kommer med ulemper såsom pålidelighed, sikkerhedshensyn og drift under iskolde forhold
 
 {{< sitefiguresized thumb="technology/doors/eqssuvdoorhandle_1_st.jpg" width="3000" height="2000" title="Mercedes EQS SUV Flush dørhåndtag" >}}
-
-<div class="mt-3 mb-3">
-     <a href="../hvac/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Klimasystem</strong></a>
-     <a href="../battery/" class="text-decoration-none text-black float-end"><strong>Elbilbatterier <i class="bi-arrow-right"></i></strong></a>
-</div>

@@ -131,8 +131,3 @@ Det är dock viktigt att notera att broms-by-wire-teknik också kommer med någr
 Sammanfattningsvis är broms-by-wire-teknik ett avancerat system som möjliggör sömlös integration av regenerativ bromsning och friktionsbromsning i elfordon. Den erbjuder förbättrad energieffektivitet, körräckvidd och avancerade bromsfunktioner, men kräver också noggrant övervägande av tillförlitlighet, säkerhet och förarutbildning. När tekniken fortsätter att utvecklas förväntas broms-för-tråd-system spela en viktig roll i framtiden för EV-bromssystem, vilket bidrar till mer effektiva och hållbara transporter.
 
 I vår EVKX-databas söker du efter modeller med olika typer av bromsar.
-
-<div class="mt-3 mb-3">
-    <a href="../driverassistance/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Avancerade förarassistanssystem (ADAS)</strong></a>
-    <a href="../cargoandtowing/" class="text-decoration-none text-black float-end"><strong>Last- och trailer möjligheter <i class="bi-arrow-right"></i></strong></a>
-</div>

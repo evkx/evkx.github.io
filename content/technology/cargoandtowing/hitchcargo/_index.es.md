@@ -72,8 +72,3 @@ En comparación con tener una caja en el techo, una caja de enganche puede aumen
   En el siguiente vídeo, el gurú de los vehículos eléctricos, Bjørn Nyland, compara el consumo de energía del cofre de techo con el del cofre de enganche.
 
 {{< youtube N6oZ2id7YhY >}}
-
-<div class="mt-3 mb-3">
-     <a href="../roofcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Carga en el techo</strong>< /a>
-     <a href="../bedcargo/" class="text-decoration-none text-black float-end"><strong>Cama de carga para camioneta <i class="bi-arrow-right"></i></strong></a>
-</div>

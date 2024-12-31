@@ -38,8 +38,3 @@ Producenter kan bruge forskellige navne til deres Autosteer-systemer, men nogle 
 {{<evkxdisplayaddarticle />}}
 
 Det er vigtigt at bemærke, at de nøjagtige funktioner og muligheder for hver producents Autosteer-system kan variere, og chauffører bør altid konsultere deres køretøjs instruktionsbog og gøre sig bekendt med de specifikke funktioner og begrænsninger af deres system.
-
-<div class="mt-3 mb-3">
-     <a href="../automaticemergencysteering/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Automatisk parkeringsassistent</strong> </a>
-     <a href="../blindspotmonitoring/" class="text-decoration-none text-black float-end"><strong>Overvågning af blinde vinkler <i class="bi-arrow-right"></i></strong></a>
-</div>

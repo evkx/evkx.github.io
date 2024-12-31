@@ -88,8 +88,3 @@ EVKX.net mener, at dette er dårlig praksis fra producenternes side.
 </table>
 
 Se Bjørns testresultater for <a href="https://docs.google.com/spreadsheets/d/1V6ucyFGKWuSQzvI8lMzvvWJHrBS82echMVJH37kwgjE/edit#gid=52159941" target="_blank">flere data</a> eller alle hans <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank">Zero Miles Tester</a>
-
-<div class="mt-3 mb-3">
-     <a href="../charging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Batteriforringelse</strong></a>
-     <a href="../manufactors/" class="text-decoration-none text-black float-end"><strong>Producenter <i class="bi-arrow-right"></i></strong ></a>
-</div>

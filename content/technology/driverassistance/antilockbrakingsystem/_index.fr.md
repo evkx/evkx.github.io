@@ -15,8 +15,4 @@ Lorsque le conducteur freine, le système ABS utilise des capteurs pour détecte
 Le système ABS est généralement contrôlé par une unité de commande électronique (ECU) qui reçoit des informations des capteurs de vitesse de roue et d'autres capteurs pour déterminer quand le blocage des roues est sur le point de se produire. Certains systèmes ABS peuvent également intégrer d'autres fonctionnalités, telles que la répartition électronique de la force de freinage (EBD), qui ajuste la pression de freinage sur chaque roue en fonction de facteurs tels que la répartition du poids du véhicule et la force de freinage, afin d'améliorer encore les performances de freinage et la stabilité.
 
 Dans l’ensemble, l’ABS est un dispositif de sécurité très efficace qui peut aider à prévenir les accidents et à améliorer le contrôle du véhicule lors de situations de freinage d’urgence.
-
-<div class="mt-3 mb-3">
-     <a href="../adaptivecruisecontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Régulateur de vitesse adaptatif</strong> </a>
-     <a href="../automatedlanechange/" class="text-decoration-none text-black float-end"><strong>Changement de voie automatisé<i class="bi-arrow-right"></i></strong></a>
-</div>
+ 

@@ -230,8 +230,3 @@ A continuación puede ver un vídeo de revisión de las mejores estaciones de ca
 Vea el siguiente vídeo para ver un vídeo centrado en el Reino Unido sobre la instalación de un cargador doméstico.
 
 {{< youtube VCx_1Afh3iw >}}
-
-<div class="mt-3 mb-3">
-     <a href="../connectors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Conectores de carga</strong></a>
-     <a href="../dcfastcharging/" class="text-decoration-none text-black float-end"><strong>Carga rápida CC <i class="bi-arrow-right"></i></strong></a>
-</div>

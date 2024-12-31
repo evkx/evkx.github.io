@@ -43,8 +43,4 @@ EURO NCAP utför testning och utvärdering av dessa system
 Nedan ser du Euro NCAP-testet av Tesla Model Y. Från 02:30 ser du olika AEB-tester.
 
 {{< youtube dKaN3f2zmCQ >}}
-
-<div class="mt-3 mb-3">
-    <a href="../automatedlanechange/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Automatiserat filbyte (ALC)</strong></a>
-    <a href="../automaticemergencysteering/" class="text-decoration-none text-black float-end"><strong>Automatisk nödstyrning (AES) <i class="bi-arrow-right"></i></strong></a>
-</div>
+ 

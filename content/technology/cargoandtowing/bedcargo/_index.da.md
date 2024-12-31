@@ -43,8 +43,3 @@ EV pickup truck senge kan tilbyde lettere adgang og lastning end bagagerum, frun
 ### Mindre påvirkning og problemer
 
 EV pickup trucks senge kan have mindre påvirkning og problemer end tagbøjler eller trailere, da de kan reducere lastens vægt og modstand, hvilket igen kan reducere køretøjets energiforbrug og rækkevidde. EV pickup truck sengen kan også undgå nogle af de problemer eller risici, der er forbundet med tagbøjler eller trailere, såsom skader, tyveri, støj eller ustabilitet af genstandene, eller vanskeligheden, faren eller lovligheden ved at køre, parkere eller manøvrere køretøjet eller anhænger.
-
-<div class="mt-3 mb-3">
-     <a href="../roofcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Last på trailerkrog</strong> </a>
-     <a href="../towing/" class="text-decoration-none text-black float-end"><strong>Trailer <i class="bi-arrow-right"></i></strong></a>
-</div>

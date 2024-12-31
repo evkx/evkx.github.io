@@ -93,8 +93,3 @@ Il existe plusieurs réseaux de recharge pour les véhicules électriques en Eur
 - Plugsurfing : un réseau européen que vous pouvez utiliser pour recharger un véhicule électrique en Europe. Avec sa clé ou sa carte unique – qui coûte 9,95 € – et son application gratuite pour smartphone, vous pouvez utiliser plus de 200 000 chargeurs, dont ceux de différents réseaux comme Allego, EnBW, Eon, Innogy, IONITY et Vattenfall.
 
 - Maingau : Grâce à son application pour smartphone EinfachStromLaden, à sa puce ou à sa carte de recharge, vous pouvez recharger un VE en Allemagne, en Autriche ou en Suisse sur 50 000 points de recharge avec Maingau.
-
-<div class="mt-3 mb-3">
-     <a href="../homechargement/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Recharge à domicile</strong></a>
-     <a href="../batteryswap/" class="text-decoration-none text-black float-end"><strong>Échange de batterie <i class="bi-arrow-right"></i></strong></a>
-</div>

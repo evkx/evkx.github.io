@@ -42,8 +42,3 @@ El diseño y las especificaciones del vehículo eléctrico también influyen en 
 Los vehículos eléctricos con mejor aerodinámica o menor peso también pueden tener una mayor reducción de autonomía que los vehículos eléctricos con peor aerodinámica o mayor peso.
 
 {{< sitefiguresized thumb="technology/cargoandtowing/roofcargo/roofcargo_3_st.jpg" title="Porsche Taycan con cofre de techo" width="2048" height="1280">}}
-
-<div class="mt-3 mb-3">
-     <a href="../frunkcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Frunk Cargo</strong>< /a>
-     <a href="../hitchcargo/" class="text-decoration-none text-black float-end"><strong>Enganche de carga <i class="bi-arrow-right"></i></strong></a>
-</div>

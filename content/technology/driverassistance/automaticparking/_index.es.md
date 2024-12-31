@@ -32,9 +32,3 @@ El siguiente vídeo muestra una demostración del asistente de aparcamiento de M
 
 
 Es importante tener en cuenta que, si bien el estacionamiento automático puede ser una característica conveniente, los conductores siempre deben permanecer atentos y conscientes de su entorno, especialmente en estacionamientos concurridos o abarrotados.
-
-
-<div class="mt-3 mb-3">
-     <a href="../automaticemergencysteering/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Dirección automática de emergencia</strong> </a>
-     <a href="../autosteer/" class="text-decoration-none text-black float-end"><strong>Autosteer <i class="bi-arrow-right"></i></strong ></a>
-</div>

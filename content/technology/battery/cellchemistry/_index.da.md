@@ -165,8 +165,3 @@ Strømaftageren er en komponent i en battericelle, der letter strømmen af ​�
 I en lithium-ion battericelle er strømaftageren for eksempel normalt lavet af kobber eller aluminium og er belagt med et tyndt lag kulstof for at forbedre ledningsevnen og forhindre korrosion. Strømaftageren er typisk placeret på overfladen af ​​elektrodematerialet, og når cellen oplades eller aflades, løber strømmen fra strømaftageren gennem elektrodematerialet og tilbage ud til det eksterne kredsløb.
 
 Designet og materialerne, der bruges til strømaftageren, kan have en væsentlig indflydelse på battericellens ydeevne og holdbarhed. For eksempel kan en strømaftager med høj ledningsevne og lav modstand være med til at forbedre battericellens effektivitet, mens en strømaftager, der er udsat for korrosion, kan reducere cellens levetid.
-
-<div class="mt-3 mb-3">
-     <a href="../basic/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Grundlæggende batteri</strong> </a>
-     <a href="../cell/" class="text-decoration-none text-black float-end"><strong>Cellhus <i class="bi-arrow-right"></i></strong></a>
-</div>

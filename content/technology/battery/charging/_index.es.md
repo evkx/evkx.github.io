@@ -114,8 +114,3 @@ Los siguientes son algunos ejemplos de vehículos eléctricos con diferentes tip
 En viajes más largos, la curva de carga puede afectar a la parada de carga óptima. Por ejemplo, una curva más plana beneficiaría a aquellos que prefieren paradas más largas, mientras que una curva con picos altos beneficiaría a paradas cortas y usted cargaría alrededor del área de pico.
 
 Para todos los modelos, EVKX calcula esto por usted en la página de información del modelo.
-
-<div class="mt-3 mb-3">
-     <a href="../cellbalancing/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Equilibrio de celdas</strong></a>
-     <a href="../degredation/" class="text-decoration-none text-black float-end"><strong>Degredación <i class="bi-arrow-right"></i></strong ></a>
-</div>

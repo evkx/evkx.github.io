@@ -59,8 +59,3 @@ Il existe six niveaux d'autonomie définis par la Society of Automotive Engineer
 Il est important de noter que de nombreux véhicules sur le marché aujourd’hui se situent dans les niveaux d’autonomie 1 à 2, tandis que les niveaux 3 à 5 sont encore en phase de développement et de test. De plus, même les véhicules dotés de niveaux d’autonomie plus élevés peuvent nécessiter un certain niveau de surveillance et d’intervention humaine dans certaines situations.
 
 Actuellement, seule la [Mercedes EQS](../../models/mercedes/eqs/) est homologuée au niveau 3 dans certaines marques.
-
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Technologie EV</strong></a >
-     <a href="adaptivecruisecontrol/" class="text-decoration-none text-black float-end"><strong>Régulateur de vitesse adaptatif <i class="bi-arrow-right"></i></strong> </a>
-</div>

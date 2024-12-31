@@ -93,8 +93,3 @@ Bladbatterier produceres primært af den kinesiske batteriproducent BYD.
 {{< sitefiguresized thumb="technology/battery/cell/bladebattery_st.jpg" width="3000" height="1351" title="BYD Blade Battery" >}}
 
 En af de vigtigste sikkerhedsfunktioner ved bladbatterier er brugen af ​​en keramisk separator mellem cellens anode- og katodelag. Denne keramiske separator er mere modstandsdygtig over for termisk løb og giver bedre beskyttelse mod interne kortslutninger, hvilket reducerer risikoen for batteribrande og eksplosioner.
-
-<div class="mt-3 mb-3">
-     <a href="../cellchemistry/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cellekemi og dele</strong > </a>
-     <a href="../batterypack/" class="text-decoration-none text-black float-end"><strong>Batteripakke og konfiguration <i class="bi-arrow-right"></i> </strong></a>
-</div>

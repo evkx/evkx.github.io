@@ -25,8 +25,3 @@ Dans un véhicule électrique, le BMS joue un rôle crucial pour garantir les pe
 **Surveillance de l'état de santé (SOH) :** Le BMS surveille le SOH de la batterie en analysant ses performances et sa dégradation au fil du temps. Il fournit des avertissements et des alertes lorsque la santé de la batterie est compromise et recommande un entretien ou un remplacement si nécessaire.
 
 {{< sitefiguresized thumb="technology/battery/batterymanagement/batterymanagement1_st.jpg" width="2000" height="1186" title="Electronique de gestion de batterie pour batterie Audi e-tron" >}}
-
-<div class="mt-3 mb-3">
-     <a href="../batterypack/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Batterie et configuration</strong ></a>
-     <a href="../thermalmanagement/" class="text-decoration-none text-black float-end"><strong>Gestion thermique <i class="bi-arrow-right"></i></strong></a>
-</div>

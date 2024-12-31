@@ -30,8 +30,3 @@ Videoen nedenfor viser en demo af Mercedes Benz parkeringsassistent
 {{< youtube rsgw0eLetsc >}}
 
 Det er vigtigt at bemærke, at selvom automatisk parkering kan være en praktisk funktion, bør chauffører altid være opmærksomme og opmærksomme på deres omgivelser, især på travle eller overfyldte parkeringspladser.
-
-<div class="mt-3 mb-3">
-     <a href="../automaticemergencysteering/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Automatisk nødstyring</strong> </a>
-     <a href="../autosteer/" class="text-decoration-none text-black float-end"><strong>Autostyring <i class="bi-arrow-right"></i></strong ></a>
-</div>

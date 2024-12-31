@@ -164,8 +164,3 @@ Strömavtagaren är en komponent i en battericell som underlättar flödet av el
 I till exempel en litiumjonbattericell är strömavtagaren vanligtvis gjord av koppar eller aluminium och är belagd med ett tunt lager kol för att förbättra ledningsförmågan och förhindra korrosion. Strömavtagaren placeras typiskt på ytan av elektrodmaterialet, och när cellen laddas eller urladdas flyter strömmen från strömavtagaren genom elektrodmaterialet och tillbaka ut till den externa kretsen.
 
 Designen och materialen som används för strömavtagaren kan ha en betydande inverkan på battericellens prestanda och hållbarhet. Till exempel kan en strömavtagare med hög ledningsförmåga och lågt motstånd bidra till att förbättra battericellens effektivitet, medan en strömavtagare som är utsatt för korrosion kan minska cellens livslängd.
-
-<div class="mt-3 mb-3">
-    <a href="../basic/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Grundläggande batteri</strong></a>
-    <a href="../cell/" class="text-decoration-none text-black float-end"><strong>Cellehus <i class="bi-arrow-right"></i></strong></a>
-</div>

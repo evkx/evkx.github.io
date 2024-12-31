@@ -15,8 +15,3 @@ Imidlertid er højspændingsbatteriets ladeniveau kun 96%. Balancering betyder, 
 {{<evkxdisplayaddarticle />}}
 
 For at gøre dette sammenligner batterireguleringskontrolenheden cellegruppernes spændinger. Hvis cellegrupper har høj cellespænding, modtager den ansvarlige batterimodulkontrolenhed balanceringsinformationen. Indregulering udføres, når spændingsforskelle på mere end ca. 1 % opstår, når højspændingsbatteriet oplades. Efter at tændingen er slået fra, kontrollerer batteristyringsenheden, om balancering er påkrævet, og udløser den om nødvendigt. Typisk afbalancering udføres ved ladningsniveauer over 30 %.
-
-<div class="mt-3 mb-3">
-     <a href="../thermalmanagement/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Termisk styring</strong>< /a>
-     <a href="../charging/" class="text-decoration-none text-black float-end"><strong>Oplader <i class="bi-arrow-right"></i></strong ></a>
-</div>

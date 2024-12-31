@@ -102,8 +102,3 @@ Intern last må kun være kompatibel med visse typer genstande, som ejeren ønsk
 Indvendig last kan reducere komforten og bekvemmeligheden for passagerer og chauffør, da den kan optage noget plads, som ellers ville blive brugt til siddepladser, benplads eller opbevaring. Intern last kan også skabe støj, vibrationer eller lugte, der kan forstyrre passagerer og chauffører. Intern last kan også påvirke bilens klimakontrolsystem og blokere luftåbningerne eller vinduerne.
 
 {{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_4_st.jpg" title="Jeep Avenger med en dejlig hund i bagagerummet" width="3000" height="2000">}}
-
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Indstillinger for lastning og trailer</strong> </a>
-     <a href="../frunkcargo/" class="text-decoration-none text-black float-end"><strong>Frunk cargo <i class="bi-arrow-right"></i></strong></a>
-</div>

@@ -133,8 +133,3 @@ Il s'agit d'une fonctionnalité qui permet d'ouvrir ou de fermer la porte en app
 Une poignée de porte affleurante sur les véhicules électriques est un type de poignée de porte encastrée dans la porte et ne dépassant pas vers l'extérieur. Les voitures électriques ont des poignées de porte affleurantes pour réduire la traînée aérodynamique et donner à la voiture un look plus élégant. Certains styles visent à impressionner les acheteurs avec des poignées qui ressortent à l'approche. Ils offrent également une sécurité supplémentaire, mais présentent des inconvénients tels que la fiabilité, des problèmes de sécurité et un fonctionnement dans des conditions glaciales.
 
 {{< sitefiguresized thumb="technology/doors/eqssuvdoorhandle_1_st.jpg" width="3000" height="2000" title="Poignées de porte affleurantes Mercedes EQS SUV" >}}
-
-<div class="mt-3 mb-3">
-     <a href="../hvac/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Système climatique</strong></a>
-     <a href="../battery/" class="text-decoration-none text-black float-end"><strong>Batteries pour VE <i class="bi-arrow-right"></i></strong></a>
-</div>

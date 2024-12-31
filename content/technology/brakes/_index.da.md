@@ -130,8 +130,3 @@ Det er dog vigtigt at bemærke, at bremse-by-wire-teknologi også kommer med nog
 Sammenfattende er brake-by-wire-teknologi et avanceret system, der muliggør sømløs integration af regenerativ bremsning og friktionsbremsning i elektriske køretøjer. Den tilbyder forbedret energieffektivitet, kørerækkevidde og avancerede bremsefunktioner, men kræver også nøje overvejelse af pålidelighed, sikkerhed og førertræning. Efterhånden som teknologien fortsætter med at udvikle sig, forventes bremse-for-wire-systemer at spille en væsentlig rolle i fremtiden for EV-bremsesystemer og bidrage til mere effektiv og bæredygtig transport.
 
 I vores EVKX-database søger du efter modeller med forskellige typer bremser.
-
-<div class="mt-3 mb-3">
-     <a href="../driverassistance/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Avancerede førerassistancesystemer (ADAS) )</strong></a>
-     <a href="../cargoandtowing/" class="text-decoration-none text-black float-end"><strong>Indlæsnings- og trailermuligheder <i class="bi-arrow-right"></i > </strong></a>
-</div>

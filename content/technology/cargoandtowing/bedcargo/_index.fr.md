@@ -45,9 +45,3 @@ La caisse des camionnettes EV peut offrir un accès et un chargement plus facile
 ### Moins d'impact et de tracas
 
 Le lit des camionnettes EV peut avoir moins d’impact et de tracas que les barres de toit ou les remorques, car ils peuvent réduire le poids et la traînée de la cargaison, ce qui peut à son tour réduire la consommation d’énergie et l’autonomie du véhicule. Le lit des camionnettes EV peut également éviter certains problèmes ou risques associés aux barres de toit ou aux remorques, tels que les dommages, le vol, le bruit ou l'instabilité des articles, ou la difficulté, le danger ou la légalité de conduire, de garer ou de manœuvrer le véhicule. ou la remorque.
-
-
-<div class="mt-3 mb-3">
-     <a href="../roofcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Attelage Cargo</strong></a>
-     <a href="../towing/" class="text-decoration-none text-black float-end"><strong>Remorquage <i class="bi-arrow-right"></i></strong ></a>
-</div>

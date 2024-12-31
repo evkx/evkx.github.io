@@ -72,9 +72,3 @@ Muchos vehículos eléctricos en el mercado o en desarrollo tienen fallas, pero 
 </tr>
 </tbody>
 </table>
-
-
-<div class="mt-3 mb-3">
-     <a href="../interiorcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Carga interior</strong>< /a>
-     <a href="../roofcargo/" class="text-decoration-none text-black float-end"><strong>Carga en el techo <i class="bi-arrow-right"></i></strong></a>
-</div>

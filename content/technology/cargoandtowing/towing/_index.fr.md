@@ -156,8 +156,3 @@ La FHWA et le US Census Bureau utilisent différentes catégories de véhicules 
 Voir la liste complète dans la base de données EVKX EV [ici](../../../evsearch/?sortOrder=MaxTrailerSizeDesc)
 
 {{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_4_st.jpg" title="Nio ES8 avec toit cargo et remorque" width="2560" height="1280">}}
-
-<div class="mt-3 mb-3">
-     <a href="../bedcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cargo sur caisse</strong> </a>
-     <a href="../../charging/" class="text-decoration-none text-black float-end"><strong>Chargement <i class="bi-arrow-right"></i> </strong></a>
-</div>

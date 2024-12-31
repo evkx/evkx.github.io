@@ -72,9 +72,3 @@ De nombreux véhicules électriques sur le marché ou en développement ont des 
 </tr>
 </tbody>
 </table>
-
-
-<div class="mt-3 mb-3">
-     <a href="../interiorcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cargaison intérieure</strong></a>
-     <a href="../roofcargo/" class="text-decoration-none text-black float-end"><strong>Cargo sur le toit <i class="bi-arrow-right"></i></strong></a>
-</div>

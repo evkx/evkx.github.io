@@ -80,8 +80,3 @@ La garantie peut également prendre en compte l'âge de la batterie. Par exemple
 
 </body>
 </table>Il est important de noter que les conditions spécifiques de la garantie peuvent varier considérablement d'un fabricant à l'autre. C'est donc toujours une bonne idée de lire attentivement les informations sur la garantie avant d'acheter un véhicule électrique.
-
-<div class="mt-3 mb-3">
-     <a href="../manufactors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Fabricants</strong></a>
-     <a href="../../platforms/" class="text-decoration-none text-black float-end"><strong>Plateformes EV <i class="bi-arrow-right"></i ></strong></a>
-</div>

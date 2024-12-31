@@ -26,10 +26,3 @@ En la imagen siguiente se ven ambos circuitos de refrigeración y un calentador 
 En este clip, ve detalles sobre el sistema de gestión térmica del [Audi e-tron GT](/models/e-tron-gt).
 
 {{< youtube zdCiTtRR4TE >}}
-
-<br />
-
-<div class="mt-3 mb-3">
-     <a href="../batterymanagment/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Gestión de la batería</strong>< /a>
-     <a href="../cellbalancing/" class="text-decoration-none text-black float-end"><strong>Equilibrio de celdas <i class="bi-arrow-right"></i></strong></a>
-</div>

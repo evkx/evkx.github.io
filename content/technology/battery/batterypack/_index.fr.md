@@ -372,8 +372,3 @@ Le tableau suivant montre comment la densité des packs a varié au fil du temps
 </table>
 
 Si vous souhaitez obtenir des détails sur plus de packs, nous vous recommandons <a href="https://www.batterydesign.net/maximising-pack-energy-density/">BatteryDesign.net</a>
-
-<div class="mt-3 mb-3">
-     <a href="../cell/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Logement cellulaire</strong>< /a>
-     <a href="../batterymanagment/" class="text-decoration-none text-black float-end"><strong>Gestion de la batterie <i class="bi-arrow-right"></i></strong></a>
-</div>

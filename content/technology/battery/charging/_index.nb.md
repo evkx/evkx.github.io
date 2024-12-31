@@ -113,8 +113,3 @@ Følgende er noen eksempler på elbiler med ulike typer ladeytelse.
 På lengre turer kan ladekurven påvirke det optimale ladestoppet. For eksempel vil en flatere kurve være til fordel for de som foretrekker lengre stopp, mens en kurve med høye topper er til fordel for korte stopp, og du lader rundt toppområdet.
 
 For alle modeller beregner EVKX dette for deg på modellinfosiden.
-
-<div class="mt-3 mb-3">
-    <a href="../cellbalancing/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Cellebalansering</strong></a>
-    <a href="../degredation/" class="text-decoration-none text-black float-end"><strong>Batteridegradering <i class="bi-arrow-right"></i></strong></a>
-</div>

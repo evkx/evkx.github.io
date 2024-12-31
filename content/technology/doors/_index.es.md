@@ -134,8 +134,3 @@ Esta es una característica que permite abrir o cerrar la puerta presionando un 
 Una manija de puerta empotrada en los vehículos eléctricos es un tipo de manija de puerta que está empotrada en la puerta y no sobresale hacia afuera. Los coches eléctricos tienen manijas de puerta a ras para reducir la resistencia aerodinámica y darle al coche un aspecto más elegante. Algunos estilos tienen como objetivo impresionar a los compradores con manijas que saltan al acercarse. También brindan seguridad adicional, pero tienen desventajas como confiabilidad, problemas de seguridad y operación en condiciones de hielo.
 
 {{< sitefiguresized thumb="technology/doors/eqssuvdoorhandle_1_st.jpg" width="3000" height="2000" title="Mercedes EQS SUV Tiradores de puertas empotrados" >}}
-
-<div class="mt-3 mb-3">
-     <a href="../hvac/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sistema climático</strong></a>
-     <a href="../battery/" class="text-decoration-none text-black float-end"><strong>Baterías para vehículos eléctricos <i class="bi-arrow-right"></i></strong></a>
-</div>

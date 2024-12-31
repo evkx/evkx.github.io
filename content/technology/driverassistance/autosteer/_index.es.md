@@ -39,8 +39,3 @@ Los fabricantes pueden usar diferentes nombres para sus sistemas Autosteer, pero
 {{<evkxdisplayaddarticle />}}
 
 Es importante tener en cuenta que las características y capacidades exactas del sistema Autosteer de cada fabricante pueden variar, y los conductores siempre deben consultar el manual del propietario de su vehículo y familiarizarse con las características y limitaciones específicas de su sistema.
-
-<div class="mt-3 mb-3">
-     <a href="../automaticemergencysteering/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Asistente de estacionamiento automático</strong> </a>
-     <a href="../blindspotmonitoring/" class="text-decoration-none text-black float-end"><strong>Monitoreo de punto ciego <i class="bi-arrow-right"></i></strong></a>
-</div>

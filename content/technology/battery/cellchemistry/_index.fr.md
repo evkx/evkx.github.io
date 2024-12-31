@@ -170,8 +170,3 @@ La conception et les matériaux utilisés pour le collecteur de courant peuvent 
 Dans la vidéo ci-dessous, la scientifique et ingénieure en batteries [Jill Pestana](https://www.linkedin.com/in/jillpestana/) de la chaîne YouTube [Across the Nanoverse](https://www.youtube.com/@ AcrosstheNanoverse) explique les différentes pièces de la batterie avec de la nourriture.
 
 {{< youtube yyp-GydAHfM >}}
-
-<div class="mt-3 mb-3">
-     <a href="../basic/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Bases de la batterie</strong></a>
-     <a href="../cell/" class="text-decoration-none text-black float-end"><strong>Boîtier de cellule <i class="bi-arrow-right"></i></strong></a>
-</div>

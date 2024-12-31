@@ -88,8 +88,3 @@ Quelques tests avec résultats :
 </table>
 
 Consultez les résultats des tests de Bjørns pour <a href="https://docs.google.com/spreadsheets/d/1V6ucyFGKWuSQzvI8lMzvvWJHrBS82echMVJH37kwgjE/edit#gid=52159941" target="_blank">plus de données</a> ou toutes ses <a href ="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank">Tests zéro mile</a>
-
-<div class="mt-3 mb-3">
-     <a href="../chargement/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Dégradation de la batterie</strong></a>
-     <a href="../manufactors/" class="text-decoration-none text-black float-end"><strong>Fabricants <i class="bi-arrow-right"></i></strong></a>
-</div>

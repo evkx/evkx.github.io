@@ -71,8 +71,3 @@ Sammenlignet med at have en boks på taget, kan en samledåse øge effektivitete
 I videoen herunder sammenligner EV-guruen, Bjørn Nyland, energiforbruget af en tagboks kontra en fast boks.
 
 {{< youtube N6oZ2id7YhY >}}
-
-<div class="mt-3 mb-3">
-     <a href="../roofcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Taglast</strong>< /a>
-     <a href="../bedcargo/" class="text-decoration-none text-black float-end"><strong>Indlæs i lasteplan <i class="bi-arrow-right"></i> </strong></a>
-</div>

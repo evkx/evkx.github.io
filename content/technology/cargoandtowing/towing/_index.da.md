@@ -154,8 +154,3 @@ FHWA og U.S. Census Bureau bruger forskellige køretøjskategorier til lastbiler
 Se hele listen i EVKX EV-databasen [her](../../../evsearch/?sortOrder=MaxTrailerSizeDesc)
 
 {{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_4_st.jpg" title="Nio ES8 med taglast og trailer" width="2560" height="1280">}}
-
-<div class="mt-3 mb-3">
-     <a href="../bedcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Indlæs i lasteplan</strong > </a>
-     <a href="../../charging/" class="text-decoration-none text-black float-end"><strong>Oplader <i class="bi-arrow-right"></i> </strong></a>
-</div>

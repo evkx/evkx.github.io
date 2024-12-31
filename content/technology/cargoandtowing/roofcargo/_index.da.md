@@ -41,8 +41,3 @@ EV'ens design og specifikationer spiller også en rolle i rækkevidden. Elbiler 
 Elbiler med bedre aerodynamik eller lavere vægt kan også have en højere rækkeviddereduktion end elbiler med dårligere aerodynamik eller højere vægt.
 
 {{< sitefiguresized thumb="technology/cargoandtowing/roofcargo/roofcargo_3_st.jpg" title="Porsche Taycan med tagboks" width="2048" height="1280">}}
-
-<div class="mt-3 mb-3">
-     <a href="../frunkcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Frunk cargo</strong></a>
-     <a href="../hitchcargo/" class="text-decoration-none text-black float-end"><strong>Hitch cargo <i class="bi-arrow-right"></i></strong></a>
-</div>

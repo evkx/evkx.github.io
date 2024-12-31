@@ -56,9 +56,3 @@ L'échange de batterie est une méthode de recharge des véhicules électriques 
 Tout savoir sur [l'échange de batterie](batteryswap)
 
 {{< sitefiguresized thumb="technology/charging/batteryswap/powerswap_1_st.jpg" width="3000" height="1687" title="Station d'échange de batterie Nio Power" >}}
-
-
-<div class="mt-3 mb-3">
-     <a href="../cargoandtowing/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Capacités de chargement et de remorquage</strong ></a>
-     <a href="connectors/" class="text-decoration-none text-black float-end"><strong>Connecteurs de charge <i class="bi-arrow-right"></i></strong></a>
-</div>

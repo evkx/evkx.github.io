@@ -72,8 +72,3 @@ Par rapport à un coffre sur le toit, un coffre d'attelage peut augmenter l'effi
   Dans la vidéo ci-dessous, le gourou des véhicules électriques, Bjørn Nyland, compare la consommation d'énergie du coffre de toit à celle du coffre d'attelage.
 
 {{< youtube N6oZ2id7YhY >}}
-
-<div class="mt-3 mb-3">
-     <a href="../roofcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cargaison sur le toit</strong></a>
-     <a href="../bedcargo/" class="text-decoration-none text-black float-end"><strong>Cargo sur caisse <i class="bi-arrow-right"></i></strong></a>
-</div>
