@@ -39,5 +39,3 @@ La tapicería de los asientos para el automóvil es un aspecto esencial del dise
 En la base de datos de EVKX EV, puede buscar modelos de EV con el tipo de configuración de asiento y las características que desee.
 
 Vaya a [base de datos EVKX EV](../../evsearch/).
-
-{{< pagenavigation b_url="../safety/" b_title="Seguridad" f_url="types/" f_title="Tipos de asientos" >}}

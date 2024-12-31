@@ -248,5 +248,3 @@ The following table shows the most common EV platforms used in recent years.
         </tr>
     </tbody>
 </table>
-
-{{< pagenavigation b_url="../battery/" b_title="EV Batteries" f_url="../glassroof/" f_title="Glass Panel Roof" >}}

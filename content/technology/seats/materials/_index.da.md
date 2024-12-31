@@ -307,5 +307,3 @@ Uld er en fornyelig ressource, der klippes af får en gang om året, hvilket gø
 ## Farver
 
 Farver er et vigtigt aspekt af sædebetræksmaterialer, da de kan påvirke det overordnede udseende og stilen af ​​køretøjets interiør betydeligt. Forskellige materialer tilbyder forskellige farvemuligheder, så du kan tilpasse udseendet af dine sæder efter dine præferencer og ønsket æstetik.
-
-{{< pagenavigation b_url="../adjustment/" b_title="Sædejustering og funktioner" f_url="../../sensorsandcameras/" f_title="Sensorer og kameraer" >}}

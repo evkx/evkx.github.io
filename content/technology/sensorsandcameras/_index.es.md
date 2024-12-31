@@ -25,5 +25,3 @@ Algunas de las tecnologías de sensores más comunes utilizadas en los automóvi
 - Infrarrojos: Los sensores infrarrojos utilizan firmas de calor para detectar objetos en el camino del vehículo. Se utilizan comúnmente en sistemas de visión nocturna, que ayudan a los conductores a ver más claramente en condiciones de poca luz. Lea todo sobre [sensores infrarrojos](infrarrojos)
 
 En general, la elección de la tecnología de sensores depende de los requisitos específicos de cada sistema y de las compensaciones entre factores como el costo, el rendimiento y la confiabilidad. Muchos automóviles modernos utilizan una combinación de diferentes tipos de sensores para proporcionar un conjunto completo de funciones ADAS y sistemas de seguridad.
-
-{{< pagenavigation b_url="../seats/" b_title="Sillas de coche" f_url="cameras/" f_title="Cámaras" >}}

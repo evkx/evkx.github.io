@@ -39,5 +39,3 @@ Le rembourrage des sièges d’auto est un aspect essentiel de la conception des
 Dans la base de données EVKX EV, vous pouvez rechercher des modèles EV avec le type de configuration de siège et les fonctionnalités que vous souhaitez.
 
 Accédez à [Base de données EVKX EV](../../evsearch/).
-
-{{< pagenavigation b_url="../safety/" b_title="Sécurité" f_url="types/" f_title="Types de sièges" >}}

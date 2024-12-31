@@ -114,5 +114,3 @@ Some seats offer leg support for relaxing positions.
 {{< sitefiguresized thumb="technology/seats/types/kiaev9captainseats_1_st.jpg" width="3000" height="2000" title="Kia EV9 captain chairs in second row with swivel function" >}}
 
 ### Footrest
-
-{{< pagenavigation b_url="../types/" b_title="Seat Types" f_url="../materials/" f_title="Seat Upholstery & Materials" >}}

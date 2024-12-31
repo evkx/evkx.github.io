@@ -24,5 +24,3 @@ Totalt sett er ultralydsensorer en nyttig sikkerhetsfunksjon i biler som kan hje
 For å redusere kostnadene har Tesla besluttet å fjerne ultralydsensorer fra noen av modellene deres. Dette har ikke vært noen stor suksess. Se test nedenfor.
 
 {{< youtube sNo6vdKY5jA >}}
-
-{{< pagenavigation b_url="../infrared/" b_title="Infrarødt kamera" f_url="../../suspension/" f_title="Hjuloppheng" >}}

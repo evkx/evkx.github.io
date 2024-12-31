@@ -42,5 +42,3 @@ Ultraschallsensoren sind wertvolle Sicherheitsmerkmale, die Fahrern helfen, Koll
 Um Kosten zu senken, hat Tesla beschlossen, Ultraschallsensoren aus einigen ihrer Modelle zu entfernen. Diese Entscheidung wurde kritisiert und führte zu gemischten Ergebnissen. Weitere Details finden Sie im folgenden Test.
 
 {{< youtube sNo6vdKY5jA >}}
-
-{{< pagenavigation b_url="../infrared/" b_title="Infrarotkamera" f_url="../../suspension/" f_title="Fahrwerk" >}}

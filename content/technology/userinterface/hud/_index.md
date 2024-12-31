@@ -43,5 +43,3 @@ While HUDs offer many benefits, there are some limitations to consider. For exam
 Polaroid sunglasses can also prevent the driver from seeing the screen.
 
 In the [EVKX EV database](../../evsearch/), you can search for models with HUD.
-
-{{< pagenavigation b_url="../screens/" b_title="Screens" f_url="../buttons/" f_title="Physical Buttons" >}}

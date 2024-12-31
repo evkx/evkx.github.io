@@ -24,5 +24,3 @@ Certaines des technologies de capteurs les plus couramment utilisées dans les v
 - Infrarouge : Les capteurs infrarouges utilisent des signatures thermiques pour détecter les objets sur la trajectoire du véhicule. Ils sont couramment utilisés dans les systèmes de vision nocturne, qui aident les conducteurs à voir plus clairement dans des conditions de faible luminosité. Tout savoir sur les [capteurs infrarouges](infrarouge)
 
 Dans l'ensemble, le choix de la technologie des capteurs dépend des exigences spécifiques de chaque système et des compromis entre des facteurs tels que le coût, les performances et la fiabilité. De nombreuses voitures modernes utilisent une combinaison de différents types de capteurs pour fournir une suite complète de fonctionnalités ADAS et de systèmes de sécurité.
-
-{{< pagenavigation b_url="../seats/" b_title="Sièges" f_url="cameras/" f_title="Caméras" >}}

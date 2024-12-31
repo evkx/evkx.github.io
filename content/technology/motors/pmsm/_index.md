@@ -59,5 +59,3 @@ Others use induction motors in the front and PMSMs in the rear. Examples include
 If you want to learn even more about PMSM motors, we recommend watching this video where Lucid explains their PMSM design and compares it with others.
 
 {{< youtube U7IHZxNC6hc >}}
-
-{{< pagenavigation b_url="../asm/" b_title="Induction Motors" f_url="../wrsm/" f_title="WRSM" >}}

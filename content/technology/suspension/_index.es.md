@@ -181,6 +181,3 @@ Existen varios tipos diferentes de sistemas de suspensión con amortiguación ad
 En general, la suspensión con amortiguación adaptativa puede mejorar la experiencia de conducción al proporcionar una conducción más cómoda y un mejor manejo, especialmente en carreteras irregulares o con baches.
 
 {{< sitefiguresized thumb="technology/suspension/rsetrongtsuspension_st.jpg" width="3000" height="1723" title="Audi RS e-tron GT suspensión neumática adaptativa" >}}
-
-
-{{< pagenavigation b_url="../sensorsandcameras/" b_title="Sensors & Cameras" f_url="../wheels/" f_title="Tires & Wheels" >}}

@@ -43,5 +43,3 @@ Obwohl HUDs viele Vorteile bieten, gibt es einige Einschränkungen zu beachten. 
 Polarisierte Sonnenbrillen können auch verhindern, dass der Fahrer den Bildschirm sieht.
 
 In der [EVKX EV-Datenbank](../../evsearch/) können Sie nach Modellen mit HUD suchen.
-
-{{< pagenavigation b_url="../screens/" b_title="Bildschirme" f_url="../buttons/" f_title="Physische Tasten" >}}

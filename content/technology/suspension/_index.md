@@ -146,5 +146,3 @@ Adaptive damping suspension adjusts the damping of a car's suspension system in 
 - **Customizable:** Can be tailored to the driver's preferences.
 
 {{< sitefiguresized thumb="technology/suspension/rsetrongtsuspension_st.jpg" width="3000" height="1723" title="Audi RS e-tron GT adaptive air suspension" >}}
-
-{{< pagenavigation b_url="../sensorsandcameras/" b_title="Sensors & Cameras" f_url="../wheels/" f_title="Tires & Wheels" >}}

@@ -310,5 +310,3 @@ La laine est une ressource renouvelable qui est tondue sur les moutons une fois 
 ## Couleurs
 
 Les couleurs sont un aspect important des matériaux de revêtement des sièges, car elles peuvent avoir un impact significatif sur l'apparence générale et le style de l'intérieur de votre véhicule. Différents matériaux offrent différentes options de couleurs, vous permettant de personnaliser l'apparence de vos sièges selon vos préférences et l'esthétique souhaitée.
-
-{{< pagenavigation b_url="../adjustment/" b_title="Réglage et fonctionnalités du siège" f_url="../../sensorsandcameras/" f_title="Capteurs et caméras" >}}

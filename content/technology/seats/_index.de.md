@@ -39,5 +39,3 @@ Die Polsterung von Autositzen ist ein wesentlicher Aspekt des Sitzdesigns und be
 In der EVKX EV-Datenbank können Sie nach EV-Modellen mit der von Ihnen bevorzugten Sitzkonfiguration und den gewünschten Funktionen suchen.
 
 Gehen Sie zur [EVKX EV-Datenbank](../../evsearch/).
-
-{{< pagenavigation b_url="../safety/" b_title="Sicherheit" f_url="types/" f_title="Sitztypen" >}}

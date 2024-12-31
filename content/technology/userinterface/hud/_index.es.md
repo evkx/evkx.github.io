@@ -43,5 +43,3 @@ Si bien los HUD pueden brindar muchos beneficios, existen algunas limitaciones a
 Las gafas de sol Polaroid también pueden impedir que el conductor vea la pantalla.
 
 En la [base de datos EVKX EV](../../evsearch/), puede buscar modelos con HUD.
-
-{{< pagenavigation b_url="../screens/" b_title="Pantallas" f_url="../buttons/" f_title="Botones físicos" >}}

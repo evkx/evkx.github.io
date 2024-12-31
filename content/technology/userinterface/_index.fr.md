@@ -73,5 +73,3 @@ La commande vocale est une autre fonctionnalité de plus en plus populaire dans 
 Le contrôle gestuel est une autre technologie qui commence à apparaître dans les véhicules électriques. Grâce au contrôle gestuel, le conducteur peut utiliser les mouvements de la main pour contrôler diverses fonctionnalités, telles que le réglage du volume ou le changement de station de radio.
 
 [Lisez tout sur le contrôle gestuel.](gesturecontrol/)
-
-{{< pagenavigation b_url="../wheels/" b_title="Pneus et roues" f_url="screens/" f_title="Ecrans" >}}

@@ -261,6 +261,3 @@ La diferencia es pequeña, probablemente menos del 10 % de la diferencia entre e
 No hay diferencia para escenarios como el escenario 1, ya que realizarás un frenado regenerativo para mantener el auto en la carretera.
 
 Como la diferencia es tan pequeña, debes elegir según tus preferencias.
-
-
-{{< pagenavigation b_url="../" b_title="Frenado regenerativo" f_url="../../safety/" f_title="Seguridad" >}}

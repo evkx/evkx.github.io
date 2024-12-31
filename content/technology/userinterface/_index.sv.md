@@ -73,4 +73,3 @@ Motion control är en annan teknik som börjar dyka upp i elbilar. Med geststyrn
 
 [Läs allt om geststyrning.](gestkontroll/)
 
-{{< pagenavigation b_url="../wheels/" b_title="Däck och fälgar" f_url="screens/" f_title="Skärmar" >}}

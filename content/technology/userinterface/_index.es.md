@@ -73,5 +73,3 @@ El control por voz es otra característica que se está volviendo cada vez más 
 El control por gestos es otra tecnología que está empezando a aparecer en los vehículos eléctricos. Con el control por gestos, el conductor puede utilizar los movimientos de la mano para controlar varias funciones, como ajustar el volumen o cambiar la estación de radio.
 
 [Lea todo sobre el control por gestos.](gesturecontrol/)
-
-{{< pagenavigation b_url="../wheels/" b_title="Neumáticos y ruedas" f_url="screens/" f_title="Pantallas" >}}

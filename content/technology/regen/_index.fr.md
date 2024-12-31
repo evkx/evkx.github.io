@@ -102,5 +102,3 @@ Si le freinage régénératif offre de nombreux avantages, la technologie prése
 ## Combien peut-on régénérer ?
 
 Dans la deuxième partie, nous donnons des calculs détaillés sur la quantité d'énergie qui peut être régénérée et comment cela affecte l'autonomie. Nous expliquons également la physique derrière les mathématiques.
-
-{{< pagenavigation b_url="../motors/" b_title="Moteurs et unités d'entraînement" f_url="calculations/" f_title="Calculs de régénération" >}}

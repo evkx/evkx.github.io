@@ -30,5 +30,3 @@ Sammanfattningsvis är växelriktaren en kritisk komponent i EV-drivenheten som 
 Om du vill lära dig mer om växelriktare rekommenderar vi att du tittar på detta Tech Talk från Lucid Motors.
 
 {{< youtube fKhxxKCPwzc >}}
-
-{{< pagenavigation b_url="../wrsm/" b_title="WRSM" f_url="../cooling/" f_title="Motorkylning" >}}

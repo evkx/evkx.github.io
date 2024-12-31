@@ -18,5 +18,3 @@ Las bolsas de aire son una característica de seguridad crítica en los vehícul
 ## Cinturones de seguridad
 
 [Lea todo sobre los cinturones de seguridad.](seatbelts/)
-
-{{< pagenavigation b_url="../regen/" b_title="Frenado regenerativo" f_url="../seats/" f_title="Asientos de coche" >}}

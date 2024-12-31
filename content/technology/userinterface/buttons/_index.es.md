@@ -59,5 +59,3 @@ Hace veinte años, en un coche cada función tenía un botón, pero cada vez má
 Los botones de los automóviles proporcionan una manera conveniente de controlar varias funciones sin tener que navegar por menús o configuraciones en las pantallas, lo que permite una operación rápida y sencilla.
 
 Los botones bien diseñados pueden contribuir a prácticas de conducción más seguras al permitir a los conductores mantener la vista en la carretera y las manos en el volante mientras operan diferentes funciones del vehículo. Las pruebas también muestran que los conductores pueden [realizar tareas más rápido](https://www.vibilagare.se/english/physical-buttons-outperform-touchscreens-new-cars-test-finds) con botones físicos que con pantallas.
-
-{{< pagenavigation b_url="../hud/" b_title="Head-up Display" f_url="../steeringwheel/" f_title="Volante" >}}

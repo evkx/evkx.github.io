@@ -260,5 +260,3 @@ Forskjellen er liten, trolig mindre enn 10 % av forskjellen mellom frihjuling og
 Det er ingen forskjell for scenarier som scenario 1 siden du vil utføre regenerativ bremsing for å holde bilen på veien.
 
 Siden forskjellen er så liten, bør du velge basert på dine preferanser.
-
-{{< pagenavigation b_url="../" b_title="Regenerativ bremsing" f_url="../../safety/" f_title="Sikkerhet" >}}

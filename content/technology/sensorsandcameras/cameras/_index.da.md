@@ -43,5 +43,3 @@ Samlet set spiller kameraer en afgørende rolle i ADAS-teknologier, der giver ch
 Videoskemaet under Veoneer viser nogle eksempler på kamerabrug i biler.
 
 {{< youtube w9kDTFXVYuE >}}
-
-{{< pagenavigation b_url="../" b_title="Sensorer og kameraer" f_url="../radar/" f_title="Radarsensorer" >}}

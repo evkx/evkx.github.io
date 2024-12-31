@@ -280,5 +280,3 @@ Tabellen nedenfor viser de vanligste EV-plattformene brukt på modeller de siste
         </tr>
         </tbody>
 </table>
-
-{{< pagenavigation b_url="../battery/" b_title="Elbil batterier" f_url="../glassroof/" f_title="Glasstak" >}}

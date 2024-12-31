@@ -39,5 +39,3 @@ Bilsetetrekk er et essensielt aspekt ved bilsetedesign og kan påvirke komforten
 I EVKX EV-databasen kan du søke etter EV-modeller med den type setekonfigurasjon og funksjoner du ønsker.
 
 Gå til [EVKX EV-database](../../evsearch/).
-
-{{< pagenavigation b_url="../safety/" b_title="Sikkerhet" f_url="types/" f_title="Setetyper" >}}

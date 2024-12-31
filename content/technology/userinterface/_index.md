@@ -71,5 +71,3 @@ Voice control is becoming increasingly popular in EVs. It allows drivers to acce
 Gesture control is an emerging technology in EVs. It enables the driver to use hand movements to control various features, such as adjusting the volume or changing the radio station.
 
 [Read all about gesture control.](gesturecontrol/)
-
-{{< pagenavigation b_url="../wheels/" b_title="Tires & Wheels" f_url="screens/" f_title="Screens" >}}

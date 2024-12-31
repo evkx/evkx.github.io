@@ -52,5 +52,3 @@ Synkronmotorer med viklet rotor har også nogle begrænsninger, herunder:
 **Vedligeholdelseskrav:** Tilstedeværelsen af ​​slæberinge og børster i rotorkredsløbet kan kræve regelmæssig vedligeholdelse, såsom rengøring, inspektion og udskiftning, hvilket kan øge driftsomkostningerne og vedligeholdelsesindsatsen.
 
 {{< sitefiguresized thumb="technology/motors/wrsm/renault_motor_3.jpeg" width="2050" height="1000" title="Renault WRSM motor " >}}
-
-{{< pagenavigation b_url="../pmsm/" b_title="Permanent Magnet Synkronmotorer" f_url="../inverter/" f_title="Inverter" >}}

@@ -38,5 +38,3 @@ Bilstolsöverdrag är en viktig aspekt av bilbarnstolsdesign och kan påverka ko
 I EVKX EV-databasen kan du söka efter EV-modeller med den typ av säteskonfiguration och funktioner du vill ha.
 
 Gå till [EVKX EV Database](../../evsearch/).
-
-{{< pagenavigation b_url="../safety/" b_title="Säkerhet" f_url="types/" f_title="Setetyper" >}}

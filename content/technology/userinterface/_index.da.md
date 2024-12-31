@@ -72,5 +72,3 @@ Stemmestyring er en anden funktion, der bliver stadig mere populær i elbiler. M
 Motion control er en anden teknologi, der begynder at dukke op i elbiler. Med gestuskontrol kan føreren bruge håndbevægelser til at styre forskellige funktioner, såsom at justere lydstyrken eller skifte radiostation.
 
 [Læs alt om gestus control.](gesturecontrol/)
-
-{{< pagenavigation b_url="../wheels/" b_title="Dæk og fælge" f_url="screens/" f_title="Skærme" >}}

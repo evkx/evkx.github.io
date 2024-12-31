@@ -26,5 +26,3 @@ Modern cars utilize various sensor technologies, each tailored to specific appli
 ### Choosing the Right Sensor Technology
 
 The choice of sensor technology depends on the specific requirements of each system and the trade-offs between factors such as cost, performance, and reliability. Many modern cars use a combination of different sensor types to provide a comprehensive suite of ADAS features and safety systems.
-
-{{< pagenavigation b_url="../seats/" b_title="Seats" f_url="cameras/" f_title="Cameras" >}}

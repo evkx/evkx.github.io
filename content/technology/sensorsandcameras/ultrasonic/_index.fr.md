@@ -24,5 +24,3 @@ Dans l’ensemble, les capteurs à ultrasons constituent un élément de sécuri
 Pour réduire les coûts, Tesla a décidé de supprimer les capteurs à ultrasons de certains de ses modèles. Cela n’a pas été un grand succès. Voir test ci-dessous.
 
 {{< youtube sNo6vdKY5jA >}}
-
-{{< pagenavigation b_url="../infrared/" b_title="Caméra infrarouge" f_url="../../suspension/" f_title="Suspension" >}}

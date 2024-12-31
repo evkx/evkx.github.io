@@ -145,5 +145,3 @@ Die adaptive Dämpfung passt die Dämpfung des Fahrwerks eines Autos in Echtzeit
 - **Anpassbar:** Kann an die Vorlieben des Fahrers angepasst werden.
 
 {{< sitefiguresized thumb="technology/suspension/rsetrongtsuspension_st.jpg" width="3000" height="1723" title="Audi RS e-tron GT adaptive Luftfederung" >}}
-
-{{< pagenavigation b_url="../sensorsandcameras/" b_title="Sensoren & Kameras" f_url="../wheels/" f_title="Reifen & Räder" >}}

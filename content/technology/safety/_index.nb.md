@@ -18,5 +18,3 @@ Kollisjonsputer er en kritisk sikkerhetsfunksjon i elektriske kjøretøy (EV-er)
 ## Setebelter
 
 [Les alt om sikkerhetsbelter.](seatbelts/)
-
-{{< pagenavigation b_url="../regen/" b_title="Regenerativ bremsing" f_url="../seats/" f_title="Bilseter" >}}

@@ -53,6 +53,3 @@ Les moteurs synchrones à rotor bobiné présentent également certaines limites
 **Exigences de maintenance :** La présence de bagues collectrices et de balais dans le circuit du rotor peut nécessiter un entretien régulier, tel que le nettoyage, l'inspection et le remplacement, ce qui peut augmenter les coûts d'exploitation et les efforts de maintenance.
 
 {{< sitefiguresized thumb="technology/motors/wrsm/renault_motor_3.jpeg" width="2050" height="1000" title="Moteur Renault WRSM " >}}
-
-
-{{< pagenavigation b_url="../pmsm/" b_title="Moteurs synchrones à aimant permanent" f_url="../inverter/" f_title="Inverter" >}}

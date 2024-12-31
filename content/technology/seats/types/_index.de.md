@@ -76,5 +76,3 @@ Kapitänssitze in der dritten Reihe ersetzen die Standard-Sitzbank in der dritte
 In der EVKX EV-Datenbank können Sie nach Modellen mit einem bestimmten Sitztyp suchen.
 
 Weiter zu [Sitzeinstellung und Funktionen](../adjustment/).
-
-{{< pagenavigation b_url="../" b_title="Autositze" f_url="../adjustment/" f_title="Sitzeinstellung und Funktionen" >}}

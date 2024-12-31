@@ -279,5 +279,3 @@ Le tableau suivant présente les plates-formes EV les plus couramment utilisées
         </tr>
         </tbody>
 </table>
-
-{{< pagenavigation b_url="../battery/" b_title="Batteries EV" f_url="../glassroof/" f_title="Toit en panneaux de verre" >}}

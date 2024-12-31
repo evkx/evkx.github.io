@@ -72,5 +72,3 @@ Stemmekontroll er en annen funksjon som blir stadig mer populær i elbiler. Med 
 Bevegelseskontroll er en annen teknologi som begynner å dukke opp i elbiler. Med bevegelseskontroll kan sjåføren bruke håndbevegelser til å kontrollere ulike funksjoner, som å justere volumet eller bytte radiostasjon.
 
 [Les alt om gestkontroll.](gesturecontrol/)
-
-{{< pagenavigation b_url="../wheels/" b_title="Dekk og felger" f_url="screens/" f_title="Skjermer" >}}

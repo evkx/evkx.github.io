@@ -114,5 +114,3 @@ Det er imidlertid også noen potensielle ulemper med kapteinstoler på tredje ra
 I EVKX EV-databasen kan du søke etter modeller med en bestemt setetype.
 
 Fortsett til [setejustering og funksjoner](../adjustment/).
-
-{{< pagenavigation b_url="../" b_title="Bilseter" f_url="../adjustment/" f_title="Setejustering og funksjoner" >}}

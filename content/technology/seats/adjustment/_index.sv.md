@@ -119,5 +119,3 @@ Vissa säten erbjuder benstöd för avkopplande positioner.
 {{< sitefiguresized thumb="technology/seats/types/kiaev9captainseats_1_st.jpg" width="3000" height="2000" title="Kia EV9 andra radens kaptenssäten med vridfunktion" >}}
 
 ### Fotstöd
-
-{{< pagenavigation b_url="../types/" b_title="Setetyper" f_url="../materials/" f_title="Sätesöverdrag och material" >}}

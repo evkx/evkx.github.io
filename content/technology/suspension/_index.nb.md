@@ -185,5 +185,3 @@ Det finnes flere forskjellige typer adaptive dempende fjæringssystemer, men de 
 Totalt sett kan adaptiv demping forbedre kjøreopplevelsen ved å gi en mer komfortabel kjøring og bedre kjøreegenskaper, spesielt på ujevne eller humpete veier.
 
 {{< sitefiguresized thumb="technology/suspension/rsetrongtsuspension_st.jpg" width="3000" height="1723" title="Audi RS e-tron GT adaptiv luftfjæring" >}}
-
-{{< pagenavigation b_url="../sensorsandcameras/" b_title="Sensorer og kameraer" f_url="../wheels/" f_title="Dekk og felger" >}}

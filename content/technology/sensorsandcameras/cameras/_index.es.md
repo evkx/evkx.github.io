@@ -44,5 +44,3 @@ En general, las cámaras desempeñan un papel fundamental en las tecnologías AD
 El siguiente vídeo de Veoneer muestra algunos ejemplos del uso de cámaras en automóviles.
 
 {{< youtube w9kDTFXVYuE >}}
-
-{{< pagenavigation b_url="../" b_title="Sensores y cámaras" f_url="../radar/" f_title="Sensores de radar" >}}

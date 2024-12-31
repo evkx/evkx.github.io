@@ -247,5 +247,3 @@ Wool is a renewable resource that is sheared from sheep once a year, making it a
 ## Colors
 
 Colors are an important aspect of seat upholstery materials, as they can significantly impact the overall appearance and style of your vehicle's interior. Different materials offer varying options for colors, allowing you to customize the look of your seats according to your preferences and the desired aesthetic.
-
-{{< pagenavigation b_url="../adjustment/" b_title="Seat adjustment and features" f_url="../../sensorsandcameras/" f_title="Sensors & Cameras" >}}

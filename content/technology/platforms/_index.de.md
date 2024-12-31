@@ -247,5 +247,3 @@ Die folgende Tabelle zeigt die gängigsten EV-Plattformen der letzten Jahre.
         </tr>
     </tbody>
 </table>
-
-{{< pagenavigation b_url="../battery/" b_title="EV-Batterien" f_url="../glassroof/" f_title="Glasdach" >}}

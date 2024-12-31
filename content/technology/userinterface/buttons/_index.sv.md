@@ -58,5 +58,3 @@ För 20 år sedan hade varje funktion en knapp i en bil, men allt fler går öve
 Knappar i bilar ger ett bekvämt sätt att styra olika funktioner utan att behöva navigera genom menyer eller inställningar på skärmarna, vilket ger snabb och enkel manövrering.
 
 Väldesignade knappar kan bidra till säkrare körsätt genom att låta förarna hålla ögonen på vägen och händerna på ratten medan de kör olika fordonsfunktioner. Tester visar också att förare kan [utföra uppgifter snabbare](https://www.vibilagare.se/english/physical-buttons-outperform-touchscreens-new-cars-test-finds) med fysiska knappar än med skärmar.
-
-{{< pagenavigation b_url="../hud/" b_title="Head-up Display" f_url="../steeringwheel/" f_title="Ratt" >}}

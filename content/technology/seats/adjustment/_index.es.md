@@ -121,6 +121,3 @@ Algunos asientos ofrecen soporte para las piernas para posiciones relajantes.
 {{< sitefiguresized thumb="technology/seats/types/kiaev9captainseats_1_st.jpg" width="3000" height="2000" title="Sillas estilo capitán Kia EV9 en segunda fila con función giratoria" >}}
 
 ### Reposapiés
-
-
-{{< pagenavigation b_url="../types/" b_title="Tipos de asientos" f_url="../materials/" f_title="Tapicería y materiales de los asientos" >}}

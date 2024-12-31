@@ -47,5 +47,3 @@ Diese Kameras helfen dem Fahrer, tote Winkel zu überwachen und bieten ein breit
 ## Innen- oder Schminkspiegel
 
 Innen- oder Schminkspiegel befinden sich typischerweise an den Sonnenblenden oder der Dachkonsole und ermöglichen es dem Fahrer und den Passagieren, ihr Aussehen zu überprüfen oder das Innere des Fahrzeugs zu betrachten.
-
-{{< pagenavigation b_url="../stalks/" b_title="Hebel" f_url="../voicecontrol/" f_title="Sprachsteuerung" >}}

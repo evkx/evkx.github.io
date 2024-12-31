@@ -120,5 +120,3 @@ Certains sièges offrent un soutien des jambes pour des positions relaxantes.
 {{< sitefiguresized thumb="technology/seats/types/kiaev9captainseats_1_st.jpg" width="3000" height="2000" title="Sièges capitaine Kia EV9 de deuxième rangée avec fonction pivotante" >}}
 
 ### Repose pieds
-
-{{< pagenavigation b_url="../types/" b_title="Types de sièges" f_url="../materials/" f_title="Revêtement et matériaux des sièges" >}}

@@ -71,5 +71,3 @@ Die Sprachsteuerung wird in EVs immer beliebter. Sie ermöglicht es den Fahrern,
 Die Gestensteuerung ist eine aufkommende Technologie in EVs. Sie ermöglicht es dem Fahrer, Handbewegungen zu verwenden, um verschiedene Funktionen zu steuern, wie z.B. die Lautstärke anzupassen oder den Radiosender zu wechseln.
 
 [Alles über Gestensteuerung lesen.](gesturecontrol/)
-
-{{< pagenavigation b_url="../wheels/" b_title="Reifen & Räder" f_url="screens/" f_title="Bildschirme" >}}

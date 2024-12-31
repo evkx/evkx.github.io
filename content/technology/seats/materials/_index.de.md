@@ -248,5 +248,3 @@ Wolle ist eine erneuerbare Ressource, die einmal im Jahr von Schafen geschoren w
 ## Farben
 
 Farben sind ein wichtiger Aspekt von Sitzbezugsmaterialien, da sie das Gesamtbild und den Stil des Fahrzeuginnenraums erheblich beeinflussen können. Verschiedene Materialien bieten unterschiedliche Farboptionen, sodass Sie das Aussehen Ihrer Sitze nach Ihren Vorlieben und dem gewünschten ästhetischen Eindruck anpassen können.
-
-{{< pagenavigation b_url="../adjustment/" b_title="Sitzeinstellung und Funktionen" f_url="../../sensorsandcameras/" f_title="Sensoren & Kameras" >}}

@@ -51,5 +51,3 @@ Wickelrotor-Synchronmotoren haben auch einige Einschränkungen, darunter:
 **Wartungsanforderungen:** Das Vorhandensein von Schleifringen und Bürsten im Rotorstromkreis erfordert regelmäßige Wartung, wie Reinigung, Inspektion und Austausch, was die Betriebskosten und den Wartungsaufwand erhöht.
 
 {{< sitefiguresized thumb="technology/motors/wrsm/renault_motor_3.jpeg" width="2050" height="1000" title="Renault WRSM Motor" >}}
-
-{{< pagenavigation b_url="../pmsm/" b_title="Permanentmagnet-Synchronmotoren" f_url="../inverter/" f_title="Wechselrichter" >}}

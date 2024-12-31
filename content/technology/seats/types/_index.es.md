@@ -112,5 +112,3 @@ Sin embargo, también existen algunos inconvenientes potenciales en los asientos
 En la base de datos de EVKX EV puedes buscar modelos con un tipo de asiento específico.
 
 Continúe con [ajustes y características del asiento](../ajuste/).
-
-{{< pagenavigation b_url="../" b_title="Sillas de coche" f_url="../adjustment/" f_title="Ajuste y características del asiento" >}}

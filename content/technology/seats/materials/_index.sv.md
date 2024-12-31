@@ -305,5 +305,3 @@ Ull är en förnybar resurs som klipps av får en gång om året, vilket gör de
 ## Färger
 
 Färger är en viktig aspekt av sätesöverdragsmaterial, eftersom de avsevärt kan påverka det övergripande utseendet och stilen på fordonets interiör. Olika material erbjuder olika färgalternativ, vilket gör att du kan anpassa utseendet på dina säten efter dina preferenser och önskad estetik.
-
-{{< pagenavigation b_url="../adjustment/" b_title="Stolsjustering och funktioner" f_url="../../sensorsandcameras/" f_title="Sensorer och kameror" >}}

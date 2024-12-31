@@ -98,5 +98,3 @@ Obwohl das rekuperative Bremsen viele Vorteile bietet, hat die Technologie einig
 ## Wie viel kann regeneriert werden?
 
 Im zweiten Teil bieten wir detaillierte Berechnungen darüber, wie viel Energie regeneriert werden kann und wie sich das auf die Reichweite auswirkt. Wir erklären auch die Physik hinter der Mathematik.
-
-{{< pagenavigation b_url="../motors/" b_title="Motoren & Antriebseinheiten" f_url="calculations/" f_title="Regen-Berechnungen" >}}

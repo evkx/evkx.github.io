@@ -58,5 +58,3 @@ Andere verwenden Asynchronmotoren vorne und PMSMs hinten. Beispiele hierfür sin
 Wenn Sie noch mehr über PMSM-Motoren erfahren möchten, empfehlen wir Ihnen, dieses Video anzusehen, in dem Lucid ihr PMSM-Design erklärt und mit anderen vergleicht.
 
 {{< youtube U7IHZxNC6hc >}}
-
-{{< pagenavigation b_url="../asm/" b_title="Asynchronmotoren" f_url="../wrsm/" f_title="WRSM" >}}

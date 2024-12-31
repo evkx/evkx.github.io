@@ -30,5 +30,3 @@ Oppsummert er omformeren en kritisk komponent i EV-drivenheten som konverterer l
 Hvis du vil lære mer om invertere, anbefaler vi å se denne Tech Talk fra Lucid Motors.
 
 {{< youtube fKhxxKCPwzc >}}
-
-{{< pagenavigation b_url="../wrsm/" b_title="WRSM" f_url="../cooling/" f_title="Motorkjøling" >}}

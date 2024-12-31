@@ -30,5 +30,3 @@ In Autos sind Infrarotkameras normalerweise an der Vorderseite des Fahrzeugs mon
 ### Fazit
 
 Infrarotkameras sind ein wichtiges Sicherheitsmerkmal in Autos, das Fahrern hilft, Hindernisse auf der Straße bei schlechten Lichtverhältnissen oder Nachtfahrten zu erkennen. Sie sollten jedoch nicht als einziges Mittel zur Hinderniserkennung verwendet werden. Fahrer sollten immer Vorsicht walten lassen und andere Sicherheitsmerkmale nutzen, um sicheres Fahren zu gewährleisten.
-
-{{< pagenavigation b_url="../lidar/" b_title="LiDAR-Sensoren" f_url="../ultrasonic/" f_title="Ultraschallsensoren" >}}

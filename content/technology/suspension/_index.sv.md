@@ -180,5 +180,3 @@ Det finns flera olika typer av adaptiva dämpande fjädringssystem, men de syfta
 Sammantaget kan adaptiv dämpning förbättra körupplevelsen genom att ge en bekvämare körning och bättre hantering, särskilt på ojämna eller ojämna vägar.
 
 {{< sitefiguresized thumb="technology/suspension/rsetrongtsuspension_st.jpg" width="3000" height="1723" title="Audi RS e-tron GT adaptiv luftfjädring" >}}
-
-{{< pagenavigation b_url="../sensorsandcameras/" b_title="Sensorer och kameror" f_url="../wheels/" f_title="Däck och fälgar" >}}

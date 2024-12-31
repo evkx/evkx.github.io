@@ -262,5 +262,3 @@ Der Unterschied ist gering, wahrscheinlich weniger als 10% des Unterschieds zwis
 Es gibt keinen Unterschied für Szenarien wie Szenario 1, da Sie regeneratives Bremsen verwenden werden, um das Auto auf der Straße zu halten.
 
 Da der Unterschied so gering ist, sollten Sie basierend auf Ihrer Präferenz wählen.
-
-{{< pagenavigation b_url="../" b_title="Regeneratives Bremsen" f_url="../../safety/" f_title="Sicherheit" >}}

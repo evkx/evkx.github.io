@@ -312,5 +312,3 @@ Ull er en fornybar ressurs som klippes fra sau en gang i året, noe som gjør de
 ## Farger
 
 Farger er et viktig aspekt av setehylstermaterialer, siden de kan påvirke det generelle utseendet og stilen til kjøretøyets interiør betydelig. Ulike materialer tilbyr varierende alternativer for farger, slik at du kan tilpasse utseendet til setene dine i henhold til dine preferanser og ønsket estetikk.
-
-{{< pagenavigation b_url="../adjustment/" b_title="Setejustering og funksjoner" f_url="../../sensorsandcameras/" f_title="Sensorer og kameraer" >}}

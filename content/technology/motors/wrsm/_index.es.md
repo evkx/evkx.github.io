@@ -52,5 +52,3 @@ Los motores síncronos de rotor bobinado también tienen algunas limitaciones, e
 **Requisitos de mantenimiento:** La presencia de anillos colectores y escobillas en el circuito del rotor puede requerir un mantenimiento regular, como limpieza, inspección y reemplazo, lo que puede aumentar los costos operativos y los esfuerzos de mantenimiento.
 
 {{< sitefiguresized thumb="tecnología/motors/wrsm/renault_motor_3.jpeg" width="2050" height="1000" title="motor Renault WRSM " >}}
-
-{{< pagenavigation b_url="../pmsm/" b_title="Motores síncronos de imanes permanentes" f_url="../inverter/" f_title="Inversor" >}}

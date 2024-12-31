@@ -26,5 +26,3 @@ Moderne Autos nutzen verschiedene Sensortechnologien, die jeweils auf spezifisch
 ### Die richtige Sensortechnologie wählen
 
 Die Wahl der Sensortechnologie hängt von den spezifischen Anforderungen jedes Systems und den Abwägungen zwischen Faktoren wie Kosten, Leistung und Zuverlässigkeit ab. Viele moderne Autos verwenden eine Kombination verschiedener Sensortypen, um eine umfassende Suite von ADAS-Funktionen und Sicherheitssystemen bereitzustellen.
-
-{{< pagenavigation b_url="../seats/" b_title="Sitze" f_url="cameras/" f_title="Kameras" >}}

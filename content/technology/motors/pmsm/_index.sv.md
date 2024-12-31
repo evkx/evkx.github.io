@@ -59,5 +59,3 @@ Andra använder induktionsmotorer fram och PSMS bak. Exempel är all vård baser
 Om du vill lära dig ännu mer om PSMS-motorer rekommenderar vi att du tittar på den här videon där Lucid förklarar deras PMSM-design och jämför den med andra
 
 {{< youtube U7IHZxNC6hc >}}
-
-{{< pagenavigation b_url="../asm/" b_title="Induktionsmotorer" f_url="../wrsm/" f_title="WRSM" >}}

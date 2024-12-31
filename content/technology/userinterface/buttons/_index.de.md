@@ -61,5 +61,3 @@ Vor zwanzig Jahren hatte jede Funktion in einem Auto eine physische Taste, aber 
 {{< sitefiguresized thumb="technology/userinterface/buttons/teslamodelybuttons_st.jpg" width="3000" height="1800" title="Tesla Model Y mit nur wenigen physischen Tasten" >}}
 
 Physische Tasten bieten eine bequeme Möglichkeit, verschiedene Funktionen zu steuern, ohne durch Menüs oder Einstellungen auf Bildschirmen navigieren zu müssen, was eine schnelle und einfache Bedienung ermöglicht. Gut gestaltete Tasten können zu sichereren Fahrpraktiken beitragen, indem sie es den Fahrern ermöglichen, die Augen auf der Straße und die Hände am Lenkrad zu halten, während sie verschiedene Fahrzeugfunktionen bedienen. Tests zeigen auch, dass Fahrer Aufgaben schneller [ausführen können](https://www.vibilagare.se/english/physical-buttons-outperform-touchscreens-new-cars-test-finds) mit physischen Tasten als mit Bildschirmen.
-
-{{< pagenavigation b_url="../hud/" b_title="Head-up Display" f_url="../steeringwheel/" f_title="Lenkrad" >}}

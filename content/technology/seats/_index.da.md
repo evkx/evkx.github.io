@@ -38,5 +38,3 @@ Bilsædebetræk er et væsentligt aspekt af bilsædets design og kan påvirke ko
 I EVKX EV-databasen kan du søge efter EV-modeller med den type sædekonfiguration og funktioner, du ønsker.
 
 Gå til [EVKX EV Database](../../evsearch/).
-
-{{< pagenavigation b_url="../safety/" b_title="Sikkerhed" f_url="types/" f_title="Sædetyper" >}}

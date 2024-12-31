@@ -57,5 +57,3 @@ Die Gestensteuerung hat auch einige Einschränkungen:
 - **Begrenzte Funktionalität:** Nicht alle Fahrzeugfunktionen können über Gesten gesteuert werden, und das Maß an Integration und Funktionalität kann je nach spezifischer Marke und Modell des Fahrzeugs variieren.
 
 Zusammenfassend lässt sich sagen, dass die Gestensteuerung in Autos es Benutzern ermöglicht, verschiedene Fahrzeugfunktionen durch Hand- oder Körpergesten zu steuern, ohne physisch Tasten oder Bildschirme zu berühren. Sie bietet Vorteile wie natürliche Interaktion, reduzierte Ablenkungen und Bequemlichkeit, hat aber auch Einschränkungen in Bezug auf Genauigkeit, Benutzer-Lernkurve und Systemintegration. Die Verfügbarkeit und Fähigkeiten der Gestensteuerung können je nach spezifischem Fahrzeug und verwendetem System variieren.
-
-{{< pagenavigation b_url="../voicecontrol/" b_title="Sprachsteuerung" f_url="../../windows/" f_title="Fenster" >}}

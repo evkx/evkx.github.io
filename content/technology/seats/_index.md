@@ -39,5 +39,3 @@ Car seat upholstery is an essential aspect of car seat design, impacting the com
 In the EVKX EV database, you can search for EV models with the seat configuration and features you prefer.
 
 Go to [EVKX EV database](../../evsearch/).
-
-{{< pagenavigation b_url="../safety/" b_title="Safety" f_url="types/" f_title="Seat Types" >}}

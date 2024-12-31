@@ -43,5 +43,3 @@ Además, reducen la resistencia al viento y, por lo tanto, aumentan el alcance y
 ## Espejos interiores o de tocador
 
 Los espejos interiores o de tocador generalmente están ubicados en los parasoles o en la consola superior y permiten al conductor y a los pasajeros verificar su apariencia o ver el interior del vehículo.
-
-{{< pagenavigation b_url="../stalks/" b_title="Tallos" f_url="../voicecontrol/" f_title="Control por voz" >}}

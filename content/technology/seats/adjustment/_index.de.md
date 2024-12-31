@@ -114,5 +114,3 @@ Einige Sitze bieten eine Beinunterstützung für entspannende Positionen.
 {{< sitefiguresized thumb="technology/seats/types/kiaev9captainseats_1_st.jpg" width="3000" height="2000" title="Kia EV9 Kapitänssitze in der zweiten Reihe mit Drehfunktion" >}}
 
 ### Fußstütze
-
-{{< pagenavigation b_url="../types/" b_title="Sitztypen" f_url="../materials/" f_title="Sitzpolsterung & Materialien" >}}

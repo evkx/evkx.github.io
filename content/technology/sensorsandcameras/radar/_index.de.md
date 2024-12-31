@@ -106,5 +106,3 @@ Hier sind einige Hersteller von Radarsensoren:
 - [Infineon Technologies](https://www.infineon.com/cms/en/product/sensor/radar-sensors/)
 - [NXP Semiconductors N.V](https://www.nxp.com/applications/automotive/adas-and-safe-driving/automotive-radar-systems:RADAR-SYSTEMS)
 - [Texas Instruments Incorporated](https://www.ti.com/sensors/mmwave-radar/overview.html)
-
-{{< pagenavigation b_url="../cameras/" b_title="Kameras" f_url="../lidar/" f_title="LiDAR-Sensoren" >}}

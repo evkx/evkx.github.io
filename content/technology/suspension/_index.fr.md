@@ -181,6 +181,3 @@ Il existe plusieurs types de systèmes de suspension à amortissement adaptatif,
 Dans l’ensemble, la suspension à amortissement adaptatif peut améliorer l’expérience de conduite en offrant une conduite plus confortable et une meilleure maniabilité, en particulier sur les routes inégales ou cahoteuses.
 
 {{< sitefiguresized thumb="technology/suspension/rsetrongtsuspension_st.jpg" width="3000" height="1723" title="Suspension pneumatique adaptative Audi RS e-tron GT" >}}
-
-
-{{< pagenavigation b_url="../sensorsandcameras/" b_title="Capteurs et caméras" f_url="../wheels/" f_title="Pneus et roues" >}}

@@ -42,5 +42,3 @@ Mens HUD'er kan give mange fordele, er der nogle begrænsninger at overveje. For
 Polaroid-solbriller kan også forhindre føreren i at se skærmen.
 
 I [EVKX EV-databasen](../../evsearch/) kan du søge efter modeller med HUD.
-
-{{< pagenavigation b_url="../screens/" b_title="Skærme" f_url="../buttons/" f_title="Fysiske knapper" >}}

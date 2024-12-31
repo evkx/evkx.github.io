@@ -280,5 +280,3 @@ La siguiente tabla muestra las plataformas de vehículos eléctricos más comune
         </tr>
         </tbody>
 </table>
-
-{{< pagenavigation b_url="../battery/" b_title="Baterías para vehículos eléctricos" f_url="../glassroof/" f_title="Techo con paneles de vidrio" >}}

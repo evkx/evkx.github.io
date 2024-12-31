@@ -24,5 +24,3 @@ Noen av de vanligste sensorteknologiene som brukes i biler inkluderer:
 - Infrarød: Infrarøde sensorer bruker varmesignaturer for å oppdage gjenstander i kjøretøyets bane. De brukes ofte i nattsynssystemer, som hjelper sjåfører med å se klarere under dårlige lysforhold. Les alt om [infrarøde sensorer](infrarød)
 
 Samlet sett avhenger valget av sensorteknologi av de spesifikke kravene til hvert system og avveiningene mellom faktorer som kostnad, ytelse og pålitelighet. Mange moderne biler bruker en kombinasjon av forskjellige sensortyper for å gi en omfattende serie av ADAS-funksjoner og sikkerhetssystemer.
-
-{{< pagenavigation b_url="../seats/" b_title="Bilseter" f_url="cameras/" f_title="Kameraer" >}}

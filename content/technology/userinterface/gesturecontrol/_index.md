@@ -57,5 +57,3 @@ Gesture control also has some limitations:
 - **Limited Functionality:** Not all vehicle functions may be available for control via gestures, and the level of integration and functionality may vary depending on the specific make and model of the vehicle.
 
 In summary, gesture control in cars allows users to control various vehicle functions using hand or body gestures without physically touching buttons or screens. It offers benefits such as natural interaction, reduced distractions, and convenience but also has limitations related to accuracy, user learning curve, and system integration. The availability and capabilities of gesture control may vary depending on the specific vehicle and system used.
-
-{{< pagenavigation b_url="../voicecontrol/" b_title="Voice Control" f_url="../../windows/" f_title="Windows" >}}

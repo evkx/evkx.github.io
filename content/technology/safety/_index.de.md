@@ -18,5 +18,3 @@ Airbags sind ein kritisches Sicherheitsmerkmal in Elektrofahrzeugen (EVs), das d
 Sicherheitsgurte sind unerlässlich, um die Sicherheit aller Insassen in einem EV zu gewährleisten, indem sie diese bei plötzlichen Stopps oder Kollisionen zurückhalten.
 
 [Lesen Sie alles über Sicherheitsgurte.](seatbelts/)
-
-{{< pagenavigation b_url="../regen/" b_title="Regeneratives Bremsen" f_url="../seats/" f_title="Autositze" >}}

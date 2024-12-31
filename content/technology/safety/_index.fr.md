@@ -18,6 +18,3 @@ Les airbags sont un élément de sécurité essentiel dans les véhicules élect
 ## La ceinture de sécurité
 
 [Lisez tout sur les ceintures de sécurité.](seatbelts/)
-
-
-{{< pagenavigation b_url="../regen/" b_title="Freinage régénératif" f_url="../seats/" f_title="Sièges auto" >}}

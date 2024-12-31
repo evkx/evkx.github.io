@@ -51,5 +51,3 @@ Wound-rotor synchronous motors also have some limitations, including:
 **Maintenance Requirements:** The presence of slip rings and brushes in the rotor circuit requires regular maintenance, such as cleaning, inspection, and replacement, increasing operating costs and maintenance efforts.
 
 {{< sitefiguresized thumb="technology/motors/wrsm/renault_motor_3.jpeg" width="2050" height="1000" title="Renault WRSM motor" >}}
-
-{{< pagenavigation b_url="../pmsm/" b_title="Permanent Magnet Synchronous Motors" f_url="../inverter/" f_title="Inverter" >}}

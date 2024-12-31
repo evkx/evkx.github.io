@@ -112,5 +112,3 @@ Der er dog også nogle potentielle ulemper ved tredje rækkes kaptajnstole. Den 
 I EVKX EV-databasen kan du søge efter modeller med en bestemt sædetype.
 
 Fortsæt til [sædejustering og funktioner](../adjustment/).
-
-{{< pagenavigation b_url="../" b_title="Sæder" f_url="../adjustment/" f_title="Sædejustering og funktioner" >}}

@@ -25,5 +25,3 @@ En general, los sensores ultrasónicos son una característica de seguridad úti
 Para reducir costes, Tesla ha decidido eliminar los sensores ultrasónicos de algunos de sus modelos. Esto no ha sido un gran éxito. Vea la prueba a continuación.
 
 {{< youtube sNo6vdKY5jA >}}
-
-{{< pagenavigation b_url="../infrared/" b_title="Cámara de infrarrojos" f_url="../../suspension/" f_title="Suspensión" >}}

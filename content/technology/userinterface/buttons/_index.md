@@ -61,5 +61,3 @@ Twenty years ago, every function in a car had a physical button, but more and mo
 {{< sitefiguresized thumb="technology/userinterface/buttons/teslamodelybuttons_st.jpg" width="3000" height="1800" title="Tesla Model Y with only a few physical buttons" >}}
 
 Physical buttons provide a convenient way to control various functions without navigating through menus or settings on screens, allowing for quick and easy operation. Well-designed buttons can contribute to safer driving practices by allowing drivers to keep their eyes on the road and hands on the wheel while operating different vehicle functions. Tests also show that drivers can [perform tasks faster](https://www.vibilagare.se/english/physical-buttons-outperform-touchscreens-new-cars-test-finds) with physical buttons than with screens.
-
-{{< pagenavigation b_url="../hud/" b_title="Head-up Display" f_url="../steeringwheel/" f_title="Steering Wheel" >}}

@@ -306,5 +306,3 @@ La lana es un recurso renovable que se esquila de las ovejas una vez al año, lo
 ## Colores
 
 Los colores son un aspecto importante de los materiales de las fundas de los asientos, ya que pueden afectar significativamente la apariencia general y el estilo del interior de su vehículo. Los diferentes materiales ofrecen distintas opciones de colores, lo que le permite personalizar el aspecto de sus asientos según sus preferencias y la estética deseada.
-
-{{< pagenavigation b_url="../adjustment/" b_title="Ajuste y características del asiento" f_url="../../sensorsandcameras/" f_title="Sensores y cámaras" >}}

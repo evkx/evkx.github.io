@@ -60,5 +60,3 @@ Il y a vingt ans, chaque fonction disposait d'un bouton dans une voiture, mais d
 Les boutons dans les voitures offrent un moyen pratique de contrôler diverses fonctions sans avoir à naviguer dans les menus ou les paramètres sur les écrans, permettant une utilisation rapide et facile.
 
 Des boutons bien conçus peuvent contribuer à des pratiques de conduite plus sûres en permettant aux conducteurs de garder les yeux sur la route et les mains sur le volant tout en utilisant différentes fonctions du véhicule. Les tests montrent également que les conducteurs peuvent [effectuer des tâches plus rapidement](https://www.vibilagare.se/english/physical-buttons-outperform-touchscreens-new-cars-test-finds) avec des boutons physiques plutôt qu'avec des écrans.
-
-{{< pagenavigation b_url="../hud/" b_title="Affichage tête haute" f_url="../steeringwheel/" f_title="Volant" >}}

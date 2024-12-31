@@ -259,5 +259,3 @@ La différence est faible, probablement inférieure à 10 % de la différence en
 Il n'y a aucune différence pour des scénarios comme le scénario 1 puisque vous effectuerez un freinage par récupération pour maintenir la voiture sur la route.
 
 La différence étant si minime, vous devez choisir en fonction de vos préférences.
-
-{{< pagenavigation b_url="../" b_title="Freinage régénératif" f_url="../../safety/" f_title="Sécurité" >}}

@@ -99,5 +99,3 @@ Mens regenerativ bremsning giver mange fordele, har teknologien nogle begrænsni
 ## Hvor meget kan regenereres?
 
 I anden del giver vi detaljerede beregninger på, hvor meget energi der kan regenereres, og hvordan det påvirker rækkevidden. Vi forklarer også fysikken bag beregningen.
-
-{{< pagenavigation b_url="../motors/" b_title="Motorer og drivenheder" f_url="calculations/" f_title="Regen beregninger" >}}

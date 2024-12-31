@@ -17,5 +17,3 @@ Airbags er en kritisk sikkerhedsfunktion i elektriske køretøjer (EV'er), desig
 ## Sikkerhedsseler
 
 [Læs alt om sikkerhedsseler.](seatbelts/)
-
-{{< pagenavigation b_url="../regen/" b_title="Regenerativ bremsning" f_url="../seats/" f_title="Sæder" >}}
