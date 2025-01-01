@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/main_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2250" >}}
-EVKX.net busca tener las especificaciones más completas para Tesla Model X Plaid. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Tesla Model X Plaid, visite [chargeinfo](../chargecurve/) para Tesla Model X Plaid con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Tesla Model X Plaid. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Tesla Model X Plaid, visite [chargeinfo](../chargingcurve/) para Tesla Model X Plaid con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -633,7 +633,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Desconocido

@@ -113,7 +113,6 @@ BMW i5 M60 xDrive har plass til fem passasjerer med to forseter og en treseters 
 Første seterad tilbyr to setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
 Følgende funksjoner er tilgjengelig på **Sport** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - Høydejusterbar hodestøtte
@@ -124,7 +123,6 @@ Følgende funksjoner er tilgjengelig på **Sport** setet:
 - [Ventilasjon](../../../../technology/seats/adjustment/#ventilation) (valgfritt)
 
 Følgende funksjoner er tilgjengelig på **Comfort seats** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - Høydejusterbar hodestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)

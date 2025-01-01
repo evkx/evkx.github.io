@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/main_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Lotus Emeya S. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Lotus Emeya S, gå til [chargeinfo](../chargecurve/) for Lotus Emeya S med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Lotus Emeya S. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Lotus Emeya S, gå til [chargeinfo](../chargingcurve/) for Lotus Emeya S med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -561,7 +561,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

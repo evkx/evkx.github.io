@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/main_1_st.jpg" title="Zeekr 001 FR" width="3000" height="1999" >}}
-EVKX.net busca tener las especificaciones más completas para Zeekr 001 FR. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Zeekr 001 FR, visite [chargeinfo](../chargecurve/) para Zeekr 001 FR con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Zeekr 001 FR. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Zeekr 001 FR, visite [chargeinfo](../chargingcurve/) para Zeekr 001 FR con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -601,7 +601,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Desconocido

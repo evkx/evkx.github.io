@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/main_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2007" >}}
-EVKX.net seeks to have the most complete specifications for Lucid Gravity Dream Edition. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lucid Gravity Dream Edition, visit the [chargeinfo](../chargecurve/) for Lucid Gravity Dream Edition with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Lucid Gravity Dream Edition. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lucid Gravity Dream Edition, visit the [chargeinfo](../chargingcurve/) for Lucid Gravity Dream Edition with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -680,7 +680,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

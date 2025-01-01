@@ -129,7 +129,6 @@ Audi Q8 Sportback 50 e-tron har plass til fem passasjerer med to forseter og en 
 Første seterad tilbyr fem setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - Høydejusterbar hodestøtte
 - Lengdejusterbar hodestøtte (valgfritt)
@@ -138,7 +137,6 @@ Følgende funksjoner er tilgjengelig på **standard** setet:
 Tilgjengelig i:
 
 Følgende funksjoner er tilgjengelig på **sport** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - Høydejusterbar hodestøtte
 - Lengdejusterbar hodestøtte (valgfritt)
@@ -149,7 +147,6 @@ Følgende funksjoner er tilgjengelig på **sport** setet:
 Tilgjengelig i:
 
 Følgende funksjoner er tilgjengelig på **s-line sport** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - Høydejusterbar hodestøtte
 - Lengdejusterbar hodestøtte (valgfritt)
@@ -160,7 +157,6 @@ Følgende funksjoner er tilgjengelig på **s-line sport** setet:
 Tilgjengelig i:
 
 Følgende funksjoner er tilgjengelig på **s sport** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Varme](../../../../technology/seats/adjustment/#heating) (valgfritt)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
@@ -169,7 +165,6 @@ Følgende funksjoner er tilgjengelig på **s sport** setet:
 Tilgjengelig i:
 
 Følgende funksjoner er tilgjengelig på **multicontour** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - Høydejusterbar hodestøtte
 - Lengdejusterbar hodestøtte
@@ -177,8 +172,7 @@ Følgende funksjoner er tilgjengelig på **multicontour** setet:
 - [Minne](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
 - [Justerbar sidestøtte rygg](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilasjon](../../../../technology/seats/adjustment/#ventilation) (valgfritt)
 - [Massasje](../../../../technology/seats/adjustment/#massage) (valgfritt)
 
@@ -187,7 +181,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med 40:20:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - Høydejusterbar hodestøtte
 
 ### Innvendig oppbevaring

@@ -101,7 +101,6 @@ Zeekr X Long Range RWD har plass til fem passasjerer med to forseter og en trese
 Zeekr X Long Range RWD tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbart)
 - [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuelt justerbart)
@@ -118,7 +117,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med  deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/secondrowseats_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}

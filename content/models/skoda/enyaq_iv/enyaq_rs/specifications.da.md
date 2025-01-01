@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/main_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="1932" >}}
-EVKX.net søger at have de mest komplette specifikationer for SKODA ENYAQ RS. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af SKODA ENYAQ RS, besøg [chargeinfo](../chargecurve/) for SKODA ENYAQ RS med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for SKODA ENYAQ RS. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af SKODA ENYAQ RS, besøg [chargeinfo](../chargingcurve/) for SKODA ENYAQ RS med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -601,7 +601,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

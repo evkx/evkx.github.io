@@ -132,7 +132,6 @@ Der Audi A6 Sportback e-tron quattro bietet Platz für fünf Passagiere mit zwei
 Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieben gerecht zu werden:
 
 Die folgenden Funktionen sind für den **Sport**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
@@ -151,7 +150,6 @@ Verfügbar in:
 - Red [Leder-Polsterung](../../../../technology/seats/materials/#leather)
 
 Die folgenden Funktionen sind für den **Sport Plus**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
@@ -176,7 +174,6 @@ Verfügbar in:
 #### Rücksitzreihe
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
-
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi A6 Sportback e-tron quattro" width="3000" height="2249"  >}}

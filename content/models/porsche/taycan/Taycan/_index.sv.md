@@ -153,7 +153,6 @@ Denna modell erbjuder en fyrsätesversion eller ett alternativt 4+1-sätes uppl�
 Första raden erbjuder tre olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
 Följande funktioner finns tillgängliga på **Comfort** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
@@ -177,7 +176,6 @@ Finns tillgänglig i:
 - Black/Beige [Nappaskinnsklädsel](../../../../technology/seats/materials/#leather)
 
 Följande funktioner finns tillgängliga på **Comfortseats with memory** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
@@ -207,7 +205,6 @@ Finns tillgänglig i:
 - Black/Beige [Nappaskinnsklädsel](../../../../technology/seats/materials/#leather)
 
 Följande funktioner finns tillgängliga på **Sportsseats Plus** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
@@ -217,8 +214,7 @@ Följande funktioner finns tillgängliga på **Sportsseats Plus** sätet:
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
 - [Justerbart sidostöd ryggstöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justerbart sidostöd sittdyna](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Justerbart sidostöd sittdyna](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Finns tillgänglig i:
@@ -246,13 +242,11 @@ Finns tillgänglig i:
 Du kan välja mellan två olika sätesvarianter för andra raden i Porsche Taycan.
 
 standard-alternativet är två integrerade säten i andra raden. Ytterligare funktioner inkluderar:
-
 - Höjdjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (tillval)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 second-alternativet är två integrerade säten i andra raden med ett tredje mindre säte i mitten. Ytterligare funktioner inkluderar:
-
 - Höjdjusterbart nackstöd
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttersäten)
 

@@ -115,7 +115,6 @@ Denna modell erbjuder en fyrsätesversion eller ett alternativt 4+1-sätes uppl�
 Lotus Emeya S erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
@@ -140,7 +139,6 @@ Finns tillgänglig i:
 Du kan välja mellan två olika sätesvarianter för andra raden i Lotus Emeya S.
 
 standard-alternativet är en tresätesoffa med 40:20:40 delning där du kan fälla varje sektion separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 
 second-alternativet är dubbla [exekutivsäten](../../../../technology/seats/types/#twin-executive-seats). Ytterligare funktioner inkluderar:

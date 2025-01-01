@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/main_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2249" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für Cadillac LYRIQ RWD zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Cadillac LYRIQ RWD, besuchen Sie die [Ladeinformationen](../chargecurve/) für Cadillac LYRIQ RWD mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für Cadillac LYRIQ RWD zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Cadillac LYRIQ RWD, besuchen Sie die [Ladeinformationen](../chargingcurve/) für Cadillac LYRIQ RWD mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -574,7 +574,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Standard elektrische Funktion

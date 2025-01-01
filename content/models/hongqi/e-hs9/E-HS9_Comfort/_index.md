@@ -108,7 +108,6 @@ The seat layout is seven seats with two in front, three seats in the second row 
 The Hongqi E-HS9 Comfort offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - Height adjustable headrest
@@ -122,7 +121,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)

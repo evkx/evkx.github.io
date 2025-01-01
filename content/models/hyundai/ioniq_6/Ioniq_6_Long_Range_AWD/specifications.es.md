@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2001" >}}
-EVKX.net busca tener las especificaciones más completas para Hyundai Ioniq 6 Long Range AWD. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Hyundai Ioniq 6 Long Range AWD, visite [chargeinfo](../chargecurve/) para Hyundai Ioniq 6 Long Range AWD con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Hyundai Ioniq 6 Long Range AWD. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Hyundai Ioniq 6 Long Range AWD, visite [chargeinfo](../chargingcurve/) para Hyundai Ioniq 6 Long Range AWD con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -614,7 +614,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Desconocido

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/dongfeng/nammi_box/nammi_box_31.4kwh/main_1_st.jpg" title="Dongfeng Nammi Box 31.4kWh" width="3000" height="2000" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Dongfeng Nammi Box 31.4kWh. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Dongfeng Nammi Box 31.4kWh, visitez les [chargeinfo](../chargecurve/) pour Dongfeng Nammi Box 31.4kWh avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Dongfeng Nammi Box 31.4kWh. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Dongfeng Nammi Box 31.4kWh, visitez les [chargeinfo](../chargingcurve/) pour Dongfeng Nammi Box 31.4kWh avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -558,7 +558,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Non disponible

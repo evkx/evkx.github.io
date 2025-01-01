@@ -111,7 +111,6 @@ Der CUPRA BORN 77 e-BOOST bietet Platz für fünf Passagiere mit zwei Vordersitz
 Der CUPRA BORN 77 e-BOOST bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar als Option)

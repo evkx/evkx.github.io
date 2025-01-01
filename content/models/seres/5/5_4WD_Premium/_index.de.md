@@ -110,7 +110,6 @@ Der Seres 5 4WD Premium bietet Platz für fünf Passagiere mit zwei Vordersitzen
 Der Seres 5 4WD Premium bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
@@ -129,7 +128,6 @@ Verfügbar in:
 #### Rücksitzreihe
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
-
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>

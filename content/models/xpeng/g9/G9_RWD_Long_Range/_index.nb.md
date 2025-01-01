@@ -103,7 +103,6 @@ XPENG G9 RWD Long Range har plass til fem passasjerer med to forseter og en tres
 XPENG G9 RWD Long Range tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -112,8 +111,7 @@ Følgende funksjoner er tilgjengelig på **** setet:
 - [Minne](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgjengelig for passasjer)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
 - [Justerbar sidestøtte rygg](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
 - [Massasje](../../../../technology/seats/adjustment/#massage)
 
@@ -127,7 +125,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med 60:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)
 - [Massasje](../../../../technology/seats/adjustment/#massage)
 

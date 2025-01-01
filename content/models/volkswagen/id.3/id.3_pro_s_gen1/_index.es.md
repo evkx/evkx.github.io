@@ -111,7 +111,6 @@ El Volkswagen ID.3 Pro S (GEN1) acomoda cinco pasajeros con dos asientos delante
 El Volkswagen ID.3 Pro S (GEN1) ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - Reposacabezas ajustable en altura
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (opcional)

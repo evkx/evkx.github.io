@@ -110,7 +110,6 @@ Volvo XC40 Recharge Single Motor har plads til fem passagerer med to forsæder o
 Volvo XC40 Recharge Single Motor tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
@@ -123,7 +122,6 @@ Fås med:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med  opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>

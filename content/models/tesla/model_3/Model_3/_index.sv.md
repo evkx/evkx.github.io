@@ -114,7 +114,6 @@ Tesla Model 3 rymmer fem passagerare med två framsäten och en tresätessoffa b
 Tesla Model 3 erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)

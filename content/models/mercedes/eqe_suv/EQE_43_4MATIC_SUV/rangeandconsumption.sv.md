@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 Räckvidden varierar beroende på flera faktorer. Som hur snabbt du kör, temperaturen, vått eller torrt väglag och utrustningen. På denna sida hittar du diagram och tabeller med standardtestcykelresultat som WLTP och EPA samt uppskattad räckvidd i verkliga förhållanden i olika miljöer.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/mercedes/eqe_suv/eqe_43_4matic_suv/range.svg"/>
-<a href="/images/models/mercedes/eqe_suv/eqe_43_4matic_suv/range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/mercedes/eqe_suv/eqe_43_4matic_suv/range.svg"/>
+<a href="/images/nb-NO/models/mercedes/eqe_suv/eqe_43_4matic_suv/range.svg">Full screen</a>
 
 ### Officiella testcykelresultat
 

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/fiat/600e/600e/main_1_st.jpg" title="Fiat 600e" width="3000" height="2001" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Fiat 600e. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Fiat 600e, gå till [chargeinfo](../chargecurve/) för Fiat 600e med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Fiat 600e. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Fiat 600e, gå till [chargeinfo](../chargingcurve/) för Fiat 600e med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -537,7 +537,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt

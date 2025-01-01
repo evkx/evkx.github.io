@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/main_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1486" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour HiPhi Z 5 Seater. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de HiPhi Z 5 Seater, visitez les [chargeinfo](../chargecurve/) pour HiPhi Z 5 Seater avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour HiPhi Z 5 Seater. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de HiPhi Z 5 Seater, visitez les [chargeinfo](../chargingcurve/) pour HiPhi Z 5 Seater avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -505,7 +505,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Fonction électrique standard

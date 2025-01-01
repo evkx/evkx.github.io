@@ -130,7 +130,6 @@ Le Kia EV9 Long Range RWD est disponible en disposition à six ou sept sièges p
 La première rangée offre deux types de sièges pour répondre à diverses préférences de confort et de style :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **8 Way** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -143,7 +142,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **8 Way** :
 - [Massage](../../../../technology/seats/adjustment/#massage) (standard pour le conducteur, non disponible pour le passager)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Premium Relaxion** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -163,14 +161,12 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Premium Relaxion
 Vous pouvez choisir trois types de sièges pour la deuxième rangée dans le Kia EV9 Long Range RWD.
 
 L'option standard est une banquette trois places avec une répartition 60:40 où vous pouvez replier chaque section séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - Appuie-tête réglable en hauteur
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 
 L'option second est deux sièges capitaine. Fonctionnalités supplémentaires :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
 - Appuie-tête réglable en hauteur
@@ -180,7 +176,6 @@ L'option second est deux sièges capitaine. Fonctionnalités supplémentaires :
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 L'option third est deux sièges capitaine. Fonctionnalités supplémentaires :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - Appuie-tête réglable en hauteur

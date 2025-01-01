@@ -107,7 +107,6 @@ Ford F150 Lightning Standard Range rymmer fem passagerare med två framsäten oc
 Ford F150 Lightning Standard Range erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (tillval)

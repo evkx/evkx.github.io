@@ -110,7 +110,6 @@ El Volvo EX90 Twin Motor Performance está disponible en una disposición de sei
 El Volvo EX90 Twin Motor Performance ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -135,13 +134,11 @@ Disponible en:
 Puede elegir entre dos tipos de asientos para la segunda fila en el Volvo EX90 Twin Motor Performance.
 
 La opción standard es un banco de tres asientos con una división 40:60 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (estándar para los asientos exteriores)
 
 La opción second es dos asientos tipo capitán. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Ventilación](../../../../technology/seats/adjustment/#ventilation)

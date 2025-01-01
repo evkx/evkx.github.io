@@ -115,7 +115,6 @@ El BMW i4 eDrive35 acomoda cinco pasajeros con dos asientos delanteros y un banc
 La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - Reposacabezas ajustable en altura
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
@@ -148,7 +147,6 @@ Disponible en:
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
 Las siguientes funcionalidades están disponibles en el asiento **M Sport**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - Reposacabezas ajustable en altura
 - [Calefacción](../../../../technology/seats/adjustment/#heating)

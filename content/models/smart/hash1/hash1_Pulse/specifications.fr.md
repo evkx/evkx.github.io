@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/main_1_st.jpg" title="Smart #1 Pulse" width="3000" height="2250" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Smart #1 Pulse. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Smart #1 Pulse, visitez les [chargeinfo](../chargecurve/) pour Smart #1 Pulse avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Smart #1 Pulse. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Smart #1 Pulse, visitez les [chargeinfo](../chargingcurve/) pour Smart #1 Pulse avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -598,7 +598,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Fonction standard

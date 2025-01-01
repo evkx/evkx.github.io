@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lexus/rz/rz_300e/main_1_st.jpg" title="Lexus RZ 300e" width="3000" height="1999" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für Lexus RZ 300e zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Lexus RZ 300e, besuchen Sie die [Ladeinformationen](../chargecurve/) für Lexus RZ 300e mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für Lexus RZ 300e zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Lexus RZ 300e, besuchen Sie die [Ladeinformationen](../chargingcurve/) für Lexus RZ 300e mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -649,7 +649,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Optionale elektrische Funktion

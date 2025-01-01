@@ -101,7 +101,6 @@ Der Zeekr X Long Range RWD bietet Platz für fünf Passagiere mit zwei Vordersit
 Der Zeekr X Long Range RWD bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuell verstellbar)
@@ -118,7 +117,6 @@ Verfügbar in:
 #### Rücksitzreihe
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
-
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/secondrowseats_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/main_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2249" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour MG MG4 Electric Extended Range. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de MG MG4 Electric Extended Range, visitez les [chargeinfo](../chargecurve/) pour MG MG4 Electric Extended Range avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour MG MG4 Electric Extended Range. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de MG MG4 Electric Extended Range, visitez les [chargeinfo](../chargingcurve/) pour MG MG4 Electric Extended Range avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -537,7 +537,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Fonction électrique standard

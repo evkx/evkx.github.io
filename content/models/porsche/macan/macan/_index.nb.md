@@ -116,7 +116,6 @@ Porsche Macan har plass til fem passasjerer med to forseter og en treseters benk
 Første seterad tilbyr tre setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
 Følgende funksjoner er tilgjengelig på **Comfortseats** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -126,7 +125,6 @@ Følgende funksjoner er tilgjengelig på **Comfortseats** setet:
 - [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valgfritt)
 
 Følgende funksjoner er tilgjengelig på **Comfortseats with memory** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -139,7 +137,6 @@ Følgende funksjoner er tilgjengelig på **Comfortseats with memory** setet:
 Tilgjengelig i:
 
 Følgende funksjoner er tilgjengelig på **Sportsseats Plus** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -149,8 +146,7 @@ Følgende funksjoner er tilgjengelig på **Sportsseats Plus** setet:
 - [Minne](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
 - [Justerbar sidestøtte rygg](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilasjon](../../../../technology/seats/adjustment/#ventilation) (valgfritt)
 
 Tilgjengelig i:

@@ -111,7 +111,6 @@ BMW i7 eDrive50 har plads til fem passagerer med to forsæder og en trebænk bag
 BMW i7 eDrive50 tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -147,7 +146,6 @@ Du kan vælge mellem to sædetyper til anden række i BMW i7 eDrive50.
 standard muligheden er en tresæders bænk med  opdeling, hvor du kan folde hver sektion separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
 second muligheden er et [komfortsæde kombineret med en tosæders bænk](../../../../technology/seats/types/#executive-seat--two-seat-bench). Yderligere funktioner inkluderer:
-
 - [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 - [Benstøtte til passager](../../../../technology/seats/adjustment/#leg-support) (standard for ydersæder)

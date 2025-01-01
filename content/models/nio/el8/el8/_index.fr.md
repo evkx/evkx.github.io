@@ -147,7 +147,6 @@ La disposition des sièges est de six sièges avec deux à l'avant, deux sièges
 Le Nio EL8 propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -175,7 +174,6 @@ Disponible en :
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Nio EL8.
 
 L'option standard est deux sièges capitaine. Fonctionnalités supplémentaires :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - Appuie-tête réglable en hauteur
@@ -183,7 +181,6 @@ L'option standard est deux sièges capitaine. Fonctionnalités supplémentaires 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 L'option second est deux sièges capitaine. Fonctionnalités supplémentaires :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - Appuie-tête réglable en hauteur

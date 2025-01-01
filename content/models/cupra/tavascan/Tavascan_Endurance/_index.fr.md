@@ -111,7 +111,6 @@ Le CUPRA Tavascan Endurance peut accueillir cinq passagers avec deux sièges à 
 Le CUPRA Tavascan Endurance propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement en option)

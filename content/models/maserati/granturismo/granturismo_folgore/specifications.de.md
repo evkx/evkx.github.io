@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/maserati/granturismo/granturismo_folgore/main_1_st.jpg" title="Maserati GranTurismo Folgore" width="3000" height="2000" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für Maserati GranTurismo Folgore zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Maserati GranTurismo Folgore, besuchen Sie die [Ladeinformationen](../chargecurve/) für Maserati GranTurismo Folgore mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für Maserati GranTurismo Folgore zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Maserati GranTurismo Folgore, besuchen Sie die [Ladeinformationen](../chargingcurve/) für Maserati GranTurismo Folgore mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -577,7 +577,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit vier Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Standard elektrische Funktion

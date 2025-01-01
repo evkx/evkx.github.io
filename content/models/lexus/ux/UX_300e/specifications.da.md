@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/main_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000" >}}
-EVKX.net søger at have de mest komplette specifikationer for Lexus UX 300e. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Lexus UX 300e, besøg [chargeinfo](../chargecurve/) for Lexus UX 300e med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Lexus UX 300e. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Lexus UX 300e, besøg [chargeinfo](../chargingcurve/) for Lexus UX 300e med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -647,7 +647,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

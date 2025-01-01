@@ -133,7 +133,6 @@ Kia EV9 GT-Line AWD ist in einer Sechs- oder Siebensitzer-Konfiguration für zus
 Der Kia EV9 GT-Line AWD bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ** Premium Relaxion**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
@@ -154,7 +153,6 @@ Die folgenden Funktionen sind für den ** Premium Relaxion**-Sitz verfügbar:
 Sie können drei Sitztypen für die zweite Reihe im Kia EV9 GT-Line AWD wählen.
 
 Die standard-Option ist eine Drei-Sitz-Bank mit einem 60:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze
@@ -163,7 +161,6 @@ Die standard-Option ist eine Drei-Sitz-Bank mit einem 60:40-Split, bei dem jeder
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 Die second-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
@@ -173,7 +170,6 @@ Die second-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 Die third-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze

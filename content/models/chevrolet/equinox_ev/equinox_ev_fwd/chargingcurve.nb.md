@@ -8,9 +8,9 @@ navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-<img src="/images/models/chevrolet/equinox_ev/equinox_ev_fwd/chargingcurve.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/chevrolet/equinox_ev/equinox_ev_fwd/chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/chevrolet/equinox_ev/equinox_ev_fwd/chargingcurve.svg)
+[Full screen](/images/nb-NO/models/chevrolet/equinox_ev/equinox_ev_fwd/chargingcurve.svg)
 
 
 <div class="table-responsive">
@@ -99,9 +99,9 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
-<img src="/images/models/chevrolet/equinox_ev/equinox_ev_fwd/chargingtime.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/chevrolet/equinox_ev/equinox_ev_fwd/chargingtime.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/chevrolet/equinox_ev/equinox_ev_fwd/chargingtime.svg)
+[Full screen](/images/nb-NO/models/chevrolet/equinox_ev/equinox_ev_fwd/chargingtime.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -140,9 +140,9 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
-<img src="/images/models/chevrolet/equinox_ev/equinox_ev_fwd/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/chevrolet/equinox_ev/equinox_ev_fwd/chargerangespeed.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/chevrolet/equinox_ev/equinox_ev_fwd/chargerangespeed.svg)
+[Full screen](/images/nb-NO/models/chevrolet/equinox_ev/equinox_ev_fwd/chargerangespeed.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

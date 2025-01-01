@@ -115,7 +115,6 @@ Der BMW i4 eDrive40 bietet Platz für fünf Passagiere mit zwei Vordersitzen und
 Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieben gerecht zu werden:
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
@@ -148,7 +147,6 @@ Verfügbar in:
 - Black [Leder-Polsterung](../../../../technology/seats/materials/#leather)
 
 Die folgenden Funktionen sind für den **M Sport**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)

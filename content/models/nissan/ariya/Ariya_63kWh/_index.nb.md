@@ -112,7 +112,6 @@ Nissan Ariya 63kWh har plass til fem passasjerer med to forseter og en treseters
 Nissan Ariya 63kWh tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - Høydejusterbar hodestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)

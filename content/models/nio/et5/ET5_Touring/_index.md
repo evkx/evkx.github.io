@@ -128,7 +128,6 @@ The Nio ET5 Touring accommodates five passengers with two front seats and a thre
 The Nio ET5 Touring offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - Height adjustable headrest
@@ -149,7 +148,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>

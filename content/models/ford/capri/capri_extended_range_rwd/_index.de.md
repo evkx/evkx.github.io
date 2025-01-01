@@ -113,13 +113,11 @@ Der Ford Capri Extended Range RWD bietet Platz für fünf Passagiere mit zwei Vo
 Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieben gerecht zu werden:
 
 Die folgenden Funktionen sind für den **Sport**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 
 Die folgenden Funktionen sind für den **Ergo**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)

@@ -147,7 +147,6 @@ Sædeopsætningen er seks sæder med to foran, to kaptajnstole på anden række 
 Nio EL8 tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -175,7 +174,6 @@ Fås med:
 Du kan vælge mellem to sædetyper til anden række i Nio EL8.
 
 standard muligheden er to kaptajnstole. Yderligere funktioner inkluderer:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - Højdejusterbar nakkestøtte
@@ -183,7 +181,6 @@ standard muligheden er to kaptajnstole. Yderligere funktioner inkluderer:
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 second muligheden er to kaptajnstole. Yderligere funktioner inkluderer:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - Højdejusterbar nakkestøtte

@@ -13,8 +13,8 @@ The range will vary depending on several factors. Like how fast you drive, the t
 
 The range will vary depending on several factors. Like how fast you drive, the temperature, wet or dry road, and the equipped equipment. On this page, you will find a diagram and tables with the standard test cycle results like WLTP and EPA and estimated real-world range in different environments.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/onvo/l60/l60_awd/range_1.svg"/>
-<a href="/images/models/onvo/l60/l60_awd/range_1.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/onvo/l60/l60_awd/range_1.svg"/>
+<a href="/images/nb-NO/models/onvo/l60/l60_awd/range_1.svg">Full screen</a>
 
 ### Official test cycle results
 
@@ -98,8 +98,8 @@ The table below shows some estimated real-world examples in perfect condition an
 </table>
 </div>
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/onvo/l60/l60_awd/range_2.svg"/>
-<a href="/images/models/onvo/l60/l60_awd/range_2.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/onvo/l60/l60_awd/range_2.svg"/>
+<a href="/images/nb-NO/models/onvo/l60/l60_awd/range_2.svg">Full screen</a>
 
 ### Official test cycle results
 

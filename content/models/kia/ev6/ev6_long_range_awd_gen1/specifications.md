@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd_gen1/main_1_st.jpg" title="Kia EV6 Long Range AWD (GEN1)" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for Kia EV6 Long Range AWD (GEN1). Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Kia EV6 Long Range AWD (GEN1), visit the [chargeinfo](../chargecurve/) for Kia EV6 Long Range AWD (GEN1) with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Kia EV6 Long Range AWD (GEN1). Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Kia EV6 Long Range AWD (GEN1), visit the [chargeinfo](../chargingcurve/) for Kia EV6 Long Range AWD (GEN1) with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -646,7 +646,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Optional electric feature

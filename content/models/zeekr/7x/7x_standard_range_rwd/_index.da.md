@@ -118,7 +118,6 @@ Zeekr 7X Standard Range RWD har plads til fem passagerer med to forsæder og en 
 Zeekr 7X Standard Range RWD tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -144,14 +143,12 @@ Fås med:
 Du kan vælge mellem to sædetyper til anden række i Zeekr 7X Standard Range RWD.
 
 standard muligheden er en tresæders bænk med 40:60 opdeling, hvor du kan folde hver sektion separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - Højdejusterbar nakkestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)
 
 second muligheden er et [komfortsæde kombineret med en tosæders bænk](../../../../technology/seats/types/#executive-seat--two-seat-bench). Yderligere funktioner inkluderer:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)

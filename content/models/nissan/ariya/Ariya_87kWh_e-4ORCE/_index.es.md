@@ -112,7 +112,6 @@ El Nissan Ariya 87kWh e-4ORCE acomoda cinco pasajeros con dos asientos delantero
 El Nissan Ariya 87kWh e-4ORCE ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - Reposacabezas ajustable en altura
 - [Calefacción](../../../../technology/seats/adjustment/#heating)

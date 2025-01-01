@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/main_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2001" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai Ioniq 5 Long Range AWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Hyundai Ioniq 5 Long Range AWD, gå til [chargeinfo](../chargecurve/) for Hyundai Ioniq 5 Long Range AWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai Ioniq 5 Long Range AWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Hyundai Ioniq 5 Long Range AWD, gå til [chargeinfo](../chargingcurve/) for Hyundai Ioniq 5 Long Range AWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -630,7 +630,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ukjent

@@ -109,7 +109,6 @@ Nissan Ariya NISMO har plads til fem passagerer med to forsæder og en trebænk 
 Nissan Ariya NISMO tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - Højdejusterbar nakkestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)

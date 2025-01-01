@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/alpine/a290/a290_gt/main_1_st.jpg" title="Alpine A290 GT" width="2000" height="1000" >}}
-EVKX.net seeks to have the most complete specifications for Alpine A290 GT. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Alpine A290 GT, visit the [chargeinfo](../chargecurve/) for Alpine A290 GT with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Alpine A290 GT. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Alpine A290 GT, visit the [chargeinfo](../chargingcurve/) for Alpine A290 GT with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -537,7 +537,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

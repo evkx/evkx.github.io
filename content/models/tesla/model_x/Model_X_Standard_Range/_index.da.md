@@ -112,7 +112,6 @@ Sædeopsætningen er syv sæder med to foran, tre sæder på anden række og to 
 Tesla Model X Standard Range tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - Højdejusterbar nakkestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)

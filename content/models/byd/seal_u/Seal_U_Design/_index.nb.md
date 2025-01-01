@@ -113,7 +113,6 @@ BYD Seal U Design har plass til fem passasjerer med to forseter og en treseters 
 BYD Seal U Design tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -128,7 +127,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med 60:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - Høydejusterbar hodestøtte
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/secondrowseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="2225"  >}}

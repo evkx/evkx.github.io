@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/main_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Lexus RZ 450e. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Lexus RZ 450e, gå till [chargeinfo](../chargecurve/) för Lexus RZ 450e med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Lexus RZ 450e. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Lexus RZ 450e, gå till [chargeinfo](../chargingcurve/) för Lexus RZ 450e med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -649,7 +649,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Valfri elektrisk funktion

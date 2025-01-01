@@ -106,7 +106,6 @@ Volvo EC40 Single Motor ER rymmer fem passagerare med två framsäten och en tre
 Volvo EC40 Single Motor ER erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
@@ -119,7 +118,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med  delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (standard för yttersäten)
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/secondrowseats_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}

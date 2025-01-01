@@ -108,7 +108,6 @@ Peugot E-3008 Long Range rymmer fem passagerare med två framsäten och en tres�
 Peugot E-3008 Long Range erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
@@ -130,7 +129,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med 40:20:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - Höjdjusterbart nackstöd
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>

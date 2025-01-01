@@ -115,7 +115,6 @@ Le Volkswagen ID.7 Tourer Pro peut accueillir cinq passagers avec deux sièges �
 La première rangée offre deux types de sièges pour répondre à diverses préférences de confort et de style :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
@@ -126,7 +125,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 Disponible en :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **ergoActive** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -145,7 +143,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **ergoActive** :
 #### Sièges de Deuxième Rangée
 
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition 60:40, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - Appuie-tête réglable en hauteur
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 

@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi samler anmeldelser fra vores [foretrukne online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Polestar 3 - Review & Range Test</h3>
+<p>Nevo EV Review Ireland: 28.12.2024</p>
+
+{{< youtube pXX1KADipxs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Test av Polestar 3 Long Range Dual Motor Performance: Et alternativ til Porsche Macan?</h3>
 <p>Norsk elbilforening: 17.12.2024</p>
 

@@ -101,7 +101,6 @@ Der Cadillac OPTIQ AWD bietet Platz für fünf Passagiere mit zwei Vordersitzen 
 Der Cadillac OPTIQ AWD bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
@@ -121,7 +120,6 @@ Verfügbar in:
 #### Rücksitzreihe
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
-
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 
 {{< sitefiguresized thumb="models/cadillac/optiq/secondrowseats_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}

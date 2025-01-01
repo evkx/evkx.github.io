@@ -108,7 +108,6 @@ Le Polestar 2 Long Range Dual Motor Performance peut accueillir cinq passagers a
 Le Polestar 2 Long Range Dual Motor Performance propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
@@ -127,7 +126,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition , permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (standard pour les sièges extérieurs)
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="2250"  >}}

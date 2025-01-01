@@ -106,7 +106,6 @@ El Fiat 600e acomoda cinco pasajeros con dos asientos delanteros y un banco de t
 El Fiat 600e ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual, ajuste eléctrico como opción)

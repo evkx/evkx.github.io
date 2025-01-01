@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mhero/i/i/main_1_st.jpg" title="MHERO I" width="3000" height="2000" >}}
-EVKX.net søger at have de mest komplette specifikationer for MHERO I. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af MHERO I, besøg [chargeinfo](../chargecurve/) for MHERO I med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for MHERO I. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af MHERO I, besøg [chargeinfo](../chargingcurve/) for MHERO I med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -647,7 +647,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

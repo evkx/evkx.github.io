@@ -118,7 +118,6 @@ Volkswagen ID.4 GTX 4MOTION (GEN1) rymmer fem passagerare med två framsäten oc
 Första raden erbjuder två olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - Höjdjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
@@ -126,7 +125,6 @@ Följande funktioner finns tillgängliga på **standard** sätet:
 Finns tillgänglig i:
 
 Följande funktioner finns tillgängliga på **ergoActive Top-Sport** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)

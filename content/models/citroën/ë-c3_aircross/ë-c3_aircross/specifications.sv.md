@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/main_1_st.jpg" title="Citroën ë-C3 Aircross" width="2893" height="2170" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Citroën ë-C3 Aircross. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Citroën ë-C3 Aircross, gå till [chargeinfo](../chargecurve/) för Citroën ë-C3 Aircross med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Citroën ë-C3 Aircross. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Citroën ë-C3 Aircross, gå till [chargeinfo](../chargingcurve/) för Citroën ë-C3 Aircross med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -537,7 +537,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
@@ -682,7 +682,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt

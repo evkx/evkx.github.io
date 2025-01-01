@@ -129,7 +129,6 @@ La disposición de asientos es de seis plazas con dos asientos delanteros, dos a
 El Kia EV9 GT ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ** Premium Relaxion**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -147,7 +146,6 @@ Las siguientes funcionalidades están disponibles en el asiento ** Premium Relax
 #### Asientos de la Segunda Fila
 
 Para la segunda fila, este modelo tiene dos asientos tipo capitán. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste eléctrico)
 - Reposacabezas ajustable en altura

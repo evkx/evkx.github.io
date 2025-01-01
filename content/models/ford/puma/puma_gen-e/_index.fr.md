@@ -124,7 +124,6 @@ Le Ford Puma Gen-E peut accueillir cinq passagers avec deux sièges à l'avant e
 Le Ford Puma Gen-E propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - Appuie-tête réglable en hauteur (réglable manuellement)
@@ -139,7 +138,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition , permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - Appuie-tête réglable en hauteur (réglable manuellement)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 

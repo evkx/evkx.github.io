@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/nio/et9/et9/main_1_st.jpg" title="Nio ET9" width="2560" height="1360" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Nio ET9. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Nio ET9, gå till [chargeinfo](../chargecurve/) för Nio ET9 med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Nio ET9. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Nio ET9, gå till [chargeinfo](../chargingcurve/) för Nio ET9 med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -513,7 +513,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

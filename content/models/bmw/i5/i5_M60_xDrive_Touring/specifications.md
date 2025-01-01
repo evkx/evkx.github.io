@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/main_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2001" >}}
-EVKX.net seeks to have the most complete specifications for BMW i5 M60 xDrive Touring. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i5 M60 xDrive Touring, visit the [chargeinfo](../chargecurve/) for BMW i5 M60 xDrive Touring with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for BMW i5 M60 xDrive Touring. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i5 M60 xDrive Touring, visit the [chargeinfo](../chargingcurve/) for BMW i5 M60 xDrive Touring with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -649,7 +649,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Standard electric feature
@@ -794,7 +794,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Standard electric feature

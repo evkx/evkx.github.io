@@ -129,7 +129,6 @@ El Nio ES8 está disponible en una disposición de seis o siete asientos para ma
 El Nio ES8 ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - Reposacabezas ajustable en altura
@@ -150,7 +149,6 @@ Puede elegir entre dos tipos de asientos para la segunda fila en el Nio ES8.
 La opción standard es un banco de tres asientos con una división 60:40 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
 La opción standard es dos asientos tipo capitán. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 - Reposacabezas ajustable en altura
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (opcional)

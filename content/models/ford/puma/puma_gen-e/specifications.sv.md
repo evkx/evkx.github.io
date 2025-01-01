@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/ford/puma/puma_gen-e/main_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2250" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Ford Puma Gen-E. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Ford Puma Gen-E, gå till [chargeinfo](../chargecurve/) för Ford Puma Gen-E med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Ford Puma Gen-E. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Ford Puma Gen-E, gå till [chargeinfo](../chargingcurve/) för Ford Puma Gen-E med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -558,7 +558,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt

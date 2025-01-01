@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/main_1_st.jpg" title="MG Marvel R Electric Performance" width="2560" height="1708" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für MG Marvel R Electric Performance zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von MG Marvel R Electric Performance, besuchen Sie die [Ladeinformationen](../chargecurve/) für MG Marvel R Electric Performance mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für MG Marvel R Electric Performance zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von MG Marvel R Electric Performance, besuchen Sie die [Ladeinformationen](../chargingcurve/) für MG Marvel R Electric Performance mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -545,7 +545,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Standard elektrische Funktion

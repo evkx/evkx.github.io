@@ -12,9 +12,9 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 
 ### 85 kWh 85kWh
 
-<img src="/images/models/onvo/l60/l60_rwd/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/onvo/l60/l60_rwd/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/onvo/l60/l60_rwd/chargingcurve_1.svg)
+[Full screen](/images/nb-NO/models/onvo/l60/l60_rwd/chargingcurve_1.svg)
 
 
 <div class="alert alert-primary" role="alert">
@@ -106,9 +106,9 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 	</tbody>
 </table>
 </div>
-<img src="/images/models/onvo/l60/l60_rwd/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/onvo/l60/l60_rwd/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/onvo/l60/l60_rwd/chargingtime_1.svg)
+[Full screen](/images/nb-NO/models/onvo/l60/l60_rwd/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -147,9 +147,9 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 	</tbody>
 </table>
 </div>
-<img src="/images/models/onvo/l60/l60_rwd/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/onvo/l60/l60_rwd/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/onvo/l60/l60_rwd/chargerangespeed_1.svg)
+[Full screen](/images/nb-NO/models/onvo/l60/l60_rwd/chargerangespeed_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1670,9 +1670,9 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 
 ### 60,6 kWh 60kWh
 
-<img src="/images/models/onvo/l60/l60_rwd/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/onvo/l60/l60_rwd/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/onvo/l60/l60_rwd/chargingcurve_2.svg)
+[Full screen](/images/nb-NO/models/onvo/l60/l60_rwd/chargingcurve_2.svg)
 
 
 <div class="alert alert-primary" role="alert">
@@ -1764,9 +1764,9 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 	</tbody>
 </table>
 </div>
-<img src="/images/models/onvo/l60/l60_rwd/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/onvo/l60/l60_rwd/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/onvo/l60/l60_rwd/chargingtime_2.svg)
+[Full screen](/images/nb-NO/models/onvo/l60/l60_rwd/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1805,9 +1805,9 @@ La courbe de charge de ce modèle est dérivée des données du fabricant et des
 	</tbody>
 </table>
 </div>
-<img src="/images/models/onvo/l60/l60_rwd/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/onvo/l60/l60_rwd/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/onvo/l60/l60_rwd/chargerangespeed_2.svg)
+[Full screen](/images/nb-NO/models/onvo/l60/l60_rwd/chargerangespeed_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

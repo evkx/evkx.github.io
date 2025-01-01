@@ -115,7 +115,6 @@ El Volkswagen ID.5 Pro acomoda cinco pasajeros con dos asientos delanteros y un 
 La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - Reposacabezas ajustable en altura
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (opcional)
@@ -126,7 +125,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**:
 Disponible en:
 
 Las siguientes funcionalidades están disponibles en el asiento **ergoActive Top-Sport**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)

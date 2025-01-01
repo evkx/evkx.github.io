@@ -126,7 +126,6 @@ BYD Dolphin 44.9kWh har plass til fem passasjerer med to forseter og en treseter
 BYD Dolphin 44.9kWh tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart for fører, ikke tilgjengelig for passasjer)
@@ -143,7 +142,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med 60:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/secondrowseats_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1623"  >}}

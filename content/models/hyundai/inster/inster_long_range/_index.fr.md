@@ -108,7 +108,6 @@ La disposition des sièges est de deux sièges à l'avant et deux sièges à l'a
 Le Hyundai INSTER Long Range propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - Appuie-tête réglable en hauteur
@@ -128,7 +127,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 Les fonctionnalités suivantes sont disponibles sur le siège **** :
-
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
 

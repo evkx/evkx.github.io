@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/main_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2250" >}}
-EVKX.net søger at have de mest komplette specifikationer for Tesla Model Y Long Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Tesla Model Y Long Range, besøg [chargeinfo](../chargecurve/) for Tesla Model Y Long Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Tesla Model Y Long Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Tesla Model Y Long Range, besøg [chargeinfo](../chargingcurve/) for Tesla Model Y Long Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -689,7 +689,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

@@ -121,7 +121,6 @@ El Audi RS e-tron GT (GEN1) acomoda cinco pasajeros con dos asientos delanteros 
 La primera fila ofrece tres tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **sport**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (opcional)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
@@ -129,7 +128,6 @@ Las siguientes funcionalidades están disponibles en el asiento **sport**:
 Disponible en:
 
 Las siguientes funcionalidades están disponibles en el asiento **sport plus**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
@@ -138,14 +136,12 @@ Las siguientes funcionalidades están disponibles en el asiento **sport plus**:
 Disponible en:
 
 Las siguientes funcionalidades están disponibles en el asiento **sport pro**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
 - [Ajuste de los soportes laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Ajuste de los soportes laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Ajuste de los soportes laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilación](../../../../technology/seats/adjustment/#ventilation)
 - [Masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 

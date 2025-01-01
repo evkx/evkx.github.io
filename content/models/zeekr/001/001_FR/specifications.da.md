@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/main_1_st.jpg" title="Zeekr 001 FR" width="3000" height="1999" >}}
-EVKX.net søger at have de mest komplette specifikationer for Zeekr 001 FR. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Zeekr 001 FR, besøg [chargeinfo](../chargecurve/) for Zeekr 001 FR med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Zeekr 001 FR. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Zeekr 001 FR, besøg [chargeinfo](../chargingcurve/) for Zeekr 001 FR med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -601,7 +601,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

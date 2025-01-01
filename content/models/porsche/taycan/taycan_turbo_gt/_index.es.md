@@ -113,21 +113,18 @@ Este modelo ofrece una disposición de cuatro asientos o una disposición opcion
 La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **Lightweight bucket seat**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
 - [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Plus**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
 - [Ajuste de los soportes laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Ajuste de los soportes laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Ajuste de los soportes laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilación](../../../../technology/seats/adjustment/#ventilation)
 - [Masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
@@ -140,7 +137,6 @@ Disponible en:
 Puede elegir entre dos tipos de asientos para la segunda fila en el Porsche Taycan Turbo GT.
 
 La opción standard es dos asientos integrados en la segunda fila. Las funcionalidades adicionales incluyen:
-
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (opcional)
 
 La opción second es dos asientos integrados en la segunda fila con un tercer asiento más pequeño en el medio. Las funcionalidades adicionales incluyen:

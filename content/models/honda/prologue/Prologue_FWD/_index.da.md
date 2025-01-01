@@ -129,7 +129,6 @@ Honda Prologue FWD har plads til fem passagerer med to forsæder og en trebænk 
 Honda Prologue FWD tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **** sædet:
-
 - [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar for fører, ikke tilgængelig for passager)
 - Højdejusterbar nakkestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)
@@ -147,7 +146,6 @@ Fås med:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med 60:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - Højdejusterbar nakkestøtte
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)

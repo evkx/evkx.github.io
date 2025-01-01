@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_sportback_55_e-tron/main_1_st.jpeg" title="Audi Q8 Sportback 55 e-tron" width="3000" height="2002" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q8 Sportback 55 e-tron. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Audi Q8 Sportback 55 e-tron, gå til [chargeinfo](../chargecurve/) for Audi Q8 Sportback 55 e-tron med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q8 Sportback 55 e-tron. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Audi Q8 Sportback 55 e-tron, gå til [chargeinfo](../chargingcurve/) for Audi Q8 Sportback 55 e-tron med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -868,7 +868,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -1013,7 +1013,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -1158,7 +1158,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -1303,7 +1303,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -1448,7 +1448,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

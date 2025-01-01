@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/main_1_st.jpg" title="BYD Seagull 38kWh" width="3000" height="2210" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för BYD Seagull 38kWh. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av BYD Seagull 38kWh, gå till [chargeinfo](../chargecurve/) för BYD Seagull 38kWh med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för BYD Seagull 38kWh. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av BYD Seagull 38kWh, gå till [chargeinfo](../chargingcurve/) för BYD Seagull 38kWh med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -521,7 +521,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion

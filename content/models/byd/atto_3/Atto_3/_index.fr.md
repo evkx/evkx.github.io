@@ -109,7 +109,6 @@ Le BYD Atto 3 peut accueillir cinq passagers avec deux sièges à l'avant et une
 Le BYD Atto 3 propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - Appuie-tête réglable en hauteur

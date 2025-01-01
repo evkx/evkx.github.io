@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh_e-4orceplus/main_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE+" width="3000" height="1889" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Nissan Ariya 87kWh e-4ORCE+. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Nissan Ariya 87kWh e-4ORCE+, visitez les [chargeinfo](../chargecurve/) pour Nissan Ariya 87kWh e-4ORCE+ avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Nissan Ariya 87kWh e-4ORCE+. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Nissan Ariya 87kWh e-4ORCE+, visitez les [chargeinfo](../chargingcurve/) pour Nissan Ariya 87kWh e-4ORCE+ avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -617,7 +617,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Inconnu

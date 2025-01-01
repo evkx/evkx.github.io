@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/main_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2000" >}}
-EVKX.net søger at have de mest komplette specifikationer for Lucid Air Dream Edition Performance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Lucid Air Dream Edition Performance, besøg [chargeinfo](../chargecurve/) for Lucid Air Dream Edition Performance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Lucid Air Dream Edition Performance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Lucid Air Dream Edition Performance, besøg [chargeinfo](../chargingcurve/) for Lucid Air Dream Edition Performance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -577,7 +577,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

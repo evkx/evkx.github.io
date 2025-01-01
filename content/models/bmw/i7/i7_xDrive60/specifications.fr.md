@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/main_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i7 xDrive60. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de BMW i7 xDrive60, visitez les [chargeinfo](../chargecurve/) pour BMW i7 xDrive60 avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i7 xDrive60. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de BMW i7 xDrive60, visitez les [chargeinfo](../chargingcurve/) pour BMW i7 xDrive60 avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -593,7 +593,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Fonction électrique standard

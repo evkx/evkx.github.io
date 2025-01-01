@@ -108,7 +108,6 @@ Sätesupplägget består av två säten fram och två säten bak.
 Hyundai INSTER Standard Range erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - Höjdjusterbart nackstöd
@@ -128,7 +127,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 Följande funktioner finns tillgängliga på **** sätet:
-
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 

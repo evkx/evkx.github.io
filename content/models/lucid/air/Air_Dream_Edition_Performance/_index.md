@@ -109,7 +109,6 @@ The Lucid Air Dream Edition Performance accommodates five passengers with two fr
 The Lucid Air Dream Edition Performance offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - Length adjustable headrest
@@ -128,7 +127,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/secondrowseats_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2077"  >}}

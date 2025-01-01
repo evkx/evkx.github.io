@@ -115,7 +115,6 @@ The Volkswagen ID.7 GTX Tourer accommodates five passengers with two front seats
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
@@ -128,7 +127,6 @@ Available in:
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 The following functionalities are available on the **ergoActive** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -151,7 +149,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - Height adjustable headrest
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 

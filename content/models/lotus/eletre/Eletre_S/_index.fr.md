@@ -114,7 +114,6 @@ Ce modèle offre une disposition à quatre sièges ou une disposition optionnell
 Le Lotus Eletre S propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -139,7 +138,6 @@ Disponible en :
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Lotus Eletre S.
 
 L'option standard est une banquette trois places avec une répartition 40:20:40 où vous pouvez replier chaque section séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 
 L'option second est deux [sièges exécutifs](../../../../technology/seats/types/#twin-executive-seats). Fonctionnalités supplémentaires :

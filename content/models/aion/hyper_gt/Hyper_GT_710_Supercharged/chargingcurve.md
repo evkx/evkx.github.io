@@ -8,9 +8,9 @@ navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-<img src="/images/models/aion/hyper_gt/hyper_gt_710_supercharged/chargingcurve.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/aion/hyper_gt/hyper_gt_710_supercharged/chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/aion/hyper_gt/hyper_gt_710_supercharged/chargingcurve.svg)
+[Full screen](/images/nb-NO/models/aion/hyper_gt/hyper_gt_710_supercharged/chargingcurve.svg)
 
 
 <div class="alert alert-primary" role="alert">
@@ -102,9 +102,9 @@ The charging curve for this model is derived from manufacturer data and insights
 	</tbody>
 </table>
 </div>
-<img src="/images/models/aion/hyper_gt/hyper_gt_710_supercharged/chargingtime.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/aion/hyper_gt/hyper_gt_710_supercharged/chargingtime.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/aion/hyper_gt/hyper_gt_710_supercharged/chargingtime.svg)
+[Full screen](/images/nb-NO/models/aion/hyper_gt/hyper_gt_710_supercharged/chargingtime.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -143,9 +143,9 @@ The charging curve for this model is derived from manufacturer data and insights
 	</tbody>
 </table>
 </div>
-<img src="/images/models/aion/hyper_gt/hyper_gt_710_supercharged/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/aion/hyper_gt/hyper_gt_710_supercharged/chargerangespeed.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/aion/hyper_gt/hyper_gt_710_supercharged/chargerangespeed.svg)
+[Full screen](/images/nb-NO/models/aion/hyper_gt/hyper_gt_710_supercharged/chargerangespeed.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

@@ -105,7 +105,6 @@ El Zeekr 007 AWD Performance acomoda cinco pasajeros con dos asientos delanteros
 El Zeekr 007 AWD Performance ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
@@ -127,7 +126,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división 40:60, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 - Reposacabezas ajustable en altura
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (estándar para los asientos exteriores)

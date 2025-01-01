@@ -107,7 +107,6 @@ El BMW iX xDrive40 acomoda cinco pasajeros con dos asientos delanteros y un banc
 El BMW iX xDrive40 ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/nio/et9/et9/main_1_st.jpg" title="Nio ET9" width="2560" height="1360" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Nio ET9. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Nio ET9, gå til [chargeinfo](../chargecurve/) for Nio ET9 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Nio ET9. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Nio ET9, gå til [chargeinfo](../chargingcurve/) for Nio ET9 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -513,7 +513,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

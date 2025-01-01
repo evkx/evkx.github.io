@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_long_range/main_1_st.jpg" title="Hyundai IONIQ 9 AWD Long Range" width="3000" height="1687" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Hyundai IONIQ 9 AWD Long Range. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Hyundai IONIQ 9 AWD Long Range, visitez les [chargeinfo](../chargecurve/) pour Hyundai IONIQ 9 AWD Long Range avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Hyundai IONIQ 9 AWD Long Range. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Hyundai IONIQ 9 AWD Long Range, visitez les [chargeinfo](../chargingcurve/) pour Hyundai IONIQ 9 AWD Long Range avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -630,7 +630,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Inconnu

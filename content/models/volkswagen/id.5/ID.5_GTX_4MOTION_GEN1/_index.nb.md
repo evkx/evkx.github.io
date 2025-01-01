@@ -118,7 +118,6 @@ Volkswagen ID.5 GTX 4MOTION (GEN1) har plass til fem passasjerer med to forseter
 Første seterad tilbyr to setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - Høydejusterbar hodestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)
@@ -126,7 +125,6 @@ Følgende funksjoner er tilgjengelig på **standard** setet:
 Tilgjengelig i:
 
 Følgende funksjoner er tilgjengelig på **ergoActive Top-Sport** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)

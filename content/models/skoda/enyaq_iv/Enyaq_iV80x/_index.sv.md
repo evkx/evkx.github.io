@@ -115,7 +115,6 @@ SKODA Enyaq iV80x rymmer fem passagerare med två framsäten och en tresätessof
 Första raden erbjuder två olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - Höjdjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (tillval)
@@ -127,7 +126,6 @@ Följande funktioner finns tillgängliga på **standard** sätet:
 Finns tillgänglig i:
 
 Följande funktioner finns tillgängliga på **Sport** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, ej tillgänglig för passagerare)

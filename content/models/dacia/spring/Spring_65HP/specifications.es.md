@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/main_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1695" >}}
-EVKX.net busca tener las especificaciones más completas para Dacia Spring 65HP. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Dacia Spring 65HP, visite [chargeinfo](../chargecurve/) para Dacia Spring 65HP con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Dacia Spring 65HP. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Dacia Spring 65HP, visite [chargeinfo](../chargingcurve/) para Dacia Spring 65HP con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -534,7 +534,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				No disponible

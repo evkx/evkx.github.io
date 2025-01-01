@@ -111,7 +111,6 @@ Denna modell erbjuder en fyrsätesversion eller ett alternativt 4+1-sätes uppl�
 Volkswagen ID.3 Pro S erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - Höjdjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (tillval)

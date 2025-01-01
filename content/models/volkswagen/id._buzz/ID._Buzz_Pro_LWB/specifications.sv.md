@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID. Buzz Pro LWB. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Volkswagen ID. Buzz Pro LWB, gå till [chargeinfo](../chargecurve/) för Volkswagen ID. Buzz Pro LWB med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID. Buzz Pro LWB. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Volkswagen ID. Buzz Pro LWB, gå till [chargeinfo](../chargingcurve/) för Volkswagen ID. Buzz Pro LWB med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -609,7 +609,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd
@@ -754,7 +754,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

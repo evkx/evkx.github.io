@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/main_1_st.jpg" title="KGM Torres EVX" width="2048" height="1152" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour KGM Torres EVX. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de KGM Torres EVX, visitez les [chargeinfo](../chargecurve/) pour KGM Torres EVX avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour KGM Torres EVX. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de KGM Torres EVX, visitez les [chargeinfo](../chargingcurve/) pour KGM Torres EVX avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -607,7 +607,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Fonction standard

@@ -13,8 +13,8 @@ Räckvidden varierar beroende på flera faktorer. Som hur snabbt du kör, temper
 
 Räckvidden varierar beroende på flera faktorer. Som hur snabbt du kör, temperaturen, vått eller torrt väglag och utrustningen. På denna sida hittar du diagram och tabeller med standardtestcykelresultat som WLTP och EPA samt uppskattad räckvidd i verkliga förhållanden i olika miljöer.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/onvo/l60/l60_awd/range_1.svg"/>
-<a href="/images/models/onvo/l60/l60_awd/range_1.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/onvo/l60/l60_awd/range_1.svg"/>
+<a href="/images/nb-NO/models/onvo/l60/l60_awd/range_1.svg">Full screen</a>
 
 ### Officiella testcykelresultat
 
@@ -98,8 +98,8 @@ Tabellen nedan visar några uppskattade räckvidder i verklig körning under per
 </table>
 </div>
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/onvo/l60/l60_awd/range_2.svg"/>
-<a href="/images/models/onvo/l60/l60_awd/range_2.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/onvo/l60/l60_awd/range_2.svg"/>
+<a href="/images/nb-NO/models/onvo/l60/l60_awd/range_2.svg">Full screen</a>
 
 ### Officiella testcykelresultat
 

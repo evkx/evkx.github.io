@@ -112,7 +112,6 @@ Tesla Model S har plads til fem passagerer med to forsæder og en trebænk bagti
 Tesla Model S tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - Højdejusterbar nakkestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)

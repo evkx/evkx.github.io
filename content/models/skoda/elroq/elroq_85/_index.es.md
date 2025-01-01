@@ -114,7 +114,6 @@ El SKODA Elroq 85 acomoda cinco pasajeros con dos asientos delanteros y un banco
 La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **Standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual, ajuste eléctrico como opción)
@@ -129,7 +128,6 @@ Disponible en:
 - Black [tapicería de tela](../../../../technology/seats/materials/#fabric)
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfort**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual, ajuste eléctrico como opción)
@@ -147,7 +145,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división 60:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - Reposacabezas ajustable en altura
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)
 

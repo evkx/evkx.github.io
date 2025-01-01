@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/main_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1666" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-5008 Long Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Peugot E-5008 Long Range, gå til [chargeinfo](../chargecurve/) for Peugot E-5008 Long Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-5008 Long Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Peugot E-5008 Long Range, gå til [chargeinfo](../chargingcurve/) for Peugot E-5008 Long Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -633,7 +633,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standardfunksjon, valgfri elektrisk

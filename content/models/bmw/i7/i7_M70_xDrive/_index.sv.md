@@ -109,7 +109,6 @@ BMW i7 M70 xDrive rymmer fem passagerare med två framsäten och en tresätessof
 BMW i7 M70 xDrive erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (tillval)
@@ -128,7 +127,6 @@ Du kan välja mellan två olika sätesvarianter för andra raden i BMW i7 M70 xD
 standard-alternativet är en tresätesoffa med  delning där du kan fälla varje sektion separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
 second-alternativet är ett [exekutivsäte kombinerat med en tvåsätesoffa](../../../../technology/seats/types/#executive-seat--two-seat-bench). Ytterligare funktioner inkluderar:
-
 - [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 - [Benstöd för passagerare](../../../../technology/seats/adjustment/#leg-support) (standard för yttersäten)

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/main_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2249" >}}
-EVKX.net seeks to have the most complete specifications for MG MG4 Electric Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG MG4 Electric Long Range, visit the [chargeinfo](../chargecurve/) for MG MG4 Electric Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for MG MG4 Electric Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG MG4 Electric Long Range, visit the [chargeinfo](../chargingcurve/) for MG MG4 Electric Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -545,7 +545,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Standard electric feature

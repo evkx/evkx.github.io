@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro_performance/main_1_st.jpg" title="Volkswagen ID.5 Pro Performance" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for Volkswagen ID.5 Pro Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.5 Pro Performance, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.5 Pro Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Volkswagen ID.5 Pro Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.5 Pro Performance, visit the [chargeinfo](../chargingcurve/) for Volkswagen ID.5 Pro Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -742,7 +742,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown
@@ -887,7 +887,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

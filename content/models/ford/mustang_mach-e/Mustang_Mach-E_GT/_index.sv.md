@@ -106,7 +106,6 @@ Ford Mustang Mach-E GT rymmer fem passagerare med två framsäten och en tresät
 Ford Mustang Mach-E GT erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
@@ -124,7 +123,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med  delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - Höjdjusterbart nackstöd
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/main_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="2880" height="1920" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Rivian R1S Performance Dual-Motor AWD LP. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Rivian R1S Performance Dual-Motor AWD LP, gå till [chargeinfo](../chargecurve/) för Rivian R1S Performance Dual-Motor AWD LP med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Rivian R1S Performance Dual-Motor AWD LP. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Rivian R1S Performance Dual-Motor AWD LP, gå till [chargeinfo](../chargingcurve/) för Rivian R1S Performance Dual-Motor AWD LP med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -510,7 +510,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

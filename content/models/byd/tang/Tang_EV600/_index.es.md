@@ -124,7 +124,6 @@ La disposición de asientos es de siete plazas con dos asientos delanteros, tres
 El BYD Tang EV600 ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -148,7 +147,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división 60:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)

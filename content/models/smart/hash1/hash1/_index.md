@@ -105,7 +105,6 @@ The Smart #1 accommodates five passengers with two front seats and a three-seat 
 The Smart #1 offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable)
@@ -122,7 +121,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 

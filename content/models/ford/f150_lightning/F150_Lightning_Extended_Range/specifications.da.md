@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1571" >}}
-EVKX.net søger at have de mest komplette specifikationer for Ford F150 Lightning Extended Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Ford F150 Lightning Extended Range, besøg [chargeinfo](../chargecurve/) for Ford F150 Lightning Extended Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Ford F150 Lightning Extended Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Ford F150 Lightning Extended Range, besøg [chargeinfo](../chargingcurve/) for Ford F150 Lightning Extended Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -574,7 +574,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Valgfri funktion

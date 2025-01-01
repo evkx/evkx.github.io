@@ -116,7 +116,6 @@ Der Porsche Macan Turbo bietet Platz für fünf Passagiere mit zwei Vordersitzen
 Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieben gerecht zu werden:
 
 Die folgenden Funktionen sind für den **Comfortseats with memory**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
@@ -129,7 +128,6 @@ Die folgenden Funktionen sind für den **Comfortseats with memory**-Sitz verfüg
 Verfügbar in:
 
 Die folgenden Funktionen sind für den **Sportsseats Plus**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
@@ -137,8 +135,7 @@ Die folgenden Funktionen sind für den **Sportsseats Plus**-Sitz verfügbar:
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
 - [Verstellbare Seitenwangen der Rückenlehne](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Verstellbare Seitenwangen des Sitzkissens](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Verstellbare Seitenwangen des Sitzkissens](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 Verfügbar in:

@@ -114,7 +114,6 @@ Tesla Model 3 Long Range har plass til fem passasjerer med to forseter og en tre
 Tesla Model 3 Long Range tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)

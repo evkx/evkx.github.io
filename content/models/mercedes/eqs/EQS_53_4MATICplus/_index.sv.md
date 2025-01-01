@@ -114,7 +114,6 @@ Mercedes-AMG EQS 53 4MATIC+ rymmer fem passagerare med två framsäten och en tr
 Första raden erbjuder två olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - Höjdjusterbart nackstöd
@@ -126,7 +125,6 @@ Följande funktioner finns tillgängliga på **standard** sätet:
 Finns tillgänglig i:
 
 Följande funktioner finns tillgängliga på **multicontour** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - Höjdjusterbart nackstöd
 - Längsjusterbart nackstöd
@@ -147,11 +145,9 @@ Finns tillgänglig i:
 Du kan välja mellan två olika sätesvarianter för andra raden i Mercedes-AMG EQS 53 4MATIC+.
 
 standard-alternativet är en tresätesoffa med 40:20:40 delning där du kan fälla varje sektion separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - Höjdjusterbart nackstöd
 
 second-alternativet är en tresätesoffa med 40:20:40 delning där du kan fälla varje sektion separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - Höjdjusterbart nackstöd
 - [Justerbart sidostöd ryggstöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/main_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2250" >}}
-EVKX.net busca tener las especificaciones más completas para Tesla Model Y Long Range. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Tesla Model Y Long Range, visite [chargeinfo](../chargecurve/) para Tesla Model Y Long Range con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Tesla Model Y Long Range. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Tesla Model Y Long Range, visite [chargeinfo](../chargingcurve/) para Tesla Model Y Long Range con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -689,7 +689,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Función eléctrica estándar

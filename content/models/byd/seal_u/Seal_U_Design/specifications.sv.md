@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/main_1_st.jpg" title="BYD Seal U Design" width="1920" height="1080" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för BYD Seal U Design. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av BYD Seal U Design, gå till [chargeinfo](../chargecurve/) för BYD Seal U Design med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för BYD Seal U Design. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av BYD Seal U Design, gå till [chargeinfo](../chargingcurve/) för BYD Seal U Design med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -585,7 +585,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt

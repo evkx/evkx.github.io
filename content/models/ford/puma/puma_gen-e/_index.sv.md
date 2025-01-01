@@ -124,7 +124,6 @@ Ford Puma Gen-E rymmer fem passagerare med två framsäten och en tresätessoffa
 Ford Puma Gen-E erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - Höjdjusterbart nackstöd (manuellt justerbar)
@@ -139,7 +138,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med  delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - Höjdjusterbart nackstöd (manuellt justerbar)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttersäten)
 

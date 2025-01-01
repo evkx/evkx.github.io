@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/main_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for DS 3 E-Tense. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of DS 3 E-Tense, visit the [chargeinfo](../chargecurve/) for DS 3 E-Tense with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for DS 3 E-Tense. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of DS 3 E-Tense, visit the [chargeinfo](../chargingcurve/) for DS 3 E-Tense with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -553,7 +553,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Not Available

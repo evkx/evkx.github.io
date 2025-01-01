@@ -109,7 +109,6 @@ Sätesupplägget består av sex säten med två fram, två kaptensäten i andra 
 HiPhi X 6 Seater erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
@@ -126,7 +125,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 För andra raden har denna modell två kaptenstolar. Ytterligare funktioner inkluderar:
-
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)

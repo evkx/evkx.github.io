@@ -107,7 +107,6 @@ Renault 5 E-Tech 52kWh 150hp har plads til fem passagerer med to forsæder og en
 Renault 5 E-Tech 52kWh 150hp tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)

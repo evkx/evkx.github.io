@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/main_1_st.jpg" title="BYD Seagull 38kWh" width="3000" height="2210" >}}
-EVKX.net søger at have de mest komplette specifikationer for BYD Seagull 38kWh. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af BYD Seagull 38kWh, besøg [chargeinfo](../chargecurve/) for BYD Seagull 38kWh med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for BYD Seagull 38kWh. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af BYD Seagull 38kWh, besøg [chargeinfo](../chargingcurve/) for BYD Seagull 38kWh med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -521,7 +521,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Valgfri funktion

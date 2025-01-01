@@ -128,7 +128,6 @@ Lucid Gravity Grand Touring fås i en standard femsæders konfiguration, med en 
 Forreste række tilbyder to sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
 Følgende funktioner er tilgængelige på **12-way** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -139,7 +138,6 @@ Følgende funktioner er tilgængelige på **12-way** sædet:
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 
 Følgende funktioner er tilgængelige på **18-way** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -149,8 +147,7 @@ Følgende funktioner er tilgængelige på **18-way** sædet:
 - [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [Justerbar sidestøtte i ryglæn](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (elektrisk justerbar)
-- [Justerbar sidestøtte i sædehynde](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (elektrisk justerbar)
-- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Justerbar sidestøtte i sædehynde](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (elektrisk justerbar)- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
@@ -159,7 +156,6 @@ Følgende funktioner er tilgængelige på **18-way** sædet:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med 60:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - Højdejusterbar nakkestøtte (standard for ydersæder)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)
 

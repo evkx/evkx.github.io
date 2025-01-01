@@ -8,9 +8,9 @@ navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-<img src="/images/models/peugot/5008/e-5008_long_range/chargingcurve.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/peugot/5008/e-5008_long_range/chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/peugot/5008/e-5008_long_range/chargingcurve.svg)
+[Full screen](/images/nb-NO/models/peugot/5008/e-5008_long_range/chargingcurve.svg)
 
 
 <div class="alert alert-primary" role="alert">
@@ -102,9 +102,9 @@ Ladekurven for denne model er udledt af producentdata og indsigt i ladeydelsen a
 	</tbody>
 </table>
 </div>
-<img src="/images/models/peugot/5008/e-5008_long_range/chargingtime.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/peugot/5008/e-5008_long_range/chargingtime.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/peugot/5008/e-5008_long_range/chargingtime.svg)
+[Full screen](/images/nb-NO/models/peugot/5008/e-5008_long_range/chargingtime.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -143,9 +143,9 @@ Ladekurven for denne model er udledt af producentdata og indsigt i ladeydelsen a
 	</tbody>
 </table>
 </div>
-<img src="/images/models/peugot/5008/e-5008_long_range/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/peugot/5008/e-5008_long_range/chargerangespeed.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/peugot/5008/e-5008_long_range/chargerangespeed.svg)
+[Full screen](/images/nb-NO/models/peugot/5008/e-5008_long_range/chargerangespeed.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

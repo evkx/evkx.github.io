@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/main_1_st.jpg" title="BYD Seal U Design" width="1920" height="1080" >}}
-EVKX.net søger at have de mest komplette specifikationer for BYD Seal U Design. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af BYD Seal U Design, besøg [chargeinfo](../chargecurve/) for BYD Seal U Design med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for BYD Seal U Design. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af BYD Seal U Design, besøg [chargeinfo](../chargingcurve/) for BYD Seal U Design med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -585,7 +585,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ikke tilgængelig

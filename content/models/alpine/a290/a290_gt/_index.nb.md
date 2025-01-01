@@ -105,7 +105,6 @@ Alpine A290 GT har plass til fem passasjerer med to forseter og en treseters ben
 Alpine A290 GT tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbart)

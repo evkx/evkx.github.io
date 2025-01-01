@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/main_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for Volvo EC40 Single Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo EC40 Single Motor, visit the [chargeinfo](../chargecurve/) for Volvo EC40 Single Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Volvo EC40 Single Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo EC40 Single Motor, visit the [chargeinfo](../chargingcurve/) for Volvo EC40 Single Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -606,7 +606,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

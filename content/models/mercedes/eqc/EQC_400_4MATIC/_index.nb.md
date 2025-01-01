@@ -107,7 +107,6 @@ Mercedes-EQ EQC 400 4MATIC har plass til fem passasjerer med to forseter og en t
 Mercedes-EQ EQC 400 4MATIC tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 
 Tilgjengelig i:

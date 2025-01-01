@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/main_1_st.jpg" title="BYD Seagull 38kWh" width="3000" height="2210" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für BYD Seagull 38kWh zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von BYD Seagull 38kWh, besuchen Sie die [Ladeinformationen](../chargecurve/) für BYD Seagull 38kWh mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für BYD Seagull 38kWh zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von BYD Seagull 38kWh, besuchen Sie die [Ladeinformationen](../chargingcurve/) für BYD Seagull 38kWh mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -521,7 +521,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit vier Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Optionale Ausstattung

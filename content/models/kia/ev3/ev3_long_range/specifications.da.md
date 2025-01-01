@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/main_1_st.jpg" title="Kia EV3 Long Range" width="3000" height="1687" >}}
-EVKX.net søger at have de mest komplette specifikationer for Kia EV3 Long Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Kia EV3 Long Range, besøg [chargeinfo](../chargecurve/) for Kia EV3 Long Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Kia EV3 Long Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Kia EV3 Long Range, besøg [chargeinfo](../chargingcurve/) for Kia EV3 Long Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -550,7 +550,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

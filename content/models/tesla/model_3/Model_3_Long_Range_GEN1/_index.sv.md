@@ -120,7 +120,6 @@ Tesla Model 3 Long Range (GEN1) rymmer fem passagerare med två framsäten och e
 Tesla Model 3 Long Range (GEN1) erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - Höjdjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)

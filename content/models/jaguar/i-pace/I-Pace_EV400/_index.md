@@ -108,7 +108,6 @@ The Jaguar I-Pace EV400 accommodates five passengers with two front seats and a 
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **Performance** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -127,7 +126,6 @@ Available in:
 - Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 The following functionalities are available on the **Sport** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
@@ -136,8 +134,7 @@ The following functionalities are available on the **Sport** seat:
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
-- [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (optional)
-- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
+[Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (optional)- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 Available in:
@@ -158,7 +155,6 @@ You can choose two seat types for the second row in the Jaguar I-Pace EV400.
 The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
-
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}

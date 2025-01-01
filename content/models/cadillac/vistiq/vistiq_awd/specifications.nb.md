@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cadillac/vistiq/vistiq_awd/main_1_st.jpg" title="Cadillac VISTIQ AWD" width="3000" height="2001" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Cadillac VISTIQ AWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Cadillac VISTIQ AWD, gå til [chargeinfo](../chargecurve/) for Cadillac VISTIQ AWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Cadillac VISTIQ AWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Cadillac VISTIQ AWD, gå til [chargeinfo](../chargingcurve/) for Cadillac VISTIQ AWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -582,7 +582,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

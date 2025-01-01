@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2001" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Hyundai Ioniq 6 Long Range RWD. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Hyundai Ioniq 6 Long Range RWD, gå till [chargeinfo](../chargecurve/) för Hyundai Ioniq 6 Long Range RWD med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Hyundai Ioniq 6 Long Range RWD. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Hyundai Ioniq 6 Long Range RWD, gå till [chargeinfo](../chargingcurve/) för Hyundai Ioniq 6 Long Range RWD med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -614,7 +614,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

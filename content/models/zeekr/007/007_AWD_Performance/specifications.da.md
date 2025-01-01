@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/main_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1326" >}}
-EVKX.net søger at have de mest komplette specifikationer for Zeekr 007 AWD Performance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Zeekr 007 AWD Performance, besøg [chargeinfo](../chargecurve/) for Zeekr 007 AWD Performance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Zeekr 007 AWD Performance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Zeekr 007 AWD Performance, besøg [chargeinfo](../chargingcurve/) for Zeekr 007 AWD Performance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -537,7 +537,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

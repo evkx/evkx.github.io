@@ -114,7 +114,6 @@ The Mini Countryman SE ALL4 accommodates five passengers with two front seats an
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **Standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -127,7 +126,6 @@ The following functionalities are available on the **Standard** seat:
 Available in:
 
 The following functionalities are available on the **Sport** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -144,7 +142,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 
 {{< sitefiguresized thumb="models/mini/countryman/countryman_se_all4/secondrowseats_1_st.jpg" title="Mini Countryman SE ALL4" width="3000" height="2000"  >}}

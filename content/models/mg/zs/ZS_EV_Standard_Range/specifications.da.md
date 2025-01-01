@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/main_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="1999" >}}
-EVKX.net søger at have de mest komplette specifikationer for MG ZS EV Standard Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af MG ZS EV Standard Range, besøg [chargeinfo](../chargecurve/) for MG ZS EV Standard Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for MG ZS EV Standard Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af MG ZS EV Standard Range, besøg [chargeinfo](../chargingcurve/) for MG ZS EV Standard Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -545,7 +545,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ikke tilgængelig

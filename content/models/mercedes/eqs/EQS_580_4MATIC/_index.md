@@ -117,7 +117,6 @@ The Mercedes-EQ EQS 580 4MATIC accommodates five passengers with two front seats
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - Height adjustable headrest
@@ -129,7 +128,6 @@ The following functionalities are available on the **standard** seat:
 Available in:
 
 The following functionalities are available on the **multicontour** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - Length adjustable headrest
@@ -150,11 +148,9 @@ Available in:
 You can choose two seat types for the second row in the Mercedes-EQ EQS 580 4MATIC.
 
 The standard option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
-
 - Height adjustable headrest
 
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
-
 - Height adjustable headrest
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 

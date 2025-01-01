@@ -126,7 +126,6 @@ Sædeopsætningen er seks sæder med to foran, to kaptajnstole på anden række 
 Cadillac VISTIQ AWD tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -149,7 +148,6 @@ Fås med:
 #### Anden række sæder
 
 Til anden række har denne model to kaptajnstole. Yderligere funktioner inkluderer:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)

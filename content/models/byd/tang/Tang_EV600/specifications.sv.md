@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/main_1_st.jpg" title="BYD Tang EV600" width="1680" height="960" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för BYD Tang EV600. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av BYD Tang EV600, gå till [chargeinfo](../chargecurve/) för BYD Tang EV600 med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för BYD Tang EV600. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av BYD Tang EV600, gå till [chargeinfo](../chargingcurve/) för BYD Tang EV600 med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -625,7 +625,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

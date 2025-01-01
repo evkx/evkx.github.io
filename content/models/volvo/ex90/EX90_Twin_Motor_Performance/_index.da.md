@@ -110,7 +110,6 @@ Volvo EX90 Twin Motor Performance fås i en seks- eller syvsæders opsætning fo
 Volvo EX90 Twin Motor Performance tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -135,13 +134,11 @@ Fås med:
 Du kan vælge mellem to sædetyper til anden række i Volvo EX90 Twin Motor Performance.
 
 standard muligheden er en tresæders bænk med 40:60 opdeling, hvor du kan folde hver sektion separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)
 
 second muligheden er to kaptajnstole. Yderligere funktioner inkluderer:
-
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)

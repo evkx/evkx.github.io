@@ -113,7 +113,6 @@ Hyundai IONIQ 9 AWD Long Range fås i en seks- eller syvsæders opsætning for �
 Hyundai IONIQ 9 AWD Long Range tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - Højdejusterbar nakkestøtte
@@ -137,7 +136,6 @@ Fås med:
 Du kan vælge mellem tre sædetyper til anden række i Hyundai IONIQ 9 AWD Long Range.
 
 standard muligheden er en tresæders bænk med 60:40 opdeling, hvor du kan folde hver sektion separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - Højdejusterbar nakkestøtte
@@ -145,12 +143,10 @@ standard muligheden er en tresæders bænk med 60:40 opdeling, hvor du kan folde
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)
 
 second muligheden er to kaptajnstole. Yderligere funktioner inkluderer:
-
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 
 third muligheden er to kaptajnstole. Yderligere funktioner inkluderer:
-
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)

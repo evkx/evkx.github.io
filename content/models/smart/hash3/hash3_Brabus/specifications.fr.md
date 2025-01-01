@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/main_1_st.jpg" title="Smart #3 Brabus" width="3000" height="1687" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Smart #3 Brabus. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Smart #3 Brabus, visitez les [chargeinfo](../chargecurve/) pour Smart #3 Brabus avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Smart #3 Brabus. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Smart #3 Brabus, visitez les [chargeinfo](../chargingcurve/) pour Smart #3 Brabus avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -590,7 +590,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Fonction standard

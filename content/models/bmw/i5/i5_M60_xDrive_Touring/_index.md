@@ -118,7 +118,6 @@ The BMW i5 M60 xDrive Touring accommodates five passengers with two front seats 
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **Sport** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -131,7 +130,6 @@ The following functionalities are available on the **Sport** seat:
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
 The following functionalities are available on the **Comfort seats** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -149,7 +147,6 @@ The following functionalities are available on the **Comfort seats** seat:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/secondrowseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}

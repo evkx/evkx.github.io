@@ -128,7 +128,6 @@ Audi Q4 Sportback 40 e-tron har plads til fem passagerer med to forsæder og en 
 Forreste række tilbyder to sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
@@ -146,7 +145,6 @@ Fås med:
 - Beige [kunstlæderbetræk](../../../../technology/seats/materials/#leatherette)
 
 Følgende funktioner er tilgængelige på **sport** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
@@ -172,12 +170,10 @@ Fås med:
 Du kan vælge mellem to sædetyper til anden række i Audi Q4 Sportback 40 e-tron.
 
 standard muligheden er en tresæders bænk med 60:40 opdeling, hvor du kan folde hver sektion separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - Højdejusterbar nakkestøtte
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)
 
 second muligheden er en tresæders bænk med 40:20:40 opdeling, hvor du kan folde hver sektion separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - Højdejusterbar nakkestøtte
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)
 

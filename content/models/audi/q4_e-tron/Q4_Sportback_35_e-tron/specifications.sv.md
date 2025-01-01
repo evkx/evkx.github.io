@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_35_e-tron/main_1_st.jpg" title="Audi Q4 Sportback 35 e-tron" width="3000" height="1999" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Audi Q4 Sportback 35 e-tron. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Audi Q4 Sportback 35 e-tron, gå till [chargeinfo](../chargecurve/) för Audi Q4 Sportback 35 e-tron med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Audi Q4 Sportback 35 e-tron. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Audi Q4 Sportback 35 e-tron, gå till [chargeinfo](../chargingcurve/) för Audi Q4 Sportback 35 e-tron med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -766,7 +766,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standardfunktion, valfri elektrisk
@@ -911,7 +911,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standardfunktion, valfri elektrisk

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/main_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688" >}}
-EVKX.net seeks to have the most complete specifications for Renault 5 E-Tech 52kWh 150hp. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Renault 5 E-Tech 52kWh 150hp, visit the [chargeinfo](../chargecurve/) for Renault 5 E-Tech 52kWh 150hp with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Renault 5 E-Tech 52kWh 150hp. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Renault 5 E-Tech 52kWh 150hp, visit the [chargeinfo](../chargingcurve/) for Renault 5 E-Tech 52kWh 150hp with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -529,7 +529,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

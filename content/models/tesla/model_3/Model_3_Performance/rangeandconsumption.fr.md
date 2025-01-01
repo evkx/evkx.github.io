@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 L'autonomie variera en fonction de plusieurs facteurs, tels que la vitesse de conduite, la température, la route mouillée ou sèche, et l'équipement installé. Sur cette page, vous trouverez un diagramme et des tableaux avec les résultats des cycles de test standard comme WLTP et EPA, ainsi que des estimations de l'autonomie réelle dans différents environnements.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/tesla/model_3/model_3_performance/range.svg"/>
-<a href="/images/models/tesla/model_3/model_3_performance/range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/tesla/model_3/model_3_performance/range.svg"/>
+<a href="/images/nb-NO/models/tesla/model_3/model_3_performance/range.svg">Full screen</a>
 
 ### Résultats des cycles de test officiels
 

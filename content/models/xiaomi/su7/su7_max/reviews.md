@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Xiaomi SU7 Is a Bargain Chinese Luxury Sport Sedan</h3>
+<p>Doug DeMuro: 26.12.2024</p>
+
+{{< youtube XX3rRntdyYc >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Xiaomi SU7: AMAZING Performance EV with HUGE PROBLEM!</h3>
 <p>ChinaDriven: 11.08.2024</p>
 

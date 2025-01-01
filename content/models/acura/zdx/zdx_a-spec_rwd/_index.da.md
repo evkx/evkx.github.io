@@ -122,7 +122,6 @@ Acura ZDX A-Spec RWD har plads til fem passagerer med to forsæder og en trebæn
 Acura ZDX A-Spec RWD tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **12-way** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -144,7 +143,6 @@ Fås med:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med 60:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - Højdejusterbar nakkestøtte (manuelt justerbar)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)

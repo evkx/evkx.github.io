@@ -111,21 +111,18 @@ Der er tre forskellige tagmuligheder at vælge imellem. Standardtaget er bare et
 Forreste række tilbyder to sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
 Følgende funktioner er tilgængelige på **Lightweight bucket seat** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [Justerbar sidestøtte i ryglæn](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justerbar sidestøtte i sædehynde](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Justerbar sidestøtte i sædehynde](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (ekstraudstyr)
 

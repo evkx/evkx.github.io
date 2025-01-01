@@ -108,7 +108,6 @@ Polestar 2 Long Range Dual Motor Performance rymmer fem passagerare med två fra
 Polestar 2 Long Range Dual Motor Performance erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
@@ -127,7 +126,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med  delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (standard för yttersäten)
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="2250"  >}}

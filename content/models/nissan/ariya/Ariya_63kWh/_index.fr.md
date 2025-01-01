@@ -112,7 +112,6 @@ Le Nissan Ariya 63kWh peut accueillir cinq passagers avec deux sièges à l'avan
 Le Nissan Ariya 63kWh propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - Appuie-tête réglable en hauteur
 - [Chauffage](../../../../technology/seats/adjustment/#heating)

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt/main_1_st.jpg" title="Kia EV9 GT" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Kia EV9 GT. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Kia EV9 GT, gå till [chargeinfo](../chargecurve/) för Kia EV9 GT med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Kia EV9 GT. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Kia EV9 GT, gå till [chargeinfo](../chargingcurve/) för Kia EV9 GT med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -641,7 +641,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

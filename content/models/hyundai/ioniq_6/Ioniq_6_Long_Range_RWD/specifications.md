@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2001" >}}
-EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 6 Long Range RWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Ioniq 6 Long Range RWD, visit the [chargeinfo](../chargecurve/) for Hyundai Ioniq 6 Long Range RWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 6 Long Range RWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Ioniq 6 Long Range RWD, visit the [chargeinfo](../chargingcurve/) for Hyundai Ioniq 6 Long Range RWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -614,7 +614,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

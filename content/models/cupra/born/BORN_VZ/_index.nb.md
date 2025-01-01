@@ -111,7 +111,6 @@ CUPRA BORN VZ har plass til fem passasjerer med to forseter og en treseters benk
 CUPRA BORN VZ tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Varme](../../../../technology/seats/adjustment/#heating) (valgfritt)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart som tilvalg)

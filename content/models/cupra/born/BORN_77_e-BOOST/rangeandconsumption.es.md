@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 La autonomía variará dependiendo de varios factores, como la velocidad a la que conduces, la temperatura, si la carretera está mojada o seca y el equipo instalado. En esta página encontrarás un diagrama y tablas con los resultados del ciclo de prueba estándar como WLTP y EPA y la autonomía estimada en el mundo real en diferentes entornos.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/cupra/born/born_77_e-boost/range.svg"/>
-<a href="/images/models/cupra/born/born_77_e-boost/range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/cupra/born/born_77_e-boost/range.svg"/>
+<a href="/images/nb-NO/models/cupra/born/born_77_e-boost/range.svg">Full screen</a>
 
 ### Resultados del ciclo de prueba oficial
 

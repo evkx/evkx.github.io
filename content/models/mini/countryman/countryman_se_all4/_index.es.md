@@ -114,7 +114,6 @@ El Mini Countryman SE ALL4 acomoda cinco pasajeros con dos asientos delanteros y
 La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **Standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
@@ -127,7 +126,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Standard**:
 Disponible en:
 
 Las siguientes funcionalidades están disponibles en el asiento **Sport**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
@@ -144,7 +142,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división 40:20:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 
 {{< sitefiguresized thumb="models/mini/countryman/countryman_se_all4/secondrowseats_1_st.jpg" title="Mini Countryman SE ALL4" width="3000" height="2000"  >}}

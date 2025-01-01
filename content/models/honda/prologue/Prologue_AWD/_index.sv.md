@@ -130,7 +130,6 @@ Honda Prologue AWD rymmer fem passagerare med två framsäten och en tresätesso
 Honda Prologue AWD erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **** sätet:
-
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar för förare, ej tillgänglig för passagerare)
 - Höjdjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
@@ -148,7 +147,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med 60:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - Höjdjusterbart nackstöd
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttersäten)

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/main_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2250" >}}
-EVKX.net søger at have de mest komplette specifikationer for XPENG Mona M03 Long Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af XPENG Mona M03 Long Range, besøg [chargeinfo](../chargecurve/) for XPENG Mona M03 Long Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for XPENG Mona M03 Long Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af XPENG Mona M03 Long Range, besøg [chargeinfo](../chargingcurve/) for XPENG Mona M03 Long Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -542,7 +542,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ikke tilgængelig

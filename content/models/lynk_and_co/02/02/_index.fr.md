@@ -104,7 +104,6 @@ Le Lynk & Co 02 peut accueillir cinq passagers avec deux sièges à l'avant et u
 Le Lynk & Co 02 propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
 - [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable manuellement)
@@ -121,7 +120,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition , permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (standard pour les sièges extérieurs)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>

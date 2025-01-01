@@ -112,7 +112,6 @@ El Opel Frontera acomoda cinco pasajeros con dos asientos delanteros y un banco 
 La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **Standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 
@@ -121,7 +120,6 @@ Disponible en:
 - Black [tapicería de tela](../../../../technology/seats/materials/#fabric)
 
 Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual)
@@ -136,7 +134,6 @@ Disponible en:
 Puede elegir entre dos tipos de asientos para la segunda fila en el Opel Frontera.
 
 La opción standard es un banco de tres asientos con una división 100 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - Reposacabezas ajustable en altura
 
 Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**:

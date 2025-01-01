@@ -111,7 +111,6 @@ El Volkswagen ID. Buzz Pro acomoda cinco pasajeros con dos asientos delanteros y
 La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - Reposacabezas ajustable en altura
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
@@ -126,7 +125,6 @@ Disponible en:
 - Blue [tapicería de tela](../../../../technology/seats/materials/#fabric)
 
 Las siguientes funcionalidades están disponibles en el asiento **comfort**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory) (estándar para el conductor, no disponible para el pasajero)

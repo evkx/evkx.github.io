@@ -111,7 +111,6 @@ Volkswagen Id. UNYX har plads til fem passagerer med to forsæder og en trebænk
 Volkswagen Id. UNYX tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som ekstraudstyr)

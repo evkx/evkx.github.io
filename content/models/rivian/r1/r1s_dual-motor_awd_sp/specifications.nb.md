@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/main_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Rivian R1S Dual-Motor AWD SP. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Rivian R1S Dual-Motor AWD SP, gå til [chargeinfo](../chargecurve/) for Rivian R1S Dual-Motor AWD SP med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Rivian R1S Dual-Motor AWD SP. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Rivian R1S Dual-Motor AWD SP, gå til [chargeinfo](../chargingcurve/) for Rivian R1S Dual-Motor AWD SP med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -510,7 +510,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

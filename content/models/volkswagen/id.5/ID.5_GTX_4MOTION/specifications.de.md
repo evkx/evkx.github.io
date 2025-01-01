@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" width="3000" height="2000" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für Volkswagen ID.5 GTX 4MOTION zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Volkswagen ID.5 GTX 4MOTION, besuchen Sie die [Ladeinformationen](../chargecurve/) für Volkswagen ID.5 GTX 4MOTION mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für Volkswagen ID.5 GTX 4MOTION zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Volkswagen ID.5 GTX 4MOTION, besuchen Sie die [Ladeinformationen](../chargingcurve/) für Volkswagen ID.5 GTX 4MOTION mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -734,7 +734,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Unbekannt
@@ -879,7 +879,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Unbekannt

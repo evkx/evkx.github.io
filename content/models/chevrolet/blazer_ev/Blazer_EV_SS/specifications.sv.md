@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Chevrolet Blazer EV SS. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Chevrolet Blazer EV SS, gå till [chargeinfo](../chargecurve/) för Chevrolet Blazer EV SS med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Chevrolet Blazer EV SS. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Chevrolet Blazer EV SS, gå till [chargeinfo](../chargingcurve/) för Chevrolet Blazer EV SS med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -582,7 +582,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk förare, inte tillgänglig för passagerare

@@ -109,7 +109,6 @@ Lucid Air Pure rymmer fem passagerare med två framsäten och en tresätessoffa 
 Lucid Air Pure erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - Längsjusterbart nackstöd
@@ -124,7 +123,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med 60:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (standard för yttersäten)
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/secondrowseats_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}

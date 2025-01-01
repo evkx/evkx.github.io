@@ -106,7 +106,6 @@ The Ford Mustang Mach-E Standard Range RWD accommodates five passengers with two
 The Ford Mustang Mach-E Standard Range RWD offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -124,7 +123,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - Height adjustable headrest
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="2250"  >}}

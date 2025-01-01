@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/main_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for Lexus UX 300e. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lexus UX 300e, visit the [chargeinfo](../chargecurve/) for Lexus UX 300e with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Lexus UX 300e. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lexus UX 300e, visit the [chargeinfo](../chargingcurve/) for Lexus UX 300e with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -647,7 +647,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Standard electric feature

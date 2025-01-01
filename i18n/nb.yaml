@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-4ce4e131
+  translation: Volkswagen ID.5 Pure er en elektrisk SUV-kupé med en WLTP rekkevidde på opptil 370 km (230 miles). EVKX.net har alle detaljene.
+
 - id: frontpage-description-362206b1
   translation: Zeekr 7X Long Range RWD er en elektrisk SUV med en WLTP rekkevidde på opptil 615 km (382 miles). EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-53e21be8
   translation: Kia EV9 GT er en elektrisk SUV med en WLTP rekkevidde på opptil 505 km (314 miles). EVKX.net har alle detaljene.
-
-- id: frontpage-description-63d7ac4b
-  translation: Porsche Taycan 4 er en elektrisk luksussedan med en WLTP rekkevidde på opptil 643 km (400 miles). EVKX.net har alle detaljene.
 

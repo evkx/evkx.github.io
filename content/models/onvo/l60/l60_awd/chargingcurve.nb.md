@@ -12,9 +12,9 @@ Denne modellen er tilgjengelig med flere batterier. Under finner du ytelsen for 
 
 ### 85 kWh 85kWh
 
-<img src="/images/models/onvo/l60/l60_awd/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/onvo/l60/l60_awd/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/onvo/l60/l60_awd/chargingcurve_1.svg)
+[Full screen](/images/nb-NO/models/onvo/l60/l60_awd/chargingcurve_1.svg)
 
 
 <div class="alert alert-primary" role="alert">
@@ -106,9 +106,9 @@ Ladekurven for denne modellen er utledet fra produsentdata og innsikt i ladeytel
 	</tbody>
 </table>
 </div>
-<img src="/images/models/onvo/l60/l60_awd/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/onvo/l60/l60_awd/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/onvo/l60/l60_awd/chargingtime_1.svg)
+[Full screen](/images/nb-NO/models/onvo/l60/l60_awd/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -147,9 +147,9 @@ Ladekurven for denne modellen er utledet fra produsentdata og innsikt i ladeytel
 	</tbody>
 </table>
 </div>
-<img src="/images/models/onvo/l60/l60_awd/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/onvo/l60/l60_awd/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/onvo/l60/l60_awd/chargerangespeed_1.svg)
+[Full screen](/images/nb-NO/models/onvo/l60/l60_awd/chargerangespeed_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1670,9 +1670,9 @@ Ladekurven over er ved **[optimale forhold](../../../../../technology/battery/ch
 
 ### 60,6 kWh 60kWh
 
-<img src="/images/models/onvo/l60/l60_awd/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/onvo/l60/l60_awd/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/onvo/l60/l60_awd/chargingcurve_2.svg)
+[Full screen](/images/nb-NO/models/onvo/l60/l60_awd/chargingcurve_2.svg)
 
 
 <div class="alert alert-primary" role="alert">
@@ -1764,9 +1764,9 @@ Ladekurven for denne modellen er utledet fra produsentdata og innsikt i ladeytel
 	</tbody>
 </table>
 </div>
-<img src="/images/models/onvo/l60/l60_awd/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/onvo/l60/l60_awd/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/onvo/l60/l60_awd/chargingtime_2.svg)
+[Full screen](/images/nb-NO/models/onvo/l60/l60_awd/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1805,9 +1805,9 @@ Ladekurven for denne modellen er utledet fra produsentdata og innsikt i ladeytel
 	</tbody>
 </table>
 </div>
-<img src="/images/models/onvo/l60/l60_awd/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/onvo/l60/l60_awd/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/onvo/l60/l60_awd/chargerangespeed_2.svg)
+[Full screen](/images/nb-NO/models/onvo/l60/l60_awd/chargerangespeed_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

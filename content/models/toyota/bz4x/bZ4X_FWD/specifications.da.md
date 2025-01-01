@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/main_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="2002" >}}
-EVKX.net søger at have de mest komplette specifikationer for Toyota bZ4X FWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Toyota bZ4X FWD, besøg [chargeinfo](../chargecurve/) for Toyota bZ4X FWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Toyota bZ4X FWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Toyota bZ4X FWD, besøg [chargeinfo](../chargingcurve/) for Toyota bZ4X FWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -641,7 +641,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Valgfri elektrisk funktion

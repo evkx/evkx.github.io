@@ -126,7 +126,6 @@ The BYD Dolphin 44.9kWh accommodates five passengers with two front seats and a 
 The BYD Dolphin 44.9kWh offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable for driver, not available for passenger)
@@ -143,7 +142,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/secondrowseats_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1623"  >}}

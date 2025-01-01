@@ -123,7 +123,6 @@ The Audi Q4 35 e-tron (GEN1) accommodates five passengers with two front seats a
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable, electrically adjustable as an option)
@@ -133,7 +132,6 @@ The following functionalities are available on the **standard** seat:
 Available in:
 
 The following functionalities are available on the **sport** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable, electrically adjustable as an option)

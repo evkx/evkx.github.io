@@ -110,7 +110,6 @@ Der SKODA ENYAQ 85 bietet Platz für fünf Passagiere mit zwei Vordersitzen und 
 Der SKODA ENYAQ 85 bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den **Sport**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory) (Standard für Fahrer, nicht verfügbar für Beifahrer)

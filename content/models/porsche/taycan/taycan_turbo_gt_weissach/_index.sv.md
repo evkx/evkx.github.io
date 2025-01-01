@@ -111,21 +111,18 @@ Det finns tre olika takalternativ att välja mellan. Standard är bara ett vanli
 Första raden erbjuder två olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
 Följande funktioner finns tillgängliga på **Lightweight bucket seat** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
 - [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Följande funktioner finns tillgängliga på **Sportsseats Plus** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
 - [Justerbart sidostöd ryggstöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justerbart sidostöd sittdyna](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Justerbart sidostöd sittdyna](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (tillval)
 

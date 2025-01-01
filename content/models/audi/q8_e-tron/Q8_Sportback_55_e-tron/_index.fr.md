@@ -129,7 +129,6 @@ Le Audi Q8 Sportback 55 e-tron peut accueillir cinq passagers avec deux sièges 
 La première rangée offre cinq types de sièges pour répondre à diverses préférences de confort et de style :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
@@ -140,7 +139,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 Disponible en :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **sport** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
@@ -153,7 +151,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **sport** :
 Disponible en :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **s-line sport** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - Appuie-tête réglable en hauteur
 - Appuie-tête réglable en longueur (optionnel)
@@ -164,7 +161,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **s-line sport** :
 Disponible en :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **s sport** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
@@ -173,7 +169,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **s sport** :
 Disponible en :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **multicontour** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -184,8 +179,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour** :
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [Réglage des renforts latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Réglage des renforts latéraux de l'assise](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Réglage des renforts latéraux de l'assise](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 
@@ -194,7 +188,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition 40:20:40, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - Appuie-tête réglable en hauteur
 
 ### Rangement intérieur

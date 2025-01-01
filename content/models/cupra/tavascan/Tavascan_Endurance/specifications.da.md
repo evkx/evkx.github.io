@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_endurance/main_1_st.JPG" title="CUPRA Tavascan Endurance" width="3000" height="1676" >}}
-EVKX.net søger at have de mest komplette specifikationer for CUPRA Tavascan Endurance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af CUPRA Tavascan Endurance, besøg [chargeinfo](../chargecurve/) for CUPRA Tavascan Endurance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for CUPRA Tavascan Endurance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af CUPRA Tavascan Endurance, besøg [chargeinfo](../chargingcurve/) for CUPRA Tavascan Endurance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -545,7 +545,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

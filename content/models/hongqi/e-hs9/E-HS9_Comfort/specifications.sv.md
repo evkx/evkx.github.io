@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_comfort/main_1_st.jpg" title="Hongqi E-HS9 Comfort" width="3000" height="2050" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Hongqi E-HS9 Comfort. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Hongqi E-HS9 Comfort, gå till [chargeinfo](../chargecurve/) för Hongqi E-HS9 Comfort med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Hongqi E-HS9 Comfort. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Hongqi E-HS9 Comfort, gå till [chargeinfo](../chargingcurve/) för Hongqi E-HS9 Comfort med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -561,7 +561,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/main_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2250" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model Y Long Range RWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Tesla Model Y Long Range RWD, gå til [chargeinfo](../chargecurve/) for Tesla Model Y Long Range RWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model Y Long Range RWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Tesla Model Y Long Range RWD, gå til [chargeinfo](../chargingcurve/) for Tesla Model Y Long Range RWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -665,7 +665,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

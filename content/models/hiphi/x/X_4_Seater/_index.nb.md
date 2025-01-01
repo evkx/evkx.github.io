@@ -109,7 +109,6 @@ Seteoppsettet er to seter foran og to seter bak.
 HiPhi X 4 Seater tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -127,7 +126,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 For andre seterad har denne modellen to kapteinsseter. Andre funksjoner inkluderer:
-
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)

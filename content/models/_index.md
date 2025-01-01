@@ -246,6 +246,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Go to Alfa Romeo EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="alpine/"><img src="https://media.evkx.net/multimedia/models/alpine/brandevs_st.jpg" class="img-fluid mb-2" alt="Alpine" ></a>
 	<h2>Alpine</h2>
 	<p>
 		Alpine is a French sports car brand, founded in 1955 by Jean Rédélé, initially specializing in lightweight, agile sports cars. Known for its association with Renault, Alpine gained fame in the 1960s and '70s with its rally-winning A110 Berlinette, celebrated for its nimble handling and success in motorsport, especially in events like the Monte Carlo Rally.
@@ -354,6 +355,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	<a href="dacia/" class="btn btn-outline-primary" role="button">Go to Dacia EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="dongfeng/"><img src="https://media.evkx.net/multimedia/models/dongfeng/brandevs_st.jpg" class="img-fluid mb-2" alt="Dongfeng" ></a>
 	<h2>Dongfeng</h2>
 	<p>
 		Dongfeng Motor Corporation, established in 1969, is one of China’s largest and most influential automotive manufacturers. Known for its diverse range of vehicles, including passenger cars, commercial trucks, and electric vehicles, Dongfeng has a significant presence both domestically and internationally. With a strong focus on innovation, the company has expanded its electric vehicle offerings, aiming to lead in sustainable mobility.
@@ -397,7 +399,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	<a href="fisker/" class="btn btn-outline-primary" role="button">Go to Fisker EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpeg" class="img-fluid mb-2" alt="Ford" ></a>
+	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpg" class="img-fluid mb-2" alt="Ford" ></a>
 	<h2>Ford</h2>
 	<p>
 		Ford is one of the world's leading automakers, with a history of innovation and excellence that spans more than a century. Ford is also committed to leading the transition to a more sustainable and electrified future, with a range of hybrid and electric vehicles (EVs) that offer performance, efficiency, technology and convenience.
@@ -496,6 +498,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	<a href="jeep/" class="btn btn-outline-primary" role="button">Go to Jeep EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="kgm/"><img src="https://media.evkx.net/multimedia/models/kgm/brandevs_st.jpg" class="img-fluid mb-2" alt="KGM" ></a>
 	<h2>KGM</h2>
 	<p>
 		Korean Global Motors (KGM) is an automobile manufacturer based in South Korea. Known for its diverse range of vehicles, including electric and hybrid models, KGM has made notable contributions to the global automotive market. The company emphasizes innovative design and advanced engineering, aligning with industry trends towards sustainability and technology integration. KGM continues to be a significant presence in the automotive sector, both domestically and internationally.
@@ -528,6 +531,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	<a href="lancia/" class="btn btn-outline-primary" role="button">Go to Lancia EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="leapmotor/"><img src="https://media.evkx.net/multimedia/models/leapmotor/brandevs_st.jpg" class="img-fluid mb-2" alt="Leapmotor" ></a>
 	<h2>Leapmotor</h2>
 	<p>
 		Leapmotor is a Chinese electric vehicle (EV) manufacturer, founded in 2015. Known for affordable, tech-driven cars like the T03 city car and C11 SUV, Leapmotor emphasizes in-house development of core EV technologies, including powertrains and autonomous driving, targeting China's growing EV market.
@@ -867,7 +871,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Volkswagen’s product portfolio is focused on electric mobility. The last purely combustion-driven platform will be developed in 2026. After that, only electric vehicles will be developed. Even with today’s current power mix in the EU, battery-powered drive systems offer the best balance for the climate out of all drive concepts and this will continue to improve over the years to come. 
 	</p>
 	<p>
-	Volkswagen has 6 models with total 28 variants.
+	Volkswagen has 6 models with total 29 variants.
 	</p>
 	<a href="volkswagen/" class="btn btn-outline-primary" role="button">Go to Volkswagen EV-model overview</a>
 </div>

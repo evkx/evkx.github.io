@@ -126,7 +126,6 @@ El Lexus RZ 450e acomoda cinco pasajeros con dos asientos delanteros y un banco 
 El Lexus RZ 450e ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual, ajuste eléctrico como opción)
@@ -147,7 +146,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división 40:60, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 - Reposacabezas ajustable en altura
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)

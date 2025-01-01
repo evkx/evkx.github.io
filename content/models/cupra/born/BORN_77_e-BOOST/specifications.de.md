@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/main_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="2000" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für CUPRA BORN 77 e-BOOST zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von CUPRA BORN 77 e-BOOST, besuchen Sie die [Ladeinformationen](../chargecurve/) für CUPRA BORN 77 e-BOOST mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für CUPRA BORN 77 e-BOOST zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von CUPRA BORN 77 e-BOOST, besuchen Sie die [Ladeinformationen](../chargingcurve/) für CUPRA BORN 77 e-BOOST mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -609,7 +609,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Unbekannt

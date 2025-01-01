@@ -114,7 +114,6 @@ The Citroën ë-C3 Aircross accommodates five passengers with two front seats an
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **Standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 
@@ -123,7 +122,6 @@ Available in:
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 The following functionalities are available on the **Advanced Comfort** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
@@ -140,7 +138,6 @@ Available in:
 You can choose two seat types for the second row in the Citroën ë-C3 Aircross.
 
 The following functionalities are available on the **Standard** seat:
-
 - Height adjustable headrest
 
 Available in:
@@ -148,7 +145,6 @@ Available in:
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 The following functionalities are available on the **Advanced Comfort** seat:
-
 - Height adjustable headrest
 
 Available in:

@@ -107,7 +107,6 @@ La disposición de asientos consiste en dos asientos delanteros y dos asientos t
 El HiPhi Z 4 Seater ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste eléctrico)
@@ -127,7 +126,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 Para la segunda fila, este modelo tiene dos [asientos ejecutivos](../../../../technology/seats/types/#twin-executive-seats). Las funcionalidades adicionales incluyen:
-
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilación](../../../../technology/seats/adjustment/#ventilation)

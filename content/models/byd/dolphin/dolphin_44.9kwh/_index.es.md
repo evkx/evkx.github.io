@@ -126,7 +126,6 @@ El BYD Dolphin 44.9kWh acomoda cinco pasajeros con dos asientos delanteros y un 
 El BYD Dolphin 44.9kWh ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico para el conductor, no disponible para el pasajero)
@@ -143,7 +142,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división 60:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/secondrowseats_1_st.jpg" title="BYD Dolphin 44.9kWh" width="2500" height="1623"  >}}

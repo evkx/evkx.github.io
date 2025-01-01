@@ -105,7 +105,6 @@ The seat layout is seven seats with two in front, three seats in the second row 
 The Rivian R1S Performance Dual-Motor AWD LP offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -124,7 +123,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 
 #### Third Row Seats

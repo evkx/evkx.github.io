@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/main_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="1999" >}}
-EVKX.net busca tener las especificaciones más completas para Mercedes-AMG EQE 43 4MATIC. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Mercedes-AMG EQE 43 4MATIC, visite [chargeinfo](../chargecurve/) para Mercedes-AMG EQE 43 4MATIC con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Mercedes-AMG EQE 43 4MATIC. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Mercedes-AMG EQE 43 4MATIC, visite [chargeinfo](../chargingcurve/) para Mercedes-AMG EQE 43 4MATIC con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -601,7 +601,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Desconocido
@@ -746,7 +746,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Desconocido

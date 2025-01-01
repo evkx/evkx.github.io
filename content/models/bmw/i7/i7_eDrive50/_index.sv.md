@@ -111,7 +111,6 @@ BMW i7 eDrive50 rymmer fem passagerare med två framsäten och en tresätessoffa
 BMW i7 eDrive50 erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
@@ -147,7 +146,6 @@ Du kan välja mellan två olika sätesvarianter för andra raden i BMW i7 eDrive
 standard-alternativet är en tresätesoffa med  delning där du kan fälla varje sektion separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
 second-alternativet är ett [exekutivsäte kombinerat med en tvåsätesoffa](../../../../technology/seats/types/#executive-seat--two-seat-bench). Ytterligare funktioner inkluderar:
-
 - [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 - [Benstöd för passagerare](../../../../technology/seats/adjustment/#leg-support) (standard för yttersäten)

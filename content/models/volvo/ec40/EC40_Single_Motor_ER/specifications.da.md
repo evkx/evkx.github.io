@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/main_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000" >}}
-EVKX.net søger at have de mest komplette specifikationer for Volvo EC40 Single Motor ER. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Volvo EC40 Single Motor ER, besøg [chargeinfo](../chargecurve/) for Volvo EC40 Single Motor ER med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Volvo EC40 Single Motor ER. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Volvo EC40 Single Motor ER, besøg [chargeinfo](../chargingcurve/) for Volvo EC40 Single Motor ER med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -606,7 +606,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

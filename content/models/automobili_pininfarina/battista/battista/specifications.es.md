@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/main_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="2002" >}}
-EVKX.net busca tener las especificaciones más completas para Automobili Pininfarina Battista. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Automobili Pininfarina Battista, visite [chargeinfo](../chargecurve/) para Automobili Pininfarina Battista con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Automobili Pininfarina Battista. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Automobili Pininfarina Battista, visite [chargeinfo](../chargingcurve/) para Automobili Pininfarina Battista con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -517,7 +517,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				No disponible

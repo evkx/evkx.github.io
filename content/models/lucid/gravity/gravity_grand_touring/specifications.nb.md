@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/main_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2007" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Gravity Grand Touring. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Lucid Gravity Grand Touring, gå til [chargeinfo](../chargecurve/) for Lucid Gravity Grand Touring med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Gravity Grand Touring. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Lucid Gravity Grand Touring, gå til [chargeinfo](../chargingcurve/) for Lucid Gravity Grand Touring med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -688,7 +688,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon
@@ -833,7 +833,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

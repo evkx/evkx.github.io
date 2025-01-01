@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor/main_1_st.jpg" title="Volvo EX40 Single Motor" width="1920" height="1080" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Volvo EX40 Single Motor. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Volvo EX40 Single Motor, gå till [chargeinfo](../chargecurve/) för Volvo EX40 Single Motor med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Volvo EX40 Single Motor. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Volvo EX40 Single Motor, gå till [chargeinfo](../chargingcurve/) för Volvo EX40 Single Motor med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -606,7 +606,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

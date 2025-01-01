@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/ford/puma/puma_gen-e/main_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2250" >}}
-EVKX.net søger at have de mest komplette specifikationer for Ford Puma Gen-E. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Ford Puma Gen-E, besøg [chargeinfo](../chargecurve/) for Ford Puma Gen-E med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Ford Puma Gen-E. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Ford Puma Gen-E, besøg [chargeinfo](../chargingcurve/) for Ford Puma Gen-E med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -558,7 +558,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ikke tilgængelig

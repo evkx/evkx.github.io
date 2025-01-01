@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/maserati/granturismo/granturismo_folgore/main_1_st.jpg" title="Maserati GranTurismo Folgore" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Maserati GranTurismo Folgore. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Maserati GranTurismo Folgore, gå till [chargeinfo](../chargecurve/) för Maserati GranTurismo Folgore med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Maserati GranTurismo Folgore. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Maserati GranTurismo Folgore, gå till [chargeinfo](../chargingcurve/) för Maserati GranTurismo Folgore med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -577,7 +577,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

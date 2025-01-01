@@ -137,7 +137,6 @@ Audi Q6 e-tron rymmer fem passagerare med två framsäten och en tresätessoffa 
 Första raden erbjuder tre olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
 Följande funktioner finns tillgängliga på **Normal** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar)
@@ -151,7 +150,6 @@ Finns tillgänglig i:
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 
 Följande funktioner finns tillgängliga på **Sport** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
@@ -170,7 +168,6 @@ Finns tillgänglig i:
 - Red [skinnklädsel](../../../../technology/seats/materials/#leather)
 
 Följande funktioner finns tillgängliga på **Sport Plus** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)

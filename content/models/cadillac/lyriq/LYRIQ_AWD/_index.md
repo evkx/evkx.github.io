@@ -125,7 +125,6 @@ The Cadillac LYRIQ AWD accommodates five passengers with two front seats and a t
 The Cadillac LYRIQ AWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -148,7 +147,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - Height adjustable headrest
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)

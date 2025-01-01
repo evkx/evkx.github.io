@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/main_1_st.jpg" title="KGM Torres EVX" width="2048" height="1152" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for KGM Torres EVX. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av KGM Torres EVX, gå til [chargeinfo](../chargecurve/) for KGM Torres EVX med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for KGM Torres EVX. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av KGM Torres EVX, gå til [chargeinfo](../chargingcurve/) for KGM Torres EVX med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -607,7 +607,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standardfunksjon

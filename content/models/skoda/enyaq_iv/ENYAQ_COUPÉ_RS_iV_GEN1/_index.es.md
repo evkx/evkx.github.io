@@ -118,7 +118,6 @@ El SKODA ENYAQ COUPÉ RS iV (GEN1) acomoda cinco pasajeros con dos asientos dela
 El SKODA ENYAQ COUPÉ RS iV (GEN1) ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **Sport**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory) (estándar para el conductor, no disponible para el pasajero)

@@ -115,7 +115,6 @@ Le OMODA E5 peut accueillir cinq passagers avec deux sièges à l'avant et une b
 Le OMODA E5 propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement pour le conducteur, non disponible pour le passager)
@@ -131,7 +130,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition 60:40, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - Appuie-tête réglable en hauteur
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 

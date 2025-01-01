@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/li_auto/mega/mega/main_1_st.jpg" title="Li Auto MEGA" width="1920" height="1080" >}}
-EVKX.net søger at have de mest komplette specifikationer for Li Auto MEGA. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Li Auto MEGA, besøg [chargeinfo](../chargecurve/) for Li Auto MEGA med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Li Auto MEGA. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Li Auto MEGA, besøg [chargeinfo](../chargingcurve/) for Li Auto MEGA med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -537,7 +537,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

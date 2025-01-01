@@ -128,7 +128,6 @@ Der Audi Q4 Sportback 45 e-tron bietet Platz für fünf Passagiere mit zwei Vord
 Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieben gerecht zu werden:
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
@@ -146,7 +145,6 @@ Verfügbar in:
 - Beige [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 Die folgenden Funktionen sind für den **sport**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
@@ -172,12 +170,10 @@ Verfügbar in:
 Sie können zwei Sitztypen für die zweite Reihe im Audi Q4 Sportback 45 e-tron wählen.
 
 Die standard-Option ist eine Drei-Sitz-Bank mit einem 60:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
-
 - Höhenverstellbare Kopfstütze
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 Die second-Option ist eine Drei-Sitz-Bank mit einem 40:20:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
-
 - Höhenverstellbare Kopfstütze
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/main_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV (GEN1)" width="3000" height="1999" >}}
-EVKX.net søger at have de mest komplette specifikationer for SKODA ENYAQ COUPÉ RS iV (GEN1). Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af SKODA ENYAQ COUPÉ RS iV (GEN1), besøg [chargeinfo](../chargecurve/) for SKODA ENYAQ COUPÉ RS iV (GEN1) med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for SKODA ENYAQ COUPÉ RS iV (GEN1). Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af SKODA ENYAQ COUPÉ RS iV (GEN1), besøg [chargeinfo](../chargingcurve/) for SKODA ENYAQ COUPÉ RS iV (GEN1) med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -641,7 +641,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

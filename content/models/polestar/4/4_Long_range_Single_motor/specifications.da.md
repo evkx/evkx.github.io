@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_single_motor/main_1_st.jpg" title="Polestar 4 Long range Single motor" width="3000" height="2000" >}}
-EVKX.net søger at have de mest komplette specifikationer for Polestar 4 Long range Single motor. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Polestar 4 Long range Single motor, besøg [chargeinfo](../chargecurve/) for Polestar 4 Long range Single motor med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Polestar 4 Long range Single motor. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Polestar 4 Long range Single motor, besøg [chargeinfo](../chargingcurve/) for Polestar 4 Long range Single motor med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -609,7 +609,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

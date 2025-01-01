@@ -125,7 +125,6 @@ Audi RS e-tron GT har plads til fem passagerer med to forsæder og en trebænk b
 Forreste række tilbyder tre sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
 Følgende funktioner er tilgængelige på **sport** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
@@ -133,7 +132,6 @@ Følgende funktioner er tilgængelige på **sport** sædet:
 Fås med:
 
 Følgende funktioner er tilgængelige på **sport plus** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
@@ -142,14 +140,12 @@ Følgende funktioner er tilgængelige på **sport plus** sædet:
 Fås med:
 
 Følgende funktioner er tilgængelige på **sport pro** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [Justerbar sidestøtte i ryglæn](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justerbar sidestøtte i sædehynde](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Justerbar sidestøtte i sædehynde](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (ekstraudstyr)
 

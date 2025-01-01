@@ -105,7 +105,6 @@ Hyundai Ioniq 5 N rymmer fem passagerare med två framsäten och en tresätessof
 Hyundai Ioniq 5 N erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - Höjdjusterbart nackstöd
@@ -121,7 +120,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med 60:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (standard för yttersäten)
 

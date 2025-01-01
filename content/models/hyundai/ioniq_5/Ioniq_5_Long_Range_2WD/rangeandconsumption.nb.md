@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 Rekkevidden vil variere avhengig av flere faktorer. Som hvor fort du kjører, temperaturen, vått eller tørt føre, og hvilket utstyr som er montert. På denne siden finner du et diagram og tabeller med resultatene fra standardtestsykluser som WLTP og EPA, samt estimert rekkevidde i ulike reelle forhold.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/hyundai/ioniq_5/ioniq_5_long_range_2wd/range.svg"/>
-<a href="/images/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/range.svg"/>
+<a href="/images/nb-NO/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/range.svg">Full screen</a>
 
 ### Offisielle testsyklusresultater
 

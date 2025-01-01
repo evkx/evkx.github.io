@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/main_1_st.jpg" title="Opel Astra Electric" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for Opel Astra Electric. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Opel Astra Electric, visit the [chargeinfo](../chargecurve/) for Opel Astra Electric with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Opel Astra Electric. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Opel Astra Electric, visit the [chargeinfo](../chargingcurve/) for Opel Astra Electric with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -561,7 +561,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Not Available

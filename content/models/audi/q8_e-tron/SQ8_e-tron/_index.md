@@ -125,7 +125,6 @@ The Audi SQ8 e-tron accommodates five passengers with two front seats and a thre
 The front row offers three seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **s-line sport** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - Length adjustable headrest (optional)
@@ -136,7 +135,6 @@ The following functionalities are available on the **s-line sport** seat:
 Available in:
 
 The following functionalities are available on the **s sport** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
@@ -145,7 +143,6 @@ The following functionalities are available on the **s sport** seat:
 Available in:
 
 The following functionalities are available on the **multicontour** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - Length adjustable headrest
@@ -153,8 +150,7 @@ The following functionalities are available on the **multicontour** seat:
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
@@ -163,7 +159,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - Height adjustable headrest
 
 ### Interior Storage

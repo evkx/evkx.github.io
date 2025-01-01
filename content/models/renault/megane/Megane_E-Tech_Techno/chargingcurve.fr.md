@@ -8,9 +8,9 @@ navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-<img src="/images/models/renault/megane/megane_e-tech_techno/chargingcurve.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/renault/megane/megane_e-tech_techno/chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/renault/megane/megane_e-tech_techno/chargingcurve.svg)
+[Full screen](/images/nb-NO/models/renault/megane/megane_e-tech_techno/chargingcurve.svg)
 
 
 <div class="table-responsive">
@@ -99,9 +99,9 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
-<img src="/images/models/renault/megane/megane_e-tech_techno/chargingtime.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/renault/megane/megane_e-tech_techno/chargingtime.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/renault/megane/megane_e-tech_techno/chargingtime.svg)
+[Full screen](/images/nb-NO/models/renault/megane/megane_e-tech_techno/chargingtime.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -140,9 +140,9 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
-<img src="/images/models/renault/megane/megane_e-tech_techno/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/renault/megane/megane_e-tech_techno/chargerangespeed.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/renault/megane/megane_e-tech_techno/chargerangespeed.svg)
+[Full screen](/images/nb-NO/models/renault/megane/megane_e-tech_techno/chargerangespeed.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/xpeng/p7/p7_awd_performance/main_1_st.jpg" title="XPENG P7 AWD Performance" width="3000" height="2000" >}}
-EVKX.net søger at have de mest komplette specifikationer for XPENG P7 AWD Performance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af XPENG P7 AWD Performance, besøg [chargeinfo](../chargecurve/) for XPENG P7 AWD Performance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for XPENG P7 AWD Performance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af XPENG P7 AWD Performance, besøg [chargeinfo](../chargingcurve/) for XPENG P7 AWD Performance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -510,7 +510,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

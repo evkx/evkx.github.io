@@ -111,7 +111,6 @@ El CUPRA Tavascan Endurance acomoda cinco pasajeros con dos asientos delanteros 
 El CUPRA Tavascan Endurance ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (opcional)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico opcional)

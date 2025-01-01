@@ -113,13 +113,11 @@ Ford Capri Extended Range AWD har plads til fem passagerer med to forsæder og e
 Forreste række tilbyder to sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
 Følgende funktioner er tilgængelige på **Sport** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - Højdejusterbar nakkestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)
 
 Følgende funktioner er tilgængelige på **Ergo** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)

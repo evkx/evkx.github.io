@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_350_4matic/main_1_st.jpg" title="Mercedes-EQ EQB 350 4MATIC" width="3000" height="1999" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Mercedes-EQ EQB 350 4MATIC. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Mercedes-EQ EQB 350 4MATIC, visitez les [chargeinfo](../chargecurve/) pour Mercedes-EQ EQB 350 4MATIC avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Mercedes-EQ EQB 350 4MATIC. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Mercedes-EQ EQB 350 4MATIC, visitez les [chargeinfo](../chargingcurve/) pour Mercedes-EQ EQB 350 4MATIC avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -569,7 +569,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Inconnu
@@ -714,7 +714,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Inconnu

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/main_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2000" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i7 M70 xDrive. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de BMW i7 M70 xDrive, visitez les [chargeinfo](../chargecurve/) pour BMW i7 M70 xDrive avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i7 M70 xDrive. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de BMW i7 M70 xDrive, visitez les [chargeinfo](../chargingcurve/) pour BMW i7 M70 xDrive avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -593,7 +593,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Inconnu

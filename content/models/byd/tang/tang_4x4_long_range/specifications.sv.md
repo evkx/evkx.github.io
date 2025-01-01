@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/tang/tang_4x4_long_range/main_1_st.jpg" title="BYD Tang 4x4 Long Range" width="1920" height="1080" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för BYD Tang 4x4 Long Range. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av BYD Tang 4x4 Long Range, gå till [chargeinfo](../chargecurve/) för BYD Tang 4x4 Long Range med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för BYD Tang 4x4 Long Range. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av BYD Tang 4x4 Long Range, gå till [chargeinfo](../chargingcurve/) för BYD Tang 4x4 Long Range med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -625,7 +625,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

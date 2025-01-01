@@ -121,7 +121,6 @@ BMW i5 eDrive40 Touring rymmer fem passagerare med två framsäten och en tresä
 Första raden erbjuder två olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
 Följande funktioner finns tillgängliga på **Sport** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
@@ -135,7 +134,6 @@ Följande funktioner finns tillgängliga på **Sport** sätet:
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
 Följande funktioner finns tillgängliga på **Comfort seats** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
@@ -153,7 +151,6 @@ Följande funktioner finns tillgängliga på **Comfort seats** sätet:
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med 40:20:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttersäten)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/secondrowseats_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/main_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQA 300 4MATIC. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Mercedes-EQ EQA 300 4MATIC, gå til [chargeinfo](../chargecurve/) for Mercedes-EQ EQA 300 4MATIC med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQA 300 4MATIC. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Mercedes-EQ EQA 300 4MATIC, gå til [chargeinfo](../chargingcurve/) for Mercedes-EQ EQA 300 4MATIC med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -593,7 +593,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -738,7 +738,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ukjent

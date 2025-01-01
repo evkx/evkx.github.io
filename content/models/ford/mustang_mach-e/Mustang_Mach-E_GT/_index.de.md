@@ -106,7 +106,6 @@ Der Ford Mustang Mach-E GT bietet Platz für fünf Passagiere mit zwei Vordersit
 Der Ford Mustang Mach-E GT bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
@@ -124,7 +123,6 @@ Verfügbar in:
 #### Rücksitzreihe
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
-
 - Höhenverstellbare Kopfstütze
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}

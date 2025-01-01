@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/main_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="3000" height="1687" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 7X Standard Range RWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Zeekr 7X Standard Range RWD, gå til [chargeinfo](../chargecurve/) for Zeekr 7X Standard Range RWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 7X Standard Range RWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Zeekr 7X Standard Range RWD, gå til [chargeinfo](../chargingcurve/) for Zeekr 7X Standard Range RWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -662,7 +662,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

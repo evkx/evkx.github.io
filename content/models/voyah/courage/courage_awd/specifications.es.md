@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/voyah/courage/courage_awd/main_1_st.jpg" title="VOYAH Courage AWD" width="3000" height="1695" >}}
-EVKX.net busca tener las especificaciones más completas para VOYAH Courage AWD. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de VOYAH Courage AWD, visite [chargeinfo](../chargecurve/) para VOYAH Courage AWD con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para VOYAH Courage AWD. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de VOYAH Courage AWD, visite [chargeinfo](../chargingcurve/) para VOYAH Courage AWD con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -577,7 +577,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Función eléctrica estándar

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/main_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für Chevrolet Silverado EV 3WT zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Chevrolet Silverado EV 3WT, besuchen Sie die [Ladeinformationen](../chargecurve/) für Chevrolet Silverado EV 3WT mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für Chevrolet Silverado EV 3WT zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Chevrolet Silverado EV 3WT, besuchen Sie die [Ladeinformationen](../chargingcurve/) für Chevrolet Silverado EV 3WT mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -585,7 +585,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Nicht verfügbar

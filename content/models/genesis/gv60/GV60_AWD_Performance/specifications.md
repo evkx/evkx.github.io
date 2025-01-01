@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/main_1_st.jpg" title="Genesis GV60 AWD Performance" width="3000" height="1688" >}}
-EVKX.net seeks to have the most complete specifications for Genesis GV60 AWD Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Genesis GV60 AWD Performance, visit the [chargeinfo](../chargecurve/) for Genesis GV60 AWD Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Genesis GV60 AWD Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Genesis GV60 AWD Performance, visit the [chargeinfo](../chargingcurve/) for Genesis GV60 AWD Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -574,7 +574,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

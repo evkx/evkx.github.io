@@ -12,9 +12,9 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 
 ### 89 kWh Performance Battery
 
-<img src="/images/models/porsche/taycan/taycan/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan/chargingcurve_1.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan/chargingcurve_1.svg)
 
 
 <div class="table-responsive">
@@ -103,9 +103,9 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan/chargingtime_1.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -144,9 +144,9 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan/chargerangespeed_1.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan/chargerangespeed_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1670,9 +1670,9 @@ Porsche Taycan dispose d'un chauffage de batterie, facilitant la charge à une t
 
 ### 105 kWh Performance Battery Plus
 
-<img src="/images/models/porsche/taycan/taycan/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan/chargingcurve_2.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan/chargingcurve_2.svg)
 
 
 <div class="table-responsive">
@@ -1761,9 +1761,9 @@ Porsche Taycan dispose d'un chauffage de batterie, facilitant la charge à une t
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan/chargingtime_2.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1802,9 +1802,9 @@ Porsche Taycan dispose d'un chauffage de batterie, facilitant la charge à une t
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan/chargerangespeed_2.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan/chargerangespeed_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

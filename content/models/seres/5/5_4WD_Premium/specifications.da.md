@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/main_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707" >}}
-EVKX.net søger at have de mest komplette specifikationer for Seres 5 4WD Premium. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Seres 5 4WD Premium, besøg [chargeinfo](../chargecurve/) for Seres 5 4WD Premium med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Seres 5 4WD Premium. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Seres 5 4WD Premium, besøg [chargeinfo](../chargingcurve/) for Seres 5 4WD Premium med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -550,7 +550,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

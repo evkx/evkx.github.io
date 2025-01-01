@@ -109,7 +109,6 @@ BYD Atto 3 har plads til fem passagerer med to forsæder og en trebænk bagtil.
 BYD Atto 3 tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - Højdejusterbar nakkestøtte

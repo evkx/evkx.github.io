@@ -118,7 +118,6 @@ Le Volkswagen ID.5 GTX 4MOTION (GEN1) peut accueillir cinq passagers avec deux s
 La première rangée offre deux types de sièges pour répondre à diverses préférences de confort et de style :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - Appuie-tête réglable en hauteur
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
@@ -126,7 +125,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 Disponible en :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **ergoActive Top-Sport** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)

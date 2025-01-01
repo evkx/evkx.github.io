@@ -107,7 +107,6 @@ El Renault 5 E-Tech 52kWh 150hp acomoda cinco pasajeros con dos asientos delante
 El Renault 5 E-Tech 52kWh 150hp ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual)

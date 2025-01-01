@@ -119,7 +119,6 @@ Fisker Ocean Extreme har plads til fem passagerer med to forsæder og en trebæn
 Fisker Ocean Extreme tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
@@ -138,7 +137,6 @@ Fås med:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med 40:20:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)
 

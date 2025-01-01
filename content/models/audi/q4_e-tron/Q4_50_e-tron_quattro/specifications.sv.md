@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/main_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="1998" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Audi Q4 50 e-tron quattro. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Audi Q4 50 e-tron quattro, gå till [chargeinfo](../chargecurve/) för Audi Q4 50 e-tron quattro med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Audi Q4 50 e-tron quattro. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Audi Q4 50 e-tron quattro, gå till [chargeinfo](../chargingcurve/) för Audi Q4 50 e-tron quattro med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -790,7 +790,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standardfunktion, valfri elektrisk
@@ -935,7 +935,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standardfunktion, valfri elektrisk

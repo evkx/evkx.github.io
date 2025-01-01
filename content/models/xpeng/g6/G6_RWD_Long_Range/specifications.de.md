@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_long_range/main_1_st.jpg" title="XPENG G6 RWD Long Range" width="2560" height="1498" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für XPENG G6 RWD Long Range zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von XPENG G6 RWD Long Range, besuchen Sie die [Ladeinformationen](../chargecurve/) für XPENG G6 RWD Long Range mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für XPENG G6 RWD Long Range zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von XPENG G6 RWD Long Range, besuchen Sie die [Ladeinformationen](../chargingcurve/) für XPENG G6 RWD Long Range mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -606,7 +606,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Nicht verfügbar

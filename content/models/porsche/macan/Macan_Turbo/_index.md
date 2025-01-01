@@ -123,7 +123,6 @@ The Porsche Macan Turbo accommodates five passengers with two front seats and a 
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **Comfortseats with memory** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -136,7 +135,6 @@ The following functionalities are available on the **Comfortseats with memory** 
 Available in:
 
 The following functionalities are available on the **Sportsseats Plus** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -144,8 +142,7 @@ The following functionalities are available on the **Sportsseats Plus** seat:
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 Available in:

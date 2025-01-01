@@ -108,7 +108,6 @@ The Polestar 2 Long Range Single Motor accommodates five passengers with two fro
 The Polestar 2 Long Range Single Motor offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
@@ -127,7 +126,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250"  >}}

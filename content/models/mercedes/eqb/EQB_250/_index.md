@@ -107,7 +107,6 @@ Mercedes-EQ EQB 250 is available in a standard five-seat configuration, with an 
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
@@ -120,7 +119,6 @@ The following functionalities are available on the **standard** seat:
 Available in:
 
 The following functionalities are available on the **multicontour** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - Length adjustable headrest
@@ -139,7 +137,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - Height adjustable headrest
 
 #### Third Row Seats

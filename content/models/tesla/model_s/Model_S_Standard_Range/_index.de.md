@@ -112,7 +112,6 @@ Der Tesla Model S Standard Range bietet Platz für fünf Passagiere mit zwei Vor
 Der Tesla Model S Standard Range bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)

@@ -107,7 +107,6 @@ BMW iX M60 har plads til fem passagerer med to forsæder og en trebænk bagtil.
 BMW iX M60 tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory) (ekstraudstyr)

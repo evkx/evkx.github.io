@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/main_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="3000" height="1542" >}}
-EVKX.net busca tener las especificaciones más completas para Aion Hyper GT 710 Supercharged. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Aion Hyper GT 710 Supercharged, visite [chargeinfo](../chargecurve/) para Aion Hyper GT 710 Supercharged con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Aion Hyper GT 710 Supercharged. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Aion Hyper GT 710 Supercharged, visite [chargeinfo](../chargingcurve/) para Aion Hyper GT 710 Supercharged con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -486,7 +486,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Función eléctrica estándar

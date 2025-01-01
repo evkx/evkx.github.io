@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/main_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1666" >}}
-EVKX.net seeks to have the most complete specifications for Peugot E-5008 Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Peugot E-5008 Long Range, visit the [chargeinfo](../chargecurve/) for Peugot E-5008 Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Peugot E-5008 Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Peugot E-5008 Long Range, visit the [chargeinfo](../chargingcurve/) for Peugot E-5008 Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -633,7 +633,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Standard feature, optional electric

@@ -113,7 +113,6 @@ Hyundai IONIQ 9 AWD Performance is available in a six or seven-seat layout for a
 The Hyundai IONIQ 9 AWD Performance offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - Height adjustable headrest
@@ -137,7 +136,6 @@ Available in:
 You can choose three seat types for the second row in the Hyundai IONIQ 9 AWD Performance.
 
 The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - Height adjustable headrest
@@ -145,12 +143,10 @@ The standard option is a three-seat bench with a 60:40 split where you can fold 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 The second option is two captain chairs. Additional functionalities include:
-
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 
 The third option is two captain chairs. Additional functionalities include:
-
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)

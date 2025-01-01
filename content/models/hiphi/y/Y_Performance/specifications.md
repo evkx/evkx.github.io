@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/main_1_st.jpg" title="HiPhi Y Performance" width="1572" height="1011" >}}
-EVKX.net seeks to have the most complete specifications for HiPhi Y Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of HiPhi Y Performance, visit the [chargeinfo](../chargecurve/) for HiPhi Y Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for HiPhi Y Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of HiPhi Y Performance, visit the [chargeinfo](../chargingcurve/) for HiPhi Y Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -497,7 +497,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

@@ -112,7 +112,6 @@ SKODA ENYAQ COUPÉ 85 har plass til fem passasjerer med to forseter og en treset
 SKODA ENYAQ COUPÉ 85 tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **Sport** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgjengelig for passasjer)

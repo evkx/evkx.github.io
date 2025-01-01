@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/sealion_7/sealion_7_excellence/main_1_st.jpg" title="BYD Sealion 7 Excellence" width="3000" height="1687" >}}
-EVKX.net søger at have de mest komplette specifikationer for BYD Sealion 7 Excellence. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af BYD Sealion 7 Excellence, besøg [chargeinfo](../chargecurve/) for BYD Sealion 7 Excellence med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for BYD Sealion 7 Excellence. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af BYD Sealion 7 Excellence, besøg [chargeinfo](../chargingcurve/) for BYD Sealion 7 Excellence med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -593,7 +593,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

@@ -114,13 +114,11 @@ Le Ford Explorer Extended Range RWD peut accueillir cinq passagers avec deux si�
 La première rangée offre deux types de sièges pour répondre à diverses préférences de confort et de style :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - Appuie-tête réglable en hauteur
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Ergo** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)

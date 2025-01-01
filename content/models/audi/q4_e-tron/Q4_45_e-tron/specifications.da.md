@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron/main_1_st.jpg" title="Audi Q4 45 e-tron" width="3000" height="1998" >}}
-EVKX.net søger at have de mest komplette specifikationer for Audi Q4 45 e-tron. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Audi Q4 45 e-tron, besøg [chargeinfo](../chargecurve/) for Audi Q4 45 e-tron med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Audi Q4 45 e-tron. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Audi Q4 45 e-tron, besøg [chargeinfo](../chargingcurve/) for Audi Q4 45 e-tron med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -774,7 +774,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standardfunktion, valgfri elektrisk
@@ -919,7 +919,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standardfunktion, valgfri elektrisk

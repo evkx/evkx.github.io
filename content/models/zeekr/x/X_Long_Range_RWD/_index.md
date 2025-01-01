@@ -101,7 +101,6 @@ The Zeekr X Long Range RWD accommodates five passengers with two front seats and
 The Zeekr X Long Range RWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable)
@@ -118,7 +117,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/secondrowseats_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}

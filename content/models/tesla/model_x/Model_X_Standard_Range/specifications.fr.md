@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/main_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2250" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Tesla Model X Standard Range. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Tesla Model X Standard Range, visitez les [chargeinfo](../chargecurve/) pour Tesla Model X Standard Range avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Tesla Model X Standard Range. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Tesla Model X Standard Range, visitez les [chargeinfo](../chargingcurve/) pour Tesla Model X Standard Range avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -601,7 +601,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Inconnu

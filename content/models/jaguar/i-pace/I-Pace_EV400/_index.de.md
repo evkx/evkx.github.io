@@ -108,7 +108,6 @@ Der Jaguar I-Pace EV400 bietet Platz für fünf Passagiere mit zwei Vordersitzen
 Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieben gerecht zu werden:
 
 Die folgenden Funktionen sind für den **Performance**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
@@ -127,7 +126,6 @@ Verfügbar in:
 - Gray [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
 
 Die folgenden Funktionen sind für den **Sport**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
@@ -136,8 +134,7 @@ Die folgenden Funktionen sind für den **Sport**-Sitz verfügbar:
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
 - [Verstellbare Seitenwangen der Rückenlehne](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
-- [Verstellbare Seitenwangen des Sitzkissens](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (optional)
-- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
+[Verstellbare Seitenwangen des Sitzkissens](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (optional)- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 Verfügbar in:
@@ -158,7 +155,6 @@ Sie können zwei Sitztypen für die zweite Reihe im Jaguar I-Pace EV400 wählen.
 Die standard-Option ist eine Drei-Sitz-Bank mit einem 60:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 Die second-Option ist eine Drei-Sitz-Bank mit einem 40:20:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
-
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}

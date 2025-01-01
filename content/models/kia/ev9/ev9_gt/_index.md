@@ -129,7 +129,6 @@ The seat layout is six seats with two in front, two captain chairs in the second
 The Kia EV9 GT offers a single type of front seat.
 
 The following functionalities are available on the ** Premium Relaxion** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -147,7 +146,6 @@ The following functionalities are available on the ** Premium Relaxion** seat:
 #### Second Row Seat
 
 For the second row, this model has two captain chairs. Additional functionalities include:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
 - Height adjustable headrest

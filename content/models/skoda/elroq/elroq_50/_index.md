@@ -114,7 +114,6 @@ The SKODA Elroq 50 accommodates five passengers with two front seats and a three
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **Standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
@@ -129,7 +128,6 @@ Available in:
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 The following functionalities are available on the **Comfort** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
@@ -148,7 +146,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - Height adjustable headrest
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 

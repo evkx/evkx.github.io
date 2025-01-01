@@ -121,7 +121,6 @@ The Volkswagen ID.5 Pro Performance accommodates five passengers with two front 
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
@@ -132,7 +131,6 @@ The following functionalities are available on the **standard** seat:
 Available in:
 
 The following functionalities are available on the **ergoActive Top-Sport** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)

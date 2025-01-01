@@ -132,7 +132,6 @@ The Audi Q4 Sportback 45 e-tron accommodates five passengers with two front seat
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
@@ -150,7 +149,6 @@ Available in:
 - Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 The following functionalities are available on the **sport** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
@@ -176,12 +174,10 @@ Available in:
 You can choose two seat types for the second row in the Audi Q4 Sportback 45 e-tron.
 
 The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
-
 - Height adjustable headrest
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
-
 - Height adjustable headrest
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 

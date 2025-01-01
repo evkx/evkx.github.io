@@ -115,7 +115,6 @@ The BMW i4 eDrive40 accommodates five passengers with two front seats and a thre
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -148,7 +147,6 @@ Available in:
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 
 The following functionalities are available on the **M Sport** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)

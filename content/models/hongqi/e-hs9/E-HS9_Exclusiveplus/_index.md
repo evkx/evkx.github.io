@@ -108,7 +108,6 @@ The seat layout is six seats with two in front, two captain chairs in the second
 The Hongqi E-HS9 Exclusive+ offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - Height adjustable headrest
@@ -123,7 +122,6 @@ Available in:
 #### Second Row Seat
 
 For the second row, this model has two captain chairs. Additional functionalities include:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - Height adjustable headrest

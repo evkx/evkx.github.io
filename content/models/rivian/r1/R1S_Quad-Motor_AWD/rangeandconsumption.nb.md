@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 Rekkevidden vil variere avhengig av flere faktorer. Som hvor fort du kjører, temperaturen, vått eller tørt føre, og hvilket utstyr som er montert. På denne siden finner du et diagram og tabeller med resultatene fra standardtestsykluser som WLTP og EPA, samt estimert rekkevidde i ulike reelle forhold.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/rivian/r1/r1s_quad-motor_awd/range.svg"/>
-<a href="/images/models/rivian/r1/r1s_quad-motor_awd/range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/rivian/r1/r1s_quad-motor_awd/range.svg"/>
+<a href="/images/nb-NO/models/rivian/r1/r1s_quad-motor_awd/range.svg">Full screen</a>
 
 ### Offisielle testsyklusresultater
 

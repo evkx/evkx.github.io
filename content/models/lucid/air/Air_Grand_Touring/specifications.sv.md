@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/main_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Lucid Air Grand Touring. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Lucid Air Grand Touring, gå till [chargeinfo](../chargecurve/) för Lucid Air Grand Touring med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Lucid Air Grand Touring. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Lucid Air Grand Touring, gå till [chargeinfo](../chargingcurve/) för Lucid Air Grand Touring med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -577,7 +577,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

@@ -106,7 +106,6 @@ Jeep Avenger har plass til fem passasjerer med to forseter og en treseters benk 
 Jeep Avenger tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart som tilvalg)

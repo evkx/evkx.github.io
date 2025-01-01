@@ -8,9 +8,9 @@ navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-<img src="/images/models/hyundai/ioniq_5/ioniq_5_n/chargingcurve.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/hyundai/ioniq_5/ioniq_5_n/chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/hyundai/ioniq_5/ioniq_5_n/chargingcurve.svg)
+[Full screen](/images/nb-NO/models/hyundai/ioniq_5/ioniq_5_n/chargingcurve.svg)
 
 
 <div class="table-responsive">
@@ -99,9 +99,9 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
-<img src="/images/models/hyundai/ioniq_5/ioniq_5_n/chargingtime.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/hyundai/ioniq_5/ioniq_5_n/chargingtime.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/hyundai/ioniq_5/ioniq_5_n/chargingtime.svg)
+[Full screen](/images/nb-NO/models/hyundai/ioniq_5/ioniq_5_n/chargingtime.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -140,9 +140,9 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
-<img src="/images/models/hyundai/ioniq_5/ioniq_5_n/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/hyundai/ioniq_5/ioniq_5_n/chargerangespeed.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/hyundai/ioniq_5/ioniq_5_n/chargerangespeed.svg)
+[Full screen](/images/nb-NO/models/hyundai/ioniq_5/ioniq_5_n/chargerangespeed.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

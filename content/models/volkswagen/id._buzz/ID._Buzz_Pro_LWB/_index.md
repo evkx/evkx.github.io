@@ -111,7 +111,6 @@ Volkswagen ID. Buzz Pro LWB is available in a six or seven-seat layout for added
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -126,7 +125,6 @@ Available in:
 - Blue [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 The following functionalities are available on the **comfort** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for driver, not available for passenger)
@@ -151,7 +149,6 @@ You can choose two seat types for the second row in the Volkswagen ID. Buzz Pro 
 The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
 The second option is two captain chairs. Additional functionalities include:
-
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 

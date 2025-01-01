@@ -128,7 +128,6 @@ El Audi Q4 Sportback 45 e-tron acomoda cinco pasajeros con dos asientos delanter
 La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual, ajuste eléctrico como opción)
@@ -146,7 +145,6 @@ Disponible en:
 - Beige [tapicería de cuero sintético](../../../../technology/seats/materials/#leatherette)
 
 Las siguientes funcionalidades están disponibles en el asiento **sport**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual, ajuste eléctrico como opción)
@@ -172,12 +170,10 @@ Disponible en:
 Puede elegir entre dos tipos de asientos para la segunda fila en el Audi Q4 Sportback 45 e-tron.
 
 La opción standard es un banco de tres asientos con una división 60:40 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - Reposacabezas ajustable en altura
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)
 
 La opción second es un banco de tres asientos con una división 40:20:40 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - Reposacabezas ajustable en altura
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)
 

@@ -105,7 +105,6 @@ Le HiPhi Y Performance peut accueillir cinq passagers avec deux sièges à l'ava
 Le HiPhi Y Performance propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - Appuie-tête réglable en hauteur
@@ -124,7 +123,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition , permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - Appuie-tête réglable en hauteur
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (standard pour les sièges extérieurs)
 

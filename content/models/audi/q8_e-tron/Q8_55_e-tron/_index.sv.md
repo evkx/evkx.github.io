@@ -129,7 +129,6 @@ Audi Q8 55 e-tron rymmer fem passagerare med två framsäten och en tresätessof
 Första raden erbjuder fem olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - Höjdjusterbart nackstöd
 - Längsjusterbart nackstöd (tillval)
@@ -138,7 +137,6 @@ Följande funktioner finns tillgängliga på **standard** sätet:
 Finns tillgänglig i:
 
 Följande funktioner finns tillgängliga på **sport** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - Höjdjusterbart nackstöd
 - Längsjusterbart nackstöd (tillval)
@@ -149,7 +147,6 @@ Följande funktioner finns tillgängliga på **sport** sätet:
 Finns tillgänglig i:
 
 Följande funktioner finns tillgängliga på **s-line sport** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - Höjdjusterbart nackstöd
 - Längsjusterbart nackstöd (tillval)
@@ -160,7 +157,6 @@ Följande funktioner finns tillgängliga på **s-line sport** sätet:
 Finns tillgänglig i:
 
 Följande funktioner finns tillgängliga på **s sport** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (tillval)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
@@ -169,7 +165,6 @@ Följande funktioner finns tillgängliga på **s sport** sätet:
 Finns tillgänglig i:
 
 Följande funktioner finns tillgängliga på **multicontour** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - Höjdjusterbart nackstöd
 - Längsjusterbart nackstöd
@@ -177,8 +172,7 @@ Följande funktioner finns tillgängliga på **multicontour** sätet:
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
 - [Justerbart sidostöd ryggstöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justerbart sidostöd sittdyna](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Justerbart sidostöd sittdyna](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
 - [Massage](../../../../technology/seats/adjustment/#massage) (tillval)
 
@@ -189,7 +183,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med 40:20:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - Höjdjusterbart nackstöd
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/secondrowseats_1_st.jpg" title="Audi Q8 55 e-tron" width="3000" height="2250"  >}}

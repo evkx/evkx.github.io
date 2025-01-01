@@ -107,7 +107,6 @@ BMW iX xDrive40 har plads til fem passagerer med to forsæder og en trebænk bag
 BMW iX xDrive40 tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory) (ekstraudstyr)

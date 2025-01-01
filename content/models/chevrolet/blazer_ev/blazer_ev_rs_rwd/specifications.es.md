@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_rwd/main_1_st.jpg" title="Chevrolet Blazer EV RS RWD" width="3000" height="2032" >}}
-EVKX.net busca tener las especificaciones más completas para Chevrolet Blazer EV RS RWD. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Chevrolet Blazer EV RS RWD, visite [chargeinfo](../chargecurve/) para Chevrolet Blazer EV RS RWD con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Chevrolet Blazer EV RS RWD. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Chevrolet Blazer EV RS RWD, visite [chargeinfo](../chargingcurve/) para Chevrolet Blazer EV RS RWD con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -598,7 +598,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Conductor eléctrico estándar, no disponible para el pasajero

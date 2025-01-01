@@ -112,7 +112,6 @@ El Volvo C40 Recharge Single Motor ER acomoda cinco pasajeros con dos asientos d
 El Volvo C40 Recharge Single Motor ER ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
@@ -125,7 +124,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división , que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (estándar para los asientos exteriores)
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/secondrowseats_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}

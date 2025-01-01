@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-4ce4e131
+  translation: Volkswagen ID.5 Pure ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 370 km (230 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-362206b1
   translation: Zeekr 7X Long Range RWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 615 km (382 Meilen). EVKX.net hat alle Details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-53e21be8
   translation: Kia EV9 GT ist ein vollelektrisches SUV mit einer Reichweite von bis zu 505 km (314 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-63d7ac4b
-  translation: Porsche Taycan 4 ist eine vollelektrische Luxus-Limousine mit einer Reichweite von bis zu 643 km (400 Meilen). EVKX.net hat alle Details.
 

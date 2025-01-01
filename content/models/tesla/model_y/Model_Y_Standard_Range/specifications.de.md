@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/main_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2250" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für Tesla Model Y Standard Range zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Tesla Model Y Standard Range, besuchen Sie die [Ladeinformationen](../chargecurve/) für Tesla Model Y Standard Range mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für Tesla Model Y Standard Range zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Tesla Model Y Standard Range, besuchen Sie die [Ladeinformationen](../chargingcurve/) für Tesla Model Y Standard Range mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -865,7 +865,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Standard elektrische Funktion

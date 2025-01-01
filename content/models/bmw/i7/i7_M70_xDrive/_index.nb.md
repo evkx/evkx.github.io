@@ -109,7 +109,6 @@ BMW i7 M70 xDrive har plass til fem passasjerer med to forseter og en treseters 
 BMW i7 M70 xDrive tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory) (valgfritt)
@@ -128,7 +127,6 @@ Du kan velge mellom to setetyper for andre rad i BMW i7 M70 xDrive.
 standard alternativet er en treseter-benk med  deling hvor du kan felle ned hver del separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
 second alternativet er et [executive-sete kombinert med en toseter-benk](../../../../technology/seats/types/#executive-seat--two-seat-bench). Andre funksjoner inkluderer:
-
 - [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massasje](../../../../technology/seats/adjustment/#massage)
 - [Benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support) (standard for yttersetene)

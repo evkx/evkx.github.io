@@ -108,7 +108,6 @@ Sätesupplägget består av sex säten med två fram, två kaptensäten i andra 
 Hongqi E-HS9 Exclusive+ erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - Höjdjusterbart nackstöd
@@ -123,7 +122,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 För andra raden har denna modell två kaptenstolar. Ytterligare funktioner inkluderar:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - Höjdjusterbart nackstöd

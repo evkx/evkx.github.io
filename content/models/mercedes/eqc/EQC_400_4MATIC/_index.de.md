@@ -107,7 +107,6 @@ Der Mercedes-EQ EQC 400 4MATIC bietet Platz für fünf Passagiere mit zwei Vorde
 Der Mercedes-EQ EQC 400 4MATIC bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
 
 Verfügbar in:

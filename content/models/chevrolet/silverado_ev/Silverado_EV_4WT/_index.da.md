@@ -115,7 +115,6 @@ Chevrolet Silverado EV 4WT har plads til fem passagerer med to forsæder og en t
 Chevrolet Silverado EV 4WT tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - Højdejusterbar nakkestøtte
@@ -129,7 +128,6 @@ Fås med:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med  opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - Højdejusterbar nakkestøtte
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}

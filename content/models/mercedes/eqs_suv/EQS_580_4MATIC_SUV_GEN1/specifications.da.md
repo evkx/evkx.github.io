@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/main_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999" >}}
-EVKX.net søger at have de mest komplette specifikationer for Mercedes-EQ EQS 580 4MATIC SUV. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Mercedes-EQ EQS 580 4MATIC SUV, besøg [chargeinfo](../chargecurve/) for Mercedes-EQ EQS 580 4MATIC SUV med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Mercedes-EQ EQS 580 4MATIC SUV. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Mercedes-EQ EQS 580 4MATIC SUV, besøg [chargeinfo](../chargingcurve/) for Mercedes-EQ EQS 580 4MATIC SUV med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -601,7 +601,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt
@@ -746,7 +746,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

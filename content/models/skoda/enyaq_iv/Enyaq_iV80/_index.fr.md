@@ -115,7 +115,6 @@ Le SKODA Enyaq iV80 peut accueillir cinq passagers avec deux sièges à l'avant 
 La première rangée offre deux types de sièges pour répondre à diverses préférences de confort et de style :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - Appuie-tête réglable en hauteur
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
@@ -127,7 +126,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 Disponible en :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (standard pour le conducteur, non disponible pour le passager)

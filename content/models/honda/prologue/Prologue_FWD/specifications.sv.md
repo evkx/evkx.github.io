@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/main_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2018" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Honda Prologue FWD. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Honda Prologue FWD, gå till [chargeinfo](../chargecurve/) för Honda Prologue FWD med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Honda Prologue FWD. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Honda Prologue FWD, gå till [chargeinfo](../chargingcurve/) för Honda Prologue FWD med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -566,7 +566,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk förare, inte tillgänglig för passagerare

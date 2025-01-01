@@ -118,7 +118,6 @@ The Zeekr 7X Standard Range RWD accommodates five passengers with two front seat
 The Zeekr 7X Standard Range RWD offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -144,14 +143,12 @@ Available in:
 You can choose two seat types for the second row in the Zeekr 7X Standard Range RWD.
 
 The standard option is a three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
-
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 The second option is an [executive seat combined with a two-seat bench](../../../../technology/seats/types/#executive-seat--two-seat-bench). Additional functionalities include:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)

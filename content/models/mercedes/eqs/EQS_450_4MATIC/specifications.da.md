@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/main_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="2000" >}}
-EVKX.net søger at have de mest komplette specifikationer for Mercedes-EQ EQS 450 4MATIC. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Mercedes-EQ EQS 450 4MATIC, besøg [chargeinfo](../chargecurve/) for Mercedes-EQ EQS 450 4MATIC med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Mercedes-EQ EQS 450 4MATIC. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Mercedes-EQ EQS 450 4MATIC, besøg [chargeinfo](../chargingcurve/) for Mercedes-EQ EQS 450 4MATIC med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -601,7 +601,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt
@@ -746,7 +746,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Renault Megane E-Tech Techno. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Renault Megane E-Tech Techno, gå till [chargeinfo](../chargecurve/) för Renault Megane E-Tech Techno med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Renault Megane E-Tech Techno. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Renault Megane E-Tech Techno, gå till [chargeinfo](../chargingcurve/) för Renault Megane E-Tech Techno med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -569,7 +569,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

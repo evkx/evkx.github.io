@@ -111,7 +111,6 @@ Volkswagen ID. Buzz Pro LWB finns tillgänglig med sex eller sju säten för ök
 Första raden erbjuder två olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - Höjdjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
@@ -126,7 +125,6 @@ Finns tillgänglig i:
 - Blue [tygklädsel](../../../../technology/seats/materials/#fabric)
 
 Följande funktioner finns tillgängliga på **comfort** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, ej tillgänglig för passagerare)
@@ -151,7 +149,6 @@ Du kan välja mellan två olika sätesvarianter för andra raden i Volkswagen ID
 standard-alternativet är en tresätesoffa med 60:40 delning där du kan fälla varje sektion separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
 second-alternativet är två kaptenstolar. Ytterligare funktioner inkluderar:
-
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 

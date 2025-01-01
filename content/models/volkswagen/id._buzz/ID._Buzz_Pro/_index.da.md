@@ -111,7 +111,6 @@ Volkswagen ID. Buzz Pro har plads til fem passagerer med to forsæder og en treb
 Forreste række tilbyder to sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - Højdejusterbar nakkestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)
@@ -126,7 +125,6 @@ Fås med:
 - Blue [stofbetræk](../../../../technology/seats/materials/#fabric)
 
 Følgende funktioner er tilgængelige på **comfort** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)

@@ -109,7 +109,6 @@ Lucid Air Pure har plass til fem passasjerer med to forseter og en treseters ben
 Lucid Air Pure tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - Lengdejusterbar hodestøtte
@@ -124,7 +123,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med 60:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/secondrowseats_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}

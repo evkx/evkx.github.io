@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_comfort/main_1_st.jpg" title="Hongqi E-HS9 Comfort" width="3000" height="2050" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für Hongqi E-HS9 Comfort zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Hongqi E-HS9 Comfort, besuchen Sie die [Ladeinformationen](../chargecurve/) für Hongqi E-HS9 Comfort mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für Hongqi E-HS9 Comfort zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Hongqi E-HS9 Comfort, besuchen Sie die [Ladeinformationen](../chargingcurve/) für Hongqi E-HS9 Comfort mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -561,7 +561,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Unbekannt

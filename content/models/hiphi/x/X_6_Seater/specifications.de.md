@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/main_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für HiPhi X 6 Seater zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von HiPhi X 6 Seater, besuchen Sie die [Ladeinformationen](../chargecurve/) für HiPhi X 6 Seater mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für HiPhi X 6 Seater zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von HiPhi X 6 Seater, besuchen Sie die [Ladeinformationen](../chargingcurve/) für HiPhi X 6 Seater mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -473,7 +473,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Unbekannt

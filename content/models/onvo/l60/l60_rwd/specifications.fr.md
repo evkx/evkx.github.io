@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/onvo/l60/l60_rwd/main_1_st.jpg" title="Onvo L60 RWD" width="2232" height="1360" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Onvo L60 RWD. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Onvo L60 RWD, visitez les [chargeinfo](../chargecurve/) pour Onvo L60 RWD avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Onvo L60 RWD. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Onvo L60 RWD, visitez les [chargeinfo](../chargingcurve/) pour Onvo L60 RWD avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -617,7 +617,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Fonction électrique standard

@@ -137,7 +137,6 @@ Este modelo ofrece una disposición de cuatro asientos o una disposición opcion
 La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfortseats with memory**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -167,7 +166,6 @@ Disponible en:
 - Black/Beige [tapicería de cuero Nappa](../../../../technology/seats/materials/#leather)
 
 Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Plus**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -177,8 +175,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
 - [Ajuste de los soportes laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Ajuste de los soportes laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Ajuste de los soportes laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilación](../../../../technology/seats/adjustment/#ventilation)
 
 Disponible en:
@@ -207,13 +204,11 @@ Disponible en:
 Puede elegir entre dos tipos de asientos para la segunda fila en el Porsche Taycan GTS.
 
 La opción standard es dos asientos integrados en la segunda fila. Las funcionalidades adicionales incluyen:
-
 - Reposacabezas ajustable en altura
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (opcional)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 La opción second es dos asientos integrados en la segunda fila con un tercer asiento más pequeño en el medio. Las funcionalidades adicionales incluyen:
-
 - Reposacabezas ajustable en altura
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)
 

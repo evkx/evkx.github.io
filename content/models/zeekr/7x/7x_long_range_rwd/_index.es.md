@@ -118,7 +118,6 @@ El Zeekr 7X Long Range RWD acomoda cinco pasajeros con dos asientos delanteros y
 El Zeekr 7X Long Range RWD ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -144,14 +143,12 @@ Disponible en:
 Puede elegir entre dos tipos de asientos para la segunda fila en el Zeekr 7X Long Range RWD.
 
 La opción standard es un banco de tres asientos con una división 40:60 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - Reposacabezas ajustable en altura
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (estándar para los asientos exteriores)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)
 
 La opción second es un [asiento ejecutivo combinado con un banco de dos asientos](../../../../technology/seats/types/#executive-seat--two-seat-bench). Las funcionalidades adicionales incluyen:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (estándar para los asientos exteriores)

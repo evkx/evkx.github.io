@@ -112,7 +112,6 @@ The seat layout is seven seats with two in front, three seats in the second row 
 The Tesla Model X Standard Range offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)

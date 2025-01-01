@@ -102,7 +102,6 @@ Seteoppsettet er to seter foran og to seter bak.
 Dacia Spring 65HP tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 
@@ -115,7 +114,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Følgende funksjoner er tilgjengelig på **** setet:
-
 - Høydejusterbar hodestøtte
 
 Tilgjengelig i:

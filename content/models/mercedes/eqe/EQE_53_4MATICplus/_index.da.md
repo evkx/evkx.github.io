@@ -112,7 +112,6 @@ Mercedes-AMG EQE 53 4MATIC+ har plads til fem passagerer med to forsæder og en 
 Forreste række tilbyder to sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - Højdejusterbar nakkestøtte
@@ -124,7 +123,6 @@ Følgende funktioner er tilgængelige på **standard** sædet:
 Fås med:
 
 Følgende funktioner er tilgængelige på **multicontour** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - Højdejusterbar nakkestøtte
 - Længdejusterbar nakkestøtte
@@ -143,7 +141,6 @@ Fås med:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med 40:20:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - Højdejusterbar nakkestøtte
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/secondrowseats_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2000"  >}}

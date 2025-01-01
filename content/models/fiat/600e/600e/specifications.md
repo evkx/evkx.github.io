@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/fiat/600e/600e/main_1_st.jpg" title="Fiat 600e" width="3000" height="2001" >}}
-EVKX.net seeks to have the most complete specifications for Fiat 600e. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Fiat 600e, visit the [chargeinfo](../chargecurve/) for Fiat 600e with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Fiat 600e. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Fiat 600e, visit the [chargeinfo](../chargingcurve/) for Fiat 600e with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -537,7 +537,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Not Available

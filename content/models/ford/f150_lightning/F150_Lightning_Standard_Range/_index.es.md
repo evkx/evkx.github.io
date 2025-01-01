@@ -107,7 +107,6 @@ El Ford F150 Lightning Standard Range acomoda cinco pasajeros con dos asientos d
 El Ford F150 Lightning Standard Range ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (opcional)

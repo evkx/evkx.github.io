@@ -129,7 +129,6 @@ The Honda Prologue FWD accommodates five passengers with two front seats and a t
 The Honda Prologue FWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
-
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable for driver, not available for passenger)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -147,7 +146,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - Height adjustable headrest
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)

@@ -108,7 +108,6 @@ Volvo EX90 Twin Motor har plass til fem passasjerer med to forseter og en treset
 Volvo EX90 Twin Motor tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
@@ -128,7 +127,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med 40:60 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)

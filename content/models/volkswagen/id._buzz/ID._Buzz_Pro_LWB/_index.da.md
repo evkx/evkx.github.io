@@ -111,7 +111,6 @@ Volkswagen ID. Buzz Pro LWB fås i en seks- eller syvsæders opsætning for øge
 Forreste række tilbyder to sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - Højdejusterbar nakkestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)
@@ -126,7 +125,6 @@ Fås med:
 - Blue [stofbetræk](../../../../technology/seats/materials/#fabric)
 
 Følgende funktioner er tilgængelige på **comfort** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
@@ -151,7 +149,6 @@ Du kan vælge mellem to sædetyper til anden række i Volkswagen ID. Buzz Pro LW
 standard muligheden er en tresæders bænk med 60:40 opdeling, hvor du kan folde hver sektion separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
 second muligheden er to kaptajnstole. Yderligere funktioner inkluderer:
-
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 

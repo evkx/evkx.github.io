@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/main_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2248" >}}
-EVKX.net søger at have de mest komplette specifikationer for Maserati Grecale Folgore. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Maserati Grecale Folgore, besøg [chargeinfo](../chargecurve/) for Maserati Grecale Folgore med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Maserati Grecale Folgore. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Maserati Grecale Folgore, besøg [chargeinfo](../chargingcurve/) for Maserati Grecale Folgore med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -593,7 +593,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

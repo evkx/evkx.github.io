@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/main_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1688" >}}
-EVKX.net søger at have de mest komplette specifikationer for MG Cyberster AWD Long Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af MG Cyberster AWD Long Range, besøg [chargeinfo](../chargecurve/) for MG Cyberster AWD Long Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for MG Cyberster AWD Long Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af MG Cyberster AWD Long Range, besøg [chargeinfo](../chargingcurve/) for MG Cyberster AWD Long Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -496,7 +496,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

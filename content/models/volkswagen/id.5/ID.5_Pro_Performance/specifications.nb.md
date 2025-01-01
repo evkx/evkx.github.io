@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro_performance/main_1_st.jpg" title="Volkswagen ID.5 Pro Performance" width="3000" height="2000" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.5 Pro Performance. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Volkswagen ID.5 Pro Performance, gå til [chargeinfo](../chargecurve/) for Volkswagen ID.5 Pro Performance med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.5 Pro Performance. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Volkswagen ID.5 Pro Performance, gå til [chargeinfo](../chargingcurve/) for Volkswagen ID.5 Pro Performance med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -742,7 +742,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -887,7 +887,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ukjent

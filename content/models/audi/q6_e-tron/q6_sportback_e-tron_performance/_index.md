@@ -137,7 +137,6 @@ The Audi Q6 Sportback e-tron performance accommodates five passengers with two f
 The front row offers three seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **Normal** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
@@ -151,7 +150,6 @@ Available in:
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 The following functionalities are available on the **Sport** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
@@ -170,7 +168,6 @@ Available in:
 - Red [leather upholstering](../../../../technology/seats/materials/#leather)
 
 The following functionalities are available on the **Sport Plus** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -193,7 +190,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 ### Interior Storage

@@ -101,7 +101,6 @@ Zeekr X Long Range RWD har plads til fem passagerer med to forsæder og en treb�
 Zeekr X Long Range RWD tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuelt justerbar)
@@ -118,7 +117,6 @@ Fås med:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med  opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/secondrowseats_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}

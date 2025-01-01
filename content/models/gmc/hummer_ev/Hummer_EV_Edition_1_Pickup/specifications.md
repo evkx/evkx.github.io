@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for GMC Hummer EV Edition 1 Pickup. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of GMC Hummer EV Edition 1 Pickup, visit the [chargeinfo](../chargecurve/) for GMC Hummer EV Edition 1 Pickup with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for GMC Hummer EV Edition 1 Pickup. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of GMC Hummer EV Edition 1 Pickup, visit the [chargeinfo](../chargingcurve/) for GMC Hummer EV Edition 1 Pickup with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -585,7 +585,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Not Available

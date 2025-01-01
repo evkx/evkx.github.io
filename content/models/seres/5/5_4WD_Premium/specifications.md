@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/main_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707" >}}
-EVKX.net seeks to have the most complete specifications for Seres 5 4WD Premium. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Seres 5 4WD Premium, visit the [chargeinfo](../chargecurve/) for Seres 5 4WD Premium with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Seres 5 4WD Premium. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Seres 5 4WD Premium, visit the [chargeinfo](../chargingcurve/) for Seres 5 4WD Premium with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -550,7 +550,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

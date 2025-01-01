@@ -103,7 +103,6 @@ XPENG G9 RWD Standard Range har plads til fem passagerer med to forsæder og en 
 XPENG G9 RWD Standard Range tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -112,8 +111,7 @@ Følgende funktioner er tilgængelige på **** sædet:
 - [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [Justerbar sidestøtte i ryglæn](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justerbar sidestøtte i sædehynde](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Justerbar sidestøtte i sædehynde](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
@@ -127,7 +125,6 @@ Fås med:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med 60:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 

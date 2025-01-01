@@ -130,7 +130,6 @@ Kia EV9 RWD finns tillgänglig med sex eller sju säten för ökad mångsidighet
 Första raden erbjuder två olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
 Följande funktioner finns tillgängliga på **8 Way** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
@@ -143,7 +142,6 @@ Följande funktioner finns tillgängliga på **8 Way** sätet:
 - [Massage](../../../../technology/seats/adjustment/#massage) (standard för förare, ej tillgänglig för passagerare)
 
 Följande funktioner finns tillgängliga på **Premium Relaxion** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
@@ -163,14 +161,12 @@ Följande funktioner finns tillgängliga på **Premium Relaxion** sätet:
 Du kan välja mellan tre olika sätesvarianter för andra raden i Kia EV9 RWD.
 
 standard-alternativet är en tresätesoffa med 60:40 delning där du kan fälla varje sektion separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - Höjdjusterbart nackstöd
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttersäten)
 
 second-alternativet är två kaptenstolar. Ytterligare funktioner inkluderar:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
 - Höjdjusterbart nackstöd
@@ -180,7 +176,6 @@ second-alternativet är två kaptenstolar. Ytterligare funktioner inkluderar:
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 third-alternativet är två kaptenstolar. Ytterligare funktioner inkluderar:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - Höjdjusterbart nackstöd

@@ -106,7 +106,6 @@ El Volvo EC40 Single Motor acomoda cinco pasajeros con dos asientos delanteros y
 El Volvo EC40 Single Motor ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
@@ -119,7 +118,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división , que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (estándar para los asientos exteriores)
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/secondrowseats_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}

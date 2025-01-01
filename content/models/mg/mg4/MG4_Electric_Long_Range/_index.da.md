@@ -101,7 +101,6 @@ MG MG4 Electric Long Range har plads til fem passagerer med to forsæder og en t
 MG MG4 Electric Long Range tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)

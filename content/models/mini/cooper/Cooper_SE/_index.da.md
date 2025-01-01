@@ -99,7 +99,6 @@ Sædeopsætningen er to sæder foran og to sæder bagpå.
 Mini Cooper SE tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)

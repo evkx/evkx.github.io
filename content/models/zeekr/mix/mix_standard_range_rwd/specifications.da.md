@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/zeekr/mix/mix_standard_range_rwd/main_1_st.jpg" title="Zeekr MIX Standard Range RWD" width="3000" height="1999" >}}
-EVKX.net søger at have de mest komplette specifikationer for Zeekr MIX Standard Range RWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Zeekr MIX Standard Range RWD, besøg [chargeinfo](../chargecurve/) for Zeekr MIX Standard Range RWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Zeekr MIX Standard Range RWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Zeekr MIX Standard Range RWD, besøg [chargeinfo](../chargingcurve/) for Zeekr MIX Standard Range RWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -537,7 +537,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

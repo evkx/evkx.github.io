@@ -111,7 +111,6 @@ El BYD Seal RWD acomoda cinco pasajeros con dos asientos delanteros y un banco d
 El BYD Seal RWD ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -127,7 +126,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división 60:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - Reposacabezas ajustable en altura
 
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/secondrowseats_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}

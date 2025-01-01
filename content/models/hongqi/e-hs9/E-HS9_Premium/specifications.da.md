@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg" title="Hongqi E-HS9 Premium" width="3000" height="2050" >}}
-EVKX.net søger at have de mest komplette specifikationer for Hongqi E-HS9 Premium. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Hongqi E-HS9 Premium, besøg [chargeinfo](../chargecurve/) for Hongqi E-HS9 Premium med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Hongqi E-HS9 Premium. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Hongqi E-HS9 Premium, besøg [chargeinfo](../chargingcurve/) for Hongqi E-HS9 Premium med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -561,7 +561,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

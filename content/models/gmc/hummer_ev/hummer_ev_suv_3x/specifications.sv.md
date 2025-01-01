@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/main_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för GMC Hummer EV SUV 3x. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av GMC Hummer EV SUV 3x, gå till [chargeinfo](../chargecurve/) för GMC Hummer EV SUV 3x med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för GMC Hummer EV SUV 3x. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av GMC Hummer EV SUV 3x, gå till [chargeinfo](../chargingcurve/) för GMC Hummer EV SUV 3x med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -609,7 +609,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt

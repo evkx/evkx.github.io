@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_53_4maticplus_suv/main_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+ SUV" width="3000" height="2001" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für Mercedes-AMG EQE 53 4MATIC+ SUV zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Mercedes-AMG EQE 53 4MATIC+ SUV, besuchen Sie die [Ladeinformationen](../chargecurve/) für Mercedes-AMG EQE 53 4MATIC+ SUV mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für Mercedes-AMG EQE 53 4MATIC+ SUV zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Mercedes-AMG EQE 53 4MATIC+ SUV, besuchen Sie die [Ladeinformationen](../chargingcurve/) für Mercedes-AMG EQE 53 4MATIC+ SUV mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -649,7 +649,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Unbekannt
@@ -794,7 +794,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Unbekannt

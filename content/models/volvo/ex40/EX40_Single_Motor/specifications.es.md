@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor/main_1_st.jpg" title="Volvo EX40 Single Motor" width="1920" height="1080" >}}
-EVKX.net busca tener las especificaciones más completas para Volvo EX40 Single Motor. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Volvo EX40 Single Motor, visite [chargeinfo](../chargecurve/) para Volvo EX40 Single Motor con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Volvo EX40 Single Motor. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Volvo EX40 Single Motor, visite [chargeinfo](../chargingcurve/) para Volvo EX40 Single Motor con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -606,7 +606,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Desconocido

@@ -107,7 +107,6 @@ Ford F150 Lightning Standard Range har plads til fem passagerer med to forsæder
 Ford F150 Lightning Standard Range tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ekstraudstyr)

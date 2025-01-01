@@ -106,7 +106,6 @@ Le Hyundai Ioniq 6 Long Range AWD peut accueillir cinq passagers avec deux sièg
 Le Hyundai Ioniq 6 Long Range AWD propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - Appuie-tête réglable en hauteur
@@ -125,7 +124,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition 60:40, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (standard pour les sièges extérieurs)
 

@@ -114,7 +114,6 @@ Lotus Eletre har plads til fem passagerer med to forsæder og en trebænk bagtil
 Lotus Eletre tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -137,7 +136,6 @@ Fås med:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med 40:20:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/secondrowseats_1_st.jpg" title="Lotus Eletre" width="3000" height="1856"  >}}

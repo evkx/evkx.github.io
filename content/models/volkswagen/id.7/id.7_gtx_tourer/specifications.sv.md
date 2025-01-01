@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/main_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.7 GTX Tourer. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Volkswagen ID.7 GTX Tourer, gå till [chargeinfo](../chargecurve/) för Volkswagen ID.7 GTX Tourer med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.7 GTX Tourer. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Volkswagen ID.7 GTX Tourer, gå till [chargeinfo](../chargingcurve/) för Volkswagen ID.7 GTX Tourer med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -609,7 +609,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd
@@ -754,7 +754,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

@@ -109,7 +109,6 @@ Le Lucid Air Dream Edition Performance peut accueillir cinq passagers avec deux 
 Le Lucid Air Dream Edition Performance propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - Appuie-tête réglable en longueur
@@ -128,7 +127,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition 60:40, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (standard pour les sièges extérieurs)
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/secondrowseats_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2077"  >}}

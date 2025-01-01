@@ -107,7 +107,6 @@ Die Sitzanordnung besteht aus zwei Sitzen vorne und zwei Sitzen hinten.
 Der HiPhi Z 4 Seater bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
@@ -127,7 +126,6 @@ Verfügbar in:
 #### Rücksitzreihe
 
 Für die zweite Reihe hat dieses Modell zwei [Executive-Sitze](../../../../technology/seats/types/#twin-executive-seats). Zusätzliche Funktionen umfassen:
-
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)

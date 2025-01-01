@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/main_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2250" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für Volvo EX30 Single Motor Extended Range zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Volvo EX30 Single Motor Extended Range, besuchen Sie die [Ladeinformationen](../chargecurve/) für Volvo EX30 Single Motor Extended Range mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für Volvo EX30 Single Motor Extended Range zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Volvo EX30 Single Motor Extended Range, besuchen Sie die [Ladeinformationen](../chargingcurve/) für Volvo EX30 Single Motor Extended Range mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -598,7 +598,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Standardfunktion

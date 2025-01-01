@@ -112,7 +112,6 @@ Volkswagen ID.3 GTX Performance har plass til fem passasjerer med to forseter og
 Første seterad tilbyr to setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbart)
@@ -125,7 +124,6 @@ Tilgjengelig i:
 - Black [stofftrekk](../../../../technology/seats/materials/#fabric)
 
 Følgende funksjoner er tilgjengelig på **ergoActive** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -147,7 +145,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med 40:60 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - Høydejusterbar hodestøtte
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 

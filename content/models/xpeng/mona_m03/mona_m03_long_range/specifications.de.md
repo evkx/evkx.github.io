@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/xpeng/mona_m03/mona_m03_long_range/main_1_st.jpg" title="XPENG Mona M03 Long Range" width="3000" height="2250" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für XPENG Mona M03 Long Range zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von XPENG Mona M03 Long Range, besuchen Sie die [Ladeinformationen](../chargecurve/) für XPENG Mona M03 Long Range mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für XPENG Mona M03 Long Range zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von XPENG Mona M03 Long Range, besuchen Sie die [Ladeinformationen](../chargingcurve/) für XPENG Mona M03 Long Range mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -542,7 +542,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Nicht verfügbar

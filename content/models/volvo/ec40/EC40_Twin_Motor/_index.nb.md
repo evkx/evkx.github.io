@@ -106,7 +106,6 @@ Volvo EC40 Twin Motor har plass til fem passasjerer med to forseter og en treset
 Volvo EC40 Twin Motor tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
@@ -119,7 +118,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med  deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_twin_motor/secondrowseats_1_st.jpg" title="Volvo EC40 Twin Motor" width="3000" height="2000"  >}}

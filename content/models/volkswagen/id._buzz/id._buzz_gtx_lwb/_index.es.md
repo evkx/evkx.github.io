@@ -109,7 +109,6 @@ El Volkswagen ID. Buzz GTX LWB está disponible en una disposición de seis o si
 La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - Reposacabezas ajustable en altura
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
@@ -124,7 +123,6 @@ Disponible en:
 - Blue [tapicería de tela](../../../../technology/seats/materials/#fabric)
 
 Las siguientes funcionalidades están disponibles en el asiento **comfort**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory) (estándar para el conductor, no disponible para el pasajero)
@@ -149,7 +147,6 @@ Puede elegir entre dos tipos de asientos para la segunda fila en el Volkswagen I
 La opción standard es un banco de tres asientos con una división 60:40 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
 La opción second es dos asientos tipo capitán. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 

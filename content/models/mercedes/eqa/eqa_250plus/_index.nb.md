@@ -108,7 +108,6 @@ Mercedes-EQ EQA 250+ har plass til fem passasjerer med to forseter og en tresete
 Første seterad tilbyr to setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - Høydejusterbar hodestøtte
@@ -121,7 +120,6 @@ Følgende funksjoner er tilgjengelig på **standard** setet:
 Tilgjengelig i:
 
 Følgende funksjoner er tilgjengelig på **multicontour** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - Høydejusterbar hodestøtte
 - Lengdejusterbar hodestøtte
@@ -140,7 +138,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med 40:20:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - Høydejusterbar hodestøtte
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/secondrowseats_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}

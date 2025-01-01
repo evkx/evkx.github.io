@@ -118,7 +118,6 @@ El Porsche Macan 4S acomoda cinco pasajeros con dos asientos delanteros y un ban
 La primera fila ofrece tres tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfortseats**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -128,7 +127,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Comfortseats**
 - [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment) (opcional)
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfortseats with memory**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -141,7 +139,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Comfortseats w
 Disponible en:
 
 Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Plus**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -150,8 +147,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
 - [Ajuste de los soportes laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (ajuste eléctrico)
-- [Ajuste de los soportes laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (ajuste eléctrico)
-- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment) (ajuste eléctrico)
+[Ajuste de los soportes laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (ajuste eléctrico)- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment) (ajuste eléctrico)
 - [Ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
 - [Masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 

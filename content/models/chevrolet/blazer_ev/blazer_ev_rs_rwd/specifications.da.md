@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_rwd/main_1_st.jpg" title="Chevrolet Blazer EV RS RWD" width="3000" height="2032" >}}
-EVKX.net søger at have de mest komplette specifikationer for Chevrolet Blazer EV RS RWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Chevrolet Blazer EV RS RWD, besøg [chargeinfo](../chargecurve/) for Chevrolet Blazer EV RS RWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Chevrolet Blazer EV RS RWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Chevrolet Blazer EV RS RWD, besøg [chargeinfo](../chargingcurve/) for Chevrolet Blazer EV RS RWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -598,7 +598,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk fører, ikke tilgængelig for passager

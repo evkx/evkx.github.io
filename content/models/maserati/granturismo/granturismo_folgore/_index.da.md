@@ -117,7 +117,6 @@ Sædeopsætningen er to sæder foran og to sæder bagpå.
 Maserati GranTurismo Folgore tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **Sport** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -135,7 +134,6 @@ Fås med:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med  opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - Højdejusterbar nakkestøtte
 
 {{< sitefiguresized thumb="models/maserati/granturismo/granturismo_folgore/secondrowseats_1_st.jpg" title="Maserati GranTurismo Folgore" width="3000" height="2074"  >}}

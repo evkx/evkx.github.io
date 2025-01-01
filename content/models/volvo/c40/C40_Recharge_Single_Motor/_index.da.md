@@ -112,7 +112,6 @@ Volvo C40 Recharge Single Motor har plads til fem passagerer med to forsæder og
 Volvo C40 Recharge Single Motor tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
@@ -125,7 +124,6 @@ Fås med:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med  opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/secondrowseats_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}

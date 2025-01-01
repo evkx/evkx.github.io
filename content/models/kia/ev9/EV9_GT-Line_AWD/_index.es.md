@@ -133,7 +133,6 @@ El Kia EV9 GT-Line AWD está disponible en una disposición de seis o siete asie
 El Kia EV9 GT-Line AWD ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ** Premium Relaxion**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -154,7 +153,6 @@ Las siguientes funcionalidades están disponibles en el asiento ** Premium Relax
 Puede elegir entre tres tipos de asientos para la segunda fila en el Kia EV9 GT-Line AWD.
 
 La opción standard es un banco de tres asientos con una división 60:40 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 - Reposacabezas ajustable en altura
@@ -163,7 +161,6 @@ La opción standard es un banco de tres asientos con una división 60:40 donde s
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)
 
 La opción second es dos asientos tipo capitán. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste eléctrico)
 - Reposacabezas ajustable en altura
@@ -173,7 +170,6 @@ La opción second es dos asientos tipo capitán. Las funcionalidades adicionales
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 La opción third es dos asientos tipo capitán. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 - Reposacabezas ajustable en altura

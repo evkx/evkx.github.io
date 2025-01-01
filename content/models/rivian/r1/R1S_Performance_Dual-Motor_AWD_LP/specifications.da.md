@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/main_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="2880" height="1920" >}}
-EVKX.net søger at have de mest komplette specifikationer for Rivian R1S Performance Dual-Motor AWD LP. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Rivian R1S Performance Dual-Motor AWD LP, besøg [chargeinfo](../chargecurve/) for Rivian R1S Performance Dual-Motor AWD LP med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Rivian R1S Performance Dual-Motor AWD LP. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Rivian R1S Performance Dual-Motor AWD LP, besøg [chargeinfo](../chargingcurve/) for Rivian R1S Performance Dual-Motor AWD LP med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -510,7 +510,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

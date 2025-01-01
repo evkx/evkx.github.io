@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/id._unyx/main_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1687" >}}
-EVKX.net søger at have de mest komplette specifikationer for Volkswagen Id. UNYX. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Volkswagen Id. UNYX, besøg [chargeinfo](../chargecurve/) for Volkswagen Id. UNYX med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Volkswagen Id. UNYX. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Volkswagen Id. UNYX, besøg [chargeinfo](../chargingcurve/) for Volkswagen Id. UNYX med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -537,7 +537,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

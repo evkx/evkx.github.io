@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_40_e-tron/main_1_st.jpg" title="Audi Q4 40 e-tron" width="3000" height="1998" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 40 e-tron. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Audi Q4 40 e-tron, gå til [chargeinfo](../chargecurve/) for Audi Q4 40 e-tron med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 40 e-tron. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Audi Q4 40 e-tron, gå til [chargeinfo](../chargingcurve/) for Audi Q4 40 e-tron med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -766,7 +766,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standardfunksjon, valgfri elektrisk
@@ -911,7 +911,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standardfunksjon, valgfri elektrisk

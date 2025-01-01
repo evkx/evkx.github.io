@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/nio/el8/el8/main_1_st.jpg" title="Nio EL8" width="3000" height="3000" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Nio EL8. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Nio EL8, gå til [chargeinfo](../chargecurve/) for Nio EL8 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Nio EL8. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Nio EL8, gå til [chargeinfo](../chargingcurve/) for Nio EL8 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -761,7 +761,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

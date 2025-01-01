@@ -240,6 +240,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Gehe zu Alfa Romeo EV-Modellübersicht</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="alpine/"><img src="https://media.evkx.net/multimedia/models/alpine/brandevs_st.jpg" class="img-fluid mb-2" alt="Alpine" ></a>
 	<h2>Alpine</h2>
 	<p>
 		Alpine ist eine französische Sportwagenmarke, die 1955 von Jean Rédélé gegründet wurde und sich zunächst auf leichte, agile Sportwagen spezialisierte. Bekannt für ihre Verbindung mit Renault, erlangte Alpine in den 1960er und 70er Jahren Berühmtheit mit ihrem rallyesiegenden A110 Berlinette, gefeiert für ihr wendiges Handling und ihren Erfolg im Motorsport, insbesondere bei Veranstaltungen wie der Rallye Monte Carlo.
@@ -330,6 +331,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	<a href="dacia/" class="btn btn-outline-primary" role="button">Gehe zu Dacia EV-Modellübersicht</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="dongfeng/"><img src="https://media.evkx.net/multimedia/models/dongfeng/brandevs_st.jpg" class="img-fluid mb-2" alt="Dongfeng" ></a>
 	<h2>Dongfeng</h2>
 	<p>
 		Die Dongfeng Motor Corporation, gegründet 1969, ist einer der größten und einflussreichsten Automobilhersteller Chinas. Bekannt für seine vielfältige Fahrzeugpalette, darunter Pkw, Nutzfahrzeuge und Elektrofahrzeuge, ist Dongfeng sowohl im Inland als auch international stark vertreten. Mit einem starken Fokus auf Innovation hat das Unternehmen sein Angebot an Elektrofahrzeugen erweitert und strebt an, führend in der nachhaltigen Mobilität zu sein.
@@ -364,7 +366,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	<a href="fisker/" class="btn btn-outline-primary" role="button">Gehe zu Fisker EV-Modellübersicht</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpeg" class="img-fluid mb-2" alt="Ford" ></a>
+	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpg" class="img-fluid mb-2" alt="Ford" ></a>
 	<h2>Ford</h2>
 	<p>
 	Ford hat 5 Modelle mit insgesamt 13 Varianten.
@@ -439,6 +441,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	<a href="jeep/" class="btn btn-outline-primary" role="button">Gehe zu Jeep EV-Modellübersicht</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="kgm/"><img src="https://media.evkx.net/multimedia/models/kgm/brandevs_st.jpg" class="img-fluid mb-2" alt="KGM" ></a>
 	<h2>KGM</h2>
 	<p>
 	KGM hat 1 Modelle mit insgesamt 1 Varianten.
@@ -465,6 +468,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	<a href="lancia/" class="btn btn-outline-primary" role="button">Gehe zu Lancia EV-Modellübersicht</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="leapmotor/"><img src="https://media.evkx.net/multimedia/models/leapmotor/brandevs_st.jpg" class="img-fluid mb-2" alt="Leapmotor" ></a>
 	<h2>Leapmotor</h2>
 	<p>
 		Leapmotor ist ein chinesischer Hersteller von Elektrofahrzeugen (EV), der 2015 gegründet wurde. Bekannt für erschwingliche, technologiegetriebene Autos wie den T03-Stadtwagen und den C11-SUV, legt Leapmotor Wert auf die interne Entwicklung von Kern-EV-Technologien, einschließlich Antriebssträngen und autonomem Fahren, und zielt auf den wachsenden EV-Markt in China ab.
@@ -726,7 +730,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	<a href="volkswagen/"><img src="https://media.evkx.net/multimedia/models/volkswagen/brandevs_st.jpg" class="img-fluid mb-2" alt="Volkswagen" ></a>
 	<h2>Volkswagen</h2>
 	<p>
-	Volkswagen hat 6 Modelle mit insgesamt 28 Varianten.
+	Volkswagen hat 6 Modelle mit insgesamt 29 Varianten.
 	</p>
 	<a href="volkswagen/" class="btn btn-outline-primary" role="button">Gehe zu Volkswagen EV-Modellübersicht</a>
 </div>

@@ -137,7 +137,6 @@ El Audi Q6 Sportback e-tron performance acomoda cinco pasajeros con dos asientos
 La primera fila ofrece tres tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **Normal**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual)
@@ -151,7 +150,6 @@ Disponible en:
 - Black [tapicería de tela](../../../../technology/seats/materials/#fabric)
 
 Las siguientes funcionalidades están disponibles en el asiento **Sport**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual, ajuste eléctrico como opción)
@@ -170,7 +168,6 @@ Disponible en:
 - Red [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
 Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -193,7 +190,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división 40:20:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para los asientos exteriores)
 
 ### Almacenamiento Interior

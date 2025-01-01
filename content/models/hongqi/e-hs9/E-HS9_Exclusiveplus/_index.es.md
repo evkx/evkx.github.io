@@ -108,7 +108,6 @@ La disposición de asientos es de seis plazas con dos asientos delanteros, dos a
 El Hongqi E-HS9 Exclusive+ ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - Reposacabezas ajustable en altura
@@ -123,7 +122,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 Para la segunda fila, este modelo tiene dos asientos tipo capitán. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - Reposacabezas ajustable en altura

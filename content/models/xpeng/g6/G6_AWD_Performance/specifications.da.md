@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/xpeng/g6/g6_awd_performance/main_1_st.jpg" title="XPENG G6 AWD Performance" width="2560" height="1498" >}}
-EVKX.net søger at have de mest komplette specifikationer for XPENG G6 AWD Performance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af XPENG G6 AWD Performance, besøg [chargeinfo](../chargecurve/) for XPENG G6 AWD Performance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for XPENG G6 AWD Performance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af XPENG G6 AWD Performance, besøg [chargeinfo](../chargingcurve/) for XPENG G6 AWD Performance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -598,7 +598,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ikke tilgængelig

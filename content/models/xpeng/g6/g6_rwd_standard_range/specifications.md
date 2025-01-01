@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/main_1_st.jpg" title="XPENG G6 RWD Standard Range" width="2560" height="1498" >}}
-EVKX.net seeks to have the most complete specifications for XPENG G6 RWD Standard Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of XPENG G6 RWD Standard Range, visit the [chargeinfo](../chargecurve/) for XPENG G6 RWD Standard Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for XPENG G6 RWD Standard Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of XPENG G6 RWD Standard Range, visit the [chargeinfo](../chargingcurve/) for XPENG G6 RWD Standard Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -590,7 +590,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Not Available

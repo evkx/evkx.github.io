@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="1999" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Citroën ë-C4 X. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Citroën ë-C4 X, visitez les [chargeinfo](../chargecurve/) pour Citroën ë-C4 X avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Citroën ë-C4 X. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Citroën ë-C4 X, visitez les [chargeinfo](../chargingcurve/) pour Citroën ë-C4 X avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -553,7 +553,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Non disponible

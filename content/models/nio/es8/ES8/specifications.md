@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/nio/es8/es8/main_1_st.jpg" title="Nio ES8" width="2880" height="1792" >}}
-EVKX.net seeks to have the most complete specifications for Nio ES8. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio ES8, visit the [chargeinfo](../chargecurve/) for Nio ES8 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Nio ES8. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio ES8, visit the [chargeinfo](../chargingcurve/) for Nio ES8 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -673,7 +673,7 @@ This model is available with a seat configuration with six or seven seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

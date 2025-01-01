@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/acura/zdx/zdx_a-spec_rwd/main_1_st.jpg" title="Acura ZDX A-Spec RWD" width="3000" height="1758" >}}
-EVKX.net søger at have de mest komplette specifikationer for Acura ZDX A-Spec RWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Acura ZDX A-Spec RWD, besøg [chargeinfo](../chargecurve/) for Acura ZDX A-Spec RWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Acura ZDX A-Spec RWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Acura ZDX A-Spec RWD, besøg [chargeinfo](../chargingcurve/) for Acura ZDX A-Spec RWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -553,7 +553,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

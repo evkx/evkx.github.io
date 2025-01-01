@@ -106,7 +106,6 @@ El Volvo EX30 Single Motor acomoda cinco pasajeros con dos asientos delanteros y
 El Volvo EX30 Single Motor ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual)
 - [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajuste manual)
@@ -124,7 +123,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división , que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (estándar para los asientos exteriores)
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/secondrowseats_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2250"  >}}

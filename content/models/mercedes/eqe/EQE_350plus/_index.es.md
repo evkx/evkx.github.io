@@ -113,7 +113,6 @@ El Mercedes-EQ EQE 350+ acomoda cinco pasajeros con dos asientos delanteros y un
 La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - Reposacabezas ajustable en altura
@@ -125,7 +124,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**:
 Disponible en:
 
 Las siguientes funcionalidades están disponibles en el asiento **multicontour**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - Reposacabezas ajustable en altura
 - Reposacabezas ajustable en longitud
@@ -144,7 +142,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división 40:20:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - Reposacabezas ajustable en altura
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>

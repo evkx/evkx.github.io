@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/main_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for Alfa Romeo Junior. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Alfa Romeo Junior, visit the [chargeinfo](../chargecurve/) for Alfa Romeo Junior with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Alfa Romeo Junior. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Alfa Romeo Junior, visit the [chargeinfo](../chargingcurve/) for Alfa Romeo Junior with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -529,7 +529,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Not Available

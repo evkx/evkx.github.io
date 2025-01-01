@@ -107,7 +107,6 @@ MG MG4 Electric Standard har plads til fem passagerer med to forsæder og en tre
 MG MG4 Electric Standard tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
@@ -122,7 +121,6 @@ Fås med:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med 60:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/secondrowseats_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}

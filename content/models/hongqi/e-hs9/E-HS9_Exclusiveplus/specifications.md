@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/main_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="2050" >}}
-EVKX.net seeks to have the most complete specifications for Hongqi E-HS9 Exclusive+. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hongqi E-HS9 Exclusive+, visit the [chargeinfo](../chargecurve/) for Hongqi E-HS9 Exclusive+ with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Hongqi E-HS9 Exclusive+. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hongqi E-HS9 Exclusive+, visit the [chargeinfo](../chargingcurve/) for Hongqi E-HS9 Exclusive+ with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -553,7 +553,7 @@ This model is available with a seat configuration with six seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

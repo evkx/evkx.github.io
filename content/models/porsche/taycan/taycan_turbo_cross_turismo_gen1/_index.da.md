@@ -121,7 +121,6 @@ Denne model tilbyder en firesæders opsætning eller en valgfri 4+1 opsætning.
 Forreste række tilbyder tre sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
 Følgende funktioner er tilgængelige på **Comfort** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
@@ -129,7 +128,6 @@ Følgende funktioner er tilgængelige på **Comfort** sædet:
 Fås med:
 
 Følgende funktioner er tilgængelige på **Comfortseats with memory** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
@@ -138,14 +136,12 @@ Følgende funktioner er tilgængelige på **Comfortseats with memory** sædet:
 Fås med:
 
 Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [Justerbar sidestøtte i ryglæn](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justerbar sidestøtte i sædehynde](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Justerbar sidestøtte i sædehynde](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (ekstraudstyr)
 
@@ -158,7 +154,6 @@ Fås med:
 Du kan vælge mellem to sædetyper til anden række i Porsche Taycan Turbo Cross Turismo (GEN1).
 
 standard muligheden er to integrerede sæder i anden række. Yderligere funktioner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
 
 second muligheden er to integrerede sæder i anden række med et tredje mindre sæde i midten. Yderligere funktioner inkluderer:

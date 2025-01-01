@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2001" >}}
-EVKX.net søger at have de mest komplette specifikationer for Hyundai Ioniq 6 Long Range RWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Hyundai Ioniq 6 Long Range RWD, besøg [chargeinfo](../chargecurve/) for Hyundai Ioniq 6 Long Range RWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Hyundai Ioniq 6 Long Range RWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Hyundai Ioniq 6 Long Range RWD, besøg [chargeinfo](../chargingcurve/) for Hyundai Ioniq 6 Long Range RWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -614,7 +614,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

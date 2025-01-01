@@ -108,7 +108,6 @@ Kia EV3 Long Range har plass til fem passasjerer med to forseter og en treseters
 Kia EV3 Long Range tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - Høydejusterbar hodestøtte
@@ -129,7 +128,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med 60:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)
 

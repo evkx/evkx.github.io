@@ -109,7 +109,6 @@ Die Sitzanordnung besteht aus sechs Sitzen mit zwei vorne, zwei Kapitänssitzen 
 Der HiPhi X 6 Seater bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
@@ -126,7 +125,6 @@ Verfügbar in:
 #### Rücksitzreihe
 
 Für die zweite Reihe hat dieses Modell zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
-
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)

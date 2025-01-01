@@ -13,8 +13,8 @@ Die Reichweite variiert je nach mehreren Faktoren. Wie schnell Sie fahren, die T
 
 Die Reichweite variiert je nach mehreren Faktoren. Wie schnell Sie fahren, die Temperatur, nasse oder trockene Straße und die ausgestattete Ausrüstung. Auf dieser Seite finden Sie ein Diagramm und Tabellen mit den Standardtestzyklus-Ergebnissen wie WLTP und EPA sowie geschätzte reale Reichweiten in verschiedenen Umgebungen.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/onvo/l60/l60_rwd/range_1.svg"/>
-<a href="/images/models/onvo/l60/l60_rwd/range_1.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/onvo/l60/l60_rwd/range_1.svg"/>
+<a href="/images/nb-NO/models/onvo/l60/l60_rwd/range_1.svg">Full screen</a>
 
 ### Offizielle Testergebnisse
 
@@ -98,8 +98,8 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 </table>
 </div>
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/onvo/l60/l60_rwd/range_2.svg"/>
-<a href="/images/models/onvo/l60/l60_rwd/range_2.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/onvo/l60/l60_rwd/range_2.svg"/>
+<a href="/images/nb-NO/models/onvo/l60/l60_rwd/range_2.svg">Full screen</a>
 
 ### Offizielle Testergebnisse
 

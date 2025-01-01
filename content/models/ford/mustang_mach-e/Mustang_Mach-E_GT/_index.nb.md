@@ -106,7 +106,6 @@ Ford Mustang Mach-E GT har plass til fem passasjerer med to forseter og en trese
 Ford Mustang Mach-E GT tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -124,7 +123,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med  deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - Høydejusterbar hodestøtte
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}

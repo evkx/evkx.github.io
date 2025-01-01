@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/main_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1500" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Genesis Electrified GV70. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Genesis Electrified GV70, gå til [chargeinfo](../chargecurve/) for Genesis Electrified GV70 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Genesis Electrified GV70. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Genesis Electrified GV70, gå til [chargeinfo](../chargingcurve/) for Genesis Electrified GV70 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -598,7 +598,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ukjent

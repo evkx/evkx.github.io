@@ -113,7 +113,6 @@ Hyundai IONIQ 9 AWD Performance er tilgjengelig med seks eller syv seter for øk
 Hyundai IONIQ 9 AWD Performance tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - Høydejusterbar hodestøtte
@@ -137,7 +136,6 @@ Tilgjengelig i:
 Du kan velge mellom tre setetyper for andre rad i Hyundai IONIQ 9 AWD Performance.
 
 standard alternativet er en treseter-benk med 60:40 deling hvor du kan felle ned hver del separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - Høydejusterbar hodestøtte
@@ -145,12 +143,10 @@ standard alternativet er en treseter-benk med 60:40 deling hvor du kan felle ned
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
 second alternativet er to kapteinsseter. Andre funksjoner inkluderer:
-
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 
 third alternativet er to kapteinsseter. Andre funksjoner inkluderer:
-
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)

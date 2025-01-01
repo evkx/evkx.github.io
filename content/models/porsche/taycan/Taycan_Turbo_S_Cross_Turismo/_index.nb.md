@@ -115,7 +115,6 @@ Denne modellen tilbyr et fireseterslayout eller et valgfritt 4+1-layout.
 Første seterad tilbyr to setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
 Følgende funksjoner er tilgjengelig på **Comfortseats with memory** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
@@ -124,14 +123,12 @@ Følgende funksjoner er tilgjengelig på **Comfortseats with memory** setet:
 Tilgjengelig i:
 
 Følgende funksjoner er tilgjengelig på **Sportsseats Plus** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
 - [Justerbar sidestøtte rygg](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
 - [Massasje](../../../../technology/seats/adjustment/#massage) (valgfritt)
 
@@ -144,7 +141,6 @@ Tilgjengelig i:
 Du kan velge mellom to setetyper for andre rad i Porsche Taycan Turbo S Cross Turismo.
 
 standard alternativet er to integrerte seter i andre rad. Andre funksjoner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (valgfritt)
 
 second alternativet er to integrerte seter i andre rad med et tredje mindre sete imellom. Andre funksjoner inkluderer:

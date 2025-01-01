@@ -124,7 +124,6 @@ Ford Puma Gen-E har plass til fem passasjerer med to forseter og en treseters be
 Ford Puma Gen-E tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - Høydejusterbar hodestøtte (manuelt justerbart)
@@ -139,7 +138,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med  deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - Høydejusterbar hodestøtte (manuelt justerbart)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 

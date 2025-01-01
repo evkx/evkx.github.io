@@ -121,7 +121,6 @@ BMW i5 eDrive40 Touring har plass til fem passasjerer med to forseter og en tres
 Første seterad tilbyr to setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
 Følgende funksjoner er tilgjengelig på **Sport** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
@@ -135,7 +134,6 @@ Følgende funksjoner er tilgjengelig på **Sport** setet:
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passasjersete)
 
 Følgende funksjoner er tilgjengelig på **Comfort seats** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -153,7 +151,6 @@ Følgende funksjoner er tilgjengelig på **Comfort seats** setet:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med 40:20:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/secondrowseats_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}

@@ -130,7 +130,6 @@ Audi Q4 Sportback 55 e-tron quattro har plass til fem passasjerer med to forsete
 Første seterad tilbyr to setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
@@ -148,7 +147,6 @@ Tilgjengelig i:
 - Beige [kunstskinntrekk](../../../../technology/seats/materials/#leatherette)
 
 Følgende funksjoner er tilgjengelig på **sport** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
@@ -174,12 +172,10 @@ Tilgjengelig i:
 Du kan velge mellom to setetyper for andre rad i Audi Q4 Sportback 55 e-tron quattro.
 
 standard alternativet er en treseter-benk med 60:40 deling hvor du kan felle ned hver del separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - Høydejusterbar hodestøtte
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
 second alternativet er en treseter-benk med 40:20:40 deling hvor du kan felle ned hver del separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - Høydejusterbar hodestøtte
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 

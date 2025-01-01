@@ -118,7 +118,6 @@ Le Porsche Macan 4S peut accueillir cinq passagers avec deux sièges à l'avant 
 La première rangée offre trois types de sièges pour répondre à diverses préférences de confort et de style :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -128,7 +127,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats** :
 - [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optionnel)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats with memory** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -141,7 +139,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats wit
 Disponible en :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -150,8 +147,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [Réglage des renforts latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (réglable électriquement)
-- [Réglage des renforts latéraux de l'assise](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (réglable électriquement)
-- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (réglable électriquement)
+[Réglage des renforts latéraux de l'assise](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (réglable électriquement)- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (réglable électriquement)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 

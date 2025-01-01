@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/main_1_st.jpg" title="MG Marvel R Electric Performance" width="2560" height="1708" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for MG Marvel R Electric Performance. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av MG Marvel R Electric Performance, gå til [chargeinfo](../chargecurve/) for MG Marvel R Electric Performance med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for MG Marvel R Electric Performance. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av MG Marvel R Electric Performance, gå til [chargeinfo](../chargingcurve/) for MG Marvel R Electric Performance med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -545,7 +545,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_long_range/main_1_st.jpg" title="XPENG G6 RWD Long Range" width="2560" height="1498" >}}
-EVKX.net busca tener las especificaciones más completas para XPENG G6 RWD Long Range. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de XPENG G6 RWD Long Range, visite [chargeinfo](../chargecurve/) para XPENG G6 RWD Long Range con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para XPENG G6 RWD Long Range. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de XPENG G6 RWD Long Range, visite [chargeinfo](../chargingcurve/) para XPENG G6 RWD Long Range con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -606,7 +606,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				No disponible

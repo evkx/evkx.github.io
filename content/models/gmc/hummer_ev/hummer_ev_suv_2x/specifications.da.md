@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_2x/main_1_st.jpg" title="GMC Hummer EV SUV 2x" width="3000" height="2000" >}}
-EVKX.net søger at have de mest komplette specifikationer for GMC Hummer EV SUV 2x. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af GMC Hummer EV SUV 2x, besøg [chargeinfo](../chargecurve/) for GMC Hummer EV SUV 2x med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for GMC Hummer EV SUV 2x. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af GMC Hummer EV SUV 2x, besøg [chargeinfo](../chargingcurve/) for GMC Hummer EV SUV 2x med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -617,7 +617,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ikke tilgængelig

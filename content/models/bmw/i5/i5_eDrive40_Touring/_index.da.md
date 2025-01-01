@@ -121,7 +121,6 @@ BMW i5 eDrive40 Touring har plads til fem passagerer med to forsæder og en treb
 Forreste række tilbyder to sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
 Følgende funktioner er tilgængelige på **Sport** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
@@ -135,7 +134,6 @@ Følgende funktioner er tilgængelige på **Sport** sædet:
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passagersæde)
 
 Følgende funktioner er tilgængelige på **Comfort seats** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -153,7 +151,6 @@ Følgende funktioner er tilgængelige på **Comfort seats** sædet:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med 40:20:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/secondrowseats_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}

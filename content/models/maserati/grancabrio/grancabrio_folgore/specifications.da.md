@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/main_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1850" >}}
-EVKX.net søger at have de mest komplette specifikationer for Maserati GranCabrio Folgore. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Maserati GranCabrio Folgore, besøg [chargeinfo](../chargecurve/) for Maserati GranCabrio Folgore med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Maserati GranCabrio Folgore. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Maserati GranCabrio Folgore, besøg [chargeinfo](../chargingcurve/) for Maserati GranCabrio Folgore med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -545,7 +545,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

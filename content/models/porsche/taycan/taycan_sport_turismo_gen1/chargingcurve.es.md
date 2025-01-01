@@ -12,9 +12,9 @@ Este modelo está disponible con múltiples baterías. A continuación, encontra
 
 ### 79,2 kWh Performance Battery
 
-<img src="/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingcurve_1.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/chargingcurve_1.svg)
 
 
 <div class="table-responsive">
@@ -103,9 +103,9 @@ Este modelo está disponible con múltiples baterías. A continuación, encontra
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime_1.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -144,9 +144,9 @@ Este modelo está disponible con múltiples baterías. A continuación, encontra
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargerangespeed_1.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/chargerangespeed_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1670,9 +1670,9 @@ Porsche Taycan Sport Turismo (GEN1) tiene calefacción de batería, lo que facil
 
 ### 93,4 kWh Performance Battery Plus
 
-<img src="/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingcurve_2.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/chargingcurve_2.svg)
 
 
 <div class="table-responsive">
@@ -1761,9 +1761,9 @@ Porsche Taycan Sport Turismo (GEN1) tiene calefacción de batería, lo que facil
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime_2.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1802,9 +1802,9 @@ Porsche Taycan Sport Turismo (GEN1) tiene calefacción de batería, lo que facil
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargerangespeed_2.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/chargerangespeed_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

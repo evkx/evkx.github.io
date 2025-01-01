@@ -115,7 +115,6 @@ BMW i4 M50 rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 Första raden erbjuder två olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - Höjdjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
@@ -148,7 +147,6 @@ Finns tillgänglig i:
 - Black [skinnklädsel](../../../../technology/seats/materials/#leather)
 
 Följande funktioner finns tillgängliga på **M Sport** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - Höjdjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)

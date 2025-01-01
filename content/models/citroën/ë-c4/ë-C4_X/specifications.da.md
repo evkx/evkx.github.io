@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="1999" >}}
-EVKX.net søger at have de mest komplette specifikationer for Citroën ë-C4 X. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Citroën ë-C4 X, besøg [chargeinfo](../chargecurve/) for Citroën ë-C4 X med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Citroën ë-C4 X. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Citroën ë-C4 X, besøg [chargeinfo](../chargingcurve/) for Citroën ë-C4 X med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -553,7 +553,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ikke tilgængelig

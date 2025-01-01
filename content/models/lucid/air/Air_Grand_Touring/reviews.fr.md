@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons des critiques de nos [critiques en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Lucid Air Highway Assist Shows The Limits of Pre-Mapped Systems In Our Challenging Highway ADAS Test</h3>
+<p>Out of Spec Reviews: 27.12.2024</p>
+
+{{< youtube S8zSz5OXl4o >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The Lucid Air Touring Has A Surprising Result In Our Road Trip 10% Challenge, Twice!</h3>
 <p>Out of Spec Testing: 11.12.2024</p>
 

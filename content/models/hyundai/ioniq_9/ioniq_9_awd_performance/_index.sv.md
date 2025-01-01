@@ -113,7 +113,6 @@ Hyundai IONIQ 9 AWD Performance finns tillgänglig med sex eller sju säten för
 Hyundai IONIQ 9 AWD Performance erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - Höjdjusterbart nackstöd
@@ -137,7 +136,6 @@ Finns tillgänglig i:
 Du kan välja mellan tre olika sätesvarianter för andra raden i Hyundai IONIQ 9 AWD Performance.
 
 standard-alternativet är en tresätesoffa med 60:40 delning där du kan fälla varje sektion separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - Höjdjusterbart nackstöd
@@ -145,12 +143,10 @@ standard-alternativet är en tresätesoffa med 60:40 delning där du kan fälla 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttersäten)
 
 second-alternativet är två kaptenstolar. Ytterligare funktioner inkluderar:
-
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 
 third-alternativet är två kaptenstolar. Ytterligare funktioner inkluderar:
-
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)

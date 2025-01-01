@@ -114,7 +114,6 @@ Mini Countryman SE ALL4 har plass til fem passasjerer med to forseter og en tres
 Første seterad tilbyr to setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
 Følgende funksjoner er tilgjengelig på **Standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Varme](../../../../technology/seats/adjustment/#heating)
@@ -127,7 +126,6 @@ Følgende funksjoner er tilgjengelig på **Standard** setet:
 Tilgjengelig i:
 
 Følgende funksjoner er tilgjengelig på **Sport** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating)
@@ -144,7 +142,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med 40:20:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 
 {{< sitefiguresized thumb="models/mini/countryman/countryman_se_all4/secondrowseats_1_st.jpg" title="Mini Countryman SE ALL4" width="3000" height="2000"  >}}

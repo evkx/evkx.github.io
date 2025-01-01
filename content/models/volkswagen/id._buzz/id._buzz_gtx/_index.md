@@ -109,7 +109,6 @@ The Volkswagen ID. Buzz GTX accommodates five passengers with two front seats an
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -124,7 +123,6 @@ Available in:
 - Blue [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 The following functionalities are available on the **comfort** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for driver, not available for passenger)

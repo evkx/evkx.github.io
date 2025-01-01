@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/main_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1999" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für Mercedes-EQ EQS 450+ SUV zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Mercedes-EQ EQS 450+ SUV, besuchen Sie die [Ladeinformationen](../chargecurve/) für Mercedes-EQ EQS 450+ SUV mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für Mercedes-EQ EQS 450+ SUV zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Mercedes-EQ EQS 450+ SUV, besuchen Sie die [Ladeinformationen](../chargingcurve/) für Mercedes-EQ EQS 450+ SUV mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -601,7 +601,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Unbekannt
@@ -746,7 +746,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Unbekannt

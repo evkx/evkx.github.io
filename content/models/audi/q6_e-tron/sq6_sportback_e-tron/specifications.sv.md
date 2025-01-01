@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_sportback_e-tron/main_1_st.jpg" title="Audi SQ6 Sportback e-tron" width="3000" height="2250" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Audi SQ6 Sportback e-tron. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Audi SQ6 Sportback e-tron, gå till [chargeinfo](../chargecurve/) för Audi SQ6 Sportback e-tron med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Audi SQ6 Sportback e-tron. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Audi SQ6 Sportback e-tron, gå till [chargeinfo](../chargingcurve/) för Audi SQ6 Sportback e-tron med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -860,7 +860,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standardfunktion, valfri elektrisk
@@ -1005,7 +1005,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

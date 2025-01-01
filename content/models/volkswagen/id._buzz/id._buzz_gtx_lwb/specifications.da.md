@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/main_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="1999" >}}
-EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID. Buzz GTX LWB. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Volkswagen ID. Buzz GTX LWB, besøg [chargeinfo](../chargecurve/) for Volkswagen ID. Buzz GTX LWB med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID. Buzz GTX LWB. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Volkswagen ID. Buzz GTX LWB, besøg [chargeinfo](../chargingcurve/) for Volkswagen ID. Buzz GTX LWB med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -585,7 +585,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt
@@ -730,7 +730,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/nio/es8/es8/main_1_st.jpg" title="Nio ES8" width="2880" height="1792" >}}
-EVKX.net søger at have de mest komplette specifikationer for Nio ES8. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Nio ES8, besøg [chargeinfo](../chargecurve/) for Nio ES8 med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Nio ES8. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Nio ES8, besøg [chargeinfo](../chargingcurve/) for Nio ES8 med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -673,7 +673,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

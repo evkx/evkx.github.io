@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/main_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="3000" height="1997" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för GMC Sierra EV Denali Edition 1. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av GMC Sierra EV Denali Edition 1, gå till [chargeinfo](../chargecurve/) för GMC Sierra EV Denali Edition 1 med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för GMC Sierra EV Denali Edition 1. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av GMC Sierra EV Denali Edition 1, gå till [chargeinfo](../chargingcurve/) för GMC Sierra EV Denali Edition 1 med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -593,7 +593,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

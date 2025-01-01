@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/main_1_st.jpg" title="Neta GT 580 AWD" width="3000" height="1484" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Neta GT 580 AWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Neta GT 580 AWD, gå til [chargeinfo](../chargecurve/) for Neta GT 580 AWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Neta GT 580 AWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Neta GT 580 AWD, gå til [chargeinfo](../chargingcurve/) for Neta GT 580 AWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -470,7 +470,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ikke tilgjengelig

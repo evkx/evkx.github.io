@@ -118,7 +118,6 @@ Le Mercedes-Maybach EQS 680 SUV est disponible en configuration standard à cinq
 Le Mercedes-Maybach EQS 680 SUV propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **multicontour** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - Appuie-tête réglable en hauteur
 - Appuie-tête réglable en longueur
@@ -137,7 +136,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 Pour la deuxième rangée, ce modèle dispose de deux [sièges exécutifs](../../../../technology/seats/types/#twin-executive-seats). Fonctionnalités supplémentaires :
-
 - Appuie-tête réglable en hauteur
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)

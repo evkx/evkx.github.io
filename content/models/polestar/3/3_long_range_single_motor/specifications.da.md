@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/main_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2250" >}}
-EVKX.net søger at have de mest komplette specifikationer for Polestar 3 Long Range Single Motor. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Polestar 3 Long Range Single Motor, besøg [chargeinfo](../chargecurve/) for Polestar 3 Long Range Single Motor med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Polestar 3 Long Range Single Motor. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Polestar 3 Long Range Single Motor, besøg [chargeinfo](../chargingcurve/) for Polestar 3 Long Range Single Motor med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -625,7 +625,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

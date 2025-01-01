@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_350_4matic/main_1_st.jpg" title="Mercedes-EQ EQB 350 4MATIC" width="3000" height="1999" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Mercedes-EQ EQB 350 4MATIC. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Mercedes-EQ EQB 350 4MATIC, gå till [chargeinfo](../chargecurve/) för Mercedes-EQ EQB 350 4MATIC med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Mercedes-EQ EQB 350 4MATIC. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Mercedes-EQ EQB 350 4MATIC, gå till [chargeinfo](../chargingcurve/) för Mercedes-EQ EQB 350 4MATIC med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -569,7 +569,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd
@@ -714,7 +714,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_quattro/main_1_st.jpg" title="Audi A6 Sportback e-tron quattro" width="3000" height="2250" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Audi A6 Sportback e-tron quattro. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Audi A6 Sportback e-tron quattro, gå till [chargeinfo](../chargecurve/) för Audi A6 Sportback e-tron quattro med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Audi A6 Sportback e-tron quattro. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Audi A6 Sportback e-tron quattro, gå till [chargeinfo](../chargingcurve/) för Audi A6 Sportback e-tron quattro med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -868,7 +868,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standardfunktion, valfri elektrisk
@@ -1013,7 +1013,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

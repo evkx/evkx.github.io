@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt_weissach/main_1_st.jpg" title="Porsche Taycan Turbo GT Weissach" width="3000" height="1687" >}}
-EVKX.net seeks to have the most complete specifications for Porsche Taycan Turbo GT Weissach. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan Turbo GT Weissach, visit the [chargeinfo](../chargecurve/) for Porsche Taycan Turbo GT Weissach with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Porsche Taycan Turbo GT Weissach. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan Turbo GT Weissach, visit the [chargeinfo](../chargingcurve/) for Porsche Taycan Turbo GT Weissach with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -632,7 +632,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown
@@ -777,7 +777,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

@@ -113,7 +113,6 @@ Xiaomi SU7 Pro har plass til fem passasjerer med to forseter og en treseters ben
 Xiaomi SU7 Pro tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbart)
@@ -131,7 +130,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med  deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - Høydejusterbar hodestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)
 

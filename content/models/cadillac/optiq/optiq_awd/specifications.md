@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cadillac/optiq/main_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2250" >}}
-EVKX.net seeks to have the most complete specifications for Cadillac OPTIQ AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Cadillac OPTIQ AWD, visit the [chargeinfo](../chargecurve/) for Cadillac OPTIQ AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Cadillac OPTIQ AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Cadillac OPTIQ AWD, visit the [chargeinfo](../chargingcurve/) for Cadillac OPTIQ AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -542,7 +542,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Standard electric feature

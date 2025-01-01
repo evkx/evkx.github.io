@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/main_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2100" height="1400" >}}
-EVKX.net søger at have de mest komplette specifikationer for Rivian R1T Performance Dual-Motor AWD MP. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Rivian R1T Performance Dual-Motor AWD MP, besøg [chargeinfo](../chargecurve/) for Rivian R1T Performance Dual-Motor AWD MP med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Rivian R1T Performance Dual-Motor AWD MP. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Rivian R1T Performance Dual-Motor AWD MP, besøg [chargeinfo](../chargingcurve/) for Rivian R1T Performance Dual-Motor AWD MP med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -558,7 +558,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

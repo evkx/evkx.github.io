@@ -137,7 +137,6 @@ Audi Q6 e-tron quattro har plass til fem passasjerer med to forseter og en trese
 Første seterad tilbyr tre setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
 Følgende funksjoner er tilgjengelig på **Normal** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbart)
@@ -151,7 +150,6 @@ Tilgjengelig i:
 - Black [stofftrekk](../../../../technology/seats/materials/#fabric)
 
 Følgende funksjoner er tilgjengelig på **Sport** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
@@ -170,7 +168,6 @@ Tilgjengelig i:
 - Red [skinntrekk](../../../../technology/seats/materials/#leather)
 
 Følgende funksjoner er tilgjengelig på **Sport Plus** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -193,7 +190,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med 40:20:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}

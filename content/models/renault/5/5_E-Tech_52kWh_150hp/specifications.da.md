@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/main_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688" >}}
-EVKX.net søger at have de mest komplette specifikationer for Renault 5 E-Tech 52kWh 150hp. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Renault 5 E-Tech 52kWh 150hp, besøg [chargeinfo](../chargecurve/) for Renault 5 E-Tech 52kWh 150hp med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Renault 5 E-Tech 52kWh 150hp. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Renault 5 E-Tech 52kWh 150hp, besøg [chargeinfo](../chargingcurve/) for Renault 5 E-Tech 52kWh 150hp med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -529,7 +529,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

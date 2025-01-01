@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/nio/et9/et9/main_1_st.jpg" title="Nio ET9" width="2560" height="1360" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Nio ET9. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Nio ET9, visitez les [chargeinfo](../chargecurve/) pour Nio ET9 avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Nio ET9. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Nio ET9, visitez les [chargeinfo](../chargingcurve/) pour Nio ET9 avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -513,7 +513,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Fonction électrique standard

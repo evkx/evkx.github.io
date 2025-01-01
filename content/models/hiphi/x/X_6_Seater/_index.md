@@ -109,7 +109,6 @@ The seat layout is six seats with two in front, two captain chairs in the second
 The HiPhi X 6 Seater offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -126,7 +125,6 @@ Available in:
 #### Second Row Seat
 
 For the second row, this model has two captain chairs. Additional functionalities include:
-
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)

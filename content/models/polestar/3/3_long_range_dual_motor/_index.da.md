@@ -105,7 +105,6 @@ Polestar 3 Long Range Dual Motor har plads til fem passagerer med to forsæder o
 Polestar 3 Long Range Dual Motor tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
@@ -126,7 +125,6 @@ Fås med:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med 40:60 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor/secondrowseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor" width="3000" height="2248"  >}}

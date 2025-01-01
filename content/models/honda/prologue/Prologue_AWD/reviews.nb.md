@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi samler anmeldelser fra våre [favoritt nettanmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The 2024 Honda Prologue Elite Is An Unexpectedly Popular SUV That Needs More Honda DNA</h3>
+<p>Redline Reviews: 28.12.2024</p>
+
+{{< youtube KbIdQyIgtVw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The 2024 Honda Prologue Is Fine, But Not Great</h3>
 <p>Doug DeMuro: 08.10.2024</p>
 

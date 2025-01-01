@@ -102,7 +102,6 @@ La disposition des sièges est de deux sièges à l'avant et deux sièges à l'a
 Le Dacia Spring 65HP propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 
@@ -115,7 +114,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 Les fonctionnalités suivantes sont disponibles sur le siège **** :
-
 - Appuie-tête réglable en hauteur
 
 Disponible en :

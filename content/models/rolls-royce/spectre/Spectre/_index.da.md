@@ -105,7 +105,6 @@ Sædeopsætningen er to sæder foran og to sæder bagpå.
 Rolls-Royce Spectre tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -132,7 +131,6 @@ Fås med:
 #### Anden række sæder
 
 Til anden række har denne model to [komfortsæder](../../../../technology/seats/types/#twin-executive-seats). Yderligere funktioner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
 - [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/opel/mokka/mokka_electric/main_1_st.jpeg" title="Opel Mokka Electric" width="1920" height="1280" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Opel Mokka Electric. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Opel Mokka Electric, visitez les [chargeinfo](../chargecurve/) pour Opel Mokka Electric avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Opel Mokka Electric. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Opel Mokka Electric, visitez les [chargeinfo](../chargingcurve/) pour Opel Mokka Electric avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -537,7 +537,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Non disponible

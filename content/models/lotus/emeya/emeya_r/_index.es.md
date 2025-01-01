@@ -114,7 +114,6 @@ Este modelo ofrece una disposición de cuatro asientos o una disposición opcion
 El Lotus Emeya R ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -139,7 +138,6 @@ Disponible en:
 Puede elegir entre dos tipos de asientos para la segunda fila en el Lotus Emeya R.
 
 La opción standard es un banco de tres asientos con una división 40:20:40 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 
 La opción second es dos [asientos ejecutivos](../../../../technology/seats/types/#twin-executive-seats). Las funcionalidades adicionales incluyen:

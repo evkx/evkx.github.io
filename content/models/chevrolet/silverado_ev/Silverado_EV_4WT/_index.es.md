@@ -115,7 +115,6 @@ El Chevrolet Silverado EV 4WT acomoda cinco pasajeros con dos asientos delantero
 El Chevrolet Silverado EV 4WT ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 - Reposacabezas ajustable en altura
@@ -129,7 +128,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división , que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - Reposacabezas ajustable en altura
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}

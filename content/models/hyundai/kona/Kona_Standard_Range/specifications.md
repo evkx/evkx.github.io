@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/main_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="1999" >}}
-EVKX.net seeks to have the most complete specifications for Hyundai Kona Standard Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Kona Standard Range, visit the [chargeinfo](../chargecurve/) for Hyundai Kona Standard Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Hyundai Kona Standard Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Kona Standard Range, visit the [chargeinfo](../chargingcurve/) for Hyundai Kona Standard Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -537,7 +537,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

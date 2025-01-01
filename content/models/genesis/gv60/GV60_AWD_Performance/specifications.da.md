@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/main_1_st.jpg" title="Genesis GV60 AWD Performance" width="3000" height="1688" >}}
-EVKX.net søger at have de mest komplette specifikationer for Genesis GV60 AWD Performance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Genesis GV60 AWD Performance, besøg [chargeinfo](../chargecurve/) for Genesis GV60 AWD Performance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Genesis GV60 AWD Performance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Genesis GV60 AWD Performance, besøg [chargeinfo](../chargingcurve/) for Genesis GV60 AWD Performance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -574,7 +574,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

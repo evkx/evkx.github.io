@@ -105,7 +105,6 @@ Die Sitzanordnung besteht aus zwei Sitzen vorne und zwei Sitzen hinten.
 Der Rolls-Royce Spectre bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
@@ -132,7 +131,6 @@ Verfügbar in:
 #### Rücksitzreihe
 
 Für die zweite Reihe hat dieses Modell zwei [Executive-Sitze](../../../../technology/seats/types/#twin-executive-seats). Zusätzliche Funktionen umfassen:
-
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)

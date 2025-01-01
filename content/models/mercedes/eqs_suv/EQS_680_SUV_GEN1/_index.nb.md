@@ -118,7 +118,6 @@ Mercedes-Maybach EQS 680 SUV er tilgjengelig i standard femseterskonfigurasjon, 
 Mercedes-Maybach EQS 680 SUV tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **multicontour** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - Høydejusterbar hodestøtte
 - Lengdejusterbar hodestøtte
@@ -137,7 +136,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 For andre seterad har denne modellen [doble executive-seter](../../../../technology/seats/types/#twin-executive-seats). Andre funksjoner inkluderer:
-
 - Høydejusterbar hodestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating) (valgfritt)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)

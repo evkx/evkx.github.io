@@ -108,7 +108,6 @@ Jaguar I-Pace EV400 har plass til fem passasjerer med to forseter og en treseter
 Første seterad tilbyr to setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
 Følgende funksjoner er tilgjengelig på **Performance** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -127,7 +126,6 @@ Tilgjengelig i:
 - Gray [stofftrekk](../../../../technology/seats/materials/#fabric)
 
 Følgende funksjoner er tilgjengelig på **Sport** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
@@ -136,8 +134,7 @@ Følgende funksjoner er tilgjengelig på **Sport** setet:
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
 - [Justerbar sidestøtte rygg](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (valgfritt)
-- [Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (valgfritt)
-- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valgfritt)
+[Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (valgfritt)- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valgfritt)
 - [Ventilasjon](../../../../technology/seats/adjustment/#ventilation) (valgfritt)
 
 Tilgjengelig i:
@@ -158,7 +155,6 @@ Du kan velge mellom to setetyper for andre rad i Jaguar I-Pace EV400.
 standard alternativet er en treseter-benk med 60:40 deling hvor du kan felle ned hver del separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
 second alternativet er en treseter-benk med 40:20:40 deling hvor du kan felle ned hver del separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}

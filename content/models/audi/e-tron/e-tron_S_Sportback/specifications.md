@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/main_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2249" >}}
-EVKX.net seeks to have the most complete specifications for Audi e-tron S Sportback. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi e-tron S Sportback, visit the [chargeinfo](../chargecurve/) for Audi e-tron S Sportback with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Audi e-tron S Sportback. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi e-tron S Sportback, visit the [chargeinfo](../chargingcurve/) for Audi e-tron S Sportback with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -852,7 +852,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown
@@ -997,7 +997,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown
@@ -1142,7 +1142,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

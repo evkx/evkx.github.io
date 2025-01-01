@@ -12,9 +12,9 @@ Dieses Modell ist mit mehreren Batterien erhältlich. Unten finden Sie die Leist
 
 ### 105 kWh Performance Battery Plus
 
-<img src="/images/models/porsche/taycan/taycan_4/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_4/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_4/chargingcurve_1.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_4/chargingcurve_1.svg)
 
 
 <div class="table-responsive">
@@ -103,9 +103,9 @@ Dieses Modell ist mit mehreren Batterien erhältlich. Unten finden Sie die Leist
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan_4/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_4/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_4/chargingtime_1.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_4/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -144,9 +144,9 @@ Dieses Modell ist mit mehreren Batterien erhältlich. Unten finden Sie die Leist
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan_4/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_4/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_4/chargerangespeed_1.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_4/chargerangespeed_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1670,9 +1670,9 @@ Porsche Taycan 4 verfügt über eine Batterieheizung, die das Laden bei optimale
 
 ### 89 kWh Performance Battery
 
-<img src="/images/models/porsche/taycan/taycan_4/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_4/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_4/chargingcurve_2.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_4/chargingcurve_2.svg)
 
 
 <div class="table-responsive">
@@ -1761,9 +1761,9 @@ Porsche Taycan 4 verfügt über eine Batterieheizung, die das Laden bei optimale
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan_4/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_4/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_4/chargingtime_2.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_4/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1802,9 +1802,9 @@ Porsche Taycan 4 verfügt über eine Batterieheizung, die das Laden bei optimale
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan_4/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_4/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_4/chargerangespeed_2.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_4/chargerangespeed_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

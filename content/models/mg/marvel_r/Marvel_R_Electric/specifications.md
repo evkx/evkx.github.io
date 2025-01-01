@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/main_1_st.jpg" title="MG Marvel R Electric" width="2560" height="1708" >}}
-EVKX.net seeks to have the most complete specifications for MG Marvel R Electric. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG Marvel R Electric, visit the [chargeinfo](../chargecurve/) for MG Marvel R Electric with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for MG Marvel R Electric. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG Marvel R Electric, visit the [chargeinfo](../chargingcurve/) for MG Marvel R Electric with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -537,7 +537,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Standard electric feature

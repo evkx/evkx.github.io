@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/main_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2000" >}}
-EVKX.net søger at have de mest komplette specifikationer for BMW i7 M70 xDrive. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af BMW i7 M70 xDrive, besøg [chargeinfo](../chargecurve/) for BMW i7 M70 xDrive med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for BMW i7 M70 xDrive. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af BMW i7 M70 xDrive, besøg [chargeinfo](../chargingcurve/) for BMW i7 M70 xDrive med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -593,7 +593,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

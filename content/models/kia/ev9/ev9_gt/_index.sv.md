@@ -129,7 +129,6 @@ Sätesupplägget består av sex säten med två fram, två kaptensäten i andra 
 Kia EV9 GT erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på ** Premium Relaxion** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
@@ -147,7 +146,6 @@ Följande funktioner finns tillgängliga på ** Premium Relaxion** sätet:
 #### Andra radens säten
 
 För andra raden har denna modell två kaptenstolar. Ytterligare funktioner inkluderar:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
 - Höjdjusterbart nackstöd

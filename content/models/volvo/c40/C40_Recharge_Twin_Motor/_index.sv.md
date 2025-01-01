@@ -112,7 +112,6 @@ Volvo C40 Recharge Twin Motor rymmer fem passagerare med två framsäten och en 
 Volvo C40 Recharge Twin Motor erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
@@ -125,7 +124,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med  delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (standard för yttersäten)
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/secondrowseats_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}

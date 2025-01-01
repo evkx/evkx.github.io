@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/main_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1999" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Rolls-Royce Spectre. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Rolls-Royce Spectre, gå til [chargeinfo](../chargecurve/) for Rolls-Royce Spectre med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Rolls-Royce Spectre. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Rolls-Royce Spectre, gå til [chargeinfo](../chargingcurve/) for Rolls-Royce Spectre med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -529,7 +529,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

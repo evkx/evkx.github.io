@@ -113,7 +113,6 @@ Hyundai IONIQ 9 AWD Long Range ist in einer Sechs- oder Siebensitzer-Konfigurati
 Der Hyundai IONIQ 9 AWD Long Range bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
@@ -137,7 +136,6 @@ Verfügbar in:
 Sie können drei Sitztypen für die zweite Reihe im Hyundai IONIQ 9 AWD Long Range wählen.
 
 Die standard-Option ist eine Drei-Sitz-Bank mit einem 60:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze
@@ -145,12 +143,10 @@ Die standard-Option ist eine Drei-Sitz-Bank mit einem 60:40-Split, bei dem jeder
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 Die second-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
-
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 
 Die third-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
-
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)

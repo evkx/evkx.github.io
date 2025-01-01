@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/main_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="2002" >}}
-EVKX.net søger at have de mest komplette specifikationer for Automobili Pininfarina Battista. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Automobili Pininfarina Battista, besøg [chargeinfo](../chargecurve/) for Automobili Pininfarina Battista med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Automobili Pininfarina Battista. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Automobili Pininfarina Battista, besøg [chargeinfo](../chargingcurve/) for Automobili Pininfarina Battista med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -517,7 +517,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ikke tilgængelig

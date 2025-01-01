@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/main_1_st.jpg" title="BYD Seagull 38kWh" width="3000" height="2210" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Seagull 38kWh. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av BYD Seagull 38kWh, gå til [chargeinfo](../chargecurve/) for BYD Seagull 38kWh med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Seagull 38kWh. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av BYD Seagull 38kWh, gå til [chargeinfo](../chargingcurve/) for BYD Seagull 38kWh med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -521,7 +521,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Valgfri funksjon

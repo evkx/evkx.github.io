@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi samler anmeldelser fra våre [favoritt nettanmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Volvo EX30 vs Kia EV3</h3>
+<p>Nybiltester: 25.12.2024</p>
+
+{{< youtube SRSn-rTa6qA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>TWIN TEST: Kia EV3 vs Volvo EX30: we find the UK’s best electric car! | Electrifying</h3>
 <p>Electrifying: 15.12.2024</p>
 

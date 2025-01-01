@@ -129,7 +129,6 @@ Nio ES8 er tilgjengelig med seks eller syv seter for økt fleksibilitet.
 Nio ES8 tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - Høydejusterbar hodestøtte
@@ -150,7 +149,6 @@ Du kan velge mellom to setetyper for andre rad i Nio ES8.
 standard alternativet er en treseter-benk med 60:40 deling hvor du kan felle ned hver del separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
 standard alternativet er to kapteinsseter. Andre funksjoner inkluderer:
-
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - Høydejusterbar hodestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating) (valgfritt)

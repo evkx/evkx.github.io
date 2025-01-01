@@ -105,7 +105,6 @@ Der BMW iX xDrive50 bietet Platz für fünf Passagiere mit zwei Vordersitzen und
 Der BMW iX xDrive50 bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory) (optional)

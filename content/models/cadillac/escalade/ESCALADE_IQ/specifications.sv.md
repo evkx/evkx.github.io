@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/main_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1383" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Cadillac ESCALADE IQ. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Cadillac ESCALADE IQ, gå till [chargeinfo](../chargecurve/) för Cadillac ESCALADE IQ med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Cadillac ESCALADE IQ. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Cadillac ESCALADE IQ, gå till [chargeinfo](../chargingcurve/) för Cadillac ESCALADE IQ med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -569,7 +569,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

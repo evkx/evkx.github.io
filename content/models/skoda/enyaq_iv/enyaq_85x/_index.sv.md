@@ -110,7 +110,6 @@ SKODA ENYAQ 85x rymmer fem passagerare med två framsäten och en tresätessoffa
 SKODA ENYAQ 85x erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **Sport** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, ej tillgänglig för passagerare)

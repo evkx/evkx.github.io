@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/main_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2250" >}}
-EVKX.net seeks to have the most complete specifications for Tesla Model X Plaid. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model X Plaid, visit the [chargeinfo](../chargecurve/) for Tesla Model X Plaid with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Tesla Model X Plaid. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model X Plaid, visit the [chargeinfo](../chargingcurve/) for Tesla Model X Plaid with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -633,7 +633,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

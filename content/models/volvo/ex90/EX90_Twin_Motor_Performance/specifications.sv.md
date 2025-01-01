@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Volvo EX90 Twin Motor Performance. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Volvo EX90 Twin Motor Performance, gå till [chargeinfo](../chargecurve/) för Volvo EX90 Twin Motor Performance med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Volvo EX90 Twin Motor Performance. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Volvo EX90 Twin Motor Performance, gå till [chargeinfo](../chargingcurve/) för Volvo EX90 Twin Motor Performance med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -633,7 +633,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

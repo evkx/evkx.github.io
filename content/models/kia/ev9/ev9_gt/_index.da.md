@@ -129,7 +129,6 @@ Sædeopsætningen er seks sæder med to foran, to kaptajnstole på anden række 
 Kia EV9 GT tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på ** Premium Relaxion** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -147,7 +146,6 @@ Følgende funktioner er tilgængelige på ** Premium Relaxion** sædet:
 #### Anden række sæder
 
 Til anden række har denne model to kaptajnstole. Yderligere funktioner inkluderer:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - Højdejusterbar nakkestøtte

@@ -108,7 +108,6 @@ Jaguar I-Pace EV400 har plads til fem passagerer med to forsæder og en trebænk
 Forreste række tilbyder to sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
 Følgende funktioner er tilgængelige på **Performance** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -127,7 +126,6 @@ Fås med:
 - Gray [stofbetræk](../../../../technology/seats/materials/#fabric)
 
 Følgende funktioner er tilgængelige på **Sport** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
@@ -136,8 +134,7 @@ Følgende funktioner er tilgængelige på **Sport** sædet:
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [Justerbar sidestøtte i ryglæn](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (ekstraudstyr)
-- [Justerbar sidestøtte i sædehynde](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (ekstraudstyr)
-- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (ekstraudstyr)
+[Justerbar sidestøtte i sædehynde](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (ekstraudstyr)- [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (ekstraudstyr)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (ekstraudstyr)
 
 Fås med:
@@ -158,7 +155,6 @@ Du kan vælge mellem to sædetyper til anden række i Jaguar I-Pace EV400.
 standard muligheden er en tresæders bænk med 60:40 opdeling, hvor du kan folde hver sektion separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
 
 second muligheden er en tresæders bænk med 40:20:40 opdeling, hvor du kan folde hver sektion separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}

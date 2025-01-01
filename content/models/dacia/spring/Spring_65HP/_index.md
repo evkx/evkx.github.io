@@ -102,7 +102,6 @@ The seat layout is the two seats in front and two seats in the rear.
 The Dacia Spring 65HP offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 
@@ -115,7 +114,6 @@ Available in:
 #### Second Row Seat
 
 The following functionalities are available on the **** seat:
-
 - Height adjustable headrest
 
 Available in:

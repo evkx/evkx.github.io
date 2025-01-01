@@ -114,7 +114,6 @@ Citroën ë-C3 Aircross har plads til fem passagerer med to forsæder og en treb
 Forreste række tilbyder to sædetyper for at imødekomme forskellige komfort- og stilpræferencer:
 
 Følgende funktioner er tilgængelige på **Standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 
@@ -123,7 +122,6 @@ Fås med:
 - Black [stofbetræk](../../../../technology/seats/materials/#fabric)
 
 Følgende funktioner er tilgængelige på **Advanced Comfort** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
@@ -140,7 +138,6 @@ Fås med:
 Du kan vælge mellem to sædetyper til anden række i Citroën ë-C3 Aircross.
 
 Følgende funktioner er tilgængelige på **Standard** sædet:
-
 - Højdejusterbar nakkestøtte
 
 Fås med:
@@ -148,7 +145,6 @@ Fås med:
 - Black [stofbetræk](../../../../technology/seats/materials/#fabric)
 
 Følgende funktioner er tilgængelige på **Advanced Comfort** sædet:
-
 - Højdejusterbar nakkestøtte
 
 Fås med:

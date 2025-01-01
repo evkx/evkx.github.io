@@ -109,7 +109,6 @@ The BMW i7 M70 xDrive accommodates five passengers with two front seats and a th
 The BMW i7 M70 xDrive offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory) (optional)
@@ -128,7 +127,6 @@ You can choose two seat types for the second row in the BMW i7 M70 xDrive.
 The standard option is a three-seat bench with a  split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
 The second option is an [executive seat combined with a two-seat bench](../../../../technology/seats/types/#executive-seat--two-seat-bench). Additional functionalities include:
-
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support) (standard for outer seats)

@@ -133,7 +133,6 @@ Kia EV9 GT-Line AWD is available in a six or seven-seat layout for added versati
 The Kia EV9 GT-Line AWD offers a single type of front seat.
 
 The following functionalities are available on the ** Premium Relaxion** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -154,7 +153,6 @@ The following functionalities are available on the ** Premium Relaxion** seat:
 You can choose three seat types for the second row in the Kia EV9 GT-Line AWD.
 
 The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - Height adjustable headrest
@@ -163,7 +161,6 @@ The standard option is a three-seat bench with a 60:40 split where you can fold 
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 The second option is two captain chairs. Additional functionalities include:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
 - Height adjustable headrest
@@ -173,7 +170,6 @@ The second option is two captain chairs. Additional functionalities include:
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 The third option is two captain chairs. Additional functionalities include:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - Height adjustable headrest

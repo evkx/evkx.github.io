@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/main_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für Polestar 2 Long Range Single Motor zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Polestar 2 Long Range Single Motor, besuchen Sie die [Ladeinformationen](../chargecurve/) für Polestar 2 Long Range Single Motor mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für Polestar 2 Long Range Single Motor zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Polestar 2 Long Range Single Motor, besuchen Sie die [Ladeinformationen](../chargingcurve/) für Polestar 2 Long Range Single Motor mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -609,7 +609,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Unbekannt

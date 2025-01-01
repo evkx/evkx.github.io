@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/main_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswagen ID.7 GTX Tourer. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Volkswagen ID.7 GTX Tourer, visitez les [chargeinfo](../chargecurve/) pour Volkswagen ID.7 GTX Tourer avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswagen ID.7 GTX Tourer. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Volkswagen ID.7 GTX Tourer, visitez les [chargeinfo](../chargingcurve/) pour Volkswagen ID.7 GTX Tourer avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -609,7 +609,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Inconnu
@@ -754,7 +754,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Fonction électrique standard

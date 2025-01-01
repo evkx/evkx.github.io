@@ -109,7 +109,6 @@ Volkswagen ID. Buzz GTX LWB ist in einer Sechs- oder Siebensitzer-Konfiguration 
 Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieben gerecht zu werden:
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
@@ -124,7 +123,6 @@ Verfügbar in:
 - Blue [Stoff-Polsterung](../../../../technology/seats/materials/#fabric)
 
 Die folgenden Funktionen sind für den **comfort**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory) (Standard für Fahrer, nicht verfügbar für Beifahrer)
@@ -149,7 +147,6 @@ Sie können zwei Sitztypen für die zweite Reihe im Volkswagen ID. Buzz GTX LWB 
 Die standard-Option ist eine Drei-Sitz-Bank mit einem 60:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 Die second-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
-
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 

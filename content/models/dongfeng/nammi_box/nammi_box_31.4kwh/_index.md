@@ -119,7 +119,6 @@ The Dongfeng Nammi Box 31.4kWh accommodates five passengers with two front seats
 The Dongfeng Nammi Box 31.4kWh offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
@@ -138,7 +137,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 100 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>

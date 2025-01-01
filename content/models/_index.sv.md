@@ -240,6 +240,7 @@ Klicka på logotyperna nedan för att gå direkt till märkessidan, eller scroll
 	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Gå till Alfa Romeo översikt över elbilsmodeller</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="alpine/"><img src="https://media.evkx.net/multimedia/models/alpine/brandevs_st.jpg" class="img-fluid mb-2" alt="Alpine" ></a>
 	<h2>Alpine</h2>
 	<p>
 		Alpine är ett franskt sportbilsmärke, grundat 1955 av Jean Rédélé, som ursprungligen specialiserade sig på lätta, smidiga sportbilar. Känd för sin koppling till Renault, blev Alpine berömt på 1960- och 70-talen med sin rallyvinnande A110 Berlinette, firad för sin smidiga hantering och framgång inom motorsport, särskilt i evenemang som Monte Carlo-rallyt.
@@ -330,6 +331,7 @@ Klicka på logotyperna nedan för att gå direkt till märkessidan, eller scroll
 	<a href="dacia/" class="btn btn-outline-primary" role="button">Gå till Dacia översikt över elbilsmodeller</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="dongfeng/"><img src="https://media.evkx.net/multimedia/models/dongfeng/brandevs_st.jpg" class="img-fluid mb-2" alt="Dongfeng" ></a>
 	<h2>Dongfeng</h2>
 	<p>
 		Dongfeng Motor Corporation, etablerad 1969, är en av Kinas största och mest inflytelserika biltillverkare. Känd för sitt breda utbud av fordon, inklusive personbilar, kommersiella lastbilar och elfordon, har Dongfeng en betydande närvaro både nationellt och internationellt. Med starkt fokus på innovation har företaget utökat sitt utbud av elfordon och strävar efter att leda inom hållbar mobilitet.
@@ -364,7 +366,7 @@ Klicka på logotyperna nedan för att gå direkt till märkessidan, eller scroll
 	<a href="fisker/" class="btn btn-outline-primary" role="button">Gå till Fisker översikt över elbilsmodeller</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpeg" class="img-fluid mb-2" alt="Ford" ></a>
+	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpg" class="img-fluid mb-2" alt="Ford" ></a>
 	<h2>Ford</h2>
 	<p>
 	Ford har 5 modeller med totalt 13 varianter.
@@ -439,6 +441,7 @@ Klicka på logotyperna nedan för att gå direkt till märkessidan, eller scroll
 	<a href="jeep/" class="btn btn-outline-primary" role="button">Gå till Jeep översikt över elbilsmodeller</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="kgm/"><img src="https://media.evkx.net/multimedia/models/kgm/brandevs_st.jpg" class="img-fluid mb-2" alt="KGM" ></a>
 	<h2>KGM</h2>
 	<p>
 		Korean Global Motors (KGM) är en biltillverkare baserad i Sydkorea. Känd för sitt breda utbud av fordon, inklusive elektriska och hybrida modeller, har KGM gjort anmärkningsvärda bidrag till den globala bilmarknaden. Företaget betonar innovativ design och avancerad ingenjörskonst, i linje med branschens trender mot hållbarhet och teknikintegration. KGM fortsätter att vara en betydande aktör inom bilsektorn, både nationellt och internationellt.
@@ -468,6 +471,7 @@ Klicka på logotyperna nedan för att gå direkt till märkessidan, eller scroll
 	<a href="lancia/" class="btn btn-outline-primary" role="button">Gå till Lancia översikt över elbilsmodeller</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="leapmotor/"><img src="https://media.evkx.net/multimedia/models/leapmotor/brandevs_st.jpg" class="img-fluid mb-2" alt="Leapmotor" ></a>
 	<h2>Leapmotor</h2>
 	<p>
 		Leapmotor är en kinesisk tillverkare av elfordon (EV), grundad 2015. Känd för prisvärda, teknologidrivna bilar som stadsbilen T03 och SUV:en C11, betonar Leapmotor intern utveckling av kärn-EV-teknologier, inklusive drivlinor och autonom körning, med fokus på Kinas växande EV-marknad.
@@ -732,7 +736,7 @@ Klicka på logotyperna nedan för att gå direkt till märkessidan, eller scroll
 	<a href="volkswagen/"><img src="https://media.evkx.net/multimedia/models/volkswagen/brandevs_st.jpg" class="img-fluid mb-2" alt="Volkswagen" ></a>
 	<h2>Volkswagen</h2>
 	<p>
-	Volkswagen har 6 modeller med totalt 28 varianter.
+	Volkswagen har 6 modeller med totalt 29 varianter.
 	</p>
 	<a href="volkswagen/" class="btn btn-outline-primary" role="button">Gå till Volkswagen översikt över elbilsmodeller</a>
 </div>

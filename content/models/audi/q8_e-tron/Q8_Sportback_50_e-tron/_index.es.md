@@ -129,7 +129,6 @@ El Audi Q8 Sportback 50 e-tron acomoda cinco pasajeros con dos asientos delanter
 La primera fila ofrece cinco tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - Reposacabezas ajustable en altura
 - Reposacabezas ajustable en longitud (opcional)
@@ -138,7 +137,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**:
 Disponible en:
 
 Las siguientes funcionalidades están disponibles en el asiento **sport**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - Reposacabezas ajustable en altura
 - Reposacabezas ajustable en longitud (opcional)
@@ -149,7 +147,6 @@ Las siguientes funcionalidades están disponibles en el asiento **sport**:
 Disponible en:
 
 Las siguientes funcionalidades están disponibles en el asiento **s-line sport**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - Reposacabezas ajustable en altura
 - Reposacabezas ajustable en longitud (opcional)
@@ -160,7 +157,6 @@ Las siguientes funcionalidades están disponibles en el asiento **s-line sport**
 Disponible en:
 
 Las siguientes funcionalidades están disponibles en el asiento **s sport**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Calefacción](../../../../technology/seats/adjustment/#heating) (opcional)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
@@ -169,7 +165,6 @@ Las siguientes funcionalidades están disponibles en el asiento **s sport**:
 Disponible en:
 
 Las siguientes funcionalidades están disponibles en el asiento **multicontour**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - Reposacabezas ajustable en altura
 - Reposacabezas ajustable en longitud
@@ -177,8 +172,7 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
 - [Ajuste de los soportes laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Ajuste de los soportes laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Ajuste de los soportes laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
 - [Masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
@@ -187,7 +181,6 @@ Disponible en:
 #### Asientos de la Segunda Fila
 
 La segunda fila cuenta con un banco estándar de tres asientos con una división 40:20:40, que permite plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - Reposacabezas ajustable en altura
 
 ### Almacenamiento Interior

@@ -111,7 +111,6 @@ Volkswagen ID.3 Pro S (GEN1) har plads til fem passagerer med to forsæder og en
 Volkswagen ID.3 Pro S (GEN1) tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - Højdejusterbar nakkestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)

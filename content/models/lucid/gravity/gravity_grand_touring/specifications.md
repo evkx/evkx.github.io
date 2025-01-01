@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_grand_touring/main_1_st.jpeg" title="Lucid Gravity Grand Touring" width="3000" height="2007" >}}
-EVKX.net seeks to have the most complete specifications for Lucid Gravity Grand Touring. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lucid Gravity Grand Touring, visit the [chargeinfo](../chargecurve/) for Lucid Gravity Grand Touring with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Lucid Gravity Grand Touring. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lucid Gravity Grand Touring, visit the [chargeinfo](../chargingcurve/) for Lucid Gravity Grand Touring with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -688,7 +688,7 @@ This model is available with a seat configuration with five or seven seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Standard electric feature
@@ -833,7 +833,7 @@ This model is available with a seat configuration with five or seven seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Standard electric feature

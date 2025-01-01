@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/main_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for Tesla Model 3 Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model 3 Performance, visit the [chargeinfo](../chargecurve/) for Tesla Model 3 Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Tesla Model 3 Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model 3 Performance, visit the [chargeinfo](../chargingcurve/) for Tesla Model 3 Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -585,7 +585,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

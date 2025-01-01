@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/main_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1674" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Ford Mustang Mach-E Long Range RWD. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Ford Mustang Mach-E Long Range RWD, gå till [chargeinfo](../chargecurve/) för Ford Mustang Mach-E Long Range RWD med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Ford Mustang Mach-E Long Range RWD. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Ford Mustang Mach-E Long Range RWD, gå till [chargeinfo](../chargingcurve/) för Ford Mustang Mach-E Long Range RWD med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -593,7 +593,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt

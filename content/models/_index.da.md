@@ -240,6 +240,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller rul ned for
 	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Gå til Alfa Romeo EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="alpine/"><img src="https://media.evkx.net/multimedia/models/alpine/brandevs_st.jpg" class="img-fluid mb-2" alt="Alpine" ></a>
 	<h2>Alpine</h2>
 	<p>
 		Alpine er et fransk sportsvognsmærke, grundlagt i 1955 af Jean Rédélé, der oprindeligt specialiserede sig i lette, smidige sportsvogne. Kendt for sin tilknytning til Renault, blev Alpine berømt i 1960'erne og 70'erne med sin rallyvindende A110 Berlinette, fejret for sin smidige håndtering og succes i motorsport, især i begivenheder som Monte Carlo Rally.
@@ -330,6 +331,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller rul ned for
 	<a href="dacia/" class="btn btn-outline-primary" role="button">Gå til Dacia EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="dongfeng/"><img src="https://media.evkx.net/multimedia/models/dongfeng/brandevs_st.jpg" class="img-fluid mb-2" alt="Dongfeng" ></a>
 	<h2>Dongfeng</h2>
 	<p>
 		Dongfeng Motor Corporation, etableret i 1969, er en af Kinas største og mest indflydelsesrige bilproducenter. Kendt for sit brede udvalg af køretøjer, herunder personbiler, lastbiler og elbiler, har Dongfeng en betydelig tilstedeværelse både nationalt og internationalt. Med et stærkt fokus på innovation har virksomheden udvidet sit udvalg af elbiler med det mål at lede inden for bæredygtig mobilitet.
@@ -364,7 +366,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller rul ned for
 	<a href="fisker/" class="btn btn-outline-primary" role="button">Gå til Fisker EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpeg" class="img-fluid mb-2" alt="Ford" ></a>
+	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpg" class="img-fluid mb-2" alt="Ford" ></a>
 	<h2>Ford</h2>
 	<p>
 	Ford har 5 modeller med i alt 13 varianter.
@@ -439,6 +441,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller rul ned for
 	<a href="jeep/" class="btn btn-outline-primary" role="button">Gå til Jeep EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="kgm/"><img src="https://media.evkx.net/multimedia/models/kgm/brandevs_st.jpg" class="img-fluid mb-2" alt="KGM" ></a>
 	<h2>KGM</h2>
 	<p>
 	KGM har 1 modeller med i alt 1 varianter.
@@ -465,6 +468,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller rul ned for
 	<a href="lancia/" class="btn btn-outline-primary" role="button">Gå til Lancia EV-model oversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="leapmotor/"><img src="https://media.evkx.net/multimedia/models/leapmotor/brandevs_st.jpg" class="img-fluid mb-2" alt="Leapmotor" ></a>
 	<h2>Leapmotor</h2>
 	<p>
 		Leapmotor er en kinesisk producent af elektriske køretøjer (EV), grundlagt i 2015. Kendt for overkommelige, teknologidrevne biler som T03 bybil og C11 SUV, lægger Leapmotor vægt på intern udvikling af kerne-EV-teknologier, herunder drivlinjer og autonom kørsel, med fokus på Kinas voksende EV-marked.
@@ -729,7 +733,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller rul ned for
 	<a href="volkswagen/"><img src="https://media.evkx.net/multimedia/models/volkswagen/brandevs_st.jpg" class="img-fluid mb-2" alt="Volkswagen" ></a>
 	<h2>Volkswagen</h2>
 	<p>
-	Volkswagen har 6 modeller med i alt 28 varianter.
+	Volkswagen har 6 modeller med i alt 29 varianter.
 	</p>
 	<a href="volkswagen/" class="btn btn-outline-primary" role="button">Gå til Volkswagen EV-model oversigt</a>
 </div>

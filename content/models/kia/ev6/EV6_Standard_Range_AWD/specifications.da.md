@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_awd/main_1_st.jpg" title="Kia EV6 Standard Range AWD" width="3000" height="2000" >}}
-EVKX.net søger at have de mest komplette specifikationer for Kia EV6 Standard Range AWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Kia EV6 Standard Range AWD, besøg [chargeinfo](../chargecurve/) for Kia EV6 Standard Range AWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Kia EV6 Standard Range AWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Kia EV6 Standard Range AWD, besøg [chargeinfo](../chargingcurve/) for Kia EV6 Standard Range AWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -566,7 +566,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

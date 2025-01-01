@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/main_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2018" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Honda Prologue FWD. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Honda Prologue FWD, visitez les [chargeinfo](../chargecurve/) pour Honda Prologue FWD avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Honda Prologue FWD. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Honda Prologue FWD, visitez les [chargeinfo](../chargingcurve/) pour Honda Prologue FWD avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -566,7 +566,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Conducteur électrique standard, non disponible pour le passager

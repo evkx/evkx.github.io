@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/main_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1486" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för HiPhi Z 5 Seater. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av HiPhi Z 5 Seater, gå till [chargeinfo](../chargecurve/) för HiPhi Z 5 Seater med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för HiPhi Z 5 Seater. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av HiPhi Z 5 Seater, gå till [chargeinfo](../chargingcurve/) för HiPhi Z 5 Seater med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -505,7 +505,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

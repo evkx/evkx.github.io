@@ -132,7 +132,6 @@ The MHERO I accommodates five passengers with two front seats and a three-seat b
 The MHERO I offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -155,7 +154,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - Height adjustable headrest (standard for outer seats)
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (standard for outer seats)

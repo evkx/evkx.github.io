@@ -107,7 +107,6 @@ Ford F150 Lightning Standard Range har plass til fem passasjerer med to forseter
 Ford F150 Lightning Standard Range tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (valgfritt)

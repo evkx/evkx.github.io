@@ -113,7 +113,6 @@ Dieses Modell bietet eine Vier-Sitz-Anordnung oder eine optionale 4+1-Anordnung.
 Die erste Reihe bietet drei Sitztypen, um verschiedenen Komfort- und Stilvorlieben gerecht zu werden:
 
 Die folgenden Funktionen sind für den **Comfort**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
@@ -121,7 +120,6 @@ Die folgenden Funktionen sind für den **Comfort**-Sitz verfügbar:
 Verfügbar in:
 
 Die folgenden Funktionen sind für den **Comfortseats with memory**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
@@ -130,14 +128,12 @@ Die folgenden Funktionen sind für den **Comfortseats with memory**-Sitz verfüg
 Verfügbar in:
 
 Die folgenden Funktionen sind für den **Sportsseats Plus**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
 - [Verstellbare Seitenwangen der Rückenlehne](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Verstellbare Seitenwangen des Sitzkissens](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Verstellbare Seitenwangen des Sitzkissens](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
@@ -150,7 +146,6 @@ Verfügbar in:
 Sie können zwei Sitztypen für die zweite Reihe im Porsche Taycan GTS Sport Turismo (GEN1) wählen.
 
 Die standard-Option sind zwei integrierte Sitze in der zweiten Reihe. Zusätzliche Funktionen umfassen:
-
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 
 Die second-Option sind zwei integrierte Sitze in der zweiten Reihe mit einem dritten kleineren Sitz dazwischen. Zusätzliche Funktionen umfassen:

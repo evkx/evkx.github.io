@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_vz/main_1_st.JPG" title="CUPRA Tavascan VZ" width="3000" height="1676" >}}
-EVKX.net busca tener las especificaciones más completas para CUPRA Tavascan VZ. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de CUPRA Tavascan VZ, visite [chargeinfo](../chargecurve/) para CUPRA Tavascan VZ con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para CUPRA Tavascan VZ. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de CUPRA Tavascan VZ, visite [chargeinfo](../chargingcurve/) para CUPRA Tavascan VZ con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -569,7 +569,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Desconocido

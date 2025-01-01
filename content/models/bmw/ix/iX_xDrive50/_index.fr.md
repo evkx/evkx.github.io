@@ -105,7 +105,6 @@ Le BMW iX xDrive50 peut accueillir cinq passagers avec deux sièges à l'avant e
 Le BMW iX xDrive50 propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (optionnel)

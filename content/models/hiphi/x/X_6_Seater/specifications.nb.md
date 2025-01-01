@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/main_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for HiPhi X 6 Seater. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av HiPhi X 6 Seater, gå til [chargeinfo](../chargecurve/) for HiPhi X 6 Seater med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for HiPhi X 6 Seater. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av HiPhi X 6 Seater, gå til [chargeinfo](../chargingcurve/) for HiPhi X 6 Seater med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -473,7 +473,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ukjent

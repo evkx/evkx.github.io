@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/main_1_st.jpg" title="Neta GT 580 AWD" width="3000" height="1484" >}}
-EVKX.net seeks to have the most complete specifications for Neta GT 580 AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Neta GT 580 AWD, visit the [chargeinfo](../chargecurve/) for Neta GT 580 AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Neta GT 580 AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Neta GT 580 AWD, visit the [chargeinfo](../chargingcurve/) for Neta GT 580 AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -470,7 +470,7 @@ This model is available with a seat configuration with four seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Not Available

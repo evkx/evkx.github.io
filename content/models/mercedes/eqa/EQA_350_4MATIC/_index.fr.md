@@ -108,7 +108,6 @@ Le Mercedes-EQ EQA 350 4MATIC peut accueillir cinq passagers avec deux sièges �
 La première rangée offre deux types de sièges pour répondre à diverses préférences de confort et de style :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - Appuie-tête réglable en hauteur
@@ -121,7 +120,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 Disponible en :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **multicontour** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - Appuie-tête réglable en hauteur
 - Appuie-tête réglable en longueur
@@ -140,7 +138,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition 40:20:40, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - Appuie-tête réglable en hauteur
 
 <a id="section-climatesystem" style="display: block; position: relative; top: -60px; visibility: hidden;"></a>

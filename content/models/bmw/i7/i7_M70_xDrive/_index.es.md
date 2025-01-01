@@ -109,7 +109,6 @@ El BMW i7 M70 xDrive acomoda cinco pasajeros con dos asientos delanteros y un ba
 El BMW i7 M70 xDrive ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
@@ -128,7 +127,6 @@ Puede elegir entre dos tipos de asientos para la segunda fila en el BMW i7 M70 x
 La opción standard es un banco de tres asientos con una división  donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
 
 La opción second es un [asiento ejecutivo combinado con un banco de dos asientos](../../../../technology/seats/types/#executive-seat--two-seat-bench). Las funcionalidades adicionales incluyen:
-
 - [Soporte ajustable para los muslos](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Masaje](../../../../technology/seats/adjustment/#massage)
 - [Soporte para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support) (estándar para los asientos exteriores)

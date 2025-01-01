@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/omoda/e5/e5/main_1_st.jpg" title="OMODA E5" width="1920" height="1080" >}}
-EVKX.net seeks to have the most complete specifications for OMODA E5. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of OMODA E5, visit the [chargeinfo](../chargecurve/) for OMODA E5 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for OMODA E5. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of OMODA E5, visit the [chargeinfo](../chargingcurve/) for OMODA E5 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -526,7 +526,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Not Available

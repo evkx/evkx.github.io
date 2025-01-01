@@ -114,7 +114,6 @@ El Tesla Model 3 Performance (GEN1) acomoda cinco pasajeros con dos asientos del
 El Tesla Model 3 Performance (GEN1) ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - Reposacabezas ajustable en altura
 - [Calefacción](../../../../technology/seats/adjustment/#heating)

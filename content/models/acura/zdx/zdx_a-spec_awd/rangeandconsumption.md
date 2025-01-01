@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 The range will vary depending on several factors. Like how fast you drive, the temperature, wet or dry road, and the equipped equipment. On this page, you will find a diagram and tables with the standard test cycle results like WLTP and EPA and estimated real-world range in different environments.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/acura/zdx/zdx_a-spec_awd/range.svg"/>
-<a href="/images/models/acura/zdx/zdx_a-spec_awd/range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/acura/zdx/zdx_a-spec_awd/range.svg"/>
+<a href="/images/nb-NO/models/acura/zdx/zdx_a-spec_awd/range.svg">Full screen</a>
 
 ### Official test cycle results
 

@@ -108,7 +108,6 @@ The Volvo EX90 Twin Motor accommodates five passengers with two front seats and 
 The Volvo EX90 Twin Motor offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
@@ -128,7 +127,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 40:60 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)

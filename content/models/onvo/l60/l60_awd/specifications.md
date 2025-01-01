@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/main_1_st.jpg" title="Onvo L60 AWD" width="2232" height="1360" >}}
-EVKX.net seeks to have the most complete specifications for Onvo L60 AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Onvo L60 AWD, visit the [chargeinfo](../chargecurve/) for Onvo L60 AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Onvo L60 AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Onvo L60 AWD, visit the [chargeinfo](../chargingcurve/) for Onvo L60 AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -617,7 +617,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Standard electric feature

@@ -113,7 +113,6 @@ Ce modèle offre une disposition à quatre sièges ou une disposition optionnell
 La première rangée offre trois types de sièges pour répondre à diverses préférences de confort et de style :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfort** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
@@ -121,7 +120,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfort** :
 Disponible en :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats with memory** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
@@ -130,14 +128,12 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats wit
 Disponible en :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [Réglage des renforts latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Réglage des renforts latéraux de l'assise](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Réglage des renforts latéraux de l'assise](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 
@@ -148,7 +144,6 @@ Disponible en :
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Porsche Taycan Turbo (GEN1).
 
 L'option standard est deux sièges intégrés dans la deuxième rangée. Fonctionnalités supplémentaires :
-
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
 
 L'option second est deux sièges intégrés dans la deuxième rangée avec un troisième siège plus petit au milieu. Fonctionnalités supplémentaires :

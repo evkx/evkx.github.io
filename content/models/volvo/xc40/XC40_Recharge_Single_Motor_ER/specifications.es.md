@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="1920" height="1080" >}}
-EVKX.net busca tener las especificaciones más completas para Volvo XC40 Recharge Single Motor ER. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Volvo XC40 Recharge Single Motor ER, visite [chargeinfo](../chargecurve/) para Volvo XC40 Recharge Single Motor ER con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Volvo XC40 Recharge Single Motor ER. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Volvo XC40 Recharge Single Motor ER, visite [chargeinfo](../chargingcurve/) para Volvo XC40 Recharge Single Motor ER con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -606,7 +606,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Desconocido

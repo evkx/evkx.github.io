@@ -106,7 +106,6 @@ Mercedes-EQ EQB 300 4MATIC ist in einer Standard-Fünfsitz-Konfiguration erhält
 Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieben gerecht zu werden:
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - Höhenverstellbare Kopfstütze
@@ -119,7 +118,6 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 Verfügbar in:
 
 Die folgenden Funktionen sind für den **multicontour**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
 - Längenverstellbare Kopfstütze
@@ -138,7 +136,6 @@ Verfügbar in:
 #### Rücksitzreihe
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
-
 - Höhenverstellbare Kopfstütze
 
 #### Dritte Sitzreihe

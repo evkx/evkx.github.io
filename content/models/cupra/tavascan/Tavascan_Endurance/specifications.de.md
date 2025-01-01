@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_endurance/main_1_st.JPG" title="CUPRA Tavascan Endurance" width="3000" height="1676" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für CUPRA Tavascan Endurance zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von CUPRA Tavascan Endurance, besuchen Sie die [Ladeinformationen](../chargecurve/) für CUPRA Tavascan Endurance mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für CUPRA Tavascan Endurance zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von CUPRA Tavascan Endurance, besuchen Sie die [Ladeinformationen](../chargingcurve/) für CUPRA Tavascan Endurance mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -545,7 +545,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Unbekannt

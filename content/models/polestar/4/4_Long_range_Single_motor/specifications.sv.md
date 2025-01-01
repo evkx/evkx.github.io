@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_single_motor/main_1_st.jpg" title="Polestar 4 Long range Single motor" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Polestar 4 Long range Single motor. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Polestar 4 Long range Single motor, gå till [chargeinfo](../chargecurve/) för Polestar 4 Long range Single motor med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Polestar 4 Long range Single motor. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Polestar 4 Long range Single motor, gå till [chargeinfo](../chargingcurve/) för Polestar 4 Long range Single motor med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -609,7 +609,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

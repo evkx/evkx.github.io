@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/main_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Renault 5 E-Tech 52kWh 150hp. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Renault 5 E-Tech 52kWh 150hp, gå till [chargeinfo](../chargecurve/) för Renault 5 E-Tech 52kWh 150hp med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Renault 5 E-Tech 52kWh 150hp. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Renault 5 E-Tech 52kWh 150hp, gå till [chargeinfo](../chargingcurve/) för Renault 5 E-Tech 52kWh 150hp med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -529,7 +529,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

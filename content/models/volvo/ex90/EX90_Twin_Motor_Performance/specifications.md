@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for Volvo EX90 Twin Motor Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo EX90 Twin Motor Performance, visit the [chargeinfo](../chargecurve/) for Volvo EX90 Twin Motor Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Volvo EX90 Twin Motor Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo EX90 Twin Motor Performance, visit the [chargeinfo](../chargingcurve/) for Volvo EX90 Twin Motor Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -633,7 +633,7 @@ This model is available with a seat configuration with six or seven seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Standard electric feature

@@ -114,7 +114,6 @@ This model offers a four-seat layout or an optional 4+1 layout.
 The Lotus Eletre S offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -139,7 +138,6 @@ Available in:
 You can choose two seat types for the second row in the Lotus Eletre S.
 
 The standard option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
-
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 
 The second option is twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). Additional functionalities include:

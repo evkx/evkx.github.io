@@ -116,7 +116,6 @@ Porsche Macan 4 rymmer fem passagerare med två framsäten och en tresätessoffa
 Första raden erbjuder tre olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
 Följande funktioner finns tillgängliga på **Comfortseats** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
@@ -126,7 +125,6 @@ Följande funktioner finns tillgängliga på **Comfortseats** sätet:
 - [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment) (tillval)
 
 Följande funktioner finns tillgängliga på **Comfortseats with memory** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
@@ -139,7 +137,6 @@ Följande funktioner finns tillgängliga på **Comfortseats with memory** sätet
 Finns tillgänglig i:
 
 Följande funktioner finns tillgängliga på **Sportsseats Plus** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
@@ -149,8 +146,7 @@ Följande funktioner finns tillgängliga på **Sportsseats Plus** sätet:
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
 - [Justerbart svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (elektriskt justerbar)
 - [Justerbart sidostöd ryggstöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justerbart sidostöd sittdyna](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Justerbart sidostöd sittdyna](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
 
 Finns tillgänglig i:

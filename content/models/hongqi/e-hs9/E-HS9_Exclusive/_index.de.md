@@ -108,7 +108,6 @@ Die Sitzanordnung besteht aus sechs Sitzen mit zwei vorne, zwei Kapitänssitzen 
 Der Hongqi E-HS9 Exclusive bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
@@ -123,7 +122,6 @@ Verfügbar in:
 #### Rücksitzreihe
 
 Für die zweite Reihe hat dieses Modell zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
-
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)

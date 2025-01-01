@@ -102,7 +102,6 @@ Sædeopsætningen er to sæder foran og to sæder bagpå.
 Dacia Spring 65HP tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 
@@ -115,7 +114,6 @@ Fås med:
 #### Anden række sæder
 
 Følgende funktioner er tilgængelige på **** sædet:
-
 - Højdejusterbar nakkestøtte
 
 Fås med:

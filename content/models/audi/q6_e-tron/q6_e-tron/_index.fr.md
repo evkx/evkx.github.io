@@ -137,7 +137,6 @@ Le Audi Q6 e-tron peut accueillir cinq passagers avec deux sièges à l'avant et
 La première rangée offre trois types de sièges pour répondre à diverses préférences de confort et de style :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Normal** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
@@ -151,7 +150,6 @@ Disponible en :
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
@@ -170,7 +168,6 @@ Disponible en :
 - Red [revêtement en cuir](../../../../technology/seats/materials/#leather)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)

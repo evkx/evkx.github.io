@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/acura/zdx/zdx_a-spec_rwd/main_1_st.jpg" title="Acura ZDX A-Spec RWD" width="3000" height="1758" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Acura ZDX A-Spec RWD. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Acura ZDX A-Spec RWD, visitez les [chargeinfo](../chargecurve/) pour Acura ZDX A-Spec RWD avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Acura ZDX A-Spec RWD. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Acura ZDX A-Spec RWD, visitez les [chargeinfo](../chargingcurve/) pour Acura ZDX A-Spec RWD avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -553,7 +553,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Fonction électrique standard

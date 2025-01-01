@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor/main_1_st.jpg" title="Polestar 3 Long Range Dual Motor" width="3000" height="2250" >}}
-EVKX.net seeks to have the most complete specifications for Polestar 3 Long Range Dual Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Polestar 3 Long Range Dual Motor, visit the [chargeinfo](../chargecurve/) for Polestar 3 Long Range Dual Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Polestar 3 Long Range Dual Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Polestar 3 Long Range Dual Motor, visit the [chargeinfo](../chargingcurve/) for Polestar 3 Long Range Dual Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -633,7 +633,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

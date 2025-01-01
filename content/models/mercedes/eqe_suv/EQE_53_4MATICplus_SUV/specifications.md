@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_53_4maticplus_suv/main_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+ SUV" width="3000" height="2001" >}}
-EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQE 53 4MATIC+ SUV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-AMG EQE 53 4MATIC+ SUV, visit the [chargeinfo](../chargecurve/) for Mercedes-AMG EQE 53 4MATIC+ SUV with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQE 53 4MATIC+ SUV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-AMG EQE 53 4MATIC+ SUV, visit the [chargeinfo](../chargingcurve/) for Mercedes-AMG EQE 53 4MATIC+ SUV with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -649,7 +649,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown
@@ -794,7 +794,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/main_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="3000" height="1997" >}}
-EVKX.net busca tener las especificaciones más completas para GMC Sierra EV Denali Edition 1. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de GMC Sierra EV Denali Edition 1, visite [chargeinfo](../chargecurve/) para GMC Sierra EV Denali Edition 1 con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para GMC Sierra EV Denali Edition 1. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de GMC Sierra EV Denali Edition 1, visite [chargeinfo](../chargingcurve/) para GMC Sierra EV Denali Edition 1 con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -593,7 +593,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Función eléctrica estándar

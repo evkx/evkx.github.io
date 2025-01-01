@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/main_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920" >}}
-EVKX.net busca tener las especificaciones más completas para Rivian R1S Quad-Motor AWD MP. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Rivian R1S Quad-Motor AWD MP, visite [chargeinfo](../chargecurve/) para Rivian R1S Quad-Motor AWD MP con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Rivian R1S Quad-Motor AWD MP. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Rivian R1S Quad-Motor AWD MP, visite [chargeinfo](../chargingcurve/) para Rivian R1S Quad-Motor AWD MP con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -582,7 +582,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Función eléctrica estándar

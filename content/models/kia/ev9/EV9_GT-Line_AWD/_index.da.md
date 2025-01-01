@@ -133,7 +133,6 @@ Kia EV9 GT-Line AWD fås i en seks- eller syvsæders opsætning for øget alsidi
 Kia EV9 GT-Line AWD tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på ** Premium Relaxion** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -154,7 +153,6 @@ Følgende funktioner er tilgængelige på ** Premium Relaxion** sædet:
 Du kan vælge mellem tre sædetyper til anden række i Kia EV9 GT-Line AWD.
 
 standard muligheden er en tresæders bænk med 60:40 opdeling, hvor du kan folde hver sektion separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - Højdejusterbar nakkestøtte
@@ -163,7 +161,6 @@ standard muligheden er en tresæders bænk med 60:40 opdeling, hvor du kan folde
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydersæder)
 
 second muligheden er to kaptajnstole. Yderligere funktioner inkluderer:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - Højdejusterbar nakkestøtte
@@ -173,7 +170,6 @@ second muligheden er to kaptajnstole. Yderligere funktioner inkluderer:
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 third muligheden er to kaptajnstole. Yderligere funktioner inkluderer:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - Højdejusterbar nakkestøtte

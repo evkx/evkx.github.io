@@ -107,7 +107,6 @@ Le BMW iX M60 peut accueillir cinq passagers avec deux sièges à l'avant et une
 Le BMW iX M60 propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (optionnel)

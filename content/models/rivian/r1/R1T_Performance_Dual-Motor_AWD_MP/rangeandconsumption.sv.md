@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 Räckvidden varierar beroende på flera faktorer. Som hur snabbt du kör, temperaturen, vått eller torrt väglag och utrustningen. På denna sida hittar du diagram och tabeller med standardtestcykelresultat som WLTP och EPA samt uppskattad räckvidd i verkliga förhållanden i olika miljöer.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/rivian/r1/r1t_performance_dual-motor_awd_mp/range.svg"/>
-<a href="/images/models/rivian/r1/r1t_performance_dual-motor_awd_mp/range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/rivian/r1/r1t_performance_dual-motor_awd_mp/range.svg"/>
+<a href="/images/nb-NO/models/rivian/r1/r1t_performance_dual-motor_awd_mp/range.svg">Full screen</a>
 
 ### Officiella testcykelresultat
 

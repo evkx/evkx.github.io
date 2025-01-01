@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/tang/tang_4x4_long_range/main_1_st.jpg" title="BYD Tang 4x4 Long Range" width="1920" height="1080" >}}
-EVKX.net busca tener las especificaciones más completas para BYD Tang 4x4 Long Range. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de BYD Tang 4x4 Long Range, visite [chargeinfo](../chargecurve/) para BYD Tang 4x4 Long Range con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para BYD Tang 4x4 Long Range. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de BYD Tang 4x4 Long Range, visite [chargeinfo](../chargingcurve/) para BYD Tang 4x4 Long Range con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -625,7 +625,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Función eléctrica estándar

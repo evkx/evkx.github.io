@@ -112,7 +112,6 @@ Le SKODA ENYAQ COUPÉ 60 peut accueillir cinq passagers avec deux sièges à l'a
 Le SKODA ENYAQ COUPÉ 60 propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (standard pour le conducteur, non disponible pour le passager)

@@ -111,7 +111,6 @@ Ce modèle offre une disposition à quatre sièges ou une disposition optionnell
 Le Volkswagen ID.3 Pro propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - Appuie-tête réglable en hauteur
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)

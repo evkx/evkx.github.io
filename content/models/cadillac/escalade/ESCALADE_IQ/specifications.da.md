@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/main_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1383" >}}
-EVKX.net søger at have de mest komplette specifikationer for Cadillac ESCALADE IQ. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Cadillac ESCALADE IQ, besøg [chargeinfo](../chargecurve/) for Cadillac ESCALADE IQ med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Cadillac ESCALADE IQ. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Cadillac ESCALADE IQ, besøg [chargeinfo](../chargingcurve/) for Cadillac ESCALADE IQ med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -569,7 +569,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

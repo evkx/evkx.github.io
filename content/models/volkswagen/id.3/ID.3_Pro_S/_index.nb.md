@@ -111,7 +111,6 @@ Denne modellen tilbyr et fireseterslayout eller et valgfritt 4+1-layout.
 Volkswagen ID.3 Pro S tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart, elektrisk justerbart som tilvalg)
 - Høydejusterbar hodestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating) (valgfritt)

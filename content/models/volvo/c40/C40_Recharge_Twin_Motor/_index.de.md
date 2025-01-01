@@ -112,7 +112,6 @@ Der Volvo C40 Recharge Twin Motor bietet Platz für fünf Passagiere mit zwei Vo
 Der Volvo C40 Recharge Twin Motor bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Verstellbare Lendenstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
@@ -125,7 +124,6 @@ Verfügbar in:
 #### Rücksitzreihe
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
-
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/secondrowseats_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}

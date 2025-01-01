@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_63kwh/main_1_st.jpg" title="Nissan Ariya 63kWh" width="3000" height="1889" >}}
-EVKX.net søger at have de mest komplette specifikationer for Nissan Ariya 63kWh. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Nissan Ariya 63kWh, besøg [chargeinfo](../chargecurve/) for Nissan Ariya 63kWh med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Nissan Ariya 63kWh. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Nissan Ariya 63kWh, besøg [chargeinfo](../chargingcurve/) for Nissan Ariya 63kWh med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -601,7 +601,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

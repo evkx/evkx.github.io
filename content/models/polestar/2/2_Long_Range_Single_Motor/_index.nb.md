@@ -108,7 +108,6 @@ Polestar 2 Long Range Single Motor har plass til fem passasjerer med to forseter
 Polestar 2 Long Range Single Motor tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
@@ -127,7 +126,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med  deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250"  >}}

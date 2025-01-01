@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/main_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2172" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG4 Electric XPOWER. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av MG MG4 Electric XPOWER, gå til [chargeinfo](../chargecurve/) for MG MG4 Electric XPOWER med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG4 Electric XPOWER. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av MG MG4 Electric XPOWER, gå til [chargeinfo](../chargingcurve/) for MG MG4 Electric XPOWER med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -529,7 +529,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

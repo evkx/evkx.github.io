@@ -8,9 +8,9 @@ navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-<img src="/images/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/chargingcurve.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/chargingcurve.svg)
+[Full screen](/images/nb-NO/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/chargingcurve.svg)
 
 
 <div class="table-responsive">
@@ -99,9 +99,9 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
-<img src="/images/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/chargingtime.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/chargingtime.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/chargingtime.svg)
+[Full screen](/images/nb-NO/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/chargingtime.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -140,9 +140,9 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
-<img src="/images/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/chargerangespeed.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/chargerangespeed.svg)
+[Full screen](/images/nb-NO/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/chargerangespeed.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

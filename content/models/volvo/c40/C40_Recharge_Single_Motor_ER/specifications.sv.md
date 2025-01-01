@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/main_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Volvo C40 Recharge Single Motor ER. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Volvo C40 Recharge Single Motor ER, gå till [chargeinfo](../chargecurve/) för Volvo C40 Recharge Single Motor ER med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Volvo C40 Recharge Single Motor ER. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Volvo C40 Recharge Single Motor ER, gå till [chargeinfo](../chargingcurve/) för Volvo C40 Recharge Single Motor ER med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -606,7 +606,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

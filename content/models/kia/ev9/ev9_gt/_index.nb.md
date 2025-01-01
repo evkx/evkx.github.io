@@ -129,7 +129,6 @@ Seteoppsettet er seks seter med to foran, to kapteinsseter i andre rad, og en to
 Kia EV9 GT tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på ** Premium Relaxion** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -147,7 +146,6 @@ Følgende funksjoner er tilgjengelig på ** Premium Relaxion** setet:
 #### Andre seterad
 
 For andre seterad har denne modellen to kapteinsseter. Andre funksjoner inkluderer:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)
 - Høydejusterbar hodestøtte

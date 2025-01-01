@@ -108,7 +108,6 @@ La disposition des sièges est de six sièges avec deux à l'avant, deux sièges
 Le Hongqi E-HS9 Exclusive propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - Appuie-tête réglable en hauteur
@@ -123,7 +122,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. Fonctionnalités supplémentaires :
-
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - Appuie-tête réglable en hauteur
 - [Chauffage](../../../../technology/seats/adjustment/#heating)

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/main_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2100" height="1400" >}}
-EVKX.net busca tener las especificaciones más completas para Rivian R1T Performance Dual-Motor AWD MP. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Rivian R1T Performance Dual-Motor AWD MP, visite [chargeinfo](../chargecurve/) para Rivian R1T Performance Dual-Motor AWD MP con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Rivian R1T Performance Dual-Motor AWD MP. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Rivian R1T Performance Dual-Motor AWD MP, visite [chargeinfo](../chargingcurve/) para Rivian R1T Performance Dual-Motor AWD MP con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -558,7 +558,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Función eléctrica estándar

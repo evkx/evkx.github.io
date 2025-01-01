@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/main_1_st.jpg" title="XPENG G6 RWD Standard Range" width="2560" height="1498" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för XPENG G6 RWD Standard Range. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av XPENG G6 RWD Standard Range, gå till [chargeinfo](../chargecurve/) för XPENG G6 RWD Standard Range med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för XPENG G6 RWD Standard Range. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av XPENG G6 RWD Standard Range, gå till [chargeinfo](../chargingcurve/) för XPENG G6 RWD Standard Range med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -590,7 +590,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt

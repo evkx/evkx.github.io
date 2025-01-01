@@ -129,7 +129,6 @@ Nio ES8 finns tillgänglig med sex eller sju säten för ökad mångsidighet.
 Nio ES8 erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - Höjdjusterbart nackstöd
@@ -150,7 +149,6 @@ Du kan välja mellan två olika sätesvarianter för andra raden i Nio ES8.
 standard-alternativet är en tresätesoffa med 60:40 delning där du kan fälla varje sektion separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
 
 standard-alternativet är två kaptenstolar. Ytterligare funktioner inkluderar:
-
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - Höjdjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (tillval)

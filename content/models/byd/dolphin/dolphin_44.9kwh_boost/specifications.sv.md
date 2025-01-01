@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh_boost/main_1_st.jpg" title="BYD Dolphin 44.9kWh Boost" width="3000" height="2116" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för BYD Dolphin 44.9kWh Boost. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av BYD Dolphin 44.9kWh Boost, gå till [chargeinfo](../chargecurve/) för BYD Dolphin 44.9kWh Boost med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för BYD Dolphin 44.9kWh Boost. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av BYD Dolphin 44.9kWh Boost, gå till [chargeinfo](../chargingcurve/) för BYD Dolphin 44.9kWh Boost med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -601,7 +601,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt

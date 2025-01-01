@@ -106,7 +106,6 @@ Volvo EX30 Single Motor Extended Range rymmer fem passagerare med två framsäte
 Volvo EX30 Single Motor Extended Range erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuellt justerbar)
@@ -124,7 +123,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med  delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (standard för yttersäten)
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/secondrowseats_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2250"  >}}

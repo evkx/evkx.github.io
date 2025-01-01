@@ -114,7 +114,6 @@ Le Mercedes-EQ EQS 450+ peut accueillir cinq passagers avec deux sièges à l'av
 La première rangée offre deux types de sièges pour répondre à diverses préférences de confort et de style :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - Appuie-tête réglable en hauteur
@@ -126,7 +125,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
 Disponible en :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **multicontour** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - Appuie-tête réglable en hauteur
 - Appuie-tête réglable en longueur
@@ -147,11 +145,9 @@ Disponible en :
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Mercedes-EQ EQS 450+.
 
 L'option standard est une banquette trois places avec une répartition 40:20:40 où vous pouvez replier chaque section séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - Appuie-tête réglable en hauteur
 
 L'option second est une banquette trois places avec une répartition 40:20:40 où vous pouvez replier chaque section séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - Appuie-tête réglable en hauteur
 - [Réglage des renforts latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 

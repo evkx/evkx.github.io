@@ -114,7 +114,6 @@ Tesla Model 3 Performance (GEN1) har plads til fem passagerer med to forsæder o
 Tesla Model 3 Performance (GEN1) tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - Højdejusterbar nakkestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)

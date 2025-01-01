@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/main_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Tesla Cybertruck AWD. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Tesla Cybertruck AWD, gå till [chargeinfo](../chargecurve/) för Tesla Cybertruck AWD med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Tesla Cybertruck AWD. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Tesla Cybertruck AWD, gå till [chargeinfo](../chargingcurve/) för Tesla Cybertruck AWD med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -601,7 +601,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

@@ -108,7 +108,6 @@ Le Jaguar I-Pace EV400 peut accueillir cinq passagers avec deux sièges à l'ava
 La première rangée offre deux types de sièges pour répondre à diverses préférences de confort et de style :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Performance** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -127,7 +126,6 @@ Disponible en :
 - Gray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
@@ -136,8 +134,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport** :
 - [Chauffage](../../../../technology/seats/adjustment/#heating)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [Réglage des renforts latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optionnel)
-- [Réglage des renforts latéraux de l'assise](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (optionnel)
-- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optionnel)
+[Réglage des renforts latéraux de l'assise](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (optionnel)- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optionnel)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 
 Disponible en :
@@ -158,7 +155,6 @@ Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Jagu
 L'option standard est une banquette trois places avec une répartition 60:40 où vous pouvez replier chaque section séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
 L'option second est une banquette trois places avec une répartition 40:20:40 où vous pouvez replier chaque section séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (standard pour les sièges extérieurs)
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}

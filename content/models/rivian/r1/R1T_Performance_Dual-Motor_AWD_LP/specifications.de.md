@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/main_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2100" height="1400" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für Rivian R1T Performance Dual-Motor AWD LP zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Rivian R1T Performance Dual-Motor AWD LP, besuchen Sie die [Ladeinformationen](../chargecurve/) für Rivian R1T Performance Dual-Motor AWD LP mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für Rivian R1T Performance Dual-Motor AWD LP zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Rivian R1T Performance Dual-Motor AWD LP, besuchen Sie die [Ladeinformationen](../chargingcurve/) für Rivian R1T Performance Dual-Motor AWD LP mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -542,7 +542,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Standard elektrische Funktion

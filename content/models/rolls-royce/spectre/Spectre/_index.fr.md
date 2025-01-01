@@ -105,7 +105,6 @@ La disposition des sièges est de deux sièges à l'avant et deux sièges à l'a
 Le Rolls-Royce Spectre propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -132,7 +131,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 Pour la deuxième rangée, ce modèle dispose de deux [sièges exécutifs](../../../../technology/seats/types/#twin-executive-seats). Fonctionnalités supplémentaires :
-
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
 - [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)

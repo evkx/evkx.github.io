@@ -108,7 +108,6 @@ The Mercedes-EQ EQC 400 4MATIC accommodates five passengers with two front seats
 The Mercedes-EQ EQC 400 4MATIC offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 
 Available in:

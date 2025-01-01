@@ -136,7 +136,6 @@ This model offers a four-seat layout or an optional 4+1 layout.
 The front row offers three seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **Comfort** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
@@ -144,7 +143,6 @@ The following functionalities are available on the **Comfort** seat:
 Available in:
 
 The following functionalities are available on the **Comfortseats with memory** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
@@ -153,14 +151,12 @@ The following functionalities are available on the **Comfortseats with memory** 
 Available in:
 
 The following functionalities are available on the **Sportsseats Plus** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
@@ -171,7 +167,6 @@ Available in:
 You can choose two seat types for the second row in the Porsche Taycan 4S Sport Turismo.
 
 The standard option is two integrated seats in the second row. Additional functionalities include:
-
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 The second option is two integrated seats in the second row with a third smaller seat in between. Additional functionalities include:

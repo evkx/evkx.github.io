@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/main_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2249" >}}
-EVKX.net søger at have de mest komplette specifikationer for MG MG4 Electric Extended Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af MG MG4 Electric Extended Range, besøg [chargeinfo](../chargecurve/) for MG MG4 Electric Extended Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for MG MG4 Electric Extended Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af MG MG4 Electric Extended Range, besøg [chargeinfo](../chargingcurve/) for MG MG4 Electric Extended Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -537,7 +537,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

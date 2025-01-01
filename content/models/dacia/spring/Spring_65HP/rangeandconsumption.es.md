@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 La autonomía variará dependiendo de varios factores, como la velocidad a la que conduces, la temperatura, si la carretera está mojada o seca y el equipo instalado. En esta página encontrarás un diagrama y tablas con los resultados del ciclo de prueba estándar como WLTP y EPA y la autonomía estimada en el mundo real en diferentes entornos.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/dacia/spring/spring_65hp/range.svg"/>
-<a href="/images/models/dacia/spring/spring_65hp/range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/dacia/spring/spring_65hp/range.svg"/>
+<a href="/images/nb-NO/models/dacia/spring/spring_65hp/range.svg">Full screen</a>
 
 ### Resultados del ciclo de prueba oficial
 

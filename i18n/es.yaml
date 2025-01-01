@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-4ce4e131
+  translation: Volkswagen ID.5 Pure es un SUV cupé eléctrico con una autonomía WLTP de hasta 370 km (230 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-362206b1
   translation: Zeekr 7X Long Range RWD es un SUV eléctrico con una autonomía WLTP de hasta 615 km (382 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-53e21be8
   translation: Kia EV9 GT es un SUV eléctrico con una autonomía WLTP de hasta 505 km (314 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-63d7ac4b
-  translation: Porsche Taycan 4 es un sedán eléctrico de lujo con una autonomía WLTP de hasta 643 km (400 millas). EVKX.net tiene todos los detalles.
 

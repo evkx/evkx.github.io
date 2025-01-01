@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hyundai/ioniq_9/ioniq_9_awd_long_range/main_1_st.jpg" title="Hyundai IONIQ 9 AWD Long Range" width="3000" height="1687" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai IONIQ 9 AWD Long Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Hyundai IONIQ 9 AWD Long Range, gå til [chargeinfo](../chargecurve/) for Hyundai IONIQ 9 AWD Long Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai IONIQ 9 AWD Long Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Hyundai IONIQ 9 AWD Long Range, gå til [chargeinfo](../chargingcurve/) for Hyundai IONIQ 9 AWD Long Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -630,7 +630,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ukjent

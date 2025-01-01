@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/main_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1695" >}}
-EVKX.net søger at have de mest komplette specifikationer for Dacia Spring 65HP. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Dacia Spring 65HP, besøg [chargeinfo](../chargecurve/) for Dacia Spring 65HP med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Dacia Spring 65HP. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Dacia Spring 65HP, besøg [chargeinfo](../chargingcurve/) for Dacia Spring 65HP med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -534,7 +534,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ikke tilgængelig

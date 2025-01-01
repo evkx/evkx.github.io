@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/main_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000" >}}
-EVKX.net søger at have de mest komplette specifikationer for Honda e:Ny1. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Honda e:Ny1, besøg [chargeinfo](../chargecurve/) for Honda e:Ny1 med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Honda e:Ny1. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Honda e:Ny1, besøg [chargeinfo](../chargingcurve/) for Honda e:Ny1 med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -521,7 +521,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk fører, ikke tilgængelig for passager

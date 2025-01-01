@@ -114,7 +114,6 @@ El Mercedes-EQ EQS 500 4MATIC acomoda cinco pasajeros con dos asientos delantero
 La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - Reposacabezas ajustable en altura
@@ -126,7 +125,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**:
 Disponible en:
 
 Las siguientes funcionalidades están disponibles en el asiento **multicontour**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - Reposacabezas ajustable en altura
 - Reposacabezas ajustable en longitud
@@ -147,11 +145,9 @@ Disponible en:
 Puede elegir entre dos tipos de asientos para la segunda fila en el Mercedes-EQ EQS 500 4MATIC.
 
 La opción standard es un banco de tres asientos con una división 40:20:40 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - Reposacabezas ajustable en altura
 
 La opción second es un banco de tres asientos con una división 40:20:40 donde se puede plegar cada sección por separado para aumentar el espacio de carga. Las funcionalidades adicionales incluyen:
-
 - Reposacabezas ajustable en altura
 - [Ajuste de los soportes laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 

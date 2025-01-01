@@ -147,7 +147,6 @@ Die Sitzanordnung besteht aus sechs Sitzen mit zwei vorne, zwei Kapitänssitzen 
 Der Nio EL8 bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
@@ -175,7 +174,6 @@ Verfügbar in:
 Sie können zwei Sitztypen für die zweite Reihe im Nio EL8 wählen.
 
 Die standard-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
@@ -183,7 +181,6 @@ Die standard-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 Die second-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/main_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="1687" >}}
-EVKX.net busca tener las especificaciones más completas para Leapmotor C10 69kWh RWD. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Leapmotor C10 69kWh RWD, visite [chargeinfo](../chargecurve/) para Leapmotor C10 69kWh RWD con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Leapmotor C10 69kWh RWD. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Leapmotor C10 69kWh RWD, visite [chargeinfo](../chargingcurve/) para Leapmotor C10 69kWh RWD con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -526,7 +526,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				No disponible

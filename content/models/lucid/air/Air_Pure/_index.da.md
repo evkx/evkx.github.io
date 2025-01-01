@@ -109,7 +109,6 @@ Lucid Air Pure har plads til fem passagerer med to forsæder og en trebænk bagt
 Lucid Air Pure tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - Længdejusterbar nakkestøtte
@@ -124,7 +123,6 @@ Fås med:
 #### Anden række sæder
 
 Anden række har en standard tresæders bænk med 60:40 opdeling, hvor hver sektion kan foldes separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for ydersæder)
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/secondrowseats_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}

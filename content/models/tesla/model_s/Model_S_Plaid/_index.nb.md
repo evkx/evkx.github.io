@@ -112,7 +112,6 @@ Tesla Model S Plaid har plass til fem passasjerer med to forseter og en treseter
 Tesla Model S Plaid tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - Høydejusterbar hodestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)

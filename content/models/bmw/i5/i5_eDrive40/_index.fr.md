@@ -117,7 +117,6 @@ Le BMW i5 eDrive40 peut accueillir cinq passagers avec deux sièges à l'avant e
 La première rangée offre deux types de sièges pour répondre à diverses préférences de confort et de style :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - Appuie-tête réglable en hauteur
@@ -128,7 +127,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport** :
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfort seats** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - Appuie-tête réglable en hauteur
 - [Chauffage](../../../../technology/seats/adjustment/#heating)

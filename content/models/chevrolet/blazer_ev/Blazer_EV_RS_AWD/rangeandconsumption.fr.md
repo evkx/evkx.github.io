@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 L'autonomie variera en fonction de plusieurs facteurs, tels que la vitesse de conduite, la température, la route mouillée ou sèche, et l'équipement installé. Sur cette page, vous trouverez un diagramme et des tableaux avec les résultats des cycles de test standard comme WLTP et EPA, ainsi que des estimations de l'autonomie réelle dans différents environnements.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/chevrolet/blazer_ev/blazer_ev_rs_awd/range.svg"/>
-<a href="/images/models/chevrolet/blazer_ev/blazer_ev_rs_awd/range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/chevrolet/blazer_ev/blazer_ev_rs_awd/range.svg"/>
+<a href="/images/nb-NO/models/chevrolet/blazer_ev/blazer_ev_rs_awd/range.svg">Full screen</a>
 
 ### Résultats des cycles de test officiels
 

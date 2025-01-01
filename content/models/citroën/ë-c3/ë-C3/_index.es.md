@@ -114,12 +114,10 @@ El Citroën ë-C3 acomoda cinco pasajeros con dos asientos delanteros y un banco
 La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **Start**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 
 Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste manual)
@@ -136,7 +134,6 @@ Disponible en:
 Puede elegir entre dos tipos de asientos para la segunda fila en el Citroën ë-C3.
 
 Las siguientes funcionalidades están disponibles en el asiento **Standard**:
-
 - Reposacabezas ajustable en altura
 
 Disponible en:
@@ -144,7 +141,6 @@ Disponible en:
 - Black [tapicería de tela](../../../../technology/seats/materials/#fabric)
 
 Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**:
-
 - Reposacabezas ajustable en altura
 
 Disponible en:

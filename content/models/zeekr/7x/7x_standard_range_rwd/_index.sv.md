@@ -118,7 +118,6 @@ Zeekr 7X Standard Range RWD rymmer fem passagerare med två framsäten och en tr
 Zeekr 7X Standard Range RWD erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
@@ -144,14 +143,12 @@ Finns tillgänglig i:
 Du kan välja mellan två olika sätesvarianter för andra raden i Zeekr 7X Standard Range RWD.
 
 standard-alternativet är en tresätesoffa med 40:60 delning där du kan fälla varje sektion separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - Höjdjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (standard för yttersäten)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttersäten)
 
 second-alternativet är ett [exekutivsäte kombinerat med en tvåsätesoffa](../../../../technology/seats/types/#executive-seat--two-seat-bench). Ytterligare funktioner inkluderar:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (standard för yttersäten)

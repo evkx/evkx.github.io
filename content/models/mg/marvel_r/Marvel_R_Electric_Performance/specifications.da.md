@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/main_1_st.jpg" title="MG Marvel R Electric Performance" width="2560" height="1708" >}}
-EVKX.net søger at have de mest komplette specifikationer for MG Marvel R Electric Performance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af MG Marvel R Electric Performance, besøg [chargeinfo](../chargecurve/) for MG Marvel R Electric Performance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for MG Marvel R Electric Performance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af MG Marvel R Electric Performance, besøg [chargeinfo](../chargingcurve/) for MG Marvel R Electric Performance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -545,7 +545,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

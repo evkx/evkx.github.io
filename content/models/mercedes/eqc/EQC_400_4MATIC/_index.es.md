@@ -107,7 +107,6 @@ El Mercedes-EQ EQC 400 4MATIC acomoda cinco pasajeros con dos asientos delantero
 El Mercedes-EQ EQC 400 4MATIC ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual)
 
 Disponible en:

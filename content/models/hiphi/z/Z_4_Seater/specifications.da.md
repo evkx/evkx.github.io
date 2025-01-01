@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/main_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1486" >}}
-EVKX.net søger at have de mest komplette specifikationer for HiPhi Z 4 Seater. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af HiPhi Z 4 Seater, besøg [chargeinfo](../chargecurve/) for HiPhi Z 4 Seater med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for HiPhi Z 4 Seater. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af HiPhi Z 4 Seater, besøg [chargeinfo](../chargingcurve/) for HiPhi Z 4 Seater med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -481,7 +481,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

@@ -129,7 +129,6 @@ Kia EV6 GT rymmer fem passagerare med två framsäten och en tresätessoffa bak.
 Kia EV6 GT erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **Bucket** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar)
@@ -140,7 +139,6 @@ Följande funktioner finns tillgängliga på **Bucket** sätet:
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med 60:40 delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - Höjdjusterbart nackstöd (manuellt justerbar)
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating) (standard för yttersäten)

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/main_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for GMC Hummer EV SUV 3x. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of GMC Hummer EV SUV 3x, visit the [chargeinfo](../chargecurve/) for GMC Hummer EV SUV 3x with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for GMC Hummer EV SUV 3x. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of GMC Hummer EV SUV 3x, visit the [chargeinfo](../chargingcurve/) for GMC Hummer EV SUV 3x with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -609,7 +609,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Not Available

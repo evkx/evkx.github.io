@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2000" >}}
-EVKX.net søger at have de mest komplette specifikationer for Hyundai Ioniq 5 N. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Hyundai Ioniq 5 N, besøg [chargeinfo](../chargecurve/) for Hyundai Ioniq 5 N med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Hyundai Ioniq 5 N. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Hyundai Ioniq 5 N, besøg [chargeinfo](../chargingcurve/) for Hyundai Ioniq 5 N med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -590,7 +590,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

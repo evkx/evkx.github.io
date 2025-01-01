@@ -111,7 +111,6 @@ Volkswagen ID. Buzz Pro har plass til fem passasjerer med to forseter og en tres
 Første seterad tilbyr to setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - Høydejusterbar hodestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)
@@ -126,7 +125,6 @@ Tilgjengelig i:
 - Blue [stofftrekk](../../../../technology/seats/materials/#fabric)
 
 Følgende funksjoner er tilgjengelig på **comfort** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgjengelig for passasjer)

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/main_1_st.jpg" title="XPENG G9 RWD Long Range" width="3000" height="1999" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG G9 RWD Long Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av XPENG G9 RWD Long Range, gå til [chargeinfo](../chargecurve/) for XPENG G9 RWD Long Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG G9 RWD Long Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av XPENG G9 RWD Long Range, gå til [chargeinfo](../chargingcurve/) for XPENG G9 RWD Long Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -542,7 +542,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

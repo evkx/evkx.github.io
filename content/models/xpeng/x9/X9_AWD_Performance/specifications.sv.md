@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/main_1_st.jpg" title="XPENG X9 AWD Performance" width="1920" height="1080" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för XPENG X9 AWD Performance. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av XPENG X9 AWD Performance, gå till [chargeinfo](../chargecurve/) för XPENG X9 AWD Performance med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för XPENG X9 AWD Performance. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av XPENG X9 AWD Performance, gå till [chargeinfo](../chargingcurve/) för XPENG X9 AWD Performance med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -462,7 +462,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

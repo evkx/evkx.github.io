@@ -106,7 +106,6 @@ The Volvo EX30 Twin Motor Performance accommodates five passengers with two fron
 The Volvo EX30 Twin Motor Performance offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable)
@@ -124,7 +123,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250"  >}}

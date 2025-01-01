@@ -137,7 +137,6 @@ Ce modèle offre une disposition à quatre sièges ou une disposition optionnell
 La première rangée offre deux types de sièges pour répondre à diverses préférences de confort et de style :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats with memory** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -167,7 +166,6 @@ Disponible en :
 - Black/Beige [revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -177,8 +175,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [Support lombaire réglable](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [Réglage des renforts latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Réglage des renforts latéraux de l'assise](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+[Réglage des renforts latéraux de l'assise](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)- [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Disponible en :
@@ -205,13 +202,11 @@ Disponible en :
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Porsche Taycan GTS Sport Turismo.
 
 L'option standard est deux sièges intégrés dans la deuxième rangée. Fonctionnalités supplémentaires :
-
 - Appuie-tête réglable en hauteur
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 L'option second est deux sièges intégrés dans la deuxième rangée avec un troisième siège plus petit au milieu. Fonctionnalités supplémentaires :
-
 - Appuie-tête réglable en hauteur
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 

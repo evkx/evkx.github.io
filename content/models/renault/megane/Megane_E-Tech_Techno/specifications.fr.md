@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Renault Megane E-Tech Techno. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Renault Megane E-Tech Techno, visitez les [chargeinfo](../chargecurve/) pour Renault Megane E-Tech Techno avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Renault Megane E-Tech Techno. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Renault Megane E-Tech Techno, visitez les [chargeinfo](../chargingcurve/) pour Renault Megane E-Tech Techno avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -569,7 +569,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Inconnu

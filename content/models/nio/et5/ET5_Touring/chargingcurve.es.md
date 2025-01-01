@@ -12,9 +12,9 @@ Este modelo está disponible con múltiples baterías. A continuación, encontra
 
 ### 100 kWh 100kWh
 
-<img src="/images/models/nio/et5/et5_touring/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/nio/et5/et5_touring/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/nio/et5/et5_touring/chargingcurve_1.svg)
+[Full screen](/images/nb-NO/models/nio/et5/et5_touring/chargingcurve_1.svg)
 
 
 <div class="table-responsive">
@@ -103,9 +103,9 @@ Este modelo está disponible con múltiples baterías. A continuación, encontra
 	</tbody>
 </table>
 </div>
-<img src="/images/models/nio/et5/et5_touring/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/nio/et5/et5_touring/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/et5/et5_touring/chargingtime_1.svg)
+[Full screen](/images/nb-NO/models/nio/et5/et5_touring/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -144,9 +144,9 @@ Este modelo está disponible con múltiples baterías. A continuación, encontra
 	</tbody>
 </table>
 </div>
-<img src="/images/models/nio/et5/et5_touring/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/nio/et5/et5_touring/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/et5/et5_touring/chargerangespeed_1.svg)
+[Full screen](/images/nb-NO/models/nio/et5/et5_touring/chargerangespeed_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1670,9 +1670,9 @@ Nio ET5 Touring tiene calefacción de batería, lo que facilita la carga a una t
 
 ### 75 kWh 75kWh
 
-<img src="/images/models/nio/et5/et5_touring/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/nio/et5/et5_touring/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/nio/et5/et5_touring/chargingcurve_2.svg)
+[Full screen](/images/nb-NO/models/nio/et5/et5_touring/chargingcurve_2.svg)
 
 
 <div class="table-responsive">
@@ -1761,9 +1761,9 @@ Nio ET5 Touring tiene calefacción de batería, lo que facilita la carga a una t
 	</tbody>
 </table>
 </div>
-<img src="/images/models/nio/et5/et5_touring/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/nio/et5/et5_touring/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/et5/et5_touring/chargingtime_2.svg)
+[Full screen](/images/nb-NO/models/nio/et5/et5_touring/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1802,9 +1802,9 @@ Nio ET5 Touring tiene calefacción de batería, lo que facilita la carga a una t
 	</tbody>
 </table>
 </div>
-<img src="/images/models/nio/et5/et5_touring/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/nio/et5/et5_touring/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/et5/et5_touring/chargerangespeed_2.svg)
+[Full screen](/images/nb-NO/models/nio/et5/et5_touring/chargerangespeed_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

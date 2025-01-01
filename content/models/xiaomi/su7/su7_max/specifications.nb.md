@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/main_1_st.jpg" title="Xiaomi SU7 Max" width="3000" height="1500" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Xiaomi SU7 Max. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Xiaomi SU7 Max, gå til [chargeinfo](../chargecurve/) for Xiaomi SU7 Max med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Xiaomi SU7 Max. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Xiaomi SU7 Max, gå til [chargeinfo](../chargingcurve/) for Xiaomi SU7 Max med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -510,7 +510,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ukjent

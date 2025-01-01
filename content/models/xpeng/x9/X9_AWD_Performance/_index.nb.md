@@ -95,7 +95,6 @@ Seteoppsettet er syv seter med to foran, to seter i andre rad og tre seter på t
 XPENG X9 AWD Performance tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -117,7 +116,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 For andre seterad har denne modellen to kapteinsseter. Andre funksjoner inkluderer:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)

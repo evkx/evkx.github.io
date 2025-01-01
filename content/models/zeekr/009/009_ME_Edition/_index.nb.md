@@ -105,7 +105,6 @@ Seteoppsettet er seks seter med to foran, to kapteinsseter i andre rad, og en to
 Zeekr 009 ME Edition tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating)
@@ -125,7 +124,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 For andre seterad har denne modellen to kapteinsseter. Andre funksjoner inkluderer:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)

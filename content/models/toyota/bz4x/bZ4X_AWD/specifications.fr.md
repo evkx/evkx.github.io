@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/main_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="2002" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Toyota bZ4X AWD. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Toyota bZ4X AWD, visitez les [chargeinfo](../chargecurve/) pour Toyota bZ4X AWD avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Toyota bZ4X AWD. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Toyota bZ4X AWD, visitez les [chargeinfo](../chargingcurve/) pour Toyota bZ4X AWD avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -641,7 +641,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Fonction électrique optionnelle

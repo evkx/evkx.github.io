@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/main_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1571" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Ford F150 Lightning Standard Range. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Ford F150 Lightning Standard Range, gå till [chargeinfo](../chargecurve/) för Ford F150 Lightning Standard Range med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Ford F150 Lightning Standard Range. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Ford F150 Lightning Standard Range, gå till [chargeinfo](../chargingcurve/) för Ford F150 Lightning Standard Range med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -598,7 +598,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion

@@ -105,7 +105,6 @@ The seat layout is the two seats in front and two seats in the rear.
 The Rolls-Royce Spectre offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -132,7 +131,6 @@ Available in:
 #### Second Row Seat
 
 For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). Additional functionalities include:
-
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)

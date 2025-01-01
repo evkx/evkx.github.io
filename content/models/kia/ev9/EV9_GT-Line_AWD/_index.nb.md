@@ -133,7 +133,6 @@ Kia EV9 GT-Line AWD er tilgjengelig med seks eller syv seter for økt fleksibili
 Kia EV9 GT-Line AWD tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på ** Premium Relaxion** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -154,7 +153,6 @@ Følgende funksjoner er tilgjengelig på ** Premium Relaxion** setet:
 Du kan velge mellom tre setetyper for andre rad i Kia EV9 GT-Line AWD.
 
 standard alternativet er en treseter-benk med 60:40 deling hvor du kan felle ned hver del separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - Høydejusterbar hodestøtte
@@ -163,7 +161,6 @@ standard alternativet er en treseter-benk med 60:40 deling hvor du kan felle ned
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
 second alternativet er to kapteinsseter. Andre funksjoner inkluderer:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)
 - Høydejusterbar hodestøtte
@@ -173,7 +170,6 @@ second alternativet er to kapteinsseter. Andre funksjoner inkluderer:
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 third alternativet er to kapteinsseter. Andre funksjoner inkluderer:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - Høydejusterbar hodestøtte

@@ -118,7 +118,6 @@ Mercedes-Maybach EQS 680 SUV fås i en standard femsæders konfiguration, med en
 Mercedes-Maybach EQS 680 SUV tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **multicontour** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - Højdejusterbar nakkestøtte
 - Længdejusterbar nakkestøtte
@@ -137,7 +136,6 @@ Fås med:
 #### Anden række sæder
 
 Til anden række har denne model to [komfortsæder](../../../../technology/seats/types/#twin-executive-seats). Yderligere funktioner inkluderer:
-
 - Højdejusterbar nakkestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)
 - [Justerbar lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)

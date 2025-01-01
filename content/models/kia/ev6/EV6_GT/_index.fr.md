@@ -129,7 +129,6 @@ Le Kia EV6 GT peut accueillir cinq passagers avec deux sièges à l'avant et une
 Le Kia EV6 GT propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Bucket** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
@@ -140,7 +139,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Bucket** :
 #### Sièges de Deuxième Rangée
 
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition 60:40, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - Appuie-tête réglable en hauteur (réglable manuellement)
 - [Chauffage](../../../../technology/seats/adjustment/#heating) (standard pour les sièges extérieurs)

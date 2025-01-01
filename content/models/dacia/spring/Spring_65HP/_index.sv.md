@@ -102,7 +102,6 @@ Sätesupplägget består av två säten fram och två säten bak.
 Dacia Spring 65HP erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 
@@ -115,7 +114,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 Följande funktioner finns tillgängliga på **** sätet:
-
 - Höjdjusterbart nackstöd
 
 Finns tillgänglig i:

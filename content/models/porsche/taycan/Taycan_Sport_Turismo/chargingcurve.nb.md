@@ -12,9 +12,9 @@ Denne modellen er tilgjengelig med flere batterier. Under finner du ytelsen for 
 
 ### 105 kWh Performance Battery Plus
 
-<img src="/images/models/porsche/taycan/taycan_sport_turismo/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_sport_turismo/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo/chargingcurve_1.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_sport_turismo/chargingcurve_1.svg)
 
 
 <div class="table-responsive">
@@ -103,9 +103,9 @@ Denne modellen er tilgjengelig med flere batterier. Under finner du ytelsen for 
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan_sport_turismo/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_sport_turismo/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo/chargingtime_1.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_sport_turismo/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -144,9 +144,9 @@ Denne modellen er tilgjengelig med flere batterier. Under finner du ytelsen for 
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan_sport_turismo/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_sport_turismo/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo/chargerangespeed_1.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_sport_turismo/chargerangespeed_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1670,9 +1670,9 @@ Porsche Taycan Sport Turismo har batterioppvarming, som gjør det enklere å lad
 
 ### 89 kWh Performance Battery
 
-<img src="/images/models/porsche/taycan/taycan_sport_turismo/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_sport_turismo/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo/chargingcurve_2.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_sport_turismo/chargingcurve_2.svg)
 
 
 <div class="table-responsive">
@@ -1761,9 +1761,9 @@ Porsche Taycan Sport Turismo har batterioppvarming, som gjør det enklere å lad
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan_sport_turismo/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_sport_turismo/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo/chargingtime_2.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_sport_turismo/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1802,9 +1802,9 @@ Porsche Taycan Sport Turismo har batterioppvarming, som gjør det enklere å lad
 	</tbody>
 </table>
 </div>
-<img src="/images/models/porsche/taycan/taycan_sport_turismo/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/porsche/taycan/taycan_sport_turismo/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo/chargerangespeed_2.svg)
+[Full screen](/images/nb-NO/models/porsche/taycan/taycan_sport_turismo/chargerangespeed_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

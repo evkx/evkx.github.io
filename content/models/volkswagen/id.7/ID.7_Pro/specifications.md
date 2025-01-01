@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/main_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for Volkswagen ID.7 Pro. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.7 Pro, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.7 Pro with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Volkswagen ID.7 Pro. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.7 Pro, visit the [chargeinfo](../chargingcurve/) for Volkswagen ID.7 Pro with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -625,7 +625,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown
@@ -770,7 +770,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Standard electric feature

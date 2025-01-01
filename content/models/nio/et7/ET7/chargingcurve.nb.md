@@ -12,9 +12,9 @@ Denne modellen er tilgjengelig med flere batterier. Under finner du ytelsen for 
 
 ### 100 kWh 100kWh
 
-<img src="/images/models/nio/et7/et7/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/nio/et7/et7/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/nio/et7/et7/chargingcurve_1.svg)
+[Full screen](/images/nb-NO/models/nio/et7/et7/chargingcurve_1.svg)
 
 
 <div class="table-responsive">
@@ -103,9 +103,9 @@ Denne modellen er tilgjengelig med flere batterier. Under finner du ytelsen for 
 	</tbody>
 </table>
 </div>
-<img src="/images/models/nio/et7/et7/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/nio/et7/et7/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/et7/et7/chargingtime_1.svg)
+[Full screen](/images/nb-NO/models/nio/et7/et7/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -144,9 +144,9 @@ Denne modellen er tilgjengelig med flere batterier. Under finner du ytelsen for 
 	</tbody>
 </table>
 </div>
-<img src="/images/models/nio/et7/et7/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/nio/et7/et7/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/et7/et7/chargerangespeed_1.svg)
+[Full screen](/images/nb-NO/models/nio/et7/et7/chargerangespeed_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1670,9 +1670,9 @@ Nio ET7 har batterioppvarming, som gjør det enklere å lade ved optimal batteri
 
 ### 75 kWh 75kWh
 
-<img src="/images/models/nio/et7/et7/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/nio/et7/et7/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/nio/et7/et7/chargingcurve_2.svg)
+[Full screen](/images/nb-NO/models/nio/et7/et7/chargingcurve_2.svg)
 
 
 <div class="table-responsive">
@@ -1761,9 +1761,9 @@ Nio ET7 har batterioppvarming, som gjør det enklere å lade ved optimal batteri
 	</tbody>
 </table>
 </div>
-<img src="/images/models/nio/et7/et7/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/nio/et7/et7/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/et7/et7/chargingtime_2.svg)
+[Full screen](/images/nb-NO/models/nio/et7/et7/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1802,9 +1802,9 @@ Nio ET7 har batterioppvarming, som gjør det enklere å lade ved optimal batteri
 	</tbody>
 </table>
 </div>
-<img src="/images/models/nio/et7/et7/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/nio/et7/et7/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/et7/et7/chargerangespeed_2.svg)
+[Full screen](/images/nb-NO/models/nio/et7/et7/chargerangespeed_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

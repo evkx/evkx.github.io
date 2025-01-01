@@ -130,7 +130,6 @@ Kia EV9 Long Range RWD er tilgjengelig med seks eller syv seter for økt fleksib
 Første seterad tilbyr to setetyper for å imøtekomme ulike komfort- og stilpreferanser:
 
 Følgende funksjoner er tilgjengelig på **8 Way** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -143,7 +142,6 @@ Følgende funksjoner er tilgjengelig på **8 Way** setet:
 - [Massasje](../../../../technology/seats/adjustment/#massage) (standard for fører, ikke tilgjengelig for passasjer)
 
 Følgende funksjoner er tilgjengelig på **Premium Relaxion** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -163,14 +161,12 @@ Følgende funksjoner er tilgjengelig på **Premium Relaxion** setet:
 Du kan velge mellom tre setetyper for andre rad i Kia EV9 Long Range RWD.
 
 standard alternativet er en treseter-benk med 60:40 deling hvor du kan felle ned hver del separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - Høydejusterbar hodestøtte
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for yttersetene)
 
 second alternativet er to kapteinsseter. Andre funksjoner inkluderer:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)
 - Høydejusterbar hodestøtte
@@ -180,7 +176,6 @@ second alternativet er to kapteinsseter. Andre funksjoner inkluderer:
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 third alternativet er to kapteinsseter. Andre funksjoner inkluderer:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - Høydejusterbar hodestøtte

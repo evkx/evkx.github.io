@@ -8,9 +8,9 @@ navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-<img src="/images/models/xiaomi/su7/su7_ultra/chargingcurve.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/xiaomi/su7/su7_ultra/chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/xiaomi/su7/su7_ultra/chargingcurve.svg)
+[Full screen](/images/nb-NO/models/xiaomi/su7/su7_ultra/chargingcurve.svg)
 
 
 <div class="alert alert-primary" role="alert">
@@ -102,9 +102,9 @@ La curva de carga para este modelo se deriva de datos del fabricante y conocimie
 	</tbody>
 </table>
 </div>
-<img src="/images/models/xiaomi/su7/su7_ultra/chargingtime.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/xiaomi/su7/su7_ultra/chargingtime.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/xiaomi/su7/su7_ultra/chargingtime.svg)
+[Full screen](/images/nb-NO/models/xiaomi/su7/su7_ultra/chargingtime.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -143,9 +143,9 @@ La curva de carga para este modelo se deriva de datos del fabricante y conocimie
 	</tbody>
 </table>
 </div>
-<img src="/images/models/xiaomi/su7/su7_ultra/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/xiaomi/su7/su7_ultra/chargerangespeed.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/xiaomi/su7/su7_ultra/chargerangespeed.svg)
+[Full screen](/images/nb-NO/models/xiaomi/su7/su7_ultra/chargerangespeed.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

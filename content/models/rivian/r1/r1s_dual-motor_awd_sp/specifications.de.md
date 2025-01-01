@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/main_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für Rivian R1S Dual-Motor AWD SP zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Rivian R1S Dual-Motor AWD SP, besuchen Sie die [Ladeinformationen](../chargecurve/) für Rivian R1S Dual-Motor AWD SP mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für Rivian R1S Dual-Motor AWD SP zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von Rivian R1S Dual-Motor AWD SP, besuchen Sie die [Ladeinformationen](../chargingcurve/) für Rivian R1S Dual-Motor AWD SP mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -510,7 +510,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Standard elektrische Funktion

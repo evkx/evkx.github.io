@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lexus/rz/rz_300e/main_1_st.jpg" title="Lexus RZ 300e" width="3000" height="1999" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Lexus RZ 300e. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Lexus RZ 300e, gå til [chargeinfo](../chargecurve/) for Lexus RZ 300e med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Lexus RZ 300e. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Lexus RZ 300e, gå til [chargeinfo](../chargingcurve/) for Lexus RZ 300e med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -649,7 +649,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Valgfri elektrisk funksjon

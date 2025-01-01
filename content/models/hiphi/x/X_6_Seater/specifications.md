@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/main_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for HiPhi X 6 Seater. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of HiPhi X 6 Seater, visit the [chargeinfo](../chargecurve/) for HiPhi X 6 Seater with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for HiPhi X 6 Seater. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of HiPhi X 6 Seater, visit the [chargeinfo](../chargingcurve/) for HiPhi X 6 Seater with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -473,7 +473,7 @@ This model is available with a seat configuration with six seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

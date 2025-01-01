@@ -111,7 +111,6 @@ BMW i7 eDrive50 har plass til fem passasjerer med to forseter og en treseters be
 BMW i7 eDrive50 tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -147,7 +146,6 @@ Du kan velge mellom to setetyper for andre rad i BMW i7 eDrive50.
 standard alternativet er en treseter-benk med  deling hvor du kan felle ned hver del separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
 
 second alternativet er et [executive-sete kombinert med en toseter-benk](../../../../technology/seats/types/#executive-seat--two-seat-bench). Andre funksjoner inkluderer:
-
 - [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massasje](../../../../technology/seats/adjustment/#massage)
 - [Benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support) (standard for yttersetene)

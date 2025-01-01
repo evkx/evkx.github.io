@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/main_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1850" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Maserati GranCabrio Folgore. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Maserati GranCabrio Folgore, gå til [chargeinfo](../chargecurve/) for Maserati GranCabrio Folgore med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Maserati GranCabrio Folgore. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Maserati GranCabrio Folgore, gå til [chargeinfo](../chargingcurve/) for Maserati GranCabrio Folgore med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -545,7 +545,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/main_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2007" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Lucid Gravity Dream Edition. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Lucid Gravity Dream Edition, gå till [chargeinfo](../chargecurve/) för Lucid Gravity Dream Edition med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Lucid Gravity Dream Edition. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Lucid Gravity Dream Edition, gå till [chargeinfo](../chargingcurve/) för Lucid Gravity Dream Edition med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -680,7 +680,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

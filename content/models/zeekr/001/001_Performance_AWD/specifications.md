@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/main_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for Zeekr 001 Performance AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr 001 Performance AWD, visit the [chargeinfo](../chargecurve/) for Zeekr 001 Performance AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Zeekr 001 Performance AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr 001 Performance AWD, visit the [chargeinfo](../chargingcurve/) for Zeekr 001 Performance AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -601,7 +601,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

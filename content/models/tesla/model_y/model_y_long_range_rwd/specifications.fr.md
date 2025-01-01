@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/main_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2250" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Tesla Model Y Long Range RWD. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Tesla Model Y Long Range RWD, visitez les [chargeinfo](../chargecurve/) pour Tesla Model Y Long Range RWD avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Tesla Model Y Long Range RWD. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Tesla Model Y Long Range RWD, visitez les [chargeinfo](../chargingcurve/) pour Tesla Model Y Long Range RWD avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -665,7 +665,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Fonction électrique standard

@@ -8,9 +8,9 @@ navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-<img src="/images/models/volkswagen/id._unyx/id._unyx/chargingcurve.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/volkswagen/id._unyx/id._unyx/chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/volkswagen/id._unyx/id._unyx/chargingcurve.svg)
+[Full screen](/images/nb-NO/models/volkswagen/id._unyx/id._unyx/chargingcurve.svg)
 
 
 <div class="table-responsive">
@@ -99,9 +99,9 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
-<img src="/images/models/volkswagen/id._unyx/id._unyx/chargingtime.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/volkswagen/id._unyx/id._unyx/chargingtime.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/volkswagen/id._unyx/id._unyx/chargingtime.svg)
+[Full screen](/images/nb-NO/models/volkswagen/id._unyx/id._unyx/chargingtime.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -140,9 +140,9 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
-<img src="/images/models/volkswagen/id._unyx/id._unyx/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/volkswagen/id._unyx/id._unyx/chargerangespeed.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/volkswagen/id._unyx/id._unyx/chargerangespeed.svg)
+[Full screen](/images/nb-NO/models/volkswagen/id._unyx/id._unyx/chargerangespeed.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

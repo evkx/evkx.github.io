@@ -240,6 +240,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Alfa Romeo</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="alpine/"><img src="https://media.evkx.net/multimedia/models/alpine/brandevs_st.jpg" class="img-fluid mb-2" alt="Alpine" ></a>
 	<h2>Alpine</h2>
 	<p>
 		Alpine est une marque française de voitures de sport, fondée en 1955 par Jean Rédélé, spécialisée initialement dans les voitures de sport légères et agiles. Connue pour son association avec Renault, Alpine a gagné en notoriété dans les années 1960 et 1970 avec son A110 Berlinette victorieuse en rallye, célébrée pour sa maniabilité agile et son succès en sport automobile, notamment dans des événements comme le Rallye de Monte-Carlo.
@@ -330,6 +331,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="dacia/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Dacia</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="dongfeng/"><img src="https://media.evkx.net/multimedia/models/dongfeng/brandevs_st.jpg" class="img-fluid mb-2" alt="Dongfeng" ></a>
 	<h2>Dongfeng</h2>
 	<p>
 		Dongfeng Motor Corporation, fondée en 1969, est l'un des plus grands et des plus influents constructeurs automobiles de Chine. Connue pour sa gamme diversifiée de véhicules, y compris les voitures particulières, les camions commerciaux et les véhicules électriques, Dongfeng a une présence significative tant au niveau national qu'international. Avec un fort accent sur l'innovation, l'entreprise a élargi son offre de véhicules électriques, visant à devenir un leader de la mobilité durable.
@@ -364,7 +366,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="fisker/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Fisker</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpeg" class="img-fluid mb-2" alt="Ford" ></a>
+	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpg" class="img-fluid mb-2" alt="Ford" ></a>
 	<h2>Ford</h2>
 	<p>
 	Ford a 5 modèles avec un total de 13 variantes.
@@ -439,6 +441,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="jeep/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Jeep</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="kgm/"><img src="https://media.evkx.net/multimedia/models/kgm/brandevs_st.jpg" class="img-fluid mb-2" alt="KGM" ></a>
 	<h2>KGM</h2>
 	<p>
 		Korean Global Motors (KGM) est un constructeur automobile basé en Corée du Sud. Connu pour sa gamme diversifiée de véhicules, y compris les modèles électriques et hybrides, KGM a apporté des contributions notables au marché automobile mondial. L'entreprise met l'accent sur le design innovant et l'ingénierie avancée, en phase avec les tendances de l'industrie vers la durabilité et l'intégration technologique. KGM continue d'être une présence significative dans le secteur automobile, tant au niveau national qu'international.
@@ -468,6 +471,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="lancia/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Lancia</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="leapmotor/"><img src="https://media.evkx.net/multimedia/models/leapmotor/brandevs_st.jpg" class="img-fluid mb-2" alt="Leapmotor" ></a>
 	<h2>Leapmotor</h2>
 	<p>
 		Leapmotor est un fabricant chinois de véhicules électriques (EV), fondé en 2015. Connu pour ses voitures abordables et technologiques comme la citadine T03 et le SUV C11, Leapmotor met l'accent sur le développement interne des technologies EV de base, y compris les groupes motopropulseurs et la conduite autonome, ciblant le marché croissant des EV en Chine.
@@ -732,7 +736,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="volkswagen/"><img src="https://media.evkx.net/multimedia/models/volkswagen/brandevs_st.jpg" class="img-fluid mb-2" alt="Volkswagen" ></a>
 	<h2>Volkswagen</h2>
 	<p>
-	Volkswagen a 6 modèles avec un total de 28 variantes.
+	Volkswagen a 6 modèles avec un total de 29 variantes.
 	</p>
 	<a href="volkswagen/" class="btn btn-outline-primary" role="button">Aller à la vue d'ensemble des modèles EV de Volkswagen</a>
 </div>

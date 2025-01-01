@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/main_1_st.jpg" title="Genesis GV60 AWD Performance" width="3000" height="1688" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Genesis GV60 AWD Performance. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Genesis GV60 AWD Performance, gå till [chargeinfo](../chargecurve/) för Genesis GV60 AWD Performance med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Genesis GV60 AWD Performance. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Genesis GV60 AWD Performance, gå till [chargeinfo](../chargingcurve/) för Genesis GV60 AWD Performance med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -574,7 +574,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

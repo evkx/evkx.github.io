@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/main_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="1689" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Renault Scenic E-Tech electric. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Renault Scenic E-Tech electric, gå til [chargeinfo](../chargecurve/) for Renault Scenic E-Tech electric med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Renault Scenic E-Tech electric. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Renault Scenic E-Tech electric, gå til [chargeinfo](../chargingcurve/) for Renault Scenic E-Tech electric med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -577,7 +577,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ukjent

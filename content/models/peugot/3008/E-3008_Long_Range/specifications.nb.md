@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/main_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="1875" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-3008 Long Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Peugot E-3008 Long Range, gå til [chargeinfo](../chargecurve/) for Peugot E-3008 Long Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-3008 Long Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Peugot E-3008 Long Range, gå til [chargeinfo](../chargingcurve/) for Peugot E-3008 Long Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -585,7 +585,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ikke tilgjengelig

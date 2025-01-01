@@ -102,7 +102,6 @@ Die Sitzanordnung besteht aus zwei Sitzen vorne und zwei Sitzen hinten.
 Der Dacia Spring 65HP bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
-
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 
@@ -115,7 +114,6 @@ Verfügbar in:
 #### Rücksitzreihe
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
-
 - Höhenverstellbare Kopfstütze
 
 Verfügbar in:

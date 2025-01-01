@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/main_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440" >}}
-EVKX.net seeks to have the most complete specifications for Zeekr 009 ME Edition. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr 009 ME Edition, visit the [chargeinfo](../chargecurve/) for Zeekr 009 ME Edition with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Zeekr 009 ME Edition. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr 009 ME Edition, visit the [chargeinfo](../chargingcurve/) for Zeekr 009 ME Edition with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -545,7 +545,7 @@ This model is available with a seat configuration with six seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

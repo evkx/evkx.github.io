@@ -133,7 +133,6 @@ Le Kia EV9 GT-Line AWD est disponible en disposition à six ou sept sièges pour
 Le Kia EV9 GT-Line AWD propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ** Premium Relaxion** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -154,7 +153,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ** Premium Relaxio
 Vous pouvez choisir trois types de sièges pour la deuxième rangée dans le Kia EV9 GT-Line AWD.
 
 L'option standard est une banquette trois places avec une répartition 60:40 où vous pouvez replier chaque section séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - Appuie-tête réglable en hauteur
@@ -163,7 +161,6 @@ L'option standard est une banquette trois places avec une répartition 60:40 où
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 
 L'option second est deux sièges capitaine. Fonctionnalités supplémentaires :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'angle de l'assise](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
 - Appuie-tête réglable en hauteur
@@ -173,7 +170,6 @@ L'option second est deux sièges capitaine. Fonctionnalités supplémentaires :
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 L'option third est deux sièges capitaine. Fonctionnalités supplémentaires :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - Appuie-tête réglable en hauteur

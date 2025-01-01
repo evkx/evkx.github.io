@@ -111,7 +111,6 @@ Denne model tilbyder en firesæders opsætning eller en valgfri 4+1 opsætning.
 Volkswagen ID.3 Pro S tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - Højdejusterbar nakkestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating) (ekstraudstyr)

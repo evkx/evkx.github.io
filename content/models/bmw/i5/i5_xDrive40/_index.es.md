@@ -117,7 +117,6 @@ El BMW i5 xDrive40 acomoda cinco pasajeros con dos asientos delanteros y un banc
 La primera fila ofrece dos tipos de asientos para satisfacer diversas preferencias de comodidad y estilo:
 
 Las siguientes funcionalidades están disponibles en el asiento **Sport**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste manual, ajuste eléctrico como opción)
 - Reposacabezas ajustable en altura
@@ -128,7 +127,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**:
 - [Ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfort seats**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - Reposacabezas ajustable en altura
 - [Calefacción](../../../../technology/seats/adjustment/#heating)

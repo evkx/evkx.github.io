@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250" >}}
-EVKX.net søger at have de mest komplette specifikationer for Volvo EX30 Twin Motor Performance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Volvo EX30 Twin Motor Performance, besøg [chargeinfo](../chargecurve/) for Volvo EX30 Twin Motor Performance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Volvo EX30 Twin Motor Performance. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Volvo EX30 Twin Motor Performance, besøg [chargeinfo](../chargingcurve/) for Volvo EX30 Twin Motor Performance med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -598,7 +598,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standardfunktion

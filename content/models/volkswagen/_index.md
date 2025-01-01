@@ -86,7 +86,7 @@ Volkswagen ID.4 is a SUV available in 8 variants.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.5 is a Coupe SUV available in 4 variants.
+Volkswagen ID.5 is a Coupe SUV available in 5 variants.
 </p>
 	<a href="id.5/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/yangwang/u9/u9/main_1_st.jpg" title="YangWang U9" width="3000" height="1562" >}}
-EVKX.net seeks to have the most complete specifications for YangWang U9. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of YangWang U9, visit the [chargeinfo](../chargecurve/) for YangWang U9 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for YangWang U9. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of YangWang U9, visit the [chargeinfo](../chargingcurve/) for YangWang U9 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -509,7 +509,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Not Available

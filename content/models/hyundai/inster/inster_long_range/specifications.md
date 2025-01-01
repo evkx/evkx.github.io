@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for Hyundai INSTER Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai INSTER Long Range, visit the [chargeinfo](../chargecurve/) for Hyundai INSTER Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Hyundai INSTER Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai INSTER Long Range, visit the [chargeinfo](../chargingcurve/) for Hyundai INSTER Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -521,7 +521,7 @@ This model is available with a seat configuration with four seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Unknown

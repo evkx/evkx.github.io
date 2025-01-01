@@ -132,7 +132,6 @@ The Audi A6 Sportback e-tron quattro accommodates five passengers with two front
 The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **Sport** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
@@ -151,7 +150,6 @@ Available in:
 - Red [leather upholstering](../../../../technology/seats/materials/#leather)
 
 The following functionalities are available on the **Sport Plus** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -176,7 +174,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi A6 Sportback e-tron quattro" width="3000" height="2249"  >}}

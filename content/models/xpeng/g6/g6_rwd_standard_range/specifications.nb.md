@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/main_1_st.jpg" title="XPENG G6 RWD Standard Range" width="2560" height="1498" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG G6 RWD Standard Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av XPENG G6 RWD Standard Range, gå til [chargeinfo](../chargecurve/) for XPENG G6 RWD Standard Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG G6 RWD Standard Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av XPENG G6 RWD Standard Range, gå til [chargeinfo](../chargingcurve/) for XPENG G6 RWD Standard Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -590,7 +590,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ikke tilgjengelig

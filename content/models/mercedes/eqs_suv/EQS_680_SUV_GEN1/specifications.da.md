@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/main_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2120" >}}
-EVKX.net søger at have de mest komplette specifikationer for Mercedes-Maybach EQS 680 SUV. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Mercedes-Maybach EQS 680 SUV, besøg [chargeinfo](../chargecurve/) for Mercedes-Maybach EQS 680 SUV med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Mercedes-Maybach EQS 680 SUV. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Mercedes-Maybach EQS 680 SUV, besøg [chargeinfo](../chargingcurve/) for Mercedes-Maybach EQS 680 SUV med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -593,7 +593,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

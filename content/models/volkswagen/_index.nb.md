@@ -86,7 +86,7 @@ Volkswagen ID.4 er en SUV tilgjengelig i 8 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.5 er en SUV-kupé tilgjengelig i 4 varianter.
+Volkswagen ID.5 er en SUV-kupé tilgjengelig i 5 varianter.
 </p>
 	<a href="id.5/" class="btn btn-outline-primary" role="button">Gå til modellinformasjon</a>
 		</div>

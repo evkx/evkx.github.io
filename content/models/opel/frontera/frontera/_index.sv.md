@@ -112,7 +112,6 @@ Opel Frontera rymmer fem passagerare med två framsäten och en tresätessoffa b
 Första raden erbjuder två olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
 Följande funktioner finns tillgängliga på **Standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 
@@ -121,7 +120,6 @@ Finns tillgänglig i:
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 
 Följande funktioner finns tillgängliga på **Advanced Comfort** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar)
@@ -136,7 +134,6 @@ Finns tillgänglig i:
 Du kan välja mellan två olika sätesvarianter för andra raden i Opel Frontera.
 
 standard-alternativet är en tresätesoffa med 100 delning där du kan fälla varje sektion separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - Höjdjusterbart nackstöd
 
 Följande funktioner finns tillgängliga på **Advanced Comfort** sätet:

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/main_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="3000" height="1542" >}}
-EVKX.net søger at have de mest komplette specifikationer for Aion Hyper GT 710 Supercharged. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Aion Hyper GT 710 Supercharged, besøg [chargeinfo](../chargecurve/) for Aion Hyper GT 710 Supercharged med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Aion Hyper GT 710 Supercharged. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Aion Hyper GT 710 Supercharged, besøg [chargeinfo](../chargingcurve/) for Aion Hyper GT 710 Supercharged med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -486,7 +486,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funktion

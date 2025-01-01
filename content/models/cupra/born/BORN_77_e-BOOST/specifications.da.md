@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/main_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="2000" >}}
-EVKX.net søger at have de mest komplette specifikationer for CUPRA BORN 77 e-BOOST. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af CUPRA BORN 77 e-BOOST, besøg [chargeinfo](../chargecurve/) for CUPRA BORN 77 e-BOOST med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for CUPRA BORN 77 e-BOOST. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af CUPRA BORN 77 e-BOOST, besøg [chargeinfo](../chargingcurve/) for CUPRA BORN 77 e-BOOST med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -609,7 +609,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ukendt

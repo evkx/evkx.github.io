@@ -107,7 +107,6 @@ Seteoppsettet er to seter foran og to seter bak.
 HiPhi Z 4 Seater tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Seteputevinkel-justering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbart)
@@ -127,7 +126,6 @@ Tilgjengelig i:
 #### Andre seterad
 
 For andre seterad har denne modellen [doble executive-seter](../../../../technology/seats/types/#twin-executive-seats). Andre funksjoner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_mp/main_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD MP" width="2880" height="1920" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Rivian R1S Performance Dual-Motor AWD MP. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Rivian R1S Performance Dual-Motor AWD MP, visitez les [chargeinfo](../chargecurve/) pour Rivian R1S Performance Dual-Motor AWD MP avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Rivian R1S Performance Dual-Motor AWD MP. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Rivian R1S Performance Dual-Motor AWD MP, visitez les [chargeinfo](../chargingcurve/) pour Rivian R1S Performance Dual-Motor AWD MP avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -526,7 +526,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Fonction électrique standard

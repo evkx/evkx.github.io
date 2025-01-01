@@ -124,7 +124,6 @@ The Ford Puma Gen-E accommodates five passengers with two front seats and a thre
 The Ford Puma Gen-E offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - Height adjustable headrest (manually adjustable)
@@ -139,7 +138,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - Height adjustable headrest (manually adjustable)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 

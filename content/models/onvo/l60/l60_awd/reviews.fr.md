@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons des critiques de nos [critiques en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>A new brand challenges Tesla: Onvo L60 REVIEW - a better Model Y?</h3>
+<p>Autogefühl: 25.12.2024</p>
+
+{{< youtube Htpzis7USw8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>ONVO L60: This Could Be Big</h3>
 <p>Wheelsboy: 15.09.2024</p>
 

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/main_1_st.jpg" title="Porsche Taycan" width="3000" height="1687" >}}
-EVKX.net seeks to have the most complete specifications for Porsche Taycan. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan, visit the [chargeinfo](../chargecurve/) for Porsche Taycan with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Porsche Taycan. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan, visit the [chargeinfo](../chargingcurve/) for Porsche Taycan with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -1028,7 +1028,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Standard electric feature
@@ -1173,7 +1173,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Standard electric feature
@@ -1318,7 +1318,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Standard electric feature

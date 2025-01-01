@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_xrt/main_1_st.jpg" title="Hyundai Ioniq 5 XRT" width="3000" height="2000" >}}
-EVKX.net busca tener las especificaciones más completas para Hyundai Ioniq 5 XRT. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Hyundai Ioniq 5 XRT, visite [chargeinfo](../chargecurve/) para Hyundai Ioniq 5 XRT con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Hyundai Ioniq 5 XRT. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Hyundai Ioniq 5 XRT, visite [chargeinfo](../chargingcurve/) para Hyundai Ioniq 5 XRT con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -574,7 +574,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Desconocido

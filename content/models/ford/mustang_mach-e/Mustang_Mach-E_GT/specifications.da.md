@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/main_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000" >}}
-EVKX.net søger at have de mest komplette specifikationer for Ford Mustang Mach-E GT. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Ford Mustang Mach-E GT, besøg [chargeinfo](../chargecurve/) for Ford Mustang Mach-E GT med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Ford Mustang Mach-E GT. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Ford Mustang Mach-E GT, besøg [chargeinfo](../chargingcurve/) for Ford Mustang Mach-E GT med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -601,7 +601,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ikke tilgængelig

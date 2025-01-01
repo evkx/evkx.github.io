@@ -106,7 +106,6 @@ The Volvo EC40 Single Motor accommodates five passengers with two front seats an
 The Volvo EC40 Single Motor offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Adjustable lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
@@ -119,7 +118,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/secondrowseats_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}

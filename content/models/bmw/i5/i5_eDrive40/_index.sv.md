@@ -117,7 +117,6 @@ BMW i5 eDrive40 rymmer fem passagerare med två framsäten och en tresätessoffa
 Första raden erbjuder två olika sätesvarianter för att passa olika komfort- och stilpreferenser:
 
 Följande funktioner finns tillgängliga på **Sport** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som tillval)
 - Höjdjusterbart nackstöd
@@ -128,7 +127,6 @@ Följande funktioner finns tillgängliga på **Sport** sätet:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (tillval)
 
 Följande funktioner finns tillgängliga på **Comfort seats** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - Höjdjusterbart nackstöd
 - [Sätesvärme](../../../../technology/seats/adjustment/#heating)

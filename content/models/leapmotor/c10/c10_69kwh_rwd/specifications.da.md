@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/leapmotor/c10/c10_69kwh_rwd/main_1_st.jpg" title="Leapmotor C10 69kWh RWD" width="3000" height="1687" >}}
-EVKX.net søger at have de mest komplette specifikationer for Leapmotor C10 69kWh RWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Leapmotor C10 69kWh RWD, besøg [chargeinfo](../chargecurve/) for Leapmotor C10 69kWh RWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Leapmotor C10 69kWh RWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Leapmotor C10 69kWh RWD, besøg [chargeinfo](../chargingcurve/) for Leapmotor C10 69kWh RWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -526,7 +526,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ikke tilgængelig

@@ -107,7 +107,6 @@ Sædeopsætningen er to sæder foran og to sæder bagpå.
 HiPhi Z 4 Seater tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Justering af sædehyndens vinkel](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
@@ -127,7 +126,6 @@ Fås med:
 #### Anden række sæder
 
 Til anden række har denne model to [komfortsæder](../../../../technology/seats/types/#twin-executive-seats). Yderligere funktioner inkluderer:
-
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/main_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Mercedes-EQ EQA 350 4MATIC. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Mercedes-EQ EQA 350 4MATIC, gå till [chargeinfo](../chargecurve/) för Mercedes-EQ EQA 350 4MATIC med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Mercedes-EQ EQA 350 4MATIC. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Mercedes-EQ EQA 350 4MATIC, gå till [chargeinfo](../chargingcurve/) för Mercedes-EQ EQA 350 4MATIC med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -585,7 +585,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd
@@ -730,7 +730,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

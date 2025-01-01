@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/ford/puma/puma_gen-e/main_1_st.jpg" title="Ford Puma Gen-E" width="3000" height="2250" >}}
-EVKX.net seeks to have the most complete specifications for Ford Puma Gen-E. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Ford Puma Gen-E, visit the [chargeinfo](../chargecurve/) for Ford Puma Gen-E with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for Ford Puma Gen-E. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Ford Puma Gen-E, visit the [chargeinfo](../chargingcurve/) for Ford Puma Gen-E with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -558,7 +558,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seat cushion angle adjustment
 			</td>
 			<td>
 				Not Available

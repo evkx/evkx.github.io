@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2100" height="1400" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Rivian R1T Quad-Motor AWD. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Rivian R1T Quad-Motor AWD, visitez les [chargeinfo](../chargecurve/) pour Rivian R1T Quad-Motor AWD avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour Rivian R1T Quad-Motor AWD. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Rivian R1T Quad-Motor AWD, visitez les [chargeinfo](../chargingcurve/) pour Rivian R1T Quad-Motor AWD avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -558,7 +558,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Fonction électrique standard

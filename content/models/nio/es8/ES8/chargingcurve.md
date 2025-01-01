@@ -12,9 +12,9 @@ This model is available with multiple batteries. Below you find the performance 
 
 ### 100 kWh 100kWh
 
-<img src="/images/models/nio/es8/es8/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/nio/es8/es8/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/nio/es8/es8/chargingcurve_1.svg)
+[Full screen](/images/nb-NO/models/nio/es8/es8/chargingcurve_1.svg)
 
 
 <div class="table-responsive">
@@ -103,9 +103,9 @@ This model is available with multiple batteries. Below you find the performance 
 	</tbody>
 </table>
 </div>
-<img src="/images/models/nio/es8/es8/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/nio/es8/es8/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/es8/es8/chargingtime_1.svg)
+[Full screen](/images/nb-NO/models/nio/es8/es8/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -144,9 +144,9 @@ This model is available with multiple batteries. Below you find the performance 
 	</tbody>
 </table>
 </div>
-<img src="/images/models/nio/es8/es8/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/nio/es8/es8/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/es8/es8/chargerangespeed_1.svg)
+[Full screen](/images/nb-NO/models/nio/es8/es8/chargerangespeed_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1670,9 +1670,9 @@ Nio ES8 have battery heating, making charging at an optimum battery temperature 
 
 ### 75 kWh 75kWh
 
-<img src="/images/models/nio/es8/es8/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/nb-NO/models/nio/es8/es8/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images/models/nio/es8/es8/chargingcurve_2.svg)
+[Full screen](/images/nb-NO/models/nio/es8/es8/chargingcurve_2.svg)
 
 
 <div class="table-responsive">
@@ -1761,9 +1761,9 @@ Nio ES8 have battery heating, making charging at an optimum battery temperature 
 	</tbody>
 </table>
 </div>
-<img src="/images/models/nio/es8/es8/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/nio/es8/es8/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/es8/es8/chargingtime_2.svg)
+[Full screen](/images/nb-NO/models/nio/es8/es8/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1802,9 +1802,9 @@ Nio ES8 have battery heating, making charging at an optimum battery temperature 
 	</tbody>
 </table>
 </div>
-<img src="/images/models/nio/es8/es8/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+<img src="/images/nb-NO/models/nio/es8/es8/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/es8/es8/chargerangespeed_2.svg)
+[Full screen](/images/nb-NO/models/nio/es8/es8/chargerangespeed_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>

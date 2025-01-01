@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/main_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Chevrolet Silverado EV 3WT. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Chevrolet Silverado EV 3WT, gå till [chargeinfo](../chargecurve/) för Chevrolet Silverado EV 3WT med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för Chevrolet Silverado EV 3WT. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Chevrolet Silverado EV 3WT, gå till [chargeinfo](../chargingcurve/) för Chevrolet Silverado EV 3WT med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -585,7 +585,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sittdynans vinkeljustering
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt

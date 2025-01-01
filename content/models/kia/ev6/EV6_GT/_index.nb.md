@@ -129,7 +129,6 @@ Kia EV6 GT har plass til fem passasjerer med to forseter og en treseters benk ba
 Kia EV6 GT tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **Bucket** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbart)
@@ -140,7 +139,6 @@ Følgende funksjoner er tilgjengelig på **Bucket** setet:
 #### Andre seterad
 
 Andre seterad har en standard treseter-benk med 60:40 deling, som lar hver del felles ned separat for å øke bagasjeplassen. Andre funksjoner inkluderer:
-
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbart)
 - Høydejusterbar hodestøtte (manuelt justerbart)
 - [Varme](../../../../technology/seats/adjustment/#heating) (standard for yttersetene)

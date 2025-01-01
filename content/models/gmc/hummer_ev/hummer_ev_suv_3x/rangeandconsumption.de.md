@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 Die Reichweite variiert je nach mehreren Faktoren. Wie schnell Sie fahren, die Temperatur, nasse oder trockene Straße und die ausgestattete Ausrüstung. Auf dieser Seite finden Sie ein Diagramm und Tabellen mit den Standardtestzyklus-Ergebnissen wie WLTP und EPA sowie geschätzte reale Reichweiten in verschiedenen Umgebungen.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/gmc/hummer_ev/hummer_ev_suv_3x/range.svg"/>
-<a href="/images/models/gmc/hummer_ev/hummer_ev_suv_3x/range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/gmc/hummer_ev/hummer_ev_suv_3x/range.svg"/>
+<a href="/images/nb-NO/models/gmc/hummer_ev/hummer_ev_suv_3x/range.svg">Full screen</a>
 
 ### Offizielle Testergebnisse
 

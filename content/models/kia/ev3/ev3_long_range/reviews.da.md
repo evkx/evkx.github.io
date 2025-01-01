@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Vi samler anmeldelser fra vores [foretrukne online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV3 driving REVIEW - better or worse than Skoda Elroq and VW ID3?</h3>
+<p>Autogefühl: 28.12.2024</p>
+
+{{< youtube qDqI0nTvcbI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Volvo EX30 vs Kia EV3</h3>
+<p>Nybiltester: 25.12.2024</p>
+
+{{< youtube SRSn-rTa6qA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>KIA EV3 GT-Line review | Is now the time for you to go EV?</h3>
 <p>Nobby On Cars: 16.12.2024</p>
 

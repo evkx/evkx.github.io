@@ -111,7 +111,6 @@ Le BMW i7 xDrive60 peut accueillir cinq passagers avec deux sièges à l'avant e
 Le BMW i7 xDrive60 propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -147,7 +146,6 @@ Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le BMW 
 L'option standard est une banquette trois places avec une répartition  où vous pouvez replier chaque section séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
 
 L'option second est un [siège exécutif combiné avec une banquette deux places](../../../../technology/seats/types/#executive-seat--two-seat-bench). Fonctionnalités supplémentaires :
-
 - [Support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 - [Support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support) (standard pour les sièges extérieurs)

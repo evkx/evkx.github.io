@@ -130,7 +130,6 @@ Seteoppsettet er syv seter med to foran, to seter i andre rad og tre seter på t
 Cadillac ESCALADE IQ tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **Front bucket seats** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -139,8 +138,7 @@ Følgende funksjoner er tilgjengelig på **Front bucket seats** setet:
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
 - [Justerbar sidestøtte rygg](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (valgfritt)
-- [Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (valgfritt)
-- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
+[Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (valgfritt)- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
 
 Tilgjengelig i:
 
@@ -156,7 +154,6 @@ Tilgjengelig i:
 Du kan velge mellom to setetyper for andre rad i Cadillac ESCALADE IQ.
 
 standard alternativet er to kapteinsseter. Andre funksjoner inkluderer:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -165,7 +162,6 @@ standard alternativet er to kapteinsseter. Andre funksjoner inkluderer:
 - [Varme](../../../../technology/seats/adjustment/#heating)
 
 second alternativet er [doble executive-seter](../../../../technology/seats/types/#twin-executive-seats). Andre funksjoner inkluderer:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - [Ryggvinkel-justering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbart)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbart)
@@ -174,8 +170,7 @@ second alternativet er [doble executive-seter](../../../../technology/seats/type
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Justerbar korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbart)
 - [Justerbar sidestøtte rygg](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (elektrisk justerbart for fører, ikke tilgjengelig for passasjer)
-- [Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (elektrisk justerbart for fører, ikke tilgjengelig for passasjer)
-- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
+[Justerbar sidestøtte sete](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (elektrisk justerbart for fører, ikke tilgjengelig for passasjer)- [Ventilasjon](../../../../technology/seats/adjustment/#ventilation)
 - [Massasje](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}

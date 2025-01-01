@@ -114,7 +114,6 @@ Le Fiat Grande Panda peut accueillir cinq passagers avec deux sièges à l'avant
 La première rangée offre deux types de sièges pour répondre à diverses préférences de confort et de style :
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 
@@ -123,7 +122,6 @@ Disponible en :
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)

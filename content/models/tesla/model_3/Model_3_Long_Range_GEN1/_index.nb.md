@@ -120,7 +120,6 @@ Tesla Model 3 Long Range (GEN1) har plass til fem passasjerer med to forseter og
 Tesla Model 3 Long Range (GEN1) tilbyr bare én type forsete.
 
 Følgende funksjoner er tilgjengelig på **standard** setet:
-
 - [Lengdejustering fram/tilbake](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbart)
 - Høydejusterbar hodestøtte
 - [Varme](../../../../technology/seats/adjustment/#heating)

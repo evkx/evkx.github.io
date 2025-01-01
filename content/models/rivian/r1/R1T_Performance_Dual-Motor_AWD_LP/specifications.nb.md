@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/main_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2100" height="1400" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Rivian R1T Performance Dual-Motor AWD LP. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Rivian R1T Performance Dual-Motor AWD LP, gå til [chargeinfo](../chargecurve/) for Rivian R1T Performance Dual-Motor AWD LP med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Rivian R1T Performance Dual-Motor AWD LP. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Rivian R1T Performance Dual-Motor AWD LP, gå til [chargeinfo](../chargingcurve/) for Rivian R1T Performance Dual-Motor AWD LP med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -542,7 +542,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

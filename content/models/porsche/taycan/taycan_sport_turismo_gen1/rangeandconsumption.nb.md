@@ -13,8 +13,8 @@ Rekkevidden vil variere avhengig av flere faktorer. Som hvor fort du kjører, te
 
 Rekkevidden vil variere avhengig av flere faktorer. Som hvor fort du kjører, temperaturen, vått eller tørt føre, og hvilket utstyr som er montert. På denne siden finner du et diagram og tabeller med resultatene fra standardtestsykluser som WLTP og EPA, samt estimert rekkevidde i ulike reelle forhold.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/porsche/taycan/taycan_sport_turismo_gen1/range_1.svg"/>
-<a href="/images/models/porsche/taycan/taycan_sport_turismo_gen1/range_1.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/range_1.svg"/>
+<a href="/images/nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/range_1.svg">Full screen</a>
 
 ### Offisielle testsyklusresultater
 
@@ -155,8 +155,8 @@ Tabellen under viser noen estimerte eksempler fra virkeligheten under ideelle fo
 </table>
 </div>
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/porsche/taycan/taycan_sport_turismo_gen1/range_2.svg"/>
-<a href="/images/models/porsche/taycan/taycan_sport_turismo_gen1/range_2.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/range_2.svg"/>
+<a href="/images/nb-NO/models/porsche/taycan/taycan_sport_turismo_gen1/range_2.svg">Full screen</a>
 
 ### Offisielle testsyklusresultater
 

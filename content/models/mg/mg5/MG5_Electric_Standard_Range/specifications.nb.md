@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/main_1_st.jpg" title="MG MG5 Electric Standard Range" width="2560" height="1639" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG5 Electric Standard Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av MG MG5 Electric Standard Range, gå til [chargeinfo](../chargecurve/) for MG MG5 Electric Standard Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG5 Electric Standard Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av MG MG5 Electric Standard Range, gå til [chargeinfo](../chargingcurve/) for MG MG5 Electric Standard Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -569,7 +569,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standard elektrisk funksjon

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh_boost/main_1_st.jpg" title="BYD Dolphin 44.9kWh Boost" width="3000" height="2116" >}}
-EVKX.net strebt an, die vollständigsten Spezifikationen für BYD Dolphin 44.9kWh Boost zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von BYD Dolphin 44.9kWh Boost, besuchen Sie die [Ladeinformationen](../chargecurve/) für BYD Dolphin 44.9kWh Boost mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
+EVKX.net strebt an, die vollständigsten Spezifikationen für BYD Dolphin 44.9kWh Boost zu haben. Klicken Sie auf das Bild oben für den [vollständigen Artikel](../), besuchen Sie die [Bildergalerie](../gallery/) für hochauflösende Bilder von BYD Dolphin 44.9kWh Boost, besuchen Sie die [Ladeinformationen](../chargingcurve/) für BYD Dolphin 44.9kWh Boost mit Ladekurve, besuchen Sie die [erweiterten Reichweiteninformationen](../rangeandconsumption/) für reale Reichweiten.
 
 
 ## Leistung
@@ -601,7 +601,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sitzkissenwinkelverstellung
 			</td>
 			<td>
 				Nicht verfügbar

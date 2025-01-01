@@ -130,7 +130,6 @@ La disposición de asientos es de siete plazas con dos asientos delanteros, dos 
 El Cadillac ESCALADE IQ ofrece un solo tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **Front bucket seats**:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -139,8 +138,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Front bucket s
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
 - [Ajuste de los soportes laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (opcional)
-- [Ajuste de los soportes laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (opcional)
-- [Ventilación](../../../../technology/seats/adjustment/#ventilation)
+[Ajuste de los soportes laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (opcional)- [Ventilación](../../../../technology/seats/adjustment/#ventilation)
 
 Disponible en:
 
@@ -156,7 +154,6 @@ Disponible en:
 Puede elegir entre dos tipos de asientos para la segunda fila en el Cadillac ESCALADE IQ.
 
 La opción standard es dos asientos tipo capitán. Las funcionalidades adicionales incluyen:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -165,7 +162,6 @@ La opción standard es dos asientos tipo capitán. Las funcionalidades adicional
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 
 La opción second es dos [asientos ejecutivos](../../../../technology/seats/types/#twin-executive-seats). Las funcionalidades adicionales incluyen:
-
 - [Ajuste de adelante hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajuste eléctrico)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajuste eléctrico)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajuste eléctrico)
@@ -174,8 +170,7 @@ La opción second es dos [asientos ejecutivos](../../../../technology/seats/type
 - [Calefacción](../../../../technology/seats/adjustment/#heating)
 - [Soporte lumbar ajustable](../../../../technology/seats/adjustment/#lumbar-support) (ajuste eléctrico)
 - [Ajuste de los soportes laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (ajuste eléctrico para el conductor, no disponible para el pasajero)
-- [Ajuste de los soportes laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (ajuste eléctrico para el conductor, no disponible para el pasajero)
-- [Ventilación](../../../../technology/seats/adjustment/#ventilation)
+[Ajuste de los soportes laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (ajuste eléctrico para el conductor, no disponible para el pasajero)- [Ventilación](../../../../technology/seats/adjustment/#ventilation)
 - [Masaje](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}

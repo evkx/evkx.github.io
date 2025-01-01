@@ -126,7 +126,6 @@ Le BYD Dolphin 44.9kWh Boost peut accueillir cinq passagers avec deux sièges à
 Le BYD Dolphin 44.9kWh Boost propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement pour le conducteur, non disponible pour le passager)
@@ -143,7 +142,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition 60:40, permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour les sièges extérieurs)
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh_boost/secondrowseats_1_st.jpg" title="BYD Dolphin 44.9kWh Boost" width="2500" height="1623"  >}}

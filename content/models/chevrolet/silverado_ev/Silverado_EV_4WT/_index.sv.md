@@ -115,7 +115,6 @@ Chevrolet Silverado EV 4WT rymmer fem passagerare med två framsäten och en tre
 Chevrolet Silverado EV 4WT erbjuder endast en typ av framsäte.
 
 Följande funktioner finns tillgängliga på **standard** sätet:
-
 - [Längsgående justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Ryggstödsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - Höjdjusterbart nackstöd
@@ -129,7 +128,6 @@ Finns tillgänglig i:
 #### Andra radens säten
 
 Andra raden har en standard tresätesoffa med  delning, vilket möjliggör att varje sektion kan fällas separat för att öka lastutrymmet. Ytterligare funktioner inkluderar:
-
 - Höjdjusterbart nackstöd
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}

@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/main_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2250" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo EX30 Single Motor Extended Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Volvo EX30 Single Motor Extended Range, gå til [chargeinfo](../chargecurve/) for Volvo EX30 Single Motor Extended Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo EX30 Single Motor Extended Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Volvo EX30 Single Motor Extended Range, gå til [chargeinfo](../chargingcurve/) for Volvo EX30 Single Motor Extended Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -598,7 +598,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Standardfunksjon

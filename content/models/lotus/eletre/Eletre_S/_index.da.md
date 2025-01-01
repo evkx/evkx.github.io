@@ -114,7 +114,6 @@ Denne model tilbyder en firesæders opsætning eller en valgfri 4+1 opsætning.
 Lotus Eletre S tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -139,7 +138,6 @@ Fås med:
 Du kan vælge mellem to sædetyper til anden række i Lotus Eletre S.
 
 standard muligheden er en tresæders bænk med 40:20:40 opdeling, hvor du kan folde hver sektion separat for at øge bagagekapaciteten. Yderligere funktioner inkluderer:
-
 - [Ryglænsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 
 second muligheden er to [komfortsæder](../../../../technology/seats/types/#twin-executive-seats). Yderligere funktioner inkluderer:

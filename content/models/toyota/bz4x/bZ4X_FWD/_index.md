@@ -124,7 +124,6 @@ The Toyota bZ4X FWD accommodates five passengers with two front seats and a thre
 The Toyota bZ4X FWD offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
-
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
@@ -143,7 +142,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 40:60 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 

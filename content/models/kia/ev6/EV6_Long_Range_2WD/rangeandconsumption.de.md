@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 Die Reichweite variiert je nach mehreren Faktoren. Wie schnell Sie fahren, die Temperatur, nasse oder trockene Straße und die ausgestattete Ausrüstung. Auf dieser Seite finden Sie ein Diagramm und Tabellen mit den Standardtestzyklus-Ergebnissen wie WLTP und EPA sowie geschätzte reale Reichweiten in verschiedenen Umgebungen.
 
-<img class="img-fluid" alt="Charge curve" src="/images//models/kia/ev6/ev6_long_range_2wd/range.svg"/>
-<a href="/images/models/kia/ev6/ev6_long_range_2wd/range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//nb-NO/models/kia/ev6/ev6_long_range_2wd/range.svg"/>
+<a href="/images/nb-NO/models/kia/ev6/ev6_long_range_2wd/range.svg">Full screen</a>
 
 ### Offizielle Testergebnisse
 

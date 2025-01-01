@@ -117,7 +117,6 @@ La disposition des sièges est de deux sièges à l'avant et deux sièges à l'a
 Le Maserati GranTurismo Folgore propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport** :
-
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
@@ -135,7 +134,6 @@ Disponible en :
 #### Sièges de Deuxième Rangée
 
 La deuxième rangée dispose d'une banquette trois places standard avec une répartition , permettant à chaque section de se replier séparément pour augmenter l'espace de chargement. Fonctionnalités supplémentaires :
-
 - Appuie-tête réglable en hauteur
 
 {{< sitefiguresized thumb="models/maserati/granturismo/granturismo_folgore/secondrowseats_1_st.jpg" title="Maserati GranTurismo Folgore" width="3000" height="2074"  >}}

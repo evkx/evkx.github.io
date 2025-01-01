@@ -110,7 +110,6 @@ SKODA ENYAQ 85x har plads til fem passagerer med to forsæder og en trebænk bag
 SKODA ENYAQ 85x tilbyder én type forsæde.
 
 Følgende funktioner er tilgængelige på **Sport** sædet:
-
 - [Frem og tilbage justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som ekstraudstyr)
 - [Varme](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)

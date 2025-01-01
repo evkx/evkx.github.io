@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/main_1_st.jpg" title="XPENG X9 AWD Performance" width="1920" height="1080" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG X9 AWD Performance. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de XPENG X9 AWD Performance, visitez les [chargeinfo](../chargecurve/) pour XPENG X9 AWD Performance avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG X9 AWD Performance. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de XPENG X9 AWD Performance, visitez les [chargeinfo](../chargingcurve/) pour XPENG X9 AWD Performance avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -462,7 +462,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Réglage de l'angle du coussin de siège
 			</td>
 			<td>
 				Fonction électrique standard

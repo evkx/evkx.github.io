@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/main_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="1998" >}}
-EVKX.net busca tener las especificaciones más completas para Audi Q4 45 e-tron quattro (GEN1). Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Audi Q4 45 e-tron quattro (GEN1), visite [chargeinfo](../chargecurve/) para Audi Q4 45 e-tron quattro (GEN1) con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+EVKX.net busca tener las especificaciones más completas para Audi Q4 45 e-tron quattro (GEN1). Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Audi Q4 45 e-tron quattro (GEN1), visite [chargeinfo](../chargingcurve/) para Audi Q4 45 e-tron quattro (GEN1) con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -766,7 +766,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Función estándar, opcional eléctrica
@@ -911,7 +911,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Ajuste del ángulo del cojín del asiento
 			</td>
 			<td>
 				Función estándar, opcional eléctrica

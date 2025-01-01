@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_44.9kwh/main_1_st.jpg" title="BYD Dolphin 44.9kWh" width="3000" height="2116" >}}
-EVKX.net søger at have de mest komplette specifikationer for BYD Dolphin 44.9kWh. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af BYD Dolphin 44.9kWh, besøg [chargeinfo](../chargecurve/) for BYD Dolphin 44.9kWh med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for BYD Dolphin 44.9kWh. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af BYD Dolphin 44.9kWh, besøg [chargeinfo](../chargingcurve/) for BYD Dolphin 44.9kWh med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -601,7 +601,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Ikke tilgængelig

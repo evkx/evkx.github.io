@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/main_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2000" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo EX90 Twin Motor. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Volvo EX90 Twin Motor, gå til [chargeinfo](../chargecurve/) for Volvo EX90 Twin Motor med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo EX90 Twin Motor. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Volvo EX90 Twin Motor, gå til [chargeinfo](../chargingcurve/) for Volvo EX90 Twin Motor med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -609,7 +609,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Seteputevinkeljustering
 			</td>
 			<td>
 				Ukjent

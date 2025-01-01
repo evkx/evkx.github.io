@@ -9,7 +9,7 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/main_1_st.jpeg" title="Subaru Solterra AWD" width="3000" height="1745" >}}
-EVKX.net søger at have de mest komplette specifikationer for Subaru Solterra AWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Subaru Solterra AWD, besøg [chargeinfo](../chargecurve/) for Subaru Solterra AWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for Subaru Solterra AWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Subaru Solterra AWD, besøg [chargeinfo](../chargingcurve/) for Subaru Solterra AWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -641,7 +641,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.SeatCushionAngleAdjustment
+				Sædehyndevinkeljustering
 			</td>
 			<td>
 				Valgfri elektrisk funktion
