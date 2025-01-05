@@ -1,6 +1,7 @@
 ---
 title: Sådan tjekker du batteriets tilstand
 linktitle: Sådan tjekker du batteriets tilstand description:Med simpel matematik er det muligt at verificere batteriets generelle status. Denne guide forklarer hvordan.
+description: Med simpel matematik kan du verificere din batteristatus. Denne guide forklarer hvordan.
 weight: 1
 xsthumb: guides/checkingbatteryhealth/graph1_xst.jpg
 ---
