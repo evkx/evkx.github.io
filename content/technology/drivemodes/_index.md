@@ -3,6 +3,7 @@ title: Drive Modes
 linktitle: Drive Modes
 description: Drive modes are settings that change the way an EV operates, such as its acceleration, braking, steering, suspension, and regenerative braking. 
 weight: 3
+xsthumb: technology/drivemodes/drivemodes_2_xst.jpg
 ---
 <!-- markdownlint-disable MD033 -->
 
