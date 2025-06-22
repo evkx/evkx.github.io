@@ -1,16 +1,16 @@
 ---
-title: Charging
+title: EV Charging Explained: Technology, Performance, and Real-World Factors
 linktitle: Charging
 description: Charging the battery is the process of adding new energy to the battery.
 weight: 8
 navicon: bi-battery-charging
 ---
+
 <!-- markdownlint-disable MD033 -->
-Charging an EV battery involves the movement of electric charge carriers, such as electrons and ions, between the battery's electrodes. The battery has two electrodes, a cathode and an anode, separated by an electrolyte.
 
-During the charging process, electrons flow from the charging source (e.g., charging station) to the cathode, where they are stored in the cathode material. At the same time, positive ions in the electrolyte flow from the cathode to the anode through the separator.
+Charging an EV battery involves moving electricity into the battery, where it's stored as chemical energy. This occurs through the movement of electrons and ions between the battery's two electrodes: the cathode and anode, separated by an electrolyte.
 
-When the battery is fully charged, the cathode material is at its maximum capacity to store electrons, and the anode is fully depleted of positive ions. The battery is in a stable state with a high potential difference between the cathode and the anode, which provides the electric energy stored in the battery.
+During charging, electrons flow from the power source (e.g., a charging station) to the cathode. Simultaneously, positive ions move from the cathode to the anode through the electrolyte. Once fully charged, the battery stores energy via a high potential difference between its terminals, ready to power the vehicle.
 
 <figure>
 <img src="https://media.evkx.net/multimedia/technology/battery/charging/batteryconceptcharging.drawio.svg" class="img-fluid mx-auto d-block">
@@ -21,90 +21,87 @@ When the battery is fully charged, the cathode material is at its maximum capaci
 </figcaption>
 </figure>
 
-The charging process is reversible, and during discharge, the electrons flow back from the cathode to the anode through an external circuit, creating a flow of electric current that can power an electric motor.
+The process is reversible. During discharge, electrons flow from the anode to the cathode through an external circuit, generating current to drive the electric motor.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Charging Performance
 
-The charging performance varies significantly between EVs. Several factors affect the charging speed of EVs:
+Charging performance varies significantly between EV models and is influenced by several key factors:
 
-{{< sitefiguresized thumb="technology/battery/charging/charging_1_st.jpg" width="1920" height="1080" title="Kia EV6 GT charging at Ionity" >}}
+{{< sitefiguresized thumb="technology/battery/charging/charging\_1\_st.jpg" width="1920" height="1080" title="Kia EV6 GT charging at Ionity" >}}
 
 ### Pack Configuration
 
-The pack configuration can affect the charging speed. A configuration that gives low voltage can cause you to hit external limits on charging current. For example, a 50KW DC CCS charger has a maximum current of 125A. To get 50KW from 125A, you need a minimum of 400 volts. The maximum current limit would restrict a 300-volt pack to 37.5KW charging speed (300*125).
+The battery pack's voltage affects maximum charging speed. For example, a 50kW DC CCS charger delivering 125A requires at least 400V to achieve full output. A 300V pack would be limited to 37.5kW (300V x 125A).
 
-It is the same with CCS HPC Chargers since most are limited to 500 amperes. 400 volts on 500 amperes is a max of 200KW. The charging speed on a 300-volt battery pack would be limited to 150KW.
+Similarly, most CCS HPC chargers are limited to 500A. This means a 400V pack can support up to 200kW, while a 300V pack is capped at 150kW.
 
-Volvo EX90, Polestar 3 and Nio EL8 is all models claimed to be charging at 250kW with 400 Volt architecture. Do do this, they need to use chargers that is not limited to 500 Volts
+Models like the Volvo EX90, Polestar 3, and Nio EL8 claim to support 250kW charging on 400V architectures, but this depends on chargers not capped at 500V.
 
 #### 800-Volt EVs on 400-Volt Chargers
 
-With newer cars using 800-volt battery packs, there is an additional problem with many high-speed chargers being limited to 400-500-volt charging. If you have an 800-volt EV that needs to convert the voltage from the charger to the battery pack voltage, this will limit the maximum charging speed. Tesla Superchargers, the world's largest charging network, are limited to 500 volts, and all 800-volt cars using this network are limited in charging speed.
+800V EVs can be limited by older 400–500V chargers. Tesla Superchargers, for instance, are capped at 500V, reducing charging speeds for 800V vehicles.
 
-There are different techniques used for this:
+##### Inverter Technique
 
-##### Inverter
+Some EVs use onboard inverters to step up voltage. These systems often limit total power delivery. For example:
 
-The most common technique is using an inverter. Here, the EV has an inverter that can convert the voltage to match the battery voltage. This inverter typically has a limitation much lower than the maximum charging speed of 800 volts. An example is the Hyundai E-GMP platform, which limits the speed to 100KW using the inverter while charging at 250KW at 800 volts. Another example is the Porsche Taycan, which is limited to around 50KW at Superchargers with the standard inverter.
+* Hyundai E-GMP models: \~100kW max on 400V chargers
+* Porsche Taycan: \~50kW on Superchargers using the standard inverter
 
 ##### Bank Charging
 
-This technique splits the battery pack into two 400-volt packs while charging at 800-volt chargers. The new Porsche Macan and Audi Q6 e-tron use this technique and can charge up to 135KW on 400 volts (270KW on 800 volts). Another example is the Tesla Cybertruck, which can charge up to 230KW at 500-volt Superchargers.
+This method splits the battery into two 400V sections. Models like the Audi Q6 e-tron and Porsche Macan support up to 135kW on 400V and up to 270kW on 800V. The Tesla Cybertruck can reach 230kW at 500V Superchargers.
 
-{{< sitefiguresized thumb="technology/battery/charging/bankcharging_1_st.jpg" width="3000" height="1852" title="Audi Q6 e-tron bank charging" >}}
+{{< sitefiguresized thumb="technology/battery/charging/bankcharging\_1\_st.jpg" width="3000" height="1852" title="Audi Q6 e-tron bank charging" >}}
 
 ### Temperature
 
-The battery temperature can significantly affect the charging speed. For example, the BMS can reduce the charging speed by more than 50% in cold weather.
+Battery temperature critically affects charging speed. In cold weather, charging can slow by over 50% due to Battery Management System (BMS) limitations. Many EVs preheat the battery when navigating to a charger.
 
-This speed reduction is why some EVs offer automatic heating of the battery when navigating to a charger or the possibility of manually triggering the heating of the battery pack.
+In hot weather, the BMS may also throttle charging to prevent overheating. Optimal charging temperatures range from 25–35°C (77–95°F). Above 50–60°C, charging may be reduced to protect battery health.
 
-High temperatures can also reduce performance. For example, the BMS can reduce the charging speed in hot weather or after high-speed charging. The BMS reduces the charging speed to let the battery cool down to protect it.
+{{< sitefiguresized thumb="technology/battery/charging/charging\_2\_st.jpg" width="1920" height="1080" title="Audi e-tron GT charging in winter" >}}
 
-The optimal temperature in a battery for charging is typically around 25-35 degrees Celsius (77-95 Fahrenheit). In summer temperatures, the battery would typically be in this range when arriving at the charging station, allowing for full charging speed.
+EVs with fast charging must have effective thermal management systems to maintain ideal battery temperature during sessions.
 
-{{< sitefiguresized thumb="technology/battery/charging/charging_2_st.jpg" width="1920" height="1080" title="Audi e-tron GT charging in winter" >}}
+EVKX charge curves reflect **optimal conditions**:
 
-On some models with fast charging, a warm summer day with high-speed charging may cause the battery to reach temperatures that will cause the BMS to reduce charge speed to protect the battery. This speed reduction typically happens if the battery temperature reaches 50-60 degrees Celsius during charging. That's why it is essential to have good thermal management that can dissipate the heat during charging.
-
-The charge curve for models on the EVKX site is for **optimal conditions**:
-
-- The temperature in the battery is high enough, so charge speed is not derated because of low temperature.
-- The temperature in the battery does not get so high that the BMS reduces speed for protection during the charging session from 0-100%.
+* Battery temperature is high enough for maximum speed.
+* The battery remains within safe limits during a 0–100% session.
 
 {{<evkxdisplayaddarticle />}}
 
 ### BMS Software
 
-The manufacturer decides the curve based on various inputs. The input could be the battery pack’s chemistry or other physical aspects, like cooling. Still, the manufacturer often decides to balance the charging speed with the battery’s longevity. High-speed charging affects degradation, and lowering the speed would reduce degradation.
+BMS software also shapes charging curves. Manufacturers balance charging speed with battery longevity. Since high-speed charging accelerates degradation, some EVs limit charging speed or the number of high-power sessions.
 
-Some manufacturers also limit the number of high-speed charging sessions during a period. Toyota BZ4X is one model that Toyota launched with a limitation of only two high-speed sessions during 24 hours. More charging would be at a low speed.
+For example:
 
-{{< sitefiguresized thumb="technology/battery/charging/taycancharging_1_st.jpg" width="3000" height="2669" title="Porsche Taycan charging" >}}
+* Toyota BZ4X permits only two high-speed sessions per 24 hours.
+* Porsche Taycan allows users to cap charging speed (e.g., from 270kW to 200kW) to reduce wear.
 
-Porsche Taycan is a model where the owner can set a ‘battery-friendly’ charging speed as max to decrease degradation. A Taycan can initially charge with up to 270KW speed. With this setting enabled, it is limited to 200KW.
+{{< sitefiguresized thumb="technology/battery/charging/taycancharging\_1\_st.jpg" width="3000" height="2669" title="Porsche Taycan charging" >}}
 
 ### Charging Speed Examples
 
-EVKX shows the charge performance for each EV on our site with graphs and calculations based on the performance.
+EVKX provides real-world charging performance data and graphs for each EV model:
 
-The following are some examples of EVs with different types of charging performance:
+* [Zeekr 7x Long Range AWD](/models/zeekr/7x/7x_long_range_awd/chargingcurve/): Over 430kW peak.
 
-[Zeekr 7x Long Range AWD](/models/zeekr/7x/7x_long_range_awd/chargingcurve/) is the first example. It has an extreme top charging speed of over 300KW but falls quickly.
+  This model requires more than 650A to achieve full speed. On 400V chargers, it's limited to 80kW. The charge curve diagram displays all three scenarios.
 
-<img src="https://evkx.net/models/zeekr/7x/7x_long_range_awd/chargingcurve/chart/?battery=0" class="img-fluid">
+  <img src="https://evkx.net/models/zeekr/7x/7x_long_range_awd/chargingcurve/chart/?battery=0" class="img-fluid">
 
-[Kia EV6 GT](/models/kia/ev6/ev6_gt/chargingcurve/) is the next example. This model is one of the fastest-charging EVs with high speed and a much flatter curve than the Lucid Air.
+* [Kia EV6 GT](/models/kia/ev6/ev6_gt/chargingcurve/): High peak speed with a flat curve, ideal for long-distance travel.
 
-<img src="https://evkx.net/models/kia/ev6/ev6_gt/chargingcurve/chart/?battery=0" class="img-fluid">
+  <img src="https://evkx.net/models/kia/ev6/ev6_gt/chargingcurve/chart/?battery=0" class="img-fluid">
 
-[Nissan Aryia](/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/) does not have a very high top peak, but the curve is relatively flat.
+* [Nissan Ariya](/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/): Moderate peak speed but consistent curve.
 
-<img src="/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/chart/?battery=0" class="img-fluid">
+  <img src="/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/chart/?battery=0" class="img-fluid">
 
-On longer trips, the charging curve may affect the optimum charging stop. For example, a flatter curve would benefit those who prefer longer stops, while a curve with high peaks benefits short stops, and you charge around the peak area.
+### Final Thoughts
 
-For all models, EVKX calculates this for you on the model info page.
-
+On long trips, the shape of the charge curve matters. Flat curves support longer, consistent stops, while peak-heavy curves benefit quick top-ups. EVKX helps you compare and understand each model's real-world performance.
