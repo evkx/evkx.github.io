@@ -13,7 +13,7 @@ During the charging process, electrons flow from the charging source (e.g., char
 When the battery is fully charged, the cathode material is at its maximum capacity to store electrons, and the anode is fully depleted of positive ions. The battery is in a stable state with a high potential difference between the cathode and the anode, which provides the electric energy stored in the battery.
 
 <figure>
-<img src="batteryconceptcharging.drawio.svg" class="img-fluid mx-auto d-block">
+<img src="https://media.evkx.net/multimedia/technology/battery/charging/batteryconceptcharging.drawio.svg" class="img-fluid mx-auto d-block">
 <figcaption>
     <p class="lead text-center fw-semibold">
         Battery charging
@@ -25,37 +25,37 @@ The charging process is reversible, and during discharge, the electrons flow bac
 
 {{<evkxdisplayaddarticle />}}
 
-### Charging Performance
+## Charging Performance
 
 The charging performance varies significantly between EVs. Several factors affect the charging speed of EVs:
 
 {{< sitefiguresized thumb="technology/battery/charging/charging_1_st.jpg" width="1920" height="1080" title="Kia EV6 GT charging at Ionity" >}}
 
-#### Pack Configuration
+### Pack Configuration
 
 The pack configuration can affect the charging speed. A configuration that gives low voltage can cause you to hit external limits on charging current. For example, a 50KW DC CCS charger has a maximum current of 125A. To get 50KW from 125A, you need a minimum of 400 volts. The maximum current limit would restrict a 300-volt pack to 37.5KW charging speed (300*125).
 
-It is the same with CCS HPC Chargers since they are limited to 500 amperes. 400 volts on 500 amperes is a max of 200KW. The charging speed on a 300-volt battery pack would be limited to 150KW.
+It is the same with CCS HPC Chargers since most are limited to 500 amperes. 400 volts on 500 amperes is a max of 200KW. The charging speed on a 300-volt battery pack would be limited to 150KW.
 
-Volvo and Polestar claim their upcoming EVs with 400-volt packs would get 250KW charging. However, how they would manage that with the current CCS standard limits is unclear.
+Volvo EX90, Polestar 3 and Nio EL8 is all models claimed to be charging at 250kW with 400 Volt architecture. Do do this, they need to use chargers that is not limited to 500 Volts
 
-##### 800-Volt EVs on 400-Volt Chargers
+#### 800-Volt EVs on 400-Volt Chargers
 
 With newer cars using 800-volt battery packs, there is an additional problem with many high-speed chargers being limited to 400-500-volt charging. If you have an 800-volt EV that needs to convert the voltage from the charger to the battery pack voltage, this will limit the maximum charging speed. Tesla Superchargers, the world's largest charging network, are limited to 500 volts, and all 800-volt cars using this network are limited in charging speed.
 
 There are different techniques used for this:
 
-###### Inverter
+##### Inverter
 
 The most common technique is using an inverter. Here, the EV has an inverter that can convert the voltage to match the battery voltage. This inverter typically has a limitation much lower than the maximum charging speed of 800 volts. An example is the Hyundai E-GMP platform, which limits the speed to 100KW using the inverter while charging at 250KW at 800 volts. Another example is the Porsche Taycan, which is limited to around 50KW at Superchargers with the standard inverter.
 
-###### Bank Charging
+##### Bank Charging
 
 This technique splits the battery pack into two 400-volt packs while charging at 800-volt chargers. The new Porsche Macan and Audi Q6 e-tron use this technique and can charge up to 135KW on 400 volts (270KW on 800 volts). Another example is the Tesla Cybertruck, which can charge up to 230KW at 500-volt Superchargers.
 
 {{< sitefiguresized thumb="technology/battery/charging/bankcharging_1_st.jpg" width="3000" height="1852" title="Audi Q6 e-tron bank charging" >}}
 
-#### Temperature
+### Temperature
 
 The battery temperature can significantly affect the charging speed. For example, the BMS can reduce the charging speed by more than 50% in cold weather.
 
@@ -76,7 +76,7 @@ The charge curve for models on the EVKX site is for **optimal conditions**:
 
 {{<evkxdisplayaddarticle />}}
 
-#### BMS Software
+### BMS Software
 
 The manufacturer decides the curve based on various inputs. The input could be the battery pack’s chemistry or other physical aspects, like cooling. Still, the manufacturer often decides to balance the charging speed with the battery’s longevity. High-speed charging affects degradation, and lowering the speed would reduce degradation.
 
@@ -86,23 +86,23 @@ Some manufacturers also limit the number of high-speed charging sessions during 
 
 Porsche Taycan is a model where the owner can set a ‘battery-friendly’ charging speed as max to decrease degradation. A Taycan can initially charge with up to 270KW speed. With this setting enabled, it is limited to 200KW.
 
-#### Charging Speed Examples
+### Charging Speed Examples
 
 EVKX shows the charge performance for each EV on our site with graphs and calculations based on the performance.
 
 The following are some examples of EVs with different types of charging performance:
 
-[Lucid Air Dream Edition Performance](/models/lucid/air/air_dream_edition_performance/chargingcurve/) is the first example. It has an extreme top charging speed of over 300KW but falls quickly.
+[Zeekr 7x Long Range AWD](/models/zeekr/7x/7x_long_range_awd/chargingcurve/) is the first example. It has an extreme top charging speed of over 300KW but falls quickly.
 
-<img src="/images/models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
+<img src="https://evkx.net/models/zeekr/7x/7x_long_range_awd/chargingcurve/chart/?battery=0" class="img-fluid">
 
 [Kia EV6 GT](/models/kia/ev6/ev6_gt/chargingcurve/) is the next example. This model is one of the fastest-charging EVs with high speed and a much flatter curve than the Lucid Air.
 
-<img src="/images/models/kia/ev6/ev6_gt/chargingcurve.svg" class="img-fluid">
+<img src="https://evkx.net/models/kia/ev6/ev6_gt/chargingcurve/chart/?battery=0" class="img-fluid">
 
 [Nissan Aryia](/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/) does not have a very high top peak, but the curve is relatively flat.
 
-<img src="/images/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve.svg" class="img-fluid">
+<img src="/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/chart/?battery=0" class="img-fluid">
 
 On longer trips, the charging curve may affect the optimum charging stop. For example, a flatter curve would benefit those who prefer longer stops, while a curve with high peaks benefits short stops, and you charge around the peak area.
 
