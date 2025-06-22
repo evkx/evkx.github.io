@@ -1,115 +1,107 @@
 ---
-title: Chargement
-linktitle: Chargement
-description: Charger la batterie est le processus d’ajout d’une nouvelle énergie à la batterie.
+title: La recharge des véhicules électriques expliquée : technologie, performance et facteurs réels
+linktitle: Recharge
+description: Recharger la batterie est le processus consistant à ajouter de l’énergie à la batterie.
 weight: 8
 navicon: bi-battery-charging
 ---
+
 <!-- markdownlint-disable MD033 -->
 
-Le chargement d'une batterie de VE implique le mouvement de porteurs de charge électrique, tels que des électrons et des ions, entre les électrodes de la batterie. La batterie comporte deux électrodes, une cathode et une anode, séparées par un électrolyte.
+Recharger une batterie de véhicule électrique consiste à y faire entrer de l’électricité, qui est ensuite stockée sous forme d’énergie chimique. Cela se produit par le mouvement des électrons et des ions entre les deux électrodes de la batterie : la cathode et l’anode, séparées par un électrolyte.
 
-Pendant le processus de charge, les électrons circulent de la source de charge (par exemple, une station de charge) vers la cathode, où ils sont stockés dans le matériau cathodique. Dans le même temps, les ions positifs contenus dans l’électrolyte circulent de la cathode vers l’anode à travers le séparateur.
-
-Lorsque la batterie est complètement chargée, le matériau de la cathode atteint sa capacité maximale à stocker des électrons et l’anode est complètement dépourvue d’ions positifs. La batterie est dans un état stable avec une différence de potentiel élevée entre la cathode et l’anode, qui fournit l’énergie électrique stockée dans la batterie.
+Pendant la recharge, les électrons circulent depuis la source d’alimentation (ex. : une borne de recharge) vers la cathode. Simultanément, des ions positifs migrent de la cathode vers l’anode via l’électrolyte. Une fois chargée, la batterie stocke l’énergie grâce à une forte différence de potentiel entre ses bornes, prête à alimenter le véhicule.
 
 <figure>
-<img src="batteryconceptcharging.drawio.svg" class="img-fluid mx-auto d-block">
-<légende de la figure>
-         <p class="lead text-center fw-semibold">
-             Batterie en charge
-         </p>
-     </figcaption>
+<img src="https://media.evkx.net/multimedia/technology/battery/charging/batteryconceptcharging.drawio.svg" class="img-fluid mx-auto d-block">
+<figcaption>
+    <p class="lead text-center fw-semibold">
+        Recharge de la batterie
+    </p>
+</figcaption>
 </figure>
 
-
-
-Le processus de charge est réversible et pendant la décharge, les électrons reviennent de la cathode à l'anode via un circuit externe, créant ainsi un flux de courant électrique pouvant alimenter un moteur électrique.
+Le processus est réversible. Lors de la décharge, les électrons circulent de l’anode vers la cathode à travers un circuit externe, produisant un courant pour entraîner le moteur électrique.
 
 {{<evkxdisplayaddarticle />}}
 
-### Performances de charge
+## Performances de recharge
 
-Les performances de recharge varient considérablement d’un véhicule électrique à l’autre. Plusieurs aspects affectent la vitesse de recharge des véhicules électriques.
+Les performances de recharge varient fortement selon les modèles de véhicules électriques et dépendent de plusieurs facteurs clés :
 
-{{< sitefiguresized thumb="technology/battery/charging/charging_1_st.jpg" width="1920" height="1080" title="Kia EV6 GT en charge chez Ionity" >}}
+{{< sitefiguresized thumb="technology/battery/charging/charging\_1\_st.jpg" width="1920" height="1080" title="Kia EV6 GT en charge chez Ionity" >}}
 
-#### La configuration du pack
+### Configuration du pack
 
-La configuration du pack peut affecter la vitesse de chargement. Une configuration qui donne une basse tension peut vous amener à atteindre des limites externes de courant de charge. Par exemple, un chargeur DC CCS de 50 kW a un courant maximum de 125 A. Pour obtenir 50 kW à partir de 125 A, vous avez besoin d'un minimum de 400 volts. La limite de courant maximale limiterait un package de 300 volts à une vitesse de charge de 37,5 kW. (300*125)
+La tension du pack batterie détermine la vitesse maximale de recharge. Par exemple, un chargeur CCS DC de 50 kW fournissant 125 A nécessite au moins 400 V pour délivrer toute sa puissance. Un pack de 300 V serait limité à 37,5 kW (300 V × 125 A).
 
-Il en est de même avec les chargeurs CCS HPC puisqu'ils sont limités à 500 Ampères. 400 volts sur 500 ampères équivaut à un maximum de 200 kW. La vitesse de charge sur une batterie de 300 volts serait limitée à 150 kW.
+De même, la plupart des chargeurs HPC CCS sont limités à 500 A. Cela signifie qu’un pack de 400 V peut atteindre 200 kW, tandis qu’un pack de 300 V est plafonné à 150 kW.
 
-Volvo et Polestar affirment que leur prochain EVS avec des packs de 400 volts bénéficierait d'une charge de 250 kW. Cependant, la manière dont ils géreraient cela avec les limites actuelles de la norme CCS n’est pas claire.
+Des modèles comme les Volvo EX90, Polestar 3 et Nio EL8 annoncent une recharge à 250 kW sur des architectures 400 V, mais cela dépend des bornes non limitées à 500 V.
 
-##### Véhicules électriques de 800 volts sur chargeurs de 400 volts
+#### VE en 800 volts sur bornes 400 volts
 
-Avec les voitures plus récentes utilisant des batteries de 800 volts, il existe un problème supplémentaire avec de nombreux chargeurs à grande vitesse limités à une charge de 400 à 500 volts. Si vous possédez un véhicule électrique de 800 volts qui doit convertir la tension du chargeur en tension de la batterie, cela limitera la vitesse de charge maximale. Les Superchargers Tesla, le plus grand réseau de recharge au monde, sont limités à 500 volts, et toutes les voitures de 800 volts utilisant ce réseau sont limitées en vitesse de recharge.
+Les véhicules en 800 V peuvent être limités par d’anciens chargeurs 400–500 V. Par exemple, les Superchargeurs Tesla sont limités à 500 V, ce qui réduit la vitesse de charge des véhicules en 800 V.
 
-Il existe différentes techniques utilisées pour cela.
+##### Technique d’onduleur
 
-###### Onduleur
+Certains VE utilisent des onduleurs embarqués pour augmenter la tension. Ces systèmes limitent souvent la puissance maximale. Exemples :
 
-La technique la plus courante consiste à utiliser un onduleur. Ici, le véhicule électrique dispose d’un onduleur qui peut convertir la tension pour qu’elle corresponde à la tension de la batterie. Cet onduleur a généralement une limitation bien inférieure à la vitesse de charge maximale de 800 volts.
-Un exemple est la plate-forme Hyundai E-GMP, qui limite la vitesse à 100 kW en utilisant l'onduleur tout en chargeant à 250 kW à 800 volts. Un autre exemple est la Porsche Taycan, dont la puissance est limitée à environ 50 kW avec les Superchargers avec l'onduleur standard.
+* Modèles Hyundai E-GMP : ~100 kW max sur borne 400 V  
+* Porsche Taycan : ~50 kW sur Superchargeur avec l’onduleur standard
 
-###### Chargement bancaire
+##### Recharge en banque
 
-Cette technique divise la batterie en deux blocs de 400 volts tout en chargeant sur des chargeurs de 800 volts. Les nouveaux Porsche Macan et Audi Q6 e-tron utilisent cette technique et peuvent charger jusqu'à 135 kW sur 400 volts (270 kW sur 800 volts). Un autre exemple
-Grâce à la recharge bancaire, le Tesla Cybertruck peut charger jusqu'à 230 kW sur des superchargeurs de 500 volts.
+Cette méthode divise la batterie en deux sections de 400 V. Des modèles comme l’Audi Q6 e-tron et le Porsche Macan acceptent jusqu’à 135 kW sur 400 V et jusqu’à 270 kW sur 800 V. Le Tesla Cybertruck peut atteindre 230 kW sur Superchargeurs 500 V.
 
-{{< sitefiguresized thumb="technology/battery/charging/bankcharging_1_st.jpg" width="3000" height="1852" title="Charge bancaire Audi Q6 e-tron" >}}
+{{< sitefiguresized thumb="technology/battery/charging/bankcharging\_1\_st.jpg" width="3000" height="1852" title="Recharge en banque de l’Audi Q6 e-tron" >}}
 
-#### Température
+### Température
 
-La température de la batterie peut affecter considérablement la vitesse de chargement. Par exemple, le BMS peut réduire la vitesse de charge de plus de 50 % par temps froid.
+La température de la batterie influence fortement la vitesse de charge. Par temps froid, la recharge peut être réduite de plus de 50 % à cause des limitations du système de gestion de la batterie (BMS). De nombreux VE préchauffent la batterie lors de la navigation vers une borne.
 
-Cette réduction de vitesse est la raison pour laquelle certains véhicules électriques proposent un chauffage automatique de la batterie lors de la navigation vers un chargeur ou la possibilité de déclencher manuellement le chauffage du pack batterie.
+Par temps chaud, le BMS peut aussi limiter la charge pour éviter la surchauffe. Les températures optimales de recharge vont de 25 à 35 °C. Au-delà de 50–60 °C, la recharge peut être ralentie pour préserver la batterie.
 
-Les températures élevées peuvent également réduire les performances. Par exemple, le BMS peut réduire la vitesse de charge par temps chaud ou après une charge à grande vitesse. BMS réduit la vitesse de charge pour laisser la batterie refroidir afin de la protéger.
+{{< sitefiguresized thumb="technology/battery/charging/charging\_2\_st.jpg" width="1920" height="1080" title="Audi e-tron GT en charge en hiver" >}}
 
-La température optimale dans une batterie pour le chargement se situe généralement autour de 25 à 35 degrés Celsius (77 à 95 Fahrenheit). Par temps d’été, la batterie se trouve généralement dans cette zone lorsqu’elle arrive à la station de recharge, et vous obtiendrez une vitesse de charge maximale.
+Les VE à recharge rapide doivent disposer de systèmes thermiques efficaces pour maintenir la température idéale durant la session.
 
-{{< sitefiguresized thumb="technology/battery/charging/charging_2_st.jpg" width="1920" height="1080" title="Audi e-tron GT en charge en hiver" >}}
+Les courbes de recharge EVKX reflètent des **conditions optimales** :
 
-Sur certains modèles à charge rapide, une chaude journée d'été avec une charge à grande vitesse peut amener la batterie à atteindre des températures qui amèneront le BMS à réduire la vitesse de charge pour protéger la batterie. Cette réduction de vitesse se produit généralement si la température de la batterie atteint 50 à 60 degrés Celsius pendant la charge. C'est pourquoi il est essentiel d'avoir une bonne gestion thermique capable d'évacuer la chaleur pendant la charge.
-
-La courbe de charge des modèles sur le site EVKX correspond à des <b>conditions optimales</b> :
-
-- La température dans la batterie est suffisamment élevée pour que la vitesse de charge ne soit pas réduite en raison d'une température basse.
-- La température dans la batterie ne devient pas si élevée que le BMS réduit la vitesse de protection pendant la session de charge de 0 à 100 %
-
-{{<evkxdisplayaddarticle />}}
-#### Logiciel GTC
-
-Le fabricant décide de la courbe en fonction de diverses entrées. L’entrée peut être la chimie de la batterie ou d’autres aspects physiques, comme le refroidissement. Pourtant, le fabricant décide souvent d’équilibrer la vitesse de charge avec la longévité de la batterie. La charge à grande vitesse affecte la dégradation, et réduire la vitesse réduirait la dégradation.
-
-Certains fabricants limitent également le nombre de sessions de recharge à haut débit sur une période donnée. Le Toytota BZ4X est un modèle lancé par Toyota avec une limitation à seulement deux sessions à grande vitesse par 24 heures. Une charge plus importante se ferait à faible vitesse.
-
-{{< sitefiguresized thumb="technology/battery/charging/taycancharging_1_st.jpg" width="3000" height="2669" title="Porsche Taycan en charge" >}}
-
-La Porsche Taycan est un modèle dans lequel le propriétaire peut définir une vitesse de charge maximale « respectueuse de la batterie » pour réduire la dégradation. Un Taycan peut initialement charger jusqu’à une vitesse de 270 kW. Avec ce paramètre activé, il est limité à 200KW.
-
-#### Exemples de vitesse de charge
-
-EVKX affiche les performances de charge pour chaque véhicule électrique sur notre site avec des graphiques et des calculs basés sur les performances.
-
-Voici quelques exemples de véhicules électriques offrant différents types de performances de recharge.
-
-[Lucid Air Dream Edition Performance](/models/lucid/air/air_dream_edition_performance/chargingcurve/) est le premier exemple. Il a une vitesse de charge extrême de plus de 300 kW, mais chute rapidement.
-
-<img src="/images/models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
-
-[Kia EV6 GT](/models/kia/ev6/ev6_gt/chargingcurve/) est l'exemple suivant. Ce modèle est l’un des véhicules électriques à recharge la plus rapide, avec une vitesse élevée et une courbe beaucoup plus plate que le Lucid Air.
-
-<img src="/images/models/kia/ev6/ev6_gt/chargingcurve.svg" class="img-fluid">
+* Température de batterie suffisante pour la vitesse maximale  
+* Batterie dans les limites de sécurité pendant toute la session 0–100 %
 
 {{<evkxdisplayaddarticle />}}
 
-[Nissan Aryia](/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/) Ce modèle n'a pas de sommet supérieur très élevé, mais la courbe est relativement plate.
+### Logiciel BMS
 
-<img src="/images/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve.svg" class="img-fluid">
+Le logiciel BMS façonne également la courbe de recharge. Les constructeurs équilibrent vitesse de charge et longévité de la batterie. Comme la charge rapide accélère l’usure, certains VE limitent la puissance ou le nombre de sessions haute vitesse.
 
-Sur les trajets plus longs, la courbe de charge peut affecter l'arrêt de charge optimal. Par exemple, une courbe plus plate profiterait à ceux qui préfèrent des arrêts plus longs, tandis qu'une courbe avec des pics élevés bénéficierait aux arrêts courts et vous rechargeriez autour de la zone de pointe.
+Par exemple :
 
-Pour tous les modèles, EVKX calcule cela pour vous sur la page d'informations sur le modèle.
+* Le Toyota BZ4X n’autorise que deux charges rapides par période de 24h  
+* Le Porsche Taycan permet à l’utilisateur de limiter la vitesse de recharge (ex. : de 270 à 200 kW) pour réduire l’usure
+
+{{< sitefiguresized thumb="technology/battery/charging/taycancharging\_1\_st.jpg" width="3000" height="2669" title="Recharge du Porsche Taycan" >}}
+
+### Exemples de vitesses de recharge
+
+EVKX fournit des données et courbes de recharge réelles pour chaque modèle :
+
+* [Zeekr 7x Long Range AWD](/models/zeekr/7x/7x_long_range_awd/chargingcurve/) : plus de 430 kW en pic.
+
+  Ce modèle nécessite plus de 650 A pour atteindre sa vitesse maximale. Sur borne 400 V, il est limité à 80 kW. Le graphique montre les trois scénarios.
+
+  <img src="https://evkx.net/models/zeekr/7x/7x_long_range_awd/chargingcurve/chart/?battery=0" class="img-fluid">
+
+* [Kia EV6 GT](/models/kia/ev6/ev6_gt/chargingcurve/) : pic élevé avec courbe plate, idéal pour les longs trajets.
+
+  <img src="https://evkx.net/models/kia/ev6/ev6_gt/chargingcurve/chart/?battery=0" class="img-fluid">
+
+* [Nissan Ariya](/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/) : pic modéré mais courbe stable.
+
+  <img src="/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/chart/?battery=0" class="img-fluid">
+
+### Conclusion
+
+Sur les longs trajets, la forme de la courbe de recharge compte. Les courbes plates permettent des arrêts prolongés et réguliers, tandis que les courbes avec pics favorisent les recharges rapides. EVKX vous aide à comparer et comprendre les performances réelles de chaque modèle.

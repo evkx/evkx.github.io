@@ -1,116 +1,107 @@
 ---
-title: Cargando
-linktitle: Cargando
-description: Cargar la batería es el proceso de agregar nueva energía a la batería.
+title: Carga de vehículos eléctricos explicada: tecnología, rendimiento y factores reales
+linktitle: Carga
+description: Cargar la batería es el proceso de añadir nueva energía a la batería.
 weight: 8
 navicon: bi-battery-charging
 ---
 
 <!-- markdownlint-disable MD033 -->
-Cargar la batería de un vehículo eléctrico implica el movimiento de portadores de carga eléctrica, como electrones e iones, entre los electrodos de la batería. La batería tiene dos electrodos, un cátodo y un ánodo, separados por un electrolito.
 
-Durante el proceso de carga, los electrones fluyen desde la fuente de carga (por ejemplo, la estación de carga) al cátodo, donde se almacenan en el material del cátodo. Al mismo tiempo, los iones positivos del electrolito fluyen desde el cátodo al ánodo a través del separador.
+Cargar una batería de vehículo eléctrico implica mover electricidad hacia la batería, donde se almacena como energía química. Esto ocurre mediante el movimiento de electrones e iones entre los dos electrodos de la batería: el cátodo y el ánodo, separados por un electrolito.
 
-Cuando la batería está completamente cargada, el material del cátodo está en su máxima capacidad para almacenar electrones y el ánodo está completamente agotado de iones positivos. La batería se encuentra en un estado estable con una alta diferencia de potencial entre el cátodo y el ánodo, que es el que proporciona la energía eléctrica almacenada en la batería.
+Durante la carga, los electrones fluyen desde la fuente de energía (por ejemplo, una estación de carga) hacia el cátodo. Al mismo tiempo, los iones positivos se desplazan desde el cátodo hacia el ánodo a través del electrolito. Una vez completamente cargada, la batería almacena energía mediante una alta diferencia de potencial entre sus terminales, lista para alimentar el vehículo.
 
-<figura>
-<img src="batteryconceptcharging.drawio.svg" class="img-fluid mx-auto d-block">
-<título de figura>
-         <p class="lead text-center fw-semibold">
-             Bateria cargando
-         </p>
-     </figcaption>
-</figura>
+<figure>
+<img src="https://media.evkx.net/multimedia/technology/battery/charging/batteryconceptcharging.drawio.svg" class="img-fluid mx-auto d-block">
+<figcaption>
+    <p class="lead text-center fw-semibold">
+        Carga de batería
+    </p>
+</figcaption>
+</figure>
 
-El proceso de carga es reversible y, durante la descarga, los electrones regresan del cátodo al ánodo a través de un circuito externo, creando un flujo de corriente eléctrica que puede alimentar un motor eléctrico.
-
-{{<evkxdisplayaddarticle />}}
-
-### Rendimiento de carga
-
-El rendimiento de carga varía mucho entre vehículos eléctricos. Varios aspectos afectan la velocidad de carga de los vehículos eléctricos.
-
-{{< sitefiguresized thumb="technology/battery/charging/charging_1_st.jpg" width="1920" height="1080" title="Kia EV6 GT cargando en Ionity" >}}
-
-#### La configuración del paquete
-
-La configuración del paquete puede afectar la velocidad de carga. Una configuración que proporciona bajo voltaje puede hacer que se alcancen límites externos en la corriente de carga. Por ejemplo, un cargador DC CCS de 50 KW tiene una corriente máxima de 125 A. Para obtener 50 KW a partir de 125 A, necesita un mínimo de 400 voltios. El límite máximo de corriente limitaría un paquete de 300 voltios a una velocidad de carga de 37,5 KW. (300*125)
-
-Lo mismo ocurre con los cargadores CCS HPC, ya que están limitados a 500 amperios. 400 voltios con 500 amperios es un máximo de 200 KW. La velocidad de carga de una batería de 300 voltios estaría limitada a 150 KW.
-
-Volvo y Polestar afirman que sus próximos vehículos eléctricos con paquetes de 400 voltios tendrían una carga de 250 kW. Sin embargo, no está claro cómo gestionarían eso con los límites estándar actuales de CCS.
-
-##### Vehículos eléctricos de 800 voltios con cargadores de 400 voltios
-
-Dado que los automóviles más nuevos utilizan paquetes de baterías de 800 voltios, existe un problema adicional: muchos cargadores de alta velocidad se limitan a cargar entre 400 y 500 voltios. Si tiene un vehículo eléctrico de 800 voltios que necesita convertir el voltaje del cargador al voltaje de la batería, esto limitará la velocidad máxima de carga. Tesla Superchargers, la red de carga más grande del mundo, está limitada a 500 voltios, y todos los automóviles de 800 voltios que utilizan esta red tienen una velocidad de carga limitada.
-
-Existen diferentes técnicas utilizadas para esto.
-
-###### Inversor
-
-La técnica más común es utilizar un inversor. Aquí, el vehículo eléctrico tiene un inversor que puede convertir el voltaje para que coincida con el voltaje de la batería. Este inversor suele tener una limitación muy inferior a la velocidad máxima de carga de 800 voltios.
-Un ejemplo es la plataforma Hyundai E-GMP, que limita la velocidad a 100 kW usando el inversor mientras se carga a 250 kW a 800 voltios. Otro ejemplo es el Porsche Taycan, que está limitado a unos 50 kW en los Superchargers con el Inverter estándar.
-
-###### Cobro bancario
-
-Esta técnica divide el paquete de baterías en dos paquetes de 400 voltios mientras se carga con cargadores de 800 voltios. Los nuevos Porsche Macan y Audi Q6 e-tron utilizan esta técnica y pueden cargar hasta 135 kW con 400 voltios (270 kW con 800 voltios). Otro ejemplo
-Utilizando la carga bancaria, el Tesla Cybertruck puede cargar hasta 230 kW con supercargadores de 500 voltios.
-
-{{< sitefiguresized thumb="technology/battery/charging/bankcharging_1_st.jpg" width="3000" height="1852" title="Carga bancaria del Audi Q6 e-tron" >}}
-
-#### Temperatura
-
-La temperatura de la batería puede afectar significativamente la velocidad de carga. Por ejemplo, el BMS puede reducir la velocidad de carga en más del 50% en climas fríos.
-
-Esta reducción de velocidad es la razón por la que algunos vehículos eléctricos ofrecen calentamiento automático de la batería cuando se navega hacia un cargador o la posibilidad de activar manualmente el calentamiento de la batería.
-
-Las altas temperaturas también pueden reducir el rendimiento. Por ejemplo, el BMS puede reducir la velocidad de carga en climas cálidos o después de una carga a alta velocidad. BMS reduce la velocidad de carga para permitir que la batería se enfríe y protegerla.
-
-La temperatura óptima para cargar una batería suele ser de entre 25 y 35 grados Celsius (77 a 95 Fahrenheit). En temperaturas de verano, la batería normalmente estará en esta área al llegar a la estación de carga, y obtendrá la velocidad de carga máxima.
-
-{{< sitefiguresized thumb="technology/battery/charging/charging_2_st.jpg" width="1920" height="1080" title="Audi e-tron GT cargando en invierno" >}}
-
-En algunos modelos con carga rápida, un día cálido de verano con carga de alta velocidad puede hacer que la batería alcance temperaturas que harán que el BMS reduzca la velocidad de carga para proteger la batería. Esta reducción de velocidad suele ocurrir si la temperatura de la batería alcanza los 50-60 grados Celsius durante la carga. Por eso es fundamental contar con una buena gestión térmica que pueda eliminar el calor durante la carga.
-
-La curva de carga para los modelos en el sitio de EVKX es para <b>condiciones óptimas</b>:
-
-- La temperatura de la batería es lo suficientemente alta, por lo que la velocidad de carga no se reduce debido a la baja temperatura.
-- La temperatura de la batería no sube tanto como para que BMS reduzca la velocidad para protección durante la sesión de carga del 0 al 100 %.
-
+El proceso es reversible. Durante la descarga, los electrones fluyen desde el ánodo hacia el cátodo a través de un circuito externo, generando corriente para alimentar el motor eléctrico.
 
 {{<evkxdisplayaddarticle />}}
 
-#### Software BMS
+## Rendimiento de carga
 
-El fabricante decide la curva basándose en varios datos. La entrada podría ser la química del paquete de baterías u otros aspectos físicos, como el enfriamiento. Aun así, el fabricante suele decidir equilibrar la velocidad de carga con la longevidad de la batería. La carga de alta velocidad afecta la degradación y reducir la velocidad reduciría la degradación.
+El rendimiento de carga varía significativamente entre modelos de EV y está influenciado por varios factores clave:
 
-Algunos fabricantes también limitan el número de sesiones de carga de alta velocidad durante un período. Toytota BZ4X es un modelo que Toyota lanzó con una limitación de sólo dos sesiones de alta velocidad durante 24 horas. Más carga sería a baja velocidad.
+{{< sitefiguresized thumb="technology/battery/charging/charging\_1\_st.jpg" width="1920" height="1080" title="Kia EV6 GT cargando en Ionity" >}}
 
-{{< sitefiguresized thumb="technology/battery/charging/taycancharging_1_st.jpg" width="3000" height="2669" title="Carga Porsche Taycan" >}}
+### Configuración del paquete
 
-Porsche Taycan es un modelo en el que el propietario puede establecer como máxima una velocidad de carga "amigable con la batería" para disminuir la degradación. Un Taycan puede cargarse inicialmente con una velocidad de hasta 270 KW. Con esta configuración habilitada, está limitada a 200 KW.
+El voltaje del paquete de baterías afecta la velocidad máxima de carga. Por ejemplo, un cargador CCS DC de 50 kW que entrega 125 A requiere al menos 400 V para alcanzar su capacidad total. Un paquete de 300 V estaría limitado a 37,5 kW (300 V × 125 A).
 
-#### Ejemplos de velocidad de carga
+De manera similar, la mayoría de los cargadores HPC CCS están limitados a 500 A. Esto significa que un paquete de 400 V puede admitir hasta 200 kW, mientras que uno de 300 V se limita a 150 kW.
 
+Modelos como el Volvo EX90, Polestar 3 y Nio EL8 afirman admitir carga de 250 kW con arquitecturas de 400 V, pero esto depende de cargadores que no estén limitados a 500 V.
 
-EVKX muestra el rendimiento de carga de cada vehículo eléctrico en nuestro sitio con gráficos y cálculos basados en el rendimiento.
+#### EV de 800 voltios en cargadores de 400 voltios
 
-Los siguientes son algunos ejemplos de vehículos eléctricos con diferentes tipos de rendimiento de carga.
+Los EV de 800 V pueden verse limitados por cargadores antiguos de 400–500 V. Por ejemplo, los Supercargadores de Tesla están limitados a 500 V, lo que reduce la velocidad de carga para vehículos de 800 V.
 
-[Lucid Air Dream Edition Performance](/models/lucid/air/air_dream_edition_performance/chargingcurve/) es el primer ejemplo. Tiene una velocidad de carga máxima extrema de más de 300 kW, pero cae rápidamente.
+##### Técnica de inversor
 
-<img src="/images/models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
+Algunos EV utilizan inversores a bordo para aumentar el voltaje. Estos sistemas a menudo limitan la potencia total entregada. Por ejemplo:
 
-[Kia EV6 GT](/models/kia/ev6/ev6_gt/chargingcurve7/) es el siguiente ejemplo. Este modelo es uno de los vehículos eléctricos de carga más rápida, con alta velocidad y una curva mucho más plana que el Lucid Air.
+* Modelos Hyundai E-GMP: ~100 kW máximo en cargadores de 400 V  
+* Porsche Taycan: ~50 kW en Supercargadores usando el inversor estándar
 
-<img src="/images/models/kia/ev6/ev6_gt/chargingcurve.svg" class="img-fluid">
+##### Carga por bancos
+
+Este método divide la batería en dos secciones de 400 V. Modelos como el Audi Q6 e-tron y el Porsche Macan admiten hasta 135 kW a 400 V y hasta 270 kW a 800 V. El Tesla Cybertruck puede alcanzar 230 kW en Supercargadores de 500 V.
+
+{{< sitefiguresized thumb="technology/battery/charging/bankcharging\_1\_st.jpg" width="3000" height="1852" title="Audi Q6 e-tron carga por bancos" >}}
+
+### Temperatura
+
+La temperatura de la batería afecta críticamente la velocidad de carga. En climas fríos, la carga puede reducirse más del 50 % debido a las limitaciones del sistema de gestión de batería (BMS). Muchos EV precalientan la batería cuando se navega hacia una estación de carga.
+
+En climas calurosos, el BMS también puede reducir la carga para evitar el sobrecalentamiento. Las temperaturas óptimas para cargar van de 25 a 35 °C. Por encima de 50–60 °C, la carga puede reducirse para proteger la salud de la batería.
+
+{{< sitefiguresized thumb="technology/battery/charging/charging\_2\_st.jpg" width="1920" height="1080" title="Audi e-tron GT cargando en invierno" >}}
+
+Los EV con carga rápida deben contar con sistemas térmicos eficientes para mantener la temperatura ideal durante la sesión de carga.
+
+Las curvas de carga de EVKX reflejan **condiciones óptimas**:
+
+* La temperatura de la batería es suficientemente alta para máxima velocidad  
+* La batería se mantiene dentro de límites seguros durante una sesión del 0 al 100 %
 
 {{<evkxdisplayaddarticle />}}
 
-[Nissan Aryia](/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/) Este modelo no tiene un pico superior muy alto, pero la curva es relativamente plana.
+### Software BMS
 
-<img src="/images/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve.svg" class="img-fluid">
+El software del BMS también define las curvas de carga. Los fabricantes equilibran la velocidad de carga con la longevidad de la batería. Como la carga rápida acelera la degradación, algunos EV limitan la velocidad o el número de sesiones de alta potencia.
 
-En viajes más largos, la curva de carga puede afectar a la parada de carga óptima. Por ejemplo, una curva más plana beneficiaría a aquellos que prefieren paradas más largas, mientras que una curva con picos altos beneficiaría a paradas cortas y usted cargaría alrededor del área de pico.
+Por ejemplo:
 
-Para todos los modelos, EVKX calcula esto por usted en la página de información del modelo.
+* El Toyota BZ4X permite solo dos sesiones rápidas por día  
+* El Porsche Taycan permite al usuario limitar la velocidad de carga (por ejemplo, de 270 kW a 200 kW) para reducir el desgaste
+
+{{< sitefiguresized thumb="technology/battery/charging/taycancharging\_1\_st.jpg" width="3000" height="2669" title="Porsche Taycan cargando" >}}
+
+### Ejemplos de velocidad de carga
+
+EVKX proporciona datos de rendimiento de carga real y gráficos para cada modelo de EV:
+
+* [Zeekr 7x Long Range AWD](/models/zeekr/7x/7x_long_range_awd/chargingcurve/): Más de 430 kW pico.
+
+  Este modelo requiere más de 650 A para alcanzar la velocidad máxima. En cargadores de 400 V, está limitado a 80 kW. El diagrama de curva de carga muestra los tres escenarios.
+
+  <img src="https://evkx.net/models/zeekr/7x/7x_long_range_awd/chargingcurve/chart/?battery=0" class="img-fluid">
+
+* [Kia EV6 GT](/models/kia/ev6/ev6_gt/chargingcurve/): Alta velocidad pico con curva plana, ideal para viajes largos.
+
+  <img src="https://evkx.net/models/kia/ev6/ev6_gt/chargingcurve/chart/?battery=0" class="img-fluid">
+
+* [Nissan Ariya](/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/): Velocidad pico moderada pero curva constante.
+
+  <img src="/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/chart/?battery=0" class="img-fluid">
+
+### Reflexiones finales
+
+En viajes largos, la forma de la curva de carga es importante. Las curvas planas permiten paradas más largas y constantes, mientras que las curvas con picos favorecen recargas rápidas. EVKX te ayuda a comparar y entender el rendimiento real de cada modelo.

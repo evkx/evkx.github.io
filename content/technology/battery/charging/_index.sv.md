@@ -1,113 +1,107 @@
 ---
-title: Laddning
+title: Laddning av elbilar förklarad: teknik, prestanda och verkliga faktorer
 linktitle: Laddning
-description: Att ladda batteriet är processen att tillföra ny energi till batteriet.
+description: Att ladda batteriet innebär att tillföra ny energi till batteriet.
 weight: 8
 navicon: bi-battery-charging
 ---
+
 <!-- markdownlint-disable MD033 -->
-Att ladda ett elbilsbatteri innebär att elektriska laddningsbärare, såsom elektroner och joner, rör sig mellan batteriets elektroder. Batteriet består av två elektroder, en katod och en anod, åtskilda av en elektrolyt.
 
-Under laddningsprocessen strömmar elektroner från laddningskällan (t.ex. laddstationen) till katoden, där de lagras i katodmaterialet. Samtidigt strömmar positiva joner i elektrolyten från katoden till anoden genom separatorn.
+Att ladda ett elbilsbatteri innebär att föra in elektricitet i batteriet, där det lagras som kemisk energi. Detta sker genom rörelse av elektroner och joner mellan batteriets två elektroder: katod och anod, separerade av en elektrolyt.
 
-När batteriet är fulladdat har katodmaterialet sin maximala kapacitet att lagra elektroner, och anoden är helt utarmad på positiva joner. Batteriet är i ett stabilt tillstånd med stor potentialskillnad mellan katoden och anoden, vilket är det som tillhandahåller den elektriska energin som lagras i batteriet.
+Under laddning strömmar elektroner från strömkällan (t.ex. en laddstation) till katoden. Samtidigt rör sig positiva joner från katoden till anoden genom elektrolyten. När batteriet är fulladdat lagras energin genom en hög potentialskillnad mellan polerna, redo att driva fordonet.
 
-<figur>
-<img src="batteryconceptcharging.drawio.svg" class="img-fluid mx-auto d-block">
+<figure>
+<img src="https://media.evkx.net/multimedia/technology/battery/charging/batteryconceptcharging.drawio.svg" class="img-fluid mx-auto d-block">
 <figcaption>
-         <p class="lead text-center fw-semibold">
-             Batteri lading
-         </p>
-     </figcaption>
-</figur>
+    <p class="lead text-center fw-semibold">
+        Batteriladdning
+    </p>
+</figcaption>
+</figure>
 
-Laddningsprocessen är reversibel, och under urladdningen strömmar elektronerna tillbaka från katoden till anoden genom en extern krets, vilket skapar ett flöde av elektrisk ström som kan driva en elektrisk motor.
-
-{{<evkxdisplayaddarticle />}}
-
-### Laddningsprestanda
-
-Laddningsprestanda varierar kraftigt mellan elbilar. Flera aspekter påverkar laddningshastigheten för elbilar de är.
-
-{{< sitefiguresized thumb="technology/battery/charging/charging_1_st.jpg" width="1920" height="1080" title="Kia EV6 GT laddar vid Ionity" >}}
-
-#### Paketkonfigurationen
-
-Paketkonfigurationen kan påverka laddningshastigheten. En konfiguration som ger låg spänning kan göra att du når externa laddningsströmgränser. Till exempel har en 50KW DC CCS-laddare en maximal ström på 125A. För att få 50KW från 125A behöver du minst 400 Volt. Den maximala strömgränsen kommer att begränsa ett 300-voltspaket till 37,5KW laddningshastighet. (300*125)
-
-Det är samma sak med CCS HPC-laddare eftersom de är begränsade till 500 Amp. 400 volt vid 500 ampere är max 200 kW. Laddningshastigheten för ett 300 volts batteri kommer att begränsas till 150 kW.
-
-Volvo och Polestar hävdar att deras kommande EVS med 400 VOlt-paket kommer att få 250KW laddning. Det är dock oklart hur de skulle klara sig med nuvarande CCS-standardgränser.
-
-##### 800 volt elbilar på 400-volts laddare
-
-Med nyare bilar som använder 800-volts batteripaket finns det ytterligare ett problem med att många höghastighetsladdare är begränsade till 400-500-voltsladdning. Om du har en 800-volts elbil som behöver omvandla spänningen från laddaren till batteripaketets spänning, kommer detta att begränsa den maximala laddningshastigheten. Tesla Superchargers, världens största laddningsnätverk, är begränsat till 500 volt, och alla 800-voltsbilar som använder detta nätverk är begränsade i laddningshastighet.
-
-Det finns olika tekniker som används för detta.
-
-###### Växelriktare
-
-Den vanligaste tekniken är att använda en inverter. Här har EV en växelriktare som kan omvandla spänningen till att matcha batterispänningen. Denna växelriktare har vanligtvis en begränsning som är mycket lägre än den maximala laddningshastigheten på 800 volt.
-Ett exempel är Hyundai E-GMP-plattformen, som begränsar hastigheten till 100kW med växelriktaren medan den laddas vid 250kW vid 800 volt. Ett annat exempel är Porsche Taycan, som är begränsad till cirka 50kW på Superchargers med standardinvertern.
-
-###### Bankdebitering
-
-Denna teknik delar upp batteripaketet i två 400-voltspaket samtidigt som det laddas med 800-volts laddare. Nya Porsche Macan och Audi Q6 e-tron använder denna teknik och kan ladda upp till 135kW på 400 volt (270kW på 800 volt). Ett annat exempel
-Med hjälp av bankladdning kan Tesla Cybertruck ladda upp till 230kW vid 500 Volt Superchargers.
-
-{{< sitefiguresized thumb="technology/battery/charging/bankcharging_1_st.jpg" width="3000" height="1852" title="Audi Q6 e-tron bankladdning" >}}
-
-#### Temperatur
-
-Batteritemperaturen kan påverka laddningshastigheten avsevärt. Till exempel kan BMS minska laddningshastigheten med mer än 50 % i kallt väder.
-
-Denna hastighetsminskning är anledningen till att vissa elbilar erbjuder automatisk uppvärmning av batteriet när de navigerar till en laddare eller möjligheten att manuellt utlösa uppvärmningen av batteripaketet.
-
-Höga temperaturer kan också minska prestandan. Till exempel kan BMS minska laddningshastigheten vid varmt väder eller efter höghastighetsladdning. BMS minskar laddningshastigheten för att låta batteriet svalna för att skydda det.
-
-Den optimala temperaturen i ett batteri för laddning är vanligtvis runt 25-35 grader Celsius (77-95 Fahrenheit). I sommartemperaturer skulle batteriet vanligtvis vara i detta område när du anländer till laddstationen, och du kommer att få full laddningshastighet.
-
-{{< sitefiguresized thumb="technology/battery/charging/charging_2_st.jpg" width="1920" height="1080" title="Audi e-tron GT laddar på vintern" >}}
-
-På vissa modeller med snabbladdning kan en varm sommardag med höghastighetsladdning göra att batteriet når temperaturer som gör att BMS minskar laddningshastigheten för att skydda batteriet. Denna hastighetsminskning sker vanligtvis om batteritemperaturen når 50-60 grader Celsius under laddning. Det är därför det är viktigt att ha en bra värmehantering som kan få bort värmen under laddning.
-
-Laddningskurvan för modeller på EVKX-webbplatsen är för <b>optimala förhållanden</b>:
-
-- Temperaturen i batteriet är tillräckligt hög, så laddningshastigheten minskas inte på grund av låg temperatur.
-- Temperaturen i batteriet blir inte så hög att BMS minskar hastigheten för skydd under laddningspasset från 0-100 %
+Processen är reversibel. Vid urladdning strömmar elektroner från anoden till katoden genom en yttre krets och genererar ström till elmotorn.
 
 {{<evkxdisplayaddarticle />}}
 
-#### BMS-programvara
+## Laddningsprestanda
 
-Tillverkaren bestämmer kurvan utifrån olika indata. Ingångarna kan vara batteripaketets kemi eller andra fysiska aspekter, såsom kylning. Ändå bestämmer sig tillverkaren ofta för att balansera laddningshastigheten med batteritiden. Höghastighetsladdning påverkar försämringen, och sänkning av hastigheten minskar försämringen.
+Laddningsprestanda varierar kraftigt mellan olika elbilsmodeller och påverkas av flera viktiga faktorer:
 
-Vissa tillverkare begränsar också antalet höghastighetsladdningssessioner under en period. Toytota BZ4X är en modell som Toyota lanserade med en begränsning på endast två höghastighetssessioner inom 24 timmar. Mer laddning skulle vara vid låg hastighet.
+{{< sitefiguresized thumb="technology/battery/charging/charging\_1\_st.jpg" width="1920" height="1080" title="Kia EV6 GT laddar vid Ionity" >}}
 
-{{< sitefiguresized thumb="technology/battery/charging/taycancharging_1_st.jpg" width="3000" height="2669" title="Porsche Taycan laddning" >}}
+### Batterikonfiguration
 
-Porsche Taycan är en modell där ägaren kan ställa in en "batterivänlig" laddningshastighet som max för att minska nedbrytningen. En Taycan kan initialt ladda med en hastighet på upp till 270KW. Med den här inställningen aktiverad är den begränsad till 200KW.
+Batteripackets spänning påverkar maximal laddhastighet. En 50 kW DC CCS-laddare som ger 125 A kräver exempelvis minst 400 V för att leverera full effekt. Ett 300 V-paket begränsas då till 37,5 kW (300 V × 125 A).
 
-#### Exempel på laddningshastighet
+De flesta CCS HPC-laddare är också begränsade till 500 A. Det innebär att ett 400 V-paket klarar upp till 200 kW, medan ett 300 V-paket begränsas till 150 kW.
 
-EVKX visar laddningsprestanda för varje elbil på vår hemsida med grafer och beräkningar baserade på prestanda.
+Modeller som Volvo EX90, Polestar 3 och Nio EL8 uppger att de stöder 250 kW laddning på 400 V-arkitektur, men det kräver laddare som inte är begränsade till 500 V.
 
-Nedan följer några exempel på elbilar med olika typer av laddningsprestanda.
+#### 800-voltsbilar på 400-voltsladdare
 
-[Lucid Air Dream Edition Performance](/models/lucid/air/air_dream_edition_performance/chargingcurve/) är det första exemplet. Den har en extrem toppladdningshastighet på över 300kW, men sjunker snabbt.
+800V-bilar kan begränsas av äldre 400–500 V-laddare. Tesla Superchargers är till exempel begränsade till 500 V, vilket sänker laddhastigheten för 800 V-fordon.
 
-<img src="/images/models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
+##### Inverterns funktion
 
-[Kia EV6 GT](/models/kia/ev6/ev6_gt/chargingcurve/) är nästa exempel. Denna modell är en av de snabbast laddade elbilarna med hög hastighet och en mycket plattare kurva än Lucid Air.
+Vissa elbilar använder inbyggda växelriktare för att höja spänningen. Dessa system begränsar ofta den totala effekten. Exempel:
 
-<img src="/images/models/kia/ev6/ev6_gt/chargingcurve.svg" class="img-fluid">
+* Hyundai E-GMP-modeller: ~100 kW max på 400 V-laddare  
+* Porsche Taycan: ~50 kW på Superchargers med standardinverter
+
+##### Bankladdning
+
+Denna metod delar upp batteriet i två 400 V-sektioner. Modeller som Audi Q6 e-tron och Porsche Macan klarar upp till 135 kW vid 400 V och upp till 270 kW vid 800 V. Tesla Cybertruck kan nå 230 kW på 500 V Superchargers.
+
+{{< sitefiguresized thumb="technology/battery/charging/bankcharging\_1\_st.jpg" width="3000" height="1852" title="Audi Q6 e-tron med bankladdning" >}}
+
+### Temperatur
+
+Batteritemperaturen påverkar laddhastigheten avsevärt. I kallt väder kan laddningen minska med över 50 % på grund av begränsningar i batterihanteringssystemet (BMS). Många elbilar förvärmer batteriet automatiskt när en laddare anges i navigationen.
+
+Vid varmt väder kan BMS också strypa laddningen för att förhindra överhettning. Optimal laddningstemperatur ligger mellan 25–35 °C. Över 50–60 °C kan laddningen minska för att skydda batteriet.
+
+{{< sitefiguresized thumb="technology/battery/charging/charging\_2\_st.jpg" width="1920" height="1080" title="Audi e-tron GT laddar på vintern" >}}
+
+Elbilar med snabbladdning måste ha effektiv termisk hantering för att hålla batteriet inom ideal temperatur under laddning.
+
+EVKX:s laddkurvor visar **optimala förhållanden**:
+
+* Batteritemperaturen är tillräckligt hög för maximal hastighet  
+* Batteriet hålls inom säkra gränser under en 0–100 % laddsession
 
 {{<evkxdisplayaddarticle />}}
 
-[Nissan Aryia](/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/) Denna modell har inte en särskilt hög laddningstopp, men kurvan är relativt platt.
+### BMS-programvara
 
-<img src="/images/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve.svg" class="img-fluid">
+BMS-programvaran påverkar också laddkurvan. Tillverkare balanserar laddhastighet mot batteriets livslängd. Eftersom snabbladdning påskyndar nedbrytningen, begränsar vissa elbilar hastigheten eller antalet högeffektsladdningar.
 
-Vid längre resor kan laddningskurvan påverka det optimala laddningsstoppet. En plattare kurva gynnar till exempel de som föredrar längre stopp, medan en kurva med höga toppar gynnar korta stopp och du laddar runt toppområdet.
+Exempel:
 
-För alla modeller beräknar EVKX detta åt dig på modellinfosidan.
+* Toyota BZ4X tillåter endast två snabbladdningar per dygn  
+* Porsche Taycan låter användare begränsa laddhastigheten (t.ex. från 270 kW till 200 kW) för att minska slitage
+
+{{< sitefiguresized thumb="technology/battery/charging/taycancharging\_1\_st.jpg" width="3000" height="2669" title="Porsche Taycan laddar" >}}
+
+### Exempel på laddhastigheter
+
+EVKX tillhandahåller verklig ladddata och diagram för varje elbilsmodell:
+
+* [Zeekr 7x Long Range AWD](/models/zeekr/7x/7x_long_range_awd/chargingcurve/): Över 430 kW i topp.
+
+  Denna modell kräver över 650 A för full hastighet. På 400 V-laddare är den begränsad till 80 kW. Laddkurvdiagrammet visar alla tre scenarier.
+
+  <img src="https://evkx.net/models/zeekr/7x/7x_long_range_awd/chargingcurve/chart/?battery=0" class="img-fluid">
+
+* [Kia EV6 GT](/models/kia/ev6/ev6_gt/chargingcurve/): Hög toppfart med platt kurva – perfekt för långresor.
+
+  <img src="https://evkx.net/models/kia/ev6/ev6_gt/chargingcurve/chart/?battery=0" class="img-fluid">
+
+* [Nissan Ariya](/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/): Måttlig topp, men stabil kurva.
+
+  <img src="/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/chart/?battery=0" class="img-fluid">
+
+### Slutsats
+
+På längre resor spelar laddkurvans form stor roll. Platta kurvor möjliggör längre, stabila stopp, medan toppiga kurvor ger snabba påfyllningar. EVKX hjälper dig jämföra och förstå verklig laddprestanda för varje modell.
