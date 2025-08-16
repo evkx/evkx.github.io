@@ -26,7 +26,7 @@ Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. 
 
 <div class="alert alert-secondary" role="alert">
 
-Denne model er blevet erstattet af [Porsche Taycan](/models/porsche/taycan/taycan/).
+Denne model er blevet erstattet af [Porsche Taycan](/nb-NO/models/porsche/taycan/taycan/).
 
 </div>
 

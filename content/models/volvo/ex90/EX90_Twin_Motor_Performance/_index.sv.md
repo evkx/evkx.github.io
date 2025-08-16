@@ -290,9 +290,9 @@ Priserna kan variera beroende på lokala förhållanden, incitament och kampanje
 
 På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternativ till Volvo EX90 Twin Motor Performance som är värda att överväga baserat på funktioner, specifikationer och prissättning. Även om dessa modeller kanske inte är exakta matchningar, kan en jämförelse hjälpa dig att fatta ett mer välgrundat köpbeslut:
 
-- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
-- [Kia EV9 Long Range RWD](/models/kia/ev9/ev9_long_range_rwd/)
-- [Tesla Model X](/models/tesla/model_x/model_x/)
+- [Mercedes EQS 580 4MATIC SUV](/nb-NO/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Kia EV9 Long Range RWD](/nb-NO/models/kia/ev9/ev9_long_range_rwd/)
+- [Tesla Model X](/nb-NO/models/tesla/model_x/model_x/)
 
 <a href="https://db.evkx.net/evcompare?evs=94534b%2c8201b2%2c7380a8%2c2c5a24" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 

@@ -314,9 +314,9 @@ Los precios pueden variar según las condiciones locales, incentivos y promocion
 
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varias alternativas al Chevrolet Blazer EV RS AWD que vale la pena considerar en función de las características, especificaciones y precios. Aunque estos modelos pueden no ser coincidencias exactas, compararlos podría ayudarlo a tomar una decisión de compra más informada:
 
-- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
-- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
-- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
+- [Kia EV6 Long Range AWD](/nb-NO/models/kia/ev6/ev6_long_range_awd/)
+- [Tesla Model Y Long Range](/nb-NO/models/tesla/model_y/model_y_long_range/)
+- [Hyundai Ioniq 5 Long Range AWD](/nb-NO/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
 
 <a href="https://db.evkx.net/evcompare?evs=31cf92%2ca1c57c%2cad3cd5%2cbf704f" target="_blank">Explore una comparación detallada de estos modelos.</a>
 

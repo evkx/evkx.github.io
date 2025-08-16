@@ -308,11 +308,11 @@ Los precios pueden variar según las condiciones locales, incentivos y promocion
 
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varias alternativas al VOYAH Courage AWD que vale la pena considerar en función de las características, especificaciones y precios. Aunque estos modelos pueden no ser coincidencias exactas, compararlos podría ayudarlo a tomar una decisión de compra más informada:
 
-- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
-- [XPENG G6 AWD Performance](/models/xpeng/g6/g6_awd_performance/)
-- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
-- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
-- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
+- [Tesla Model Y Long Range](/nb-NO/models/tesla/model_y/model_y_long_range/)
+- [XPENG G6 AWD Performance](/nb-NO/models/xpeng/g6/g6_awd_performance/)
+- [Volkswagen ID.4 GTX 4MOTION](/nb-NO/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Kia EV6 Long Range AWD](/nb-NO/models/kia/ev6/ev6_long_range_awd/)
+- [Hyundai Ioniq 5 Long Range AWD](/nb-NO/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
 
 <a href="https://db.evkx.net/evcompare?evs=445eb3%2cad3cd5%2c7a37c9%2c0cb6ee%2c546c35%2cbf704f" target="_blank">Explore una comparación detallada de estos modelos.</a>
 

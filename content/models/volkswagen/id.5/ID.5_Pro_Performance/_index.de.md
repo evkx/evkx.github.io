@@ -26,7 +26,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 <div class="alert alert-secondary" role="alert">
 
-Dieses Modell wurde durch [Volkswagen ID.5 Pro](/models/volkswagen/id.5/id.5_pro/) ersetzt.
+Dieses Modell wurde durch [Volkswagen ID.5 Pro](/nb-NO/models/volkswagen/id.5/id.5_pro/) ersetzt.
 
 </div>
 

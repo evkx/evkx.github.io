@@ -297,9 +297,9 @@ Los precios pueden variar según las condiciones locales, incentivos y promocion
 
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varias alternativas al Peugot E-5008 que vale la pena considerar en función de las características, especificaciones y precios. Aunque estos modelos pueden no ser coincidencias exactas, compararlos podría ayudarlo a tomar una decisión de compra más informada:
 
-- [Mercedes EQB 250](/models/mercedes/eqb/eqb_250/)
-- [Kia EV9 Long Range RWD](/models/kia/ev9/ev9_long_range_rwd/)
-- [BYD Tang 4x4 Long Range](/models/byd/tang/tang_4x4_long_range/)
+- [Mercedes EQB 250](/nb-NO/models/mercedes/eqb/eqb_250/)
+- [Kia EV9 Long Range RWD](/nb-NO/models/kia/ev9/ev9_long_range_rwd/)
+- [BYD Tang 4x4 Long Range](/nb-NO/models/byd/tang/tang_4x4_long_range/)
 
 <a href="https://db.evkx.net/evcompare?evs=f5ff6e%2c070e4d%2c7380a8%2cbecb7f" target="_blank">Explore una comparación detallada de estos modelos.</a>
 

@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 <div class="alert alert-secondary" role="alert">
 
-This model has been replaced by [Volkswagen ID.4 Pro](/models/volkswagen/id.4/id.4_pro/).
+This model has been replaced by [Volkswagen ID.4 Pro](/nb-NO/models/volkswagen/id.4/id.4_pro/).
 
 </div>
 

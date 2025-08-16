@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 <div class="alert alert-secondary" role="alert">
 
-This model has been replaced by [Mercedes EQS 580 4MATIC](/models/mercedes/eqs/eqs_580_4matic/).
+This model has been replaced by [Mercedes EQS 580 4MATIC](/nb-NO/models/mercedes/eqs/eqs_580_4matic/).
 
 </div>
 

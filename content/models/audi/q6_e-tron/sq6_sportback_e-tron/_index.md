@@ -405,9 +405,9 @@ Pricing may vary depending on local conditions, incentives, and promotions. Belo
 
 In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Audi SQ6 Sportback e-tron that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
 
-- [Mercedes EQE 53 4MATIC+ SUV](/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/)
-- [BMW iX M60](/models/bmw/ix/ix_m60/)
-- [Porsche Macan 4S](/models/porsche/macan/macan_4s/)
+- [Mercedes EQE 53 4MATIC+ SUV](/nb-NO/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/)
+- [BMW iX M60](/nb-NO/models/bmw/ix/ix_m60/)
+- [Porsche Macan 4S](/nb-NO/models/porsche/macan/macan_4s/)
 
 <a href="https://db.evkx.net/evcompare?evs=4ec4e6%2cff1bbb%2ca8096c%2c7dda71" target="_blank">Explore a detailed comparison of these models.</a>
 

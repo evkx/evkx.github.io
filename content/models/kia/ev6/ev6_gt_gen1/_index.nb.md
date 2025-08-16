@@ -26,7 +26,7 @@ Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering
 
 <div class="alert alert-secondary" role="alert">
 
-Denne modellen er erstattet av [Kia EV6 GT](/models/kia/ev6/ev6_gt/).
+Denne modellen er erstattet av [Kia EV6 GT](/nb-NO/models/kia/ev6/ev6_gt/).
 
 </div>
 
@@ -349,8 +349,8 @@ Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er
 
 I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til Kia EV6 GT (GEN1) som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
-- [Hyundai Ioniq 5 N](/models/hyundai/ioniq_5/ioniq_5_n/)
+- [Tesla Model Y Performance](/nb-NO/models/tesla/model_y/model_y_performance/)
+- [Hyundai Ioniq 5 N](/nb-NO/models/hyundai/ioniq_5/ioniq_5_n/)
 
 <a href="https://db.evkx.net/evcompare?evs=731dd5%2c1ee65f%2cc6ae64" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 

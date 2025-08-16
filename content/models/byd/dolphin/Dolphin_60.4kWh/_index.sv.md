@@ -302,9 +302,9 @@ BYD Dolphin 60.4kWh hade sin världspremiär den 13.08.2021, och leveranserna st
 
 På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternativ till BYD Dolphin 60.4kWh som är värda att överväga baserat på funktioner, specifikationer och prissättning. Även om dessa modeller kanske inte är exakta matchningar, kan en jämförelse hjälpa dig att fatta ett mer välgrundat köpbeslut:
 
-- [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
-- [Ford Puma Gen-E](/models/ford/puma/puma_gen-e/)
-- [MG MG4 Electric Standard](/models/mg/mg4/mg4_electric_standard/)
+- [Citroën ë-C3](/nb-NO/models/citroën/ë-c3/ë-c3/)
+- [Ford Puma Gen-E](/nb-NO/models/ford/puma/puma_gen-e/)
+- [MG MG4 Electric Standard](/nb-NO/models/mg/mg4/mg4_electric_standard/)
 
 <a href="https://db.evkx.net/evcompare?evs=2e862b%2c90b31f%2c833418%2cb5aa4e" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 

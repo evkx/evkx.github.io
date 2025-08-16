@@ -316,9 +316,9 @@ Dragkrok kan installeras som tillval. Maximal tillåten vikt för bromsad släpv
 
 På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternativ till Lexus RZ 450e som är värda att överväga baserat på funktioner, specifikationer och prissättning. Även om dessa modeller kanske inte är exakta matchningar, kan en jämförelse hjälpa dig att fatta ett mer välgrundat köpbeslut:
 
-- [Toyota bZ4X FWD](/models/toyota/bz4x/bz4x_fwd/)
-- [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
-- [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron/)
+- [Toyota bZ4X FWD](/nb-NO/models/toyota/bz4x/bz4x_fwd/)
+- [Tesla Model Y Standard Range](/nb-NO/models/tesla/model_y/model_y_standard_range/)
+- [Audi Q4 45 e-tron](/nb-NO/models/audi/q4_e-tron/q4_45_e-tron/)
 
 <a href="https://db.evkx.net/evcompare?evs=503db1%2c7a651b%2cfcf585%2c224873" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 

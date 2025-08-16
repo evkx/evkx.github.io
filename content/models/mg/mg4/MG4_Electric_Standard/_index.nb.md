@@ -247,8 +247,8 @@ Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er
 
 I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til MG MG4 Electric Standard som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
-- [BYD Dolphin 60.4kWh](/models/byd/dolphin/dolphin_60.4kwh/)
+- [Citroën ë-C3](/nb-NO/models/citroën/ë-c3/ë-c3/)
+- [BYD Dolphin 60.4kWh](/nb-NO/models/byd/dolphin/dolphin_60.4kwh/)
 
 <a href="https://db.evkx.net/evcompare?evs=b5aa4e%2c90b31f%2c2e862b" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 

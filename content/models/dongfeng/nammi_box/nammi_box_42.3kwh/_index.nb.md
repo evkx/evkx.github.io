@@ -282,9 +282,9 @@ Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er
 
 I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til Dongfeng Nammi Box 42.3kWh som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Dacia Spring 65HP](/models/dacia/spring/spring_65hp/)
-- [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
-- [BYD Seagull 38kWh](/models/byd/seagull/seagull_38kwh/)
+- [Dacia Spring 65HP](/nb-NO/models/dacia/spring/spring_65hp/)
+- [Citroën ë-C3](/nb-NO/models/citroën/ë-c3/ë-c3/)
+- [BYD Seagull 38kWh](/nb-NO/models/byd/seagull/seagull_38kwh/)
 
 <a href="https://db.evkx.net/evcompare?evs=0d91e7%2c36e7a8%2c90b31f%2cc21f41" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 

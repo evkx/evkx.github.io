@@ -26,7 +26,7 @@ Hemos organizado este artículo en secciones específicas para una navegación m
 
 <div class="alert alert-secondary" role="alert">
 
-Este modelo ha sido reemplazado por [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/).
+Este modelo ha sido reemplazado por [Volkswagen ID.4 GTX 4MOTION](/nb-NO/models/volkswagen/id.4/id.4_gtx_4motion/).
 
 </div>
 

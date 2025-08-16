@@ -331,8 +331,8 @@ Denne modellen hadde sin verdenspremiere 11.12.2024, og leveringene forventes å
 
 I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til Kia EV6 GT som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
-- [Hyundai Ioniq 5 N](/models/hyundai/ioniq_5/ioniq_5_n/)
+- [Tesla Model Y Performance](/nb-NO/models/tesla/model_y/model_y_performance/)
+- [Hyundai Ioniq 5 N](/nb-NO/models/hyundai/ioniq_5/ioniq_5_n/)
 
 <a href="https://db.evkx.net/evcompare?evs=7467a9%2c1ee65f%2cc6ae64" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 

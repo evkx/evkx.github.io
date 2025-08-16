@@ -364,9 +364,9 @@ Pricing may vary depending on local conditions, incentives, and promotions. Belo
 
 In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Nio EL8 that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
 
-- [Volvo EX90 Twin Motor Performance](/models/volvo/ex90/ex90_twin_motor_performance/)
-- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
-- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
+- [Volvo EX90 Twin Motor Performance](/nb-NO/models/volvo/ex90/ex90_twin_motor_performance/)
+- [Mercedes EQS 580 4MATIC SUV](/nb-NO/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Kia EV9 GT-Line AWD](/nb-NO/models/kia/ev9/ev9_gt-line_awd/)
 
 <a href="https://db.evkx.net/evcompare?evs=44c9b9%2c94534b%2c8201b2%2c45dd09" target="_blank">Explore a detailed comparison of these models.</a>
 

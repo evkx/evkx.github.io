@@ -462,7 +462,7 @@ Los precios pueden variar según las condiciones locales, incentivos y promocion
 
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varias alternativas al Porsche Taycan 4 que vale la pena considerar en función de las características, especificaciones y precios. Aunque estos modelos pueden no ser coincidencias exactas, compararlos podría ayudarlo a tomar una decisión de compra más informada:
 
-- [Lucid Air Pure](/models/lucid/air/air_pure/)
+- [Lucid Air Pure](/nb-NO/models/lucid/air/air_pure/)
 
 <a href="https://db.evkx.net/evcompare?evs=40dc9c%2cc21847" target="_blank">Explore una comparación detallada de estos modelos.</a>
 

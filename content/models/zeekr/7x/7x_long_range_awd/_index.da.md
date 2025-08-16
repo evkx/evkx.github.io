@@ -321,9 +321,9 @@ Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. He
 
 På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til Zeekr 7X Long Range AWD, som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
 
-- [Porsche Macan Turbo](/models/porsche/macan/macan_turbo/)
-- [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron/)
-- [Audi SQ6 e-tron](/models/audi/q6_e-tron/sq6_e-tron/)
+- [Porsche Macan Turbo](/nb-NO/models/porsche/macan/macan_turbo/)
+- [Audi SQ8 Sportback e-tron](/nb-NO/models/audi/q8_e-tron/sq8_sportback_e-tron/)
+- [Audi SQ6 e-tron](/nb-NO/models/audi/q6_e-tron/sq6_e-tron/)
 
 <a href="https://db.evkx.net/evcompare?evs=3d160b%2c4d777d%2c03d3c7%2c899448" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 

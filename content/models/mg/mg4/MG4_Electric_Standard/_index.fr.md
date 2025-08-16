@@ -247,8 +247,8 @@ Les prix peuvent varier en fonction des conditions locales, des incitations et d
 
 Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au MG MG4 Electric Standard qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
 
-- [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
-- [BYD Dolphin 60.4kWh](/models/byd/dolphin/dolphin_60.4kwh/)
+- [Citroën ë-C3](/nb-NO/models/citroën/ë-c3/ë-c3/)
+- [BYD Dolphin 60.4kWh](/nb-NO/models/byd/dolphin/dolphin_60.4kwh/)
 
 <a href="https://db.evkx.net/evcompare?evs=b5aa4e%2c90b31f%2c2e862b" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 

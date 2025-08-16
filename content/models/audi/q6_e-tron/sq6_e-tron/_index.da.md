@@ -409,9 +409,9 @@ Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. He
 
 På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til Audi SQ6 e-tron, som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
 
-- [Mercedes EQE 53 4MATIC+ SUV](/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/)
-- [BMW iX M60](/models/bmw/ix/ix_m60/)
-- [Porsche Macan 4S](/models/porsche/macan/macan_4s/)
+- [Mercedes EQE 53 4MATIC+ SUV](/nb-NO/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/)
+- [BMW iX M60](/nb-NO/models/bmw/ix/ix_m60/)
+- [Porsche Macan 4S](/nb-NO/models/porsche/macan/macan_4s/)
 
 <a href="https://db.evkx.net/evcompare?evs=899448%2cff1bbb%2ca8096c%2c7dda71" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 

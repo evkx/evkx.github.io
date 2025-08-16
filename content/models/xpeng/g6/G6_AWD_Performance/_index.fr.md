@@ -317,10 +317,10 @@ Les prix peuvent varier en fonction des conditions locales, des incitations et d
 
 Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au XPENG G6 AWD Performance qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
 
-- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
-- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
-- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
-- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Tesla Model Y Performance](/nb-NO/models/tesla/model_y/model_y_performance/)
+- [Volkswagen ID.4 GTX 4MOTION](/nb-NO/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Hyundai Ioniq 5 Long Range AWD](/nb-NO/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
+- [Kia EV6 Long Range AWD](/nb-NO/models/kia/ev6/ev6_long_range_awd/)
 
 <a href="https://db.evkx.net/evcompare?evs=7a37c9%2c1ee65f%2c0cb6ee%2cbf704f%2ca1c57c" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 

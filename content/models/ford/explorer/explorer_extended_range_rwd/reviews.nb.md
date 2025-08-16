@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi samler anmeldelser fra våre [favoritt nettanmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Ford Explorer Extended range RWD (77kWh) - 130 km/h (81mph) range test</h3>
+<p>Battery Life: 31.12.2024</p>
+
+{{< youtube ZFY4dAs4XdA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Ford Explorer RWD Ext Range | 610km (380miles) LONG TRIP TEST</h3>
 <p>Kris Rifa: 05.11.2024</p>
 

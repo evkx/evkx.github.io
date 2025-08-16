@@ -323,9 +323,9 @@ Le BMW i5 eDrive40 Touring a eu sa première mondiale le 07.02.2024, avec des li
 
 Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au BMW i5 eDrive40 Touring qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
 
-- [Audi A6 Avant e-tron Performance](/models/audi/a6_e-tron/a6_avant_e-tron_performance/)
-- [Volkswagen ID.7 Tourer Pro S](/models/volkswagen/id.7/id.7_tourer_pro_s/)
-- [Porsche Taycan Sport Turismo](/models/porsche/taycan/taycan_sport_turismo/)
+- [Audi A6 Avant e-tron Performance](/nb-NO/models/audi/a6_e-tron/a6_avant_e-tron_performance/)
+- [Volkswagen ID.7 Tourer Pro S](/nb-NO/models/volkswagen/id.7/id.7_tourer_pro_s/)
+- [Porsche Taycan Sport Turismo](/nb-NO/models/porsche/taycan/taycan_sport_turismo/)
 
 <a href="https://db.evkx.net/evcompare?evs=0e264c%2cc920c2%2ce954a2%2cfeb279" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 

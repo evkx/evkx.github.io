@@ -298,10 +298,10 @@ Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autor
 
 Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Hyundai IONIQ 9 AWD Long Range qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
 
-- [Lucid Gravity Grand Touring](/models/lucid/gravity/gravity_grand_touring/)
-- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
-- [Rivian R1S Performance Dual-Motor AWD LP](/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
-- [Volvo EX90 Twin Motor Performance](/models/volvo/ex90/ex90_twin_motor_performance/)
+- [Lucid Gravity Grand Touring](/nb-NO/models/lucid/gravity/gravity_grand_touring/)
+- [Kia EV9 GT-Line AWD](/nb-NO/models/kia/ev9/ev9_gt-line_awd/)
+- [Rivian R1S Performance Dual-Motor AWD LP](/nb-NO/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
+- [Volvo EX90 Twin Motor Performance](/nb-NO/models/volvo/ex90/ex90_twin_motor_performance/)
 
 <a href="https://db.evkx.net/evcompare?evs=b55b17%2ca31c10%2c45dd09%2c53cc21%2c94534b" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 

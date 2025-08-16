@@ -26,7 +26,7 @@ Nous avons organisé cet article en sections spécifiques pour une navigation pl
 
 <div class="alert alert-secondary" role="alert">
 
-Ce modèle a été remplacé par [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron/).
+Ce modèle a été remplacé par [Audi SQ8 Sportback e-tron](/nb-NO/models/audi/q8_e-tron/sq8_sportback_e-tron/).
 
 </div>
 

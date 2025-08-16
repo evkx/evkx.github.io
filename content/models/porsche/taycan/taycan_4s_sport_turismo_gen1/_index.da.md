@@ -26,7 +26,7 @@ Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. 
 
 <div class="alert alert-secondary" role="alert">
 
-Denne model er blevet erstattet af [Porsche Taycan 4S Sport Turismo](/models/porsche/taycan/taycan_4s_sport_turismo/).
+Denne model er blevet erstattet af [Porsche Taycan 4S Sport Turismo](/nb-NO/models/porsche/taycan/taycan_4s_sport_turismo/).
 
 </div>
 

@@ -414,10 +414,10 @@ Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren.
 
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Porsche Taycan GTS Sport Turismo identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
-- [Audi RS e-tron GT](/models/audi/e-tron_gt/rs_e-tron_gt/)
-- [Lucid Air Grand Touring](/models/lucid/air/air_grand_touring/)
-- [Mercedes EQS 53 4MATIC+](/models/mercedes/eqs/eqs_53_4maticplus/)
-- [BMW i4 M50](/models/bmw/i4/i4_m50/)
+- [Audi RS e-tron GT](/nb-NO/models/audi/e-tron_gt/rs_e-tron_gt/)
+- [Lucid Air Grand Touring](/nb-NO/models/lucid/air/air_grand_touring/)
+- [Mercedes EQS 53 4MATIC+](/nb-NO/models/mercedes/eqs/eqs_53_4maticplus/)
+- [BMW i4 M50](/nb-NO/models/bmw/i4/i4_m50/)
 
 <a href="https://db.evkx.net/evcompare?evs=c388f6%2cc66322%2ced06c7%2c8f4acc%2cdec6c1" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 

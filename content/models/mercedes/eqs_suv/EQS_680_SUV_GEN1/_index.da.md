@@ -26,7 +26,7 @@ Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. 
 
 <div class="alert alert-secondary" role="alert">
 
-Denne model er blevet erstattet af [Mercedes EQS 680 SUV](/models/mercedes/eqs_suv/eqs_680_suv/).
+Denne model er blevet erstattet af [Mercedes EQS 680 SUV](/nb-NO/models/mercedes/eqs_suv/eqs_680_suv/).
 
 </div>
 

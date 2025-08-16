@@ -289,11 +289,11 @@ Priserna kan variera beroende på lokala förhållanden, incitament och kampanje
 
 På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternativ till Honda e:Ny1 som är värda att överväga baserat på funktioner, specifikationer och prissättning. Även om dessa modeller kanske inte är exakta matchningar, kan en jämförelse hjälpa dig att fatta ett mer välgrundat köpbeslut:
 
-- [Hyundai Kona Standard Range](/models/hyundai/kona/kona_standard_range/)
-- [Kia Niro EV](/models/kia/niro/niro_ev/)
-- [Peugot E-2008](/models/peugot/2008/e-2008/)
-- [MG ZS EV Standard Range](/models/mg/zs/zs_ev_standard_range/)
-- [Nissan Ariya 63kWh](/models/nissan/ariya/ariya_63kwh/)
+- [Hyundai Kona Standard Range](/nb-NO/models/hyundai/kona/kona_standard_range/)
+- [Kia Niro EV](/nb-NO/models/kia/niro/niro_ev/)
+- [Peugot E-2008](/nb-NO/models/peugot/2008/e-2008/)
+- [MG ZS EV Standard Range](/nb-NO/models/mg/zs/zs_ev_standard_range/)
+- [Nissan Ariya 63kWh](/nb-NO/models/nissan/ariya/ariya_63kwh/)
 
 <a href="https://db.evkx.net/evcompare?evs=2a0309%2c6caa5c%2cc5cbaf%2c9991fd%2c0c7e63%2cc6e526" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 

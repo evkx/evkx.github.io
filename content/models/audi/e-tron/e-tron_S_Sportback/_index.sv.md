@@ -26,7 +26,7 @@ Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Kl
 
 <div class="alert alert-secondary" role="alert">
 
-Denna modell har ersatts av [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron/).
+Denna modell har ersatts av [Audi SQ8 Sportback e-tron](/nb-NO/models/audi/q8_e-tron/sq8_sportback_e-tron/).
 
 </div>
 

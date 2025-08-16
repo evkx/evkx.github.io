@@ -26,7 +26,7 @@ Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. 
 
 <div class="alert alert-secondary" role="alert">
 
-Denne model er blevet erstattet af [Volkswagen ID.4 Pro](/models/volkswagen/id.4/id.4_pro/).
+Denne model er blevet erstattet af [Volkswagen ID.4 Pro](/nb-NO/models/volkswagen/id.4/id.4_pro/).
 
 </div>
 

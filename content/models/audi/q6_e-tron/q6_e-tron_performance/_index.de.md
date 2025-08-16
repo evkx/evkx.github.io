@@ -413,8 +413,8 @@ Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren.
 
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Audi Q6 e-tron performance identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
-- [Mercedes EQE 350+ SUV](/models/mercedes/eqe_suv/eqe_350plus_suv/)
-- [Porsche Macan](/models/porsche/macan/macan/)
+- [Mercedes EQE 350+ SUV](/nb-NO/models/mercedes/eqe_suv/eqe_350plus_suv/)
+- [Porsche Macan](/nb-NO/models/porsche/macan/macan/)
 
 <a href="https://db.evkx.net/evcompare?evs=7d6d87%2cbeb2be%2c419073" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 

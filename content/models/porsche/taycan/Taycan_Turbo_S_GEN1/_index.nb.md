@@ -26,7 +26,7 @@ Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering
 
 <div class="alert alert-secondary" role="alert">
 
-Denne modellen er erstattet av [Porsche Taycan Turbo S](/models/porsche/taycan/taycan_turbo_s/).
+Denne modellen er erstattet av [Porsche Taycan Turbo S](/nb-NO/models/porsche/taycan/taycan_turbo_s/).
 
 </div>
 

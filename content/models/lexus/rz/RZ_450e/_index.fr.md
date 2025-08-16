@@ -316,9 +316,9 @@ Une barre de remorquage peut être ajoutée au véhicule. Le poids maximal autor
 
 Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Lexus RZ 450e qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
 
-- [Toyota bZ4X FWD](/models/toyota/bz4x/bz4x_fwd/)
-- [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
-- [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron/)
+- [Toyota bZ4X FWD](/nb-NO/models/toyota/bz4x/bz4x_fwd/)
+- [Tesla Model Y Standard Range](/nb-NO/models/tesla/model_y/model_y_standard_range/)
+- [Audi Q4 45 e-tron](/nb-NO/models/audi/q4_e-tron/q4_45_e-tron/)
 
 <a href="https://db.evkx.net/evcompare?evs=503db1%2c7a651b%2cfcf585%2c224873" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 

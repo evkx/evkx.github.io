@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi samlar recensioner från våra [favoritrecensenter online](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hummer EV Highway Range Test! Over 200kWh Of Batteries Driven From Full To Dead</h3>
+<p>Out of Spec Testing: 01.01.2025</p>
+
+{{< youtube UBRKJ34r7Is >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>GMC Hummer EV Review: 1000 BHP Cybertruck Rival Tested</h3>
 <p>Top Gear: 31.12.2023</p>
 

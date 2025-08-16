@@ -297,9 +297,9 @@ Pricing may vary depending on local conditions, incentives, and promotions. Belo
 
 In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Peugot E-5008 that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
 
-- [Mercedes EQB 250](/models/mercedes/eqb/eqb_250/)
-- [Kia EV9 Long Range RWD](/models/kia/ev9/ev9_long_range_rwd/)
-- [BYD Tang 4x4 Long Range](/models/byd/tang/tang_4x4_long_range/)
+- [Mercedes EQB 250](/nb-NO/models/mercedes/eqb/eqb_250/)
+- [Kia EV9 Long Range RWD](/nb-NO/models/kia/ev9/ev9_long_range_rwd/)
+- [BYD Tang 4x4 Long Range](/nb-NO/models/byd/tang/tang_4x4_long_range/)
 
 <a href="https://db.evkx.net/evcompare?evs=f5ff6e%2c070e4d%2c7380a8%2cbecb7f" target="_blank">Explore a detailed comparison of these models.</a>
 

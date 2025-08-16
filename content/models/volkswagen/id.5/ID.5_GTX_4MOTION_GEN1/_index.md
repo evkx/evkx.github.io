@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 <div class="alert alert-secondary" role="alert">
 
-This model has been replaced by [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/).
+This model has been replaced by [Volkswagen ID.5 GTX 4MOTION](/nb-NO/models/volkswagen/id.5/id.5_gtx_4motion/).
 
 </div>
 

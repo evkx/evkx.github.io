@@ -72,7 +72,9 @@ Der Mercedes-EQ G 580 EQ ist mit [Gusseisenscheibenbremsen](../../../../technolo
 
 ### Rekuperatives Bremsen
 
-Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell bietet mehrere Modi zur Steigerung der Effizienz und des Fahrerlebnisses. Die effizienteste Option ist der [**Automatische Regenerationsmodus**](../../../../technology/regen/#automatic-regen-adaptive), bei dem das Fahrzeug, wenn möglich, rollt und bei Bedarf durch regenerative Bremsung die Geschwindigkeit reduziert. <br /><br />**Manuelle Regeneration** ist ein weiterer Modus, bei dem die regenerative Bremsung durch Betätigen des Bremspedals gesteuert wird. Das Bremssystem mischt physische Bremsen nur dann ein, wenn es notwendig ist. <br /><br/> Eine weitere Option ist der [**Regen auf dem Gaspedal**](../../../../technology/regen/#one-pedal-driving) Modus, bei dem die regenerative Bremsung aktiviert wird, wenn der Fahrer das Gaspedal loslässt. Dieses System ermöglicht es dem Fahrzeug, langsamer zu werden und Energie zurückzugewinnen, ohne dass der Fahrer das Bremspedal betätigen muss, eine Funktion, die oft als **Ein-Pedal-Fahren** bezeichnet wird. Sie können zwischen zwei Stoppmodi für das Ein-Pedal-Fahren wählen. Der **Haltemodus** bringt das Fahrzeug mit Reibungsbremsen vollständig zum Stillstand, und der **Rollmodus** lässt das Fahrzeug rollen, bis es von selbst zum Stillstand kommt.
+Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell bietet mehrere Modi zur Steigerung der Effizienz und des Fahrerlebnisses. Die effizienteste Option ist der [**Automatische Regenerationsmodus**](../../../../technology/regen/#automatic-regen-adaptive), bei dem das Fahrzeug, wenn möglich, rollt und bei Bedarf durch regenerative Bremsung die Geschwindigkeit reduziert. <br /><br />**Manuelle Regeneration** ist ein weiterer Modus, bei dem die regenerative Bremsung durch Betätigen des Bremspedals gesteuert wird. Das Bremssystem mischt physische Bremsen nur dann ein, wenn es notwendig ist. <br /><br/> Eine weitere Option ist der [**Regen auf dem Gaspedal**](../../../../technology/regen/#one-pedal-driving) Modus, bei dem die regenerative Bremsung aktiviert wird, wenn der Fahrer das Gaspedal loslässt. Dieses System ermöglicht es dem Fahrzeug, langsamer zu werden und Energie zurückzugewinnen, ohne dass der Fahrer das Bremspedal betätigen muss, eine Funktion, die oft als **Ein-Pedal-Fahren** bezeichnet wird. Es wird jedoch nicht als vollständiges Ein-Pedal-Fahren betrachtet, da das Fahrzeug bei niedrigen Geschwindigkeiten weiter rollt, bis es von selbst zum Stillstand kommt.
+
+Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen drei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
 Die maximale regenerative Leistung beträgt 300 kW.
 
@@ -210,7 +212,7 @@ Dieses Modell verfügt auch über ein optionales Gestensteuerungssystem, mit dem
 
 ### Navigationssystem
 
-Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+infotainment.navigation.minsocdest.minsocdest
 
 ### Telefonspiegelung
 

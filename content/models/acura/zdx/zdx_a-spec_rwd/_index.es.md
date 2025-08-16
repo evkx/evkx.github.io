@@ -346,11 +346,11 @@ Los precios pueden variar según las condiciones locales, incentivos y promocion
 
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varias alternativas al Acura ZDX A-Spec RWD que vale la pena considerar en función de las características, especificaciones y precios. Aunque estos modelos pueden no ser coincidencias exactas, compararlos podría ayudarlo a tomar una decisión de compra más informada:
 
-- [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron/)
-- [Mercedes EQE 350+ SUV](/models/mercedes/eqe_suv/eqe_350plus_suv/)
-- [BMW iX xDrive40](/models/bmw/ix/ix_xdrive40/)
-- [Cadillac LYRIQ RWD](/models/cadillac/lyriq/lyriq_rwd/)
-- [Chevrolet Blazer EV SS](/models/chevrolet/blazer_ev/blazer_ev_ss/)
+- [Audi SQ8 e-tron](/nb-NO/models/audi/q8_e-tron/sq8_e-tron/)
+- [Mercedes EQE 350+ SUV](/nb-NO/models/mercedes/eqe_suv/eqe_350plus_suv/)
+- [BMW iX xDrive40](/nb-NO/models/bmw/ix/ix_xdrive40/)
+- [Cadillac LYRIQ RWD](/nb-NO/models/cadillac/lyriq/lyriq_rwd/)
+- [Chevrolet Blazer EV SS](/nb-NO/models/chevrolet/blazer_ev/blazer_ev_ss/)
 
 <a href="https://db.evkx.net/evcompare?evs=2e8c98%2c12fe37%2cbeb2be%2ce92c0c%2c597392%2c7d633b" target="_blank">Explore una comparación detallada de estos modelos.</a>
 

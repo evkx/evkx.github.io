@@ -316,9 +316,9 @@ Tilhengerfeste kan monteres som tilvalg. Maksimal tillatt vekt for tilhenger med
 
 I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til Lexus RZ 450e som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Toyota bZ4X FWD](/models/toyota/bz4x/bz4x_fwd/)
-- [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
-- [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron/)
+- [Toyota bZ4X FWD](/nb-NO/models/toyota/bz4x/bz4x_fwd/)
+- [Tesla Model Y Standard Range](/nb-NO/models/tesla/model_y/model_y_standard_range/)
+- [Audi Q4 45 e-tron](/nb-NO/models/audi/q4_e-tron/q4_45_e-tron/)
 
 <a href="https://db.evkx.net/evcompare?evs=503db1%2c7a651b%2cfcf585%2c224873" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 

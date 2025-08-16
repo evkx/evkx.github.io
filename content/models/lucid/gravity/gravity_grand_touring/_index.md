@@ -355,9 +355,9 @@ Pricing may vary depending on local conditions, incentives, and promotions. Belo
 
 In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Lucid Gravity Grand Touring that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
 
-- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
-- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
-- [Rivian R1S Performance Dual-Motor AWD MP](/models/rivian/r1/r1s_performance_dual-motor_awd_mp/)
+- [Kia EV9 GT-Line AWD](/nb-NO/models/kia/ev9/ev9_gt-line_awd/)
+- [Mercedes EQS 580 4MATIC SUV](/nb-NO/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Rivian R1S Performance Dual-Motor AWD MP](/nb-NO/models/rivian/r1/r1s_performance_dual-motor_awd_mp/)
 
 <a href="https://db.evkx.net/evcompare?evs=a31c10%2c45dd09%2cb8df50%2caba51d" target="_blank">Explore a detailed comparison of these models.</a>
 

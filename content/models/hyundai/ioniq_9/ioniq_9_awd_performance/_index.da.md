@@ -298,10 +298,10 @@ Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for e
 
 På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til Hyundai IONIQ 9 AWD Performance, som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
 
-- [Lucid Gravity Grand Touring](/models/lucid/gravity/gravity_grand_touring/)
-- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
-- [Rivian R1S Performance Dual-Motor AWD LP](/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
-- [Volvo EX90 Twin Motor Performance](/models/volvo/ex90/ex90_twin_motor_performance/)
+- [Lucid Gravity Grand Touring](/nb-NO/models/lucid/gravity/gravity_grand_touring/)
+- [Kia EV9 GT-Line AWD](/nb-NO/models/kia/ev9/ev9_gt-line_awd/)
+- [Rivian R1S Performance Dual-Motor AWD LP](/nb-NO/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
+- [Volvo EX90 Twin Motor Performance](/nb-NO/models/volvo/ex90/ex90_twin_motor_performance/)
 
 <a href="https://db.evkx.net/evcompare?evs=3b7e97%2ca31c10%2c45dd09%2c53cc21%2c94534b" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 

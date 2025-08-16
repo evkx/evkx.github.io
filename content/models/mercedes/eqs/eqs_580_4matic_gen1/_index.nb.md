@@ -26,7 +26,7 @@ Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering
 
 <div class="alert alert-secondary" role="alert">
 
-Denne modellen er erstattet av [Mercedes EQS 580 4MATIC](/models/mercedes/eqs/eqs_580_4matic/).
+Denne modellen er erstattet av [Mercedes EQS 580 4MATIC](/nb-NO/models/mercedes/eqs/eqs_580_4matic/).
 
 </div>
 

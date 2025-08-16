@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 <div class="alert alert-secondary" role="alert">
 
-This model has been replaced by [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron/).
+This model has been replaced by [Audi Q4 45 e-tron](/nb-NO/models/audi/q4_e-tron/q4_45_e-tron/).
 
 </div>
 

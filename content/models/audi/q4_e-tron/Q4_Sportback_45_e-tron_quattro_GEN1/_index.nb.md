@@ -26,7 +26,7 @@ Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering
 
 <div class="alert alert-secondary" role="alert">
 
-Denne modellen er erstattet av [Audi Q4 Sportback 45 e-tron quattro](/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/).
+Denne modellen er erstattet av [Audi Q4 Sportback 45 e-tron quattro](/nb-NO/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/).
 
 </div>
 

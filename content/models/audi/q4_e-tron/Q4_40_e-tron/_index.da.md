@@ -26,7 +26,7 @@ Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. 
 
 <div class="alert alert-secondary" role="alert">
 
-Denne model er blevet erstattet af [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron/).
+Denne model er blevet erstattet af [Audi Q4 45 e-tron](/nb-NO/models/audi/q4_e-tron/q4_45_e-tron/).
 
 </div>
 

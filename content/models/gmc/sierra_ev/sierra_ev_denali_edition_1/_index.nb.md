@@ -318,14 +318,14 @@ Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er
 
 I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til GMC Sierra EV Denali Edition 1 som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Tesla Cybertruck AWD](/models/tesla/cybertruck/cybertruck_awd/)
-- [Tesla Cybertruck Cyberbeast](/models/tesla/cybertruck/cybertruck_cyberbeast/)
-- [Ford F150 Lightning Extended Range](/models/ford/f150_lightning/f150_lightning_extended_range/)
-- [Chevrolet Silverado EV SRT](/models/chevrolet/silverado_ev/silverado_ev_srt/)
-- [GMC Hummer EV Edition 1 Pickup](/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
-- [Rivian R1T Performance Dual-Motor AWD LP](/models/rivian/r1/r1t_performance_dual-motor_awd_lp/)
-- [Rivian R1T Performance Dual-Motor AWD MP](/models/rivian/r1/r1t_performance_dual-motor_awd_mp/)
-- [Rivian R1T Quad-Motor AWD](/models/rivian/r1/r1t_quad-motor_awd/)
+- [Tesla Cybertruck AWD](/nb-NO/models/tesla/cybertruck/cybertruck_awd/)
+- [Tesla Cybertruck Cyberbeast](/nb-NO/models/tesla/cybertruck/cybertruck_cyberbeast/)
+- [Ford F150 Lightning Extended Range](/nb-NO/models/ford/f150_lightning/f150_lightning_extended_range/)
+- [Chevrolet Silverado EV SRT](/nb-NO/models/chevrolet/silverado_ev/silverado_ev_srt/)
+- [GMC Hummer EV Edition 1 Pickup](/nb-NO/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
+- [Rivian R1T Performance Dual-Motor AWD LP](/nb-NO/models/rivian/r1/r1t_performance_dual-motor_awd_lp/)
+- [Rivian R1T Performance Dual-Motor AWD MP](/nb-NO/models/rivian/r1/r1t_performance_dual-motor_awd_mp/)
+- [Rivian R1T Quad-Motor AWD](/nb-NO/models/rivian/r1/r1t_quad-motor_awd/)
 
 <a href="https://db.evkx.net/evcompare?evs=f42762%2c200659%2c7d7ccc%2c4cc60f%2c6aa33e%2c67ff00%2c0ec57a%2c6783e7%2c03b3f5" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 

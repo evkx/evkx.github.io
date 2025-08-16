@@ -409,8 +409,8 @@ Pricing may vary depending on local conditions, incentives, and promotions. Belo
 
 In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Audi Q6 Sportback e-tron performance that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
 
-- [Mercedes EQE 350+ SUV](/models/mercedes/eqe_suv/eqe_350plus_suv/)
-- [Porsche Macan](/models/porsche/macan/macan/)
+- [Mercedes EQE 350+ SUV](/nb-NO/models/mercedes/eqe_suv/eqe_350plus_suv/)
+- [Porsche Macan](/nb-NO/models/porsche/macan/macan/)
 
 <a href="https://db.evkx.net/evcompare?evs=de5743%2cbeb2be%2c419073" target="_blank">Explore a detailed comparison of these models.</a>
 

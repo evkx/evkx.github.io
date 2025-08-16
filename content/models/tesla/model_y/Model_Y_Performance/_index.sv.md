@@ -329,9 +329,9 @@ Priserna kan variera beroende på lokala förhållanden, incitament och kampanje
 
 På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternativ till Tesla Model Y Performance som är värda att överväga baserat på funktioner, specifikationer och prissättning. Även om dessa modeller kanske inte är exakta matchningar, kan en jämförelse hjälpa dig att fatta ett mer välgrundat köpbeslut:
 
-- [Ford Mustang Mach-E GT](/models/ford/mustang_mach-e/mustang_mach-e_gt/)
-- [Kia EV6 GT](/models/kia/ev6/ev6_gt/)
-- [Hyundai Ioniq 5 N](/models/hyundai/ioniq_5/ioniq_5_n/)
+- [Ford Mustang Mach-E GT](/nb-NO/models/ford/mustang_mach-e/mustang_mach-e_gt/)
+- [Kia EV6 GT](/nb-NO/models/kia/ev6/ev6_gt/)
+- [Hyundai Ioniq 5 N](/nb-NO/models/hyundai/ioniq_5/ioniq_5_n/)
 
 <a href="https://db.evkx.net/evcompare?evs=1ee65f%2cf12e3a%2c731dd5%2cc6ae64" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 

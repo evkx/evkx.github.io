@@ -408,8 +408,8 @@ Los precios pueden variar según las condiciones locales, incentivos y promocion
 
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varias alternativas al Audi Q6 Sportback e-tron que vale la pena considerar en función de las características, especificaciones y precios. Aunque estos modelos pueden no ser coincidencias exactas, compararlos podría ayudarlo a tomar una decisión de compra más informada:
 
-- [Mercedes EQE 350+ SUV](/models/mercedes/eqe_suv/eqe_350plus_suv/)
-- [Porsche Macan](/models/porsche/macan/macan/)
+- [Mercedes EQE 350+ SUV](/nb-NO/models/mercedes/eqe_suv/eqe_350plus_suv/)
+- [Porsche Macan](/nb-NO/models/porsche/macan/macan/)
 
 <a href="https://db.evkx.net/evcompare?evs=76a030%2cbeb2be%2c419073" target="_blank">Explore una comparación detallada de estos modelos.</a>
 

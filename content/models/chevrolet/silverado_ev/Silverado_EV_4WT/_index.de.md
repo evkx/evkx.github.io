@@ -287,14 +287,14 @@ Der Chevrolet Silverado EV 4WT feierte seine Weltpremiere am 05.01.2022, mit Lie
 
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Chevrolet Silverado EV 4WT identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
-- [Tesla Cybertruck AWD](/models/tesla/cybertruck/cybertruck_awd/)
-- [Tesla Cybertruck Cyberbeast](/models/tesla/cybertruck/cybertruck_cyberbeast/)
-- [Ford F150 Lightning Extended Range](/models/ford/f150_lightning/f150_lightning_extended_range/)
-- [Chevrolet Silverado EV SRT](/models/chevrolet/silverado_ev/silverado_ev_srt/)
-- [GMC Hummer EV Edition 1 Pickup](/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
-- [Rivian R1T Performance Dual-Motor AWD LP](/models/rivian/r1/r1t_performance_dual-motor_awd_lp/)
-- [Rivian R1T Performance Dual-Motor AWD MP](/models/rivian/r1/r1t_performance_dual-motor_awd_mp/)
-- [Rivian R1T Quad-Motor AWD](/models/rivian/r1/r1t_quad-motor_awd/)
+- [Tesla Cybertruck AWD](/nb-NO/models/tesla/cybertruck/cybertruck_awd/)
+- [Tesla Cybertruck Cyberbeast](/nb-NO/models/tesla/cybertruck/cybertruck_cyberbeast/)
+- [Ford F150 Lightning Extended Range](/nb-NO/models/ford/f150_lightning/f150_lightning_extended_range/)
+- [Chevrolet Silverado EV SRT](/nb-NO/models/chevrolet/silverado_ev/silverado_ev_srt/)
+- [GMC Hummer EV Edition 1 Pickup](/nb-NO/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
+- [Rivian R1T Performance Dual-Motor AWD LP](/nb-NO/models/rivian/r1/r1t_performance_dual-motor_awd_lp/)
+- [Rivian R1T Performance Dual-Motor AWD MP](/nb-NO/models/rivian/r1/r1t_performance_dual-motor_awd_mp/)
+- [Rivian R1T Quad-Motor AWD](/nb-NO/models/rivian/r1/r1t_quad-motor_awd/)
 
 <a href="https://db.evkx.net/evcompare?evs=bbc106%2c200659%2c7d7ccc%2c4cc60f%2c6aa33e%2c67ff00%2c0ec57a%2c6783e7%2c03b3f5" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 

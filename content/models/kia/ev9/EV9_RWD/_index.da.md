@@ -396,8 +396,8 @@ Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. He
 
 På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til Kia EV9 RWD, som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
 
-- [Peugot E-5008](/models/peugot/5008/e-5008/)
-- [Mercedes EQS 450+ SUV](/models/mercedes/eqs_suv/eqs_450plus_suv/)
+- [Peugot E-5008](/nb-NO/models/peugot/5008/e-5008/)
+- [Mercedes EQS 450+ SUV](/nb-NO/models/mercedes/eqs_suv/eqs_450plus_suv/)
 
 <a href="https://db.evkx.net/evcompare?evs=0e27e2%2cf5ff6e%2cec581c" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 

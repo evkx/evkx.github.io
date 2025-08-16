@@ -26,7 +26,7 @@ Nous avons organisé cet article en sections spécifiques pour une navigation pl
 
 <div class="alert alert-secondary" role="alert">
 
-Ce modèle a été remplacé par [Mercedes EQS 680 SUV](/models/mercedes/eqs_suv/eqs_680_suv/).
+Ce modèle a été remplacé par [Mercedes EQS 680 SUV](/nb-NO/models/mercedes/eqs_suv/eqs_680_suv/).
 
 </div>
 

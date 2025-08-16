@@ -321,7 +321,7 @@ Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er
 
 I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til Chevrolet Equinox EV AWD som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Tesla Model Y Long Range RWD](/models/tesla/model_y/model_y_long_range_rwd/)
+- [Tesla Model Y Long Range RWD](/nb-NO/models/tesla/model_y/model_y_long_range_rwd/)
 
 <a href="https://db.evkx.net/evcompare?evs=3ed2cf%2c98b6e9" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 

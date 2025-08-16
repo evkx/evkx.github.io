@@ -26,7 +26,7 @@ Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. 
 
 <div class="alert alert-secondary" role="alert">
 
-Denne model er blevet erstattet af [Porsche Taycan Turbo S](/models/porsche/taycan/taycan_turbo_s/).
+Denne model er blevet erstattet af [Porsche Taycan Turbo S](/nb-NO/models/porsche/taycan/taycan_turbo_s/).
 
 </div>
 

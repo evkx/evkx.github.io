@@ -72,7 +72,9 @@ Mercedes-EQ G 580 EQ er udstyret med [støbejerns-skivebremser](../../../../tech
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) i denne model tilbyder flere tilstande for at forbedre effektivitet og køreoplevelse. Den mest effektive mulighed er [**Automatisk regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet ruller når det er muligt og bruger regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind når det er nødvendigt. <br /><br/>  En anden mulighed er [**Regenerering på speederpedalen**](../../../../technology/regen/#one-pedal-driving) tilstanden hvor regenerativ bremsning aktiveres når føreren letter foden fra speederen. Dette system gør det muligt for køretøjet at sænke farten og genvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **én-pedal kørsel**. Du kan vælge mellem to stoptilstande for én-pedal kørsel. **Hold tilstand** bringer køretøjet til et komplet stop ved hjælp af friktionsbremser, og **Rul tilstand** lader køretøjet rulle indtil det stopper naturligt.
+[Regenerativ bremsning](../../../../technology/regen/) i denne model tilbyder flere tilstande for at forbedre effektivitet og køreoplevelse. Den mest effektive mulighed er [**Automatisk regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet ruller når det er muligt og bruger regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind når det er nødvendigt. <br /><br/>  En anden mulighed er [**Regenerering på speederpedalen**](../../../../technology/regen/#one-pedal-driving) tilstanden hvor regenerativ bremsning aktiveres når føreren letter foden fra speederen. Dette system gør det muligt for køretøjet at sænke farten og genvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **én-pedal kørsel**. Det betragtes dog ikke som fuld én-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle indtil det stopper af sig selv.
+
+Derudover kan du justere styrken af den regenerative bremsning når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, så du kan tilpasse køreoplevelsen efter dine præferencer.
 
 Den maksimale regenerative effekt er 300 kW.
 
@@ -210,7 +212,7 @@ Denne model har også et valgfrit gestusstyringssystem, der lader dig styre spec
 
 ### Navigationssystem
 
-Med standard indbygget navigationssystem har du al den hjælp, du behøver for at nå din destination uden besvær.
+infotainment.navigation.minsocdest.minsocdest
 
 ### Telefonspejling
 

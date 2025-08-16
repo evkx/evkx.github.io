@@ -298,10 +298,10 @@ Pricing may vary depending on local conditions, incentives, and promotions. Belo
 
 In the rapidly expanding EV market, EVKX.net has identified several alternatives to the VOYAH FREE that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
 
-- [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/)
-- [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
-- [Nio EL7](/models/nio/el7/el7/)
-- [XPENG G9 AWD Performance](/models/xpeng/g9/g9_awd_performance/)
+- [Audi Q8 55 e-tron](/nb-NO/models/audi/q8_e-tron/q8_55_e-tron/)
+- [BMW iX xDrive50](/nb-NO/models/bmw/ix/ix_xdrive50/)
+- [Nio EL7](/nb-NO/models/nio/el7/el7/)
+- [XPENG G9 AWD Performance](/nb-NO/models/xpeng/g9/g9_awd_performance/)
 
 <a href="https://db.evkx.net/evcompare?evs=7c124f%2c1a8daa%2cb42577%2ce48512%2c787fc5" target="_blank">Explore a detailed comparison of these models.</a>
 

@@ -319,8 +319,8 @@ Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren.
 
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum MHERO I identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
-- [Mercedes G 580 EQ](/models/mercedes/g/g_580_eq/)
-- [GMC Hummer EV SUV 3x](/models/gmc/hummer_ev/hummer_ev_suv_3x/)
+- [Mercedes G 580 EQ](/nb-NO/models/mercedes/g/g_580_eq/)
+- [GMC Hummer EV SUV 3x](/nb-NO/models/gmc/hummer_ev/hummer_ev_suv_3x/)
 
 <a href="https://db.evkx.net/evcompare?evs=b84820%2c773c9a%2ce48527" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 

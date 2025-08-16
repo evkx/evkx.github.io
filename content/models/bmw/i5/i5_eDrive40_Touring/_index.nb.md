@@ -323,9 +323,9 @@ BMW i5 eDrive40 Touring hadde sin verdenspremiere 07.02.2024, med leveringer som
 
 I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til BMW i5 eDrive40 Touring som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Audi A6 Avant e-tron Performance](/models/audi/a6_e-tron/a6_avant_e-tron_performance/)
-- [Volkswagen ID.7 Tourer Pro S](/models/volkswagen/id.7/id.7_tourer_pro_s/)
-- [Porsche Taycan Sport Turismo](/models/porsche/taycan/taycan_sport_turismo/)
+- [Audi A6 Avant e-tron Performance](/nb-NO/models/audi/a6_e-tron/a6_avant_e-tron_performance/)
+- [Volkswagen ID.7 Tourer Pro S](/nb-NO/models/volkswagen/id.7/id.7_tourer_pro_s/)
+- [Porsche Taycan Sport Turismo](/nb-NO/models/porsche/taycan/taycan_sport_turismo/)
 
 <a href="https://db.evkx.net/evcompare?evs=0e264c%2cc920c2%2ce954a2%2cfeb279" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 

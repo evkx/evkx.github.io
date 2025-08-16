@@ -374,10 +374,10 @@ Der Audi Q4 Sportback 45 e-tron quattro feierte seine Weltpremiere am 21.09.2023
 
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Audi Q4 Sportback 45 e-tron quattro identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
-- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
-- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
-- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
-- [SKODA ENYAQ COUPÉ 85x](/models/skoda/enyaq_iv/enyaq_coupé_85x/)
+- [Tesla Model Y Long Range](/nb-NO/models/tesla/model_y/model_y_long_range/)
+- [Kia EV6 Long Range AWD](/nb-NO/models/kia/ev6/ev6_long_range_awd/)
+- [Volkswagen ID.5 GTX 4MOTION](/nb-NO/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [SKODA ENYAQ COUPÉ 85x](/nb-NO/models/skoda/enyaq_iv/enyaq_coupé_85x/)
 
 <a href="https://db.evkx.net/evcompare?evs=52ff7c%2cad3cd5%2c546c35%2c4899e9%2ce8f4a8" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 

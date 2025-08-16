@@ -376,10 +376,10 @@ Audi Q4 45 e-tron quattro hadde sin verdenspremiere 21.09.2023, med leveringer s
 
 I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til Audi Q4 45 e-tron quattro som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
-- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
-- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
-- [SKODA ENYAQ COUPÉ 85x](/models/skoda/enyaq_iv/enyaq_coupé_85x/)
+- [Tesla Model Y Long Range](/nb-NO/models/tesla/model_y/model_y_long_range/)
+- [Kia EV6 Long Range AWD](/nb-NO/models/kia/ev6/ev6_long_range_awd/)
+- [Volkswagen ID.5 GTX 4MOTION](/nb-NO/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [SKODA ENYAQ COUPÉ 85x](/nb-NO/models/skoda/enyaq_iv/enyaq_coupé_85x/)
 
 <a href="https://db.evkx.net/evcompare?evs=734a3f%2cad3cd5%2c546c35%2c4899e9%2ce8f4a8" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 

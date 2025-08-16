@@ -323,8 +323,8 @@ Les prix peuvent varier en fonction des conditions locales, des incitations et d
 
 Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au BMW i5 xDrive40 Touring qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
 
-- [Audi A6 Avant e-tron quattro](/models/audi/a6_e-tron/a6_avant_e-tron_quattro/)
-- [Porsche Taycan 4S Sport Turismo](/models/porsche/taycan/taycan_4s_sport_turismo/)
+- [Audi A6 Avant e-tron quattro](/nb-NO/models/audi/a6_e-tron/a6_avant_e-tron_quattro/)
+- [Porsche Taycan 4S Sport Turismo](/nb-NO/models/porsche/taycan/taycan_4s_sport_turismo/)
 
 <a href="https://db.evkx.net/evcompare?evs=e722d5%2c885ba5%2cb83289" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 

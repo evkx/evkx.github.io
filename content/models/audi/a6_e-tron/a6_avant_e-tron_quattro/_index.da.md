@@ -375,8 +375,8 @@ Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. He
 
 På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til Audi A6 Avant e-tron quattro, som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
 
-- [BMW i5 xDrive40](/models/bmw/i5/i5_xdrive40/)
-- [Volkswagen ID.7 GTX Tourer](/models/volkswagen/id.7/id.7_gtx_tourer/)
+- [BMW i5 xDrive40](/nb-NO/models/bmw/i5/i5_xdrive40/)
+- [Volkswagen ID.7 GTX Tourer](/nb-NO/models/volkswagen/id.7/id.7_gtx_tourer/)
 
 <a href="https://db.evkx.net/evcompare?evs=885ba5%2c362fc0%2c3edb7f" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 

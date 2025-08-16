@@ -26,7 +26,7 @@ Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. 
 
 <div class="alert alert-secondary" role="alert">
 
-Denne model er blevet erstattet af [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range/).
+Denne model er blevet erstattet af [Tesla Model 3 Long Range](/nb-NO/models/tesla/model_3/model_3_long_range/).
 
 </div>
 

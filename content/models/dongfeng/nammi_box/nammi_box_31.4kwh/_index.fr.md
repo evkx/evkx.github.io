@@ -281,9 +281,9 @@ Les prix peuvent varier en fonction des conditions locales, des incitations et d
 
 Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Dongfeng Nammi Box 31.4kWh qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
 
-- [Dacia Spring 65HP](/models/dacia/spring/spring_65hp/)
-- [Citroën ë-C3](/models/citroën/ë-c3/ë-c3/)
-- [BYD Seagull 38kWh](/models/byd/seagull/seagull_38kwh/)
+- [Dacia Spring 65HP](/nb-NO/models/dacia/spring/spring_65hp/)
+- [Citroën ë-C3](/nb-NO/models/citroën/ë-c3/ë-c3/)
+- [BYD Seagull 38kWh](/nb-NO/models/byd/seagull/seagull_38kwh/)
 
 <a href="https://db.evkx.net/evcompare?evs=e77ee9%2c36e7a8%2c90b31f%2cc21f41" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 

@@ -363,10 +363,10 @@ Priserna kan variera beroende på lokala förhållanden, incitament och kampanje
 
 På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternativ till Kia EV9 GT som är värda att överväga baserat på funktioner, specifikationer och prissättning. Även om dessa modeller kanske inte är exakta matchningar, kan en jämförelse hjälpa dig att fatta ett mer välgrundat köpbeslut:
 
-- [Volvo EX90 Twin Motor](/models/volvo/ex90/ex90_twin_motor/)
-- [Hyundai IONIQ 9 AWD Performance](/models/hyundai/ioniq_9/ioniq_9_awd_performance/)
-- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
-- [Rivian R1S Performance Dual-Motor AWD MP](/models/rivian/r1/r1s_performance_dual-motor_awd_mp/)
+- [Volvo EX90 Twin Motor](/nb-NO/models/volvo/ex90/ex90_twin_motor/)
+- [Hyundai IONIQ 9 AWD Performance](/nb-NO/models/hyundai/ioniq_9/ioniq_9_awd_performance/)
+- [Mercedes EQS 580 4MATIC SUV](/nb-NO/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Rivian R1S Performance Dual-Motor AWD MP](/nb-NO/models/rivian/r1/r1s_performance_dual-motor_awd_mp/)
 
 <a href="https://db.evkx.net/evcompare?evs=2036c2%2ccc6d21%2c3b7e97%2cb8df50%2caba51d" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 

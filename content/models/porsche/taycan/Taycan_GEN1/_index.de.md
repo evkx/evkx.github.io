@@ -26,7 +26,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 <div class="alert alert-secondary" role="alert">
 
-Dieses Modell wurde durch [Porsche Taycan](/models/porsche/taycan/taycan/) ersetzt.
+Dieses Modell wurde durch [Porsche Taycan](/nb-NO/models/porsche/taycan/taycan/) ersetzt.
 
 </div>
 

@@ -322,11 +322,11 @@ Pricing may vary depending on local conditions, incentives, and promotions. Belo
 
 In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Chevrolet Silverado EV SRT that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
 
-- [Tesla Cybertruck AWD](/models/tesla/cybertruck/cybertruck_awd/)
-- [Tesla Cybertruck Cyberbeast](/models/tesla/cybertruck/cybertruck_cyberbeast/)
-- [Ford F150 Lightning Extended Range](/models/ford/f150_lightning/f150_lightning_extended_range/)
-- [Chevrolet Silverado EV SRT](/models/chevrolet/silverado_ev/silverado_ev_srt/)
-- [GMC Hummer EV Edition 1 Pickup](/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
+- [Tesla Cybertruck AWD](/nb-NO/models/tesla/cybertruck/cybertruck_awd/)
+- [Tesla Cybertruck Cyberbeast](/nb-NO/models/tesla/cybertruck/cybertruck_cyberbeast/)
+- [Ford F150 Lightning Extended Range](/nb-NO/models/ford/f150_lightning/f150_lightning_extended_range/)
+- [Chevrolet Silverado EV SRT](/nb-NO/models/chevrolet/silverado_ev/silverado_ev_srt/)
+- [GMC Hummer EV Edition 1 Pickup](/nb-NO/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
 
 <a href="https://db.evkx.net/evcompare?evs=6aa33e%2c200659%2c7d7ccc%2c4cc60f%2c6aa33e%2c67ff00" target="_blank">Explore a detailed comparison of these models.</a>
 

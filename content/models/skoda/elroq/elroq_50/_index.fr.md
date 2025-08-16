@@ -291,11 +291,11 @@ Les prix peuvent varier en fonction des conditions locales, des incitations et d
 
 Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au SKODA Elroq 50 qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
 
-- [Volvo EX30 Single Motor](/models/volvo/ex30/ex30_single_motor/)
-- [Kia EV3 Long Range](/models/kia/ev3/ev3_long_range/)
-- [Smart #1](/models/smart/hash1/hash1/)
-- [Renault Scenic E-Tech electric](/models/renault/scenic/scenic_e-tech_electric/)
-- [Ford Explorer Standard Range RWD](/models/ford/explorer/explorer_standard_range_rwd/)
+- [Volvo EX30 Single Motor](/nb-NO/models/volvo/ex30/ex30_single_motor/)
+- [Kia EV3 Long Range](/nb-NO/models/kia/ev3/ev3_long_range/)
+- [Smart #1](/nb-NO/models/smart/hash1/hash1/)
+- [Renault Scenic E-Tech electric](/nb-NO/models/renault/scenic/scenic_e-tech_electric/)
+- [Ford Explorer Standard Range RWD](/nb-NO/models/ford/explorer/explorer_standard_range_rwd/)
 
 <a href="https://db.evkx.net/evcompare?evs=c02442%2c2cac11%2cc7765f%2c76d819%2c914082%2caec4a1" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 

@@ -317,8 +317,8 @@ Le BMW i5 M60 xDrive Touring a eu sa première mondiale le 07.02.2024, avec des 
 
 Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au BMW i5 M60 xDrive Touring qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
 
-- [Audi S6 Avant e-tron](/models/audi/a6_e-tron/s6_avant_e-tron/)
-- [Porsche Taycan 4S Sport Turismo](/models/porsche/taycan/taycan_4s_sport_turismo/)
+- [Audi S6 Avant e-tron](/nb-NO/models/audi/a6_e-tron/s6_avant_e-tron/)
+- [Porsche Taycan 4S Sport Turismo](/nb-NO/models/porsche/taycan/taycan_4s_sport_turismo/)
 
 <a href="https://db.evkx.net/evcompare?evs=e5cb54%2c95cba1%2cb83289" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 

@@ -396,9 +396,9 @@ Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er
 
 I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til Kia EV9 Long Range RWD som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Peugot E-5008](/models/peugot/5008/e-5008/)
-- [Mercedes EQS 450+ SUV](/models/mercedes/eqs_suv/eqs_450plus_suv/)
-- [BYD Tang 4x4 Long Range](/models/byd/tang/tang_4x4_long_range/)
+- [Peugot E-5008](/nb-NO/models/peugot/5008/e-5008/)
+- [Mercedes EQS 450+ SUV](/nb-NO/models/mercedes/eqs_suv/eqs_450plus_suv/)
+- [BYD Tang 4x4 Long Range](/nb-NO/models/byd/tang/tang_4x4_long_range/)
 
 <a href="https://db.evkx.net/evcompare?evs=7380a8%2cf5ff6e%2cec581c%2cbecb7f" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 

@@ -26,7 +26,7 @@ Nous avons organisé cet article en sections spécifiques pour une navigation pl
 
 <div class="alert alert-secondary" role="alert">
 
-Ce modèle a été remplacé par [Porsche Taycan Turbo Cross Turismo](/models/porsche/taycan/taycan_turbo_cross_turismo/).
+Ce modèle a été remplacé par [Porsche Taycan Turbo Cross Turismo](/nb-NO/models/porsche/taycan/taycan_turbo_cross_turismo/).
 
 </div>
 

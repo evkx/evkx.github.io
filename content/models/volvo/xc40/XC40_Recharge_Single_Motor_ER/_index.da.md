@@ -26,7 +26,7 @@ Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. 
 
 <div class="alert alert-secondary" role="alert">
 
-Denne model er blevet erstattet af [Volvo EX40 Single Motor ER](/models/volvo/ex40/ex40_single_motor_er/).
+Denne model er blevet erstattet af [Volvo EX40 Single Motor ER](/nb-NO/models/volvo/ex40/ex40_single_motor_er/).
 
 </div>
 

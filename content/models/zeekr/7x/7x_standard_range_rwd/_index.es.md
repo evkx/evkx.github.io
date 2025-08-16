@@ -323,9 +323,9 @@ Los precios pueden variar según las condiciones locales, incentivos y promocion
 
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varias alternativas al Zeekr 7X Standard Range RWD que vale la pena considerar en función de las características, especificaciones y precios. Aunque estos modelos pueden no ser coincidencias exactas, compararlos podría ayudarlo a tomar una decisión de compra más informada:
 
-- [Porsche Macan Turbo](/models/porsche/macan/macan_turbo/)
-- [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron/)
-- [Audi SQ6 e-tron](/models/audi/q6_e-tron/sq6_e-tron/)
+- [Porsche Macan Turbo](/nb-NO/models/porsche/macan/macan_turbo/)
+- [Audi SQ8 Sportback e-tron](/nb-NO/models/audi/q8_e-tron/sq8_sportback_e-tron/)
+- [Audi SQ6 e-tron](/nb-NO/models/audi/q6_e-tron/sq6_e-tron/)
 
 <a href="https://db.evkx.net/evcompare?evs=221389%2c4d777d%2c03d3c7%2c899448" target="_blank">Explore una comparación detallada de estos modelos.</a>
 

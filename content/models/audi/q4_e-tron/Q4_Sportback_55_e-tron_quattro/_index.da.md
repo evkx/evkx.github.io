@@ -374,10 +374,10 @@ Audi Q4 Sportback 55 e-tron quattro havde sin verdenspremiere den 21.09.2023, og
 
 På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til Audi Q4 Sportback 55 e-tron quattro, som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
 
-- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
-- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
-- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
-- [SKODA ENYAQ COUPE 85x](/models/skoda/enyaq_iv/enyaq_coupe_85x/)
+- [Tesla Model Y Long Range](/nb-NO/models/tesla/model_y/model_y_long_range/)
+- [Kia EV6 Long Range AWD](/nb-NO/models/kia/ev6/ev6_long_range_awd/)
+- [Volkswagen ID.5 GTX 4MOTION](/nb-NO/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [SKODA ENYAQ COUPE 85x](/nb-NO/models/skoda/enyaq_iv/enyaq_coupe_85x/)
 
 <a href="https://db.evkx.net/evcompare?evs=f8d246%2cad3cd5%2c546c35%2c4899e9%2ce8f4a8" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 

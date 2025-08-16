@@ -329,14 +329,14 @@ Priserna kan variera beroende på lokala förhållanden, incitament och kampanje
 
 På den snabbt växande elbilsmarknaden har EVKX.net identifierat flera alternativ till Tesla Model Y Long Range RWD som är värda att överväga baserat på funktioner, specifikationer och prissättning. Även om dessa modeller kanske inte är exakta matchningar, kan en jämförelse hjälpa dig att fatta ett mer välgrundat köpbeslut:
 
-- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
-- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
-- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
-- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
-- [Audi Q4 55 e-tron quattro](/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
-- [Audi Q4 Sportback 55 e-tron quattro](/models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/)
-- [Skoda ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/)
-- [Skoda ENYAQ 85x](/models/skoda/enyaq_iv/enyaq_85x/)
+- [Volkswagen ID.4 GTX 4MOTION](/nb-NO/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Volkswagen ID.5 GTX 4MOTION](/nb-NO/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [Ford Mustang Mach-E Long Range AWD](/nb-NO/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
+- [Kia EV6 Long Range AWD](/nb-NO/models/kia/ev6/ev6_long_range_awd/)
+- [Audi Q4 55 e-tron quattro](/nb-NO/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
+- [Audi Q4 Sportback 55 e-tron quattro](/nb-NO/models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/)
+- [Skoda ENYAQ COUPÉ RS iV](/nb-NO/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/)
+- [Skoda ENYAQ 85x](/nb-NO/models/skoda/enyaq_iv/enyaq_85x/)
 
 <a href="https://db.evkx.net/evcompare?evs=98b6e9%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2cf8d246%2cfc3b15%2cfd9e1f" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 

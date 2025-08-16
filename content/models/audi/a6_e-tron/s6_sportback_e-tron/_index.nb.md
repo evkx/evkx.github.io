@@ -363,9 +363,9 @@ Denne modellen hadde sin verdenspremiere 31.07.2024, og leveringene forventes å
 
 I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til Audi S6 Sportback e-tron som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Tesla Model S](/models/tesla/model_s/model_s/)
-- [Mercedes EQE 43 4MATIC](/models/mercedes/eqe/eqe_43_4matic/)
-- [NIO ET7](/models/nio/et7/et7/)
+- [Tesla Model S](/nb-NO/models/tesla/model_s/model_s/)
+- [Mercedes EQE 43 4MATIC](/nb-NO/models/mercedes/eqe/eqe_43_4matic/)
+- [NIO ET7](/nb-NO/models/nio/et7/et7/)
 
 <a href="https://db.evkx.net/evcompare?evs=e097ed%2c3ff79a%2ce18306%2cf86035" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 

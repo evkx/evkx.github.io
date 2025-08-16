@@ -26,7 +26,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 <div class="alert alert-secondary" role="alert">
 
-Dieses Modell wurde durch [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_twin_motor/) ersetzt.
+Dieses Modell wurde durch [Volvo EC40 Twin Motor](/nb-NO/models/volvo/ec40/ec40_twin_motor/) ersetzt.
 
 </div>
 

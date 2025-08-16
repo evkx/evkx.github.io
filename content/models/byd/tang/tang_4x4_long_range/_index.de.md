@@ -326,12 +326,12 @@ Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren.
 
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum BYD Tang 4x4 Long Range identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
-- [Nio EL6](/models/nio/el6/el6/)
-- [Nio EL7](/models/nio/el7/el7/)
-- [Nio EL8](/models/nio/el8/el8/)
-- [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/)
-- [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
-- [VOYAH FREE](/models/voyah/free/free/)
+- [Nio EL6](/nb-NO/models/nio/el6/el6/)
+- [Nio EL7](/nb-NO/models/nio/el7/el7/)
+- [Nio EL8](/nb-NO/models/nio/el8/el8/)
+- [Audi Q8 55 e-tron](/nb-NO/models/audi/q8_e-tron/q8_55_e-tron/)
+- [BMW iX xDrive50](/nb-NO/models/bmw/ix/ix_xdrive50/)
+- [VOYAH FREE](/nb-NO/models/voyah/free/free/)
 
 <a href="https://db.evkx.net/evcompare?evs=becb7f%2cd5c67f%2ce48512%2c44c9b9%2c1a8daa%2cb42577%2c7c124f" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 

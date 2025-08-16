@@ -311,7 +311,7 @@ Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren.
 
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum GMC Hummer EV SUV 2x identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
-- [Rivian R1S Quad-Motor AWD MP](/models/rivian/r1/r1s_quad-motor_awd_mp/)
+- [Rivian R1S Quad-Motor AWD MP](/nb-NO/models/rivian/r1/r1s_quad-motor_awd_mp/)
 
 <a href="https://db.evkx.net/evcompare?evs=56cb96%2ceaa509" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 

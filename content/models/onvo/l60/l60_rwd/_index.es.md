@@ -310,8 +310,8 @@ Los precios pueden variar según las condiciones locales, incentivos y promocion
 
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varias alternativas al Onvo L60 RWD que vale la pena considerar en función de las características, especificaciones y precios. Aunque estos modelos pueden no ser coincidencias exactas, compararlos podría ayudarlo a tomar una decisión de compra más informada:
 
-- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
-- [XPENG G6 AWD Performance](/models/xpeng/g6/g6_awd_performance/)
+- [Tesla Model Y Long Range](/nb-NO/models/tesla/model_y/model_y_long_range/)
+- [XPENG G6 AWD Performance](/nb-NO/models/xpeng/g6/g6_awd_performance/)
 
 <a href="https://db.evkx.net/evcompare?evs=bf646f%2cad3cd5%2c7a37c9" target="_blank">Explore una comparación detallada de estos modelos.</a>
 

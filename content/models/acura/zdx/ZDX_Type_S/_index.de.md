@@ -348,11 +348,11 @@ Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren.
 
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Acura ZDX Type S identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
-- [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron/)
-- [Mercedes EQE 500 4MATIC SUV](/models/mercedes/eqe_suv/eqe_500_4matic_suv/)
-- [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
-- [Cadillac LYRIQ AWD](/models/cadillac/lyriq/lyriq_awd/)
-- [Chevrolet Blazer EV SS](/models/chevrolet/blazer_ev/blazer_ev_ss/)
+- [Audi SQ8 e-tron](/nb-NO/models/audi/q8_e-tron/sq8_e-tron/)
+- [Mercedes EQE 500 4MATIC SUV](/nb-NO/models/mercedes/eqe_suv/eqe_500_4matic_suv/)
+- [BMW iX xDrive50](/nb-NO/models/bmw/ix/ix_xdrive50/)
+- [Cadillac LYRIQ AWD](/nb-NO/models/cadillac/lyriq/lyriq_awd/)
+- [Chevrolet Blazer EV SS](/nb-NO/models/chevrolet/blazer_ev/blazer_ev_ss/)
 
 <a href="https://db.evkx.net/evcompare?evs=746d3b%2c12fe37%2c97f254%2cb42577%2c4c67ea%2c7d633b" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 

@@ -346,9 +346,9 @@ Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er
 
 I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til Honda Prologue FWD som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Tesla Model Y Long Range RWD](/models/tesla/model_y/model_y_long_range_rwd/)
-- [Kia EV6 Long Range 2WD](/models/kia/ev6/ev6_long_range_2wd/)
-- [Hyundai Ioniq 5 Long Range 2WD](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/)
+- [Tesla Model Y Long Range RWD](/nb-NO/models/tesla/model_y/model_y_long_range_rwd/)
+- [Kia EV6 Long Range 2WD](/nb-NO/models/kia/ev6/ev6_long_range_2wd/)
+- [Hyundai Ioniq 5 Long Range 2WD](/nb-NO/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/)
 
 <a href="https://db.evkx.net/evcompare?evs=f4d106%2c98b6e9%2cd99ad1%2c7be569" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 

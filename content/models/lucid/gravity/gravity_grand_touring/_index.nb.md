@@ -355,9 +355,9 @@ Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er
 
 I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til Lucid Gravity Grand Touring som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
-- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
-- [Rivian R1S Performance Dual-Motor AWD MP](/models/rivian/r1/r1s_performance_dual-motor_awd_mp/)
+- [Kia EV9 GT-Line AWD](/nb-NO/models/kia/ev9/ev9_gt-line_awd/)
+- [Mercedes EQS 580 4MATIC SUV](/nb-NO/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Rivian R1S Performance Dual-Motor AWD MP](/nb-NO/models/rivian/r1/r1s_performance_dual-motor_awd_mp/)
 
 <a href="https://db.evkx.net/evcompare?evs=a31c10%2c45dd09%2cb8df50%2caba51d" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-03d3f811
+  translation: Volkswagen ID. Buzz Pro S 4MOTION LWB er en elektrisk flerbruksbil med en EPA rekkevidde på opptil 377 km (234 miles). EVKX.net har alle detaljene.
+
 - id: frontpage-description-4ce4e131
   translation: Volkswagen ID.5 Pure er en elektrisk SUV-kupé med en WLTP rekkevidde på opptil 370 km (230 miles). EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-2428b555
   translation: Cadillac VISTIQ AWD er en elektrisk SUV med en EPA rekkevidde på opptil 525 km (326 miles). EVKX.net har alle detaljene.
-
-- id: frontpage-description-53e21be8
-  translation: Kia EV9 GT er en elektrisk SUV med en WLTP rekkevidde på opptil 505 km (314 miles). EVKX.net har alle detaljene.
 

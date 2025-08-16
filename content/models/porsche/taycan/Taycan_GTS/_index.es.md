@@ -418,10 +418,10 @@ Los precios pueden variar según las condiciones locales, incentivos y promocion
 
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varias alternativas al Porsche Taycan GTS que vale la pena considerar en función de las características, especificaciones y precios. Aunque estos modelos pueden no ser coincidencias exactas, compararlos podría ayudarlo a tomar una decisión de compra más informada:
 
-- [Audi RS e-tron GT](/models/audi/e-tron_gt/rs_e-tron_gt/)
-- [Lucid Air Grand Touring](/models/lucid/air/air_grand_touring/)
-- [Mercedes EQS 53 4MATIC+](/models/mercedes/eqs/eqs_53_4maticplus/)
-- [BMW i4 M50](/models/bmw/i4/i4_m50/)
+- [Audi RS e-tron GT](/nb-NO/models/audi/e-tron_gt/rs_e-tron_gt/)
+- [Lucid Air Grand Touring](/nb-NO/models/lucid/air/air_grand_touring/)
+- [Mercedes EQS 53 4MATIC+](/nb-NO/models/mercedes/eqs/eqs_53_4maticplus/)
+- [BMW i4 M50](/nb-NO/models/bmw/i4/i4_m50/)
 
 <a href="https://db.evkx.net/evcompare?evs=872d5e%2cc66322%2ced06c7%2c8f4acc%2cdec6c1" target="_blank">Explore una comparación detallada de estos modelos.</a>
 

@@ -314,12 +314,12 @@ Los precios pueden variar según las condiciones locales, incentivos y promocion
 
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varias alternativas al Chevrolet Blazer EV RS RWD que vale la pena considerar en función de las características, especificaciones y precios. Aunque estos modelos pueden no ser coincidencias exactas, compararlos podría ayudarlo a tomar una decisión de compra más informada:
 
-- [Tesla Model Y Long Range RWD](/models/tesla/model_y/model_y_long_range_rwd/)
-- [Volkswagen ID.4 Pro](/models/volkswagen/id.4/id.4_pro/)
-- [Cadillac LYRIQ RWD](/models/cadillac/lyriq/lyriq_rwd/)
-- [Nissan Ariya 87kWh](/models/nissan/ariya/ariya_87kwh/)
-- [Hyundai Ioniq 5 Long Range 2WD](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/)
-- [Kia EV6 Long Range 2WD](/models/kia/ev6/ev6_long_range_2wd/)
+- [Tesla Model Y Long Range RWD](/nb-NO/models/tesla/model_y/model_y_long_range_rwd/)
+- [Volkswagen ID.4 Pro](/nb-NO/models/volkswagen/id.4/id.4_pro/)
+- [Cadillac LYRIQ RWD](/nb-NO/models/cadillac/lyriq/lyriq_rwd/)
+- [Nissan Ariya 87kWh](/nb-NO/models/nissan/ariya/ariya_87kwh/)
+- [Hyundai Ioniq 5 Long Range 2WD](/nb-NO/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/)
+- [Kia EV6 Long Range 2WD](/nb-NO/models/kia/ev6/ev6_long_range_2wd/)
 
 <a href="https://db.evkx.net/evcompare?evs=10107a%2c98b6e9%2c7bb46d%2c597392%2c9b2200%2c7be569%2c67fe43" target="_blank">Explore una comparación detallada de estos modelos.</a>
 

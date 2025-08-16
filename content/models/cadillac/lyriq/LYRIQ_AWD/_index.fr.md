@@ -334,9 +334,9 @@ Les prix peuvent varier en fonction des conditions locales, des incitations et d
 
 Sur le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Cadillac LYRIQ AWD qui méritent d'être considérées en fonction des caractéristiques, des spécifications et des prix. Bien que ces modèles ne soient pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée :
 
-- [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/)
-- [Mercedes EQE 350 4MATIC SUV](/models/mercedes/eqe_suv/eqe_350_4matic_suv/)
-- [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
+- [Audi Q8 55 e-tron](/nb-NO/models/audi/q8_e-tron/q8_55_e-tron/)
+- [Mercedes EQE 350 4MATIC SUV](/nb-NO/models/mercedes/eqe_suv/eqe_350_4matic_suv/)
+- [BMW iX xDrive50](/nb-NO/models/bmw/ix/ix_xdrive50/)
 
 <a href="https://db.evkx.net/evcompare?evs=4c67ea%2c1a8daa%2ce0836b%2cb42577" target="_blank">Explorez une comparaison détaillée de ces modèles.</a>
 

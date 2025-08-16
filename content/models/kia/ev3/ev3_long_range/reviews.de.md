@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>KIA EV3: Spec it to Wreck it? Price vs. Value | Full review</h3>
+<p>It's Only Electric: 01.01.2025</p>
+
+{{< youtube fKZKgiiH6Hk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Kia EV3 driving REVIEW - better or worse than Skoda Elroq and VW ID3?</h3>
 <p>Autogefühl: 28.12.2024</p>
 

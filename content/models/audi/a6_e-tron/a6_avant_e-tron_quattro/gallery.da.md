@@ -72,6 +72,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/audi/a6_e-tron/a6_avant_e-tron_quattro/exterior_8.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/audi/a6_e-tron/a6_avant_e-tron_quattro/exterior_8.jpg"
+data-pswp-width="3000"
+data-pswp-height="1996" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/audi/a6_e-tron/a6_avant_e-tron_quattro/exterior_8_xst.jpg" alt="Audi A6 Avant e-tron quattro" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/audi/a6_e-tron/a6_avant_e-tron_quattro/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/a6_e-tron/a6_avant_e-tron_quattro/frontseats_1.jpg"
 data-pswp-width="3000"

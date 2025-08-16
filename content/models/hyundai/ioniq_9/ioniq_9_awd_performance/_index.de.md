@@ -298,10 +298,10 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Hyundai IONIQ 9 AWD Performance identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
-- [Lucid Gravity Grand Touring](/models/lucid/gravity/gravity_grand_touring/)
-- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
-- [Rivian R1S Performance Dual-Motor AWD LP](/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
-- [Volvo EX90 Twin Motor Performance](/models/volvo/ex90/ex90_twin_motor_performance/)
+- [Lucid Gravity Grand Touring](/nb-NO/models/lucid/gravity/gravity_grand_touring/)
+- [Kia EV9 GT-Line AWD](/nb-NO/models/kia/ev9/ev9_gt-line_awd/)
+- [Rivian R1S Performance Dual-Motor AWD LP](/nb-NO/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
+- [Volvo EX90 Twin Motor Performance](/nb-NO/models/volvo/ex90/ex90_twin_motor_performance/)
 
 <a href="https://db.evkx.net/evcompare?evs=3b7e97%2ca31c10%2c45dd09%2c53cc21%2c94534b" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 

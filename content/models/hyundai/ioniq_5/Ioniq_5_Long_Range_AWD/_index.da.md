@@ -302,9 +302,9 @@ Anhængertræk kan tilføjes til køretøjet. Den maksimalt tilladte vægt for e
 
 På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til Hyundai Ioniq 5 Long Range AWD, som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
 
-- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
-- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
-- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [Ford Mustang Mach-E Long Range AWD](/nb-NO/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
+- [Volkswagen ID.4 GTX 4MOTION](/nb-NO/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Tesla Model Y Long Range](/nb-NO/models/tesla/model_y/model_y_long_range/)
 
 <a href="https://db.evkx.net/evcompare?evs=3129cf%2cb18fdb%2c0cb6ee%2cad3cd5" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 

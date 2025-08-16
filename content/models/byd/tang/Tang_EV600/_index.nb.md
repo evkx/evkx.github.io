@@ -317,7 +317,7 @@ Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er
 
 I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til BYD Tang EV600 som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Nio ES8](/models/nio/es8/es8/)
+- [Nio ES8](/nb-NO/models/nio/es8/es8/)
 
 <a href="https://db.evkx.net/evcompare?evs=821dca%2ccc43c9" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 

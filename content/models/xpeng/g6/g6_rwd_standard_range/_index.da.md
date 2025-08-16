@@ -311,7 +311,7 @@ XPENG G6 RWD Standard Range havde sin verdenspremiere den 29.06.2023, og leverin
 
 På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til XPENG G6 RWD Standard Range, som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
 
-- [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
+- [Tesla Model Y Standard Range](/nb-NO/models/tesla/model_y/model_y_standard_range/)
 
 <a href="https://db.evkx.net/evcompare?evs=d8a305%2cfcf585" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 

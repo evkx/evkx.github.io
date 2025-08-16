@@ -324,9 +324,9 @@ Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren.
 
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Lexus RZ 300e identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
-- [Toyota bZ4X FWD](/models/toyota/bz4x/bz4x_fwd/)
-- [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
-- [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron/)
+- [Toyota bZ4X FWD](/nb-NO/models/toyota/bz4x/bz4x_fwd/)
+- [Tesla Model Y Standard Range](/nb-NO/models/tesla/model_y/model_y_standard_range/)
+- [Audi Q4 45 e-tron](/nb-NO/models/audi/q4_e-tron/q4_45_e-tron/)
 
 <a href="https://db.evkx.net/evcompare?evs=1a39ee%2c7a651b%2cfcf585%2c224873" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 

@@ -26,7 +26,7 @@ Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Kl
 
 <div class="alert alert-secondary" role="alert">
 
-Denna modell har ersatts av [SKODA ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/).
+Denna modell har ersatts av [SKODA ENYAQ COUPÉ RS iV](/nb-NO/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/).
 
 </div>
 

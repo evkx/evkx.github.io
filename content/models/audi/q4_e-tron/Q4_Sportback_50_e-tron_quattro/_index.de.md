@@ -26,7 +26,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 <div class="alert alert-secondary" role="alert">
 
-Dieses Modell wurde durch [Audi Q4 Sportback 45 e-tron](/models/audi/q4_e-tron/q4_sportback_45_e-tron/) ersetzt.
+Dieses Modell wurde durch [Audi Q4 Sportback 45 e-tron](/nb-NO/models/audi/q4_e-tron/q4_sportback_45_e-tron/) ersetzt.
 
 </div>
 

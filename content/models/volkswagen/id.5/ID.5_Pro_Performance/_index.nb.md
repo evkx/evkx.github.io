@@ -26,7 +26,7 @@ Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering
 
 <div class="alert alert-secondary" role="alert">
 
-Denne modellen er erstattet av [Volkswagen ID.5 Pro](/models/volkswagen/id.5/id.5_pro/).
+Denne modellen er erstattet av [Volkswagen ID.5 Pro](/nb-NO/models/volkswagen/id.5/id.5_pro/).
 
 </div>
 

@@ -375,8 +375,8 @@ Los precios pueden variar según las condiciones locales, incentivos y promocion
 
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varias alternativas al Audi A6 Avant e-tron quattro que vale la pena considerar en función de las características, especificaciones y precios. Aunque estos modelos pueden no ser coincidencias exactas, compararlos podría ayudarlo a tomar una decisión de compra más informada:
 
-- [BMW i5 xDrive40](/models/bmw/i5/i5_xdrive40/)
-- [Volkswagen ID.7 GTX Tourer](/models/volkswagen/id.7/id.7_gtx_tourer/)
+- [BMW i5 xDrive40](/nb-NO/models/bmw/i5/i5_xdrive40/)
+- [Volkswagen ID.7 GTX Tourer](/nb-NO/models/volkswagen/id.7/id.7_gtx_tourer/)
 
 <a href="https://db.evkx.net/evcompare?evs=885ba5%2c362fc0%2c3edb7f" target="_blank">Explore una comparación detallada de estos modelos.</a>
 

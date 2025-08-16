@@ -298,10 +298,10 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Hyundai IONIQ 9 AWD Performance that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
 
-- [Lucid Gravity Grand Touring](/models/lucid/gravity/gravity_grand_touring/)
-- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
-- [Rivian R1S Performance Dual-Motor AWD LP](/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
-- [Volvo EX90 Twin Motor Performance](/models/volvo/ex90/ex90_twin_motor_performance/)
+- [Lucid Gravity Grand Touring](/nb-NO/models/lucid/gravity/gravity_grand_touring/)
+- [Kia EV9 GT-Line AWD](/nb-NO/models/kia/ev9/ev9_gt-line_awd/)
+- [Rivian R1S Performance Dual-Motor AWD LP](/nb-NO/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
+- [Volvo EX90 Twin Motor Performance](/nb-NO/models/volvo/ex90/ex90_twin_motor_performance/)
 
 <a href="https://db.evkx.net/evcompare?evs=3b7e97%2ca31c10%2c45dd09%2c53cc21%2c94534b" target="_blank">Explore a detailed comparison of these models.</a>
 

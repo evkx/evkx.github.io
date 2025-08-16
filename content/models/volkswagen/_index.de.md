@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID. Buzz ist ein MPV, das in 4 Varianten erhältlich ist.
+Volkswagen ID. Buzz ist ein MPV, das in 5 Varianten erhältlich ist.
 </p>
 	<a href="id._buzz/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
 		</div>

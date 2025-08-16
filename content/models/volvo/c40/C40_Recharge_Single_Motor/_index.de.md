@@ -26,7 +26,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 <div class="alert alert-secondary" role="alert">
 
-Dieses Modell wurde durch [Volvo EC40 Single Motor](/models/volvo/ec40/ec40_single_motor/) ersetzt.
+Dieses Modell wurde durch [Volvo EC40 Single Motor](/nb-NO/models/volvo/ec40/ec40_single_motor/) ersetzt.
 
 </div>
 

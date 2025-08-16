@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 <div class="alert alert-secondary" role="alert">
 
-This model has been replaced by [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/).
+This model has been replaced by [Audi Q8 55 e-tron](/nb-NO/models/audi/q8_e-tron/q8_55_e-tron/).
 
 </div>
 

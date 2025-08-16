@@ -26,7 +26,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 <div class="alert alert-secondary" role="alert">
 
-Dieses Modell wurde durch [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range/) ersetzt.
+Dieses Modell wurde durch [Tesla Model 3 Long Range](/nb-NO/models/tesla/model_3/model_3_long_range/) ersetzt.
 
 </div>
 

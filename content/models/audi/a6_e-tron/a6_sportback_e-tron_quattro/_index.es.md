@@ -393,9 +393,9 @@ Los precios pueden variar según las condiciones locales, incentivos y promocion
 
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varias alternativas al Audi A6 Sportback e-tron quattro que vale la pena considerar en función de las características, especificaciones y precios. Aunque estos modelos pueden no ser coincidencias exactas, compararlos podría ayudarlo a tomar una decisión de compra más informada:
 
-- [Tesla Model S](/models/tesla/model_s/model_s/)
-- [Mercedes EQE 43 4MATIC](/models/mercedes/eqe/eqe_43_4matic/)
-- [NIO ET7](/models/nio/et7/et7/)
+- [Tesla Model S](/nb-NO/models/tesla/model_s/model_s/)
+- [Mercedes EQE 43 4MATIC](/nb-NO/models/mercedes/eqe/eqe_43_4matic/)
+- [NIO ET7](/nb-NO/models/nio/et7/et7/)
 
 <a href="https://db.evkx.net/evcompare?evs=ff342d%2c3ff79a%2ce18306%2cf86035" target="_blank">Explore una comparación detallada de estos modelos.</a>
 

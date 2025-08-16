@@ -302,9 +302,9 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Hyundai Ioniq 5 Long Range AWD identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
-- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
-- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
-- [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [Ford Mustang Mach-E Long Range AWD](/nb-NO/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
+- [Volkswagen ID.4 GTX 4MOTION](/nb-NO/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Tesla Model Y Long Range](/nb-NO/models/tesla/model_y/model_y_long_range/)
 
 <a href="https://db.evkx.net/evcompare?evs=3129cf%2cb18fdb%2c0cb6ee%2cad3cd5" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 

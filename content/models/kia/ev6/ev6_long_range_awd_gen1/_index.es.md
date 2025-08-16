@@ -26,7 +26,7 @@ Hemos organizado este artículo en secciones específicas para una navegación m
 
 <div class="alert alert-secondary" role="alert">
 
-Este modelo ha sido reemplazado por [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/).
+Este modelo ha sido reemplazado por [Kia EV6 Long Range AWD](/nb-NO/models/kia/ev6/ev6_long_range_awd/).
 
 </div>
 

@@ -26,7 +26,7 @@ Hemos organizado este artículo en secciones específicas para una navegación m
 
 <div class="alert alert-secondary" role="alert">
 
-Este modelo ha sido reemplazado por [Audi Q8 Sportback 50 e-tron](/models/audi/q8_e-tron/q8_sportback_50_e-tron/).
+Este modelo ha sido reemplazado por [Audi Q8 Sportback 50 e-tron](/nb-NO/models/audi/q8_e-tron/q8_sportback_50_e-tron/).
 
 </div>
 

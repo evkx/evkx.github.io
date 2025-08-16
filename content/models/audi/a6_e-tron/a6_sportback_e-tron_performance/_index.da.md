@@ -370,9 +370,9 @@ Denne model havde sin verdenspremiere den 31.07.2024, og leveringerne forventes 
 
 På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til Audi A6 Sportback e-tron performance, som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
 
-- [Volkswagen ID.7 Pro S](/models/volkswagen/id.7/id.7_pro_s/)
-- [BMW i5 eDrive40](/models/bmw/i5/i5_edrive40/)
-- [Mercedes EQE 350+](/models/mercedes/eqe/eqe_350plus/)
+- [Volkswagen ID.7 Pro S](/nb-NO/models/volkswagen/id.7/id.7_pro_s/)
+- [BMW i5 eDrive40](/nb-NO/models/bmw/i5/i5_edrive40/)
+- [Mercedes EQE 350+](/nb-NO/models/mercedes/eqe/eqe_350plus/)
 
 <a href="https://db.evkx.net/evcompare?evs=a84ddc%2c4bf8f9%2c719739%2cc5cdde" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 

@@ -334,9 +334,9 @@ Priser kan variere avhengig av lokale forhold, insentiver og kampanjer. Under er
 
 I det raskt voksende EV-markedet har EVKX.net identifisert flere alternativer til Cadillac LYRIQ AWD som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er helt like, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
-- [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/)
-- [Mercedes EQE 350 4MATIC SUV](/models/mercedes/eqe_suv/eqe_350_4matic_suv/)
-- [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
+- [Audi Q8 55 e-tron](/nb-NO/models/audi/q8_e-tron/q8_55_e-tron/)
+- [Mercedes EQE 350 4MATIC SUV](/nb-NO/models/mercedes/eqe_suv/eqe_350_4matic_suv/)
+- [BMW iX xDrive50](/nb-NO/models/bmw/ix/ix_xdrive50/)
 
 <a href="https://db.evkx.net/evcompare?evs=4c67ea%2c1a8daa%2ce0836b%2cb42577" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 

@@ -72,7 +72,9 @@ Mercedes-EQ G 580 EQ er utstyrt med [støpejernsskivebremser](../../../../techno
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) i denne modellen tilbyr flere moduser for å øke effektiviteten og kjøreopplevelsen. Det mest effektive alternativet er [**Automatisk regenereringsmodus**](../../../../technology/regen/#automatic-regen-adaptive), hvor bilen ruller når det er mulig og bruker regenerativ bremsing for å redusere farten ved behov. <br /><br />**Manuell regenerering** er en annen modus, hvor regenerativ bremsing styres ved å trykke på bremsepedalen. Bremsesystemet blander inn fysiske bremser kun når det er nødvendig. <br /><br/> Et annet alternativ er [**Regenerering på gasspedalen**](../../../../technology/regen/#one-pedal-driving) hvor regenerativ bremsing aktiveres når føreren letter på gasspedalen. Dette systemet lar kjøretøyet bremse ned og gjenvinne energi uten at føreren trenger å trykke på bremsepedalen, en funksjon som ofte kalles **kjøring med én pedal**. Du kan velge mellom to stoppemodi for kjøring med én pedal. **Hold-modus** bringer kjøretøyet til fullstendig stopp ved hjelp av friksjonsbremser, og **Rulle-modus** lar kjøretøyet rulle til det stopper naturlig.
+[Regenerativ bremsing](../../../../technology/regen/) i denne modellen tilbyr flere moduser for å øke effektiviteten og kjøreopplevelsen. Det mest effektive alternativet er [**Automatisk regenereringsmodus**](../../../../technology/regen/#automatic-regen-adaptive), hvor bilen ruller når det er mulig og bruker regenerativ bremsing for å redusere farten ved behov. <br /><br />**Manuell regenerering** er en annen modus, hvor regenerativ bremsing styres ved å trykke på bremsepedalen. Bremsesystemet blander inn fysiske bremser kun når det er nødvendig. <br /><br/> Et annet alternativ er [**Regenerering på gasspedalen**](../../../../technology/regen/#one-pedal-driving) hvor regenerativ bremsing aktiveres når føreren letter på gasspedalen. Dette systemet lar kjøretøyet bremse ned og gjenvinne energi uten at føreren trenger å trykke på bremsepedalen, en funksjon som ofte kalles **kjøring med én pedal**. Dette regnes imidlertid ikke som fullstendig énpedalkjøring siden bilen ved lave hastigheter vil fortsette å rulle til den stopper av seg selv.
+
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten av gasspedalen. Det er tre nivåer å velge mellom, slik at du kan tilpasse kjøreopplevelsen etter eget ønske.
 
 Den maksimale regenerative effekten er 300 kW.
 
@@ -210,7 +212,7 @@ Denne modellen har også et valgfritt gestekontrollsystem som lar deg styre spes
 
 ### Navigasjonssystem
 
-Med en standard innebygd navigasjonssystem har du all hjelpen du trenger for å nå destinasjonen din enkelt.
+infotainment.navigation.minsocdest.minsocdest
 
 ### Telefonspeling
 

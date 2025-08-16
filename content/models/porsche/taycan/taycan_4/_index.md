@@ -469,7 +469,7 @@ Pricing may vary depending on local conditions, incentives, and promotions. Belo
 
 In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Porsche Taycan 4 that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
 
-- [Lucid Air Pure](/models/lucid/air/air_pure/)
+- [Lucid Air Pure](/nb-NO/models/lucid/air/air_pure/)
 
 <a href="https://db.evkx.net/evcompare?evs=40dc9c%2cc21847" target="_blank">Explore a detailed comparison of these models.</a>
 

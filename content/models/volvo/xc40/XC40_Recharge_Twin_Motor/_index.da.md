@@ -26,7 +26,7 @@ Vi har organiseret denne artikel i specifikke sektioner for lettere navigation. 
 
 <div class="alert alert-secondary" role="alert">
 
-Denne model er blevet erstattet af [Volvo EX40 Twin Motor](/models/volvo/ex40/ex40_twin_motor/).
+Denne model er blevet erstattet af [Volvo EX40 Twin Motor](/nb-NO/models/volvo/ex40/ex40_twin_motor/).
 
 </div>
 

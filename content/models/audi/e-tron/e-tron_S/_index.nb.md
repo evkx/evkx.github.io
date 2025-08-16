@@ -26,7 +26,7 @@ Vi har organisert denne artikkelen i spesifikke seksjoner for enklere navigering
 
 <div class="alert alert-secondary" role="alert">
 
-Denne modellen er erstattet av [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron/).
+Denne modellen er erstattet av [Audi SQ8 e-tron](/nb-NO/models/audi/q8_e-tron/sq8_e-tron/).
 
 </div>
 

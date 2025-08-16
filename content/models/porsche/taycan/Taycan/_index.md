@@ -481,10 +481,10 @@ Pricing may vary depending on local conditions, incentives, and promotions. Belo
 
 In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Porsche Taycan that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
 
-- [Lucid Air Pure](/models/lucid/air/air_pure/)
-- [Audi A6 Sportback e-tron performance](/models/audi/a6_e-tron/a6_sportback_e-tron_performance/)
-- [BMW i4 eDrive40](/models/bmw/i4/i4_edrive40/)
-- [Volkswagen ID.7 Pro S](/models/volkswagen/id.7/id.7_pro_s/)
+- [Lucid Air Pure](/nb-NO/models/lucid/air/air_pure/)
+- [Audi A6 Sportback e-tron performance](/nb-NO/models/audi/a6_e-tron/a6_sportback_e-tron_performance/)
+- [BMW i4 eDrive40](/nb-NO/models/bmw/i4/i4_edrive40/)
+- [Volkswagen ID.7 Pro S](/nb-NO/models/volkswagen/id.7/id.7_pro_s/)
 
 <a href="https://db.evkx.net/evcompare?evs=c6e5fb%2cc21847%2ca84ddc%2cbfed6e%2c4bf8f9" target="_blank">Explore a detailed comparison of these models.</a>
 

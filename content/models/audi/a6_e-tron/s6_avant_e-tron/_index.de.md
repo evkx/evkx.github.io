@@ -367,7 +367,7 @@ Dieses Modell feierte seine Weltpremiere am 31.07.2024, mit erwarteten Lieferung
 
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Audi S6 Avant e-tron identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
-- [BMW i5 M60 xDrive Touring](/models/bmw/i5/i5_m60_xdrive_touring/)
+- [BMW i5 M60 xDrive Touring](/nb-NO/models/bmw/i5/i5_m60_xdrive_touring/)
 
 <a href="https://db.evkx.net/evcompare?evs=95cba1%2ce5cb54" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 

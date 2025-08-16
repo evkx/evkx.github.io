@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons des critiques de nos [critiques en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I Drive The Electric Mercedes G-Class For The First Time! Full Tour + On & Off Road Experience</h3>
+<p>Out of Spec Reviews: 01.01.2025</p>
+
+{{< youtube 7ji9HiyBQCY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The G-Wagon Greta Thunberg Would drive! Electric G580</h3>
 <p>Kris Rifa: 24.10.2024</p>
 

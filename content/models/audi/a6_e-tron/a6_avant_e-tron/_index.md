@@ -375,8 +375,8 @@ Pricing may vary depending on local conditions, incentives, and promotions. Belo
 
 In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Audi A6 Avant e-tron that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
 
-- [BMW i5 eDrive40](/models/bmw/i5/i5_edrive40/)
-- [Volkswagen ID.7 Tourer Pro](/models/volkswagen/id.7/id.7_tourer_pro/)
+- [BMW i5 eDrive40](/nb-NO/models/bmw/i5/i5_edrive40/)
+- [Volkswagen ID.7 Tourer Pro](/nb-NO/models/volkswagen/id.7/id.7_tourer_pro/)
 
 <a href="https://db.evkx.net/evcompare?evs=a163ae%2c719739%2c58af93" target="_blank">Explore a detailed comparison of these models.</a>
 

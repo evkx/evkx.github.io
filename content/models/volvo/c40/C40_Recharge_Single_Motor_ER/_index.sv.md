@@ -26,7 +26,7 @@ Vi har organiserat denna artikel i specifika avsnitt för enklare navigering. Kl
 
 <div class="alert alert-secondary" role="alert">
 
-Denna modell har ersatts av [Volvo EC40 Single Motor ER](/models/volvo/ec40/ec40_single_motor_er/).
+Denna modell har ersatts av [Volvo EC40 Single Motor ER](/nb-NO/models/volvo/ec40/ec40_single_motor_er/).
 
 </div>
 

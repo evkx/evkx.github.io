@@ -324,10 +324,10 @@ Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. He
 
 På det hurtigt voksende EV-marked har EVKX.net identificeret flere alternativer til Ford Puma Gen-E, som er værd at overveje baseret på funktioner, specifikationer og priser. Selvom disse modeller måske ikke er helt identiske, kan en sammenligning hjælpe dig med at træffe en mere informeret købsbeslutning:
 
-- [SKODA Elroq 50](/models/skoda/elroq/elroq_50/)
-- [Alfa Romeo Junior](/models/alfa_romeo/junior/junior/)
-- [BYD Atto 3](/models/byd/atto_3/atto_3/)
-- [Lexus UX 300e](/models/lexus/ux/ux_300e/)
+- [SKODA Elroq 50](/nb-NO/models/skoda/elroq/elroq_50/)
+- [Alfa Romeo Junior](/nb-NO/models/alfa_romeo/junior/junior/)
+- [BYD Atto 3](/nb-NO/models/byd/atto_3/atto_3/)
+- [Lexus UX 300e](/nb-NO/models/lexus/ux/ux_300e/)
 
 <a href="https://db.evkx.net/evcompare?evs=833418%2cc02442%2c35592e%2c248300%2c79a088" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 

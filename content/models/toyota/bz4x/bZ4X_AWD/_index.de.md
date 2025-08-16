@@ -334,12 +334,12 @@ Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren.
 
 Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Toyota bZ4X AWD identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
 
-- [Chevrolet Equinox EV AWD](/models/chevrolet/equinox_ev/equinox_ev_awd/)
-- [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
-- [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron/)
-- [Nissan Ariya 87kWh e-4ORCE](/models/nissan/ariya/ariya_87kwh_e-4orce/)
-- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
-- [Ford Mustang Mach-E Standard Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/)
+- [Chevrolet Equinox EV AWD](/nb-NO/models/chevrolet/equinox_ev/equinox_ev_awd/)
+- [Tesla Model Y Standard Range](/nb-NO/models/tesla/model_y/model_y_standard_range/)
+- [Audi Q4 45 e-tron](/nb-NO/models/audi/q4_e-tron/q4_45_e-tron/)
+- [Nissan Ariya 87kWh e-4ORCE](/nb-NO/models/nissan/ariya/ariya_87kwh_e-4orce/)
+- [Volkswagen ID.4 GTX 4MOTION](/nb-NO/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Ford Mustang Mach-E Standard Range AWD](/nb-NO/models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/)
 
 <a href="https://db.evkx.net/evcompare?evs=94c894%2c3ed2cf%2cfcf585%2c224873%2c2297fd%2c0cb6ee%2cba4aad" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
